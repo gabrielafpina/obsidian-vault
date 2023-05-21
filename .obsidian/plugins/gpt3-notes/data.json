@@ -1,0 +1,40 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "gpt-3.5-turbo",
+  "tokens": 300,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "Faça um resumo traduzido do conteúdo acima e traga insights principais ",
+      "processedPrompt": "Faça um resumo traduzido do conteúdo acima e traga insights principais ",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "Write a resume of the content above, highlighing the most important things i need to know in order to create an structured and organized second brain",
+      "processedPrompt": "Write a resume of the content above, highlighing the most important things i need to know in order to create an structured and organized second brain",
+      "temperature": 0.5,
+      "tokens": 300
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}
