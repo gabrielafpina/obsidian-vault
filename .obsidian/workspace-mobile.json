@@ -11,8 +11,12 @@
             "id": "45f8b235a7f50473",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Notes/18-05-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "1. Daily Notes/18-05-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "1. Daily Notes/18-05-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "1. Daily Notes/18-05-2023.md"
+          }
         }
       }
     ],
@@ -125,6 +133,20 @@
   },
   "active": "45f8b235a7f50473",
   "lastOpenFiles": [
+    "4. Templates/Distilled Note Template.md",
+    "4. Templates/Literature Note Template.md",
+    "Untitled.md",
+    "3. Distilled Notes",
+    "4. Templates",
+    "2. Literature Notes/Books/The Digital Zettelksten.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Courses",
+    "2. Literature Notes/Books",
+    "2. Literature Notes/Topics",
+    "2. Literature Notes",
+    "1. Daily Notes/20-05-2023.md",
+    "1. Daily Notes/18-05-2023.md",
+    "1. Daily Notes",
     "hi.md"
   ]
 }
