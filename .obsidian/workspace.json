@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Topics/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Topics/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Topics/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md"
+                "file": "2. Literature Notes/Topics/Obsidian.md"
               }
             }
           }
@@ -151,13 +151,13 @@
   },
   "active": "a04f1e8e9808122d",
   "lastOpenFiles": [
-    "teste.md",
-    "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "2. Literature Notes/Articles/Building a Second Brain The Definitive Introductory Guide.md",
+    "2. Literature Notes/Articles/Welcome to Instapaper!.md",
+    "1. Daily Notes/20-05-2023.md",
+    "teste.md",
     "2. Literature Notes/Articles",
     "4. Templates/Literature Note Template.md",
     "4. Templates/Distilled Note Template.md",
-    "1. Daily Notes/20-05-2023.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Books/The Digital Zettelksten.md",
     "The digital Zettelkasten.md",
