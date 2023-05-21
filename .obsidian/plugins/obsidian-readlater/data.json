@@ -1,0 +1,24 @@
+{
+  "addRibbonIcon": true,
+  "showAtStartup": true,
+  "urlAttribute": "url",
+  "readLaterFolder": "",
+  "pocket": {
+    "markAsRead": false,
+    "frequency": "Manual|"
+  },
+  "instapaper": {
+    "markAsRead": false,
+    "frequency": "Weekly",
+    "token": "ba8249360ff84e57aa311705b5024a47",
+    "secret": "e6d1c26b7baf49bc98ee8feef3a24f9b",
+    "username": "gabrielafpinaa@gmail.com",
+    "user_id": 12471960,
+    "folder": "2. Literature Notes/Books"
+  },
+  "domainsForHeadless": [
+    "medium.com",
+    "msn.com"
+  ],
+  "synchPeriodMS": 900000
+}
