@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "45ea0997ea5828f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d878c93ab353b663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04f1e8e9808122d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60ec52ec762ae0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "96852a6aa630f2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "470654b5894bf8e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2a3439405e433d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4a7b702d736fff7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08e1de88b2ed7974",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0480c584097b69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34bc9bc63f694fbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e81cdd30ada88cba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "916fd7b14653bff8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f72484ec6b0848c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a04f1e8e9808122d",
+  "lastOpenFiles": [
+    "1. Daily Notes/20-05-2023.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Books/The Digital Zettelksten.md",
+    "The digital Zettelkasten.md",
+    "4. Templates",
+    "3. Distilled Notes",
+    "2. Literature Notes/Topics",
+    "2. Literature Notes/Courses",
+    "2. Literature Notes/Books",
+    "1. Daily Notes/18-05-2023.md",
+    "2. Literature Notes",
+    "hi.md",
+    "Sam Jolen.md",
+    "1. Daily Notes"
+  ]
+}
