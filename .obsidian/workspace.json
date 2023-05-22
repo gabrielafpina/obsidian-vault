@@ -11,8 +11,12 @@
             "id": "a0ecd37a2179a4bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md"
+              }
             }
           },
           {
@@ -182,17 +190,22 @@
   },
   "active": "a0ecd37a2179a4bb",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Mudança.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/Processo de Aprendizagem.md",
+    "5. Shots and Images/Captura de Tela 2023-05-12 às 17.12.52.png",
+    "2. Literature Notes/Topics/Consciente.md",
+    "2. Literature Notes/Topics/Zona de Conforto.md",
+    "2. Literature Notes/Topics/Presente.md",
+    "5. Shots and Images/Captura de Tela 2023-05-12 às 16.50.41.png.md",
     "2. Literature Notes/Topics/Inconsciente.md",
-    "Captura de Tela 2023-05-12 às 16.59.36.png",
-    "2. Literature Notes/Topics/presente.md",
+    "5. Shots and Images/Captura de Tela 2023-05-12 às 16.59.36.png",
     "2. Literature Notes/Topics/Meditação.md",
     "5. Shots and Images/Captura de Tela 2023-05-12 às 16.55.31.png",
     "5. Shots and Images/Captura de Tela 2023-05-12 às 16.52.32.png",
     "5. Shots and Images/Captura de Tela 2023-05-12 às 16.48.22.png",
     "Captura de Tela 2023-05-12 às 16.48.22.png.md",
     "5. Shots and Images/Captura de Tela 2023-05-12 às 16.50.41.png",
-    "5. Shots and Images/Captura de Tela 2023-05-12 às 16.50.41.png.md",
     "5. Shots and Images",
     "2. Literature Notes/Topics/Depressão.md",
     "2. Literature Notes/Topics/Ansiedade.md",
@@ -212,11 +225,7 @@
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "Captura de Tela 2023-05-22 às 14.25.52.png",
     "3. Distilled Notes/Topics",
-    "2. Literature Notes/Topics/Sexo de Ideias.md",
-    "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/People",
-    "4. Templates/Podcasts e Aulas.md",
-    "2. Literature Notes/Books/The Digital Zettelksten.md",
     "2. Literature Notes/Articles",
     "4. Templates",
     "3. Distilled Notes",
