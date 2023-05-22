@@ -47,9 +47,10 @@ Tagged Concepts: #PNL/mudanças #PNL/Presença #PNL/Consciente-Inconsciente #PNL
 ## Desenvolvendo Presença
 ### Mandala do Ser
 Criado por Richard Moss.
-> [!note]
-Onde você coloca a sua atenção quando você está de bobeira?
+********
+<aside> 💡 Onde você coloca a sua atenção quando você está de bobeira?
 
+</aside>
 ![[Captura de Tela 2023-05-12 às 16.50.41.png]]
 **Passado**
 -   Quando a sua mente fica aqui o tempo inteiro, você fica triste, arrependida, magoada, deprimida por conta de todos os erros que você cometeu e poderia ter feito diferente. Consequência? [[Depressão]].
@@ -68,4 +69,49 @@ Muitas vezes o que fazemos, também, é deixar que o nosso pensamento gire muito
 **Eu**
 -   Exemplo: quando você pensa muito coisas com `ah, mas eu sou assim`, como se você fosse um personagem que precisa manter a sua fama, pelo que as pessoas pensam de você.
 
-**********Ideal**********
+**Ideal**
+![[Captura de Tela 2023-05-12 às 16.55.31.png]]
+### Formas de se manter no presente
+1.  **Mantra**
+    -   Inspiração profunda
+    -   Expiração profunda
+    -   FODA-SE
+
+O foda-se é maravilhoso para que consigamos nos desconectar da mania de querer agradar outras pessoas.
+
+O foda-se pra tudo é desespero. Mas o foda-se com foco é libertador. Quantas vezes na sua vida você deixou de fazer alguma coisa, ou fez alguma coisa ruim pra agradar agradar alguém que hoje você nem lembra direito nome?
+
+2. **Corpo**
+
+O responsável por fazer para o passado ou futuro é o pensamento. _O corpo está sempre no [[Presente]]. O segredo? Conexão com o corpo.
+
+<aside> 💡 Respiração e movimentos no corpo = relaxamento.
+
+</aside>
+
+[[Meditação]] focando nas sensações corporais e trazendo isso pro dia dia.
+
+### Racional e Inconsciente
+#### Estudo
+![[Captura de Tela 2023-05-12 às 16.59.36.png]]
+95% das nossas ações, comportamentos, como nosso corpo funciona, são decisões inconscientes. Apenas 5% são decisões racionais, lógicas e pensadas.
+
+Obs: até mesmo as decisões racionais são influenciadas pelo inconsciente, que é o responsável pelos nossos diálogos internos.
+
+#### Objetivo do [[Inconsciente]]
+
+-   Te manter ********vivo********! Toda vez em que você for fazer algo, inconscientemente, você vai escolher algo que tenha mais a ver com a sua **auto preservação**.
+
+<aside> 💡 Zona de conforto (ZC) tem a ver com sobrevivência!
+
+</aside>
+
+O seu inconsciente quer que você sobreviva, por isso que ele te mantém por mais tempo na zona de conforto. Então, sempre que saímos da nossa zona de conforto, o inconsciente começa a soltar gatilhos de medo.
+
+#### Como sair da ZC?
+
+-   Só saímos da zona de conforto se houver algum tipo de **incômodo**! Quanto maior o incômodo, maior a chance de você sair da zona de conforto.
+
+Ou seja, se você quer crescer, importante que você tem em comum zona de conforto.
+
+→ Porque a PNL é poderosa? Porque trabalhamos o inconsciente, não o consciente.
