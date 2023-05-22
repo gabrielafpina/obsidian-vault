@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "1. Daily Notes/20-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "1. Daily Notes/20-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "1. Daily Notes/20-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md"
+                "file": "1. Daily Notes/20-05-2023.md"
               }
             }
           },
@@ -182,11 +182,14 @@
   },
   "active": "05e46a349af968e4",
   "lastOpenFiles": [
+    "1. Daily Notes/22-05-2023.md",
+    "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/People/Sam Jolen.md",
+    "2. Literature Notes/Topics/PNL.md",
     "1. Daily Notes/20-05-2023.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "Captura de Tela 2023-05-22 às 14.25.52.png",
     "3. Distilled Notes/Topics",
-    "1. Daily Notes/22-05-2023.md",
     "2. Literature Notes/Topics/Sexo de Ideias.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/People",
@@ -208,7 +211,6 @@
     "1. Daily Notes/18-05-2023.md",
     "2. Literature Notes",
     "hi.md",
-    "Sam Jolen.md",
     "1. Daily Notes"
   ]
 }
