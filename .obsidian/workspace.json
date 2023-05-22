@@ -128,13 +128,29 @@
                 "file": "2. Literature Notes/Books/The Digital Zettelksten.md"
               }
             }
+          },
+          {
+            "id": "ed808e0ae9e3f311",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "35398a7f23befcf4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +166,7 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "a04f1e8e9808122d",
+  "active": "ed808e0ae9e3f311",
   "lastOpenFiles": [
     "2. Literature Notes/Articles/Building a Second Brain The Definitive Introductory Guide.md",
     "1. Daily Notes/20-05-2023.md",
