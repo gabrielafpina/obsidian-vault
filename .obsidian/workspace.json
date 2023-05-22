@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md",
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/20-05-2023.md"
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md"
               }
             }
           },
@@ -152,9 +152,17 @@
               "type": "custom-frames-chatgpt",
               "state": {}
             }
+          },
+          {
+            "id": "97134def2c638959",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -180,13 +188,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05e46a349af968e4",
+  "active": "97134def2c638959",
   "lastOpenFiles": [
+    "4. Templates/Literature Note Template.md",
+    "4. Templates/Distilled Note Template.md",
+    "1. Daily Notes/18-05-2023.md",
+    "1. Daily Notes/20-05-2023.md",
     "1. Daily Notes/22-05-2023.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
     "2. Literature Notes/People/Sam Jolen.md",
     "2. Literature Notes/Topics/PNL.md",
-    "1. Daily Notes/20-05-2023.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "Captura de Tela 2023-05-22 às 14.25.52.png",
     "3. Distilled Notes/Topics",
@@ -200,15 +211,12 @@
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "teste.md",
     "2. Literature Notes/Articles",
-    "4. Templates/Literature Note Template.md",
-    "4. Templates/Distilled Note Template.md",
     "The digital Zettelkasten.md",
     "4. Templates",
     "3. Distilled Notes",
     "2. Literature Notes/Topics",
     "2. Literature Notes/Courses",
     "2. Literature Notes/Books",
-    "1. Daily Notes/18-05-2023.md",
     "2. Literature Notes",
     "hi.md",
     "1. Daily Notes"
