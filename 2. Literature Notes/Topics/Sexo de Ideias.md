@@ -1,1 +1,2 @@
+**Primeira vez em que ouvi a frase:** vídeo do [[Alan Nicolas]]
 Desenvolvimento de várias ideias, de preferência contra intuititvas que vão se conectando para gerar algo novo, uma roupagem nova que para as pessoas vai fazendo sentido.
