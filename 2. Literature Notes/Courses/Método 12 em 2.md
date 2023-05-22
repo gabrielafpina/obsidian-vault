@@ -135,4 +135,17 @@ _→ É quando você chegar ao nível de maestria, em que você não precisa pen
 De tanto você fazer algo, aquilo passa a ser mais fácil e automático pra você. Obs: algumas C.I vão precisar passar por um _estágio de mudança_. Mas C.I as vezes são tão automáticas, que isso pode ser complexo de: 1. Perceber que isso está acontecendo; 2: jogar pra área de C.C. e fazer uma mudança. **Se não quebrarmos o automatismo, a [[Mudança]] não acontece.**
 # Módulo 3
 Tagged Concepts: #PNL/pressupostos
-## Pressupo
+## Pressuposto
+O quê aprendemos antes de aprender a PNL.
+-   Alinhamento de [[crenças]] (o que acreditamos como uma espécie de verdade absoluta) e **valores** (o que achamos importante na nossa vida).
+
+<aside> 💡 Toda crença é uma noção de causa e efeito.
+
+</aside>
+
+Ex: Se _____, então _____.
+Se eu sou uma boa pessoa, então eu vou para o céu.
+
+-> Toda vez que você for começar um curso, uma turma, na reunião, você tem que ter um conceito bem grande em mente:
+	**1g de pré-frame vale mais do que 100t de pós frame.**
+		Ou seja, tudo aquilo que conversamos antes, com antecedência, vai ter muito mais efeito a longo prazo
