@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "Anotação Atômica X.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "Anotação Atômica X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md",
+                "file": "Anotação Atômica X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/22-05-2023.md"
+                "file": "Anotação Atômica X.md"
               }
             }
           },
@@ -172,13 +172,20 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "gpt3-notes:GPT-3 Notes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "a04f1e8e9808122d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Sexo de Ideias.md",
+    "Captura de Tela 2023-05-22 às 14.25.52.png",
     "1. Daily Notes/22-05-2023.md",
+    "Anotação Atômica X.md",
+    "2. Literature Notes/Topics/Sexo de Ideias.md",
     "1. Daily Notes/20-05-2023.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/People",
