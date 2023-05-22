@@ -7,7 +7,7 @@ Tagged Concepts:
 
 ## O que é a PNL?
 Prgramação: Organização da comunicação e sistema neurológico para conquistar objetivos e resultados
-Neuro: Sistema nervoso através do qual a experiência é recebida e processada através dos 5 sentidos.
+Neuro: Sistema nervoso através do qual a experiência é recebida e processada através dos [[5 sentidos]].
 Linguística: Sistema de comunicação verbal e não verbal através do qual cada representação neural é recebida e codificada.
 
 ## História da PNL
@@ -156,3 +156,8 @@ Você pode pegar qualquer mapa ou globo e por mais bem feito que seja, ele não 
 	Ou seja, todas as vezes em que você pensa que sabe algo sobre o mundo, todas as experiências, tudo aquilo que você viveu, passou, acredita, tudo aquilo que você tem certeza absoluta que é a realidade, não é.
 
 - Os seus [[pensamentos]] nunca vão ser a realidade propriamente dita.
+	- tudo que entra através dos nossos [[5 sentidos]] tem uma série de filtros que limitam a gente de poder conhecer a realidade efetivamente.
+
+💡 Tudo que você acha que sabe é apenas um palpite.
+Não é a #realidade! É apenas a sua **percepção da realidade**.
+- isso ajuda a gente a julgar menos as pessoas que observam a vida de uma forma diferente da nossa, pois podemos pensar que o mapa não é o território que aquela pessoa pensa daquela maneira, não porque a nossa maneira errada, mas porque o que ela aprendeu a vida toda foi aquilo e mudou a maneira como ela pensa na vida.
