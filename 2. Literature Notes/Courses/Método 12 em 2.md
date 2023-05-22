@@ -166,12 +166,10 @@ Não é a #realidade! É apenas a sua **percepção da realidade**.
 💡 Toda vez que você encontrar discrepância entre o território e o mapa, você acredita mais no *território*.
 Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobressaía à realidade.
 
-##### [[Expectativas]] x Realidade
+##### [[Expectativas]] x [[Realidade]]
 - Quais são os mapas que você tem?
 - Quais são os mapas que você está disposto a abrir mão?
 - Quais são os mapas que você tem e que estão tão enraizados que não está disposto a abrir mão?
 
 ##### Resumo
-Você não controla nada. 
-Você não sabe de nada. 
-Você não tem noção de nada, efetivamente, do jeito que é.
+![[Realidade]]
