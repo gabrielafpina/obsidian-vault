@@ -20,5 +20,9 @@ Essa filosofia, ainda, está relacionada a pressupostos da [[PNL]] #PNL/pressupo
 
 Você não controla nada. 
 Você não sabe de nada. 
-Você não tem noção de nada, efetivamente, do jeito que é.
+Você não tem noção de nada, efetivamente, do jeito que é. ^f5a674
 - [[Sam Jolen]]
+
+Você não controla nada. 
+Você não sabe de nada. 
+Você não tem noção de nada, efetivamente, do jeito que é.

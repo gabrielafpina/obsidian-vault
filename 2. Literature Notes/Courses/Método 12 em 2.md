@@ -172,4 +172,7 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - Quais são os mapas que você tem e que estão tão enraizados que não está disposto a abrir mão?
 
 ##### Resumo
-![[Realidade]]
+![[Realidade#^f5a674]]
+Então, esteja sempre aberto ao que aparecer para você.
+
+### Pressuposto 2: [[5 sentidos]]
