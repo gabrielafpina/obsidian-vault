@@ -1,3 +1,5 @@
+**Source**: https://www.amazon.com.br/Digital-Zettelkasten-Principles-Methods-Examples-ebook/dp/B095VY4XGD
+
 The traditional Zettelkasten has 3 types of notes. The structure works like this:
 1. Fleeting note
 	1. Its a very raw note. The first thing that comes to your mind. It´s just writing what you think. In the case of [[Obsidian]], we´ll use the daily notes as fleeting notes.
