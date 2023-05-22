@@ -14,5 +14,9 @@
   "highlightr-plugin",
   "ibook",
   "language-translator",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-reading-time",
+  "simple-time-tracker",
+  "templater-obsidian",
+  "simple-embeds"
 ]
