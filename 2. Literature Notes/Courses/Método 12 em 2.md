@@ -2,7 +2,7 @@
 **Up:** [[PNL]]
 
 # Módulo 1
-Tagged Concepts/links:
+Tagged Concepts:
 #PNL/História #PNL/O-que-é #PNL/recomendações #PNL/Experimentos
 
 ## O que é a PNL?
@@ -32,3 +32,18 @@ Linguística: Sistema de comunicação verbal e não verbal através do qual cad
 - Como fazer amigos e influenciar pessoas
 
 ## Experimentos
+Para lidar com traumas, é mais efetivo gerar raiva, nojo sobre a experiência positiva.
+
+
+-----
+# Módulo 2
+Tagged Concepts: #PNL/mudanças #PNL/Presença #PNL/Consciente-Inconsciente #PNL/Processo-de-aprendizagem
+
+## Base do Processo de Mudança
+![[Captura de Tela 2023-05-12 às 16.48.22.png]]
+→ Um pequeno problema na base pode se tornar um grande problema na frente.
+
+## Desenvolvendo Presença
+### Mandala do Ser
+Criado por Richard Moss.
+Onde você coloca a sua atenção quando você está de bobeira?
