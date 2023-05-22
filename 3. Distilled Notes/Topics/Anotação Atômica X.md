@@ -8,4 +8,4 @@ Ou seja,
 3. O que é similar à ideia
 4. Qual é o oposto da ideia
 
-O [[Alan Nicolas]] aborda esse assunto e comenta sobre suas referÊncias, que são:
+O [[Alan Nicolas]] aborda esse assunto e comenta sobre suas referências, que são:
