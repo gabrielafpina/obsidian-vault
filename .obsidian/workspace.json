@@ -130,7 +130,15 @@
             }
           },
           {
-            "id": "ed808e0ae9e3f311",
+            "id": "522d00724ea7962b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cad54bf666a51edc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -138,15 +146,15 @@
             }
           },
           {
-            "id": "35398a7f23befcf4",
+            "id": "f86c735e844ed812",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "custom-frames-chatgpt",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -154,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open ChatGPT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,7 +175,7 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "a04f1e8e9808122d",
+  "active": "f86c735e844ed812",
   "lastOpenFiles": [
     "2. Literature Notes/Books/The Digital Zettelksten.md",
     "4. Templates/Podcasts e Aulas.md",
