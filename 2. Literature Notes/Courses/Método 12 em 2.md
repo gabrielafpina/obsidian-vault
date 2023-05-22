@@ -134,7 +134,7 @@ Quando você consegue fazer uma coisa, mas _precisa ficar pensando sobre essa co
 _→ É quando você chegar ao nível de maestria, em que você não precisa pensar mais sobre fazer aquilo, é natural._
 De tanto você fazer algo, aquilo passa a ser mais fácil e automático pra você. Obs: algumas C.I vão precisar passar por um _estágio de mudança_. Mas C.I as vezes são tão automáticas, que isso pode ser complexo de: 1. Perceber que isso está acontecendo; 2: jogar pra área de C.C. e fazer uma mudança. **Se não quebrarmos o automatismo, a [[Mudança]] não acontece.**
 # Módulo 3
-Tagged Concepts: #PNL/pressupostos
+Tagged Concepts: #PNL/pressupostos #PNL/crenças
 ## Pressuposto
 O quê aprendemos antes de aprender a PNL.
 -   Alinhamento de [[crenças]] (o que acreditamos como uma espécie de verdade absoluta) e **valores** (o que achamos importante na nossa vida).
@@ -148,4 +148,11 @@ Se eu sou uma boa pessoa, então eu vou para o céu.
 
 -> Toda vez que você for começar um curso, uma turma, na reunião, você tem que ter um conceito bem grande em mente:
 	**1g de pré-frame vale mais do que 100t de pós frame.**
-		Ou seja, tudo aquilo que conversamos antes, com antecedência, vai ter muito mais efeito a longo prazo
+		Ou seja, tudo aquilo que conversamos antes, com antecedência, vai ter muito mais efeito a longo prazo, do que aquilo que vamos consertando no meio do caminho.
+
+### Pressuposto 1: [[O mapa não é o território]]
+#### Representação da Realidade
+Você pode pegar qualquer mapa ou globo e por mais bem feito que seja, ele não é o território. Ele é apenas uma representação da realidade. É apenas uma representação daquilo que a gente vive sobre.
+	Ou seja, todas as vezes em que você pensa que sabe algo sobre o mundo, todas as experiências, tudo aquilo que você viveu, passou, acredita, tudo aquilo que você tem certeza absoluta que é a realidade, não é.
+
+- Os seus [[pensamentos]] nunca vão ser a realidade propriamente dita.
