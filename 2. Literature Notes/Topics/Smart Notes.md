@@ -5,6 +5,14 @@ Smart notes são escritas ativas. Não é apenas você fazer highlight de algo, 
 - É sobre reestruturar o pensamento de outros pensadores, com as suas próprias palavras. É transformar o que é do outro, em seu.
 
 ##  Q.E.C
-Question
-Evidence
-Conclus
+1. Pergunta
+2. Evidência
+3. Conclusão
+Basicamente, quando você estiver lendo, você procura por apenas 3 coisas: as perguntas, as evidências e a conclusão.
+
+### Como funciona?
+- Para conclusões e ideias, você adiciona ao lado do que estiver lendo um .
+- Para as evidências e exemplos, você coloca um -.
+- Quando você for revisar as suas notas, você reflete sobre quais perguntas essas ideias e conclusões estão respondendo e quais evidências estão linkadas a essas ideias.
+
+![[Captura de Tela 2023-05-23 às 15.00.04.png]]
