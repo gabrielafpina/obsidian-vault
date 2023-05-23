@@ -291,8 +291,11 @@ Normalmente, tem elementos visuais bem presentes. ![[Canais Sensoriais#^7eb38d]]
 Visual tira foto de tudo, porque quer ter a memória guardada.
 
 ### Identificando um #Auditivo
-[[Canais Sensoriais]]
+O auditivo gosta de como as palavras lhe parecem. É mais ligado ao ouvido.
 Ele gosta de ligar ou mandar áudios.
+
+✨ Uma voz fala mais alto do que qualquer imagem.
+
 Gosta de saber o que as pessoas dizem sobre algo ou alguém. Para essa pessoa, como as coisas soam é muito importante. Se alguém fala errada, o auditivo não consegue ouvir com tanta tranquilidade.
 Quando vai contar uma história, tende a falar com a voz de outras pessoas.
 O que o incomoda são sons que ele não tem nenhum tipo de controle.

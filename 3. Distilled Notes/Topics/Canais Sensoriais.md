@@ -22,16 +22,12 @@ Para termos de [[PNL]], utilizamos o Tato, Olfato e Paladar como Cinestésico.
 ^582481
 
 ### Auditivo
-- Comunicação: Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
-- Pontos importantes: 
+- **Comunicação:** O auditivo gosta de como as palavras lhe parecem. É mais ligado ao ouvido. Para essa pessoa, como as coisas soam é muito importante.
+- **Pontos importantes:** O que o incomoda são sons que ele não tem nenhum tipo de controle. Gosta muito de música, mas também gosta muito do silêncio, porque ele se guia muito pelo que ele ouve.
+**Frase que o caracteriza:** ✨Uma voz fala mais alto do que qualquer imagem.
 
 ### Cinestésico
 
 
 Outros aspectos de fisiologia das pessoas nos dão pistas sobre seus modos. **Quando as pessoas estão respirando com a parte alta dos pulmões, estão pensando visualmente**. Quando a respiração é no meio do diafragma, ou do peito todo, estão num modo auditivo. Respiração profunda e baixa, no estômago, indica acesso cinestésico. Observe três pessoas respirando, e note a média e a localização de sua respiração.
 
-
-
-Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
-Ele tende a reger a conversa com as mãos, com o corpo, com a voz, seja até com o pé.
-✨ Uma voz fala mais alto do que qualquer imagem.
