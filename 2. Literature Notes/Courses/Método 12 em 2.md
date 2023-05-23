@@ -287,13 +287,7 @@ De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva
 **Se você é cinestésico:** você entenderá melhor as coisas ao senti-las.
 
 ### Identificando um #Visual
-Normalmente, tem elementos visuais bem presentes. Se comunica bastante através de sua **aparência**. Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*.
-Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala.
-
-✨Uma imagem vale mais do que mil palavras.
-
-Tende a namorar com pessoas visualmente atraentes.
-Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'.
+Normalmente, tem elementos visuais bem presentes. ![[Canais Sensoriais#^582481]]
 Visual tira foto de tudo, porque quer ter a memória guardada.
 
 ### Identificando um #Auditivo
