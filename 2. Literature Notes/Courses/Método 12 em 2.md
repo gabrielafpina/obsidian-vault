@@ -233,15 +233,12 @@ Se você quer entrar em rapport com alguém, é necessário fazer algum tipo de 
 ### [[Rapport]] Auditivo - Entonação de Voz
 Características de como você ouve a outra pessoa.
 Toda vez que você encontra uma pessoa que fala parecido com você, em termos de _ritmo_, _volume_, _palavras pronunciadas_, _sotaque_ parecido, isso cria uma empatia muito grande.
-
 -   Ao se comunicar com outra pessoa, é importante estar no mesmo ritmo, volume e energia da outra pessoa.
 
 OBS: utilizar sotaque também pode influenciar no aumento do rapport com o outro.
 
-************************************Pontos importantes************************************
-
+##### Pontos importantes
 Como você termina a entonação das suas frases. Quando você está se comunicando, existem, basicamente, 3 formas de se terminar uma frase:
-
 1.  **Linear**
     1.  Entonação linear, com pouca variação. Tende a ser uma frase normal.
 2.  **Agudo**
@@ -254,16 +251,16 @@ Como você termina a entonação das suas frases. Quando você está se comunica
     3.  Para tornar o tom mais grave, o segredo é você _diminuir_ o tom, fazendo com que a frequência diminua e deixando o som mais grave. Falando de forma mais pausada.
         1.  Quando você abre mais a sua boca, o tom fica mais grave.
     4.  Para passar mais _certeza_ e _confiança_, use o tom de voz mais grave. Muda totalmente como você se comunica.
+![[Captura de Tela 2023-05-23 às 10.33.05.png]]
 
-![IMG_A0DCCF4364C4-1.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3030583f-4a32-4798-8c52-b10f10cd4eab/IMG_A0DCCF4364C4-1.jpeg)
-
-### Rapport Verbal - Conteúdo
-
-Qual é o **grande segredo** para podermos nos comunicar melhor de forma verbal?
-
+### [[Rapport]] Verbal - Conteúdo
+Qual é o **grande segredo** para podermos nos #comunicar melhor de forma verbal?
 -   Encontrar _coisas que as outras pessoas gostem_ e _se interessem_. Coisas que de algum jeito você ame conversar sobre. Se você achar um tema em que a pessoa é viciada em falar sobre, você está feito e tem horas e horas para conversar sobre. As pessoas amam falar sobre o que elas amam.
     -   Como fazer isso? Pergunte. Peça para a pessoa te dar uma mini aula sobre aquilo.
         -   O que você gosta de fazer?
         -   Você tem algum hobbie?
         -   O que você gosta de estudar?
--   Só isso não faz com que você crie um super rapport, mas isso _serve de pretexto_ para você continuar se comunicando com a outra pessoa e enquanto a comunicação toda está rolando, você pode usar o rapport visual e auditivo.
+-   Só isso não faz com que você crie um super [[rapport]], mas isso _serve de pretexto_ para você continuar se comunicando com a outra pessoa e enquanto a comunicação toda está rolando, você pode usar o rapport visual e auditivo.
+
+### Como usar o [[Rapport]] no seu dia a dia?
+O grande segredo do rapport é você criar [[empatia]] para que você consiga influenciar a pessoa. Só vamos nos deixar influenciadas por pessoas que são parecidas conosco, ou que são a [[Melhor Opção Disponível (MOD)]] dentro do que temos.
