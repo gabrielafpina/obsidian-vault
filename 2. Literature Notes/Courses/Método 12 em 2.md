@@ -274,3 +274,9 @@ O grande segredo do rapport é você criar [[empatia]] para que você consiga in
 #### O Teste do [[Rapport]]
 Faça testes visuais e auditivos para ver se a pessoa está em rapport com você.
 Ex: cruze os braços, boceje, mude a posição do seu corpo. Se a outra pessoa, inconscientemente, fizer algo parecido com você, a pessoa está em rapport com você. Agora você sabe que, inconscientemente, esta pessoa está te seguindo.
+A pessoa não saberá que está te seguindo, mas você sabe que ela está. Fazemos isso naturalmente, através dos nossos [[neurônios-espelho]], ou seja, copiamos o outro para podermos viver em harmonia e em sociedade.
+Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso de influenciar a pessoa como quiser - seja através de um [[pitch]], paquera, etc.
+
+## [[Canais Sensoriais]]
+Teste de canais sensoriais:
+![[Teste+do+sistema+representacional+preferencial.pdf]]
