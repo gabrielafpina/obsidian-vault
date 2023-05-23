@@ -1,8 +1,9 @@
-**Tagged Concepts**: #produtividade [[Vicky Zhao]] [[Ilusão da Competência]]
+**Tagged Concepts**: #produtividade [[Vicky Zhao]] [[Ilusão da Competência]] 
 
 # Conceito
 Smart notes são escritas ativas. Não é apenas você fazer highlight de algo, ou resumir algo de acordo com as próprias palavras do livro que você está lendo.
 - É sobre reestruturar o pensamento de outros pensadores, com as suas próprias palavras. É transformar o que é do outro, em seu.
+- Smart notes são atômicas - ou seja, importa muito o tamanho das suas notas, assim como a ideia que elas carregam. [[Anotação Atômica X]]
 
 ##  Q.E.C
 1. Pergunta
@@ -16,3 +17,5 @@ Basicamente, quando você estiver lendo, você procura por apenas 3 coisas: as p
 - Quando você for revisar as suas notas, você reflete sobre quais perguntas essas ideias e conclusões estão respondendo e quais evidências estão linkadas a essas ideias.
 
 ![[Captura de Tela 2023-05-23 às 15.00.04.png]]
+
+## Atomic Notes
