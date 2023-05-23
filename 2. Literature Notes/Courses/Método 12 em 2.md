@@ -281,18 +281,25 @@ Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso d
 Teste de canais sensoriais:
 ![[Teste+do+sistema+representacional+preferencial.pdf]]
 De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt).
-Esse conceito veio de um trabalho da [[Virginia Satir]]. Percebo que esse trabalho está, também, muito ligado às [[5 lingaguens do amor]].
 **Importante:** Todo mundo é #visual, #auditivo e #cinestésico, desde que ele consiga absorver informações por esses canais.
 **Se você é visual:** você terá que ver mais as coisas, desenhar, colar post-its.
 **Se você é auditivo:** você ficará treinando ao ouvir as coisas.
 **Se você é cinestésico:** você entenderá melhor as coisas ao senti-las.
 
-### Identificando um Visual
+### Identificando um #Visual
 Normalmente, tem elementos visuais bem presentes. Se comunica bastante através de sua **aparência**. Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*.
 Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala.
 
 ✨Uma imagem vale mais do que mil palavras.
 
+Tende a namorar com pessoas visualmente atraentes.
+Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'.
+Visual tira foto de tudo, porque quer ter a memória guardada.
 
+### Identificando um #Auditivo
+Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
+Ele tende a reger a conversa com as mãos, com o corpo, com a voz, seja até com o pé.
 
-### Identificando um Auditivo
+✨Uma imagem vale mais do que mil palavras.
+
+Ele gosta de ligar ou mandar áudios.
