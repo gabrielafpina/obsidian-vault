@@ -3,3 +3,4 @@ YouTuber americana que fala sobre #produtividade, #clareza-mental e #frameworks-
 
 # Conceitos abordados
 [[Ilusão da Competência]]
+[[Método Ze]]
