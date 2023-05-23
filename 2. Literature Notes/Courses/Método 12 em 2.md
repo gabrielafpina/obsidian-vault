@@ -310,7 +310,7 @@ São as pessoas que gostam de tocar, *sentir* a coisa. Está sempre pegando em a
 
 Gostam de abraçar, encostar em algo.
 Tem uma tendência maior em escolher roupas confortáveis.
-Csotuma ter um ritmo mais devagar de falar, como se ele degustasse as palavras.
+Costuma ter um ritmo mais devagar de falar, como se ele degustasse as palavras.
 Se guia muito pelo que ele sente (sensação física), cheiro e gosto.
 Quando o cinestésico vai namorar uma pessoa, não importa muito se ela é bonita ou se tem uma voz bonita, o que importa é se a pessoa tem um cheiro bom, um abraço gostoso, se ele se sente bem junto com a pessoa.
 Usa palavras que descrevem mais sensações físicas: 'eu não me sinto a vontade com isso'.
