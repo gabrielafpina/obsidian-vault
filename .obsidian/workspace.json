@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -162,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0ecd37a2179a4bb",
+  "active": "f86c735e844ed812",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Zona de Conforto.md",
     "Untitled.canvas",

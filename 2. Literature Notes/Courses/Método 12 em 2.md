@@ -300,6 +300,12 @@ Visual tira foto de tudo, porque quer ter a memória guardada.
 Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
 Ele tende a reger a conversa com as mãos, com o corpo, com a voz, seja até com o pé.
 
-✨Uma imagem vale mais do que mil palavras.
+✨ Uma voz fala mais alto do que qualquer imagem.
 
 Ele gosta de ligar ou mandar áudios.
+Gosta de saber o que as pessoas dizem sobre algo ou alguém. Para essa pessoa, como as coisas soam é muito importante. Se alguém fala errada, o auditivo não consegue ouvir com tanta tranquilidade.
+Quando vai contar uma história, tende a falar com a voz de outras pessoas.
+O que o incomoda são sons que ele não tem nenhum tipo de controle.
+Gosta muito de música, mas também gosta muito do silêncio, porque ele se guia muito pelo que ele ouve.
+Costuma ser uma pessoa mais lógica.
+Usa palavras que descrevem características auditivas: 'isso não me soa bem', 'isso é claro', 'eu me vejo fazendo isso'.
