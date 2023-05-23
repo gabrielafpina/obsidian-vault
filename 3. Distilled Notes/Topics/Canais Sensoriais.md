@@ -14,7 +14,7 @@ Essa teoria está intrinsicamente ligada aos nossos [[5 sentidos]], que são:
 5. Paladar
 Para termos de [[PNL]], utilizamos o Tato, Olfato e Paladar como Cinestésico.
 
-## Formas de ver o mundo
+# Formas de ver o mundo
 ### Visual
 - **Perfil:** Se comunica bastante através de sua **aparência**.  ^7eb38d
 - **Pontos importantes:** Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*. Tende a namorar com pessoas visualmente atraentes.
@@ -34,5 +34,11 @@ Para termos de [[PNL]], utilizamos o Tato, Olfato e Paladar como Cinestésico.
 - **Como fala?** Costuma ter um ritmo mais devagar de falar, como se ele degustasse as palavras. Usa palavras que descrevem mais sensações físicas: 'eu não me sinto a vontade com isso'.
 **Frase que o caracteriza:** ✨ Para entender verdadeiramente, é preciso sentir com as próprias mãos. 
 
-### Menções [[Poder Sem Limites]]
+## Menções [[Poder Sem Limites]]
 Outros aspectos de fisiologia das pessoas nos dão pistas sobre seus modos. Quando as pessoas estão respirando com a parte alta dos pulmões, estão pensando visualmente. Quando a respiração é no meio do diafragma, ou do peito todo, estão num modo auditivo. Respiração profunda e baixa, no estômago, indica acesso cinestésico. ^2ad886
+
+A voz é igualmente expressiva. As <mark style="background: #FFF3A3A6;">pessoas visuais</mark> falam em torrentes rápidas e, em geral, têm tonalidades altas, nasais ou forçadas. Tonalidades baixas e profundas e fala lenta são, geralmente, de <mark style="background: #FFF3A3A6;">cinestésicos</mark>. Mesmo um ritmo e tonalidade ressonantes e claros indicam acesso auditivo.
+
+Você pode até ler a cor da pele. Quando você pensa visualmente, seu rosto tende a ficar mais pálido. Uma face corada indica acesso cinestésico. Quando a cabeça de alguém está levantada, está num modo visual. ^95ba14
+
+Se está balançando, ou ligeiramente erguida (como ao escutar), está em auditivo. Se está abaixada, ou se os músculos do pescoço estão relaxados, está em cinestésico.

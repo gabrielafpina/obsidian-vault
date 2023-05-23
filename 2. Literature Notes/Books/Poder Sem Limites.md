@@ -38,10 +38,8 @@ Da mesma forma, se estiver tendo dificuldade para lembrar-se de alguma coisa, ta
 
 A voz é igualmente expressiva. As pessoas visuais falam em torrentes rápidas e, em geral, têm tonalidades altas, nasais ou forçadas. Tonalidades baixas e profundas e fala lenta são, geralmente, de cinestésicos. Mesmo um ritmo e tonalidade ressonantes e claros indicam acesso auditivo.
 
-Você pode até ler a cor da pele. Quando você pensa visualmente, seu rosto tende a ficar mais pálido. Uma face corada indica acesso cinesté-sico. Quando a cabeça de alguém está levantada, está num modo visual.
+Você pode até ler a cor da pele. Quando você pensa visualmente, seu rosto tende a ficar mais pálido. Uma face corada indica acesso cinestésico. Quando a cabeça de alguém está levantada, está num modo visual.
 
 Se está balançando, ou ligeiramente erguida (como ao escutar), está em auditivo. Se está abaixada, ou se os músculos do pescoço estão relaxados, está em cinestésico.
-
-  
 
 A maneira mais simples de se elici-tarem estratégias é, simplesmente, fazer as perguntas certas. A melhor maneira de aprender não é observar, mas fazer.
