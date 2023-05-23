@@ -16,6 +16,17 @@ As regras são:
 O que eu chamei de distilled notes no [[The Digital Zettelkasten]].
 Essas notas são criadas quando você vai revisar o que colocou nas fleeting notes e nas literature notes.
 - Input = fleeting and literature notes
-- Output = permanente/distilled notes
+- Output = permanent/distilled notes
 As regras são:
-1. 
+1. 1 ideia atômica por nota
+2. Escreva assumindo que o leitor não tem contexto nenhum do que você está falando
+3. Conecte suas notas com outras que você tenha.
+
+# Tipo de Caixas
+Originalmente, o criador do método, Niklas Luhmann, usada 2 caixas diferentes para armazenar as suas notas.
+## 1. Caixa de Referências
+Onde ele armazenava todas as Literature Notes, categorizadas por uma identidade única.
+
+## 2. Caixa de Ideias
+Onde ele armazenava todas as permanent e fleeting notes.
+- As fleeting notes n
