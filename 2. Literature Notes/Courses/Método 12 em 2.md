@@ -176,3 +176,8 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 Então, esteja sempre aberto ao que aparecer para você.
 
 ### Pressuposto 2: [[5 sentidos]]
+
+# Módulo 5
+Tagged Concepts: #PNL/rapport
+
+## Rapport

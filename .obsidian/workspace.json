@@ -162,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0ecd37a2179a4bb",
+  "active": "e81cdd30ada88cba",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/5 sentidos.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
