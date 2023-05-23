@@ -264,3 +264,13 @@ Qual é o **grande segredo** para podermos nos #comunicar melhor de forma verbal
 
 ### Como usar o [[Rapport]] no seu dia a dia?
 O grande segredo do rapport é você criar [[empatia]] para que você consiga influenciar a pessoa. Só vamos nos deixar influenciadas por pessoas que são parecidas conosco, ou que são a [[Melhor Opção Disponível (MOD)]] dentro do que temos.
+- Rapport Visual
+- Rapport Auditivo
+- Rapport de Conteúdo
+- Teste
+	- Testar se a outra pessoa também está em #rapport com você, ou se só você está seguindo ela.
+	- O rapport é como uma dança. Você vai conduzindo a dança e é esse teste que vai te mostrar se a pessoa está aberta a ser influenciada por você, ou se você precisa continuar fazendo rapport com ela.
+
+#### O Teste do [[Rapport]]
+Faça testes visuais e auditivos para ver se a pessoa está em rapport com você.
+Ex: cruze os braços, boceje, mude a posição do seu corpo. Se a outra pessoa, inconscientemente, fizer algo parecido com você, a pessoa está em rapport com você. Agora você sabe que, inconscientemente, esta pessoa está te seguindo.
