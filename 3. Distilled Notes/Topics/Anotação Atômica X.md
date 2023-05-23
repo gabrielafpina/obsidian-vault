@@ -8,3 +8,4 @@ Ou seja,
 4. Qual é o oposto da ideia
 
 O [[Alan Nicolas]] aborda esse assunto e comenta sobre suas referências, que são:
+- [[Vicky Zhao]]

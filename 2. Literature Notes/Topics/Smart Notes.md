@@ -19,3 +19,5 @@ Basicamente, quando você estiver lendo, você procura por apenas 3 coisas: as p
 ![[Captura de Tela 2023-05-23 às 15.00.04.png]]
 
 ## Atomic Notes
+Anotações atômicas, são aquelas anotações sobre uma ideia específica, em que você consegue reduzir ao máximo, para apenas entender o significado do conceito, da forma mais simples possível.
+- Uma vez que você tem as suas Q.E.C, você cria uma nota atômica para cada ponto específico, o que facilita a conexão entre pontos, posteriormente.
