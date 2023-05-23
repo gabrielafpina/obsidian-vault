@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "file": "2. Literature Notes/Books/Poder Sem Limites.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "file": "2. Literature Notes/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "file": "2. Literature Notes/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md"
+                "file": "2. Literature Notes/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -189,11 +188,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f86c735e844ed812",
+  "active": "a0ecd37a2179a4bb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Zona de Conforto.md",
+    "relacionamentos.md",
+    "2. Literature Notes/Books/Poder Sem Limites.md",
+    "metas.md",
     "Untitled.canvas",
+    "2. Literature Notes/Topics/mentalidade.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/Zona de Conforto.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Topics/personalidade.md",
     "2. Literature Notes/Books/5 lingaguens do amor.md",
@@ -217,10 +220,6 @@
     "2. Literature Notes/People/Platão.md",
     "2. Literature Notes/People/René Descartes.md",
     "2. Literature Notes/People/Sam Jolen.md",
-    "2. Literature Notes/Topics/dualismo.md",
-    "2. Literature Notes/Topics/Expectativas.md",
-    "2. Literature Notes/Topics/O mapa não é o território.md",
-    "2. Literature Notes/Topics/pensamentos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 17.12.52.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.59.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.55.31.png",
