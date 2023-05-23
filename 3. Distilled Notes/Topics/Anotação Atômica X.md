@@ -1,7 +1,6 @@
 # Conceito
 Essa á uma extensão da Anotação Atômica que expande ela em diferentes direções como mostra a imagem abaixo.
-![[Captura de Tela 2023-05-22 às 14.25.52.png]]
-
+![[Captura de Tela 2023-05-23 às 14.42.48.png]]
 Ou seja,
 1. De onde a ideia vem
 2. Para aonde a ideia nos leva
