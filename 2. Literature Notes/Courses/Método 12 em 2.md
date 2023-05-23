@@ -15,7 +15,7 @@ Linguística: Sistema de comunicação verbal e não verbal através do qual cad
 - [[Richard Bandler]]
 - [[Frank Pucelik]]
 - Gregory Bateson
-- Virginia Satir*
+- [[Virginia Satir]]*
 - Fritz Perls (criador da Gestalt)
 - [[John Grinder]] (especialista em linguística)
 - Tom Best
@@ -281,6 +281,7 @@ Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso d
 Teste de canais sensoriais:
 ![[Teste+do+sistema+representacional+preferencial.pdf]]
 De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt).
-Esse conceito veio de um trabalho da 
+Esse conceito veio de um trabalho da [[Virginia Satir]]. Percebo que esse trabalho está, também, muito ligado às [[5 lingaguens do amor]].
+**Importante:** Todo mundo é #visual, #auditivo e #cinestésico, desde que ele consiga absorver informações por esses canais.
 
 ### Identificando um Visual
