@@ -16,14 +16,16 @@ Para termos de [[PNL]], utilizamos o Tato, Olfato e Paladar como Cinestésico.
 
 ## Formas de ver o mundo
 ### Visual
-- **Comunicação:** Se comunica bastante através de sua **aparência**. Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala. Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'. ^7eb38d
+- **Comunicação:** Se comunica bastante através de sua **aparência**. Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala. ^7eb38d
 - **Pontos importantes:** Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*. Tende a namorar com pessoas visualmente atraentes.
+- **Como fala?** Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'.
 **Frase que o caracteriza:** ✨Uma imagem vale mais do que mil palavras.
 ^582481
 
 ### Auditivo
 - **Comunicação:** O auditivo gosta de como as palavras lhe parecem. É mais ligado ao ouvido. Para essa pessoa, como as coisas soam é muito importante.
-- **Pontos importantes:** O que o incomoda são sons que ele não tem nenhum tipo de controle. Gosta muito de música, mas também gosta muito do silêncio, porque ele se guia muito pelo que ele ouve.
+- **Pontos importantes:** O que o incomoda são sons que ele não tem nenhum tipo de controle. Gosta muito de música, mas também gosta muito do silêncio, porque ele se guia muito pelo que ele ouve. Costuma ser uma pessoa mais lógica.
+- **Como fala?** Usa palavras que descrevem características auditivas: 'isso não me soa bem', 'não consigo me ouvir falando isso', 'nunca vou dizer isso para alguém'.
 **Frase que o caracteriza:** ✨Uma voz fala mais alto do que qualquer imagem.
 
 ### Cinestésico
