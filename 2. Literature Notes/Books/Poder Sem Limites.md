@@ -34,7 +34,7 @@ Se, por exemplo, os olhos de uma pessoa vão para cima e para a esquerda, ela im
 
 Da mesma forma, se estiver tendo dificuldade para lembrar-se de alguma coisa, talvez seja porque v*ocê não está colocando seus olhos em uma posição que lhe dê claro acesso à informação de que precisa*. Se está tentando lembrar-se de alguma coisa que viu há poucos dias, olhar para baixo e para a direita não o ajudará a ver a imagem. No entanto, se olhar para cima e para a esquerda, descobrirá que será capaz de se lembrar rapidamente da informação. 
 
-Outros aspectos de fisiologia das pessoas nos dão pistas sobre seus modos. **Quando as pessoas estão respirando com a parte alta dos pulmões, estão pensando visualmente**. Quando a respiração é no meio do diafragma, ou do peito todo, estão num modo auditivo. Respiração profunda e baixa, no estômago, indica acesso cinestésico. Observe três pessoas respirando, e note a média e a localização de sua respiração.
+![[Canais Sensoriais]]
 
   
 
