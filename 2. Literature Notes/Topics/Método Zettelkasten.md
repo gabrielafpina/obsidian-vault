@@ -1,6 +1,9 @@
 **Tagged concepts:** #produtividade [[The Digital Zettelkasten]] [[Vicky Zhao]]
 **Source:** https://www.youtube.com/watch?v=GpV47rUYk8I&list=PLwLhCsXo_YKMfYMd8EVmL2g353cwAjSxl
 
+# Característica
+Esse não é um sistema Top-Down. Em que criamos notas e colocamos dentro de pastas, como Psicologia, Filosofia, etc. É um sistema Bottom-Up, onde temos todas as notas e as armazenamos em determinado local e, com o tempo, revivemos aquelas notas e entendemos o que sai delas.
+É uma abordagem mais multidisciplinar, em que você faz conexão entre as suas ideias, sem se limitar.
 # Tipos de Notas
 ## 1. Fleeting Notes
 Notas mais do dia a dia.
@@ -29,4 +32,4 @@ Onde ele armazenava todas as Literature Notes, categorizadas por uma identidade 
 
 ## 2. Caixa de Ideias
 Onde ele armazenava todas as permanent e fleeting notes.
-- As fleeting notes n
+- As fleeting notes não eram categorizadas. O que ele fazia, na verdade, era revisá-las regularmente, junto de suas literature notes e, se sentisse que fosse apropriado, ele as elevaria ao patamar de permanent notes.
