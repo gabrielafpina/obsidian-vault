@@ -280,7 +280,7 @@ Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso d
 ## [[Canais Sensoriais]]
 Teste de canais sensoriais:
 ![[Teste+do+sistema+representacional+preferencial.pdf]]
-De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt).
+De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt). No entanto, acredito que fiz errado e a ordem correta é Visual, Auditivo e Cinestésico para mim.
 **Importante:** Todo mundo é #visual, #auditivo e #cinestésico, desde que ele consiga absorver informações por esses canais.
 **Se você é visual:** você terá que ver mais as coisas, desenhar, colar post-its.
 **Se você é auditivo:** você ficará treinando ao ouvir as coisas.
@@ -308,4 +308,15 @@ Quando vai contar uma história, tende a falar com a voz de outras pessoas.
 O que o incomoda são sons que ele não tem nenhum tipo de controle.
 Gosta muito de música, mas também gosta muito do silêncio, porque ele se guia muito pelo que ele ouve.
 Costuma ser uma pessoa mais lógica.
-Usa palavras que descrevem características auditivas: 'isso não me soa bem', 'isso é claro', 'eu me vejo fazendo isso'.
+Usa palavras que descrevem características auditivas: 'isso não me soa bem', 'não consigo me ouvir falando isso', 'nunca vou dizer isso para alguém'.
+
+### Identificando um #cinestésico 
+São as pessoas que gostam de tocar, *sentir* a coisa. Está sempre pegando em algo.
+
+✨ Para entender verdadeiramente, é preciso sentir com as próprias mãos.
+
+Gostam de abraçar, encostar em algo.
+Tem uma tendência maior em escolher roupas confortáveis.
+Csotuma ter um ritmo mais devagar de falar, como se ele degustasse as palavras.
+Se guia muito pelo que ele sente (sensação física), cheiro e gosto.
+Usa palavras que descrevem características cinestésicas: 
