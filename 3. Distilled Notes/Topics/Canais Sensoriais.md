@@ -16,18 +16,22 @@ Para termos de [[PNL]], utilizamos o Tato, Olfato e Paladar como Cinestésico.
 
 ## Formas de ver o mundo
 ### Visual
-- **Comunicação:** Se comunica bastante através de sua **aparência**. Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala.
-- **Pontos importantes:** Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*.
-
-✨Uma imagem vale mais do que mil palavras.
-Tende a namorar com pessoas visualmente atraentes.
-Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'.
+- **Comunicação:** Se comunica bastante através de sua **aparência**. Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala. Usa palavras que descrevem características visuais: 'isso é bonito', 'isso é claro', 'eu me vejo fazendo isso'. ^7eb38d
+- **Pontos importantes:** Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*. Tende a namorar com pessoas visualmente atraentes.
+**Frase que o caracteriza:** ✨Uma imagem vale mais do que mil palavras.
 ^582481
 
 ### Auditivo
+- Comunicação: Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
+- Pontos importantes: 
 
 ### Cinestésico
 
 
 Outros aspectos de fisiologia das pessoas nos dão pistas sobre seus modos. **Quando as pessoas estão respirando com a parte alta dos pulmões, estão pensando visualmente**. Quando a respiração é no meio do diafragma, ou do peito todo, estão num modo auditivo. Respiração profunda e baixa, no estômago, indica acesso cinestésico. Observe três pessoas respirando, e note a média e a localização de sua respiração.
 
+
+
+Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
+Ele tende a reger a conversa com as mãos, com o corpo, com a voz, seja até com o pé.
+✨ Uma voz fala mais alto do que qualquer imagem.

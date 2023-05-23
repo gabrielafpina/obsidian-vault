@@ -287,15 +287,11 @@ De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva
 **Se você é cinestésico:** você entenderá melhor as coisas ao senti-las.
 
 ### Identificando um #Visual
-Normalmente, tem elementos visuais bem presentes. ![[Canais Sensoriais#^582481]]
+Normalmente, tem elementos visuais bem presentes. ![[Canais Sensoriais#^7eb38d]] ![[Canais Sensoriais#^582481]]
 Visual tira foto de tudo, porque quer ter a memória guardada.
 
 ### Identificando um #Auditivo
-Auditivo gosta de ter uma voz mais bem falada, mais clara, para que as pessoas entendam o que ele está falando.
-Ele tende a reger a conversa com as mãos, com o corpo, com a voz, seja até com o pé.
-
-✨ Uma voz fala mais alto do que qualquer imagem.
-
+[[Canais Sensoriais]]
 Ele gosta de ligar ou mandar áudios.
 Gosta de saber o que as pessoas dizem sobre algo ou alguém. Para essa pessoa, como as coisas soam é muito importante. Se alguém fala errada, o auditivo não consegue ouvir com tanta tranquilidade.
 Quando vai contar uma história, tende a falar com a voz de outras pessoas.
