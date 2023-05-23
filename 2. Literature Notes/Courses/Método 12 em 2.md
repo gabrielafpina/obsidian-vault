@@ -280,3 +280,7 @@ Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso d
 ## [[Canais Sensoriais]]
 Teste de canais sensoriais:
 ![[Teste+do+sistema+representacional+preferencial.pdf]]
+De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt).
+Esse conceito veio de um trabalho da 
+
+### Identificando um Visual
