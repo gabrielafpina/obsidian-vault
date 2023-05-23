@@ -283,5 +283,16 @@ Teste de canais sensoriais:
 De acordo com o teste, eu sou mais Visual (13pt), Cinestésico (11pt) e Auditiva (6pt).
 Esse conceito veio de um trabalho da [[Virginia Satir]]. Percebo que esse trabalho está, também, muito ligado às [[5 lingaguens do amor]].
 **Importante:** Todo mundo é #visual, #auditivo e #cinestésico, desde que ele consiga absorver informações por esses canais.
+**Se você é visual:** você terá que ver mais as coisas, desenhar, colar post-its.
+**Se você é auditivo:** você ficará treinando ao ouvir as coisas.
+**Se você é cinestésico:** você entenderá melhor as coisas ao senti-las.
 
 ### Identificando um Visual
+Normalmente, tem elementos visuais bem presentes. Se comunica bastante através de sua **aparência**. Ele gosta da beleza e da simetria visual. Ele *se preocupa muito com o que ele vê*.
+Tende a *falar mais rápido* que o normal. E a usar bastante as mãos enquanto fala.
+
+✨Uma imagem vale mais do que mil palavras.
+
+
+
+### Identificando um Auditivo
