@@ -26,4 +26,10 @@ O processo dela funciona assim:
 
 ### Tornando as Notas em Atômicas
 É absolutamente genial o que ela cria. Abaixo, coloco um print de como ela faz na prática.![[Captura de Tela 2023-05-24 às 10.52.35.png]]
-Basicamente, ela começa com a *ideia*. Essa é, geralmente, apenas uma Fleeting Note. Depois disso, ela usa 
+Basicamente, ela começa com a *ideia*. Essa é, geralmente, apenas uma Fleeting Note. Depois disso, ela usa a [[Anotação Atômica X]] junto das [[Smart Notes]].
+Ela pega a ideia principal e começa a discorrer: 
+- Norte: Quais perguntas estão linkadas a essa ideia?
+- Sul: Essa ideia nos leva aonde?
+- Oeste: Quais são ideias são similares a essa ideia?
+- Leste: Quais ideias são o contrário dessa ideia?
+Sempre que ela pega um estudo, ela cria 
