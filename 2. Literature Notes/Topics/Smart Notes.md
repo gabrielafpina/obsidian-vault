@@ -24,3 +24,5 @@ Anotações atômicas [[Anotação Atômica X]], são aquelas anotações sobre 
 
 ## Zettelkasten Thinking
 [[The Digital Zettelkasten]]
+[[Método Zettelkasten]]
+Após ter chegado a esse ponto, o que a [[Vicky Zhao]] afirma que mais funciona, é 

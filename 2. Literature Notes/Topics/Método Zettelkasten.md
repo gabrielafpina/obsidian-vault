@@ -2,7 +2,7 @@
 **Source:** https://www.youtube.com/watch?v=GpV47rUYk8I&list=PLwLhCsXo_YKMfYMd8EVmL2g353cwAjSxl
 
 # Conceito
-
+O método Zettelkasten foi criado por Niklas Luhmann, pensador alemão, e tinha como objetivo ajudá-lo a organizar os seus pensamentos, notas e ideias, de forma estruturada e organizada, para que houvesse mais clareza mental e menos obesidade mental. Isso fez com que o criador do método se tornasse uma pessoa extremamente produtiva e, a nível cognitivo, tivesse uma extrema alta performance.
 
 # Característica
 Esse não é um sistema Top-Down. Em que criamos notas e colocamos dentro de pastas, como Psicologia, Filosofia, etc. É um sistema Bottom-Up, onde temos todas as notas e as armazenamos em determinado local e, com o tempo, revivemos aquelas notas e entendemos o que sai delas.
