@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8d38bc521a85f67",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -234,8 +242,8 @@
   },
   "active": "a0ecd37a2179a4bb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Método Zettelkasten.md",
     "2. Literature Notes/Topics/Vicky Zhao Note Taking Process.md",
+    "2. Literature Notes/Topics/Método Zettelkasten.md",
     "2. Literature Notes/People/Vicky Zhao.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/Smart Notes.md",
