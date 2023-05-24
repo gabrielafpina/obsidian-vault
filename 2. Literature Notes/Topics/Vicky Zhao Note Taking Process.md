@@ -18,13 +18,13 @@ Aqui, estamos falando, especificamente, das Fleeting and Literature notes do [[M
 
 ## 2. Processamento de Notas
 Apesar de estudar bastante o [[Método Zettelkasten]], [[Vicky Zhao]] afirma que 'How your organize information doesnt mean how you retrieve information'. Isso significa que o processo de organização e recuperação das notas é muito #subjetivo para cada um. 
-	Para ela, não funciona muito organizar tudo em pastas, ela prefere usar Tags e a Search Bar.
+	Para ela, não funciona muito organizar tudo em pastas, ela prefere usar Tags e Keywords.
 O processo dela funciona assim:
 1. Utilização de notas atômicas;
 	1. Esse é o passo de pegar a Captured Note e processar a ideia, tornando ela atômica.
 2. Ter certeza de que as notas são search friendly, ou seja, fáceis de encontrar.
 
-### Tornando as Notas em Atômicas
+### Tornando as Notas Atômicas
 É absolutamente genial o que ela cria. Abaixo, coloco um print de como ela faz na prática.![[Captura de Tela 2023-05-24 às 10.52.35.png]]
 Basicamente, ela começa com a *ideia*. Essa é, geralmente, apenas uma Fleeting Note. Depois disso, ela usa a [[Anotação Atômica X]] junto das [[Smart Notes]].
 Ela pega a ideia principal e começa a discorrer: 
@@ -32,4 +32,8 @@ Ela pega a ideia principal e começa a discorrer:
 - Sul: Essa ideia nos leva aonde?
 - Oeste: Quais são ideias são similares a essa ideia?
 - Leste: Quais ideias são o contrário dessa ideia?
-Sempre que ela pega um estudo, ela cria 
+Sempre que ela pega um estudo, ela cria um link apenas para ele, porque ela sabe que no futuro, pode ser que ele seja linkado a outras ideias.
+As ideias e as conclusões do QIC, dentro de [[Smart Notes]], existem com o objetivo de responder perguntas. E cada pergunta, acaba se tornando um link por si mesmo, porque surgem tantas ideias e conclusões que podem se linkar com a pergunta, que seria injusto fazer de uma forma diferente.
+
+### Search Friendly Notes
+Para que ela usa as # ? Para categorizar as ideias.
