@@ -25,4 +25,4 @@ Anotações atômicas [[Anotação Atômica X]], são aquelas anotações sobre 
 ## Zettelkasten Thinking
 [[The Digital Zettelkasten]]
 [[Método Zettelkasten]]
-Após ter chegado a esse ponto, o que a [[Vicky Zhao]] afirma que mais funciona, é 
+Após ter chegado a esse ponto, o que a [[Vicky Zhao]] afirma que mais funciona, é conectar as ideias que você acabou de ter, de acordo com o processo QEC, feito através de anotações atômicas, e conectar essas ideias a ideias existentes.

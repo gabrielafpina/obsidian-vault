@@ -6,4 +6,5 @@ Canal do YouTube: https://www.youtube.com/@VickyZhaoBEEAMP
 - [[Ilusão da Competência]]
 - [[Método Zettelkasten]]
 - [[Smart Notes]]
+- [[Vicky Zhao Note Taking Process]]
 
