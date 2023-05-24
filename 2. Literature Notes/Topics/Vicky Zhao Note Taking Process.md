@@ -25,3 +25,5 @@ O processo dela funciona assim:
 2. Ter certeza de que as notas são search friendly, ou seja, fáceis de encontrar.
 
 ### Tornando as Notas em Atômicas
+É absolutamente genial o que ela cria. Abaixo, coloco um print de como ela faz na prática.![[Captura de Tela 2023-05-24 às 10.52.35.png]]
+Basicamente, ela começa com a *ideia*. Essa é, geralmente, apenas uma Fleeting Note. Depois disso, ela usa 

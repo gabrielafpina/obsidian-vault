@@ -5,9 +5,9 @@ Smart notes são escritas ativas. Não é apenas você fazer highlight de algo, 
 - É sobre reestruturar o pensamento de outros pensadores, com as suas próprias palavras. É transformar o que é do outro, em seu.
 - Smart notes são atômicas - ou seja, importa muito o tamanho das suas notas, assim como a ideia que elas carregam. [[Anotação Atômica X]]
 
-##  Q.E.C
+##  Q.I.C
 1. Pergunta
-2. Evidência
+2. Ideias
 3. Conclusão
 Basicamente, quando você estiver lendo, você procura por apenas 3 coisas: as perguntas, as evidências e a conclusão.
 
@@ -20,9 +20,9 @@ Basicamente, quando você estiver lendo, você procura por apenas 3 coisas: as p
 
 ## Atomic Notes
 Anotações atômicas [[Anotação Atômica X]], são aquelas anotações sobre uma ideia específica, em que você consegue reduzir ao máximo, para apenas entender o significado do conceito, da forma mais simples possível.
-- Uma vez que você tem as suas Q.E.C, você cria uma nota atômica para cada ponto específico, o que facilita a conexão entre pontos, posteriormente.
+- Uma vez que você tem as suas Q.I.C, você cria uma nota atômica para cada ponto específico, o que facilita a conexão entre pontos, posteriormente.
 
 ## Zettelkasten Thinking
 [[The Digital Zettelkasten]]
 [[Método Zettelkasten]]
-Após ter chegado a esse ponto, o que a [[Vicky Zhao]] afirma que mais funciona, é conectar as ideias que você acabou de ter, de acordo com o processo QEC, feito através de anotações atômicas, e conectar essas ideias a ideias existentes.
+Após ter chegado a esse ponto, o que a [[Vicky Zhao]] afirma que mais funciona, é conectar as ideias que você acabou de ter, de acordo com o processo QIC, feito através de anotações atômicas, e conectar essas ideias a ideias existentes.
