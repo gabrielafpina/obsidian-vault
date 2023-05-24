@@ -14,7 +14,14 @@ Esse é o processo que a [[Vicky Zhao]] utiliza para organizar o [[Obsidian]] de
 Aqui, estamos falando, especificamente, das Fleeting and Literature notes do [[Método Zettelkasten]].
 [[Vicky Zhao]] traz uma abordagem de que é interessante anotarmos todas as ideias que temos, sem necessariamente julgar se elas são boas ou ruins. A princípio, pode não fazer sentido, mas em outro momento da sua vida, ela pode ser extremamente relevante e se conectar a outras ideias que já existem.
 **Objetivo:** o objetivo de capturar notas, é para que possamos achá-las novamente em outro momento em que estejamos precisando dela.
+**Importante:** Nessa etapa, ela não coloca a nota como [[Anotação Atômica X]], justamente porque ela não quer brecar a criatividade, quer simplesmente que a ideia flua.
 
 ## 2. Processamento de Notas
 Apesar de estudar bastante o [[Método Zettelkasten]], [[Vicky Zhao]] afirma que 'How your organize information doesnt mean how you retrieve information'. Isso significa que o processo de organização e recuperação das notas é muito #subjetivo para cada um. 
 	Para ela, não funciona muito organizar tudo em pastas, ela prefere usar Tags e a Search Bar.
+O processo dela funciona assim:
+1. Utilização de notas atômicas;
+	1. Esse é o passo de pegar a Captured Note e processar a ideia, tornando ela atômica.
+2. Ter certeza de que as notas são search friendly, ou seja, fáceis de encontrar.
+
+### Tornando as Notas em Atômicas
