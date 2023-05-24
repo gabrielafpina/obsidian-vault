@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc697b21b0a1b097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily Notes/May/24-05-1023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
+                "file": "1. Daily Notes/May/24-05-1023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
+                "file": "1. Daily Notes/May/24-05-1023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,24 +170,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Método Zettelkasten.md"
+                "file": "1. Daily Notes/May/24-05-1023.md"
               }
-            }
-          },
-          {
-            "id": "522d00724ea7962b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "cad54bf666a51edc",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
             }
           },
           {
@@ -192,14 +189,29 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2ddaa6195d6ace0e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef1ac02aa705deb1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +233,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0ecd37a2179a4bb",
+  "active": "bc697b21b0a1b097",
   "lastOpenFiles": [
+    "1. Daily Notes/May/24-05-1023.md",
     "2. Literature Notes/Topics/Método Zettelkasten.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Books/The Digital Zettelkasten.md",
@@ -256,7 +269,6 @@
     "2. Literature Notes/People/Virginia Satir.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Topics/pitch.md",
-    "2. Literature Notes/Topics/neurônios-espelho.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 10.33.05.png",
     "fjyhmfy",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 17.12.52.png",
