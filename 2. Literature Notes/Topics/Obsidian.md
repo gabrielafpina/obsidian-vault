@@ -55,4 +55,3 @@ Cmd + Shift + F
 **Creating tables
 https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax
 
-# Conteúdo Alan
