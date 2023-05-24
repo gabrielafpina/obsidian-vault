@@ -9,4 +9,4 @@ Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 
 # Aprendizados
 - Anotar somente o que tem conexão emocional ou que tenha uma forma prática no meu dia a dia.
-- Escreve a mao ainda? Sim, só o que mexe com ele a nivel emocional
+- Escreve a mao ainda? Sim, só o que mexe com ele a nível emocional, o que é mais pessoal.
