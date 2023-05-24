@@ -1,0 +1,4 @@
+# Who?
+
+# Conceitos Abordados
+- [[Obsidian]]
