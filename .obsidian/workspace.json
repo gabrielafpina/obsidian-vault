@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/May/24-05-1023.md",
+                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/May/24-05-1023.md",
+                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/May/24-05-1023.md",
+                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/May/24-05-1023.md"
+                "file": "2. Literature Notes/Topics/Método Zettelkasten.md"
               }
             }
           },
@@ -235,9 +235,9 @@
   },
   "active": "bc697b21b0a1b097",
   "lastOpenFiles": [
+    "1. Daily Notes/May/24-05-1023.md",
     "1. Daily Notes/May/23-05-2023.md",
     "2. Literature Notes/People/Alan Nicolas.md",
-    "1. Daily Notes/May/24-05-1023.md",
     "Untitled.md",
     "2. Literature Notes/Topics/Método Zettelkasten.md",
     "2. Literature Notes/Topics/Obsidian.md",

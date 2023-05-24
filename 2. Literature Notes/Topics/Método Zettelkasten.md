@@ -1,6 +1,9 @@
 **Tagged concepts:** #produtividade [[The Digital Zettelkasten]] [[Vicky Zhao]]
 **Source:** https://www.youtube.com/watch?v=GpV47rUYk8I&list=PLwLhCsXo_YKMfYMd8EVmL2g353cwAjSxl
 
+# Conceito
+
+
 # Característica
 Esse não é um sistema Top-Down. Em que criamos notas e colocamos dentro de pastas, como Psicologia, Filosofia, etc. É um sistema Bottom-Up, onde temos todas as notas e as armazenamos em determinado local e, com o tempo, revivemos aquelas notas e entendemos o que sai delas.
 É uma abordagem mais multidisciplinar, em que você faz conexão entre as suas ideias, sem se limitar.
