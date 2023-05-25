@@ -85,4 +85,3 @@ Normalmente ela começa pela seguinte ordem:
 ==4. ***Sul***: para onde essa ideia vai?==
 	1. Aqui, você pode criar uma **ideia única sua**, ou você também pode linkar a ideias existentes.
 
-## 4. Produção de Conteúdo
