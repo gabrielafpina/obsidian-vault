@@ -76,5 +76,8 @@ Como ela faz isso?
 ## 3. Conexão de Notas
 Aqui, ela usa o conceito de [[Anotação Atômica X]].
 Normalmente ela começa pela seguinte ordem:
-1. Oeste: o que é similar à ideia?
-	1. O que suporta essa ideia? Aqui, estão presentes as anecdotes, estudos científicos, referências, tudo que suporta a ideia. Mas mais do que isso, é possível pensar quais são os outros conceitos que estão conectados a essa ideia.
+==1. ***Oeste***: o que é similar à ideia?==
+	1. O que suporta essa ideia? Aqui, estão presentes as **conclusões e ferramentas suplementares** (anecdotes, estudos científicos, referências), assim como, quais são as outras **ideias que estão conectadas** a essa ideia.
+==2. ***Leste***: o que é contrário a essa ideia?==
+	1. Normalmente, aqui ela coloca outras ideias, assim como também é possível colocar conclusões e ferramentas também.
+3. Norte: 
