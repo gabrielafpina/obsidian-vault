@@ -54,10 +54,12 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 https://www.forefront.ai/
 https://www.perplexity.ai/
 # Formato Comunidade
+#build 
 1. Fez um lançamento semente, simples, sem investimento em tráfego, com uma aula muito foda de 3h, entregando muito conteúdo. Ele converteu 25% das pessoas que estavam online sem fazer um pitch direito, apenas mostrando o futuro, as dores e o que pode ser feito com o mecanismo único dele;
 2. Dentro da comunidade
 	1. Hospedada no Circle
 	2. Deu para as pessoas que entraram 2 aulas ao vivo no zoom com ele
 	3. Deu o nome de turma fundadora, o que fez com que as pessoas se sentissem mais importantes e engajassem muito. Pessoas vendendo a comunidade dele para os mais conhecidos. Deu *status* a quem está entrando.
 		1. As pessoas dentro da plataforma que entraram na primeira turma vão ter um selo de 'fundadores'.
-	4. Es
+	4. Criou um grupo no Wpp de bônus surpresa com todos os participantes fundadores e permitiu que a gente trocasse muita ideia lá dentro. Está sendo muito legal trocar informações com a galera, porque são todos muito obcecados e focados em ser melhores. Isso dá um senso de pertencimento fudido. Já, inclusive, vieram falar comigo no privado sobre um comentário que eu fiz no grupo.
+	5. Está trazendo muito mais do que falou que ia trazer, o que dá um senso de overdelivery muito bom.
