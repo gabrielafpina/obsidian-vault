@@ -11,6 +11,10 @@ Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 - Anotar somente o que tem conexão emocional ou que tenha uma forma prática no meu dia a dia.
 - Escreve a mao ainda? Sim, só o que mexe com ele a nível emocional, o que é mais pessoal.
 - A gente é um eco do nosso passado, a não ser pelos livros que a gente lê e as pessoas que a gente tem ao nosso redor.
+- Pedir para o chat GPT explicar conceitos como se fosse paa uma criança de 8 anos, 12 anos e um adolescente de 16 anos, como usar determinado conhecimento aplicável no dia a dia
+
+# Plugins
+- Smart Connections
 
 # Formato Ep. Vida Lendária
 1. Ideia Principal
@@ -20,3 +24,6 @@ Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 	1. Materiais
 	2. Referências
 	3. Prompts usados
+
+# Pessoas para estudar
+- Richard Feynman
