@@ -58,4 +58,6 @@ https://www.perplexity.ai/
 2. Dentro da comunidade
 	1. Hospedada no Circle
 	2. Deu para as pessoas que entraram 2 aulas ao vivo no zoom com ele
-	3. 
+	3. Deu o nome de turma fundadora, o que fez com que as pessoas se sentissem mais importantes e engajassem muito. Pessoas vendendo a comunidade dele para os mais conhecidos. Deu *status* a quem está entrando.
+		1. As pessoas dentro da plataforma que entraram na primeira turma vão ter um selo de 'fundadores'.
+	4. Es
