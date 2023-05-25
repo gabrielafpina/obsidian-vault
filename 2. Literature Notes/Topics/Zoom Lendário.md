@@ -1,6 +1,7 @@
 Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 
 # Formato Webinário
+Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteúdo gratuito, imagina pagando a ele?'
 1. Bem-vindos
 2. Contextualização da mudança do mundo, demonstração da necessidade e criação de desejo de ter um 2° cérebro 
 	1. Dados sobre como o mundo está mudando e como a pessoa vai ficar pra trás se não investir na tecnologia
