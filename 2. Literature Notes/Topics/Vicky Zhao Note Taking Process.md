@@ -71,4 +71,10 @@ Como ela faz isso?
 	- Além disso, ter a tag logo no título te ajuda a não duplicar as suas ideias e se perder no que você está construindo. O ponto todo é conectar ideias e desenvolver uma ideia já existente com ainda mais conteúdo.
 	- **Quick Switcher x Search**: 
 		- QS ( cmd + O ) é a ferramenta que te dá o título de todas as suas notas. Sempre que ela vai criar uma nova nota ela abre o QS e procura pelas KW, para ver se ela já tem alguma nota sobre a ideia que quer escrever.
-		- Search ( cmd + shift + F) te ajuda a encontrar KW dentro das notas que você criou. É pensar da forma que você faz as suas searchs. É pensar a nã
+		- Search ( cmd + shift + F) te ajuda a encontrar KW dentro das notas que você criou. É pensar da forma que você faz as suas searchs. É pensar a nível mais Geral, porque isso facilita o encontro da palavra. Ex: o que eu escrevi acima sobre o Buda.
+
+## 3. Conexão de Notas
+Aqui, ela usa o conceito de [[Anotação Atômica X]].
+Normalmente ela começa pela seguinte ordem:
+1. Oeste: o que é similar à ideia?
+	1. O que suporta essa ideia? Aqui, estão presentes as anecdotes, estudos científicos, referências, tudo que suporta a ideia. Mas mais do que isso, é possível pensar quais são os outros conceitos que estão conectados a essa ideia.
