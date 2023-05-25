@@ -83,4 +83,6 @@ Normalmente ela começa pela seguinte ordem:
 ==3. ***Norte***: de onde vem essa ideia?==
 	1. **Perguntas** e **ideias** que tem a ver com essa ideia principal.
 ==4. ***Sul***: para onde essa ideia vai?==
-	1. 
+	1. Aqui, você pode criar uma **ideia única sua**, ou você também pode linkar a ideias existentes.
+
+## 4. Produção de Conteúdo
