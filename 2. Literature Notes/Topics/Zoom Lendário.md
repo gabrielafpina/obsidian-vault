@@ -1,7 +1,7 @@
 Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 
 # Formato Webinário
-Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteúdo gratuito, imagina pagando a ele?'. O conteúdo está tão bom e ele está demonstrando ter tanto conhecimento que ele não precisaria nem fazer um pitch, que eu já estou vendida.
+Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteúdo gratuito, imagina pagando a ele?'. O conteúdo está tão bom e ele está demonstrando ter tanto conhecimento que ele não precisaria nem fazer um pitch, que eu já estou vendida. Ele entrega muito mais do que promete.
 1. Bem-vindos
 2. Contextualização da mudança do mundo, demonstração da necessidade e criação de desejo de ter um 2° cérebro 
 	1. Dados sobre como o mundo está mudando e como a pessoa vai ficar pra trás se não investir na tecnologia
@@ -29,6 +29,24 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 # Pessoas para estudar
 - Richard Feynman
 - Leo Gura
+- Tim Ferris
+- Jordan B. Peterson
+- Chris Williamson
+- Dan Koe
+- The Futur
+- Alex Hormozi
+- Cal Newport
+- Lex Fridman
+- Humberman Labs
+- Theories of everything
+- Naval R.
+- Kapil Gupta
+- Impact Theory
+- Diary of a CEO
+- Nick Bare
+- Andy Frisella
+- Jay Shetty Podcast
+- Ben Shapiro
 
 # Sites relevantes
 **Transcrição do conteúdo do vídeo do YouTube**: https://glasp.co/youtube-summary
