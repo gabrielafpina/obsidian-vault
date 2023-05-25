@@ -53,3 +53,5 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 **Site que compartilha ferramentas de AI**: https://theresanaiforthat.com/
 https://www.forefront.ai/
 https://www.perplexity.ai/
+# Formato Comunidade
+1. Fez um lançamento
