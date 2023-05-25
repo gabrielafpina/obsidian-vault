@@ -1,6 +1,6 @@
 Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 
-# Formato
+# Formato Webinário
 1. Bem-vindos
 2. Contextualização da mudança do mundo, demonstração da necessidade e criação de desejo de ter um 2° cérebro 
 	1. Dados sobre como o mundo está mudando e como a pessoa vai ficar pra trás se não investir na tecnologia
@@ -10,3 +10,12 @@ Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
 # Aprendizados
 - Anotar somente o que tem conexão emocional ou que tenha uma forma prática no meu dia a dia.
 - Escreve a mao ainda? Sim, só o que mexe com ele a nível emocional, o que é mais pessoal.
+
+# Formato Ep. Vida Lendária
+1. Ideia Principal
+2. Ações Práticas
+3. Conteúdo
+4. Recursos
+	1. Materiais
+	2. Referências
+	3. Prompts usados
