@@ -51,3 +51,5 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 # Sites relevantes
 **Transcrição do conteúdo do vídeo do YouTube**: https://glasp.co/youtube-summary
 **Site que compartilha ferramentas de AI**: https://theresanaiforthat.com/
+https://www.forefront.ai/
+https://www.perplexity.ai/
