@@ -69,4 +69,6 @@ Ela usa # específicas para as necessidades dela, newsletter e twitter. Para mim
 Como ela faz isso? 
 - A primeira keyword vai no **título da nota**, porque isso facilita na hora de pesquisar e o título te relembra o conteúdo que tem dentro daquela ideia. Por exemplo, ela criou uma nota em que ela fala sobre o budismo, no entanto, na nota não havia nada que remetesse a Buda. Ela colocou como título da nota 'Ele que segue o caminho - Buda'. Porque ela sabe que, um dia, quando for escrever sobre budismo, ela pode pesquisar pela palavra 'Buda' e isso vai facilitar a pesquisa. Aqui, é pensar como SEO.
 	- Além disso, ter a tag logo no título te ajuda a não duplicar as suas ideias e se perder no que você está construindo. O ponto todo é conectar ideias e desenvolver uma ideia já existente com ainda mais conteúdo.
-	- **Quick Switcher x Search**: QS ( cmd + O ) é a ferramenta que te dá o título de todas as suas notas. Sempre que ela vai criar uma nova nota ela abre o QS e procura pelas KW, para ver se ela já tem alguma nota sobre a ideia que quer escrever.
+	- **Quick Switcher x Search**: 
+		- QS ( cmd + O ) é a ferramenta que te dá o título de todas as suas notas. Sempre que ela vai criar uma nova nota ela abre o QS e procura pelas KW, para ver se ela já tem alguma nota sobre a ideia que quer escrever.
+		- Search ( cmd + shift + F) te ajuda a encontrar KW dentro das notas que você criou. É pensar da forma que você faz as suas searchs. É pensar a nã
