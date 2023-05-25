@@ -66,3 +66,4 @@ Ela usa as # :
 Ela usa # específicas para as necessidades dela, newsletter e twitter. Para mim, não faz sentido. Isso ajuda ela a ter ideias infinitas para os conteúdos dela, ela jamais precisa ficar pensando no que escrever.
 
 ### Search Friendly Notes - KeyWords
+Como ela faz isso? A primeira keyword vai no título da nota, porque isso facilita na hora de pesquisar. Por exemplo, ela criou uma nota em que ela fala sobre o budismo, no entanto, na nota não havia nada que remetesse a Buda. Ela colocou como título da nota 'Ele que segue o caminho - Buda'. Porque ela sabe que, um dia, quando for escrever sobre budismo, ela pode pesquisar pela palavra 'Buda' e isso vai facilitar 
