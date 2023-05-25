@@ -48,4 +48,10 @@ Se ela quiser procurar todas as perguntas que ela tem refletido sobre, ela usa a
 
 ##### Ideias
 Aqui, ela usa 2 # diferentes, com o objetivo de categorizar ainda mais:
-#paradoxo #contraintuitivo
+#paradoxo #contraintuitivo . Eu irei usar apenas contraintuitivo.
+- Ela não usa tópicos para categorizar as informações dela. Isso funciona para mim?
+	- O objetivo das tags é nos ajudar a criar outputs.
+
+##### Conclusões / Ferramentas Suplementares
+Ela usa as # :
+#quote #anedota #estudocientífico
