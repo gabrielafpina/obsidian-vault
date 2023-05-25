@@ -36,22 +36,28 @@ Sempre que ela pega um estudo, ela cria um link apenas para ele, porque ela sabe
 As ideias e as conclusões do QIC, dentro de [[Smart Notes]], existem com o objetivo de responder perguntas. E cada pergunta, acaba se tornando um link por si mesmo, porque surgem tantas ideias e conclusões que podem se linkar com a pergunta, que seria injusto fazer de uma forma diferente.
 
 ### Search Friendly Notes
-Para que ela usa as # ? Para categorizar as ideias. Quais são essas categorias?
+Para que ela usa as # ? Para **categorizar** as ideias. Quais são essas categorias?
 - Perguntas
 - Ideias
 - Conclusões / Ferramentas suplementares
+No entanto, além de apenas usar as hashtags para categorizar, ela também as usa para saber qual é o status da nota.
 
-#### Como usar as tags?
+#### Como usar as tags para categorizar?
 ##### Perguntas
 Se ela quiser procurar todas as perguntas que ela tem refletido sobre, ela usa a # :
-#pergunta
-
+#questionque
 ##### Ideias
 Aqui, ela usa 2 # diferentes, com o objetivo de categorizar ainda mais:
-#paradoxo #contraintuitivo . Eu irei usar apenas contraintuitivo.
+#paradox #counterintuitive. Eu irei usar apenas contraintuitivo.
 - Ela não usa tópicos para categorizar as informações dela. Isso funciona para mim?
 	- O objetivo das tags é nos ajudar a criar outputs.
 
 ##### Conclusões / Ferramentas Suplementares
 Ela usa as # :
 #quote #anedota #estudocientífico
+
+#### Como usar as tags para check status?
+##### Input
+#build : isso indica que a nota que ela está escrevendo é uma ideia que ela quer desenvolver
+#check : indica que ela quer checar se aquela informação corresponde à realidade. Normalmente, ela faz isso quando está in a hurry e não conseguiu se debruçar naquele assunto de forma mais específica e densa
+#toread #towatch

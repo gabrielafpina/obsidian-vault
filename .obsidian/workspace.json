@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#checar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0ecd37a2179a4bb",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/People/Vicky Zhao.md",
     "2. Literature Notes/Topics/Zoom Lendário.md",
