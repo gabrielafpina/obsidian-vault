@@ -28,6 +28,7 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 
 # Pessoas para estudar
 - Richard Feynman
+- Leo Gura
 
 # Sites relevantes
 **Transcrição do conteúdo do vídeo do YouTube**: https://glasp.co/youtube-summary
