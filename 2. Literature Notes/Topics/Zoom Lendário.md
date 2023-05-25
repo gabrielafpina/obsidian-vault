@@ -54,4 +54,8 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 https://www.forefront.ai/
 https://www.perplexity.ai/
 # Formato Comunidade
-1. Fez um lançamento
+1. Fez um lançamento semente, simples, sem investimento em tráfego, com uma aula muito foda de 3h, entregando muito conteúdo. Ele converteu 25% das pessoas que estavam online sem fazer um pitch direito, apenas mostrando o futuro, as dores e o que pode ser feito com o mecanismo único dele;
+2. Dentro da comunidade
+	1. Hospedada no Circle
+	2. Deu para as pessoas que entraram 2 aulas ao vivo no zoom com ele
+	3. 
