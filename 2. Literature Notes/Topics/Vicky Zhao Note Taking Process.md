@@ -79,5 +79,8 @@ Normalmente ela começa pela seguinte ordem:
 ==1. ***Oeste***: o que é similar à ideia?==
 	1. O que suporta essa ideia? Aqui, estão presentes as **conclusões e ferramentas suplementares** (anecdotes, estudos científicos, referências), assim como, quais são as outras **ideias que estão conectadas** a essa ideia.
 ==2. ***Leste***: o que é contrário a essa ideia?==
-	1. Normalmente, aqui ela coloca outras ideias, assim como também é possível colocar conclusões e ferramentas também.
-3. Norte: 
+	1. Normalmente, aqui ela coloca outras **ideias**, assim como também é possível colocar **conclusões e ferramentas** também.
+==3. ***Norte***: de onde vem essa ideia?==
+	1. **Perguntas** e **ideias** que tem a ver com essa ideia principal.
+==4. ***Sul***: para onde essa ideia vai?==
+	1. 
