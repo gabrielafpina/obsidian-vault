@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Notes/18-05-2023.md",
+                "file": "2. Literature Notes/Topics/Zoom Lendário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Daily Notes/18-05-2023.md",
+            "file": "2. Literature Notes/Topics/Zoom Lendário.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Daily Notes/18-05-2023.md",
+            "file": "2. Literature Notes/Topics/Zoom Lendário.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Daily Notes/18-05-2023.md"
+            "file": "2. Literature Notes/Topics/Zoom Lendário.md"
           }
         }
       }
@@ -128,11 +128,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "gpt3-notes:GPT-3 Notes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "45f8b235a7f50473",
   "lastOpenFiles": [
+    "2. Literature Notes/People/Alan Nicolas.md",
+    "1. Daily Notes/May/23-05-2023.md",
     "2. Literature Notes/Articles",
     "4. Templates/Distilled Note Template.md",
     "4. Templates/Literature Note Template.md",
