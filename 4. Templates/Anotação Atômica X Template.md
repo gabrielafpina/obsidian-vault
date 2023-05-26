@@ -1,11 +1,11 @@
-# Big Idea
+**Big Idea:**
 
-## Definition
+**Definition:**
 
-**Autor:** 
 **Fonte:**
 
-# AT-X
+---------
+
 **West: similar**
 
 **Leste: oposto**
