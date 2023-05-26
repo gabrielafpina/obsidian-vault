@@ -63,3 +63,4 @@ https://www.perplexity.ai/
 		1. As pessoas dentro da plataforma que entraram na primeira turma vão ter um selo de 'fundadores'.
 	4. Criou um grupo no Wpp de bônus surpresa com todos os participantes fundadores e permitiu que a gente trocasse muita ideia lá dentro. Está sendo muito legal trocar informações com a galera, porque são todos muito obcecados e focados em ser melhores. Isso dá um senso de pertencimento fudido. Já, inclusive, vieram falar comigo no privado sobre um comentário que eu fiz no grupo.
 	5. Está trazendo muito mais do que falou que ia trazer, o que dá um senso de overdelivery muito bom.
+
