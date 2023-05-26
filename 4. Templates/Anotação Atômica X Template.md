@@ -6,7 +6,7 @@
 
 ---------
 
-**<span class= "blue"> West: similar**
+**West: similar**
 
 **Leste: oposto**
 
