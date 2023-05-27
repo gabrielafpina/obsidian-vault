@@ -1,19 +1,2 @@
-TfT é como se fosse um catalisador mental, em que conseguimos estender a nossa mente, de forma que consigamos fazer mais coisas e fazer mais dessas coisas. É como se fosse uma escada que te permite fazer mais e isso faz com que a nossa sociedade evolua exponencialmente.
-Ex de TfT: escrita, inteligência artifial.
-
-**Big Idea:**
-
-**Definition:**
-
-**Fonte:** https://www.youtube.com/watch?v=-7r9t9T9Aww
-[[Fei-ling Tseng]] e [[Vicky Zhao]]
-
----------
-
-**West: similar**
-
-**Leste: oposto**
-
-**Norte: ideia/pergunta**
-
-**Sul: para onde vai**
+TfT é como se fosse um catalisador mental, em que conseguimos estender a nossa mente, de forma que consigamos fazer mais coisas e fazer mais dessas coisas. TfTs permitem que o ser humano viva melhor e, ainda, alteram completamente a trajetória da humanidade. É como se fosse uma escada que te permite fazer mais e isso faz com que a nossa sociedade evolua exponencialmente. São ferramentas que nos ajudam a ampliar a nossa consciência e performance.
+Ex de TfT: escrita, inteligência artificial, [[Anotação Atômica X]]

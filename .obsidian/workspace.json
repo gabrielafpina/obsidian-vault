@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools for Thoughts.md",
+                "file": "4. Templates/Anotação Atômica X Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools for Thoughts.md",
+                "file": "4. Templates/Anotação Atômica X Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools for Thoughts.md",
+                "file": "4. Templates/Anotação Atômica X Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools for Thoughts.md"
+                "file": "4. Templates/Anotação Atômica X Template.md"
               }
             }
           },
@@ -270,8 +270,8 @@
   },
   "active": "a0ecd37a2179a4bb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Zoom Lendário.md",
     "Tools for Thoughts.md",
+    "2. Literature Notes/Topics/Zoom Lendário.md",
     "2. Literature Notes/People/Fei-ling Tseng.md",
     "2. Literature Notes/People/Vicky Zhao.md",
     "Idea Compass.md",
