@@ -1,16 +1,16 @@
 **BIG IDEA:**
 
-**DEFINITION:**
-	**Why:**
-	**How:**
-	**What:**
+**DEFINIÇÃO:**
+	**Porquê:**
+	**Como:**
+	**O quê:**
 
 
-**SOURCE:**
+**FONTE:**
 
 ---------
 
-**West: similar**
+**Oeste: similar**
 
 **Leste: oposto**
 
