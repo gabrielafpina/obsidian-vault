@@ -11,7 +11,7 @@ Esse não é um sistema Top-Down. Em que criamos notas e colocamos dentro de pas
 
 # Tipos de Notas
 ## 1. Fleeting Notes
-Notas mais do dia a dia.
+Notas mais do dia a dia. Ideias que vem para você e que, se você não anotar, vai perdê-las.
 
 ## 2. Literature Notes
 Notas de quando estamos consumindo conteúdo e aprendendo coisas novas.
@@ -38,3 +38,6 @@ Onde ele armazenava todas as Literature Notes, categorizadas por uma identidade 
 ## 2. Caixa de Ideias
 Onde ele armazenava todas as permanent e fleeting notes.
 - As fleeting notes não eram categorizadas. O que ele fazia, na verdade, era revisá-las regularmente, junto de suas literature notes e, se sentisse que fosse apropriado, ele as elevaria ao patamar de permanent notes.
+
+
+![[Captura de Tela 2023-05-27 às 13.42.36 (2).png]]
