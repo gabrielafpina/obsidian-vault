@@ -1,6 +1,6 @@
 # Conceito
 É uma forma sistemática de pesquisar o contexto de uma ideia. É uma forma mais inteligente de se orientar dentro da sua anotação de ideias.
-A [[Vicky Zhao]] chama esse conceito de Idea Compass.
+A [[Vicky Zhao]] chama esse conceito de Idea Compass. Uma coisa que ela e a [[Fei-ling Tseng]] afirmam é que não precisamos usar a bússola em todas as direções o tempo inteiro. às vezes, você só precisa ir em uma direção e está tudo bem.
 ![[Captura de Tela 2023-05-23 às 14.42.48.png]]
 **NORTE:** O que tem acima da ideia?
 	- Qual é a origem da ideia?
