@@ -7,4 +7,5 @@ Canal do YouTube: https://www.youtube.com/@VickyZhaoBEEAMP
 - [[Método Zettelkasten]]
 - [[Smart Notes]]
 - [[Vicky Zhao Note Taking Process]]
+- [[Anotação Atômica X]]
 
