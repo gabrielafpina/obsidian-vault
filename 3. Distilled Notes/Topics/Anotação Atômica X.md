@@ -1,5 +1,6 @@
 # Conceito
 Essa á uma extensão da Anotação Atômica que expande ela em diferentes direções como mostra a imagem abaixo.
+A [[Vicky Zhao]] chama esse conceito de Idea Compass.
 ![[Captura de Tela 2023-05-23 às 14.42.48.png]]
 Ou seja,
 1. De onde a ideia vem

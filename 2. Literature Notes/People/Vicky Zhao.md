@@ -8,4 +8,3 @@ Canal do YouTube: https://www.youtube.com/@VickyZhaoBEEAMP
 - [[Smart Notes]]
 - [[Vicky Zhao Note Taking Process]]
 - [[Anotação Atômica X]]
-
