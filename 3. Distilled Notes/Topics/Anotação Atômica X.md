@@ -23,7 +23,5 @@ A [[Vicky Zhao]] chama esse conceito de Idea Compass.
 **LESTE:** O que é o contrário da ideia?
 	- O que compete com essa ideia?
 	- O que está faltando nessa ideia?
-	- Qual é uma desvantagem dessa idei
-
-
-![[Captura de Tela 2023-05-27 às 13.53.12 (2).png]]
+	- Qual é uma desvantagem dessa ideia?
+	- O que poderia deixar essa ideia ainda mais genial?
