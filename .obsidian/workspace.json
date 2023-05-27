@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Templates/Brainstorming Checklist Output Template.md",
+                "file": "4. Templates/Template Resumo de Livro.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Templates/Brainstorming Checklist Output Template.md",
+                "file": "4. Templates/Template Resumo de Livro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Templates/Brainstorming Checklist Output Template.md",
+                "file": "4. Templates/Template Resumo de Livro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Templates/Brainstorming Checklist Output Template.md"
+                "file": "4. Templates/Template Resumo de Livro.md"
               }
             }
           },
@@ -258,8 +258,8 @@
   },
   "active": "38d7b9b2d7ed80f0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Zoom Lendário.md",
     "4. Templates/Brainstorming Checklist Output Template.md",
+    "2. Literature Notes/Topics/Zoom Lendário.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/Vicky Zhao Note Taking Process.md",

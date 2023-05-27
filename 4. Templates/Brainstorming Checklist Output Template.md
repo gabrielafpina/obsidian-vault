@@ -16,5 +16,21 @@
 - [ ] **Transformação:** *relacionável, surpreendente e específico antes e depois*
 	- [ ] antes
 		- [ ] Contexto
-			- Ex: excesso de consultoria
+			- Ex: excesso de projetos de consultoria
+		- [ ] Objetivo
+		- Ex: busca pela liberdade
+	- [ ] depois
+		- [ ] Resultado
+		- Ex: abri meu próprio negócio
+		- [ ] Descobertas surpreendentes
+		- Ex: liberdade não é ser livre
+
 - [ ] **Contra a sabedoria convencional**
+	- [ ] Sintoma
+		- Ex: falar demais
+	- [ ] Sabedoria convencional lidando com o sintoma
+		- Ex: encontro de soluções à frente do tempo
+	- [ ] Real causa do problema
+		- Ex: pensamento desorganizado - mesmo que você encontre essas soluções ao falar demais, você não tem uma estruturação das ideias
+	- [ ] Solução
+		- Ex: pensar através de frameworks
