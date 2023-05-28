@@ -1,7 +1,8 @@
 -----
 Source: https://www.youtube.com/watch?v=shbyb7mTlFg&t=4s
+#build 
 Tagged Concepts/links: 
-- [[]]
+
 --------
 
 **BIG IDEA:** Autenticidade e autoconhecimento são fundamentais para encontrar a alma gêmea.
@@ -11,7 +12,7 @@ Tagged Concepts/links:
 	**Como:** [[Dr. John Demartini]] traz alguns exercícios que podemos usar para encontrar a nossa alma gêmea. É importante reconhecer que tudo que encontramos fora, está dentro. E, ao negarmos algo dentro de nós, inevitavelmente, encontraremos no outro. Além disso, é necessário entender que, ao buscar por algo, você irá encontrar sempre a dualidade. Ou seja, você encontrará tanto o polo positivo, quanto o negativo.
 
 **COMO ENCONTRAR SUA ALMA GÊMEA (Passo a passo e exercícios):**
-1. [[Reconhecimento da Própria Autenticidade]]
+1. [[Processo de determinação de Valores]]
 2. [[Exercício Parceiro Ideal]]
 3. [[Exercício da Dualidade do Parceiro Ideal]]
 4. Identificação de onde os atributos que você listou nos exercícios já estão presentes na sua vida.
