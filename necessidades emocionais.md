@@ -41,12 +41,15 @@
 **Oeste: similar**
 - [[Comunicação Não-Violenta (CNV)]]
 - [[Pirâmide de Maslow]]
+- [[Psicologia Positiva]]
+- Inteligência Emocional
 
 **Leste: oposto**
 - O ser humano é uma máquina
 - Relacionamentos tóxicos
 - Falta de empatia
 - Psicopatia
+- [[Negacionismo emocional]]
 
 **Norte: ideia/pergunta**
 - [[Como ter uma vida plena?]]
@@ -59,3 +62,5 @@
 - Felicidade e bem-estar
 - Sensação de pertencimento
 - Criação de A.Is que atendam às necessidades emocionais
+- Aumento do mercado de desenvolvimento humano
+- [[Sustentabilidade emocional]]
