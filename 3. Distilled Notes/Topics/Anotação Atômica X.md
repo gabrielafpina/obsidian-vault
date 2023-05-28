@@ -9,12 +9,6 @@ A [[Vicky Zhao]] chama esse conceito de Idea Compass. Uma coisa que ela e a [[Fe
 	- Quais outras disciplinas poderiam se beneficiar de X?
 	- Quais outras formas de dizer e fazer X?
 
-**LESTE:** O que é o contrário de X?
-	- O que compete com X?
-	- O que está faltando em X?
-	- Qual é uma desvantagem de X?
-	- O que poderia deixar X ainda mais genial?
-
 **NORTE:** O que tem acima de X?
 	- Qual é a origem de X?
 	- Qual crença está relacionada a X?
@@ -27,3 +21,8 @@ A [[Vicky Zhao]] chama esse conceito de Idea Compass. Uma coisa que ela e a [[Fe
 	- Quais categorias de ideias existem abaixo de X?
 	- Quais outras ideias X nutre?
 
+**LESTE:** O que é o contrário de X?
+	- O que compete com X?
+	- O que está faltando em X?
+	- Qual é uma desvantagem de X?
+	- O que poderia deixar X ainda mais genial?
