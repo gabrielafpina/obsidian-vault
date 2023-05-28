@@ -25,9 +25,22 @@
     
 10. **Significado e Propósito**: Ter um senso de propósito ou significado na vida é uma necessidade emocional importante. Isso pode vir de uma carreira, passatempos, serviços voluntários, crenças religiosas ou espirituais, ou relacionamentos.
 
+**PRINCIPAIS AUTORES QUE ABORDAM ESSE ASSUNTO:**
+1. **Abraham Maslow**: Psicólogo americano famoso pela "Hierarquia das Necessidades de Maslow", onde propôs que as necessidades humanas estão organizadas em uma hierarquia que vai desde as necessidades fisiológicas básicas, passando pelas necessidades de segurança, amor/relacionamentos, estima até atingir a auto-realização.
+    
+2. **Carl Rogers**: Outro psicólogo americano, conhecido pela terapia centrada no cliente e sua teoria do autoconceito. Ele acreditava que todos os indivíduos têm uma necessidade inata de experimentar e satisfazer um conjunto de necessidades emocionais, que incluem a necessidade de ser ouvido, compreendido e aceito.
+    
+3. **John Bowlby**: Psiquiatra e psicanalista britânico, ele é conhecido pela teoria do apego. Essa teoria sugere que as crianças têm uma necessidade inata de formar fortes laços emocionais com os cuidadores, e que a interrupção desses laços pode levar a uma série de problemas emocionais e comportamentais.
+    
+4. **Marshall Rosenberg**: Ele foi um psicólogo americano e o criador da [[Comunicação Não-Violenta (CNV)]]. A CNV se baseia na ideia de que todos compartilhamos as mesmas necessidades humanas básicas e que todos os nossos comportamentos são tentativas de atender a essas necessidades.
+    
+5. **David Richo**: É um psicoterapeuta, professor e escritor americano. Em seus trabalhos, ele descreve cinco necessidades básicas que todos buscam satisfazer na vida: *segurança*, *satisfação*, *conexão*, *liberdade* e *expansão*, e enfatiza como satisfazer essas necessidades de maneira saudável em nossos relacionamentos.
+
 ---------
 
 **Oeste: similar**
+- [[Comunicação Não-Violenta (CNV)]]
+- 
 
 **Leste: oposto**
 
