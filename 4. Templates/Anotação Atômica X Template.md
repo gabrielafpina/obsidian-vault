@@ -1,12 +1,10 @@
+**TAGS:**
+
+**FONTE:**
+
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-	**Porquê:**
-	**Como:**
-	**O quê:**
-
-
-**FONTE:**
 
 ---------
 
