@@ -41,13 +41,17 @@
 **Oeste: similar**
 - [[Comunicação Não-Violenta (CNV)]]
 - [[Pirâmide de Maslow]]
-- [[Como ter uma vida plena?]]
 
 **Leste: oposto**
 - O ser humano é uma máquina
 - Relacionamentos tóxicos
-- 
+- Falta de empatia
+- Psicopatia
 
 **Norte: ideia/pergunta**
+- [[Como ter uma vida plena?]]
+- Ser humano como ser espiritual
 
 **Sul: para onde vai**
+- Felicidade
+- Sensação de pertencimento
