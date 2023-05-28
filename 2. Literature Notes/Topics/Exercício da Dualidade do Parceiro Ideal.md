@@ -22,6 +22,7 @@
 - Não adianta querer o belo sem ter o feio
 - Mindfulness
 	- Aceitação de tudo que vier
+- Lei da compensação 
 
 **Leste: oposto**
 - Otimismo cego
