@@ -25,7 +25,15 @@
 	7. Quais são suas *expectativas* em relação à *intimidade e expressão de afeto* em um relacionamento?
 	8. Você busca um relacionamento que inclua um crescimento e desenvolvimento conjunto? Em caso afirmativo, como isso se pareceria?
 	9. Quais são as suas *expectativas* em relação à *fidelidade e exclusividade* em um relacionamento?
-	10. Como você imagina a evolução do seu relacionamento ao longo do tempo (por exemplo, casamento, filhos, viagens)?
+	10. Como você imagina a *evolução do seu relacionamento* ao longo do tempo (por exemplo, casamento, filhos, viagens)?
+	11. Quais são os *valores fundamentais* (por exemplo, honestidade, integridade, bondade, respeito, etc.) que você gostaria que seu parceiro compartilhasse?
+	12. Como você gostaria que seu parceiro *reagisse* em situações de estresse ou crise?
+	13. Como você gostaria que seu parceiro lidasse com as *diferenças de opinião* ou conflitos em uma discussão?
+	14. Que atitudes você gostaria que seu parceiro tivesse em relação ao *trabalho e à carreira*?
+	15. Como você gostaria que seu parceiro *tratasse você e os outros* em situações cotidianas? 
+	16. Como você gostaria que seu parceiro se comportasse em relação a *compromissos e responsabilidades*?
+	17. Quais são suas expectativas sobre o comportamento do seu parceiro em *eventos sociais ou reuniões familiares*?
+	18. Que atitudes você gostaria que seu parceiro tivesse em relação à *saúde, fitness ou bem-estar*?
     
 3. **Que atividades você gostaria de compartilhar com seu parceiro?** Pense nas atividades que você mais gosta e que gostaria de compartilhar com um parceiro. Isso pode ajudá-lo a identificar as características que você deseja em um parceiro.
 	1. Quais são suas *atividades de lazer favoritas* que você gostaria que o seu parceiro apreciasse?
@@ -39,13 +47,21 @@
 	9. Que tipo de *compromissos de caridade* ou *voluntariado* você gostaria de compartilhar com o seu parceiro?
 	10. Como você imagina passar uma *noite ou um dia típico* com seu parceiro?
     
-4. **Quais são os valores que você busca no seu parceiro e tem como fundamentais?** Essas respostas podem revelar valores e características importantes que você deseja em um parceiro.
+4. **Quais são as características que você considera inaceitáveis em um parceiro?** Identificar o que você não quer pode ser tão útil quanto identificar o que você quer.
+	1. Existem comportamentos ou atitudes específicas que você consideraria um "deal-breaker" em um relacionamento?
+	2. Existem hábitos ou vícios que você acharia inaceitáveis em um parceiro?
+	3. Existem atitudes ou comportamentos em relação ao dinheiro que você considera inaceitáveis?
+	4. Como você se sentiria se o seu parceiro tivesse uma opinião ou crença fortemente contrária à sua em uma questão importante para você?
+	5. Existem formas de lidar com conflitos ou discordâncias que você considera inaceitáveis?
+	6. Como você se sentiria se o seu parceiro não apoiasse seus objetivos ou aspirações?
+	7. Existem maneiras de expressar amor e carinho que você acharia inaceitáveis?
+	8. Quais atitudes ou comportamentos em relação à saúde e bem-estar você considera inaceitáveis?
+	9. Que tipo de interação ou comportamento com a família e os amigos você considera inaceitável?
+	10. Existem maneiras de abordar o planejamento da vida, como ter filhos ou onde morar, que você considera inaceitáveis?
     
-5. **Quais são as características que você considera inaceitáveis em um parceiro?** Identificar o que você não quer pode ser tão útil quanto identificar o que você quer.
+5. **O que você precisa em um parceiro para se sentir satisfeito e realizado?** Pense nas necessidades emocionais, físicas e espirituais que você tem e como um parceiro pode atender a essas necessidades.
     
-6. **O que você precisa em um parceiro para se sentir satisfeito e realizado?** Pense nas necessidades emocionais, físicas e espirituais que você tem e como um parceiro pode atender a essas necessidades.
-    
-7. **Quais são as suas metas e sonhos de vida, e como um parceiro se encaixa neles?** Você pode querer um parceiro que compartilhe de seus sonhos ou simplesmente alguém que os apoie.
+6. **Quais são as suas metas e sonhos de vida, e como um parceiro se encaixa neles?** Você pode querer um parceiro que compartilhe de seus sonhos ou simplesmente alguém que os apoie.
 
 **FONTE:** [[Dr. John Demartini]]
 
