@@ -28,21 +28,18 @@
 	10. Como você imagina a evolução do seu relacionamento ao longo do tempo (por exemplo, casamento, filhos, viagens)?
     
 3. **Que atividades você gostaria de compartilhar com seu parceiro?** Pense nas atividades que você mais gosta e que gostaria de compartilhar com um parceiro. Isso pode ajudá-lo a identificar as características que você deseja em um parceiro.
-	1. Quais são suas atividades de lazer favoritas que você gostaria que o seu parceiro apreciasse?
-	2. Existe algum hobby específico que você gostaria de compartilhar com seu parceiro?
-	3. Que tipo de eventos sociais (como festas, encontros de amigos, eventos familiares) você gostaria de participar com seu parceiro?
-	4. Existe algum tipo de atividade de crescimento pessoal (como ler livros, assistir a seminários, meditar) que você gostaria de fazer junto com o seu parceiro?
-	5. Você tem algum sonho ou meta de viagem que gostaria de realizar com um parceiro?
-	6. Que tipos de experiências culturais (como teatro, cinema, museus, shows) você gostaria de compartilhar com um parceiro?
-	7. Que tipos de atividades físicas ou esportes você gostaria de praticar junto com o seu parceiro?
+	1. Quais são suas *atividades de lazer favoritas* que você gostaria que o seu parceiro apreciasse?
+	2. Existe algum *hobby específico* que você gostaria de compartilhar com seu parceiro?
+	3. Que tipo de *eventos sociais* (como festas, encontros de amigos, eventos familiares) você gostaria de participar com seu parceiro?
+	4. Existe algum tipo de *atividade de crescimento pessoal* (como ler livros, assistir a seminários, meditar) que você gostaria de fazer junto com o seu parceiro?
+	5. Você tem algum *sonho ou meta de viagem* que gostaria de realizar com um parceiro?
+	6. Que tipos de *experiências culturais* (como teatro, cinema, museus, shows) você gostaria de compartilhar com um parceiro?
+	7. Que tipos de *atividades físicas* ou *esportes* você gostaria de praticar junto com o seu parceiro?
+	8. Existe alguma *tradição ou costume* que você gostaria de criar ou manter com seu parceiro?
+	9. Que tipo de *compromissos de caridade* ou *voluntariado* você gostaria de compartilhar com o seu parceiro?
+	10. Como você imagina passar uma *noite ou um dia típico* com seu parceiro?
     
-8. Existe alguma tradição ou costume que você gostaria de criar ou manter com seu parceiro?
-    
-9. Que tipo de compromissos de caridade ou voluntariado você gostaria de compartilhar com o seu parceiro?
-    
-10. Como você imagina passar uma noite ou um dia típico com seu parceiro?
-    
-4. **Como você gostaria que seu parceiro se comportasse em situações específicas?** Por exemplo, como você gostaria que seu parceiro reagisse a conflitos, desafios ou sucesso? Essas respostas podem revelar valores e características importantes que você deseja em um parceiro.
+4. **Quais são os valores que você busca no seu parceiro e tem como fundamentais?** Essas respostas podem revelar valores e características importantes que você deseja em um parceiro.
     
 5. **Quais são as características que você considera inaceitáveis em um parceiro?** Identificar o que você não quer pode ser tão útil quanto identificar o que você quer.
     
