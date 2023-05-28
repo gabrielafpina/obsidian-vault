@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+                "file": "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercício Parceiro Ideal.md",
+                "file": "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercício da Dualidade do Parceiro Ideal.md",
+                "file": "4. Templates/Anotação Atômica X Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercício da Dualidade do Parceiro Ideal.md",
+                "file": "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercício da Dualidade do Parceiro Ideal.md",
+                "file": "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercício da Dualidade do Parceiro Ideal.md"
+                "file": "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md"
               }
             }
           },
@@ -327,17 +326,17 @@
       }
     ]
   },
-  "active": "9fd7e3159a00ed03",
+  "active": "8a29069a62ae6e36",
   "lastOpenFiles": [
-    "Exercício Parceiro Ideal.md",
-    "Exercício da Dualidade do Parceiro Ideal.md",
-    "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+    "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
+    "2. Literature Notes/Topics/Sustentabilidade emocional.md",
+    "2. Literature Notes/Topics/Negacionismo emocional.md",
+    "2. Literature Notes/Topics/necessidades emocionais.md",
+    "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
-    "necessidades emocionais.md",
-    "Negacionismo emocional.md",
-    "Sustentabilidade emocional.md",
-    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "4. Templates/Anotação Atômica X Template.md",
+    "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/Zona de Conforto.md",
     "4. Templates/Literature Note Template.md",
     "4. Templates/Template Resumo de Livro.md",

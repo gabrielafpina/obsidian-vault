@@ -1,4 +1,4 @@
-**TAGS:** #build
+**TAGS:** #build #exercise
 
 **FONTE:** [[Dr. John Demartini]]
 
