@@ -51,6 +51,7 @@
 **Norte: ideia/pergunta**
 - [[Como ter uma vida plena?]]
 - Ser humano como ser espiritual
+- Necessidade básica biológica
 
 **Sul: para onde vai**
 - Felicidade

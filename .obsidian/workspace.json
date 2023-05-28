@@ -44,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
+                "file": "necessidades emocionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
+                "file": "necessidades emocionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Distilled Notes/Topics/Anotação Atômica X.md"
+                "file": "necessidades emocionais.md"
               }
             }
           },
@@ -328,10 +327,10 @@
       }
     ]
   },
-  "active": "5c16b9287bd21328",
+  "active": "61f6e8183411577a",
   "lastOpenFiles": [
-    "necessidades emocionais.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
+    "necessidades emocionais.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "Exercício Parceiro Ideal.md",
