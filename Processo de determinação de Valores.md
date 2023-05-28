@@ -34,8 +34,12 @@
 
 **Leste: oposto**
 - Anarquia
-- 
+- Falta de clareza e desorganização
 
 **Norte: ideia/pergunta**
+- [[Como manifestar a sua alma-gêmea]]
+- Como ter um relacionamento de sucesso?
+- Como ter uma vida plena?
 
 **Sul: para onde vai**
+- 

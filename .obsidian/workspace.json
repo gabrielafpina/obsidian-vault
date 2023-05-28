@@ -15,6 +15,7 @@
               "state": {
                 "file": "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -243,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -309,9 +311,9 @@
   },
   "active": "61f6e8183411577a",
   "lastOpenFiles": [
-    "3. Distilled Notes/Topics/Anotação Atômica X.md",
-    "Processo de determinação de Valores.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+    "Processo de determinação de Valores.md",
+    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "4. Templates/Anotação Atômica X Template.md",
     "4. Templates/Literature Note Template.md",
     "4. Templates/Template Resumo de Livro.md",
