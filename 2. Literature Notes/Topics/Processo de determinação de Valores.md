@@ -38,7 +38,7 @@
 
 **Norte: ideia/pergunta**
 - Como ter um relacionamento de sucesso?
-- Como ter uma vida plena?
+- [[Como ter uma vida plena?]]
 
 **Sul: para onde vai**
 -  [[Como manifestar a sua alma-gêmea]]

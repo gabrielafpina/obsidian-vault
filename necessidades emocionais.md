@@ -40,9 +40,13 @@
 
 **Oeste: similar**
 - [[Comunicação Não-Violenta (CNV)]]
-- 
+- [[Pirâmide de Maslow]]
+- [[Como ter uma vida plena?]]
 
 **Leste: oposto**
+- O ser humano é uma máquina
+- Relacionamentos tóxicos
+- 
 
 **Norte: ideia/pergunta**
 
