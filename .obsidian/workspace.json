@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a1a66ea14b89179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Processo de determinação de Valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a29069a62ae6e36",
             "type": "leaf",
             "state": {
@@ -32,37 +20,24 @@
             }
           },
           {
+            "id": "ff5eddfba8265389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercício Parceiro Ideal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9fd7e3159a00ed03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Exercício da Dualidade do Parceiro Ideal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61f6e8183411577a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "necessidades emocionais.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "755b832a61327bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sustentabilidade emocional.md",
                 "mode": "source",
                 "source": false
               }
@@ -354,14 +329,14 @@
   },
   "active": "9fd7e3159a00ed03",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+    "Exercício Parceiro Ideal.md",
     "Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "necessidades emocionais.md",
     "Negacionismo emocional.md",
     "Sustentabilidade emocional.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
-    "Exercício Parceiro Ideal.md",
     "4. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/Zona de Conforto.md",
     "4. Templates/Literature Note Template.md",

@@ -1,3 +1,7 @@
+**TAGS:** #build
+
+**FONTE:** [[Dr. John Demartini]]
+
 **BIG IDEA:** Tenha clareza do que se quer encontrar em um parceiro ideal, para que você consiga manifestar essa pessoa na sua vida.
 
 **DEFINIÇÃO:** Esse é um exercício que tem o objetivo de nos ajudar a esclarecer a pessoa que estamos buscando atrair em nossas vidas, para que possamos identificar, ao encontrar alguém, se aquela pessoa está, ou não, alinhada com o que queremos em um relacionamento.
@@ -73,7 +77,7 @@
     
 6. **Quais são as suas metas e sonhos de vida, e como um parceiro se encaixa neles?** Você pode querer um parceiro que compartilhe de seus sonhos ou simplesmente alguém que os apoie.
 
-**FONTE:** [[Dr. John Demartini]]
+**PRÓXIMOS PASSOS:** Realizar o exercício [[Exercício da Dualidade do Parceiro Ideal]]
 
 ---------
 
