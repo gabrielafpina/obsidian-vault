@@ -52,7 +52,10 @@
 - [[Como ter uma vida plena?]]
 - Ser humano como ser espiritual
 - Necessidade básica biológica
+- Como o comportamento do consumidor no marketing influencia as necessidades básicas?
+- Como políticas públicas podem ser criadas para atender melhor às necessidades básicas?
 
 **Sul: para onde vai**
-- Felicidade
+- Felicidade e bem-estar
 - Sensação de pertencimento
+- Criação de A.Is que atendam às necessidades emocionais
