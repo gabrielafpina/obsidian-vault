@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a29069a62ae6e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily Notes/May/28-05-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff5eddfba8265389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+                "file": "1. Daily Notes/May/28-05-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -315,14 +303,14 @@
       }
     ]
   },
-  "active": "8a29069a62ae6e36",
+  "active": "ff5eddfba8265389",
   "lastOpenFiles": [
-    "1. Daily Notes/May/24-05-1023.md",
+    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "1. Daily Notes/May/28-05-2023.md",
+    "1. Daily Notes/May/24-05-1023.md",
     "2. Literature Notes/Topics/Nada é bom ou ruim. Tudo depende.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
-    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "4. Templates/Anotação Atômica X Template.md",
