@@ -48,18 +48,28 @@
 	10. Como você imagina passar uma *noite ou um dia típico* com seu parceiro?
     
 4. **Quais são as características que você considera inaceitáveis em um parceiro?** Identificar o que você não quer pode ser tão útil quanto identificar o que você quer.
-	1. Existem comportamentos ou atitudes específicas que você consideraria um "deal-breaker" em um relacionamento?
-	2. Existem hábitos ou vícios que você acharia inaceitáveis em um parceiro?
-	3. Existem atitudes ou comportamentos em relação ao dinheiro que você considera inaceitáveis?
-	4. Como você se sentiria se o seu parceiro tivesse uma opinião ou crença fortemente contrária à sua em uma questão importante para você?
-	5. Existem formas de lidar com conflitos ou discordâncias que você considera inaceitáveis?
-	6. Como você se sentiria se o seu parceiro não apoiasse seus objetivos ou aspirações?
-	7. Existem maneiras de expressar amor e carinho que você acharia inaceitáveis?
-	8. Quais atitudes ou comportamentos em relação à saúde e bem-estar você considera inaceitáveis?
-	9. Que tipo de interação ou comportamento com a família e os amigos você considera inaceitável?
-	10. Existem maneiras de abordar o planejamento da vida, como ter filhos ou onde morar, que você considera inaceitáveis?
+	1. Existem comportamentos ou atitudes específicas que você consideraria um "*deal-breaker*" em um relacionamento?
+	2. Existem *hábitos ou vícios* que você acharia inaceitáveis em um parceiro?
+	3. Existem *atitudes* ou *comportamentos em relação ao dinheiro* que você considera inaceitáveis?
+	4. Como você se sentiria se o seu parceiro tivesse uma *opinião ou crença fortemente contrária à sua* em uma questão importante para você?
+	5. Existem formas de *lidar com conflitos ou discordâncias* que você considera inaceitáveis?
+	6. Como você se sentiria se o seu parceiro *não apoiasse seus objetivo*s ou aspirações?
+	7. Existem *maneiras de expressar amor e carinho* que você acharia inaceitáveis?
+	8. Quais *atitudes ou comportamentos em relação à saúde* e bem-estar você considera inaceitáveis?
+	9. Que tipo de *interação ou comportamento com a família e os amigos* você considera inaceitável?
+	10. Existem maneiras de abordar o *planejamento da vida*, como ter filhos ou onde morar, que você considera inaceitáveis?
     
 5. **O que você precisa em um parceiro para se sentir satisfeito e realizado?** Pense nas necessidades emocionais, físicas e espirituais que você tem e como um parceiro pode atender a essas necessidades.
+	1. Quais são suas *necessidades emocionais* que você deseja que seu parceiro compreenda e atenda? (Por exemplo, necessidade de afeto, apoio, validação, etc.).
+	2. Quais são suas necessidades físicas em um relacionamento? (Por exemplo, atração, intimidade, toque, etc.)
+	3. Quais são suas necessidades intelectuais em um relacionamento? (Por exemplo, conversas estimulantes, interesses compartilhados, aprendizado conjunto, etc.)
+	4. Quais são suas necessidades espirituais que você deseja que seu parceiro respeite e talvez compartilhe? (Por exemplo, práticas espirituais, crenças, valores, etc.)
+	5. Quais são as suas necessidades relacionadas ao estilo de vida que você espera que um parceiro possa se encaixar ou apoiar? (Por exemplo, nível de atividade, aspirações de carreira, hábitos de saúde, etc.)
+	6. Existem necessidades específicas relacionadas à sua família ou ao seu círculo de amigos que um parceiro deveria entender e respeitar?
+	7. Como você gostaria que seu parceiro demonstrasse seu amor e apreço por você de uma maneira que satisfaça suas necessidades?
+	8. Existem necessidades que você tem em relação ao tempo e espaço pessoal em um relacionamento?
+	9. Quais são as suas necessidades em termos de comunicação e como você gostaria que o seu parceiro atendesse a estas?
+	10. Existem necessidades relacionadas à futura paternidade/maternidade que você espera que um parceiro possa atender?
     
 6. **Quais são as suas metas e sonhos de vida, e como um parceiro se encaixa neles?** Você pode querer um parceiro que compartilhe de seus sonhos ou simplesmente alguém que os apoie.
 
