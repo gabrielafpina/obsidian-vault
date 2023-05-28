@@ -19,9 +19,13 @@
 ---------
 
 **Oeste: similar**
+- Não adianta querer o belo sem ter o feio
 
 **Leste: oposto**
+- Otimismo cego
 
 **Norte: ideia/pergunta**
+- A vida é dual
 
 **Sul: para onde vai**
+- 

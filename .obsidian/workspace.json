@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd7e3159a00ed03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Templates/Anotação Atômica X Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48b6882592b13284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Templates/Anotação Atômica X Template.md",
+                "file": "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
                 "mode": "source",
                 "source": false
               }
@@ -312,8 +288,21 @@
                   "type": "graph",
                   "state": {}
                 }
+              },
+              {
+                "id": "868ff87e14001434",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -328,15 +317,15 @@
   },
   "active": "8a29069a62ae6e36",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+    "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
+    "3. Distilled Notes/Topics/Anotação Atômica X.md",
+    "4. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/Sustentabilidade emocional.md",
     "2. Literature Notes/Topics/Negacionismo emocional.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
-    "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
-    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
-    "4. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
-    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/Zona de Conforto.md",
     "4. Templates/Literature Note Template.md",
     "4. Templates/Template Resumo de Livro.md",
