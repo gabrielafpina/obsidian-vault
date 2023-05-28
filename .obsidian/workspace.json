@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -271,10 +270,48 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "0e95516ac78df13e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "76a9d775092b1502",
+        "type": "window",
+        "children": [
+          {
+            "id": "ffdac1bc00a4ed37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c16b9287bd21328",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1441,
+        "y": 25,
+        "width": 938,
+        "height": 1055,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "61f6e8183411577a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "Processo de determinação de Valores.md",
+    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "4. Templates/Anotação Atômica X Template.md",
     "4. Templates/Literature Note Template.md",
     "4. Templates/Template Resumo de Livro.md",
@@ -300,7 +337,6 @@
     "2. Literature Notes/Topics/Melhor Opção Disponível (MOD).md",
     "2. Literature Notes/Topics/mentalidade.md",
     "2. Literature Notes/Topics/neurônios-espelho.md",
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
     "Captura de Tela 2023-05-27 às 13.53.12.png",
     "Captura de Tela 2023-05-27 às 13.42.36 (2).png",

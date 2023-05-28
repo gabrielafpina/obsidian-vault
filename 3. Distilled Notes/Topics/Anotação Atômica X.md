@@ -25,4 +25,4 @@ A [[Vicky Zhao]] chama esse conceito de Idea Compass. Uma coisa que ela e a [[Fe
 	- O que compete com X?
 	- O que está faltando em X?
 	- Qual é uma desvantagem de X?
-	- O que poderia deixarX ainda mais genial?
+	- O que poderia deixar X ainda mais genial?
