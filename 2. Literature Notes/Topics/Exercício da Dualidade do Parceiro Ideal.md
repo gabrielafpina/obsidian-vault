@@ -20,6 +20,8 @@
 
 **Oeste: similar**
 - Não adianta querer o belo sem ter o feio
+- Mindfulness
+	- Aceitação de tudo que vier
 
 **Leste: oposto**
 - Otimismo cego
@@ -30,4 +32,4 @@
 
 **Sul: para onde vai**
 - Todas as qualidades têm o seu oposto e ambos podem ser úteis dependendo do contexto.
-	- Nada é bom ou ruim. Tudo depende
+	- [[Nada é bom ou ruim. Tudo depende]]
