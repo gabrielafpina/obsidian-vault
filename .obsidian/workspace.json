@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "d04e593f623aca58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sombra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f5bb84ef3576ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria dos mecanismos de defesa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a0586b764044274a",
             "type": "leaf",
             "state": {
@@ -297,11 +321,13 @@
       }
     ]
   },
-  "active": "34bc9bc63f694fbd",
+  "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
+    "sombra.md",
+    "teoria dos mecanismos de defesa.md",
+    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
-    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "necessidade emocional.md",
@@ -323,8 +349,6 @@
     "4. Templates/Template Resumo de Livro.md",
     "4. Templates/Brainstorming Checklist Output Template.md",
     "2. Literature Notes/Books/The Digital Zettelkasten.md",
-    "2. Literature Notes/Books/5 lingaguens do amor.md",
-    "2. Literature Notes/Readwise/Poder Sem Limites.md",
     "2. Literature Notes/Readwise",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
