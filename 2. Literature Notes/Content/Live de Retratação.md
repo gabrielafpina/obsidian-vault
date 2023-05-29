@@ -14,7 +14,8 @@
 	2. Alguns autores que já abordavam esse assunto e que eu tenho estudado:
 		1. [[Sigmund Freud]]: Freud foi o pai da psicanálise e propôs que todo comportamento do ser humano é motivado por impulsos inconscientes, que tem como objetivo satisfazer algum desejo humano básico. Aqui, falamos, inclusive, de [[necessidades emocionais]], que todo ser humano tem. Estas são os desejos mais profundos a nível emocional que precisamos que sejam supridos, para que tenhamos uma vida mais plena e cheia de propósito.
 			1. Algumas das principais necessidades emocionais que os seres humanos tem, são as seguintes: amor e afeição, segurança, reconhecimento, validação, conexão e pertencimento. Enfim, são inúmeras.
-			2. E Freud afirmava que muitos desses seres humanos que geralmente tinham uma atitude considerada 'extrema' pela sociedade, eram seres humanos extremame
+			2. E Freud afirmava que muitos desses seres humanos que geralmente tinham uma atitude considerada 'extrema' pela sociedade, eram seres humanos extremamente perturbados que, através dessas atitudes, estavam tentando, e maneira distorcida e destrutiva, resolver conflitos psicológicos não resolvidos, principalmente, quando a gente fala de traumas e feridas que vem lá da nossa infância. Nesse sentido, a pessoa teria uma intenção positiva de autoproteção de si mesmo, afinal, o ser humano tem os comportamentos que tem com o objetivo de perpetuar a sua sobrevivência.
+		2. [[Abraham Maslow]]: o criador da pirâmide de Maslow afirma que todas as ações humanas são motivadas por uma série de necessidades, começando pelas mais básicas (como comida e abrigo) e subindo para necessidades mais complexas (como amor, autoestima e autorrealização).
 **3. Aprendizados**
 5. Tudo é amor e o que não é amor é um pedido de amor
 	1. Necessidades emocionais
