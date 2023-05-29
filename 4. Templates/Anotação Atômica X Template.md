@@ -4,6 +4,10 @@
 
 **BIG IDEA:** 
 
+**DEFINIÇÃO:**
+
+**PENSADORES:**
+
 
 ---------
 
