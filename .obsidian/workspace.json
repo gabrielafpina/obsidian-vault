@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fed5ec7382afc729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/necessidades emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "332e40f29ad4f6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/People/Tony Robbins.md",
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/People/Tony Robbins.md",
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/People/Tony Robbins.md",
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/People/Tony Robbins.md"
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md"
               }
             }
           },
@@ -211,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "c8bfe26e4ae2acff",
@@ -283,26 +270,39 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fed5ec7382afc729",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/necessidades emocionais.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1441,
+        "x": 502,
         "y": 25,
         "width": 938,
-        "height": 1055,
-        "maximize": false,
+        "height": 875,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "332e40f29ad4f6f7",
+  "active": "34bc9bc63f694fbd",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/necessidades emocionais.md",
-    "2. Literature Notes/People/Tony Robbins.md",
+    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
+    "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "necessidade emocional.md",
     "2. Literature Notes/Topics/Método Zettelkasten.md",
@@ -315,7 +315,6 @@
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
-    "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "4. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/Sustentabilidade emocional.md",
     "2. Literature Notes/Topics/Negacionismo emocional.md",
