@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "0fc8b81d86bc1383",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "4662d568422018e2",
             "type": "leaf",
             "state": {
@@ -348,9 +356,9 @@
   "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Intenção Positiva.md",
+    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Content/Live de Retratação.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
-    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Psicologia behavorista.md",
     "2. Literature Notes/Content",

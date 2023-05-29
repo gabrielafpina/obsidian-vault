@@ -30,3 +30,4 @@
 **PRÓXIMOS PASSOS:**
 - Live salva no perfil com comentários fechados
 - Não postar recebidos
+- Aprendizados que eu tive nas últimas semanas
