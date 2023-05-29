@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "d702cdf412b3b46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35d5365c61c2fe3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnica de reestruturação.md",
+                "file": "2. Literature Notes/Topics/Técnica de reestruturação.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sombra.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoria dos mecanismos de defesa.md",
+                "file": "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -347,8 +359,10 @@
   },
   "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
-    "Técnica de reestruturação.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
+    "2. Literature Notes/People/Sigmund Freud.md",
+    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
@@ -357,8 +371,8 @@
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
     "4. Templates/Anotação Atômica X Template.md",
-    "sombra.md",
-    "teoria dos mecanismos de defesa.md",
+    "2. Literature Notes/Topics/sombra.md",
+    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "necessidade emocional.md",
     "2. Literature Notes/Topics/Mudança.md",
@@ -371,8 +385,6 @@
     "2. Literature Notes/Topics/Negacionismo emocional.md",
     "2. Literature Notes/Topics/Zona de Conforto.md",
     "4. Templates/Literature Note Template.md",
-    "4. Templates/Template Resumo de Livro.md",
-    "4. Templates/Brainstorming Checklist Output Template.md",
     "2. Literature Notes/Readwise",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
