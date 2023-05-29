@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "332e40f29ad4f6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dbec3778918ce85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sintaxe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fc8b81d86bc1383",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "4662d568422018e2",
             "type": "leaf",
             "state": {
@@ -74,32 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d04e593f623aca58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/sombra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "765e714196bb39bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+                "file": "2. Literature Notes/Content/Live de Retratação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+                "file": "2. Literature Notes/Content/Live de Retratação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md"
+                "file": "2. Literature Notes/Content/Live de Retratação.md"
               }
             }
           },
@@ -396,16 +341,16 @@
       }
     ]
   },
-  "active": "332e40f29ad4f6f7",
+  "active": "e27e776e8b212d7a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Técnica de reestruturação.md",
+    "2. Literature Notes/Topics/Intenção Positiva.md",
     "Sintaxe.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Content/Live de Retratação.md",
-    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
-    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Psicologia behavorista.md",
