@@ -29,6 +29,9 @@
 	- [[Sigmund Freud]]: É crucial entender que a psicanálise *não busca justificar ou desculpar o comportamento*. Ao contrário, busca entender as *forças subjacentes que levam a tais comportamentos*. Em alguns casos, comportamentos extremamente destrutivos podem ser o resultado de *mecanismos de defesa disfuncionais* ou do *conflito entre o id, o ego e o superego*. Essas são todas tentativas de resolver conflitos internos ou proteger o indivíduo da ansiedade. A psicanálise pode ajudar a revelar esses processos inconscientes e, ao fazê-lo, pode abrir caminho para a terapia e a mudança. Através da análise e do entendimento, podemos buscar maneiras de resolver esses conflitos internos e substituir os mecanismos de defesa disfuncionais por outros mais saudáveis e adaptativos
 		- Ou seja, é tratar a raiz, não a causa. É a compreensão do porquê a pessoa tem aquele tipo de comportamento, de que forma ela acha que vai se beneficiar se continuar daquela maneira e de onde vem essa necessidade. Para se proteger e sobreviver, o ser humano cria os mecanismos de defesa.
 
+>[!important] Entender não é o mesmo que justificar. O objetivo é trazer à luz as *motivações subjacentes* e os *processos inconscientes* para facilitar a *mudança* e a *cura*.
+
+
 ---------
 
 **Oeste: similar**
@@ -36,5 +39,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- Todos os comportamentos podem ser aprendidos e alterados
 
 **Sul: para onde vai**
