@@ -8,10 +8,13 @@
 
 **PROBLEMA:** A maior parte das pessoas não tem *consciência* de que, por trás de tudo que fazem, existe uma necessidade subjacente. Muitas vezes, as pessoas tomam atitudes, sem mesmo saber o porquê aquilo é importante para elas, e consequentemente, acabam criando situações de desconforto para muitas outras pessoas. Aquela pessoa, infelizmente, não aprendeu que é possível suprir a sua necessidade de uma forma mais saudável para o todo. A partir disso, ela utiliza de mecanismos de defesa para se proteger. Invariavelmente, ao utilizar esses mecanismos, a pessoa machuca outros no caminho.
 
-**SOLUÇÃO:** Quando conseguimos entender a intenção positiva por trás de um comportamento, conseguimos abordar a raiz do problema, ao invés de simplesmente lidar com o sintoma.
+**PORQUÊ:** Quando conseguimos entender a intenção positiva por trás de um comportamento, conseguimos abordar a raiz do problema, ao invés de simplesmente lidar com o sintoma.
 	Ex: quando eu comecei a sentir muitas dores no meu antebraço. Comecei a ir no fisioterapeuta toda semana para fazer liberação da dor. Fiquei meses fazendo isso, até que percebi que não estava adiantando. A real raiz do problema era emocional. Ou seja, eu poderia ficar anos indo toda semana no fisioterapeuta, que eu apenas estaria tratando o sintoma, não a causa e, consequentemente, aquela dor não iria embora.
 
 **IMPORTANTE:** Reconhecer a intenção positiva por trás de um comportamento não significa desculpar ou tolerar algo absurdo. Na verdade, esse princípio funciona como uma ferramenta para compreender melhor o motivo por trás de determinada atitude e, consequentemente, desenvolver outras abordagens para a mudança de comportamento.
+	- Nesse sentido, se o indivíduo teve um comportamento que causou danos a si mesmo ou a outros, por mais que tenha tido uma intenção positiva, percebemos que é evidente a necessidade de uma mudança.
+
+**SOLUÇÃO:** [[Técnica de reestruturação]]
 
 **PENSADORES:**
 - [[Tony Robbins]] afirma que todos somos movidos por nossas necessidades e que são elas que direcionam os nossos comportamentos. Nesse sentido, todos os comportamentos que temos são tentativas de satisfazer as nossas necessidades e, por esse motivo, carregam uma intenção positiva.
