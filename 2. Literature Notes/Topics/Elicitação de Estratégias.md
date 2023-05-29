@@ -1,4 +1,4 @@
-**TAGS:** #exercise 
+**TAGS:** #exercise #build
 
 **FONTE:** [[Poder Sem Limites]]
 
@@ -10,7 +10,7 @@
 **COMO:**
 1. Descoberta do principal sistema representativo ([[Canais Sensoriais]])
 2. Reconstrução de experiências
-	1. Sintaxe
+	1. [[Sintaxe]]
 	2. Submodalidades
 
 **PENSADORES:**
