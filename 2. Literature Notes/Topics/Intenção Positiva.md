@@ -14,7 +14,7 @@
 **IMPORTANTE:** Reconhecer a intenção positiva por trás de um comportamento não significa desculpar ou tolerar algo absurdo. Na verdade, esse princípio funciona como uma ferramenta para compreender melhor o motivo por trás de determinada atitude e, consequentemente, desenvolver outras abordagens para a mudança de comportamento.
 	- Nesse sentido, se o indivíduo teve um comportamento que causou danos a si mesmo ou a outros, por mais que tenha tido uma intenção positiva, percebemos que é evidente a necessidade de uma mudança.
 
-**SOLUÇÃO:** [[Técnica de reestruturação]]
+**COMO:** [[Técnica de reestruturação]]
 
 **PENSADORES:**
 - [[Tony Robbins]] afirma que todos somos movidos por nossas necessidades e que são elas que direcionam os nossos comportamentos. Nesse sentido, todos os comportamentos que temos são tentativas de satisfazer as nossas necessidades e, por esse motivo, carregam uma intenção positiva.

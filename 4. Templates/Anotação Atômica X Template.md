@@ -6,6 +6,8 @@
 
 **DEFINIÇÃO:**
 
+**COMO:**
+
 **PENSADORES:**
 
 
