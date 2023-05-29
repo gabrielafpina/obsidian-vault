@@ -78,42 +78,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0586b764044274a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ilusão da Competência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "352e9bcf8ae67658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Método Zettelkasten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6d42aca4bdc4ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -354,9 +318,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "598b6d49932d3384",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Intenção Positiva.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -369,11 +345,11 @@
       }
     ]
   },
-  "active": "470654b5894bf8e3",
+  "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
-    "2. Literature Notes/Content",
-    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Content/Live de Retratação.md",
+    "2. Literature Notes/Topics/Intenção Positiva.md",
+    "2. Literature Notes/Content",
     "Psicologia behavorista.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/People/Sigmund Freud.md",
@@ -416,7 +392,6 @@
     "3. Distilled Notes/Topics",
     "2. Literature Notes/People",
     "2. Literature Notes/Articles",
-    "4. Templates",
-    "3. Distilled Notes"
+    "4. Templates"
   ]
 }
