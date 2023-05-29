@@ -7,10 +7,16 @@
 1. Explicação do porque sumi por 2 semanas
 2. Sinto muito a todos que se sentiram ofendidos com o que eu falei
 	1. Deu margem para interpretação
+	2. Porque eu desativei o meu instagram?
+	3. Se você me conheceu através desse episódio, permita-me que eu me apresente de verdade.
 3. Tudo é amor e o que não é amor é um pedido de amor
-	4. Necessidades emocionais
-4. Intenção positiva
-5. Compromisso e responsabilidade com a comunicação (extrema clareza)
+	1. Necessidades emocionais
+4.  Intenção positiva
+5.  Aprendizados
+	1. O que eu aprendi com esse tempo longe?
+	2. Importância de blindar a minha mente
+	3. Compromisso e responsabilidade com a comunicação (extrema clareza)
+
 
 **COMO:**
 
@@ -23,6 +29,7 @@
 **PALAVRAS PARA USAR:**
 - Radical
 - Atingidas
+- Compromisso
 
 **O QUE NÃO FALAR:**
 - Quem me conhece sabe
