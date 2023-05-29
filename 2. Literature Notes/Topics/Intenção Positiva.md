@@ -24,7 +24,8 @@
 
 **POSSÍVEIS OBJEÇÕES:**
 - **Não é possível uma pessoa cometer tamanha atrocidade e ter uma intenção positiva**
-	- 
+	- [[Tony Robbins]]: quando falamos de intenção positiva na [[PNL]], estamos nos referindo à *perspectiva do indivíduo que está realizando a ação*, não do observador externo ou da vítima. Isso *não significa que estamos justificando ou desculpando o comportamento*, mas sim reconhecendo que, para o indivíduo, há algum tipo de benefício percebido ou necessidade atendida através desse comportamento, mesmo que seja profundamente errado ou prejudicial. Na PNL, o objetivo é entender essa intenção positiva ou necessidade subjacente, não para validar o comportamento, mas para *encontrar novas estratégias que possam atender a essa necessidade de maneiras mais saudáveis e éticas*. Isso é fundamental para criar mudanças reais e duradouras.
+		- Ou seja, não significa tolerar determinado compor
 
 ---------
 

@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Técnica de reestruturação.md",
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Técnica de reestruturação.md",
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Técnica de reestruturação.md"
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md"
               }
             }
           },
@@ -346,15 +345,15 @@
       }
     ]
   },
-  "active": "35d5365c61c2fe3b",
+  "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
+    "Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "2. Literature Notes/Topics/Método Zettelkasten.md",
-    "Técnica de reestruturação.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
     "4. Templates/Anotação Atômica X Template.md",

@@ -21,10 +21,15 @@
 ---------
 
 **Oeste: similar**
+- [[Psicologia Positiva]] 
+	- Destaca a importância de uma mentalidade positiva para o bem-estar
+- Transformação da cultura empresarial
 
 **Leste: oposto**
 - Mentalidade rígida e inflexível
-- Psicanálise, que se concentra mais na descoberta de traumas passados, ao invés de mudar ativamente padr~
+	- 'Personalidade e comportamento são imutáveis'
+- Psicanálise, que se concentra mais na descoberta de traumas passados, ao invés de mudar ativamente padrões de pensamento.
+- Poderia ser potencializada com outras intervenções, que trabalham com a aceitação e mudança simultaneamente, como a terapia comportamental dialética.
 
 **Norte: ideia/pergunta**
 - [[Neuroplasticidade]] - capacidade do cérebro se reorganizar e formar novas conexões neurais ao longo da vida
@@ -35,4 +40,4 @@
 	- Melhor desempenho em todas as áreas da vida
 - Criação de novos hábitos adaptativos e destruição de hábitos desadaptativos
 - Aprendemos a morrer com mais facilidade
-	- FMorrer para a sua versão atual e dar vida à sua versão futura
+	- Morrer para a sua versão atual e dar vida à sua versão futura
