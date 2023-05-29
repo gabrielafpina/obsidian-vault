@@ -26,14 +26,10 @@
 	4. Um ponto muito importante, abordado por todos esses autores e filósofos, é que reconhecer a intenção positiva por trás de um comportamento não significa desculpar ou tolerar algo absurdo. Na verdade, esse princípio funciona como uma ferramenta para compreender melhor o motivo por trás de determinada atitude e, consequentemente, desenvolver outras abordagens para a mudança de comportamento. 
 			1. O objetivo não é validar, justificar ou desculpar o comportamento do indivíduo, é apenas reconhecer que, para aquela pessoa especificamente, há algum tipo de benefício percebido ou necessidade atendida através desse comportamento, mesmo que seja profundamente errado ou prejudicial. Na PNL, o objetivo é entender essa intenção positiva ou necessidade subjacente, não para validar o comportamento, mas para *encontrar novas estratégias que possam atender a essa necessidade de maneiras mais saudáveis e éticas*. Isso é fundamental para criar mudanças reais e duradouras.
 				1. Nesse sentido, se o indivíduo teve um comportamento que causou danos a si mesmo ou a outros, por mais que tenha tido uma intenção positiva, percebemos que é evidente a *necessidade de uma mudança*. E é bastante isso que a PNL traz: ela oferece ferramentas e técnicas para auxiliar no desenvolvimento de novas estratégias de comportamento que são mais eficazes e adaptativas, tanto para o indivíduo, quanto para o mundo.
-1.  Aprendizados
-	1. O que eu aprendi com esse tempo longe?
-	2. Importância de blindar a minha mente
-	3. Compromisso e responsabilidade com a comunicação (extrema clareza)
-		1. prezar pela forma
-
-
-**COMO:**
+4. **Aprendizados**
+	1. Me aproximei bastante da minha espiritualidade. Era algo que eu vinha rejeitando bastante mas, mais do que nunca, percebi o quanto é fundamental na minha vida e é o que realmente me faz ser feliz
+	2. Estudei bastante nessas duas últimas semanas e me aprofundei nos meus estudos de PNL, Psicanálise e Inteligência Artificial
+	3. Entendi a importância de desenvolver a minha comunicação de forma mais clara e me comprometo a ser mais responsável com, principalmente, a forma como eu abordo assuntos, principalmente os mais complexos.
 
 **PENSADORES:**
 - [[Sigmund Freud]]
