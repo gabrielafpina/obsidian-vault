@@ -19,7 +19,7 @@
 **PENSADORES:**
 - [[Tony Robbins]] afirma que todos somos movidos por nossas necessidades e que são elas que direcionam os nossos comportamentos. Nesse sentido, todos os comportamentos que temos são tentativas de satisfazer as nossas necessidades e, por esse motivo, carregam uma intenção positiva.
 - [[Sigmund Freud]] delineou a [[teoria dos mecanismos de defesa]], em que afirmava que os mecanismos de defesa são comportamentos inconscientes projetados para proteger o ego de ansiedade e estresse. Embora determinados comportamentos possam parecer destrutivos e prejudiciais para a pessoa de fora, eles tem a intenção positiva de autoproteção para a pessoa de dentro.
-- [[Carl Jung]] criou o conceito de [[sombra]], que seria a parte de nós mesmos que rejeitamos ou ignoramos. Ao mesmo tempo, afirmava que com o objetivo de realmente nos desenvolvermos, seria fundamental integrar a nossa sombra. Fazendo o paralelo com a intenção positiva, a sombra seria o comportamento que usamos para nos proteger ou beneficiar, mesmo que esse comportamento pareça negativo para as outras pessoas.
+- [[Carl Jung]] criou o conceito de [[sombra]], que seria aquela parte de nós mesmos que rejeitamos ou ignoramos. Ao mesmo tempo, afirmava que com o objetivo de realmente nos desenvolvermos, seria fundamental integrar a nossa sombra. Fazendo o paralelo com a intenção positiva, a sombra seria o comportamento que usamos para nos proteger ou beneficiar, mesmo que esse comportamento pareça negativo para as outras pessoas.
 	- Ou seja, tal comportamento 'negativo', a sombra, teria o objetivo de suprir uma necessidade humana. Consequentemente, haveria uma intenção positiva por trás.
 
 **POSSÍVEIS OBJEÇÕES:**

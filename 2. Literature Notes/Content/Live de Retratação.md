@@ -18,11 +18,7 @@
 		2. [[Abraham Maslow]]: o criador da [[pirâmide de Maslow]] afirma que todas as ações humanas são motivadas por uma série de necessidades, começando pelas mais básicas (como comida e abrigo) e subindo para aquelas necessidades consideradas mais complexas (como amor, autoestima e autorrealização).
 			1. Nesse sentido, quando uma pessoa pratica um comportamento que a sociedade vê como destrutivo, é provável que essa pessoa esteja, na verdade, tentando satisfazer uma das necessidades identificadas na hierarquia de Maslow.
 				1. Por exemplo, alguém que está engajado em comportamentos autodestrutivos, como abuso de substâncias, pode estar fazendo isso numa tentativa de satisfazer uma necessidade básica de conforto físico ou uma necessidade mais complexa de lidar com sentimentos de dor emocional ou desconexão social. Nesse sentido, a pessoa estaria tomando uma atitude para satisfazer uma necessidade sua, o que pode ser entendido, também, através da ótica da intenção positiva.
-		3. [[Viktor Frankl]]: Frankl foi um pensador, filósofo e médico
-**3. Aprendizados**
-5. Tudo é amor e o que não é amor é um pedido de amor
-	1. Necessidades emocionais
-6.  Intenção positiva
+		3. [[Carl Jung]]: Jun foi o criador do conceito de [[sombra]] que seria aquela parte de nós mesmos que rejeitamos ou ignoramos. Nesse sentido, a sombra seriam todas as partes que temos dentro de nós que nos rejeitamos a acolher, porque achamos que são incompatíveis com a imagem que temos de nós mesmos - medos, desejos instintivos e profundos, etc. A sombra, então, poderia ser o comportamento aparentemente negativo de um indivíduo, que está buscando uma forma de se expressar.
 7.  Aprendizados
 	1. O que eu aprendi com esse tempo longe?
 	2. Importância de blindar a minha mente
