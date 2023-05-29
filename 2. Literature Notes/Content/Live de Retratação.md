@@ -4,11 +4,12 @@
 **BIG IDEA:** Fundamentar meu discurso no conceito de [[Intenção Positiva]].
 
 **PAUTA:**
-1. Se você chegou até aqui por meio das ultimas polemicas, permita-me me apresentar.
-	1. Gabriela Pina, professora de meditação, me especializando em Programação Neurolinguística
-2. Explicação do porque sumi por 2 semanas
-	1. vídeo mal interpretado. exemplo radical
-3. O que eu aprendi
+**1. Se você chegou até aqui por meio das ultimas polemicas, permita-me me apresentar.**
+	1. Gabriela Pina, professora de meditação, me especializando em Programação Neurolinguística e em Psicanálise.
+**2. Explicação do sumiço**
+	1. Nas duas últimas semanas um recorte de um vídeo meu viralizou e houve uma má interpretação do que eu falei. Utilizei um exemplo radical no vídeo e muitas pessoas ficaram em dúvida sobre o que eu realmente quis dizer, então esse vídeo é para explicar o conceito por trás da minha fala.
+	2. Antes de mais nada, eu queria dizer que eu sinto muito a todos que se sentiram atingidos pelo que eu falei, a minha intenção jamais foi essa. Na verdade, a intenção por trás do meu vídeo era falar sobre um conceito 
+**3. Aprendizados**
 4. Sinto muito a todos que se sentiram ofendidos com o que eu falei
 	1. Deu margem para interpretação
 	2. Porque eu desativei o meu instagram?
