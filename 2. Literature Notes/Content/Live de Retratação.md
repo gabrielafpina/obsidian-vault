@@ -10,7 +10,11 @@
 	1. Nas duas últimas semanas um recorte de um vídeo meu viralizou e houve uma má interpretação do que eu falei. Utilizei um exemplo radical no vídeo e muitas pessoas ficaram em dúvida sobre o que eu realmente quis dizer, então esse vídeo é para explicar o conceito por trás da minha fala.
 	2. Antes de mais nada, eu queria dizer que eu sinto muito a todos que se sentiram atingidos pelo que eu falei, a minha intenção jamais foi essa. Na verdade, a intenção por trás do meu vídeo era falar sobre um conceito da Programação Neurolinguística, Intenção positiva.
 **3. Intenção Positiva**
-	1. Antes mesmo da PNL ser criada, em meados da década de 70, nos EUA, o conteúdo do termo ´Intenção positiva´ já existia em outras abordagens filosóficas
+	1. Antes mesmo da PNL ser criada, em meados da década de 70, nos EUA, o conteúdo do termo ´Intenção positiva´ já existia em outras abordagens filosóficas, psicológicas e espirituais. 
+	2. Alguns autores que já abordavam esse assunto e que eu tenho estudado:
+		1. [[Sigmund Freud]]: Freud foi o pai da psicanálise e propôs que todo comportamento do ser humano é motivado por impulsos inconscientes, que tem como objetivo satisfazer algum desejo humano básico. Aqui, falamos, inclusive, de [[necessidades emocionais]], que todo ser humano tem. Estas são os desejos mais profundos a nível emocional que precisamos que sejam supridos, para que tenhamos uma vida mais plena e cheia de propósito.
+			1. Algumas das principais necessidades emocionais que os seres humanos tem, são as seguintes: amor e afeição, segurança, reconhecimento, validação, conexão e pertencimento. Enfim, são inúmeras.
+			2. E Freud afirmava que muitos desses seres humanos que geralmente tinham uma atitude considerada 'extrema' pela sociedade, eram seres humanos extremame
 **3. Aprendizados**
 5. Tudo é amor e o que não é amor é um pedido de amor
 	1. Necessidades emocionais
