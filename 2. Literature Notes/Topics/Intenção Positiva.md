@@ -40,5 +40,9 @@
 
 **Norte: ideia/pergunta**
 - Todos os comportamentos podem ser aprendidos e alterados
+- Teoria humanista
+	- Todas as pessoas são fundamentalmente boas e capazes de crescimento e mudança
+- Teoria da evolução
+	- Comportamentos que uma vez foram adaptati
 
 **Sul: para onde vai**
