@@ -387,9 +387,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 502,
+        "x": 0,
         "y": 25,
-        "width": 938,
+        "width": 1440,
         "height": 875,
         "maximize": true,
         "zoom": 0
