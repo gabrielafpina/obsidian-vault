@@ -35,14 +35,24 @@
 ---------
 
 **Oeste: similar**
+- [[Psicologia Positiva]]
+	- A mudança de pensamento é possível e benéfica
+- [[Técnica de reestruturação]]
 
 **Leste: oposto**
+- Alguns comportamentos são inerentemente ruins ou destrutivos
+- [[Psicologia behavorista]]
+	- se concentra mais nas recompensas e punições do que nas intenções.
+- Pode ser mal interpretada como desculpa ou justificativa para comportamentos desadaptativos
 
 **Norte: ideia/pergunta**
 - Todos os comportamentos podem ser aprendidos e alterados
 - Teoria humanista
 	- Todas as pessoas são fundamentalmente boas e capazes de crescimento e mudança
 - Teoria da evolução
-	- Comportamentos que uma vez foram adaptati
+	- Comportamentos que uma vez foram adaptativos (intenção positiva) podem se tornar disfuncionais em um novo contexto e, para ter uma vida melhor, seria necessário ter uma mudança de comportamento
 
 **Sul: para onde vai**
+- Promoção da empatia
+- Autoaceitação
+- Melhora da saúde, bem-estar e qualidade de vida
