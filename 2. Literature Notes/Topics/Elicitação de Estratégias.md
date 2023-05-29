@@ -4,11 +4,13 @@
 
 **BIG IDEA:** O comportamento humano não é aleatório, mas sim o resultado de padrões de pensamento e ação.
 
-**DEFINIÇÃO:**
+**DEFINIÇÃO:** Todo resultado que produzimos em nossas vidas, seja ele positivo ou negativo, é o produto de uma estratégia que não necessariamente temos consciência. As estratégias podem incluir nossas *crenças*, *valores*, *regras internas*, *padrões de linguagem*, *sequências de foco* e qualquer outro padrão de pensamento ou comportamento que usamos para processar informações e tomar decisões.
+- A elicitação de estratégias é o processo de descobrir esses padrões de pensamento e comportamento. Uma vez que sejamos capazes de identificar a estratégia que alguém está usando para produzir um resultado específico, podemos '*modelar*' ou copiar essa estratégia para produzir o mesmo resultado em nossas próprias vidas.
 
 **COMO:**
 
 **PENSADORES:**
+- [[Tony Robbins]] explora a ideia de que o sucesso em qualquer área da vida pode ser entendido como o resultado de *estratégias específicas que podem ser aprendidas*, *modeladas* e *replicadas*. Ele argumenta que, se você pode descobrir a estratégia que alguém usa para atingir um resultado específico, pode imitar essa estratégia e alcançar um resultado semelhante.
 
 
 ---------
