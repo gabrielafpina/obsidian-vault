@@ -19,3 +19,9 @@
 - [[Tony Robbins]]
 - [[Richard Bandler]] e [[John Grinder]]
 
+**PALAVRAS PARA USAR:**
+- Radical
+- Atingidas
+
+**O QUE NÃO FALAR:**
+- Quem me conhece sabe
