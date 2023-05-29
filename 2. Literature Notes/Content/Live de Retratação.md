@@ -1,9 +1,15 @@
 **TAGS:** #live #content 
 [[Intenção Positiva]]
 
-**BIG IDEA:** Fundamentar meu discurso em conceitos de [[Intenção Positiva]] e na [[teoria dos mecanismos de defesa]]
+**BIG IDEA:** Fundamentar meu discurso no conceito de [[Intenção Positiva]].
 
 **PAUTA:**
+1. Explicação do porque sumi por 2 semanas
+2. Sinto muito a todos que se sentiram ofendidos com o que eu falei
+3. Tudo é amor e o que não é amor é um pedido de amor
+	4. Necessidades emocionais
+4. Intenção positiva
+5. Compromisso com a comunicação
 
 **COMO:**
 
@@ -13,13 +19,3 @@
 - [[Tony Robbins]]
 - [[Richard Bandler]] e [[John Grinder]]
 
-
----------
-
-**Oeste: similar**
-
-**Leste: oposto**
-
-**Norte: ideia/pergunta**
-
-**Sul: para onde vai**
