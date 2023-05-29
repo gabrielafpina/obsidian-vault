@@ -18,9 +18,65 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "f7697e3f0a29764f"
           }
         ]
+      },
+      {
+        "id": "d4bb42aa78e04ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6212b4aae56711",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2. Literature Notes/Topics/necessidades emocionais.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "f7697e3f0a29764f"
+          },
+          {
+            "id": "586c5478612b4e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Literature Notes/Topics/necessidades emocionais.md",
+            "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Literature Notes/Topics/necessidades emocionais.md",
+            "file": "3. Distilled Notes/Topics/Anotação Atômica X.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Literature Notes/Topics/necessidades emocionais.md"
+            "file": "3. Distilled Notes/Topics/Anotação Atômica X.md"
           }
         }
       }
@@ -139,10 +195,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45f8b235a7f50473",
+  "active": "586c5478612b4e7d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
+    "1. Daily Notes/May/28-05-2023.md",
+    "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "2. Literature Notes/Topics/Exercício da Dualidade do Parceiro Ideal.md",
     "2. Literature Notes/Topics/Nada é bom ou ruim. Tudo depende.md",
