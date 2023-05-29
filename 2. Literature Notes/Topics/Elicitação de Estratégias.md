@@ -8,6 +8,7 @@
 - A elicitação de estratégias é o processo de descobrir esses padrões de pensamento e comportamento. Uma vez que sejamos capazes de identificar a estratégia que alguém está usando para produzir um resultado específico, podemos '*modelar*' ou copiar essa estratégia para produzir o mesmo resultado em nossas próprias vidas.
 
 **COMO:**
+1. Descoberta do principal sistema representativo
 
 **PENSADORES:**
 - [[Tony Robbins]] explora a ideia de que o sucesso em qualquer área da vida pode ser entendido como o resultado de *estratégias específicas que podem ser aprendidas*, *modeladas* e *replicadas*. Ele argumenta que, se você pode descobrir a estratégia que alguém usa para atingir um resultado específico, pode imitar essa estratégia e alcançar um resultado semelhante.
