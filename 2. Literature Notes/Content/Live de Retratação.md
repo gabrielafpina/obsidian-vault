@@ -6,10 +6,11 @@
 **PAUTA:**
 1. Explicação do porque sumi por 2 semanas
 2. Sinto muito a todos que se sentiram ofendidos com o que eu falei
+	1. Deu margem para interpretação
 3. Tudo é amor e o que não é amor é um pedido de amor
 	4. Necessidades emocionais
 4. Intenção positiva
-5. Compromisso com a comunicação
+5. Compromisso e responsabilidade com a comunicação (extrema clareza)
 
 **COMO:**
 
@@ -25,3 +26,7 @@
 
 **O QUE NÃO FALAR:**
 - Quem me conhece sabe
+
+**PRÓXIMOS PASSOS:**
+- Live salva no perfil com comentários fechados
+- Não postar recebidos
