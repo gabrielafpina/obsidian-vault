@@ -12,6 +12,8 @@
 	2. Quais benefícios o indivíduo acredita estar recebendo?
 	3. Quais são os gatilhos para o comportamento?
 2. Criação de novos padrões de pensamento e comportamento
+	1. Mudança de representações internas
+	2. Mudança de fisiologia
 
 **PENSADORES:**
 - [[Richard Bandler]] e [[John Grinder]] afirmam que a mudança de comportamento não é sobre punição ou repressão, mas sobre aprendizado e crescimento. O objetivo é ensinar à pessoa como aprender novas formas de atender às suas [[necessidades emocionais]] e básicas, de forma saudável e positiva para essa pessoa e todos ao seu redor.
@@ -23,5 +25,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- 
 
 **Sul: para onde vai**
