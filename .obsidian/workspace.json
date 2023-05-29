@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sintaxe.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sintaxe.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sintaxe.md"
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md"
               }
             }
           },
@@ -397,10 +396,10 @@
       }
     ]
   },
-  "active": "1dbec3778918ce85",
+  "active": "332e40f29ad4f6f7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "Sintaxe.md",
+    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Content/Live de Retratação.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",

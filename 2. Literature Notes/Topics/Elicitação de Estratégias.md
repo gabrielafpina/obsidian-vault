@@ -11,7 +11,7 @@
 1. Descoberta do principal sistema representativo ([[Canais Sensoriais]])
 2. Reconstrução de experiências
 	1. [[Sintaxe]]
-	2. Submodalidades
+	2. [[Submodalidades]]
 
 **PENSADORES:**
 - [[Tony Robbins]] explora a ideia de que o sucesso em qualquer área da vida pode ser entendido como o resultado de *estratégias específicas que podem ser aprendidas*, *modeladas* e *replicadas*. Ele argumenta que, se você pode descobrir a estratégia que alguém usa para atingir um resultado específico, pode imitar essa estratégia e alcançar um resultado semelhante.

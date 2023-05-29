@@ -15,13 +15,13 @@
 		4. Quando você pensa em alcançar esse resultado novamente, o que você vê?
 		5. Pode descrever detalhadamente o visual do momento que o resultado foi alcançado?
 	2. **Auditivo:**
-		1. Quais sons ou palavras você ouviu quando alcançou esse resultado?
+		1. Quais sons ou palavras você ouviu quando alcançou esse resultado? A voz interior é alta ou baixa? É rápida ou lenta? Os sons são agudos ou graves? Há alguma melodia ou ritmo associado a esses sons?
 		2. Houve alguma música, ruído ou frase que ajudou você a alcançar esse resultado?
 		3. Como soou a voz interior que guiou você até o resultado?
 		4. Quando você pensa em alcançar esse resultado novamente, que sons você ouve?
 		5. Como seria a trilha sonora do momento em que alcançou o resultado desejado?
 	3. **Cinestésico:**
-		1. Como você se sentiu fisicamente quando alcançou esse resultado?
+		1. Como você se sentiu fisicamente quando alcançou esse resultado? Onde no corpo ela sente essas sensações? Elas são quentes ou frias? Leves ou pesadas? Elas se movem ou são estáticas?
 		2. Houve alguma sensação específica no seu corpo que você sentiu ao alcançar esse resultado?
 		3. Como é a sensação de alcançar esse resultado novamente em seu corpo?
 		4. Quais emoções você experimentou ao alcançar o resultado desejado?
