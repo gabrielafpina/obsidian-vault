@@ -20,7 +20,7 @@
 
 **Oeste: similar**
 - Não adianta querer o belo sem ter o feio
-- Mindfulness
+- [[Mindfulness]]
 	- Aceitação de tudo que vier
 - Lei da compensação 
 

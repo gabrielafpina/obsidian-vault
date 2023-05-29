@@ -23,8 +23,16 @@
 **Oeste: similar**
 
 **Leste: oposto**
+- Mentalidade rígida e inflexível
+- Psicanálise, que se concentra mais na descoberta de traumas passados, ao invés de mudar ativamente padr~
 
 **Norte: ideia/pergunta**
-- 
+- [[Neuroplasticidade]] - capacidade do cérebro se reorganizar e formar novas conexões neurais ao longo da vida
+- [[Mindfulness]]
 
 **Sul: para onde vai**
+- Catalisador para o crescimento pessoal
+	- Melhor desempenho em todas as áreas da vida
+- Criação de novos hábitos adaptativos e destruição de hábitos desadaptativos
+- Aprendemos a morrer com mais facilidade
+	- FMorrer para a sua versão atual e dar vida à sua versão futura
