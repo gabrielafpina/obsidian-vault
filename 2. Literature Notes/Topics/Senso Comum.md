@@ -38,9 +38,11 @@ Conhecimentos intuitivos, espontâneos, de tentativas de acertos e erros, facili
 	- Subconsciente é dono da nossa memória e muitas das nossas tentativas de acertos e erros na vida estão aqui.
 	- Esses conhecimentos 'intuitivos' chamamos na psicanálise de senso comum. É aquilo que a gente 'simplesmente sabe'. É passado de geração em geração, que se instala no psiquismo de uma pessoa, criando sentimentos e emoções - criando segurança ou insegurança.
 
-Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias teorias reais ou fantasiosas com a ajuda de nossos pais.
+Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias teorias reais ou fantasiosas com a ajuda de nossos pais. Numa tentativa as vezes misturada de teorias leigas sobre vários assuntos: medicina, farmácia, biologia, psicologia, psicanálise, etc.
 - Algumas fantasias trazem *sentimentos positivos*, mas outras acabam gerando *medo*, como por exemplo, o 'homem do saco', 'a loira do banheiro', além dos *rótulos* e *rumores* que recebemos logo cedo.
 - Vamos, dessa forma, desde cedo aceitando alguns conceitos que podem ser úteis, ou não, no futuro. É quando, então, precisamos remodelar nossos conhecimentos e ressignificar o que assimilamos e o que desejamos de fato para nós. E muitas vezes trabalhando a nossa [[Criança Interior]].
+
+**O senso comum comete enganos.** Outras vezes, se tem uma teoria simplificada sobre a vida. Com recorrência, as pessoas se apropriam de termos científicos definidos pela psicanálise. Ex: 'mulher histérica', 'rapaz complexado'.
 
 ---------
 
@@ -58,4 +60,4 @@ Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias te
 - Formação da personalidade do 'bonzinho'
 - [[Feridas emocionais]]
 - [[Inconsciente Coletivo]]
-- Necessidade
+- Necessidade de trabalhar a [[Criança Interior]] e ressignificar questões
