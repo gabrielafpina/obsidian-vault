@@ -20,10 +20,16 @@
 ---------
 
 **Oeste: similar**
+- Entendimento de desejos e motivações do ser humano aplicados em campanhas de marketing
+- Teoria da Personalidade de [[Carl Jung]]
 
 **Leste: oposto**
+- Críticas à teoria freudiana, incluindo a falta de embasamento científico e a dificuldade de falsificá-las
+- [[Psicologia Positiva]]: foca menos no inconsciente e mais no potencial e bem-estar consciente dos indivíduos.
 
 **Norte: ideia/pergunta**
 - Teoria da evolução de Darwmin na concepção do inconsciente
 
 **Sul: para onde vai**
+- [[necessidades emocionais]]
+- [[Feridas emocionais]]

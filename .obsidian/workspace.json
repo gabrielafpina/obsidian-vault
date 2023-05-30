@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f8adf8ecb04179ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "97daa5145d833d54",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md"
+                "file": "2. Literature Notes/Topics/Processos Psíquicos.md"
               }
             }
           },
@@ -276,10 +288,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e82aec3408190a",
+  "active": "f8adf8ecb04179ec",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/Processos Psíquicos.md",
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "Jacques Lacan.md",
     "2. Literature Notes/Topics/Senso Comum.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
@@ -304,7 +317,6 @@
     "4. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/sombra.md",
     "necessidade emocional.md",
-    "2. Literature Notes/Topics/Mudança.md",
     "2. Literature Notes/Readwise",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
