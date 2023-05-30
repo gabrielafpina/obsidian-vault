@@ -8,7 +8,7 @@
 - Foi o primeiro homem no mundo a unir corpo e mente, portanto, a primeira pessoa que esclareceu e iniciou o processo psicossomático - as emoções negativas causam doenças dentro de você.
 
 **PENSADORES RELACIONADOS:**
-- [[Carl Jung]]
+- [[Carl Jung]]: Jung foi um discípulo de Freud (era o único psicanalista que não era judeu). Freud tinha Jung como a pessoa que iria expandir a psicanálise. Por conta de desentendimentos e discordâncias, eles se separaram. Em 1914 foi a última vez que eles se falaram e se viram.
 - [[Jacques Lacan]]
 
 
