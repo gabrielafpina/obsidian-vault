@@ -32,7 +32,7 @@ Temos uma tendência maior a copiar o igual.
 É assim a psicanálise: observamos um FCO e transformamos em ciência, olhando para aquilo como FCI.
 - Como uma pessoa chega a determinado ponto? Normalmente, através do acúmulo de questões do cotidiano e repetição de padrões, sem pensar.
 
-
+O senso comum está no coletivo também e pode mudar de lugar para lugar. O que é de senso comum em um lugar, pode ser diferente em outro.
 
 ---------
 
@@ -49,3 +49,4 @@ Temos uma tendência maior a copiar o igual.
 - Alienação: série de conhecimentos que colocaram na nossa cabeça e não tivemos tempo de questionar o porquê
 - Formação da personalidade do 'bonzinho'
 - [[Feridas emocionais]]
+- [[Inconsciente Coletivo]]
