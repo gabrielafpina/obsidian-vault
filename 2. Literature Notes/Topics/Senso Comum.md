@@ -20,8 +20,11 @@ Estar vivo é ter a [[pulsão de vida]], e não a [[pulsão de morte]].
 
 Como um conflito surge na vida de uma pessoa? Através de rotas de colisões. Essas pessoas pegaram uma rota de colisão que em algum momento, por alguma razão, ela não percebeu e ela permitiu a [[pulsão de morte]], o nosso lado autodestrutivo, entrando no negativo de forma automática.
 
-Fato do cotidiano (FCO) x Fato científico (FCI)
-- FCO: 
+**Fato do cotidiano (FCO) x Fato científico (FCI)**
+- FCO: algo que acontece no cotidiano com determinada recorrência
+- FCI: quando algum FCO prova alguma lei científica.
+É assim a psicanálise: observamos um FCO e transformamos em ciência, olhando para aquilo como FCI.
+- Como uma pessoa chega a determinado ponto? Normalmente, através do acúmulo de questões do cotidiano e repetição de padrões, sem pensar.
 
 **COMO:**
 
