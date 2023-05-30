@@ -54,6 +54,7 @@ Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias te
 - Ancestralidade
 - Tudo que vivemos vêm da nossa infância
 - Religiões moldam o nosso comportamento
+- Interação constante e a troca de ideias e crenças entre as pessoas em uma sociedade
 
 **Sul: para onde vai**
 - Alienação: série de conhecimentos que colocaram na nossa cabeça e não tivemos tempo de questionar o porquê
@@ -61,3 +62,6 @@ Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias te
 - [[Feridas emocionais]]
 - [[Inconsciente Coletivo]]
 - Necessidade de trabalhar a [[Criança Interior]] e ressignificar questões
+- Empatia: compreensão básica do mundo e das pessoas ao nosso redor
+- Preconceito, estereótipos e convenções sociais
+- Nutrição da 
