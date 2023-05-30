@@ -20,7 +20,11 @@ Estar vivo é ter a [[pulsão de vida]], e não a [[pulsão de morte]].
 
 Como um conflito surge na vida de uma pessoa? Através de rotas de colisões. Essas pessoas pegaram uma rota de colisão que em algum momento, por alguma razão, ela não percebeu e ela permitiu a [[pulsão de morte]], o nosso lado autodestrutivo, entrando no negativo de forma automática.
 
-Se eu tenho padrões se repetindo na minha vida e tendo transferências, é possível que esses fatos estejam se repetindo desde a minha infância. A gente só entra no processo da compulsão, o [[princípio da repetição]], que é um princípio trazido por Freud, quando repetimos compulsivamente aquilo que foi disfuncional.
+Se eu tenho padrões se repetindo na minha vida e tendo transferências, é possível que esses fatos estejam se repetindo desde a minha infância. A gente só entra no processo da compulsão, o [[princípio da repetição]], que é um princípio trazido por Freud, quando repetimos compulsivamente aquilo que foi disfuncional, porque é o que conhecemos e temos como familiar, então acaba que temos a tendência a recriar aquilo novamente no futuro.
+==- Existem sempre duas possibilidades na psicanálise:
+	1. Copiar o igual
+	2. Copiar o modelo oposto==
+Temos uma tendência maior a copiar o igual.
 
 **Fato do cotidiano (FCO) x Fato científico (FCI)**
 - FCO: algo que acontece no cotidiano com determinada recorrência
@@ -28,9 +32,6 @@ Se eu tenho padrões se repetindo na minha vida e tendo transferências, é poss
 É assim a psicanálise: observamos um FCO e transformamos em ciência, olhando para aquilo como FCI.
 - Como uma pessoa chega a determinado ponto? Normalmente, através do acúmulo de questões do cotidiano e repetição de padrões, sem pensar.
 
-**COMO:**
-
-**PENSADORES:**
 
 
 ---------
