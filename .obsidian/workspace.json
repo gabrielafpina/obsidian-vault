@@ -44,6 +44,14 @@
             }
           },
           {
+            "id": "99b07ac5f2127885",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e604615233fdcda7",
             "type": "leaf",
             "state": {
@@ -104,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +198,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +214,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md"
-              }
+              "state": {}
             }
           },
           {
@@ -300,14 +304,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "028ca26b96a39d82",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "IMG_1372.jpg",
-    "2. Literature Notes/People/Sigmund Freud.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
+    "5. Shots, Images & PDFs/IMG_1372.jpg",
+    "2. Literature Notes/People/Sigmund Freud.md",
     "2. Literature Notes/Topics/Senso Comum.md",
-    "Criança Interior.md",
-    "princípio da repetição.md",
+    "2. Literature Notes/Topics/Criança Interior.md",
+    "2. Literature Notes/Topics/princípio da repetição.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
@@ -340,7 +344,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 15.00.04.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 14.42.48.png",
     "1. Daily Notes/May",
-    "5. Shots, Images & PDFs/Auditivas lembradas.jpeg",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "fjyhmfy",
