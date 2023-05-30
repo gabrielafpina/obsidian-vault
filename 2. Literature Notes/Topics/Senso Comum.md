@@ -34,6 +34,10 @@ Temos uma tendência maior a copiar o igual.
 
 O senso comum está no coletivo também e pode mudar de lugar para lugar. O que é de senso comum em um lugar, pode ser diferente em outro.
 
+Conhecimentos intuitivos, espontâneos, de tentativas de acertos e erros, facilitam muito a vida no dia a dia e estão gravados em nosso subconsciente (pré-consciente) [[1ª Teoria do Aparelho Psíquico]].
+	- Subconsciente é dono da nossa memória e muitas das nossas tentativas de acertos e erros na vida estão aqui.
+	- Esses conhecimentos 'intuitivos' chamamos na psicanálise de senso comum. É aquilo que a gente 'simplesmente sabe'. É passado de geração em geração, que se instala no psiquismo de uma pessoa, criando sentimentos e emoções - criando seguraça ou insegurança
+
 ---------
 
 **Oeste: similar**
