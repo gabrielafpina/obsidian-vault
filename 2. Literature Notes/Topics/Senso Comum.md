@@ -18,7 +18,10 @@ O senso comum é uma herança ancestral. Conceituamos a nossa vida de acordo com
 
 Estar vivo é ter a [[pulsão de vida]], e não a [[pulsão de morte]].
 
-A ciência é uma atividade reflexiva que busca compreender e elucidar o cotidiano, a partir de seu estudo sistemático.
+Como um conflito surge na vida de uma pessoa? Através de rotas de colisões. Essas pessoas pegaram uma rota de colisão que em algum momento, por alguma razão, ela não percebeu e ela permitiu a [[pulsão de morte]], o nosso lado autodestrutivo, entrando no negativo de forma automática.
+
+Fato do cotidiano (FCO) x Fato científico (FCI)
+- FCO: 
 
 **COMO:**
 
