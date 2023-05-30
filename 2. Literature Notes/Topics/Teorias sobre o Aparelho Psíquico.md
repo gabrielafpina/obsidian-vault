@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #build 
 
 **FONTE:** Curso Psicanálise
 
@@ -50,7 +50,17 @@ Assim, através da utilização de um modelo da mente proposto pela psicanálise
 **Oeste: similar**
 
 **Leste: oposto**
+- [[Psicologia Positiva]]
+- 
 
 **Norte: ideia/pergunta**
+- Como funciona a estrutura da mente humana?
 
 **Sul: para onde vai**
+- Entendendo como funciona a minha mente, consigo promover mudanças na minha vida
+- [[PNL]]
+- Conhecimento sobre si mesmo
+- [[Comunicação Não-Violenta (CNV)]]
+- [[Intenção Positiva]]
+- [[necessidades emocionais]]
+- [[Pirâmide de Maslow]]
