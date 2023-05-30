@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "20444e7ae4f07362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7e82aec3408190a",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
+                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
+                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md"
+                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md"
               }
             }
           },
@@ -263,12 +276,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4662d568422018e2",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/Senso Comum.md",
     "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Processos Psíquicos.md",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Senso Comum.md",
     "Jacques Lacan.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Content/Live de Retratação.md",
@@ -290,8 +305,6 @@
     "2. Literature Notes/Topics/Método Zettelkasten.md",
     "3. Distilled Notes/Topics/Anotação Atômica X.md",
     "4. Templates/Anotação Atômica X Template.md",
-    "2. Literature Notes/Topics/sombra.md",
-    "necessidade emocional.md",
     "2. Literature Notes/Readwise",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
