@@ -190,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Cadeia Emocional.md"
+              }
             }
           },
           {
@@ -298,6 +302,7 @@
   },
   "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "Mindfulness.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "5. Shots, Images & PDFs/IMG_1372.jpg",
     "2. Literature Notes/People/Sigmund Freud.md",
