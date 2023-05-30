@@ -4,100 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "faf6b45baf4321f3",
+        "id": "f0c4482ae89784ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4662d568422018e2",
+            "id": "cd7143bd90052260",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cce45b3e3dbf9407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
+                "file": "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a2da572dc76357f",
+            "id": "f834c4cdf1ca0ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/People/Sigmund Freud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028ca26b96a39d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e604615233fdcda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20444e7ae4f07362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e82aec3408190a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8adf8ecb04179ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97daa5145d833d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Jacques Lacan.md",
+                "file": "Reflexão sobre relacionamentos passados.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
+                "file": "Reflexão sobre relacionamentos passados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
+                "file": "Reflexão sobre relacionamentos passados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md"
+                "file": "Reflexão sobre relacionamentos passados.md"
               }
             }
           },
@@ -300,26 +236,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "f834c4cdf1ca0ce4",
   "lastOpenFiles": [
-    "Mindfulness.md",
-    "2. Literature Notes/Topics/Cadeia Emocional.md",
-    "5. Shots, Images & PDFs/IMG_1372.jpg",
+    "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
+    "Reflexão sobre relacionamentos passados.md",
+    "2. Literature Notes/People/Jacques Lacan.md",
+    "2. Literature Notes/Topics/Processos Psíquicos.md",
+    "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/People/Sigmund Freud.md",
     "2. Literature Notes/Topics/Senso Comum.md",
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
+    "2. Literature Notes/Topics/Mindfulness.md",
+    "5. Shots, Images & PDFs/IMG_1372.jpg",
     "2. Literature Notes/Topics/Criança Interior.md",
     "2. Literature Notes/Topics/princípio da repetição.md",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
-    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/pulsão de morte.md",
     "2. Literature Notes/Topics/pulsão de vida.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
-    "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Processos Psíquicos.md",
-    "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Content/Live de Retratação.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
@@ -328,8 +266,6 @@
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
-    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
-    "2. Literature Notes/Topics/Psicologia behavorista.md",
     "2. Literature Notes/Content",
     "2. Literature Notes/Readwise",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
