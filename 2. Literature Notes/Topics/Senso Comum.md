@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #content 
 
 **FONTE:** Curso Psicanálise 
 
@@ -47,8 +47,14 @@ Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias te
 ---------
 
 **Oeste: similar**
+- Conhecimento tradicional de culturas
+- Disciplinas como ciência cognitiva e inteligência artificial podem se beneficiar do "senso comum" ao desenvolver sistemas que interagem naturalmente com os humanos.
+- Contos populares, provérbios e memes
 
 **Leste: oposto**
+- Conhecimento científico
+- Perpetuação de ideias equivocadas ou preconceituosas
+- Incorporação da diversidade e questionamentos críticos
 
 **Norte: ideia/pergunta**
 - Ancestralidade
@@ -64,4 +70,4 @@ Nas tentativas de facilitar o dia a dia, o senso comum formula suas próprias te
 - Necessidade de trabalhar a [[Criança Interior]] e ressignificar questões
 - Empatia: compreensão básica do mundo e das pessoas ao nosso redor
 - Preconceito, estereótipos e convenções sociais
-- Nutrição da 
+- Nutrição da formação da identidade social e cultural de um indivíduo ou grupo

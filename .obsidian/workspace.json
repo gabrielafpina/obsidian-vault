@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "78680c007c3486b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criança Interior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0aa81cd6faeb2ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "princípio da repetição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1a2da572dc76357f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
+                "file": "2. Literature Notes/People/Sigmund Freud.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -202,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
+                "file": "2. Literature Notes/People/Sigmund Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
+                "file": "2. Literature Notes/People/Sigmund Freud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md"
+                "file": "2. Literature Notes/People/Sigmund Freud.md"
               }
             }
           },
@@ -312,15 +288,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4662d568422018e2",
+  "active": "1a2da572dc76357f",
   "lastOpenFiles": [
-    "Criança Interior.md",
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Senso Comum.md",
+    "Criança Interior.md",
     "princípio da repetição.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/pulsão de morte.md",
     "2. Literature Notes/Topics/pulsão de vida.md",
