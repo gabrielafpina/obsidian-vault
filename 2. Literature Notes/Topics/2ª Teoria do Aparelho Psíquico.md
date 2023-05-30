@@ -19,12 +19,18 @@
 ---------
 
 **Oeste: similar**
+- [[Inconsciente Coletivo]] de [[Carl Jung]]
+- Teoria do apego
+- Neurociência: Descobertas recentes sobre a estrutura e o funcionamento do cérebro podem fornecer evidências científicas para algumas das ideias de Freud.
 
 **Leste: oposto**
+- Psicologia Cognitiva: Enquanto a 2ª Teoria do Aparelho Psíquico se concentra no inconsciente, a Psicologia Cognitiva se concentra nos processos conscientes
+- [[Psicologia Positiva]]
 
 **Norte: ideia/pergunta**
 - [[Processos Psíquicos]]
 - [[1ª Teoria do Aparelho Psíquico]]
-- 
 
 **Sul: para onde vai**
+- Como resolver conflitos internos
+- Entendimento de desejos e motivações do ser humano aplicados em campanhas de marketing

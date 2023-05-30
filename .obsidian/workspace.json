@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/Senso Comum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/Senso Comum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md"
+                "file": "2. Literature Notes/Topics/Senso Comum.md"
               }
             }
           },
@@ -276,12 +275,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "4662d568422018e2",
   "lastOpenFiles": [
-    "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Senso Comum.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Processos Psíquicos.md",
     "Jacques Lacan.md",
@@ -316,7 +315,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 14.42.48.png",
     "1. Daily Notes/May",
     "5. Shots, Images & PDFs/Auditivas lembradas.jpeg",
-    "5. Shots, Images & PDFs/tipos específicos de respostas.jpeg",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "fjyhmfy",
