@@ -18,6 +18,7 @@ Processos que você elabora dentro da sua mente, de acordo com [[Sigmund Freud]]
 ---------
 
 **Oeste: similar**
+- [[Teoria da Personalidade]] de [[Carl Jung]]
 
 **Leste: oposto**
 - Neurociência

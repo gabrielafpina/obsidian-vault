@@ -17,11 +17,13 @@
     - Algo mais profundo. Temos apenas as informações do recalcado, do reprimido, de muitos traumas e coisas que estão la que eu bloqueei e eu não quero pensar. É um sistema de defesa.
     - No inconsciente não tem nada de bom, só coisas negativas. As coisas boas estão no subconsciente.
 
+
+
 ---------
 
 **Oeste: similar**
 - Entendimento de desejos e motivações do ser humano aplicados em campanhas de marketing
-- Teoria da Personalidade de [[Carl Jung]]
+- [[Teoria da Personalidade]] de [[Carl Jung]]
 
 **Leste: oposto**
 - Críticas à teoria freudiana, incluindo a falta de embasamento científico e a dificuldade de falsificá-las
