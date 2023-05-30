@@ -20,6 +20,8 @@ Estar vivo é ter a [[pulsão de vida]], e não a [[pulsão de morte]].
 
 Como um conflito surge na vida de uma pessoa? Através de rotas de colisões. Essas pessoas pegaram uma rota de colisão que em algum momento, por alguma razão, ela não percebeu e ela permitiu a [[pulsão de morte]], o nosso lado autodestrutivo, entrando no negativo de forma automática.
 
+Se eu tenho padrões se repetindo na minha vida e tendo transferências, é possível que esses fatos estejam se repetindo desde a minha infância. A gente só entra no processo da compulsão, o [[princípio da repetição]], que é um princípio trazido por Freud, quando repetimos compulsivamente aquilo que foi disfuncional.
+
 **Fato do cotidiano (FCO) x Fato científico (FCI)**
 - FCO: algo que acontece no cotidiano com determinada recorrência
 - FCI: quando algum FCO prova alguma lei científica.

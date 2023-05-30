@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -287,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "4662d568422018e2",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/Senso Comum.md",
