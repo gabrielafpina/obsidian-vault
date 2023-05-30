@@ -2,7 +2,7 @@
 
 **FONTE:** Curso Psicanálise 
 
-**BIG IDEA:** 
+**BIG IDEA:** Desvendando a lógica do ilógico: Como nossos pensamentos e comportamentos mais 'comuns' podem ser as chaves mais valiosas para entender a verdadeira profundidade da mente humana.
 
 **DEFINIÇÃO:**
 Como nos tornamos a pessoa que somos hoje? De acordo com [[Sigmund Freud]], pela observação e pelas introjeções das observações, que adotamos como uma parte importante da nossa vida.
