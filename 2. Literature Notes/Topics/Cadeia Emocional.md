@@ -40,5 +40,8 @@ Começou a ser formulada por [[Sigmund Freud]] em 1912, e desde então, se torno
 
 **Norte: ideia/pergunta**
 - nossos sentimentos e comportamentos são o resultado de  [[Processos Psíquicos]] complexos e interconectados
+- Necessidade de controle sobre nossas respostas emocionais e, consequentemente, nossas ações
 
 **Sul: para onde vai**
+- Autoconsciência e autoobservação
+- Inteligência emocional
