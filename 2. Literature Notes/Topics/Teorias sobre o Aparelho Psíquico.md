@@ -1,4 +1,4 @@
-**TAGS:** #build 
+**TAGS:** 
 
 **FONTE:** Curso Psicanálise
 
@@ -48,10 +48,11 @@ Assim, através da utilização de um modelo da mente proposto pela psicanálise
 ---------
 
 **Oeste: similar**
+- Como campanhas de marketing se utilizam do conhecimento humano para criar campanhas mais envolventes
 
 **Leste: oposto**
 - [[Psicologia Positiva]]
-- 
+- Como a falta de consideração para com o aparelho psíquico pode afetar o desenvolvimento de sistemas de inteligência artificial e automatização
 
 **Norte: ideia/pergunta**
 - Como funciona a estrutura da mente humana?
