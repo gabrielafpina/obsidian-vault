@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Processos Psíquicos.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Processos Psíquicos.md"
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md"
               }
             }
           },
@@ -288,10 +288,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8adf8ecb04179ec",
+  "active": "e604615233fdcda7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Processos Psíquicos.md",
+    "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "Jacques Lacan.md",
     "2. Literature Notes/Topics/Senso Comum.md",
