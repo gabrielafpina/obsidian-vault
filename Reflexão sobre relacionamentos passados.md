@@ -1,14 +1,8 @@
 **TAGS:**
 
-**FONTE:**
+**BIG IDEA:** Ao refletir sobre o que aconteceu, podemos fazer diferente a partir de agora.
 
-**BIG IDEA:** 
-
-**DEFINIÇÃO:**
-
-**COMO:**
-
-**PENSADORES:**
+**DEFINIÇÃO:** Esse exercício tem o objetivo de nos ajudar a 
 
 
 ---------
