@@ -2,7 +2,7 @@
 
 **FONTE:** https://www.youtube.com/watch?v=4pm5C3erORo
 
-**BIG IDEA:** Você é o seu ativo mais precioso. Conheça-se e venda muito.
+**BIG IDEA:** Você é o seu ativo mais precioso. Conheça-se e venda mais (e muito).
 
 **DEFINIÇÃO:**
 - O futuro = começar uma marca pessoal. + autoridade percebida
@@ -52,7 +52,11 @@ O nicho mais rentável é você.
 	3. Escreva um esboço do livro. Quais são os capítulos que precisam ser incluídos para que você alcance o objetivo final?
 	4. Crie um esboço para cada um desses capítulos.
 		- Escreva as seções de cada capítulo como um artigo ou newsletter.
-1. **Escreva a sua história:** é isso que faz com que você seja único e com que as pessoas se conectem com você.
+		- Recrie esse conteúdo escrito em um podcast ou vídeo no YT.
+		- Condense os pontos mais importantes em uma sequência de conteúdos (Thread), carrossel ou post no LinkedIn
+		- Reescreva os pontos mais importantes no formato de Twitter post
+		- Recrie os tweets em reels e poste em outras plataformas
+4. **Escreva a sua história:** é isso que faz com que você seja único e com que as pessoas se conectem com você.
 
 **PENSADORES:**
 - [[Dan Koe]]
