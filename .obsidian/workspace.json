@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é ser um criador de conteúdo?.md",
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é ser um criador de conteúdo?.md",
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é ser um criador de conteúdo?.md"
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md"
               }
             }
           },
@@ -253,10 +253,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f24588a5b80f322",
+  "active": "6d91ef313e859e22",
   "lastOpenFiles": [
-    "Dan Koe.md",
     "O que é ser um criador de conteúdo?.md",
+    "Dan Koe.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
