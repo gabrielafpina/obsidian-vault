@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,37 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d6794304f25a3e44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dddd13b4949cffc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e22ff21abbe046bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Mecanismos Acionadores Básicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7 Mecanismos Acionadores Básicos.md",
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7 Mecanismos Acionadores Básicos.md",
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7 Mecanismos Acionadores Básicos.md"
+                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md"
               }
             }
           },
@@ -271,11 +240,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e22ff21abbe046bd",
+  "active": "6d91ef313e859e22",
   "lastOpenFiles": [
     "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
-    "7 Mecanismos Acionadores Básicos.md",
+    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
+    "7 Mecanismos Acionadores Básicos.md",
     "estados emocionais.md",
     "Poder Sem Limites by Tony Robbins.md",
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites.md",
@@ -298,7 +268,6 @@
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Processos Psíquicos.md",
-    "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
     "5. Shots, Images & PDFs/IMG_1372.jpg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "2. Literature Notes/Content",

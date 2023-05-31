@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #build uild #content 
 
 **FONTE:** [[Tony - Poder Sem Limites]] [[Tony Robbins]]
 
@@ -25,5 +25,6 @@ Para liberar a magia que existe dentro de nós, existe um passo a passo a ser se
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[PNL]]
 
 **Sul: para onde vai**
