@@ -10,7 +10,10 @@
 - Escolher o nicho é um dos maiores problemas para quem vai começar a criar conteúdo, ou vai fazer transição de carreira
 - [[O que é ser um criador de conteúdo?]]
 - Uma coisa que mais destacou o [[Dan Koe]] na criação de conteúdo dele, é que ele nunca teve um nicho estático.
-	- É sobre falar 
+	- É falar sobre o que você quiser, de uma forma que interesse outras pessoas.
+	- 80% do conteúdo dele não estava relacionado ao que ele vendia.
+	- [[Autoconsciência é o maior hack de negócios]]
+	- **O GRANDE DESAFIO:** Como eu te introduzo para a importância de um assunto, de forma que eu possa construir um raciocínio em cima e você se interessar?
 
 **COMO:**
 É muito simples:
