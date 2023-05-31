@@ -1,8 +1,8 @@
 {
   "amazonRegion": "global",
-  "highlightsFolder": "2. Literature Notes/Books",
+  "highlightsFolder": "2. Literature Notes/Readwise",
   "lastSyncMode": "amazon",
-  "isLoggedIn": false,
+  "isLoggedIn": true,
   "syncOnBoot": false,
   "downloadBookMetadata": true
 }

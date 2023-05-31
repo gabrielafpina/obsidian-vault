@@ -1,0 +1,1350 @@
+---
+kindle-sync:
+  bookId: '4109'
+  title: >-
+    Expert Secrets: The Underground Playbook for Converting Your Online Visitors
+    into Lifelong Customers
+  author: Russell Brunson
+  asin: B085BT8V5P
+  lastAnnotatedDate: '2023-01-09'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81HLWEgdRNL._SY160.jpg'
+  highlightsCount: 443
+---
+# Expert Secrets
+## Metadata
+* Author: [Russell Brunson](https://www.amazon.comundefined)
+* ASIN: B085BT8V5P
+* ISBN: 1788178564
+* Reference: https://www.amazon.com/dp/B085BT8V5P
+* [Kindle link](kindle://book?action=open&asin=B085BT8V5P)
+
+## Highlights
+There is a big difference between making a funnel and making a funnel that actually converts online visitors into lifelong customers. — location: [169](kindle://book?action=open&asin=B085BT8V5P&location=169) ^ref-58313
+
+---
+I’m going to teach you the fundamentals of persuasion, story selling, building a tribe, becoming a leader, and how to communicate with the people who enter into your funnels. If I do my job right, you are no longer going to look at your business as a product or a service, or even an offer, but instead you’ll look at it as a movement of people you’ve been called to serve.” — location: [172](kindle://book?action=open&asin=B085BT8V5P&location=172) ^ref-63150
+
+---
+I believe that your business is a calling. You’ve been called to serve a group of people with the products, services, and offers that you’ve created. People come into your funnels looking for a solution to their problems. By positioning yourself as an expert, and learning how to tell your story in a way that gets people to move, you are able to guide people through your value ladder, giving them the results they are looking for. This is how you change the lives of your customers, and this is how you grow a company. — location: [190](kindle://book?action=open&asin=B085BT8V5P&location=190) ^ref-8913
+
+---
+I believe that business and entrepreneurship is a calling we receive. My friend Ryan Moran once told me, “An entrepreneur is someone who takes personal responsibility for a problem that wasn’t their own.” — location: [205](kindle://book?action=open&asin=B085BT8V5P&location=205) ^ref-55262
+
+---
+Something you have experienced in your life started you on this path to create your business. It forced you to become more. You saw a problem, and then you had to read, study, and experiment with the things you learned in order to create the solutions you now offer your clients. By going through this refining process, you have become who you are today: an expert. — location: [209](kindle://book?action=open&asin=B085BT8V5P&location=209) ^ref-58337
+
+---
+He wanted me to see that the product was just a tool, but creating a movement is what actually changed people. — location: [237](kindle://book?action=open&asin=B085BT8V5P&location=237) ^ref-38921
+
+---
+How do we create a movement that will change people’s lives? — location: [240](kindle://book?action=open&asin=B085BT8V5P&location=240) ^ref-35512
+
+---
+build a mass movement: They each had a charismatic leader (or as we called it in DotCom Secrets, an Attractive Character). In this book we are going to take that role to the next level and call it an expert/guide. They each offered their audience a new opportunity. They then created a future-based cause that united the tribe of people they had attracted. — location: [248](kindle://book?action=open&asin=B085BT8V5P&location=248) ^ref-53649
+
+---
+The Expert Offers Someone a New Opportunity and Then Guides Them to a Result with a Future-Based Cause. — location: [253](kindle://book?action=open&asin=B085BT8V5P&location=253) ^ref-10809
+
+---
+The first stage of becoming the expert is to step into your role as a leader to guide your dream customers to their destination. — location: [268](kindle://book?action=open&asin=B085BT8V5P&location=268) ^ref-53587
+
+---
+“we are all in a relationship business, not a product business.” He explained to me that people may come into your value ladder because of a product, but they stay because of their relationship with you, — location: [301](kindle://book?action=open&asin=B085BT8V5P&location=301) ^ref-53942
+
+---
+We are in the business of attracting our dream customers and then leading them to the results that we can get for them. — location: [310](kindle://book?action=open&asin=B085BT8V5P&location=310) ^ref-21129
+
+---
+five things to develop your passion or expertise.3 Go experiment with a ton of stuff. Identify things that spark your interest. Engage deeply with those things. As you engage, if it goes from interest to true fascination, go down the path of gaining mastery. Fascination + Mastery = Passion — location: [318](kindle://book?action=open&asin=B085BT8V5P&location=318) ^ref-31148
+
+---
+You’ve been blessed with talents, ideas, and unique abilities that have gotten you to where you are in life, and these gifts were given to you so you could share them with others. There are people today who need what you have. And they are just waiting for you to find your voice, so you can help them change their lives. What a tragedy for them if you don’t develop your voice now. — location: [351](kindle://book?action=open&asin=B085BT8V5P&location=351) ^ref-17654
+
+---
+Look at what comes easily to you and what you love to geek out on, and chances are that’s where your superpower is hiding, just waiting to be developed and shared with the world. — location: [358](kindle://book?action=open&asin=B085BT8V5P&location=358) ^ref-39312
+
+---
+Your own knowledge isn’t enough. You need to interview other experts to gain different viewpoints. — location: [361](kindle://book?action=open&asin=B085BT8V5P&location=361) ^ref-1755
+
+---
+The next phase in your expert evolution is to start learning everything about your topic from multiple points of view. We need to keep your teachability index high so you are open to new ideas that you will need to create your own frameworks. The best way to do this is for your Attractive Character to take on the identity of the reporter and interview everyone you can get access to who is a few chapters ahead of where you are right now. — location: [380](kindle://book?action=open&asin=B085BT8V5P&location=380) ^ref-53306
+
+---
+The fastest way to turn your spark into a fire is to get around others who are on fire already. — location: [383](kindle://book?action=open&asin=B085BT8V5P&location=383) ^ref-44705
+
+---
+Going to live events: — location: [386](kindle://book?action=open&asin=B085BT8V5P&location=386) ^ref-49629
+
+---
+This gave me the chance to hear the other experts/speakers onstage, so I could quickly start to see what things were being taught and what things were resonating with people the most. — location: [387](kindle://book?action=open&asin=B085BT8V5P&location=387) ^ref-30618
+
+---
+I also learned what things people were struggling with and not finding answers to. — location: [389](kindle://book?action=open&asin=B085BT8V5P&location=389) ^ref-6563
+
+---
+Starting your own “show” or podcast: — location: [391](kindle://book?action=open&asin=B085BT8V5P&location=391) ^ref-59911
+
+---
+it’s the fastest way to build a relationship from the other experts in your market and learn directly from them. — location: [392](kindle://book?action=open&asin=B085BT8V5P&location=392) ^ref-57417
+
+---
+It will help you discover what gaps are in the market and what frameworks you can create for the new opportunity you will be offering your market. — location: [395](kindle://book?action=open&asin=B085BT8V5P&location=395) ^ref-33834
+
+---
+Launching a summit funnel: — location: [396](kindle://book?action=open&asin=B085BT8V5P&location=396) ^ref-25572
+
+---
+Not only can you use this funnel to build a large list of subscribers and followers, it is also an amazing way to interview the top experts in your field. — location: [397](kindle://book?action=open&asin=B085BT8V5P&location=397) ^ref-4480
+
+---
+I got so addicted by learning directly from the authors that I started to message every author of every book I loved, and most of them allowed me to interview them! — location: [409](kindle://book?action=open&asin=B085BT8V5P&location=409) ^ref-46843
+
+---
+After you’ve invested in your own growth, you’re ready to move into contribution to start sharing your knowledge with others. — location: [413](kindle://book?action=open&asin=B085BT8V5P&location=413) ^ref-27325
+
+---
+The first two phases are all about personal growth. That’s how it typically starts. We get excited about a topic and we start geeking out on it. We learn, read books, study examples, listen to podcasts, and consume a lot of information. Next we put on our reporter hat and interview the people we have been learning from to get customized answers to our questions. But then, at some point, we realize the only way to keep growing isn’t to learn more, but instead to shift our focus from personal growth to contribution. It’s only by shifting our focus to helping others that we continue to grow. As we help others and guide them through what we’ve learned, we start to grow again. Contribution is the key to continued growth. — location: [415](kindle://book?action=open&asin=B085BT8V5P&location=415) ^ref-55463
+
+---
+Contributing to other people’s success helped me grow more than focusing on my own success. — location: [431](kindle://book?action=open&asin=B085BT8V5P&location=431) ^ref-5097
+
+---
+First, we become passionate about a particular topic. We study, we learn, and we implement, but eventually we can’t grow anymore from study alone. We then shift our focus to helping others with what we’ve learned, and that contribution helps them, which in turn also helps us continue to grow. — location: [433](kindle://book?action=open&asin=B085BT8V5P&location=433) ^ref-38898
+
+---
+As I am going through the process of growth, I’m looking for patterns of how to achieve a certain result. Each of these patterns is a process or a framework for success. As you get into creating content, telling stories, making offers, and taking on a lot of the other roles of an Attractive Character and an expert, having your own frameworks becomes essential. — location: [438](kindle://book?action=open&asin=B085BT8V5P&location=438) ^ref-47359
+
+---
+Over the years as I’ve been studying each concept, interviewing others, and testing out the principles in my business and my life, I look for the patterns of what worked, then I create a process or framework to make it easier for others to replicate my success. — location: [443](kindle://book?action=open&asin=B085BT8V5P&location=443) ^ref-58955
+
+---
+identify patterns for success and then build your own frameworks to help facilitate that success for others. — location: [446](kindle://book?action=open&asin=B085BT8V5P&location=446) ^ref-36321
+
+---
+it’s essential to remember that people buy products because they want certain results. My question for you would be: What is the framework that someone must follow to get that result? Your product is likely just a piece of that framework. — location: [450](kindle://book?action=open&asin=B085BT8V5P&location=450) ^ref-58482
+
+---
+I teach the framework as a guide, and then my products or services become a step inside the framework of success I am giving. — location: [453](kindle://book?action=open&asin=B085BT8V5P&location=453) ^ref-64836
+
+---
+If I just sold ClickFunnels, I would have been like any of my competitors. Instead, I built dozens of frameworks that I am able to use to guide my dream customers toward the results they are looking for. In the process, they built a relationship with me because I was the one who gave them the frameworks and positioned myself as an expert. As a byproduct of that, people will often use the products and services I recommend (including my own) from within those frameworks to help get their desired results. — location: [459](kindle://book?action=open&asin=B085BT8V5P&location=459) ^ref-25527
+
+---
+Step #1—Create your framework hypothesis: During your first two phases of growth as an expert, you will be spending time learning other people’s frameworks for success. It could be by reading their books, listening to their podcasts, or watching them speak at live events. As you transition to your role as the reporter, you have a unique opportunity to dig deeper into their frameworks, ask them personalized questions, and gain a level of mastery in their process that very few people will ever have access to. Your job now as the expert is to become a framework creator. You do this by taking the information you’ve learned from tons of different sources and other people’s frameworks, looking at it, and organizing it into your own personal hypothesis for the perfect framework. During this step you are doing what Bruce Lee meant when he said, “Research your own experience, absorb what is useful, reject what is useless, and add what is essentially your own.” — location: [462](kindle://book?action=open&asin=B085BT8V5P&location=462) ^ref-41305
+
+---
+That is your job now: to build your own framework after seeing all the other ways and other opportunities people are using to try and achieve that result. — location: [472](kindle://book?action=open&asin=B085BT8V5P&location=472) ^ref-31028
+
+---
+Your framework hypothesis is the first draft you are going to create based on everything you’re learning and the ideas and epiphanies that you’ve had during your journey of growth. The first thing to do is pretend that you are coaching your first client through this process. That client is you, when you first found your spark of interest in the topic. You are a few chapters ahead of where you were when you began. Sit down and write everything that you would want to teach yourself before you began this journey. Make a bullet list of as many topics as you can think of; the more the better. — location: [478](kindle://book?action=open&asin=B085BT8V5P&location=478) ^ref-16821
+
+---
+Keep doing bullet points like this until you have everything you would need to teach others to guarantee them the results you promised. After you make the list, you need to organize it into an outline in the order that you would teach the bullet points to yourself, similar to a table of contents in a book. — location: [489](kindle://book?action=open&asin=B085BT8V5P&location=489) ^ref-27410
+
+---
+Often, your larger frameworks will have smaller frameworks inside of them. — location: [509](kindle://book?action=open&asin=B085BT8V5P&location=509) ^ref-52458
+
+---
+Step #2—Test your framework hypothesis on yourself (human guinea pig): One of the writers I respect the most is Tim Ferriss, author of The 4-Hour Workweek, The 4-Hour Body, The 4-Hour Chef, and more. The reason I like Tim’s writing is because he doesn’t just learn something and republish it. He studies the best, interviews the top experts on the planet, and becomes a human guinea pig to test out their ideas and see if they work before he publishes them. — location: [512](kindle://book?action=open&asin=B085BT8V5P&location=512) ^ref-6394
+
+---
+The problem with most “experts” is they hear a good idea and then they go and regurgitate it as their own. This is not what you’re doing when you create your own unique, proprietary frameworks. I told people after I wrote DotCom Secrets that I learned many of these concepts from others before me, but then I took every one of the ideas and tested them on my own businesses, refined the processes, found out what worked and what didn’t, learned my own insights, formed my own hypotheses, and tested those hypotheses. From that process, I earned that book. — location: [518](kindle://book?action=open&asin=B085BT8V5P&location=518) ^ref-61399
+
+---
+Often as you go through this process, you’ll find that parts of your framework hypothesis don’t work, or you figure out ways to do it better. There is nothing wrong with that; in fact, that is the goal: to find the holes and figure out better ways to get the outcomes your framework is designed to get. Even after years of teaching certain frameworks, things in the market will change, or I’ll learn something new, or discover a better way to accomplish what I’m trying to teach others, and I update and change my frameworks when those things happen. — location: [525](kindle://book?action=open&asin=B085BT8V5P&location=525) ^ref-7634
+
+---
+Step #3—Give your framework a proprietary name: After you’ve created your framework, you need a name for your proprietary system. I like having an easy name for my framework so people can remember the process by the name itself, but also so it becomes a proprietary methodology that I own. — location: [531](kindle://book?action=open&asin=B085BT8V5P&location=531) ^ref-15525
+
+---
+After I name the framework, I then want to have a description of what it is and what it will do if you follow the process. — location: [535](kindle://book?action=open&asin=B085BT8V5P&location=535) ^ref-5566
+
+---
+So your framework description should fit into this sentence: ______________________________: (your framework name) My ________-step framework (or system, process) for _______________________________ (insert result). — location: [538](kindle://book?action=open&asin=B085BT8V5P&location=538) ^ref-15106
+
+---
+After you’ve tried and tested your framework on yourself, you need to try it on others to perfect it and ensure it produces the same (or better) results. — location: [546](kindle://book?action=open&asin=B085BT8V5P&location=546) ^ref-60138
+
+---
+This is where you prove the frameworks that you’ve created don’t just work for you, but will work for other people too. It’s also the phase where you have a chance to practice, refine your message and your process, and perfect your frameworks. This is important, because at first, chances are that you and your frameworks won’t be very good, and that’s okay. — location: [549](kindle://book?action=open&asin=B085BT8V5P&location=549) ^ref-65421
+
+---
+Whenever I develop something new, the first thing I do is find a beta group of people I can test it with. — location: [555](kindle://book?action=open&asin=B085BT8V5P&location=555) ^ref-45735
+
+---
+The goal with this or any kind of business is not to lead with, “How can I sell my product?” Instead, you want to ask, “How can I serve people?” — location: [582](kindle://book?action=open&asin=B085BT8V5P&location=582) ^ref-19155
+
+---
+The last step to becoming an expert or guide is to take on that role and start leading others to their destination. — location: [585](kindle://book?action=open&asin=B085BT8V5P&location=585) ^ref-53813
+
+---
+Your results are your certification. — location: [601](kindle://book?action=open&asin=B085BT8V5P&location=601) ^ref-15368
+
+---
+You don’t have to be the most knowledgeable person in the world on your topic, you just have to be one chapter ahead of the people you’re helping. There will always be people in the world who are more advanced than you are. That’s fine. You can learn from them, but don’t let it stop you from helping the ones who are a chapter or two behind you. — location: [608](kindle://book?action=open&asin=B085BT8V5P&location=608) ^ref-62855
+
+---
+As I mentioned earlier, Jay Abraham once said, “People are silently begging to be led,” and I believe that’s true. So how do you become the type of leader they need? It starts with finding your voice. The secret to finding your voice is in sharing your message consistently for a long time. — location: [613](kindle://book?action=open&asin=B085BT8V5P&location=613) ^ref-27911
+
+---
+The good news for me (and also for you) is during your first episodes—the ones when you are the worst—no one is listening to you yet! If — location: [627](kindle://book?action=open&asin=B085BT8V5P&location=627) ^ref-56758
+
+---
+Don’t look at your stats, downloads, or numbers at first, because you’re just trying to build the foundation for something great, and it will take time. — location: [632](kindle://book?action=open&asin=B085BT8V5P&location=632) ^ref-59951
+
+---
+Let me walk you through the steps that will make your show a success. Step #1—Publish daily for at least a year: The first commitment you have to make is that you will be consistent. I knew when I started that if I didn’t find a platform that was easy for me and easy to create the content, I wouldn’t be consistent. What platform makes the most sense for you? If — location: [643](kindle://book?action=open&asin=B085BT8V5P&location=643) ^ref-10812
+
+---
+First, figure out where you will publish, then decide how and when you are going to publish. — location: [647](kindle://book?action=open&asin=B085BT8V5P&location=647) ^ref-23187
+
+---
+If you can publish every day for a year, you’ll never have to worry about money problems again. — location: [649](kindle://book?action=open&asin=B085BT8V5P&location=649) ^ref-45174
+
+---
+There is so much content being produced that we can’t possibly discover it all. So instead, we wait for the best content to float to the surface after time. If step one in building an audience is to create great content, step two is to endure long enough to get noticed. — location: [655](kindle://book?action=open&asin=B085BT8V5P&location=655) ^ref-6304
+
+---
+You must be publishing or you will never become relevant, and you must continue publishing if you want to remain relevant. This part of the traffic flywheel does not go away. — location: [660](kindle://book?action=open&asin=B085BT8V5P&location=660) ^ref-12141
+
+---
+He had the fans and he had a following, so he simply introduced them to the new offers he created and became an “overnight success.” — location: [675](kindle://book?action=open&asin=B085BT8V5P&location=675) ^ref-62653
+
+---
+Step #2—Document the journey: — location: [676](kindle://book?action=open&asin=B085BT8V5P&location=676) ^ref-64857
+
+---
+One of the most powerful things I learned from Gary Vaynerchuk is a concept he calls “Document, Don’t Create.” — location: [678](kindle://book?action=open&asin=B085BT8V5P&location=678) ^ref-33875
+
+---
+In very simple terms, “documenting” versus “creating” is what The Real World and Keeping up with the Kardashians are to Star Wars and Friends. And don’t get confused—just because you’re “documenting” doesn’t mean you’re not creating content. It’s just a version of creating that is predicated more on practicality instead of having to think of stories or fantasy—something that’s very hard for most people (including myself). — location: [688](kindle://book?action=open&asin=B085BT8V5P&location=688) ^ref-52025
+
+---
+one of the biggest mistakes people make when creating content for their personal brand is trying to oversell themselves because they think that’s what’s going to get people’s attention. Whether you’re a business coach or motivational speaker or artist, I think it’s much more fruitful to talk about your process than about the actual advice you “think” you should be giving them. Documenting your journey versus creating an image of yourself is the difference between saying “You should . . .” versus “My intuition says . . .” Get it? It changes everything. I believe that the people who are willing to discuss their journeys instead of trying to front themselves as the “next big thing” are going to win. So, when I say to put out those six to seven meaningful pieces of content a day, just pick up your smartphone, open Facebook Live, and just start talking about the things most important to you. Because in the end, the creative (or how “beautiful” someone thinks your content is) is going to be subjective. What’s not subjective is the fact that you need to start putting yourself out there and keep swinging. Starting is the most important part and the biggest hurdle that most people are facing. They’re pondering and strategizing instead of making. They’re debating what’s going to happen when they haven’t even looked at what’s in front of them. — location: [696](kindle://book?action=open&asin=B085BT8V5P&location=696) ^ref-12092
+
+---
+I’m not publishing because I know everything about this topic, I’m publishing because I’m obsessed with this topic. I’m in a constant search for new and better ways to market my own company, and as I run across them, have ideas, read cool things, I’m sharing them with my people. — location: [711](kindle://book?action=open&asin=B085BT8V5P&location=711) ^ref-52364
+
+---
+So my first question for you as you start your show is this, What is the big result that you’re obsessed with? What you are trying to learn for yourself anyway that you can document as you’re discovering it in real time? When you listen to the introduction to my podcast, I call out what the big question is that I’m answering on my show: “So, the big question is this: How are entrepreneurs like us, who didn’t cheat and take on venture capital, who are spending money from our own pockets, how do we market in a way that lets us get our products and services and the things that we believe in out to the world, yet still remain profitable? That is the question, and this podcast will give you the answers. My name is Russell Brunson, and welcome to the Marketing Secrets podcast.” — location: [714](kindle://book?action=open&asin=B085BT8V5P&location=714) ^ref-12326
+
+---
+Step #3—Testing your material: — location: [728](kindle://book?action=open&asin=B085BT8V5P&location=728) ^ref-48074
+
+---
+I started teaching at small seminars and workshops. I would explain concepts and watch to see which ideas made sense to people, and which ideas were confusing. At each event, I would teach the concepts again, over and over, tweaking and refining the ideas and stories every time. I did interviews, podcasts, videos, and articles, testing my materials over and over again. — location: [743](kindle://book?action=open&asin=B085BT8V5P&location=743) ^ref-60155
+
+---
+Publishing your show daily, as you’re documenting your journey, will also give you a chance to start testing your material. You’ll discover what messages connect with people, which episodes get shared and which ones don’t. Which messages get people to show up and comment, and which messages don’t connect. It’s this very process of showing up consistently and publishing that will help you refine your message, find your voice, and attract your dream customers to you. It doesn’t matter whether your end goal is a book, a webinar, a keynote presentation, a viral video, or something else, the more you publish and test your material, the clearer your message will become and the more people you will attract. — location: [751](kindle://book?action=open&asin=B085BT8V5P&location=751) ^ref-63634
+
+---
+Step #4—Learn to be prolific: — location: [756](kindle://book?action=open&asin=B085BT8V5P&location=756) ^ref-17890
+
+---
+When I say prolific, some people think I’m talking about producing a lot of content. While that is true, there is another definition for prolific: someone who has abundant inventiveness. They invent new, unique ideas and frameworks all the time. That’s the type of prolific I’m talking about here. To make the biggest impact on the most people, and at the same time make the most money, it’s vital that you fit your message into the sweet spot on what I call the Prolific Index. — location: [759](kindle://book?action=open&asin=B085BT8V5P&location=759) ^ref-29704
+
+---
+When you’re constantly sharing new and innovative ideas, you fall into what I call the Prolific Zone. — location: [764](kindle://book?action=open&asin=B085BT8V5P&location=764) ^ref-39975
+
+---
+In the middle of the Prolific Index is the mainstream. This area includes the ideas currently being taught to the masses via traditional mediums. — location: [765](kindle://book?action=open&asin=B085BT8V5P&location=765) ^ref-15796
+
+---
+People can go to school and learn about all this stuff. It’s common sense. It’s not exciting. There’s no money in the mainstream. — location: [769](kindle://book?action=open&asin=B085BT8V5P&location=769) ^ref-15577
+
+---
+One of my favorite examples of the crazy zone in the weight-loss world comes from a documentary I watched called Eat the Sun.9 In this movie, they talked about how people can stop eating and just gaze at the sun. — location: [772](kindle://book?action=open&asin=B085BT8V5P&location=772) ^ref-42744
+
+---
+The sweet spot, the place where you will impact the most lives and make the most money, is right in the middle. Somewhere between the mainstream advice and the crazy zone is where you want to set yourself up. I call this place the Prolific Zone. When you’re there, you’re relaying ideas that are so unique, people will notice. — location: [777](kindle://book?action=open&asin=B085BT8V5P&location=777) ^ref-40502
+
+---
+Did you notice how this message causes some polarity? The mainstream will probably hate it, yet there is something interesting there. — location: [787](kindle://book?action=open&asin=B085BT8V5P&location=787) ^ref-46029
+
+---
+When your message causes polarity, it attracts attention, and people will pay for it. Neutrality is boring, and rarely is money made or change created when you stay neutral. Being polar is what will attract raving fans and people who will follow you and pay for your advice. — location: [789](kindle://book?action=open&asin=B085BT8V5P&location=789) ^ref-55766
+
+---
+As you become more polar in your messaging, you will also notice that people on the other side of your message won’t be happy about it. By creating true fans, you will always upset those on the other side. — location: [793](kindle://book?action=open&asin=B085BT8V5P&location=793) ^ref-11918
+
+---
+without the polarity of your message, you can’t get to your true fans and help create the change they need. — location: [798](kindle://book?action=open&asin=B085BT8V5P&location=798) ^ref-43737
+
+---
+“If you haven’t offended someone by noon each day, then you’re not marketing hard enough.” — location: [800](kindle://book?action=open&asin=B085BT8V5P&location=800) ^ref-7062
+
+---
+Step #5—Master persuasion: — location: [807](kindle://book?action=open&asin=B085BT8V5P&location=807) ^ref-57956
+
+---
+“People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions, and help them throw rocks at their enemies.” — location: [811](kindle://book?action=open&asin=B085BT8V5P&location=811) ^ref-51120
+
+---
+To turn your dream customers into true fans, you have to encourage their dreams, justify their failures, allay their fears, confirm their suspicions, and help them throw rocks at their enemies. — location: [814](kindle://book?action=open&asin=B085BT8V5P&location=814) ^ref-31911
+
+---
+Encourage their dreams: As the leader, it’s vital that you first understand your audience’s dreams, then encourage them inside the new opportunity you are creating for them. — location: [817](kindle://book?action=open&asin=B085BT8V5P&location=817) ^ref-55223
+
+---
+Justify their failures: Most people who become followers and then fans will have tried to make a change before. You will not be the first person they have tried to learn from. For some reason, they didn’t get their needs met from any prior encounters. It’s important that you take the blame for past failures off their shoulders and place it back onto the old opportunities they attempted in the past. This way, they will be more open to trying your new opportunity. — location: [822](kindle://book?action=open&asin=B085BT8V5P&location=822) ^ref-15066
+
+---
+Allay their fears: To allay is to diminish or put to rest. If you can put people’s fears to rest and give them hope, they will follow you to the ends of the Earth and back again. — location: [829](kindle://book?action=open&asin=B085BT8V5P&location=829) ^ref-61018
+
+---
+there are those who do realize this and pay special attention to our fears. They do not tell us not to be afraid. They work with us until our fear subsides. They present evidence. They offer support. They tell us stories. But they do not tell us how to feel and expect us to feel that way. When you are afraid, which type of person do you prefer to be with? — location: [833](kindle://book?action=open&asin=B085BT8V5P&location=833) ^ref-19488
+
+---
+Confirm their suspicions: Your audience is already suspicious of you and others in your market. They want to believe change is possible, but they’re skeptical about making the leap forward. When you can confirm in story format that you had similar suspicions and describe how you overcame them, it will bond people to you. One of our favorite things to say is “I knew it.” There is just nothing quite like having our suspicions confirmed. When another person confirms something that we suspect, we not only feel a surge of superiority, we feel attracted to the one who helped make that surge come about. — location: [836](kindle://book?action=open&asin=B085BT8V5P&location=836) ^ref-59799
+
+---
+Throw rocks at their enemies: One big key to growing your following is creating “Us vs. Them” within your community. Take a stand for what you believe, why you’re different, and who you’re collectively fighting against. Why is your movement better than the alternatives? Nothing bonds people like having a common enemy. — location: [843](kindle://book?action=open&asin=B085BT8V5P&location=843) ^ref-3057
+
+---
+Step #6—Care . . . a lot: The next part of being an expert is showing people that you actually care about them. Theodore Roosevelt said, “Nobody cares how much you know until they know how much you care.” — location: [851](kindle://book?action=open&asin=B085BT8V5P&location=851) ^ref-64507
+
+---
+There are two reasons it’s essential to their success that they pay you. — location: [856](kindle://book?action=open&asin=B085BT8V5P&location=856) ^ref-38796
+
+---
+Yes, those who pay, pay attention—and the more they pay, the closer attention they pay. You are doing your audience a huge disservice if you undervalue what you are selling. — location: [860](kindle://book?action=open&asin=B085BT8V5P&location=860) ^ref-33341
+
+---
+Second, the more success you have, the less time you will have. — location: [861](kindle://book?action=open&asin=B085BT8V5P&location=861) ^ref-56006
+
+---
+You will need to put up barriers to protect your time so you can serve more people. By charging for what you do, you are showing those who do invest how much you really care about their success. — location: [864](kindle://book?action=open&asin=B085BT8V5P&location=864) ^ref-44849
+
+---
+that you don’t become a leader overnight. Start sharing your message and become consistent with it so you can find your voice. Figure out where your message can polarize people into true fans. Share your backstory and flaws. Be transparent. And over time, you will naturally become the leader your tribe needs. — location: [866](kindle://book?action=open&asin=B085BT8V5P&location=866) ^ref-26408
+
+---
+“Your framework is your savior.” You see, your framework is a map that helps you know where you’re going. If you ever get stuck or forget what’s next, your framework has all the answers you need to save you and put you back on track. — location: [883](kindle://book?action=open&asin=B085BT8V5P&location=883) ^ref-27850
+
+---
+One of the other very powerful things about a framework is that you can take it and teach it as quickly or as methodically as you need to, depending on how much detail you put into each step of the framework. — location: [885](kindle://book?action=open&asin=B085BT8V5P&location=885) ^ref-49079
+
+---
+To teach your framework, introduce it, tell a story about how you learned or earned it, share the strategy (the what you do), teach the tactics (the how you do it), and show how it has worked for others. — location: [898](kindle://book?action=open&asin=B085BT8V5P&location=898) ^ref-64384
+
+---
+“Framework for Teaching Frameworks” (that’s what I call it). It’s my four-step system to make sure that what I say is impactful so that the people I’m serving will listen and remember what they learned. — location: [911](kindle://book?action=open&asin=B085BT8V5P&location=911) ^ref-18491
+
+---
+Introduce the framework: Before I start teaching the framework, I must first introduce it. I do that by simply telling the audience the name of my framework: “This is my Hook, Story, Offer framework” or “Here is my Perfect Webinar framework.” Then I give them my framework description: My _____(insert number)-step framework (or system, process) for _____________ (insert result). — location: [913](kindle://book?action=open&asin=B085BT8V5P&location=913) ^ref-46981
+
+---
+Step #1—Share how you learned it or earned it: — location: [920](kindle://book?action=open&asin=B085BT8V5P&location=920) ^ref-10996
+
+---
+The first thing I do after I introduce the framework is explain how I either learned it (your knowledge) or earned it (through your experiences). — location: [936](kindle://book?action=open&asin=B085BT8V5P&location=936) ^ref-1022
+
+---
+During this part of the process you should also acknowledge the giants that you learned any piece of your framework from. You’ve spent time learning and studying from others to build your framework. You’ve interviewed countless people. Whenever you share something that you learned from someone else, give them credit. — location: [939](kindle://book?action=open&asin=B085BT8V5P&location=939) ^ref-44445
+
+---
+Your audience will respect you more because you don’t steal ideas from others. — location: [944](kindle://book?action=open&asin=B085BT8V5P&location=944) ^ref-61668
+
+---
+Step #2—Share the strategy (the what you do): The next thing I do is share the strategy of the framework. — location: [945](kindle://book?action=open&asin=B085BT8V5P&location=945) ^ref-53520
+
+---
+Many people get confused on the difference between strategy and tactics, but for this process it’s really important that you understand the difference. — location: [946](kindle://book?action=open&asin=B085BT8V5P&location=946) ^ref-41302
+
+---
+Strategy is [an] overarching plan or set of goals. Changing strategies is like trying to turn around an aircraft carrier—it can be done but not quickly. Tactics are the specific actions or steps you undertake to accomplish your strategy. — location: [949](kindle://book?action=open&asin=B085BT8V5P&location=949) ^ref-42183
+
+---
+During this part of my teaching I give them the outline of the framework, which is similar to sharing the table of contents of a book as it is the strategy of where we are and where we are going. — location: [954](kindle://book?action=open&asin=B085BT8V5P&location=954) ^ref-25396
+
+---
+Step #3—Teach the tactics (the how you do it): This is where most of the content is taught. What are the principles and tools that you’ve learned and how can people use them in their lives? Walk them through the step-by-step process, just like you were teaching yourself back when you got started. — location: [965](kindle://book?action=open&asin=B085BT8V5P&location=965) ^ref-5431
+
+---
+If I were to suddenly lose _______ (the results I’ve achieved that others are coming to learn from me), and I only had my framework left and I was starting over with no advantages, what would I do from day 1 to day 30 to get _______ (the big result) back? — location: [974](kindle://book?action=open&asin=B085BT8V5P&location=974) ^ref-58472
+
+---
+This question will help you teach the principles of your framework in a simple process that will actually be possible for someone who is starting from ground zero to follow. — location: [977](kindle://book?action=open&asin=B085BT8V5P&location=977) ^ref-36074
+
+---
+Step #4—Show them how it works for others: — location: [993](kindle://book?action=open&asin=B085BT8V5P&location=993) ^ref-12767
+
+---
+This last step is to show that it not only works for other people, but that you have the ability to transfer this framework to others. — location: [995](kindle://book?action=open&asin=B085BT8V5P&location=995) ^ref-49546
+
+---
+From the first minute you start applying your framework to others and every day after you start sharing these frameworks, you need to be gathering the stories, case studies, testimonials, examples, and proof that your framework can get results for the people you are serving. — location: [1003](kindle://book?action=open&asin=B085BT8V5P&location=1003) ^ref-58539
+
+---
+if you don’t know who you’re serving, anything you come up with is a guess, because you aren’t the one buying it. You don’t fill your own wallet. You need to figure out who you are going to serve first, and then you can create the offer(s) that they want.” — location: [1019](kindle://book?action=open&asin=B085BT8V5P&location=1019) ^ref-32933
+
+---
+The three desires (in no particular order) are health, wealth, and relationships. When people purchase a product or service, they’re hoping to get a certain result in one of these three areas of their lives. — location: [1022](kindle://book?action=open&asin=B085BT8V5P&location=1022) ^ref-2327
+
+---
+So the first question you need to answer is this: Which of these three desires are my future dream customers trying to receive when they buy my product or service? — location: [1026](kindle://book?action=open&asin=B085BT8V5P&location=1026) ^ref-19103
+
+---
+Many products can be marketed toward getting a result in more than one desire, but your marketing message can focus only on one of them. — location: [1030](kindle://book?action=open&asin=B085BT8V5P&location=1030) ^ref-1767
+
+---
+Focus only on one desire with each message you put into the market. — location: [1032](kindle://book?action=open&asin=B085BT8V5P&location=1032) ^ref-6570
+
+---
+As Steve often says, “If your product doesn’t fit into one of the three core desires, then your sales message at least must!” — location: [1041](kindle://book?action=open&asin=B085BT8V5P&location=1041) ^ref-7837
+
+---
+What are the other submarkets inside my core desire that people are using to try to get that desire met? What is the submarket that my product or service fits into? — location: [1056](kindle://book?action=open&asin=B085BT8V5P&location=1056) ^ref-5750
+
+---
+I have three questions to consider to make sure you are picking the correct submarket. Question #1: Would people in this submarket be excited about the new opportunity/frameworks you will be presenting them? — location: [1059](kindle://book?action=open&asin=B085BT8V5P&location=1059) ^ref-4667
+
+---
+Your new opportunity has to be something that will make people interested enough to take action. Question #2: Are the people in this market irrationally passionate? — location: [1062](kindle://book?action=open&asin=B085BT8V5P&location=1062) ^ref-47660
+
+---
+Are you irrationally passionate about your topic? When you hang out with friends or family members, do you always bring it up, even if no one else seems to care? If so, that’s a good sign. But are there others as irrationally passionate as you? Here are some of the things I look for to determine if my market is irrationally passionate. Communities: Are there online forums, message boards, and social groups dedicated to this topic? — location: [1064](kindle://book?action=open&asin=B085BT8V5P&location=1064) ^ref-57496
+
+---
+Vocabulary: Does the market have its own special language? — location: [1068](kindle://book?action=open&asin=B085BT8V5P&location=1068) ^ref-51619
+
+---
+Events: Does this market have its own events? They might be online or offline conferences, seminars, summits, or masterminds. — location: [1071](kindle://book?action=open&asin=B085BT8V5P&location=1071) ^ref-19804
+
+---
+Other Experts: Does this market have its own celebrities and gurus? There must be established experts already thriving and selling information products in your market. You don’t want to be the first celebrity in a market. You want a topic or niche with its own subculture already established. — location: [1074](kindle://book?action=open&asin=B085BT8V5P&location=1074) ^ref-28286
+
+---
+Question #3: Are these people willing and able to spend money on information? Sometimes people are willing to spend money, but they aren’t able; they are broke. Other times people have all the money in the world; they are able, but not willing to part with a dime. Your submarket must be both willing and able to spend money. — location: [1076](kindle://book?action=open&asin=B085BT8V5P&location=1076) ^ref-48491
+
+---
+What are all the niches inside the submarket you’ve chosen? — location: [1115](kindle://book?action=open&asin=B085BT8V5P&location=1115) ^ref-60308
+
+---
+The mistake most people make is looking at all the available niches and trying to decide which blue ocean to join. The problem is that jumping into an existing niche is swimming into someone else’s blue ocean. — location: [1117](kindle://book?action=open&asin=B085BT8V5P&location=1117) ^ref-45389
+
+---
+In one of my favorite books of all time, Play Bigger, the authors define the leader of a niche or category a “category king.”17 This is the company that is the big player inside that market. The data shows that category kings usually eat up 70–80 percent of the category’s profits and the market value. It’s not necessarily the first, but the category king is the one who was the best marketer and sucked up the lion’s share of the business. Historically it’s almost impossible to dethrone a category king. The other sharks who come into their category often end up fighting over the 20–30 percent of the scraps that are left over. — location: [1119](kindle://book?action=open&asin=B085BT8V5P&location=1119) ^ref-29081
+
+---
+If you are trying to figure out which niche you want to join, best-case scenario is that you are going to be one of the sharks fighting over the scraps of an existing category, making the water bloody. — location: [1124](kindle://book?action=open&asin=B085BT8V5P&location=1124) ^ref-1578
+
+---
+Instead of joining someone else’s blue ocean niche, create your own category and become the category king! — location: [1131](kindle://book?action=open&asin=B085BT8V5P&location=1131) ^ref-41149
+
+---
+What new category can you create and become its category king? — location: [1133](kindle://book?action=open&asin=B085BT8V5P&location=1133) ^ref-31721
+
+---
+The goal for you is to identify the niches in your submarket and see what you can create that is truly new. — location: [1134](kindle://book?action=open&asin=B085BT8V5P&location=1134) ^ref-12805
+
+---
+The market is a location, not a person: — location: [1150](kindle://book?action=open&asin=B085BT8V5P&location=1150) ^ref-47607
+
+---
+A market is a place for buyers and sellers to meet and exchange goods and services. — location: [1156](kindle://book?action=open&asin=B085BT8V5P&location=1156) ^ref-34584
+
+---
+Your job is to first know who your dream customer is and then find out where they’re already going to exchange money for products or services (online or offline). Clarity on who your dream customer is and where they already go to buy is a major milestone and shortcut to creating effective marketing for your business. — location: [1162](kindle://book?action=open&asin=B085BT8V5P&location=1162) ^ref-62573
+
+---
+While your goal is to eventually create your own market, that does take time. So where is the market until you have your own? Go and sell to the frustrated customers in your submarket/red oceans that your dream customers are already in. — location: [1168](kindle://book?action=open&asin=B085BT8V5P&location=1168) ^ref-25158
+
+---
+Fishing in the red oceans: Every red ocean is a marketplace full of people coming together looking for solutions to a certain problem. If you are offering a new way for people to get that result, doesn’t it make sense to go fishing in these red oceans and pull these customers into your new category, your blue ocean? The first thing you need to understand is that not everyone in your red ocean is going to come to you, and that’s okay. There are three core groups of people in each marketplace, and we are only going to target one of them. The first group is “the Diehard.” The Diehard is such a believer in the current product they use that the logo may as well be tattooed on their foreheads. — location: [1172](kindle://book?action=open&asin=B085BT8V5P&location=1172) ^ref-58211
+
+---
+You know you’re trying to sell a Diehard when you’ve entered a feature war with the person. Switching a Diehard to a new product requires a major identity shift. The next group is “the Satisfied.” The Satisfied uses the product they bought but isn’t in love with it like a Diehard. They’ve had enough success with the product to justify keeping it around, but the pain of switching to a new product can seem bigger than any discomfort they may be experiencing with their current product. Typically, most people fit into this category. They’re content but not fanatics. You know you’re trying to sell the Satisfied when they’re price shopping you, when they’re looking up the value of everything in your offer, or guessing how long it would take to make the switch to your product. Switching the Satisfied to a new product requires a significant price or value benefit. The last group, and the one we focus on the most, is “the Frustrated.” The Frustrated also use the product they bought, but they hate it. What was once an exciting purchase has now become so frustrating that they’re eager for the next product. They’re actively seeking a better product that can fit their desires. — location: [1185](kindle://book?action=open&asin=B085BT8V5P&location=1185) ^ref-44964
+
+---
+You know you’re trying to sell the Frustrated when they’ve listed things they hate about their current product without you asking. Switching a Frustrated person to a new product requires finding them, gaining their trust, and giving them a small amount of education. — location: [1197](kindle://book?action=open&asin=B085BT8V5P&location=1197) ^ref-28683
+
+---
+Competitive or complementary: The offers you create will either compete with or complement the things that are already being offered in the marketplace. — location: [1202](kindle://book?action=open&asin=B085BT8V5P&location=1202) ^ref-17171
+
+---
+Market positioning is how people fit you into what they already know. — location: [1212](kindle://book?action=open&asin=B085BT8V5P&location=1212) ^ref-41718
+
+---
+Understanding that the market is a location, and that you are fishing in red oceans for people who are frustrated in their current opportunity and presenting them a new opportunity is the big idea. — location: [1226](kindle://book?action=open&asin=B085BT8V5P&location=1226) ^ref-13604
+
+---
+Good market positioning taglines not only declare how you fit into what customers already know, they create a very natural sales message: — location: [1231](kindle://book?action=open&asin=B085BT8V5P&location=1231) ^ref-65150
+
+---
+“There’s no relationship between being good and getting paid. However, there’s a huge relationship between being good at marketing and getting paid.” — location: [1240](kindle://book?action=open&asin=B085BT8V5P&location=1240) ^ref-53702
+
+---
+There are so many people who want to start a business, and they just start creating things without really understanding the history of the market, what the competitive landscape looks like, and where they’re going to fit in that ecosystem. If you truly want to be successful, you need to do your homework and learn to understand the marketplace that you are entering into so you can create your own category. Once you do that, you’ll be able to easily identify where your frustrated dream customers are currently congregating. — location: [1249](kindle://book?action=open&asin=B085BT8V5P&location=1249) ^ref-24760
+
+---
+Jobs knew that consumers weren’t looking for a faster CD or a better phone; they wanted something new, so that’s what he created for them. — location: [1269](kindle://book?action=open&asin=B085BT8V5P&location=1269) ^ref-954
+
+---
+Hitler didn’t offer the Germans a way to make Germany better or to pay off their war reparations faster. He told them that Germany wasn’t responsible for the first world war, and that he wanted to tear up the Treaty of Versailles and launch his “New Order.” As you’ve seen Apple do this over and over again, it’s also true with other companies like Tesla. Elon Musk, the Attractive Character, didn’t make a better car; he made an electric car: a new category and a new opportunity. Facebook’s Mark Zuckerberg and Google’s Larry Page and Sergey Brin did the same in their submarkets. Snapchat’s Evan Spiegel and Twitter’s Jack Dorsey created a new category and offered a new opportunity. Tony Robbins did it with his personal development content, and I’ve done it with sales funnels. The pattern is repeated over and over again. In The True Believer, which is one of the best books on how mass movements are created, author Eric Hoffer writes, “The practical organization offers opportunities for self-advancement. . . . [A] mass movement . . . appeals not to those intent on bolstering and advancing a cherished self, but to those who crave to be rid of an unwanted self.”23 Our goal is not to fix what’s not working. Our goal is to replace what’s not working with something altogether different. — location: [1273](kindle://book?action=open&asin=B085BT8V5P&location=1273) ^ref-26706
+
+---
+Improvement offers are much harder to sell for a lot of reasons. — location: [1292](kindle://book?action=open&asin=B085BT8V5P&location=1292) ^ref-26517
+
+---
+Improvement is hard: Most people have tried to improve in the past, and for some reason it didn’t work. — location: [1293](kindle://book?action=open&asin=B085BT8V5P&location=1293) ^ref-29769
+
+---
+They know the difficulties they’ve had to go through, and there is pain associated with that. With a new opportunity, they don’t know what the process will be, so they don’t have… — location: [1295](kindle://book?action=open&asin=B085BT8V5P&location=1295) ^ref-3642
+
+---
+Desire vs. ambition: All people have desire, but very few… — location: [1299](kindle://book?action=open&asin=B085BT8V5P&location=1299) ^ref-5819
+
+---
+Improvement offers are selling to overachieving, ambitious people. If you do sell an improvement offer, you are automatically… — location: [1300](kindle://book?action=open&asin=B085BT8V5P&location=1300) ^ref-60723
+
+---
+Memories of poor past decisions: If your followers are in need of improvement, they must first admit failure. In order for them to say yes to your offer, they have to admit that the choices they made in the past were wrong. No one wants to admit when they’re wrong, yet an improvement offer forces them to admit they’ve failed. Remember the One Sentence Persuasion Course… — location: [1303](kindle://book?action=open&asin=B085BT8V5P&location=1303) ^ref-55223
+
+---
+Commodity pricing: When you are selling improvement, you are selling against dozens or hundreds of other… — location: [1306](kindle://book?action=open&asin=B085BT8V5P&location=1306) ^ref-32341
+
+---
+This competition turns what you do into a commodity and pushes the pricing down. It quickly becomes a race to… — location: [1308](kindle://book?action=open&asin=B085BT8V5P&location=1308) ^ref-49279
+
+---
+Dan Kennedy once told me, “If you can’t be the number one lowest-price leader in your market, there is no strategic advantage of being the second lowest price leader in town, but there is a huge strategic advantage of being the most expensive.” In other words, if you can’t be the cheapest, then you need to become the… — location: [1309](kindle://book?action=open&asin=B085BT8V5P&location=1309) ^ref-20368
+
+---
+The number one reason people don’t want improvement, and the reason they will or… — location: [1314](kindle://book?action=open&asin=B085BT8V5P&location=1314) ^ref-62845
+
+---
+status is the only thing that causes people to move toward you or not move at all. That’s it. Status is the magic word in this business. When someone is presented with an opportunity, their subconscious mind is working on the answer to this question: Is this… — location: [1317](kindle://book?action=open&asin=B085BT8V5P&location=1317) ^ref-40498
+
+---
+Status as I’m defining it here has nothing to do with how other people perceive you, but rather with… — location: [1322](kindle://book?action=open&asin=B085BT8V5P&location=1322) ^ref-64897
+
+---
+Almost every choice in your life has revolved around status—whether you know it or not. For example, what school did you go to? You (or your parents) picked a school because you thought it would elevate your status. Who did you date? Who did you break up with? Who did you marry? You picked these… — location: [1323](kindle://book?action=open&asin=B085BT8V5P&location=1323) ^ref-33787
+
+---
+Almost every decision you’ve ever made was based on this one subconscious question: Is this thing I’m considering going to… — location: [1327](kindle://book?action=open&asin=B085BT8V5P&location=1327) ^ref-62238
+
+---
+While you should focus only on one core market or desire in your marketing, you can and should focus on as many status increases as you can… — location: [1330](kindle://book?action=open&asin=B085BT8V5P&location=1330) ^ref-46652
+
+---
+When we’re looking at any opportunity, we have to decide if it will make us appear smarter, happier, wealthier, more stylish, more powerful, or more attractive. All these things will increase status. If potential customers can say, “… — location: [1331](kindle://book?action=open&asin=B085BT8V5P&location=1331) ^ref-45034
+
+---
+What stops people from taking that new opportunity? Fear of decreased status. The sale-killing thought is: What if I try this and it… — location: [1334](kindle://book?action=open&asin=B085BT8V5P&location=1334) ^ref-15811
+
+---
+If your brain thinks that taking an action will reverse your status, then you won’t do it—unless it finds hope that by temporarily decreasing your status (spending money to try your new… — location: [1337](kindle://book?action=open&asin=B085BT8V5P&location=1337) ^ref-60343
+
+---
+Your job as the expert is to load up the elevated-status side of the scale and decrease the risk of failure. You can do that by creating an amazing offer and minimizing risk with things like money-back guarantees, risk reversals, and done-for-you options. The key to making a sale is 100 percent tied to this concept of status. — location: [1350](kindle://book?action=open&asin=B085BT8V5P&location=1350) ^ref-26438
+
+---
+So which factors elevate status? Well, it’s different for everyone, but here are a few that are pretty universal. Appearance of intelligence (anything that makes them look smarter) Appearance of wealth, power, or happiness Physical appearance (weight loss, makeup, supplements, etc.) Style (think Mac vs. PC) — location: [1359](kindle://book?action=open&asin=B085BT8V5P&location=1359) ^ref-45346
+
+---
+As much as we may hate to admit it, we are slaves to what we believe other people will think about us. — location: [1367](kindle://book?action=open&asin=B085BT8V5P&location=1367) ^ref-5496
+
+---
+Here are a few reasons why new opportunities do work. New discovery: When people discover your new opportunity for the first time, they’re going to want to share it because sharing something new gives them an immediate increase in status. Just think about when videos on YouTube or Facebook go viral. What’s happening behind the scenes? I’ve worked with teams who create viral videos for a living, and they’ve found that videos go viral when they are cool and new because others want to be the first to show them to their friends. Discovery immediately increases perceived status. — location: [1369](kindle://book?action=open&asin=B085BT8V5P&location=1369) ^ref-59233
+
+---
+No pain of disconnect: Because they don’t have to admit they made bad decisions in the past, there is no longer a huge pain of disconnect from what they are currently doing. They can just move on to something brand new. No pain of disconnect = no decrease in status. — location: [1374](kindle://book?action=open&asin=B085BT8V5P&location=1374) ^ref-14799
+
+---
+Dream replacement: One reason many people struggle to make the changes they want and need in their lives is the fear of failure. If they try to change and it doesn’t work for them, then their dreams are dead. So they will give up potential success for fear of losing their dreams. In Proverbs 29:18, we learn that “where there is no vision, the people perish.” When you make a new opportunity, you’re giving people a new dream to move toward. — location: [1376](kindle://book?action=open&asin=B085BT8V5P&location=1376) ^ref-7450
+
+---
+Greener pastures: We’ve all heard a million times that “the grass is always greener on the other side of the fence,” right? Instead of trying to convince people that their grass is green or offering to fix their grass, allow them to follow you to the other side of the fence. That’s where they want to be anyway. Stop trying to make existing things that aren’t working better, and focus on fresh, exciting, new ideas that will inspire people to follow you. — location: [1380](kindle://book?action=open&asin=B085BT8V5P&location=1380) ^ref-14306
+
+---
+Creating a new opportunity is as simple as creating a new way for your dream customers to achieve their desired result. — location: [1388](kindle://book?action=open&asin=B085BT8V5P&location=1388) ^ref-9053
+
+---
+The first step is to take your dream customers and look at the result they are trying to achieve. I first look at the three core markets or desires and ask myself: “Are they trying to get health, wealth, or relationships?” What is the result that they desire the most? — location: [1389](kindle://book?action=open&asin=B085BT8V5P&location=1389) ^ref-34622
+
+---
+If I had a chance to sit down with my dream customers and ask them one question, I would ask them this: “If we were having this discussion three years from today, and you were looking back over those three years, what has to have happened in your life, both personally and professionally, for you to feel happy with your progress?” — location: [1392](kindle://book?action=open&asin=B085BT8V5P&location=1392) ^ref-9016
+
+---
+To be able to create your new opportunity, you have to understand at a very deep level what your dream customers really want. — location: [1396](kindle://book?action=open&asin=B085BT8V5P&location=1396) ^ref-52565
+
+---
+Your dream customers have already been trying to get their desired result with other vehicles (niches) and those vehicles aren’t working. — location: [1401](kindle://book?action=open&asin=B085BT8V5P&location=1401) ^ref-39125
+
+---
+Consumers know the result they want, and they’ve tried a dozen other vehicles to try to get that result. They aren’t coming to you because they aren’t trying; they’re coming to you because the current vehicle isn’t getting them to their destination. — location: [1409](kindle://book?action=open&asin=B085BT8V5P&location=1409) ^ref-42446
+
+---
+Write down all the other vehicles that your dream customers have been using (without success) to try to get what they desire most. — location: [1412](kindle://book?action=open&asin=B085BT8V5P&location=1412) ^ref-33074
+
+---
+When I built our new opportunity of sales funnels, I looked at all the other vehicles that people were using to grow their companies, and there were a lot. Here is a short list of some of the vehicles that our dream customers had tried with similar niches to ours: Website Email autoresponder Text message autoresponder Marketing automation CRM Landing page builder I didn’t offer people a better website; instead I told them that “websites are dead.” I told people it was a broken concept, and I showed them the pain of how much money they had spent on those websites, and how little of a return they got on them. I threw rocks at the other vehicles and opportunities that they had tried to grow their company, and I told them it wasn’t their fault, they had been lied to by others. Then I did an “opportunity switch,” where I took them out of their old vehicle and switched them into my new opportunity by introducing them to funnels. Opportunity switching takes consumers out of the pain they’re currently in and gives them hope for a new future through a new vehicle. — location: [1419](kindle://book?action=open&asin=B085BT8V5P&location=1419) ^ref-13963
+
+---
+If you look at everything I do on the front end of my business (the front of the value ladder), it’s all tied to an opportunity switch: the books I write, the videos my team and I produce, the webinars I create, the podcasts I publish, and more. Every front-end offer I put into the market has a goal to switch someone from their current old vehicle into my new, sexy vehicle of funnels. This is my new opportunity. — location: [1435](kindle://book?action=open&asin=B085BT8V5P&location=1435) ^ref-20874
+
+---
+As you are creating your ads, lead magnets, and front-end funnels, do it through this lens of opportunity switching someone away from their old vehicle into your new opportunity, and it will change everything for — location: [1451](kindle://book?action=open&asin=B085BT8V5P&location=1451) ^ref-24793
+
+---
+Every business should have one and only one opportunity switch. — location: [1454](kindle://book?action=open&asin=B085BT8V5P&location=1454) ^ref-11800
+
+---
+stack opportunities within the new opportunity they had already switched to! — location: [1475](kindle://book?action=open&asin=B085BT8V5P&location=1475) ^ref-45627
+
+---
+So inside the ClickFunnels value ladder, the ads, lead magnets, books, and webinars are all switching people into our new opportunity (funnels). After they come in, we figure out other ways to package funnels that will help them achieve their results. — location: [1487](kindle://book?action=open&asin=B085BT8V5P&location=1487) ^ref-55295
+
+---
+better support someone inside the new opportunity. — location: [1505](kindle://book?action=open&asin=B085BT8V5P&location=1505) ^ref-13438
+
+---
+Look at the result your dream customers desire and the new opportunity you have offered them, then package that opportunity in different ways to help them reach their desire. — location: [1506](kindle://book?action=open&asin=B085BT8V5P&location=1506) ^ref-21267
+
+---
+People will spend more money for the exact same content (or framework) packaged in a different way. — location: [1532](kindle://book?action=open&asin=B085BT8V5P&location=1532) ^ref-55602
+
+---
+The audio CDs made the book simpler to read, so I happily paid more for a different user experience. — location: [1535](kindle://book?action=open&asin=B085BT8V5P&location=1535) ^ref-38434
+
+---
+One of the big secrets to creating a new opportunity is understanding that while your product may not be a new opportunity, your framework has to be. ClickFunnels is a drag and drop website creation platform. In and of itself it’s not a new opportunity; it’s an improvement offer (a better way to make a website). When we introduced our funnel frameworks, that was the new opportunity, and the software became the tool that simplified the new opportunity. — location: [1539](kindle://book?action=open&asin=B085BT8V5P&location=1539) ^ref-16714
+
+---
+Complicated sales will become easy because the information products will indoctrinate potential customers about why they need your product or service. You will be positioned as an expert instead of a commodity, and people will pay you more for the same thing they could get somewhere else. The other options will become irrelevant, price resistance will disappear, and future sales will become easier. You will be able to acquire unlimited customers for free so every back-end sale you make will result in 100 percent profit. You’ll be able to grow much faster. — location: [1547](kindle://book?action=open&asin=B085BT8V5P&location=1547) ^ref-9503
+
+---
+Expert Business #1—Selling information products: The first type of expert business is the one that you’re probably most familiar with. It involves taking the frameworks you’ve learned and packaging them into information products, coaching, and consulting. — location: [1554](kindle://book?action=open&asin=B085BT8V5P&location=1554) ^ref-43994
+
+---
+You can sell information products without any start-up costs; you just need passion for what you’re teaching and the ability to tell stories that move others. — location: [1559](kindle://book?action=open&asin=B085BT8V5P&location=1559) ^ref-64524
+
+---
+Expert Business #2—Leveraging information products as fuel: If you have a company that is selling physical products or services, that’s even better because you can use these information products as fuel to grow your company quickly. — location: [1561](kindle://book?action=open&asin=B085BT8V5P&location=1561) ^ref-13368
+
+---
+We use the information products we sell to get customers for free (through break-even funnels that you learned about in DotCom Secrets). We also bundle information products with our software to increase the perceived value of the service. During our first year we had more than 10,000 people pay us $1,000 for a course on how to use funnels, and bundled in that course they got a free trial to the software. — location: [1566](kindle://book?action=open&asin=B085BT8V5P&location=1566) ^ref-46853
+
+---
+The simplest way to increase the perceived value of your framework is to change the experience of how someone consumes it. That usually happens by moving things from one form to another: Written word → Audio Audio → Video Video → Live experiences — location: [1576](kindle://book?action=open&asin=B085BT8V5P&location=1576) ^ref-14889
+
+---
+The frameworks are the same throughout the process, but the value of what we offer goes up at each stage. — location: [1582](kindle://book?action=open&asin=B085BT8V5P&location=1582) ^ref-19783
+
+---
+The other way to increase the value of your frameworks is by changing how you fulfill on the framework. The three different ways that you can fulfill on a framework are: Do It Yourself (Give them the framework and they implement it on their own) Do It With You (Work with them to… — location: [1582](kindle://book?action=open&asin=B085BT8V5P&location=1582) ^ref-32258
+
+---
+Pre-funnel content (free): Your framework steps work really well as a hook for an ad that will pull people into your funnels. Usually you would just… — location: [1589](kindle://book?action=open&asin=B085BT8V5P&location=1589) ^ref-36555
+
+---
+You can also teach your frameworks as pre-funnel content in YouTube videos, podcast episodes, blog posts, and more. Lead magnet (free): You can also use your framework as a lead magnet. Oftentimes I’ll record a 2- to 20-minute video of me teaching one of my frameworks and give that to… — location: [1594](kindle://book?action=open&asin=B085BT8V5P&location=1594) ^ref-50471
+
+---
+Book (free + shipping): You can expound and go deeper with your frameworks with a book. As you can see from this book, it’s one big framework with tons of embedded frameworks inside of it. The negative thing with a book is that it’s the hardest thing to create and sell for the least amount of money, but its perceived value and ability to position… — location: [1599](kindle://book?action=open&asin=B085BT8V5P&location=1599) ^ref-12642
+
+---
+Membership site ($10–$100 per month): Membership sites usually blend all the different learning modalities into one. Oftentimes there will be written content, audio, and video training, along with an online community (live experience) for members to network together. The big advantage of membership sites over online courses is that because they are typically billed monthly, they give you the ability to drip out your frameworks to people over time as opposed to giving everything to them at once. Online course ($100–$1,000): Courses are very similar to membership sites in terms of how the content is put together using all the different modalities. The biggest difference is in… — location: [1603](kindle://book?action=open&asin=B085BT8V5P&location=1603) ^ref-1127
+
+---
+Seminar or workshop ($500–$5,000): This is where you start to take your frameworks offline. I define a workshop as an event where you are spending a few days teaching your frameworks; often these types of events are a little smaller and more intimate. My FHAT events are considered workshops because I spend three days teaching my webinar and selling frameworks for a group of about 100 people. At… — location: [1609](kindle://book?action=open&asin=B085BT8V5P&location=1609) ^ref-7951
+
+---
+Mastermind ($10,000–$100,000): Mastermind groups are usually smaller events that aren’t focused as much on teaching new frameworks, but instead on implementing existing… — location: [1614](kindle://book?action=open&asin=B085BT8V5P&location=1614) ^ref-51322
+
+---
+One-on-one ($10,000+): This is often the highest level of framework application, where people pay you to work one-on-one for them (services) or with them (coaching) implementing your processes. There is no leverage at this level as you are trading… — location: [1617](kindle://book?action=open&asin=B085BT8V5P&location=1617) ^ref-54086
+
+---
+Did you notice that even though the price changes for each way you package your frameworks, you’re not necessarily teaching new frameworks at each level? You are changing the experience of how people consume and implement those… — location: [1620](kindle://book?action=open&asin=B085BT8V5P&location=1620) ^ref-62534
+
+---
+success for their dream customers. How much money you are able to make as a business is in direct relationship to how simple you can make the process for your customers. The frameworks are a way to simplify the process, and you will get paid for that. Software or supplements, physical products, or services are ways to simplify the process inside your frameworks even more. When you look at your frameworks, I want you to start looking at each part and asking how you could simplify that part of the process with some type of tool. — location: [1640](kindle://book?action=open&asin=B085BT8V5P&location=1640) ^ref-15477
+
+---
+Software: The best tool you can create from your frameworks is software. The perceived value of software is huge, and (depending on complexity) can be pretty inexpensive to create. — location: [1647](kindle://book?action=open&asin=B085BT8V5P&location=1647) ^ref-51079
+
+---
+What parts of your framework could be automated for someone if you created your own software? — location: [1653](kindle://book?action=open&asin=B085BT8V5P&location=1653) ^ref-22275
+
+---
+Supplements: This will not be applicable to all businesses, but supplements are the ultimate “easy button” to get a result. If something inside your frameworks could be sped up through supplements, they are among the most powerful ways to increase the value of your framework. — location: [1655](kindle://book?action=open&asin=B085BT8V5P&location=1655) ^ref-53370
+
+---
+Physical Products: Most people who have a physical product in our community start here, and then build a results-based framework around the product. — location: [1657](kindle://book?action=open&asin=B085BT8V5P&location=1657) ^ref-11363
+
+---
+The other way you can use this is to look at your existing frameworks and see if there is a physical product that you could create to help make the framework easier to implement. — location: [1660](kindle://book?action=open&asin=B085BT8V5P&location=1660) ^ref-51846
+
+---
+By-products: As you have been using your own frameworks, what are the by-products that you’ve had to create that would be useful for your dream customers? As an example: When we started selling high-ticket products on the phone, we had to create scripts for the salespeople to use, training videos that would train our team, and we had lawyers make contracts for employees as well as for our customers. All these things were by-products that we had to create by using our frameworks. — location: [1664](kindle://book?action=open&asin=B085BT8V5P&location=1664) ^ref-48749
+
+---
+What by-products have you created that you could offer your customers? People want tangible assets that make the core training easier to implement. Scripts, templates, cheat sheets, checklists, time lines, and schedules are all valuable tools you could create. — location: [1674](kindle://book?action=open&asin=B085BT8V5P&location=1674) ^ref-21127
+
+---
+Information Products/Services: Every tool can be used to increase the value of any offer, but it can also help move people to the next level of your value ladder. Technically every type of information product we talked about earlier is a tool. A membership site can be a tool. Events and coaching are tools to help you better implement your frameworks. The top tiers of a value ladder have services helping people to implement the frameworks that you have given them earlier. Remember, how much money your business makes is in direct relationship to how simple the process is for your dream customers to achieve their result. Creating done-for-you tools to give your customers a shortcut to success is one way to simplify that process. — location: [1677](kindle://book?action=open&asin=B085BT8V5P&location=1677) ^ref-46876
+
+---
+it’s so important to de-commoditize your business, not just selling a product like most companies, but to make it something unique by turning it into an actual offer. The goal of an offer in its simplest form is to: Increase the perceived value of what is being sold. Make the thing being sold unique to you and available only within the special offer. The simplest way to turn your product into an offer, increase the perceived value of that offer, and make it a true new opportunity is to wrap your product or service inside your frameworks. — location: [1686](kindle://book?action=open&asin=B085BT8V5P&location=1686) ^ref-24400
+
+---
+To increase the value of your offer, you’ll include information frameworks and tools that will give your customers a shortcut to success. — location: [1696](kindle://book?action=open&asin=B085BT8V5P&location=1696) ^ref-25424
+
+---
+In my Stack Slide, the first item is my core product, and the second item is the “opportunity switch” or “opportunity stack” core framework that I will be giving customers. — location: [1697](kindle://book?action=open&asin=B085BT8V5P&location=1697) ^ref-11846
+
+---
+Physical product or service: If you are selling a physical product or a service, that would be your core product, so your core frameworks could be taught in whatever modality that matches how much you want to charge for the offer. Information product or event: If the core product that you are selling is a course or event, the core product and the core framework will likely be the same thing. Next, I need to figure out other things I can add to the Stack to increase the perceived value even more. Most times I will brainstorm with my team, and we’ll sit in front of a whiteboard for hours talking about all the things we could potentially add to the offer. — location: [1703](kindle://book?action=open&asin=B085BT8V5P&location=1703) ^ref-15269
+
+---
+Written word: Should we write a book or an e-book? Audio: Should we make an audio program? Video: Should we make a membership site? Would it be better to make an online course? Live experiences: Should we create a seminar or workshop, or would this work better as a mastermind group or one-on-one? Then we talk about what each of those would look like if we did build them. What would be in the membership site? What modules do I need to record? Or if we decide to do an event, where would we host it? What other ways could we serve customers with our frameworks? — location: [1711](kindle://book?action=open&asin=B085BT8V5P&location=1711) ^ref-29052
+
+---
+Traditionally I want only one or two information products inside the Stack. Having too much information can decrease the perceived value of an offer because it may seem like too much “work.” Oftentimes the only information product I include in my Stack is… — location: [1716](kindle://book?action=open&asin=B085BT8V5P&location=1716) ^ref-288
+
+---
+Because tools often have a higher perceived value, I like to focus my Stack on as many of these as possible: Is there software we could create to make part of our framework easier? Could we bundle supplements into this offer? What physical products could we create to increase this offer’s value? What are the by-products we’ve created during the implementation of these frameworks that have cost us time or money? Could… — location: [1719](kindle://book?action=open&asin=B085BT8V5P&location=1719) ^ref-40283
+
+---
+three reasons why people don’t buy… — location: [1725](kindle://book?action=open&asin=B085BT8V5P&location=1725) ^ref-49320
+
+---
+False Belief #1—I don’t believe this vehicle (your new opportunity) is the right vehicle for me: What false beliefs do your customers have about the vehicle/new opportunity you’re presenting to them? What would keep them from believing that this vehicle is right for them? What tangible thing can you create to help them change their belief? I love creating case studies or examples to include as a bonus. If I were creating a product about flipping houses on eBay, I’d go and find 20–30 examples of me doing this process or several case studies of my students having success with it. I’d put them together into a case study booklet or video training that people could watch or read as proof that the vehicle… — location: [1727](kindle://book?action=open&asin=B085BT8V5P&location=1727) ^ref-41834
+
+---
+False Belief #2—I believe this is the right vehicle for some people, but I don’t think that I could be successful with it: Once they believe in the vehicle, what beliefs do they have about… — location: [1733](kindle://book?action=open&asin=B085BT8V5P&location=1733) ^ref-43479
+
+---
+They might believe in the new vehicle, but they don’t believe in themselves. So you need to create something specific to help them overcome… — location: [1736](kindle://book?action=open&asin=B085BT8V5P&location=1736) ^ref-56817
+
+---
+What tangible asset can you create that will help them overcome this… — location: [1739](kindle://book?action=open&asin=B085BT8V5P&location=1739) ^ref-40824
+
+---
+It could also be tangible tools or templates that will give them the confidence to… — location: [1740](kindle://book?action=open&asin=B085BT8V5P&location=1740) ^ref-24685
+
+---
+False Belief #3—I believe that I could have success, but I have an external force… — location: [1745](kindle://book?action=open&asin=B085BT8V5P&location=1745) ^ref-15998
+
+---
+They believe that the vehicle is right, they believe they can do it, but there is still some outside force that might make it difficult for them to succeed. This outside force might be a bad economy, lack of… — location: [1746](kindle://book?action=open&asin=B085BT8V5P&location=1746) ^ref-52426
+
+---
+For your opportunity, think about what outside things might possibly keep people from success, then create something to help eliminate or minimize that excuse. — location: [1750](kindle://book?action=open&asin=B085BT8V5P&location=1750) ^ref-32551
+
+---
+Every item on the Stack Slide has a value attached to it. The goal is to show that you’re giving 10 times as much value as you’re asking for in price. So if you’re selling a $97 product, you want the Stack Slide to add up to at least $997, preferably more. — location: [1752](kindle://book?action=open&asin=B085BT8V5P&location=1752) ^ref-35778
+
+---
+Learning how to create offers and build Stack Slides is one of the most important things you can learn to do in this business. This is not a one-time activity. Every time you have a new offer, you will go through this exercise again. — location: [1756](kindle://book?action=open&asin=B085BT8V5P&location=1756) ^ref-30682
+
+---
+As a fellow Funnel Hacker, I would recommend watching people in as many markets as you can as they launch their offers. See what things they include in their offers, and you’ll get ideas for different ways you can package your frameworks. — location: [1760](kindle://book?action=open&asin=B085BT8V5P&location=1760) ^ref-28374
+
+---
+Our job as an expert and guide for our audience is to help cast a vision for what is possible and bring our people to higher ground, to move them from where they are to where they want to be. — location: [1800](kindle://book?action=open&asin=B085BT8V5P&location=1800) ^ref-32984
+
+---
+For every political, social, or religious movement throughout history, the charismatic leader paints a picture of the future they are trying to create and what life will be like when they get there. — location: [1802](kindle://book?action=open&asin=B085BT8V5P&location=1802) ^ref-60507
+
+---
+For you to have success in this business, you have to give your followers hope of something better so they will be perceptive to the change you are going to offer . You do that by painting a vision of the future that they want and showing them that it is possible. — location: [1806](kindle://book?action=open&asin=B085BT8V5P&location=1806) ^ref-16769
+
+---
+Most people want to cast their faith and personal responsibility into something bigger than themselves. — location: [1808](kindle://book?action=open&asin=B085BT8V5P&location=1808) ^ref-43335
+
+---
+People want to plug in to something bigger than themselves, so it’s your job to create that vision. Here are a few key principles that will help you create your future-based cause. — location: [1809](kindle://book?action=open&asin=B085BT8V5P&location=1809) ^ref-39626
+
+---
+Your job as the expert is to guide your dream customers on a journey of both achievement and transformation. STEP #1: LAUNCH YOUR “PLATFORM” TO BE YOUR DREAM CUSTOMER’S GUIDE TO THE RESULT — location: [1811](kindle://book?action=open&asin=B085BT8V5P&location=1811) ^ref-60257
+
+---
+Deciding that you want to create a movement is only half the job. The other half involves campaigning to your dream customers about why you are the expert or the guide to lead them. — location: [1814](kindle://book?action=open&asin=B085BT8V5P&location=1814) ^ref-10335
+
+---
+Almost all the winning presidential candidates who were elected, from George Washington to today, won because of their ability to create a vision of the future that people want the most. Each of the winners interestingly enough also presented a new opportunity while the losers were offering improvement. — location: [1821](kindle://book?action=open&asin=B085BT8V5P&location=1821) ^ref-3287
+
+---
+You’re Just One Funnel Away . . . That was it! Because having a funnel means something different to everyone, by not quantifying it I left it open for their interpretation. So each person could finish the sentence for themselves. If their compelling future was to quit their job, then that is the future I’m offering them. If their compelling future is to share their message with more people and try to change the world, then that is the future I’m offering that person. — location: [1848](kindle://book?action=open&asin=B085BT8V5P&location=1848) ^ref-58360
+
+---
+I now use that message in all my communication with my audience. I sign off in my videos by saying, “Remember, you’re just one funnel away!” I’ve added it at the end of every email I send out. It’s the theme of our events. It’s a constant and consistent callout to our tribe, reminding them of the vision they have put their faith and hope into. — location: [1856](kindle://book?action=open&asin=B085BT8V5P&location=1856) ^ref-25410
+
+---
+Here are a few that I loved that should get the wheels spinning in your head as you are creating your campaign slogan or mantra. — location: [1861](kindle://book?action=open&asin=B085BT8V5P&location=1861) ^ref-51107
+
+---
+Exercise To create your platform, I want you to imagine that you’re running for president of your movement. Think about what slogan would be great for your campaign. What do your people really want? Where do they want to go? How can you capture that in a simple calling you could put on a campaign sign? — location: [1864](kindle://book?action=open&asin=B085BT8V5P&location=1864) ^ref-54745
+
+---
+After someone has joined your movement and taken you up on your new opportunity, the most important thing you can do is give them an identity shift. Their ability to have success with you is more tied to an identity shift than almost anything else you can do. You have to remember that your customers are real people and it’s your duty to sell to them over and over again. If you don’t, they will go back to their old ways and habits, or worse, chase the next new opportunity that someone else offers them. — location: [1869](kindle://book?action=open&asin=B085BT8V5P&location=1869) ^ref-35545
+
+---
+Remember what Jay Abraham said, “If you truly believe that what you have is useful and valuable to your clients, then you have a moral obligation to try to serve them in every way possible.” — location: [1875](kindle://book?action=open&asin=B085BT8V5P&location=1875) ^ref-48897
+
+---
+When James decided to play drums, he knew that there was going to be a long, hard road to becoming good, and if he just wanted to “play the drums” he probably would never had made it to the finish line. But because he shifted his identity to “I am a drummer,” he looked at it differently. It shifted him. — location: [1937](kindle://book?action=open&asin=B085BT8V5P&location=1937) ^ref-65501
+
+---
+When someone comes to me wanting to learn how to make more money or grow their company, it can be hard to get them to do the things that are necessary to have success. When they learn about the identity of a Funnel Hacker and they put on that mantle, it’s no longer difficult because “that’s what Funnel Hackers do.” — location: [1942](kindle://book?action=open&asin=B085BT8V5P&location=1942) ^ref-8029
+
+---
+Tribe identity: One of the mistakes many people make is trying to make their company and their movement about themselves. As long as your product or company name is your name, it will be hard for others to identify with the movement. — location: [1947](kindle://book?action=open&asin=B085BT8V5P&location=1947) ^ref-20949
+
+---
+The first step to the identity shift is to create a name for your tribe that will make them want to belong. — location: [1958](kindle://book?action=open&asin=B085BT8V5P&location=1958) ^ref-41711
+
+---
+Personal identity—The “I am” statement: For customers to be able to self-identify with your movement, they need to have an “I am” statement that quickly describes who they are. An “I am” statement is very similar to the tribe identity, but it’s giving customers the ability to self-identify with the tribe. “I am a Funnel Hacker.” My people can say that and it means something special to them. — location: [1960](kindle://book?action=open&asin=B085BT8V5P&location=1960) ^ref-39194
+
+---
+You can take this to the next level by creating T-shirts with your statements on them. — location: [1964](kindle://book?action=open&asin=B085BT8V5P&location=1964) ^ref-45272
+
+---
+To get people to identify with your movement, come up with something simple that you can put on a T-shirt your members could wear that would make them identify with your movement. Think “I’m a _______” or “I _______.” I’m a Funnel Hacker. I’m a LadyBoss. I build funnels. I see things differently. I’m a biohacker. What would your tribe wear proudly on their chests? — location: [1977](kindle://book?action=open&asin=B085BT8V5P&location=1977) ^ref-9463
+
+---
+Create a “Title of Liberty” or manifesto: — location: [1982](kindle://book?action=open&asin=B085BT8V5P&location=1982) ^ref-58999
+
+---
+Your tribe needs a Title of Liberty that they can look to as motivation and a reminder about why they are trying to change. Something they can look at when they’re feeling doubtful—a rallying call. Something that will help them know who you are, remind them who they are, and refocus them on where you are going together. — location: [1991](kindle://book?action=open&asin=B085BT8V5P&location=1991) ^ref-4311
+
+---
+After Kaelin launched her manifesto, a short time later I saw her send all her customers a mini version of the manifesto that they could save as the background image on their phone. That way, every time they turned on their phone, they would be reminded of what it means to be a LadyBoss. — location: [2005](kindle://book?action=open&asin=B085BT8V5P&location=2005) ^ref-7562
+
+---
+The key is understanding that it’s not just the name, or the T-shirts, or the words on their phone, it’s how they feel about the movement and their role inside your community. They become a new person and they are connected to you as their guide. — location: [2012](kindle://book?action=open&asin=B085BT8V5P&location=2012) ^ref-14293
+
+---
+Napoleon Bonaparte once said, “A soldier will fight long and hard for a bit of colored ribbon.” — location: [2017](kindle://book?action=open&asin=B085BT8V5P&location=2017) ^ref-59289
+
+---
+The result that most people are seeking is simply growth, so it can be hard to define a finish line. Because of that, we decided to create milestone awards that people can achieve while they are growing their companies inside of our new opportunity (funnels). — location: [2031](kindle://book?action=open&asin=B085BT8V5P&location=2031) ^ref-40364
+
+---
+It helps to keep them tied to our movement, and it gives them the feeling of progress and accomplishment on their journey of achievement. — location: [2038](kindle://book?action=open&asin=B085BT8V5P&location=2038) ^ref-40595
+
+---
+Initially, the four-minute mile will need to be something that you’ve already accomplished, so you can show them it’s possible and give them hope and belief that they can do it too. As you shift your focus to helping others accomplish the same results and breaking their four-minute mile, you’ll notice something strange will happen inside your community. Their focus will be taken off of you, the expert, and shifted outward toward their tribe. This is important because people usually come into a community for the expert, but they stay for the community. — location: [2045](kindle://book?action=open&asin=B085BT8V5P&location=2045) ^ref-14800
+
+---
+If the only thing you do with your tribe is help them achieve a result, eventually they will leave you. There is no long-term fulfillment in achievement alone. Even if they do achieve the results you promise them, they will then start looking for other places to get their other needs met. — location: [2059](kindle://book?action=open&asin=B085BT8V5P&location=2059) ^ref-40482
+
+---
+The hook is how you grab your dream customer’s attention, the story is how you build up the perceived value of what you sell, and the offer is what you are selling. I — location: [2107](kindle://book?action=open&asin=B085BT8V5P&location=2107) ^ref-14866
+
+---
+The secret is to get the perceived value to be more than the actual cost. When you can do this, people always say yes. Here are a few things we have done to increase the perceived value of our offer so far: We changed what we sell from an improvement offer to a new opportunity. We developed proprietary frameworks that are unique to us. We created our own category inside the marketplace where we can become the category king. We packaged our frameworks in different ways to increase the value. We gave our people a future-based cause they believe in. We brought them into our tribe. We helped them have an identity shift that will allow them to feel part of our community. — location: [2114](kindle://book?action=open&asin=B085BT8V5P&location=2114) ^ref-23509
+
+---
+Just as you share a story about how you learned or earned your framework before sharing it with someone so your story increases the perceived value of your framework, you’ll also share a story about how you learned or earned what you’ve created inside your offer to increase its perceived value. If I tell you a story about the offer, and I do it in a way that drives the value of the offer way past how much money I am asking for it, then it becomes really easy to get you to buy. — location: [2125](kindle://book?action=open&asin=B085BT8V5P&location=2125) ^ref-16333
+
+---
+Your goal isn’t to try to sell anyone anything. Your goal is to guide them to their own decision. — location: [2138](kindle://book?action=open&asin=B085BT8V5P&location=2138) ^ref-14907
+
+---
+If you want people to adopt a new concept and want to get their buy-in, you have to lead them to the answer, but you can’t give it to them. They have to come up with the idea themselves. You plant the idea in their minds with a story, and if they come up with the answer, they will have sold themselves. The buying decision becomes theirs, not yours. When that happens, you don’t have to sell them anything. — location: [2143](kindle://book?action=open&asin=B085BT8V5P&location=2143) ^ref-5361
+
+---
+For this exercise, I want you to think about yourself before you got started on your path. Back in your expert journey when you were in the growth phase and it was just a spark and you were first learning what you teach now, can you remember what life was like back then? It’s important to get back into that state, because that is the state that your future dream customers are in now. Now try to remember, what was the experience that caused you to have the big aha moment (your epiphany)? Something happened where you realized that everything had changed forever. These big epiphanies always come from a guide. Sometimes the guide is a person who gave you the answer you needed, and other times the guide is God, and he gave you the inspiration or idea you needed. — location: [2150](kindle://book?action=open&asin=B085BT8V5P&location=2150) ^ref-50539
+
+---
+So the first question is for the story you are telling: What was the epiphany that your guide gave to you? — location: [2162](kindle://book?action=open&asin=B085BT8V5P&location=2162) ^ref-40219
+
+---
+After you have that big epiphany, you are emotionally bought into the concept. That usually starts you on your journey of growth. This is what drove you to become an expert on the topic. — location: [2163](kindle://book?action=open&asin=B085BT8V5P&location=2163) ^ref-11709
+
+---
+The problem is that you started to speak a language we call “technobabble.” One of my friends, Kim Klaver, identifies technobabble as the number one sales killer in her book If My Product’s So Great, How Come I Can’t Sell It? — location: [2172](kindle://book?action=open&asin=B085BT8V5P&location=2172) ^ref-52942
+
+---
+We all love our ideas so much. We want people to understand why they should follow us and use our products and services. But for some reason, as soon as we try to explain our beliefs to someone, we automatically spew the technobabble we’ve learned in order to logically convince people to buy. — location: [2176](kindle://book?action=open&asin=B085BT8V5P&location=2176) ^ref-27491
+
+---
+the logical stuff that strengthened our own beliefs in the new opportunity will not help people buy unless they’ve already had the same initial emotional epiphany that you had. All the logic, features, and benefits you give people before the epiphany will just annoy them. It’s frustrating and often completely offensive. There’s a time and a place for logic, but you have to convince them emotionally first before they’ll be excited by your logic. — location: [2180](kindle://book?action=open&asin=B085BT8V5P&location=2180) ^ref-25181
+
+---
+You have to step away from the technobabble, meet your dream customers where they are, and help them feel the emotion you felt when you had your epiphany so they can move with you. — location: [2184](kindle://book?action=open&asin=B085BT8V5P&location=2184) ^ref-11245
+
+---
+You didn’t buy into the new opportunity because of the logical technobabble. You bought in because of some emotional experience that happened before you geeked out. You had an epiphany first, and that caused you to move forward. People don’t buy logically, they buy based on emotion. Then they use logic to justify the purchase decision they’ve already made. — location: [2186](kindle://book?action=open&asin=B085BT8V5P&location=2186) ^ref-20745
+
+---
+If you think about it, there’s a status consideration on both sides of this equation. I’m emotionally attached to the status that the new Ferrari will give me, but I need to justify it logically to my friends and family so I don’t lose status with them. But good luck selling me logically if I don’t already have the emotional connection with that car—it’s pretty much impossible. Logic doesn’t sell. Emotions sell. — location: [2192](kindle://book?action=open&asin=B085BT8V5P&location=2192) ^ref-12567
+
+---
+Your job is to learn how to tell these stories in a way that will lead people to the epiphany, and they will do the rest. This time you are the guide who is going to help them have the same epiphany that your guide gave to you. That is the key. — location: [2200](kindle://book?action=open&asin=B085BT8V5P&location=2200) ^ref-1670
+
+---
+So my first question for you is “What was the core Epiphany Bridge story that made you believe in the new opportunity that you are sharing with others?” — location: [2202](kindle://book?action=open&asin=B085BT8V5P&location=2202) ^ref-26615
+
+---
+Do you remember what happened? What was happening around you? How did you feel? It’s important to remember those details, because they are key to telling a good story. — location: [2205](kindle://book?action=open&asin=B085BT8V5P&location=2205) ^ref-32248
+
+---
+What makes some people better storytellers than others? Oversimplification: The first key to telling captivating stories is oversimplification. When you’re telling stories, you need to speak at about a third-grade level. — location: [2209](kindle://book?action=open&asin=B085BT8V5P&location=2209) ^ref-62147
+
+---
+Using big words may make you feel smarter, but it will not influence others. — location: [2217](kindle://book?action=open&asin=B085BT8V5P&location=2217) ^ref-6391
+
+---
+“Kinda like” bridge: Sometimes you have to talk about complex ideas. So how do you take a complicated idea and simplify it quickly? You do it using a tool I created called a “kinda like” bridge. Every time I run into a word or a concept that is past a third-grade level, I stop and think about how I can relate that concept to something customers already know and understand—the same way I would try to explain complex ideas to my kids. — location: [2217](kindle://book?action=open&asin=B085BT8V5P&location=2217) ^ref-41283
+
+---
+I discovered that if they don’t know what a word means, they stop paying attention to everything you say afterward. So I started using a “kinda like” bridge like this: The goal is to get ketones into your body. Now what are ketones? Well, they are kinda like millions of little motivational speakers running through your body that give you energy and make you feel awesome. — location: [2225](kindle://book?action=open&asin=B085BT8V5P&location=2225) ^ref-2350
+
+---
+I take this new concept or word that people may not understand and add the phrase “it’s kinda like . . .” to the sentence. I’m connecting the new word or concept to something they already understand, something that makes total sense to them, so they get — location: [2229](kindle://book?action=open&asin=B085BT8V5P&location=2229) ^ref-20271
+
+---
+Any time you’re speaking (or writing) and you hit a friction point where some people may not understand what you’re trying to convey, just say “It’s kinda like . . .” and relate it to something easy to understand. This keeps your stories simple, entertaining, and effective. Oversimplification is the key. — location: [2239](kindle://book?action=open&asin=B085BT8V5P&location=2239) ^ref-3076
+
+---
+Making them feel: The next way to improve your storytelling is to add feelings and emotions. — location: [2241](kindle://book?action=open&asin=B085BT8V5P&location=2241) ^ref-28726
+
+---
+You have to explain how you feel, and when you do that people will start to feel what you were feeling. — location: [2262](kindle://book?action=open&asin=B085BT8V5P&location=2262) ^ref-8553
+
+---
+If I’m telling you my Epiphany Bridge story, I need you to be in the same state that I was in when I received my aha moment. If you are, chances are you will have the same epiphany that I had. If you aren’t, you will likely miss the whole point of my story. — location: [2274](kindle://book?action=open&asin=B085BT8V5P&location=2274) ^ref-48619
+
+---
+Hero’s Journey,” and his simplified story framework has just 12 stages:39 The Ordinary World The Call to Adventure Refusal of the Call Meeting the Mentor Crossing the First Threshold Tests, Allies, Enemies Approach the Innermost Cave The Ordeal The Reward The Road Block The Resurrection Return with the Elixir If you look at most popular movies, you will see this framework used over and over again. — location: [2323](kindle://book?action=open&asin=B085BT8V5P&location=2323) ^ref-23613
+
+---
+Hauge brought to light the fact that inside every great story is an even more important second journey: the journey of transformation. Think about it. Harry Potter may have beaten Voldemort, but who did Harry become on that journey? Simba may have killed Scar and reclaimed his throne, but what were the internal transformations Simba had during this journey? Most times the second journey is what gives the audience the biggest payoff. — location: [2342](kindle://book?action=open&asin=B085BT8V5P&location=2342) ^ref-11710
+
+---
+We see the death and rebirth of his identity. We see the new beliefs he has created. We see his transformation. That is the key to a great story. — location: [2350](kindle://book?action=open&asin=B085BT8V5P&location=2350) ^ref-48339
+
+---
+Michael Hauge taught me that every good story is built on three foundational elements: character, desire, and conflict, also known as the plot. — location: [2356](kindle://book?action=open&asin=B085BT8V5P&location=2356) ^ref-24722
+
+---
+“Every good story is about a captivating character who is pursuing some compelling desire and who faces seemingly insurmountable obstacles to achieving it. That’s it. If you’ve got those three things, then you’ve got a good story.” — location: [2365](kindle://book?action=open&asin=B085BT8V5P&location=2365) ^ref-13635
+
+---
+The story always starts with our hero in their own ordinary world. The first 25 percent of most stories involves the hero separating from something. During this separation it’s essential that the storyteller gets the audience to care about the hero, so we have a vested interest in their journey. We do this through two things. Build rapport with the hero Introduce the desire — location: [2370](kindle://book?action=open&asin=B085BT8V5P&location=2370) ^ref-41065
+
+---
+Build rapport with the hero: If we don’t build rapport with the hero in the story, then no one cares what else happens to them on their journey. If you do a good job of building that rapport up front, the audience will be engaged throughout the story. You want people to build rapport with the hero quickly. We do that by giving our hero at least two of the following things: Make the character a victim of some outside force, so we want to root for them. Put the character in jeopardy, so we worry about them. Make the character likable, so we want to be with them. Make the character funny, so we connect with them. Make the character powerful, so we want to be like them. — location: [2373](kindle://book?action=open&asin=B085BT8V5P&location=2373) ^ref-10289
+
+---
+Introduce the desire: Every story is about a journey either toward pleasure or away from pain. There are four core desires that drive most heroes: to win, to retrieve, to escape, or to stop. Two desires move the hero toward pleasure, and two desires move the hero away from pain. Toward pleasure To win: The hero may be trying to win the heart of someone they love, or they may want to win fame, money, a competition, or prestige. But as you now know, they are really looking for an increase in status. To retrieve: The hero wants to obtain something and bring it back. Away from pain To escape: The hero desires to get away from something that’s upsetting or causing pain. To stop: The hero wants to stop some bad things from happening. — location: [2380](kindle://book?action=open&asin=B085BT8V5P&location=2380) ^ref-42444
+
+---
+During this journey there will be different points of conflict they encountered along the way. The conflict is what makes the story interesting. The number one tool we have to create conflict is to introduce a villain. The worse the villain is, the stronger the bond the audience will have with the hero. — location: [2396](kindle://book?action=open&asin=B085BT8V5P&location=2396) ^ref-15608
+
+---
+The villain can be a person, or it could also be a false belief system. Our job is to vilify the belief system and defeat it so we can give our audience the truth. — location: [2399](kindle://book?action=open&asin=B085BT8V5P&location=2399) ^ref-41750
+
+---
+conflict in your story is the key to the emotional connection with your audience. — location: [2403](kindle://book?action=open&asin=B085BT8V5P&location=2403) ^ref-38512
+
+---
+For our purposes with storytelling, the guide is the person who gives us the epiphany and the frameworks. Sometimes the guide is an actual person who gives you your big aha; other times the guide could be God, giving you inspiration, ideas, and thoughts (epiphanies) that form your frameworks for the new opportunity. The journey then becomes the hero using the plans/framework they receive from the guide to defeat the villain and achieve their desire. — location: [2409](kindle://book?action=open&asin=B085BT8V5P&location=2409) ^ref-43123
+
+---
+This last phase is where the hero finishes their journey. Sometimes heroes get what they have been trying to achieve throughout the story, and oftentimes they don’t. Rocky Balboa didn’t beat Apollo Creed, and Lightning McQueen didn’t win the Piston Cup, but during their journey both heroes were transformed. This is the hero’s second journey. Who have they become and how have they evolved? This journey is the death of their old identity, and their rebirth as a new person. This invisible journey is the real journey that our hero has been on the whole time. — location: [2415](kindle://book?action=open&asin=B085BT8V5P&location=2415) ^ref-28320
+
+---
+As I was studying, I found a lecture where Christopher Vogler said, “As you listen . . . to anyone’s ideas . . . you’ll find Oh, there’s a useful idea, and That’s right, I agree with that, and That, oh, I never thought of that before. But at some point . . . you make up your own [ideas] and you create your own lingo, your own shared language with the people that you work with. . . . Absorb it, take notes, and pull out a piece here and there that sounds right to your observation of the world. This is all about how you perceive things as an artist, so you’ve got to make it your own.” — location: [2420](kindle://book?action=open&asin=B085BT8V5P&location=2420) ^ref-60057
+
+---
+Phase #1: The Backstory What is your BACKSTORY that gives us a vested interest in your journey? What is the DESIRE or result that you want to achieve? External: What are your external desires? Internal: What are your internal desires? What are the OLD VEHICLES that you tried in the past to get this same result that didn’t work for you? Phase #2: The Journey What was THE CALL or the reason that made you start on this journey? Who or what is THE VILLAIN that is keeping you from having success? WHAT will happen if you don’t have success on this journey? Phase #3: New Opportunity Who was the GUIDE who gave you the epiphany? What was the EPIPHANY you experienced? What is the NEW OPPORTUNITY you created from this epiphany? Phase #4: The Framework What is the STRATEGY or frameworks you developed to get you to the desire you wanted to achieve? What were THE RESULTS you got by following the frameworks? What were OTHERS’ RESULTS from following your frameworks? Phase #5: Achievement and Transformation WHAT end result did you accomplish or achieve? (External Desires) HOW did you transform during your journey? (Internal Desires) For — location: [2507](kindle://book?action=open&asin=B085BT8V5P&location=2507) ^ref-28210
+
+---
+Backstory? What is the backstory that gives us a vested interest in your journey? Most good stories start with the backstory. For an Epiphany Bridge, that means remembering where you were before you had your big aha. Go back to that time and place and remember the circumstances that caused you to start on your hero’s journey. Usually this backstory starts at about the same point where your listener is in their life right now. They desire the same result that you have already achieved. But when they see you as the expert and see what you’ve accomplished, it can be hard for them to relate to you and trust you. That’s why you must come down from your positioning as an expert and return to the beginning, when you were struggling with the same things they are. When they see that you were once where they are now, they will have faith that you can take them where they want to go. — location: [2531](kindle://book?action=open&asin=B085BT8V5P&location=2531) ^ref-65427
+
+---
+Desire? Here is where you talk about what it is that you desire the most. As you learned earlier, your desire is usually to win, retrieve, escape, or stop. (External) The external struggle is what drives the journey of accomplishment—the hero’s first journey. — location: [2538](kindle://book?action=open&asin=B085BT8V5P&location=2538) ^ref-53128
+
+---
+(Internal) The internal struggle is the journey of transformation from fear to courage—the hero’s second journey. Sometimes it’s hard to share or even know what the actual internal struggles are. But if you’re willing and able to get vulnerable and share your internal… — location: [2541](kindle://book?action=open&asin=B085BT8V5P&location=2541) ^ref-49255
+
+---
+for your story to be truly impactful, the hero needs to have done more than just accomplish their goal. They need to have become… — location: [2547](kindle://book?action=open&asin=B085BT8V5P&location=2547) ^ref-47345
+
+---
+Old vehicle? The backstory builds rapport with the character, then takes the listener to the moment of frustration that causes your hero to start on their journey. Chances are this wasn’t the first time that you have tried to achieve this desire or result. Tell… — location: [2548](kindle://book?action=open&asin=B085BT8V5P&location=2548) ^ref-13190
+
+---
+This wall is the frustration you felt because of the current opportunity you have been using to try to accomplish your desires. This old opportunity is not working and it’s the reason you (as well as your… — location: [2550](kindle://book?action=open&asin=B085BT8V5P&location=2550) ^ref-46817
+
+---
+The first 25 percent of any story is spent with the hero in the “ordinary world.” During that time we get to know and care about them, find out what their desires are, and learn what things they have tried in the past to get the result they desire. This next phase in the story is where they change their desire from something they should do into something they must do. Usually something happens that causes the hero to… — location: [2555](kindle://book?action=open&asin=B085BT8V5P&location=2555) ^ref-10447
+
+---
+The call? In your story, this is where something happens that causes you to go on the journey. It may have been a feeling or impression you got, something you learned, or an event you went to. Something happened that made you decide to try again to reach your desire, despite the failures you had in the past. Villain? As you start this journey, who or what are the things that are fighting against you? For your story, the villains are often false beliefs that are holding you back or belief systems that are hurting the market you are in. This is the person or ideas that you will be throwing stones at. What if? If you don’t know what’s at stake, it’s hard to… — location: [2560](kindle://book?action=open&asin=B085BT8V5P&location=2560) ^ref-14730
+
+---
+Your goal in this phase is to help your listeners feel how you felt when you experienced the epiphany for the first time. Guide? The guide can be a person or it can be an inspiration from God. Sometimes for me the epiphany comes directly from something someone said to me, and other times it’s an idea that comes while I’m moving forward on my journey. Who is the guide who gave you this epiphany? Epiphany? What is the big aha moment that gave you the missing piece? The goal is to get your listeners to have the same aha that you had as you tell the story. New opportunity? From this epiphany, what was the tangible thing that you were given or that you decided to… — location: [2570](kindle://book?action=open&asin=B085BT8V5P&location=2570) ^ref-20177
+
+---
+Strategy? What is the plan that you put together to try and apply this new opportunity? What are the frameworks you’ve built based on what you’ve learned from your guide? Your results? What are the results that you got from applying these frameworks? You are the human guinea pig; share this part of the story so we can understand how these frameworks could work for us as well. Others’ results? After you got results for yourself, did these frameworks work for others? If so, please tell us the case studies and results that others have also had with this new opportunity. — location: [2583](kindle://book?action=open&asin=B085BT8V5P&location=2583) ^ref-2958
+
+---
+Achievement? When you started on this journey, you set out to achieve a desired result. Share the aftermath of what happened so people can see the results that you got from the new opportunity. Transformation? Here you talk about who you became through this process. This is the resolution of your internal struggles—the death of the hero’s identity and the rebirth of your new belief systems. — location: [2592](kindle://book?action=open&asin=B085BT8V5P&location=2592) ^ref-7822
+
+---
+the goal of good stories is to break old belief patterns and rebuild them with new ones. When you create your stories this way, you are helping people break free from their old belief systems and create a new future. — location: [2596](kindle://book?action=open&asin=B085BT8V5P&location=2596) ^ref-41479
+
+---
+When I do these faster versions of my story, I don’t answer all 14 questions, but I do make sure to cover each of the five phases. For example, here is how I could tell my potato gun story if I had only 30 seconds: Backstory: I wanted to make money to support my wife. Journey: I started selling potato gun DVDs but later got shut down by Google. New Opportunity: Mike Filsaime told me about an upsell, and I discovered funnels. Framework: I built funnel frameworks to grow my companies. Achievement: I made a ton of money, and my wife retired so she could have kids and be a stay-at-home mom. The majority of the time your stories will cover only these five phases. When time permits you can go into more detail answering each of the questions under each phase. — location: [2605](kindle://book?action=open&asin=B085BT8V5P&location=2605) ^ref-43595
+
+---
+“My goal in my marketing is to rewrite the story that’s inside of people’s heads.” — location: [2626](kindle://book?action=open&asin=B085BT8V5P&location=2626) ^ref-43714
+
+---
+Tony Robbins once said, “Every day we tell ourselves stories. We create stories to give meaning to our lives, to justify what we want to experience or feel, and to give ourselves a framework upon which to build future stories.” — location: [2627](kindle://book?action=open&asin=B085BT8V5P&location=2627) ^ref-57379
+
+---
+The stories you believe have created the identity you have today. If you believe that you can lose weight, you will. If you believe that you will have success starting a business, you will. If you really believe that you will be successful, then you will. But what about the other stories that we tell ourselves—the ones that don’t serve us? Stories about why things may work for other people but not for us. Stories about why we aren’t qualified or worthy to do the thing we’ve been called to do. Those who don’t believe they will be able to stick to a diet, don’t. Those who don’t know if they’ll be successful with their own business, aren’t. It’s as simple as that. The stories you believe will form your identity and shape the direction of your life. If you change the stories you believe, you can create an identity shift and change the direction of your life. When Craig said, “My goal in my marketing is to rewrite the story that’s inside of people’s heads,” I realized that our only real goal in any of our marketing is to identify the false beliefs and false stories our customers are telling themselves—the ones that are keeping them from success—and to rewrite these stories inside their minds. — location: [2631](kindle://book?action=open&asin=B085BT8V5P&location=2631) ^ref-32820
+
+---
+Your number one job is to get them to believe that the new opportunity you created for them is the key to their desired result. The way we do that is to figure out the false beliefs that people have regarding what we are trying to offer them and what stories they are telling themselves about it, and then we have to rewrite their story. If they already had the correct story in their mind, they would have already achieved their desired result. Our job as a marketer and a storyteller is to rewrite that story. — location: [2643](kindle://book?action=open&asin=B085BT8V5P&location=2643) ^ref-48669
+
+---
+The first thing you have to understand is how people write their stories and create their beliefs. It all starts with an experience that happened in their life. It could be positive or negative, but immediately after they have that experience, their mind quickly creates a story about what that experience meant. Their brain then takes the story they’ve created and it becomes a belief. Now, depending on the experience and the story, that belief may serve and protect them, or it may create a false belief that keeps them from what they really want. These belief systems form the foundations for our lives. We create these beliefs to keep us safe and to safeguard our status. And while they’ve been developed to protect us, oftentimes they’re also the things that keep us from progressing in our lives. — location: [2648](kindle://book?action=open&asin=B085BT8V5P&location=2648) ^ref-1762
+
+---
+When you first present your new opportunity to someone, almost instantly their subconscious mind will start looking through all the stories they have to see if what you are saying fits into their existing belief patterns. If it does, they will believe you. If not, they will be skeptical, and you will have to rewrite the story for them by telling them a better story—one that gives them the epiphany that will rewrite their story. Let — location: [2658](kindle://book?action=open&asin=B085BT8V5P&location=2658) ^ref-17999
+
+---
+Chains of false belief: The first step is to identify the false belief someone currently has that would keep them from believing in your new opportunity. If you struggle to figure out what your dream customer’s false belief might be, think about what false beliefs you had before you went on this journey. Experience: After you’ve identified the false belief, determine the experience they likely had that made them believe the way they do. Story: Based on the experience they had, what is the story that they tell themselves now? New Epiphany Bridge: What story can you share that will rewrite the story that is causing the false belief holding them back, give them a new epiphany, and create a new belief? — location: [2665](kindle://book?action=open&asin=B085BT8V5P&location=2665) ^ref-19630
+
+---
+Now it’s your job to find an Epiphany Bridge story (usually from your own life, but it can also work if you share someone else’s story) that shows how you once had a similar belief but because of this new story, you now have a new belief pattern and realize why the old story you were telling yourself was wrong. — location: [2687](kindle://book?action=open&asin=B085BT8V5P&location=2687) ^ref-17014
+
+---
+When I first started to understand this concept, I realized that stories are the keys to belief. If I can identify people’s false beliefs and tell stories that show them the truth, I don’t need to “sell” them anything. The stories lead people to the right belief, and they sell themselves. — location: [2695](kindle://book?action=open&asin=B085BT8V5P&location=2695) ^ref-64524
+
+---
+Each story I share with my audience has a very specific purpose. It’s to break a false belief that they may have and rewrite it with a new empowering belief that will give me the ability to serve them. — location: [2702](kindle://book?action=open&asin=B085BT8V5P&location=2702) ^ref-14991
+
+---
+1) Your origin story with the new opportunity: This is the Epiphany Bridge story that tells how you discovered your new opportunity. Of all the stories you share, this is the one that will follow the Epiphany Bridge script the most closely. It is usually the first story I tell, so I spend more time going into my backstory, the journey, the guide that gave me the epiphany in this new market, the frameworks I developed, and my success as well as others’ success following the frameworks, and then I end with my story of achievement and transformation. The goal of this first story is to break the false beliefs people have about the other opportunities they may be currently using to try to get their desired result. — location: [2705](kindle://book?action=open&asin=B085BT8V5P&location=2705) ^ref-38263
+
+---
+2) Vehicle framework story (how you learned or earned it): The second story I tell is specifically about the new vehicle framework. Now that my audience knows about the new opportunity, I want to tell them about the framework. The story I share is about how I learned or earned this framework, and then I share the strategy (the what) of the framework. — location: [2713](kindle://book?action=open&asin=B085BT8V5P&location=2713) ^ref-34543
+
+---
+3) Internal beliefs story: After someone learns about the strategy behind the framework, their next false belief will be about their ability to execute on the plan. Here I tell my Epiphany Bridge story about how I discovered that I could actually do it and share examples of how others just like them have as well. — location: [2718](kindle://book?action=open&asin=B085BT8V5P&location=2718) ^ref-51929
+
+---
+4) External beliefs story: After someone believes in the vehicle and their ability to execute on it, the last false belief they have will be about the external forces they believe can stop them from being successful. Here I tell an Epiphany Bridge story that will break their false beliefs that some external force will keep them from being successful. — location: [2723](kindle://book?action=open&asin=B085BT8V5P&location=2723) ^ref-2871
+
+---
+Step #1—Chains of false belief: In the left column, list all the false beliefs your customers might have related to your new opportunity, followed by the vehicle frameworks, their internal false beliefs, and their external false beliefs. I have three lines for each category, but I’d suggest writing down dozens of false beliefs about each one. If you struggle trying to figure them out, think about the false beliefs you had before you got started on this path. It’s likely your audience holds those same beliefs. Step #2—Experiences: Next to each false belief that you listed, write out what type of experience they may have gone through that gave them that false belief. Step #3—Stories: Next to each experience, write down the story that the experience created in their mind. It’s important to know exactly what story they are telling themselves so you can rewrite it with a new Epiphany Bridge story. Step #4—New Epiphany Bridges: Think about your own Epiphany Bridge story for each of these false beliefs. What happened to change that belief for you? As you build out these steps for your customers, you’ll notice that you had mostly the same beliefs, experiences, and stories. So just go back in time and remember what gave you the big aha that shattered those beliefs for you. Make sure you have a story for each false belief. If you don’t have a personal story, it’s okay to use stories from other people. Each of your stories will break your dream customer’s false beliefs and rebuild new beliefs. You might not use all of them, but you should start building up an inventory of stories to use in the future. After you complete all four steps, go back and practice telling your stories using the Epiphany Bridge script from Secret #9. The better you get at telling the stories, the more effective you’ll become at persuading others and knowing exactly what to say when customers bring up objections. — location: [2738](kindle://book?action=open&asin=B085BT8V5P&location=2738) ^ref-5830
+
+---
+When you are selling face-to-face, you have the unique ability to ask specific questions, get personal feedback, and resolve objections on the spot. When you’re in an event, or selling inside a funnel, you can’t really ask questions and get answers from thousands of people, so you need to create your presentation in a way that resolves all the objections that will come up for as many people as possible. — location: [2800](kindle://book?action=open&asin=B085BT8V5P&location=2800) ^ref-34353
+
+---
+In this section I will be showing you the framework I use for one-to-many selling. When you learn how to create a presentation like this and plug it into your funnels, it will give you true freedom. — location: [2808](kindle://book?action=open&asin=B085BT8V5P&location=2808) ^ref-27505
+
+---
+What I discovered from the best people in the business was that teaching the best content hurts sales. But learning how to identify, break, and rebuild false belief patterns gets people to take the action they need in order to change. — location: [2839](kindle://book?action=open&asin=B085BT8V5P&location=2839) ^ref-50348
+
+---
+The framework revolves around three core phases. The Big Domino The Three Secrets The Stack and Closes — location: [2855](kindle://book?action=open&asin=B085BT8V5P&location=2855) ^ref-40453
+
+---
+When I have 90 minutes, the time line looks like this: First 15 minutes: Intro, Big Domino, and Origin Story Next 15 minutes: Secret #1—Vehicle Framework Story Next 15 minutes: Secret #2—Internal Beliefs Story Next 15 minutes: Secret #3—External Beliefs Story Last 30 minutes: Stack and Closes If I have only 30 minutes, I break it down like this: First 5 minutes: Intro, Big Domino, and Origin Story Next 5 minutes: Secret #1—Vehicle Framework Story Next 5 minutes: Secret #2—Internal Beliefs Story Next 5 minutes: Secret #3—External Beliefs Story Last 10 minutes: Stack and Closes The… — location: [2859](kindle://book?action=open&asin=B085BT8V5P&location=2859) ^ref-7966
+
+---
+The entire presentation is designed to get them to believe just one thing: that your new opportunity is the key to them getting the result they desire the most. That’s it. If you try to get someone to believe in more than one thing, your sales will suffer. Jason Fladlien once explained: The idea is to have a single point of belief that your message is built around and is emphasized over and over and over again from a… — location: [2871](kindle://book?action=open&asin=B085BT8V5P&location=2871) ^ref-55315
+
+---
+Your first attempt to knock down the Big Domino is by telling your origin story about how you discovered the new opportunity. This story will kick off the presentation, build rapport between you and your audience, and… — location: [2878](kindle://book?action=open&asin=B085BT8V5P&location=2878) ^ref-5458
+
+---
+During the three secrets you will be teaching your frameworks, in a similar way to what you learned in Secret #2 of this book, with one exception. When you are teaching a course, you tell your story, explain the strategy, teach the tactics, and provide social proof. When you are selling, you do not teach the tactics. You teach the what (strategy) but not the how. Your audience’s… — location: [2883](kindle://book?action=open&asin=B085BT8V5P&location=2883) ^ref-61392
+
+---
+The goal of each story, strategy, and case study that you share is meant to break a specific false belief pattern and rewrite the true story in your listeners’ minds. You need to identify the false beliefs they have around the following: The vehicle (new opportunity) Their ability to use the vehicle (internal beliefs) The number one thing they believe is keeping them from getting… — location: [2889](kindle://book?action=open&asin=B085BT8V5P&location=2889) ^ref-6941
+
+---
+Notice that the three secrets are not trying to get people to believe new things. They are simply false beliefs they… — location: [2896](kindle://book?action=open&asin=B085BT8V5P&location=2896) ^ref-30202
+
+---
+Here is where you move from the teaching to the sales portion of the presentation. You’ll then present your offer in a very precise format we call the Stack, and you’ll weave in some very specific closes that have been proven to persuade people to take the action they need in order to get results. And… — location: [2899](kindle://book?action=open&asin=B085BT8V5P&location=2899) ^ref-48931
+
+---
+The first step to creating belief is figuring out the One Thing you have to get someone to believe that will knock down all their other objections and make those objections irrelevant, or disappear altogether. — location: [2921](kindle://book?action=open&asin=B085BT8V5P&location=2921) ^ref-36527
+
+---
+When we launched ClickFunnels, I tried to figure out the one key belief that I needed my audience to understand and believe. I came up with this basic statement: If I can make people believe that (my new opportunity/category) is/are the key to (the result they desire most) and is/are only attainable through (my specific vehicle/frameworks), then all other objections and concerns become irrelevant and they have to give me money. — location: [2949](kindle://book?action=open&asin=B085BT8V5P&location=2949) ^ref-59917
+
+---
+This is the key to launching your movement. Belief. — location: [2955](kindle://book?action=open&asin=B085BT8V5P&location=2955) ^ref-26569
+
+---
+I’ve helped my Inner Circle members create these statements for their businesses. We discovered that if we’re struggling to make a valid argument that works, it’s typically because we didn’t create a new opportunity but instead have an improvement offer. If we haven’t created a blue ocean, then the argument won’t be valid. — location: [2960](kindle://book?action=open&asin=B085BT8V5P&location=2960) ^ref-629
+
+---
+For example, I’ve seen statements that say something like: If I can make people believe that cutting calories and exercising is the key to losing weight and is attainable only through my new weight-loss course, then all other objections and concerns become irrelevant and they have to give me money. That statement is not true. If the belief you are trying to give them is that they need to cut calories and exercise, there are a few problems. You are not in the Prolific Zone—you are in the mainstream. This is not a new opportunity. There are thousands of identical programs crowding the niche of “cutting calories and exercising.” This is not a blue ocean. Customers could literally buy one of a hundred different products to satisfy the belief you created. The niche and opportunity would need to change to something like this: If I can make them believe that ketosis is key to losing weight and is attainable only through my proprietary framework that gets your body into ketosis within 10 minutes, then all other objections and concerns become — location: [2963](kindle://book?action=open&asin=B085BT8V5P&location=2963) ^ref-3507
+
+---
+image to show the concept behind each one. If you’re doing a webinar, this graphic will give you ideas on what you can put on your slides. If you’re using this script as an email sequence or some other selling system, use the slides as a reminder of what you need to cover at each phase. — location: [2981](kindle://book?action=open&asin=B085BT8V5P&location=2981) ^ref-2033
+
+---
+The first 15 minutes (or one-sixth) of your presentation is trying to knock down the Big Domino through your origin story. We break this time down into two phases: the introduction and the origin story. — location: [2983](kindle://book?action=open&asin=B085BT8V5P&location=2983) ^ref-45689
+
+---
+Before I start creating my presentation, I want to be thinking about who it’s for and what is the hook to get someone to come and watch the presentation? Who/what statement: As a first step, I like to make a who/what statement that quickly addresses which submarket my message is for and what new opportunity they will be switching to. It reads like this: I am going to teach _____________________ (insert submarket) how to _____________________ (insert result) through _____________________ (insert your niche). — location: [2985](kindle://book?action=open&asin=B085BT8V5P&location=2985) ^ref-40719
+
+---
+Here are two examples of what that statement could look like. I am going to teach real estate investors how to make money through flipping houses on eBay. — location: [2994](kindle://book?action=open&asin=B085BT8V5P&location=2994) ^ref-10937
+
+---
+The opportunity switch headline: Now that you know the who and what, you need to give the class a sexy title that will attract your dream customers. I try to create a title that focuses on the result this presentation will deliver. I do that by filling in this phrase: How to (result they desire most) without (thing they fear most). So for my ClickFunnels masterclass, I could create something like this: How to Create a Seven-Figure Funnel in Less Than 30 Minutes without Having to Hire, or Be Held Hostage by, a Tech Guy. — location: [2999](kindle://book?action=open&asin=B085BT8V5P&location=2999) ^ref-39067
+
+---
+Hey everybody! Welcome to the webinar. This is ________ and today I’m going to show you how to ________ without ________. — location: [3019](kindle://book?action=open&asin=B085BT8V5P&location=3019) ^ref-24124
+
+---
+I like to cover this at the very beginning of my presentations as a way to build instant rapport with my audience. Here’s how to do it. Justify their failures: Now I’m guessing for a lot of you this is probably not your first webinar. The first thing I want to mention is that if you’ve failed at ________ in the past, it’s not your fault. There’s a lot of information out there, and it can be confusing. Many times that information overload keeps you from success. It’s okay. Allay their fears: If you’ve been concerned in the past that you just can’t succeed with ________, I want to put those fears to rest. You can do this. You just need the right person to explain it to you. Throw rocks at their enemies: The big corporations want you to think that you need a lot of venture capital or some fancy college degree to be successful. I’m here to tell you they’re wrong. They have their own reasons for wanting you to think that, but it’s not true. Confirm suspicions: If you’ve ever thought that the government and the banks want you to fail, you’re probably right. They don’t benefit from you succeeding. They want to keep you in debt and in need. The difference with us is that we actually care about your success and truly want to see you living the life of your dreams. Encourage their dreams: So that’s what we’re here for. I know you have a dream to change the world and make an impact, and I want to show you how to make that happen during this webinar. — location: [3025](kindle://book?action=open&asin=B085BT8V5P&location=3025) ^ref-51519
+
+---
+The next slide is what I call the “ruler.” It’s the measuring stick people will use to judge your webinar. If you don’t tell them what your goals are, even if you do everything perfectly they may be upset because their goal is different than yours. So I like to tell people right away what my goals are, what I want them to get from the presentation. If they aren’t looking for a similar goal, they have the opportunity to leave at that point. The goal is always to help them to see that this new opportunity will give them their greatest desires, increase their status, and help them achieve their goals. I also take this opportunity to be inclusive of any people who aren’t sure whether they are in the right spot. — location: [3041](kindle://book?action=open&asin=B085BT8V5P&location=3041) ^ref-36458
+
+---
+My goal for this presentation is to help two types of people. For those who are beginners, you’ll get (what the presentation/ new opportunity will do for them, or how it will fulfill their desires). For more experienced people, you’ll get (alternative). Sometimes my inclusion is for beginners versus advanced, but other times it’s based on different parts of the market who may be watching. For example: If you own a retail store, you’ll get ________ from my presentation, but if you own an online store, you’ll get ________ from the presentation. — location: [3048](kindle://book?action=open&asin=B085BT8V5P&location=3048) ^ref-6091
+
+---
+Here I say that my goal is to get them to believe that the new opportunity I am presenting is the secret to the result they desire the most. — location: [3060](kindle://book?action=open&asin=B085BT8V5P&location=3060) ^ref-1296
+
+---
+In the next 90 minutes, my goal is to get you to believe that (new opportunity) is the key to unlock (what you desire the most), and I’m going to show you my proprietary frameworks that will make it simple for you to achieve that result. — location: [3062](kindle://book?action=open&asin=B085BT8V5P&location=3062) ^ref-56161
+
+---
+You have to be careful here, because one of the fastest ways to break rapport with your listeners is to talk about how great you are, but it’s also essential for them to know that you are qualified to lead them. I talk briefly about one or two things from my highlight reel, and then I quickly move into my backstory to show that I started in a place just like them. In the past __ years I’ve had an amazing chance to (cool thing you’ve done because of your new opportunity) and I’ve also been able to help other people to (awesome thing you did for others), but it wasn’t always that way. In fact, just a few short years ago I was just like you . . . (transition into backstory). — location: [3066](kindle://book?action=open&asin=B085BT8V5P&location=3066) ^ref-61624
+
+---
+This is where you transition into your backstory for your first Epiphany Bridge story. You will have a chance to tell the origin story that helped you discover this new opportunity. Because we spent a whole chapter on this script, I am not going to break it down slide by slide, but I usually have at least one slide for each of the 14 steps in this script. — location: [3075](kindle://book?action=open&asin=B085BT8V5P&location=3075) ^ref-31083
+
+---
+This will be your first attempt to knock down the Big Domino. Some people after hearing this story will have the same epiphany that you had, and will be ready to take action when you are finished with this one story. — location: [3079](kindle://book?action=open&asin=B085BT8V5P&location=3079) ^ref-46849
+
+---
+Many times, though, once you change that big belief for them, they immediately start coming up with other concerns. This is especially true with more expensive opportunities and big life changes. — location: [3091](kindle://book?action=open&asin=B085BT8V5P&location=3091) ^ref-340
+
+---
+I’ve found that there are three core false beliefs that come to the surface and keep someone from buying, even if they believe the new opportunity is right for them. — location: [3093](kindle://book?action=open&asin=B085BT8V5P&location=3093) ^ref-48662
+
+---
+The vehicle: other false beliefs they may have about the vehicle framework or new opportunity you’re presenting Internal beliefs: beliefs about their own abilities to execute on the new opportunity External beliefs: false beliefs they have about outside forces that could keep them from success; things beyond the individual’s control, such as time or the economy — location: [3097](kindle://book?action=open&asin=B085BT8V5P&location=3097) ^ref-58453
+
+---
+Now that I have the three core false beliefs, I have to find the Epiphany Bridge stories that will break their core chains of false belief and create a new story for them. — location: [3117](kindle://book?action=open&asin=B085BT8V5P&location=3117) ^ref-25518
+
+---
+Finally, I rewrite each of the false beliefs with their accompanying Epiphany Bridge stories into a “secret” using a “how to” statement that hints at my framework being the key to their desired result. Curiosity is the key; I make sure the secrets cause curiosity so people will want to listen. — location: [3132](kindle://book?action=open&asin=B085BT8V5P&location=3132) ^ref-29742
+
+---
+When all three of the core false beliefs have been knocked down, the Big Domino tumbles. When that happens, you have introduced the belief necessary for someone to take action. It’s all about breaking the false belief patterns holding your prospects back and rebuilding true beliefs. — location: [3143](kindle://book?action=open&asin=B085BT8V5P&location=3143) ^ref-16824
+
+---
+Now we’re transitioning to the content section of the presentation. You’ll be tempted to switch into teacher mode at this point. And if you’re not careful, it will destroy your sales. This is not a teaching presentation; this is a presentation to inspire people to take action and change their lives. You can teach the strategy (what they need to do) but do not teach the tactics (how they need to do it). — location: [3147](kindle://book?action=open&asin=B085BT8V5P&location=3147) ^ref-48232
+
+---
+Teaching the tactics is what you do after they have purchased. If you do teach the tactics, it’s the surest way to kill sales. Remember, you are providing a framework strategy, then focusing on identifying the false belief patterns behind the strategy, breaking them, and rebuilding them with the truth. If you don’t break your listeners’ false beliefs about the strategy, no matter how many tactics you give them, they’ll never have success. They have to believe first, or everything else is pointless. — location: [3153](kindle://book?action=open&asin=B085BT8V5P&location=3153) ^ref-22951
+
+---
+In New Testament times, Paul told the Corinthians (1 Corinthians 3:2), “I have fed you with milk, and not with meat: for hitherto ye were not able to bear it.” If he would have given them the meat first, they couldn’t have handled it yet, and the same is true for your dream customers. You must change their beliefs about your strategy first, then you can change their lives. But if you don’t change their beliefs first, you’ll never have a chance to change their lives. I honestly believe that the greatest service you can provide for someone is getting them to buy something. The act of buying creates a commitment that causes someone to take action. — location: [3163](kindle://book?action=open&asin=B085BT8V5P&location=3163) ^ref-35951
+
+---
+One of my early mentors, Bill Glazer, explained that I was keeping people from success because I was teaching them. I was so confused, and it took a few years before I understood what he meant and how to change my method so that it would work. — location: [3170](kindle://book?action=open&asin=B085BT8V5P&location=3170) ^ref-28859
+
+---
+Over the years, I slowly learned how to structure my content in such a way that it teaches and inspires, but also (and most important) causes people to take action. For some of you, this will feel strange at first because you aren’t teaching all the cool tactics you want to share. But you need to understand that the type of teaching you are doing here is the foundation for change. — location: [3172](kindle://book?action=open&asin=B085BT8V5P&location=3172) ^ref-57134
+
+---
+The time for teaching the tactics will come. But your customers need to come in with the right belief systems first. — location: [3179](kindle://book?action=open&asin=B085BT8V5P&location=3179) ^ref-18883
+
+---
+This is where you transition to the content section of the webinar, where you will start breaking and rebuilding their false belief patterns. — location: [3182](kindle://book?action=open&asin=B085BT8V5P&location=3182) ^ref-40367
+
+---
+Introduce what you’re going to teach during the webinar. You already created the titles of these three secrets, so you can plug them in here and introduce them to everyone. Here’s what we’re going to cover during the next 45 minutes or so: Secret #1—Funnel Hacking: How to Ethically Steal More Than $1,000,000 Worth of Funnel Hacks from Your Competitors for Less Than $100 Secret #2—Funnel Cloning: How to Clone Their Proven Funnel (inside ClickFunnels) in Less Than 10 Minutes Secret #3—My #1 Traffic Hack: How to Get the Exact Same Customers Who Are Currently Going to Your Competitors’ Funnels . . . to Start Coming to Your Funnel Instead! — location: [3186](kindle://book?action=open&asin=B085BT8V5P&location=3186) ^ref-15031
+
+---
+Here you quickly state the first secret. Secret #1: How to Ethically Steal More Than $1,000,000 Worth of Funnel Hacks from Your Competitors for Less Than $100 — location: [3196](kindle://book?action=open&asin=B085BT8V5P&location=3196) ^ref-26677
+
+---
+During the next set of slides you will be presenting the first framework you alluded to during your origin story. — location: [3200](kindle://book?action=open&asin=B085BT8V5P&location=3200) ^ref-1140
+
+---
+When you share your framework for the vehicle, it’s the same framework you discussed in your Epiphany Bridge origin story where you explained how you discovered a proprietary framework to succeed with your new opportunity. — location: [3201](kindle://book?action=open&asin=B085BT8V5P&location=3201) ^ref-59610
+
+---
+In this process we introduce the framework, share the story about how we learned or earned it, teach the strategy (what it is), and show case studies of others who have applied the framework. — location: [3208](kindle://book?action=open&asin=B085BT8V5P&location=3208) ^ref-26513
+
+---
+This slide introduces the framework your audience will be learning. They’ve already heard about it in your initial Epiphany Bridge story, so here you’re going to remind them what it is and tell them what it’s called. This is where they will start taking notes and open their minds to learn. Remember earlier I told you about the framework we developed that helped me to (desired result)? Take out your pen and paper to take notes because I’m going to walk you through this framework. I call it (proprietary name for your framework). You’re not teaching them the strategy behind the framework yet, you’re just telling them what it’s called and reminding them of what it did for you. — location: [3212](kindle://book?action=open&asin=B085BT8V5P&location=3212) ^ref-59449
+
+---
+Now that they are ready to learn the strategy, you need to step back and tell them the story about how you learned or earned this framework. Without this preframe, your audience won’t value the gold that you are about to give them. — location: [3221](kindle://book?action=open&asin=B085BT8V5P&location=3221) ^ref-53826
+
+---
+Epiphany Bridge origin story vs. Epiphany Bridge vehicle story: Many people get confused here because they are not sure how this story is different from the origin story you told during the introduction. That story is your origin story about how you discovered the new opportunity and turned it into a framework. This story is about how you actually developed the framework. — location: [3223](kindle://book?action=open&asin=B085BT8V5P&location=3223) ^ref-35954
+
+---
+You’ll notice that I showed may audience what to do (find a funnel, buy the product, create a blueprint, and build the funnel in ClickFunnels) but I didn’t show them the tactical how. The how would be me showing them where to find a funnel, the criteria of a good funnel to model, things I look for in a funnel, such as structure, design, etc. That stuff—the how—is reserved for the training they are buying. If you spend time in the weeds teaching the tactics here, you will lose them. — location: [3254](kindle://book?action=open&asin=B085BT8V5P&location=3254) ^ref-59479
+
+---
+Here you will show case studies of others you have shared your framework with and the results they achieved by following them. — location: [3261](kindle://book?action=open&asin=B085BT8V5P&location=3261) ^ref-23842
+
+---
+If time permits, you can also share shorter versions of additional stories that can help knock down other false beliefs your audience may have about the vehicle framework. These are the supporting stories that you identified in your story inventory list. It’s time to revisit that list and use those stories to break any other core beliefs customers might have related to the vehicle. I learned a cool way to do this from Jason Fladlien. We were doing a webinar and he kept track of every objection he could think of during the whole thing. At the end, he spent about 90 minutes busting every objection on the list. He’d say, “You’re probably thinking (insert false belief), right? Well, (tell quick Epiphany Bridge story).” — location: [3266](kindle://book?action=open&asin=B085BT8V5P&location=3266) ^ref-8993
+
+---
+At the end of the webinar, we sold three times more during his 90 minutes of “You’re probably thinking X, right?” than we sold in the first 90 minutes of the webinar. We were live for three hours and had a record-breaking day. He just kept breaking false beliefs until there were no more objections anyone could possibly think of. There was absolutely no resistance left. — location: [3278](kindle://book?action=open&asin=B085BT8V5P&location=3278) ^ref-45946
+
+---
+As we transition from Secret #1 to Secret #2 (breaking internal false beliefs), almost everything will be the same, so I’ll just list the steps to follow below: State the secret Introduce the framework’s name Share the Epiphany Bridge story that you learned or earned Teach the strategy of the framework Show case studies Share other supporting Epiphany Bridge stories — location: [3288](kindle://book?action=open&asin=B085BT8V5P&location=3288) ^ref-37439
+
+---
+The only difference is that you will be sharing your Epiphany Bridge story about your internal frameworks. — location: [3293](kindle://book?action=open&asin=B085BT8V5P&location=3293) ^ref-24092
+
+---
+Again, moving on to Secret #3 (breaking external false beliefs), you’ll follow the same format with your slides as you did for Secrets #1 and #2: State the secret. Introduce the framework’s name. Share your Epiphany Bridge story that you learned or earned. Teach the strategy of the framework. Show case studies. Share other supporting Epiphany Bridge stories. — location: [3310](kindle://book?action=open&asin=B085BT8V5P&location=3310) ^ref-12397
+
+---
+That is how you teach the content section of the webinar. If you’ve done it right, you’ve gotten your audience to believe that your vehicle is the key to them getting their desired result. They should believe that they can actually do it, and that there is no external force that could hold them back from success. If those things are true, then they have to give you money to unlock the tactics they need to be able to implement the strategies you just taught them. The last step in this script is making the offer. You are about one hour into the presentation (or four-sixths of the way done), and now you have 30 minutes (or two-sixths) left to do the Stack and the close. — location: [3327](kindle://book?action=open&asin=B085BT8V5P&location=3327) ^ref-46107
+
+---
+What Armand taught me when he showed me the Stack was that the only thing prospects remember when you sell is the last thing you show them. He explained that most sales presentations focus on the core offer, then the presenter will offer a bunch of different bonuses, and then give a call to action. The problem is that if people can only remember the last thing you showed them, they only remember the last bonus, and then they associate the value of the offer with the last bonus instead of the full offer. — location: [3359](kindle://book?action=open&asin=B085BT8V5P&location=3359) ^ref-7290
+
+---
+By adding your offer elements one at a time on the same slide, you allow your prospects to see the value build in front of their eyes. — location: [3365](kindle://book?action=open&asin=B085BT8V5P&location=3365) ^ref-48297
+
+---
+When you transition to the close, you are going to walk people through your offer. You do this by introducing the first part of your offer, telling the story behind how you created (learned or earned) it, and listing that one thing on a slide with the total value. You then move to the second element of your offer, tell the story about how you created (learned or earned) it, and come back to the Stack Slide and show elements #1 and #2 with the new total. — location: [3366](kindle://book?action=open&asin=B085BT8V5P&location=3366) ^ref-28725
+
+---
+Do this for each element in the offer—talk about it, then add it to the Stack Slide—so the audience sees the value adding up. The last thing you show them before you reveal the price is the full Stack Slide with the entire offer. When you present it this way, the audience associates the price with the full offer, not just the last thing you mentioned. This small shift in how you present your offer will do more to increase your sales than almost anything else you could possibly do. — location: [3372](kindle://book?action=open&asin=B085BT8V5P&location=3372) ^ref-21124
+
+---
+As I start to move from the content section to the Stack and closes, I use a few techniques to cement the new concepts into their minds and make a simple, non-stressful transition to the selling section of the presentation. The first thing is to show how they could get the results they desire most, if they follow what I showed them. I’ll go back through my three secrets and say something like: So let me ask you a question. If you followed what I showed you in Secret #1 and found a funnel that is already working, then you did what I showed you in Secret #2 and used ClickFunnels to build out a similar funnel in just 10 minutes, and then you used Secret #3 to get traffic from the SAME place your competitors are getting it from, do you think you could be successful? When you break it down like that so they can connect the dots, they have to say yes. If they’ve said yes to that question, that means all the internal beliefs have been knocked down, and the Big Domino has fallen. — location: [3382](kindle://book?action=open&asin=B085BT8V5P&location=3382) ^ref-64398
+
+---
+That first transition question will help you gauge whether they are sold. And it will help them convince themselves that they are sold as well. — location: [3395](kindle://book?action=open&asin=B085BT8V5P&location=3395) ^ref-60448
+
+---
+Now it’s time to start the actual sales section of the webinar. You’ve taught the three secrets. You’ve broken false beliefs. It’s time to reveal what you have to offer. For most people, the hardest part of selling on a webinar is transitioning into the close. — location: [3399](kindle://book?action=open&asin=B085BT8V5P&location=3399) ^ref-33982
+
+---
+the best way to make that transition is to simply say: Let me ask you a question . . . — location: [3402](kindle://book?action=open&asin=B085BT8V5P&location=3402) ^ref-31029
+
+---
+I like to follow up with a couple of questions. How many of you are excited about what we just talked about?! How many of you are feeling a little overwhelmed because we’ve covered so much? — location: [3405](kindle://book?action=open&asin=B085BT8V5P&location=3405) ^ref-62830
+
+---
+Then I try to get them to laugh by showing them a picture of someone with a fire hose in their mouth. That usually gets a laugh, and it allows me to explain how it’s impossible to show them everything they need to get results in a 60-minute presentation, but that I tried to cover as much as possible. I tell them that I created a special package for those who are ready to move forward and want to implement this new opportunity. Then I ask permission to share it with them. Is it okay with you if I spend 10 minutes going over a very special offer I created to help you implement ________? If I’m in front of them live, then I wait until they say yes or I see heads nodding. If it’s in a video or virtual, I still pause for a moment to get them to agree. I want them to say yes first. Once you get permission, all the awkward feelings about selling disappear. — location: [3408](kindle://book?action=open&asin=B085BT8V5P&location=3408) ^ref-56826
+
+---
+In the rare times when no one speaks or there is an awkward silence, I say something like: If you don't want to learn this, that's totally okay. I already know all this. I can leave right now. Then I wait and say: Who here wants me to spend 10 minutes going over this? And the second time, everybody always says yes. If you’ve followed the script up to this point, they’re going to say yes and you can introduce your offer. — location: [3415](kindle://book?action=open&asin=B085BT8V5P&location=3415) ^ref-33055
+
+---
+This is a good time to show a digital image representing the core product you’re selling. It could be an information product, a service you sell, or a physical product. Tell the story about how and why you created this core product for them. — location: [3425](kindle://book?action=open&asin=B085BT8V5P&location=3425) ^ref-63951
+
+---
+You want your audience to realize that investing in this thing shouldn’t cost them any money, it should only save them money. Remind them not only what they are now able to do, but also what they will be able to get rid of. Hopefully the money they save will be more than what they are actually paying. That way, it’s a truly irresistible offer. When you have this product, you’ll be able to ________. When you have this product, you’ll be able to get rid of ________. — location: [3430](kindle://book?action=open&asin=B085BT8V5P&location=3430) ^ref-10988
+
+---
+This slide shows the roadblocks you ran into when you tried to get the same desires your customers want. When I was first figuring this stuff out, I ran into a big roadblock. I didn’t know how to… — location: [3437](kindle://book?action=open&asin=B085BT8V5P&location=3437) ^ref-40434
+
+---
+Talk about all the time and money you had to spend to overcome that big roadblock the product saved you from. Maybe you had to spend a year developing email templates, or you had to hire expensive lawyers to draft just the right contracts. Then explain that they won’t have to because you’re going include the tool for them. Way back then, I had to spend ________ and ________ to figure out an efficient way to handle this problem. But I don’t want you to have to re-create the wheel. I’ve already got proven ________. And I’m just going to give it/them to you with this package. Sound cool? or When you use this product, not only will you save the time and money I spent to… — location: [3443](kindle://book?action=open&asin=B085BT8V5P&location=3443) ^ref-34830
+
+---
+here I mention any false beliefs they may have about the product or their ability to use it, and I quickly break and… — location: [3453](kindle://book?action=open&asin=B085BT8V5P&location=3453) ^ref-23076
+
+---
+Reveal the first Stack Slide with the product on it. Be sure to include the total value of the item on the slide. When you sign up, you’re going to get instant access… — location: [3457](kindle://book?action=open&asin=B085BT8V5P&location=3457) ^ref-2263
+
+---
+It’s time to introduce people to your opportunity switch or stack frameworks. Often this will be a digital course or live workshop or event to help them implement the frameworks. For some of you, your core product is your frameworks, and that is okay too. Here you… — location: [3462](kindle://book?action=open&asin=B085BT8V5P&location=3462) ^ref-20907
+
+---
+A big mistake people make is going deep into each module explaining what will be covered each week. Don’t do that. It overwhelms and confuses your audience. Just give them a high-level look at each module. Go through this really quickly. It should take only about 30 seconds. Here’s what we’re going to cover. Week 1, we’re going to talk about ________. Week 2, we’ll go over ________. Week 3, we dive into ________. Then by Week 4, you’ll be ready for ________. Week 5, we look at ________. And finally, in… — location: [3467](kindle://book?action=open&asin=B085BT8V5P&location=3467) ^ref-50983
+
+---
+Here you will highlight the success stories from people who have used your frameworks. Over time, you’ll add in other success stories as they happen. Let me introduce you to . . . (share case study #1.) Then there’s . . . (share case study #2.)… — location: [3476](kindle://book?action=open&asin=B085BT8V5P&location=3476) ^ref-16855
+
+---
+Be as inclusive as possible here. I’ve also included a few niche examples. So I want to go back and make sure you realize who this is for. It’s for people who . . . [Business] It’s for people just starting out or those who are already successful and want to scale. [Weight loss] It’s for people who have 100 pounds to lose or those who have only 5 more to go. It even helps people who don’t need to lose weight but want to build healthy muscle. — location: [3485](kindle://book?action=open&asin=B085BT8V5P&location=3485) ^ref-18720
+
+---
+The biggest excuse I hear from people about ClickFunnels is that they don’t have a product to sell yet. So I tell them they don’t need to have a product. They can use affiliate products. And I teach them how to make a product, if that’s what they want to do. Destroy your audience’s number one objection to the training right here. You might be thinking you can’t get started with this because . . . Here’s why that’s a mistake that will hold you back from success. — location: [3495](kindle://book?action=open&asin=B085BT8V5P&location=3495) ^ref-60019
+
+---
+This is where the magic starts happening. Show the Stack Slide again with the core product/service on top and the frameworks on the second line. Then update the total value price at the bottom to show what the offer is now worth. 30: REPEAT THIS PROCESS FOR ALL OTHER ELEMENTS OF YOUR OFFER You will continue to introduce new elements to your offer, tell the story behind how you created it so they can see the pain and cost you put in to learn or earn it, and then show them the ease and speed with which they will experience it because you are just giving it to them! — location: [3502](kindle://book?action=open&asin=B085BT8V5P&location=3502) ^ref-44534
+
+---
+Between each new element, make sure you restack the slide so they can see what the total value of your offer has grown to. — location: [3510](kindle://book?action=open&asin=B085BT8V5P&location=3510) ^ref-49489
+
+---
+As you do this, remember that each new element you create should be helping to knock down false beliefs they have about why they may not be successful. If I know that people aren’t going to buy my product because they are afraid they won’t be able to get traffic into their funnels, then I will create a bonus that shows them how to get traffic. Yes, each part of your offer should be created in a way that removes all false beliefs they may still have at this point. — location: [3513](kindle://book?action=open&asin=B085BT8V5P&location=3513) ^ref-17790
+
+---
+I call this the Big Stack Slide because it has all the elements of the offer, including the value of each part. You’ll want to total everything up and have the value be 10 times as much as the actual price will be. (If the value doesn’t reach that level, consider adding something more valuable to your offer.) — location: [3518](kindle://book?action=open&asin=B085BT8V5P&location=3518) ^ref-336
+
+---
+An “If all” statement reads like this: “If all this package did was ________, would it be worth $________?”44 I usually transition by saying something like: Now obviously, I’m not going to charge you $11,552. But if I DID charge you $11,552, and all it did was ________, would it be worth it to you? Then do three “If all” statements based on your three secrets. Vehicle (Secret #1): If all this system did/got you was ________ (related to Secret #1), would it be worth $________? Stop and wait for them to say yes in their mind. Internal Beliefs (Secret #2): And if all it did was ________ (related to Secret #2), would it be worth $________? Stop and wait for them to say yes in their mind. External Beliefs (Secret #3): And what if all it did was ________ (related to Secret #3), then would it be worth it? Stop and wait for them to say yes in their mind. They’ve now said yes three times when you asked them if what you are selling is worth the total value, usually a 10-time markup. Now when you discount the price to what you’re actually selling it for, they are getting a 90 percent discount from what they believe (and have said) it’s worth. — location: [3527](kindle://book?action=open&asin=B085BT8V5P&location=3527) ^ref-25044
+
+---
+I like to use the “I had two choices” close at this point because it gets people to agree that I should charge them more in order to make the program better. I had two choices with this. I could go as cheap as possible and try to sell as many as possible. But the problem with that is I couldn’t really stack on the value for you. So I decided to go with a second option, which obviously requires a slightly higher investment on your side. But in exchange for that, my team can dedicate more time, energy, and resources to help guarantee your success. — location: [3543](kindle://book?action=open&asin=B085BT8V5P&location=3543) ^ref-3342
+
+---
+Before you reveal the actual price, ask what the end result would be worth to them. So if you had a successful funnel today that was making you money, what would it be worth to you? Then stop and wait for them to answer the question in their minds. How much would you pay to have that one successful funnel? Then stop and wait for them to think about it for a few seconds. You can probably see why people pay $________ for a similar result from me, because it’s not a cost—it’s an INVESTMENT. — location: [3551](kindle://book?action=open&asin=B085BT8V5P&location=3551) ^ref-14933
+
+---
+Now I come back to the full price I showed them right before the “If all” statements. You’ve already seen how it’s worth $________. And even at $________, which I charge the public, it’s a great deal. But because of ________, I’m going to give you a very special offer . . . — location: [3560](kindle://book?action=open&asin=B085BT8V5P&location=3560) ^ref-51821
+
+---
+Here is the first time you reveal the price of your offer. Tell them the real price and give your first call to action (asking them to click on a button, go to a certain website, or call a phone number). Every slide after this will have a… — location: [3566](kindle://book?action=open&asin=B085BT8V5P&location=3566) ^ref-28688
+
+---
+For years, I ended my sales presentations with the price on the last slide. As I gained experience, I realized the elements that come after the initial price reveal are vitally important to closing the sale. So I give the initial price, and some people will still have sticker shock. I need to let that price marinate for a while as I justify why it’s actually not that expensive. My first price justification is usually related to either showing what the full price would be outside the current presentation or comparing it to the price of other options for getting a similar result (apples vs. oranges). [Full price] Now let me put this into perspective for you. If you went to my regular website right now, you could buy this same product for $________. But because you’ve invested this time with me, and you’ve proven that you really want to get this result, I’m making a special offer just for this webinar. [Apples vs.… — location: [3571](kindle://book?action=open&asin=B085BT8V5P&location=3571) ^ref-49377
+
+---
+Now I like to mention the choices they can make. At this point you have two choices. You can choose to do nothing. If you do nothing with the information you’ve learned over the last hour, what will you get? Nothing. Or you can choose to take a… — location: [3584](kindle://book?action=open&asin=B085BT8V5P&location=3584) ^ref-42731
+
+---
+Then I reveal that it’s okay if it doesn’t work for them, because they’re covered with a 30-day money-back guarantee. They can test-drive it now and see if it will… — location: [3590](kindle://book?action=open&asin=B085BT8V5P&location=3590) ^ref-58695
+
+---
+Now that they know they have nothing to lose, I like to make their choice as simple as possible. Help them see that this really is a no-brainer. The real question is this: Is it worth gambling a few minutes of your time to… — location: [3594](kindle://book?action=open&asin=B085BT8V5P&location=3594) ^ref-31547
+
+---
+Next I show them the Big Stack Slide one last time, with everything they’re going to get and the total value. I go through each element line by line one last time to cement… — location: [3600](kindle://book?action=open&asin=B085BT8V5P&location=3600) ^ref-46844
+
+---
+The two most valuable tools in marketing are urgency and scarcity. Here you’re going to add a bonus upgrade that’s only available right then. You can create urgency and scarcity by offering something special to a certain number of people, or for a certain amount of time (or both). Do not skip this part! It is the key to getting people to buy immediately. If they leave the webinar, the chances of them coming back and buying later are almost zero. In fact, I usually give a bonus only for those who are actually on live that I don’t offer to those who watch only the replays… — location: [3605](kindle://book?action=open&asin=B085BT8V5P&location=3605) ^ref-54521
+
+---
+This is the slide I end my presentation with, and it stays up during the entire question-and-answer session. There are a few key components to this slide. Recap of the offer Countdown clock for 30 minutes Price Call to action Then it’s time to answer questions. Sometimes I’ll take questions live from the audience, and other times I’ll write many of the questions in advance that I know… — location: [3613](kindle://book?action=open&asin=B085BT8V5P&location=3613) ^ref-50916
+
+---
+I also try to think about any other false beliefs they may still have, returning to the sentence: You’re probably thinking ______… — location: [3618](kindle://book?action=open&asin=B085BT8V5P&location=3618) ^ref-45159
+
+---
+“When you watch me speak, you’ll notice that all the heads in the audience are nodding the entire time. If you are standing in the back of the room and you are looking at the heads of the audience members, it looks like the waves in the ocean going up and down. I am constantly asking simple questions to get people to say yes over and over again, so when I ask them to give me money at the end, they’ve already told me yes hundreds of times before that.” — location: [3638](kindle://book?action=open&asin=B085BT8V5P&location=3638) ^ref-4866
+
+---
+Here are some examples of trial closes that I’ve used dozens of times in each of my presentations. Are you ready to get started? Are you all getting this? Is this making sense? Can you imagine if that happened to you? Who here wants a free copy of ______________? Would you like to be our next case study? You’ve heard them talk about this before, right? Isn’t that cool? Isn’t that exciting? Am I right? — location: [3647](kindle://book?action=open&asin=B085BT8V5P&location=3647) ^ref-8588
+
+---
+Can you see yourself doing ______________? I’m sure you’ve noticed this too, right? — location: [3653](kindle://book?action=open&asin=B085BT8V5P&location=3653) ^ref-18340
+
+---
+The more you can get them to say yes, the more likely they will be to accept the epiphanies you’ve shared with them and the offer presented. Trial closes are a huge part of telling effective stories. The most powerful times to use trial closes are right after you’ve shared a case study or success story from one of your students. Many times people will share their story and then quickly move on. If you notice when I share any story, I’ll always pause, and then drop a half dozen trial closes before I move on. “Did you hear that? Isn’t that amazing? Can you imagine what your life would be like if that happened to you? Are you getting this?!” — location: [3656](kindle://book?action=open&asin=B085BT8V5P&location=3656) ^ref-10988
+
+---
