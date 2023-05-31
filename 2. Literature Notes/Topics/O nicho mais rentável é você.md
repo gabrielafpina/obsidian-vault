@@ -42,7 +42,8 @@ O nicho mais rentável é você.
 1. **Mapeie o seu futuro ideal:** Como a sua história termina? Vai terminar com saúde, paz e um trabalho com propósito? Ou você não faz ideia?
 	*1. O que te diferencia das outras pessoas é a sua história.*
 	2. Se você não tem uma visão de futuro, como espera conduzir alguém de forma clara naquela direção?
-2. **Imitação Inteligente / [[Modelagem]]**: 
+2. **Imitação Inteligente / [[Modelagem]]**: a minha voz, tom e mensagem é a combinação da  voz, tom e mensagem das pessoas que eu tenho como referência.
+	- [[O que é a criatividade?]]
 
 **PENSADORES:**
 - [[Dan Koe]]

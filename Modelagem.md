@@ -9,6 +9,8 @@
 **COMO:**
 
 **PENSADORES:**
+- [[Dan Koe]]
+	1. Escreva os livros que mais te impactaram
 
 
 ---------
