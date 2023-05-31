@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "ca1007ea643b2136",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "f2bdceb328aff133",
             "type": "leaf",
             "state": {
@@ -68,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,11 +269,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d91ef313e859e22",
+  "active": "ca1007ea643b2136",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "Captura de Tela 2023-05-31 às 16.49.14.png",
     "Autoconsciência é o maior hack de negócios.md",
-    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "O que é ser um criador de conteúdo?.md",
     "Dan Koe.md",
     "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
@@ -304,7 +308,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 13.34.46.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-24 às 10.52.35.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 15.00.04.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 14.42.48.png",
     "1. Daily Notes/May",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
