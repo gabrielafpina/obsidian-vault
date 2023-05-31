@@ -18,9 +18,6 @@ Para liberar a magia que existe dentro de nós, existe um passo a passo a ser se
 	1. Bem no fundo, todos precisamos estabelecer laços duradouros e afetuosos com os outros. Sem isso, qualquer sucesso, qualquer excelência é, na verdade, vazia.
 7. **Domínio da Comunicação:** O quão bem você expressa as suas ideias para si mesmo e para o outro? A maneira como nos comunicamos com os outros e conosco é que, no final, determina a qualidade de nossas vidas. As pessoas que se realizam na vida são aquelas que aprenderam a aceitar qualquer desafio que a vida lhes apresenta e a comunicar a experiência para si mesmas de uma forma que as faça mudar as coisas com sucesso. 
 
-**COMO:**
-
-
 ---------
 
 **Oeste: similar**
