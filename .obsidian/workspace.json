@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7f24588a5b80f322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é ser um criador de conteúdo?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "318f9668453ea8e0",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
+                "file": "O que é ser um criador de conteúdo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
+                "file": "O que é ser um criador de conteúdo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md"
+                "file": "O que é ser um criador de conteúdo?.md"
               }
             }
           },
@@ -240,10 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d91ef313e859e22",
+  "active": "7f24588a5b80f322",
   "lastOpenFiles": [
-    "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
+    "Dan Koe.md",
+    "O que é ser um criador de conteúdo?.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
+    "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
     "7 Mecanismos Acionadores Básicos.md",
     "estados emocionais.md",
@@ -266,8 +281,6 @@
     "2. Literature Notes/Kindle Highlights/Horowitz-Cipolla-O lado difícil das situações difíceis.md",
     "2. Literature Notes/Topics/Exercício Parceiro Ideal.md",
     "2. Literature Notes/Topics/Como manifestar a sua alma-gêmea.md",
-    "2. Literature Notes/People/Jacques Lacan.md",
-    "2. Literature Notes/Topics/Processos Psíquicos.md",
     "5. Shots, Images & PDFs/IMG_1372.jpg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "2. Literature Notes/Content",
