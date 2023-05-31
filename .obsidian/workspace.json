@@ -23,8 +23,12 @@
             "id": "6d91ef313e859e22",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Kindle Highlights/Robbins-O poder dos 5 segundos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Kindle Highlights/Robbins-O poder dos 5 segundos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Kindle Highlights/Robbins-O poder dos 5 segundos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Kindle Highlights/Robbins-O poder dos 5 segundos.md"
+              }
             }
           },
           {
@@ -220,10 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d91ef313e859e22",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "2. Literature Notes/Kindle Highlights/Palahniuk-Clube da luta.md",
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites.md",
+    "2. Literature Notes/Kindle Highlights/Palahniuk-Clube da luta.md",
     "2. Literature Notes/Kindle Highlights/Allen-Ribeiro-Técnicas proibidas de Persuasão, manipulação e influência usando padrões de linguagem e de técnicas de PNL.md",
     "2. Literature Notes/Kindle Highlights/Bridger-Serra-Neuromarketing.md",
     "2. Literature Notes/Kindle Highlights/Brunson-Expert Secrets.md",
