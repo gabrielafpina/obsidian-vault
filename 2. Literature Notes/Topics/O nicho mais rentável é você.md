@@ -33,7 +33,10 @@ O nicho mais rentável é você.
 
 **CRIANDO O SEU NICHO:**
 ![[Captura de Tela 2023-05-31 às 16.49.14.png]]
-
+- No começo, há o início de uma história, assim como os altos e baixos associados a ela. As pessoas tem o desejo de mudar, e é nesse lugar que o seu cliente se encontra nesse exato momento.
+- Quando você teve o desejo de mudar, você teve que aprender, se educar, desenvolver novas habilidades e executar para ter experiência o suficiente para passar para outras pessoas.
+- Atualmente, você está apenas um pouco a frente do seu potencial cliente ou seguidor e você está trabalhando nesse momento para chegar ao seu futuro ideal, que é algo muito específico para cada pessoa.
+	- Nesse sentido, quais são os conteúdos que você vai falar sobre, porque precisa se desenvolver dentro de determinado aspecto para alcançar o seu futuro ideal?
 
 **PENSADORES:**
 - [[Dan Koe]]
