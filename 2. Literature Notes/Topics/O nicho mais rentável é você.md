@@ -66,9 +66,17 @@ O nicho mais rentável é você.
 
 **Oeste: similar**
 - Você é a sua marca
+- Autoconhecimento é o caminho
+- [[Autoconsciência é o maior hack de negócios]]
+- Quanto mais experiências você tem na sua vida, mais rico você se torna
 
 **Leste: oposto**
+- Focar muito em si mesmo é egocêntrico
+- Essa forma de conduzir o negócio pode não ser muito estratégica
+- Algumas pessoas precisam de mais direcionamento do que isso
 
 **Norte: ideia/pergunta**
+- Autoconfiança é fundamental para qualquer aspecto na vida
 
 **Sul: para onde vai**
+- O crescimento contínuo é o que faz o sucesso
