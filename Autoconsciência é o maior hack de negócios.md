@@ -16,6 +16,7 @@
 ---------
 
 **Oeste: similar**
+- Autoconhecimento e Vendas andam lado a lado
 
 **Leste: oposto**
 
