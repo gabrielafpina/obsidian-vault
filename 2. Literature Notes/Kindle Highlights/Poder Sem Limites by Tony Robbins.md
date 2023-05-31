@@ -1,4 +1,4 @@
-# Poder Sem Limites by Tony Robbins
+
 
 Rir muito e com frequência; ganhar o respeito de pessoas inteligentes e o afeto das crianças; merecer a consideração de críticos honestos e suportar a traição de falsos amigos; apreciar a beleza; encontrar o melhor nos outros; deixar o mundo um pouco melhor, seja por uma saudável criança, um canteiro de jardim ou uma redimida condição social; saber que ao menos uma vida respirou mais fácil porque você viveu. Isso é ter tido sucesso. — RALPH WALDO EMERSON
 
