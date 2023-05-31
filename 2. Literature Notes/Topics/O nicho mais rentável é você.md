@@ -47,7 +47,12 @@ O nicho mais rentável é você.
 	- Crie uma tribo de mentores e EXCLUSIVAMENTE consuma o conteúdo deles
 		- Você não precisará copiar o conteúdo deles. O seu subconsciente estará tão imerso no conteúdo deles, que ele vai começar a cuspir ideias originais, baseadas no que você está consumindo.
 3. **Book to brand content:** toda história tem um objetivo em mente. Um lugar a ser chegado. No meio da jornada, existe uma série de altos e baixos que você passa.
-	1. 
+	1. Trate o seu futuro ideal como o ponto de chegada da história;
+	2. Escreva sobre o seu futuro, existem alguns momentos pivots, de extrema transformação, que podem ser o começo do seu livro;
+	3. Escreva um esboço do livro. Quais são os capítulos que precisam ser incluídos para que você alcance o objetivo final?
+	4. Crie um esboço para cada um desses capítulos.
+		- Escreva as seções de cada capítulo como um artigo ou newsletter.
+1. **Escreva a sua história:** é isso que faz com que você seja único e com que as pessoas se conectem com você.
 
 **PENSADORES:**
 - [[Dan Koe]]
