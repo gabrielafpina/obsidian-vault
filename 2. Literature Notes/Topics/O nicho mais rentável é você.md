@@ -23,6 +23,12 @@
 Existem milhões de pessoas com os mesmos interesses, problemas e desejos que você - e você só precisa achar uma fração dessas pessoas.
 O nicho mais rentável é você.
 
+1. Fale *sobre o que você quiser*, de forma interessante, e que te faça crescer nas redes sociais
+2. Crie uma estratégia de 3 semanas baseada nos tópicos que o seu produto ou serviço aborda
+3. Comece de forma bem simples e vá aumentando a densidade do conteúdo - isso é para o bem da sua audiência
+4. Escreva longos, médios e curtos formatos de conteúdo, do topo de funil, para o fundo de funil
+5. Sistematize o que funcionou e incorpore promoções ao longo da semana para manter as vendas no alto. Escreva um conteúdo específico sobre o que você vende, de forma bimestral e, ao final, coloque uma oferta para o ser produto/serviço.
+
 **PENSADORES:**
 - [[Dan Koe]]
 
