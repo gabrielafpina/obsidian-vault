@@ -1,0 +1,503 @@
+---
+kindle-sync:
+  bookId: '1841'
+  title: >-
+    Avalie o Que Importa: Como Google, Bono Vox e a Fundação Gates sacudiram o
+    mundo com os OKRs (Portuguese Edition)
+  author: John Doerr and Bruno Menezes
+  asin: B07N8F9BVN
+  lastAnnotatedDate: '2021-06-13'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/7184tVChkeL._SY160.jpg'
+  highlightsCount: 161
+---
+# Avalie o Que Importa
+## Metadata
+* Author: [John Doerr and Bruno Menezes](https://www.amazon.comundefined)
+* ASIN: B07N8F9BVN
+* Reference: https://www.amazon.com/dp/B07N8F9BVN
+* [Kindle link](kindle://book?action=open&asin=B07N8F9BVN)
+
+## Highlights
+Bill dava pouco direcionamento. Ele fazia algumas poucas perguntas, invariavelmente as corretas. Ouvia, acima de tudo. Sabia que, na maioria das vezes, no mundo dos negócios, havia várias respostas certas, e o trabalho do líder era escolher uma. “Basta tomar uma decisão”, ele dizia. Ou: “Você está indo para frente? Você está rompendo laços? Vamos deixar rolar.” — location: [148](kindle://book?action=open&asin=B07N8F9BVN&location=148) ^ref-32932
+
+---
+As pessoas são os elementos mais importantes daquilo que fazemos. Temos que tentar melhorá-las.” — location: [180](kindle://book?action=open&asin=B07N8F9BVN&location=180) ^ref-34002
+
+---
+boas ideias com ótima execução são os elementos para a mágica acontecer. É aí que entram os OKRs. — location: [191](kindle://book?action=open&asin=B07N8F9BVN&location=191) ^ref-59703
+
+---
+A prática que me moldou na Intel e me salvou na Sun, e que ainda me inspira hoje, chama-se OKRs. Sigla para Objectives and Key Results (Objetivos e Resultados-Chave, em português). É um protocolo colaborativo de definição de metas para empresas, equipes e indivíduos. Só que os OKRs não são a salvação da lavoura. Eles não podem substituir o bom senso, a liderança forte ou a cultura criativa do local de trabalho. No entanto, se esses fundamentos estiverem em vigor, os OKRs podem operar como um guia ao topo da montanha. — location: [315](kindle://book?action=open&asin=B07N8F9BVN&location=315) ^ref-45979
+
+---
+Meu primeiro slide do PowerPoint definia os OKRs: “Uma metodologia de gestão que ajuda a garantir que a empresa concentre esforços nas mesmas questões importantes em toda a organização.” Um OBJETIVO, expliquei, é simplesmente O QUE deve ser alcançado. Nem mais, nem menos. Por definição, os objetivos são significativos, concretos, orientados por ações e (de maneira ideal) inspiradores. Quando adequadamente projetados e implantados, são uma vacina contra o pensamento e a execução confusos. Os RESULTADOS-CHAVE (KR) estabelecem e monitoram COMO chegamos ao objetivo. Os KRs efetivos são específicos e limitados no tempo, agressivos, porém realistas. Acima de tudo, são mensuráveis e verificáveis — location: [321](kindle://book?action=open&asin=B07N8F9BVN&location=321) ^ref-913
+
+---
+No final do período designado, normalmente um trimestre, declaramos se o resultado-chave foi cumprido ou não. Caso um objetivo seja de longa duração, por um ano ou mais, os resultados-chave evoluem à medida que o trabalho avança. Quando todos eles forem cumpridos, o objetivo é necessariamente alcançado (se não o for, o OKR foi, acima de tudo, mal projetado). — location: [329](kindle://book?action=open&asin=B07N8F9BVN&location=329) ^ref-5258
+
+---
+Os OKRs expõem os principais objetivos que você tem. Eles canalizam esforços e coordenação. Conectam diversas operações, emprestando propósito e unidade a toda organização. — location: [342](kindle://book?action=open&asin=B07N8F9BVN&location=342) ^ref-64240
+
+---
+“metas difíceis” impulsionam o desempenho de forma mais eficaz do que metas fáceis. Segundo, metas específicas e difíceis “produzem um nível mais alto de resultado” do que as vagamente formuladas. — location: [357](kindle://book?action=open&asin=B07N8F9BVN&location=357) ^ref-62792
+
+---
+Mas, então, de que forma se constrói o engajamento? Um estudo da Deloitte feito ao longo de dois anos constatou que nenhum fator isolado tem mais impacto do que “metas claramente definidas, que estejam estabelecidas e livremente compartilhadas... As metas criam alinhamento, clareza e satisfação no trabalho”. — location: [369](kindle://book?action=open&asin=B07N8F9BVN&location=369) ^ref-4626
+
+---
+Um sistema eficaz de gerenciamento de metas, um sistema OKR, vincula metas à missão mais ampla de uma equipe. Respeita metas e prazos, ao mesmo tempo em que se adapta às circunstâncias. Promove feedback e celebra vitórias, sejam elas grandes ou pequenas. Além disso, e o mais importante, expande nossos limites. Nos move a lutar pelo que pode parecer além do nosso alcance. — location: [373](kindle://book?action=open&asin=B07N8F9BVN&location=373) ^ref-21742
+
+---
+As organizações de alto desempenho se concentram no trabalho que importa e são igualmente esclarecidas sobre o que não importa. Os OKRs obrigam os líderes a fazerem escolhas difíceis. Eles são uma ferramenta comunicativa de precisão para departamentos, equipes e colaboradores individuais. Ao dissipar a confusão, os OKRs nos proporcionam o foco necessário para vencer. — location: [473](kindle://book?action=open&asin=B07N8F9BVN&location=473) ^ref-62148
+
+---
+Com a transparência do OKR, os objetivos de todos, desde o CEO, são abertamente compartilhados. Os indivíduos vinculam seus objetivos ao esquema geral da empresa, identificam dependências entre eles e os coordenam com outras equipes. Ao conectar cada colaborador com o sucesso da organização, o alinhamento de cima para baixo traz significado ao trabalho. Ao aprofundar o senso de propriedade das pessoas, os OKRs de baixo para cima fomentam o engajamento e a inovação. — location: [478](kindle://book?action=open&asin=B07N8F9BVN&location=478) ^ref-47472
+
+---
+Os OKRs são conduzidos por dados. Eles são ativados por check-ins periódicos, uma classificação objetiva e uma reavaliação contínua — tudo feito em um espírito de responsabilidade e sem julgamento. Um resultado-chave em perigo dispara ações para recuperá-lo, seja para revisá-lo ou substituí-lo, se necessário. — location: [484](kindle://book?action=open&asin=B07N8F9BVN&location=484) ^ref-59547
+
+---
+Os OKRs nos motivam a fazer mais do que pensávamos ser possível. Ao testar nossos limites e garantir a liberdade de fracassar, eles libertam nossas capacidades mais criativas e ambiciosas. — location: [488](kindle://book?action=open&asin=B07N8F9BVN&location=488) ^ref-5054
+
+---
+Quase não importa o que você sabe. Tendemos a valorizar aqui o que se pode fazer com o que você sabe ou pode alcançar e realmente realizar.” — location: [551](kindle://book?action=open&asin=B07N8F9BVN&location=551) ^ref-9060
+
+---
+Agora, as duas expressões fundamentais… são os objetivos e o resultado-chave. Eles correspondem a dois propósitos. O objetivo é a direção: “Queremos dominar a área de componentes de microcomputadores de médio porte.” Esse é um objetivo. O lugar aonde estamos indo. Resultados-chave para este trimestre: “Realizamos dez novos projetos para o 8085” é um exemplo de resultado-chave. É um marco. Os dois não são a mesma coisa... O resultado-chave deve ser mensurável. Ao final, você deve olhar para ele sem hesitar: Realizei-o ou não? Sim? Não? Simples. Sem julgamentos. — location: [560](kindle://book?action=open&asin=B07N8F9BVN&location=560) ^ref-14650
+
+---
+quando as pessoas ajudam a escolher um curso de ação, elas são mais propensas a seguir por este caminho. — location: [588](kindle://book?action=open&asin=B07N8F9BVN&location=588) ^ref-20478
+
+---
+Quando as pessoas me procuraram no meio do trimestre com pedidos de elaboração de novas fichas técnicas, sentia que podia dizer não sem medo da repercussão. Meus OKRs me apoiavam. Eles deixavam claras minhas prioridades para todos verem. — location: [631](kindle://book?action=open&asin=B07N8F9BVN&location=631) ^ref-51373
+
+---
+Menos é mais. “Alguns poucos objetivos extremamente bem escolhidos”, escreveu Grove, “transmitem uma mensagem clara ao que dizemos ‘sim’ e ao que dizemos ‘não’”. Um limite de três a cinco OKRs por ciclo leva empresas, equipes e indivíduos a escolherem o que mais importa. Em geral, cada objetivo deve estar vinculado a, no máximo, cinco resultados-chave — location: [711](kindle://book?action=open&asin=B07N8F9BVN&location=711) ^ref-34486
+
+---
+Defina metas de baixo para cima. Para promover o engajamento, as equipes e os indivíduos devem ser incentivados a criar aproximadamente metade de seus próprios OKRs, em consulta com os gerentes. Quando todas as metas são estabelecidas de cima para baixo, há uma corrosão na motivação — location: [715](kindle://book?action=open&asin=B07N8F9BVN&location=715) ^ref-60763
+
+---
+Sem imposições. Os OKRs são um contrato social cooperativo para estabelecer prioridades e definir como o progresso será medido. Mesmo depois de os objetivos da empresa estarem fechados ao debate, seus resultados-chave continuam sendo negociados. O compromisso coletivo é essencial para o alcance máximo das metas — location: [719](kindle://book?action=open&asin=B07N8F9BVN&location=719) ^ref-43966
+
+---
+Seja flexível. Se o clima mudou e um objetivo não parece mais prático ou relevante, os resultados-chave podem ser modificados ou mesmo descartados no meio do ciclo — location: [722](kindle://book?action=open&asin=B07N8F9BVN&location=722) ^ref-44849
+
+---
+Ouse falhar. “A produção tenderá a ser maior”, escreveu Grove, “quando todos lutarem por um nível de conquista além de seu alcance imediato... Essa definição de metas é extremamente importante se o que você quer é o desempenho máximo de si mesmo e de seus subordinados”. Embora certos objetivos operacionais devam ser cumpridos na íntegra, os OKRs determinados devem ser desconfortáveis e possivelmente inatingíveis. “Metas excepcionais”, como Grove as chamou, levam as organizações a novos patamares — location: [725](kindle://book?action=open&asin=B07N8F9BVN&location=725) ^ref-6302
+
+---
+Uma ferramenta, não uma arma. O sistema OKR, Grove escreveu, “tem o objetivo de acompanhar uma pessoa a fim de colocar um cronômetro na mão dela, para que assim ela possa avaliar seu próprio desempenho. Não é um documento jurídico sobre o qual uma análise de desempenho deve se basear”. Para incentivar a tomada de riscos e evitar o tratamento injusto, os OKRs e os bônus devem ser mantidos separados — location: [730](kindle://book?action=open&asin=B07N8F9BVN&location=730) ^ref-32860
+
+---
+Seja paciente; seja resoluto. Todo processo exige tentativa e erro. Como Grove contava aos seus alunos no iOPEC, a Intel “tropeçou muitas vezes” depois de adotar os OKRs: “Nós não entendíamos por completo o principal propósito disso. E estamos ficando melhores com o passar do tempo.” Uma organização pode precisar de até quatro ou cinco ciclos trimestrais para adotar completamente o sistema, e até mais do que isso para desenvolver uma estrutura de base resistente e madura. — location: [735](kindle://book?action=open&asin=B07N8F9BVN&location=735) ^ref-29508
+
+---
+“Eu estava desconfiado em relação aos objetivos e resultados-chave até que Grove se sentou comigo e me explicou o porquê da sua importância. Se, por exemplo, pedirmos a um determinado grupo de pessoas para marcharem até o centro da Europa, e algumas começarem a marchar para a França, algumas para a Alemanha, e outras para a Itália, isso não vai ser bom. Especialmente se você quiser que todas cheguem à Suíça. Quando vetores apontam para direções diferentes, sua soma é zero. Porém, se conseguir que todos apontem na mesma direção, você maximiza os resultados. Essa foi a base que Grove me deu, e então me disse que eu tinha que ensiná-la.” Conforme — location: [781](kindle://book?action=open&asin=B07N8F9BVN&location=781) ^ref-9736
+
+---
+Crush, o propósito: estabelecer uma sensação de urgência e colocar em prática decisões e planos de ação necessários, de âmbito corporativo, a fim de lidar com um desafio competitivo e fundamental na vida das pessoas. — location: [820](kindle://book?action=open&asin=B07N8F9BVN&location=820) ^ref-62302
+
+---
+“Empresas ruins”, escreveu Andy, “são destruídas pela crise. Empresas boas sobrevivem a elas. Empresas excelentes são aprimoradas por elas.” — location: [883](kindle://book?action=open&asin=B07N8F9BVN&location=883) ^ref-58853
+
+---
+São as nossas escolhas, mais do que nossas habilidades, que mostram o que realmente somos. — location: [891](kindle://book?action=open&asin=B07N8F9BVN&location=891) ^ref-63532
+
+---
+Avaliar o que importa começa com a seguinte pergunta: Qual é a coisa mais importante para os próximos três (ou seis, ou doze) meses? Organizações de sucesso focam poucas iniciativas que são capazes de fazer a diferença real, adiando aquelas menos urgentes. Seus líderes se comprometem com essas escolhas, tanto por palavras quanto por ações. Ao sustentarem com firmeza alguns OKRs prioritários, eles proporcionam uma bússola e uma base de avaliação às suas equipes — location: [893](kindle://book?action=open&asin=B07N8F9BVN&location=893) ^ref-32579
+
+---
+Quais são as nossas prioridades para o próximo período? Em que as pessoas devem concentrar seus esforços? Um sistema eficaz de estabelecimento de metas começa com um pensamento disciplinado no topo, com líderes que investem tempo e energia para escolher o que importa. — location: [898](kindle://book?action=open&asin=B07N8F9BVN&location=898) ^ref-9190
+
+---
+Com um conjunto selecionado de OKRs, podemos destacar algumas coisas, as vitais, que devem ser feitas conforme o planejado e no prazo. — location: [901](kindle://book?action=open&asin=B07N8F9BVN&location=901) ^ref-6710
+
+---
+A responsabilidade pelos OKRs no âmbito organizacional está nas mãos da liderança sênior. O comprometimento pessoal desses líderes com o processo é obrigatório. Por onde eles começam? Como decidem o que realmente importa mais? O Google expressou isso na declaração de sua missão como empresa: Organizar as informações do mundo e torná-las universalmente acessíveis e úteis. — location: [904](kindle://book?action=open&asin=B07N8F9BVN&location=904) ^ref-25499
+
+---
+No entanto, boas ideias não são moldadas pela hierarquia. Os OKRs mais poderosos e energizados geralmente se originam dos colaboradores da linha de frente. — location: [910](kindle://book?action=open&asin=B07N8F9BVN&location=910) ^ref-65129
+
+---
+“Quando você é o CEO ou o fundador de uma empresa... precisa dizer ‘É isso o que vamos fazer’, e precisa ser então o modelo do que fala, pois quando você não é o modelo, ninguém vai seguir suas instruções.” — location: [927](kindle://book?action=open&asin=B07N8F9BVN&location=927) ^ref-9290
+
+---
+Para tomadas de decisão acertadas, espírito de equipe e desempenho de alto nível, as metas prioritárias devem ser claramente compreendidas por toda a organização. Embora elas próprias admitam, duas em cada três empresas não conseguem comunicar esses objetivos de forma consistente. — location: [930](kindle://book?action=open&asin=B07N8F9BVN&location=930) ^ref-5854
+
+---
+Os líderes devem compreender por que se faz “algo” e o que é este “algo”. — location: [933](kindle://book?action=open&asin=B07N8F9BVN&location=933) ^ref-22711
+
+---
+Objetivos e resultados-chave são o yin e o yang do estabelecimento de metas: princípio e prática, visão e execução. Os objetivos são o material de inspiração e os horizontes distantes. Os resultados-chave são mais concretos e métricos. Eles geralmente incluem números concretos para um ou mais indicadores: receita, crescimento, usuários ativos, qualidade, segurança, participação de mercado, envolvimento do cliente. — location: [939](kindle://book?action=open&asin=B07N8F9BVN&location=939) ^ref-61238
+
+---
+os resultados-chave são as alavancas que você puxa, as marcas que você supera para atingir a meta. Se um objetivo for bem enquadrado, três a cinco resultados-chave geralmente serão adequados para alcançá-lo. Muitos resultados-chave podem diluir o foco e obscurecer o progresso. Além disso, cada resultado-chave deve ser um desafio por si só. Se você tem certeza de que vai conquistá-lo, provavelmente não está se esforçando o suficiente. — location: [943](kindle://book?action=open&asin=B07N8F9BVN&location=943) ^ref-16820
+
+---
+A melhor prática pode ser uma cadência dupla e paralela, com OKRs de horizonte curto (para o aqui e agora), apoiando OKRs anuais e estratégias de longo prazo. Tenha em mente, porém, que são os objetivos de curto prazo que orientam o trabalho real. Eles mantêm os planos anuais justos e fazem com que sejam executados. — location: [950](kindle://book?action=open&asin=B07N8F9BVN&location=950) ^ref-59441
+
+---
+Os cronogramas bem definidos intensificam nosso foco e compromisso; nada nos move tanto para frente quanto um prazo. Para ganhar no mercado global, as organizações precisam ser mais ágeis do que nunca. Na minha experiência, uma cadência trimestral de OKRs é a mais adequada para acompanhar os mercados em rápida mudança atualmente. Um horizonte de três meses restringe a procrastinação e nos leva a ganhos reais de desempenho. — location: [952](kindle://book?action=open&asin=B07N8F9BVN&location=952) ^ref-31066
+
+---
+Quanto mais ambicioso for o OKR, maior será o risco de ignorar um critério vital. Para proteger a qualidade e, ao mesmo tempo, impulsionar os resultados quantitativos, uma solução é combinar os resultados-chave, ou seja, medir “tanto o efeito quanto o efeito contrário”, nos alerta Andy Grove em Administração de Alta Performance. Quando os resultados-chave se concentram na produção, Grove observou que: As contrapartes alinhadas devem enfatizar a qualidade do trabalho. Dessa forma, em um setor de contas a pagar, o número de comprovantes processados deve estar alinhado com o número de erros encontrados pela auditoria ou por nossos fornecedores. Como um outro exemplo, o número de metros quadrados limpos por um grupo de detentos deve estar alinhado com uma avaliação da qualidade do trabalho conforme um gerente sênior com um escritório naquele edifício. — location: [986](kindle://book?action=open&asin=B07N8F9BVN&location=986) ^ref-42460
+
+---
+“Não permita que o perfeito seja o inimigo do bom.”2 Lembre-se de que um OKR pode ser modificado ou mesmo desfeito em qualquer ponto de seu ciclo. Às vezes, os resultados-chave “certos” surgem semanas ou meses depois que um objetivo é colocado em jogo. Os OKRs são inerentemente trabalhos em andamento, e não mandamentos entalhados em pedra. — location: [997](kindle://book?action=open&asin=B07N8F9BVN&location=997) ^ref-55389
+
+---
+Algumas regras básicas para o estabelecimento de metas: os resultados-chave devem ser sucintos, específicos e mensuráveis. Uma mistura de informações iniciais e resultantes costuma ser útil. Por fim, a conclusão de todos os resultados-chave deve obrigatoriamente resultar na obtenção do objetivo. Se isso não acontecer, não é um OKR.3 — location: [1000](kindle://book?action=open&asin=B07N8F9BVN&location=1000) ^ref-37177
+
+---
+Depois que os colaboradores tiverem consultado seus gerentes e se comprometerem com seus OKRs para o trimestre, quaisquer objetivos ou resultados-chave adicionais devem obrigatoriamente se encaixar na agenda estabelecida. Como a nova meta se compara às minhas metas existentes? Alguma coisa deveria ser descartada para dar lugar ao novo compromisso? Em um sistema OKR de alta funcionalidade, ordens de cima para baixo para “apenas fazer mais” são obsoletas. As ordens dão lugar a perguntas, e a uma pergunta em particular: o que importa mais? — location: [1011](kindle://book?action=open&asin=B07N8F9BVN&location=1011) ^ref-12340
+
+---
+Aprendemos as três frases de ordem para empreendedores: Resolva um problema. Construa um produto simples. Converse com seus usuários. — location: [1101](kindle://book?action=open&asin=B07N8F9BVN&location=1101) ^ref-48967
+
+---
+Na minha opinião, você só pode fazer uma grande coisa de cada vez muito bem, e é melhor você saber qual é essa coisa. — location: [1157](kindle://book?action=open&asin=B07N8F9BVN&location=1157) ^ref-1155
+
+---
+O sistema também ajudou meu foco pessoal. Tentei me limitar a três ou quatro objetivos individuais, no máximo. Eu os imprimia e os mantinha perto do meu bloco de notas e ao lado do meu computador, em todos os lugares a que ia. Todas as manhãs, dizia a mim mesmo: “Essas são as minhas responsabilidades, e o que estou fazendo hoje para levar a empresa adiante?” Esta é uma ótima pergunta para qualquer líder, com ou sem um problema de aprendizado. — location: [1168](kindle://book?action=open&asin=B07N8F9BVN&location=1168) ^ref-44540
+
+---
+Ao implementar os OKRs, os líderes devem se comprometer publicamente com seus objetivos e permanecer firmes. — location: [1200](kindle://book?action=open&asin=B07N8F9BVN&location=1200) ^ref-52659
+
+---
+Até que seus executivos estejam totalmente envolvidos, não é possível esperar que os colaboradores façam o mesmo, especialmente quando os OKRs de uma empresa são ambiciosos. Quanto mais desafiador é um objetivo, mais tentador pode ser abandoná-lo. As pessoas naturalmente buscam inspiração em seus chefes no estabelecimento de metas e posterior acompanhamento. Se os oficiais pularem do navio no meio de uma viagem tempestuosa, não se pode esperar que os marinheiros o conduzam para o porto. — location: [1253](kindle://book?action=open&asin=B07N8F9BVN&location=1253) ^ref-48098
+
+---
+Não contratamos pessoas inteligentes para lhes dizer o que fazer. Contratamos pessoas inteligentes para nos dizerem o que fazer. — Steve Jobs — location: [1300](kindle://book?action=open&asin=B07N8F9BVN&location=1300) ^ref-62111
+
+---
+Pesquisas mostram que metas públicas são mais prováveis de serem alcançadas do que metas mantidas em segredo. Apertar o botão da “transparência” simplesmente elevará o desempenho em toda a linha. Em uma pesquisa recente com mil adultos norte-americanos em atividade, 92% disseram que seriam mais motivados a alcançar seus objetivos se os colegas pudessem ver seu progresso. — location: [1307](kindle://book?action=open&asin=B07N8F9BVN&location=1307) ^ref-1224
+
+---
+Em um sistema de OKRs, a equipe mais novata pode observar as metas de todos, até do CEO. Críticas e correções estão à mostra para o público. Os colaboradores têm carta branca para contribuir para o processo de definição de metas, até mesmo apontar as falhas do processo em si. A meritocracia floresce sob a luz do sol. Quando as pessoas escrevem “É nisso em que estou trabalhando”, fica mais fácil ver de onde vêm as melhores ideias. Logo, fica aparente que os indivíduos que estão crescendo são os que trabalham no que mais valoriza a empresa. — location: [1310](kindle://book?action=open&asin=B07N8F9BVN&location=1310) ^ref-59628
+
+---
+A transparência alimenta a colaboração. Digamos que a funcionária A esteja penando para alcançar um objetivo trimestral. Como ela monitorou publicamente seu progresso, os colegas podem ver que ela precisa de ajuda. Eles entram em cena, postam comentários e oferecem apoio. O trabalho melhora. De forma igualmente relevante, as relações de trabalho são aprofundadas, até mesmo transformadas. — location: [1317](kindle://book?action=open&asin=B07N8F9BVN&location=1317) ^ref-60002
+
+---
+Uma vez definidos os objetivos do topo, o trabalho de verdade começa. À medida que os gerentes saem do planejamento para a execução, tanto eles quanto os colaboradores conectam suas atividades do dia a dia à visão da organização. O termo para essa conexão é alinhamento, e seu valor não pode ser superestimado. — location: [1323](kindle://book?action=open&asin=B07N8F9BVN&location=1323) ^ref-37186
+
+---
+É muito difícil que os funcionários percebam no que eles devem trabalhar primeiro. Tudo parece importante; tudo parece urgente. Mas o que realmente precisa ser feito?” A resposta está em OKRs focados e transparentes. Eles unem o trabalho de cada indivíduo aos esforços da equipe, aos projetos departamentais e à missão geral. — location: [1331](kindle://book?action=open&asin=B07N8F9BVN&location=1331) ^ref-38347
+
+---
+Precisamente em virtude da transparência dos OKRs, eles podem ser compartilhados sem necessariamente uma conexão em cascata. Se eles servirem ao propósito maior, vários níveis da hierarquia podem ser atravessados. Ao invés de um movimento ascendente do CEO para um vice-presidente, para um diretor, para um gerente (e depois para os subordinados do gerente), um objetivo pode passar do CEO diretamente para um gerente, ou de um diretor para um colaborador. A liderança da empresa pode também apresentar seus OKRs para todos ao mesmo tempo e confiar nas pessoas para dizer: “Ok, agora eu sei aonde estamos indo e vou adaptar meus objetivos a isso.” — location: [1391](kindle://book?action=open&asin=B07N8F9BVN&location=1391) ^ref-14393
+
+---
+A inovação tende a residir menos no centro de uma organização e mais em suas bordas. Os OKRs mais potentes geralmente surgem de insights fora do núcleo central. Como Andy Grove observou: “As pessoas nas trincheiras geralmente estão em contato com mudanças iminentes no início. Os vendedores entendem a mudança das demandas do cliente antes que a administração o faça; analistas financeiros são os primeiros a saber quando as bases de um negócio mudam.” — location: [1412](kindle://book?action=open&asin=B07N8F9BVN&location=1412) ^ref-6984
+
+---
+O microgerenciamento significa má administração. Um ambiente saudável de OKRs estabelece um equilíbrio entre alinhamento, autonomia, objetivo comum e atitude criativa. O “funcionário profissional”, escreveu Peter Drucker, “precisa de rigorosos padrões de desempenho e metas elevadas... No entanto, o modo como ele faz o trabalho deve ser sempre responsabilidade e decisão dele.” — location: [1415](kindle://book?action=open&asin=B07N8F9BVN&location=1415) ^ref-32049
+
+---
+Um sistema OKR ideal libera os colaboradores para definirem pelo menos alguns dos seus próprios objetivos e a maioria ou todos os seus resultados-chave. As pessoas são levadas a se esforçarem um pouco mais para definir metas mais ambiciosas e alcançar aquelas que estabelecem: “Quanto maiores as metas, maior o desempenho.” As pessoas que escolhem seu próprio destino terão uma percepção mais profunda do que é necessário para chegar lá. — location: [1421](kindle://book?action=open&asin=B07N8F9BVN&location=1421) ^ref-51302
+
+---
+Empresas coesas são empresas mais rápidas. Para obter uma vantagem competitiva, tanto os líderes quanto os colaboradores precisam se unir horizontalmente, ultrapassando as barreiras. Um sistema OKR transparente, como aponta Laszlo Bock, promove esta espécie de colaboração livre: “As pessoas de toda a organização conseguem ver o que está acontecendo. De repente, você tem pessoas que estão projetando um aparelho acionando uma outra equipe que está fazendo o software, porque viram uma coisa interessante que poderia ser feita com a interface do usuário.” — location: [1441](kindle://book?action=open&asin=B07N8F9BVN&location=1441) ^ref-57330
+
+---
+Quando as metas são públicas e visíveis para todos, uma “equipe de equipes” pode atacar pontos problemáticos onde quer que eles apareçam. Bock complementa: “Imediatamente, você já percebe se alguém está mandando muito bem, e aí já investiga. Se alguém está errando o tempo todo, você investiga. A transparência cria sinais muito claros para todos. Ciclos virtuosos são iniciados e eles reforçam a real capacidade de todos fazerem o trabalho. Por fim, o imposto gerencial é zero. É incrível.” — location: [1445](kindle://book?action=open&asin=B07N8F9BVN&location=1445) ^ref-64164
+
+---
+Os OKRs não são ilhas. Pelo contrário, criam redes verticais, horizontais e diagonais para conectar o trabalho mais importante de uma organização. Quando os funcionários se alinham aos objetivos principais de uma empresa, seu impacto é amplificado. Eles param de duplicar esforços ou de trabalhar contraprodutivamente. — location: [1464](kindle://book?action=open&asin=B07N8F9BVN&location=1464) ^ref-44483
+
+---
+“Se tomarmos este atalho no mapa ao longo deste trimestre, o que acontece? Isso realmente afetaria a experiência do usuário?” Mais frequentemente do que o esperado, o recurso em questão não fazia uma grande diferença. Essas opções não eram subjetivas; temos métricas para medir o impacto. Estamos fazendo escolhas mais difíceis e mais nítidas sobre em que colocar nossas apostas nos dias de hoje, e todas elas derivam do processo de OKR. — location: [1593](kindle://book?action=open&asin=B07N8F9BVN&location=1593) ^ref-58405
+
+---
+Além de tornar os objetivos mais consistentes dentro de uma empresa, o alinhamento contém um significado mais profundo. Alinhar-se significa manter-se fiel a metas orientadas por referências. — location: [1612](kindle://book?action=open&asin=B07N8F9BVN&location=1612) ^ref-27750
+
+---
+Toda decisão que tomamos precisa ser compatível com nossa visão. Quando enfrentamos uma escolha entre nossos clientes e uma meta de negócios, nos alinhamos com o cliente. Quando um objetivo parecer fora de sintonia com o nosso mantra, ele merece ser melhor analisado. Antes de avançar, devemos nos certificar de estarmos alinhados com o nosso referencial de base . Isso é o que nos mantém caminhando e conectados com as pessoas a quem prestamos serviços. Isso é o que nos faz quem somos. — location: [1623](kindle://book?action=open&asin=B07N8F9BVN&location=1623) ^ref-31204
+
+---
+As pessoas não conseguem se conectar com o que não podem ver; redes não conseguem florescer em ambientes isolados. Por definição, os OKRs são abertos e visíveis para todas as partes de uma organização, em cada nível de cada departamento. Em virtude disso, as empresas que permanecem com eles se tornam mais coerentes. — location: [1641](kindle://book?action=open&asin=B07N8F9BVN&location=1641) ^ref-53850
+
+---
+Uma vez por mês, os gerentes se encontram com seus subordinados para discutir metas individuais. — location: [1681](kindle://book?action=open&asin=B07N8F9BVN&location=1681) ^ref-12573
+
+---
+Um departamento de TI moderno vai muito além de marcar caixas para processar tickets de ajuda ou solicitações de mudança. Ele agrega valor ao negócio, eliminando sistemas redundantes, criando novas funcionalidades e encontrando soluções orientadas para o futuro. — location: [1688](kindle://book?action=open&asin=B07N8F9BVN&location=1688) ^ref-26132
+
+---
+Estabelecer metas é uma arte e meras decisões não são suficientes. Ao optarmos por elevar temporariamente o status de um resultado-chave, trazemos sinceridade a esse movimento. Líderes precisam dar explicações: “Sim, eu quero que nos concentremos nisso agora como um objetivo primordial da empresa. Quando isso não precisar mais de uma atenção adicional, deixaremos que se torne um resultado-chave.” Trata-se de um sistema dinâmico. A altitude é sempre ajustável. — location: [1742](kindle://book?action=open&asin=B07N8F9BVN&location=1742) ^ref-24129
+
+---
+Uma virtude subestimada dos OKRs é que eles podem ser acompanhados e depois revistos ou adaptados em função das circunstâncias. Ao contrário do negócio tradicional e congelado de “definir metas e esquecê-las”, os OKRs são organismos vivos e que respiram. — location: [1775](kindle://book?action=open&asin=B07N8F9BVN&location=1775) ^ref-55744
+
+---
+Sem atualizações frequentes de status, os objetivos se tornam irrelevantes; a lacuna entre o plano e a realidade aumenta a cada dia. No final do trimestre (ou pior, no final do ano), ficamos com OKRs zumbis, ou seja, “o quê” e “como” desprovidos de vida ou significado. — location: [1786](kindle://book?action=open&asin=B07N8F9BVN&location=1786) ^ref-40077
+
+---
+Os colaboradores ficam mais engajados quando conseguem ver o modo como o trabalho deles contribui para o sucesso da empresa. Trimestre a trimestre, dia a dia, eles buscam medidas tangíveis das realizações laborais. Recompensas extrínsecas — o bônus de final de ano — meramente validam o que eles já sabem. Os OKRs expressam algo mais poderoso: o valor intrínseco do próprio trabalho. — location: [1788](kindle://book?action=open&asin=B07N8F9BVN&location=1788) ^ref-30070
+
+---
+Na definição convencional de metas, várias horas são desperdiçadas durante a procura de documentação em notas de reuniões, e-mails, documentos do Word e slides do PowerPoint. Com uma plataforma de gerenciamento de OKRs, todas as informações relevantes estão prontas, onde quer que você esteja. — location: [1803](kindle://book?action=open&asin=B07N8F9BVN&location=1803) ^ref-22710
+
+---
+os OKRs não exigem um acompanhamento diário. No entanto, check-ins regulares, preferencialmente semanais, são essenciais para evitar o desvio acidental. — location: [1846](kindle://book?action=open&asin=B07N8F9BVN&location=1846) ^ref-37297
+
+---
+Conforme observado no Capítulo 4, o simples ato de escrever uma meta aumenta suas chances de alcançá-la. Suas chances são melhores ainda se você monitorar o progresso enquanto compartilha a meta com os colegas. Duas funcionalidades fundamentais do sistema OKR. Em um estudo na Califórnia, pessoas que registraram suas metas e enviaram relatórios de progresso semanais para um amigo atingiram 43% mais de seus objetivos do que aquelas que simplesmente pensaram em metas sem compartilhá-las. — location: [1849](kindle://book?action=open&asin=B07N8F9BVN&location=1849) ^ref-57635
+
+---
+Conforme controlamos e auditamos nossos OKRs, temos quatro opções em qualquer ponto do ciclo: Continuar: Se uma meta de zona verde (“no rumo certo”) não apresentar alguma falha, não a corrija. Atualizar: Modifique um objetivo ou resultado-chave de zona amarela (“atenção exigida”) para responder às alterações no fluxo de trabalho ou no ambiente externo. O que poderia ser feito de maneira diferente para retomar o rumo certo em direção à meta? É necessário revisar a linha do tempo? Devemos reverter outras iniciativas para liberar recursos para esta? Começar: Lançar um novo ciclo intermediário de OKR, sempre que for necessário. Parar: Quando uma meta de zona vermelha (“em risco”) já não tiver mais utilidade, a melhor solução pode ser abandoná-la.1 — location: [1855](kindle://book?action=open&asin=B07N8F9BVN&location=1855) ^ref-816
+
+---
+Sempre que um resultado-chave ou objetivo se tornar obsoleto ou impraticável, sinta-se à vontade para encerrá-lo no meio do caminho. Não há necessidade de manter teimosamente uma projeção desatualizada. Tire-a da sua lista e siga em frente. Nossos objetivos são servos do nosso propósito, e não o contrário. — location: [1874](kindle://book?action=open&asin=B07N8F9BVN&location=1874) ^ref-2405
+
+---
+Uma condição: quando um objetivo é descartado antes do final do intervalo de OKR, é importante notificar todos que dependem dele. Então, vem a reflexão: o que aprendi daquilo que não previ no início do trimestre? E como vou aplicar esta lição no futuro? — location: [1877](kindle://book?action=open&asin=B07N8F9BVN&location=1877) ^ref-20110
+
+---
+Para melhores resultados, os OKRs são examinados várias vezes por trimestre pelos colaboradores e seus gerentes. O progresso é relatado, os obstáculos, identificados e os resultados-chave, refinados. Além desses tête-à-tête individuais, as equipes e os departamentos realizam reuniões regulares para avaliar o progresso em direção aos objetivos compartilhados. Sempre que um OKR comprometido está fracassando, um plano de resgate é planejado. — location: [1881](kindle://book?action=open&asin=B07N8F9BVN&location=1881) ^ref-55268
+
+---
+Os OKRs não expiram com a conclusão do trabalho. Como em qualquer sistema de dados, um valor tremendo pode ser obtido a partir de avaliação e análise posterior. Em reuniões individuais e de equipe, esses resumos são compostos de três partes: classificação objetiva, autoavaliação subjetiva e reflexão. — location: [1889](kindle://book?action=open&asin=B07N8F9BVN&location=1889) ^ref-13243
+
+---
+Ao classificar nossos OKRs, marcamos o que alcançamos e abordamos o que poderíamos fazer de maneira diferente da próxima vez. Uma pontuação baixa força a reavaliação: o objetivo ainda vale a pena ser perseguido? Se sim, o que podemos mudar para alcançá-lo? — location: [1892](kindle://book?action=open&asin=B07N8F9BVN&location=1892) ^ref-13502
+
+---
+Ao avaliar o desempenho dos OKRs, os dados objetivos são aprimorados pelo julgamento subjetivo e ponderado do definidor de metas. Para qualquer objetivo em qualquer trimestre poderá haver circunstâncias atenuantes. Uma exibição de números fraca pode esconder um forte esforço; um esforço pode ser artificialmente inflado. — location: [1918](kindle://book?action=open&asin=B07N8F9BVN&location=1918) ^ref-14798
+
+---
+No final das contas, os números são provavelmente menos importantes do que o feedback contextual e uma discussão mais ampla dentro da equipe. Assim como as pontuações do OKR apontam o que deu certo ou errado no trabalho e como a equipe pode melhorar, as autoavaliações conduzem o processo de definição superior de metas para o próximo trimestre. Não há espaço para julgamentos, apenas aprendizados. — location: [1934](kindle://book?action=open&asin=B07N8F9BVN&location=1934) ^ref-33212
+
+---
+Na minha opinião, a chave para a satisfação é definir metas agressivas, alcançar a maioria delas, fazer uma pausa para refletir sobre as conquistas e depois repetir o ciclo. Um estudo da Harvard Business School constatou que aprender “a partir da experiência direta pode ser mais eficaz se associado à reflexão, ou seja, à tentativa intencional de sintetizar, abstrair e articular as principais lições ensinadas pela experiência”. — location: [1940](kindle://book?action=open&asin=B07N8F9BVN&location=1940) ^ref-47622
+
+---
+Aqui estão algumas reflexões para fechar um ciclo OKR: Eu cumpri todos os meus objetivos? Se sim, o que contribuiu para o meu sucesso? Se não, quais obstáculos encontrei? Se pudesse reescrever uma meta alcançada na íntegra, o que mudaria? Qual aprendizagem tive, capaz de alterar minha abordagem para os OKRs do próximo ciclo? — location: [1945](kindle://book?action=open&asin=B07N8F9BVN&location=1945) ^ref-42698
+
+---
+Os resumos dos OKRs são retrospectivos e, ao mesmo tempo, voltados para o futuro. Um objetivo inacabado pode ser revertido para o próximo trimestre, com um novo conjunto de resultados-chave, ou talvez o momento dele tenha passado e seja apropriado descartá-lo. De qualquer forma, o julgamento prudente da gerência vem em primeiro lugar. E mais uma coisa. Depois de avaliar cuidadosamente o seu próprio trabalho e atribuir essa análise a quaisquer deficiências, respire e saboreie seu progresso. — location: [1950](kindle://book?action=open&asin=B07N8F9BVN&location=1950) ^ref-42258
+
+---
+Quanto maiores forem as apostas, mais importante é o acompanhamento do progresso, a fim de sinalizar problemas iminentes, contornar becos sem saída e modificar as metas no caminho. — location: [1964](kindle://book?action=open&asin=B07N8F9BVN&location=1964) ^ref-29377
+
+---
+Quando um objetivo é muito ambicioso, a credibilidade dele é prejudicada. Na filantropia, vejo pessoas normalmente confundindo objetivos com missões, o tempo todo. Uma missão é algo direcional. Um objetivo tem um conjunto de passos concretos com os quais você está intencionalmente engajado e para os quais você está caminhando. Ter um objetivo ambicioso é uma coisa boa, mas como se dimensiona isso? Como se mede esse objetivo? — location: [2010](kindle://book?action=open&asin=B07N8F9BVN&location=2010) ^ref-21522
+
+---
+Bill Campbell gostava de dizer o seguinte: se as empresas “não continuarem a inovar, elas vão morrer. E eu não disse imitar, disse inovar”. O estabelecimento conservador de objetivos impede a inovação. Além disso, a inovação é como oxigênio: você não consegue vencer sem ela. — location: [2051](kindle://book?action=open&asin=B07N8F9BVN&location=2051) ^ref-24784
+
+---
+“Metas Audaciosas e Cabeludas” (tradução livre de “Big Hairy Audacious Goals”), expressão memorável de Jim Collins no livro Empresas Feitas para Vencer (Alta Books), elevam a coisa rapidamente a novos níveis: Uma MAC é uma meta gigante e assustadora, como uma montanha a ser escalada. Ela é clara, chama a atenção e as pessoas “entendem” imediatamente. Uma MAC serve como um ponto focal de esforço unificador, mexe com as pessoas e cria um espírito de equipe à medida que pessoas se esforçam em direção à linha de chegada. Assim como aconteceu com a missão lunar da NASA dos anos 1960, uma MAC captura a imaginação e pega na veia das pessoas. — location: [2054](kindle://book?action=open&asin=B07N8F9BVN&location=2054) ^ref-12498
+
+---
+Em startups iniciantes e líderes de mercado, as metas de esforço podem aguçar uma cultura empreendedora. Ao empurrar as pessoas para além dos antigos limites, elas são forças em prol da excelência operacional. — location: [2075](kindle://book?action=open&asin=B07N8F9BVN&location=2075) ^ref-57939
+
+---
+Foco e comprometimento são essenciais para atingir metas que fazem a diferença. Somente uma organização transparente, colaborativa, alinhada e conectada pode ir muito além do normal. Sem um acompanhamento quantificável, como você pode saber quando alcançou esse objetivo surpreendente pelo esforço? — location: [2080](kindle://book?action=open&asin=B07N8F9BVN&location=2080) ^ref-17125
+
+---
+O Google divide seus OKRs em duas categorias: as metas compromissadas e as metas ambiciosas (ou “desafiadoras”). Essa é uma distinção bem clara. Os objetivos compromissados estão vinculados às métricas do Google: lançamentos de produtos, reservas, contratações, clientes. A gestão os define em âmbito empresarial, e os funcionários, em âmbito departamental. Em geral, esses objetivos compromissados, como metas de vendas e receita, devem ser alcançados integralmente (100%) dentro de um prazo definido. Os objetivos ambiciosos refletem ideias de maior dimensão, maior risco, de mais inclinação para o futuro. Eles se originam de qualquer âmbito e visam mobilizar toda a organização. Por definição, são difíceis de alcançar. As falhas, a uma taxa média de 40%, fazem parte do território do Google. A ponderação relativa dessas duas cestas é uma questão cultural. Esse peso vai variar de uma organização para outra e de trimestre para trimestre. Os líderes devem se perguntar: Que tipo de empresa precisamos ser no ano que vem? Ágil e ousada, para atacar um novo mercado, ou mais conservadora e operacional, para firmar nossa posição atual? Estamos em modo de sobrevivência ou há dinheiro em mãos para apostar alto por uma grande recompensa? O que nossos negócios exigem agora? — location: [2085](kindle://book?action=open&asin=B07N8F9BVN&location=2085) ^ref-43252
+
+---
+Segundo Page, uma melhoria de 10% significa que você está fazendo a mesma coisa que todos os outros. Você provavelmente não falhará de maneira espetacular, mas terá garantia de sucesso. É por isso que Page espera que os colaboradores do Google criem produtos e serviços dez vezes melhores do que a concorrência. Significa que ele não fica satisfeito com a descoberta de algumas eficiências ocultas ou ajustes no código para obter ganhos modestos. 1.000% de melhoria exige repensar os problemas, explorar o que é tecnicamente possível e se divertir no processo. — location: [2144](kindle://book?action=open&asin=B07N8F9BVN&location=2144) ^ref-53268
+
+---
+No início do período, nem um único objetivo pode parecer possível. Por isso, os colaboradores do Google devem fazer perguntas mais difíceis: Qual ação radical de alto risco precisa ser considerada? O que eles precisam parar de fazer? Onde eles podem movimentar recursos ou encontrar novos parceiros? No seu prazo final, uma fração saudável desses objetivos impossíveis é, de alguma forma, atingida na íntegra. — location: [2155](kindle://book?action=open&asin=B07N8F9BVN&location=2155) ^ref-47958
+
+---
+Ao longo do tempo, à medida que as equipes e os indivíduos ganham experiência com os OKRs, seus resultados-chave se tornarão mais precisos e mais agressivos. Não há um número mágico para o esforço “certo”. No entanto, pense no seguinte: como sua equipe pode agregar o valor máximo? O que seria o surpreendente? Se você procura alcançar a grandeza, esforçar-se pelo surpreendente é um ótimo ponto de partida. — location: [2172](kindle://book?action=open&asin=B07N8F9BVN&location=2172) ^ref-47281
+
+---
+Em nossos negócios, somos obrigados a definir objetivos desconfortáveis e difíceis para nós mesmos e então temos que enfrentá-los. Depois de dez milissegundos de comemoração, novamente estabelecemos um outro conjunto de objetivos de difícil alcance e os enfrentamos mais uma vez. A recompensa de ter atingido um desses objetivos desafiadores é o recomeço do jogo. — location: [2177](kindle://book?action=open&asin=B07N8F9BVN&location=2177) ^ref-54144
+
+---
+Mantive-me cautelosamente otimista com a minha equipe. Se estivéssemos perdendo usuários, eu diria a eles: “Façamos um experimento para entender o motivo e consertarmos o problema”. Se a compatibilidade fosse um problema, eu designaria um grupo para se concentrar só nisso. Tentava ser racional e sistemático, e não muito emocional, e acho que isso ajudou. — location: [2272](kindle://book?action=open&asin=B07N8F9BVN&location=2272) ^ref-54773
+
+---
+“Não, nós não alcançamos a meta, mas estamos lançando as bases para romper essa barreira. Então, o que vamos fazer de diferente a partir de agora?” Em uma cultura de pessoas inteligentes, é melhor sempre ter boas respostas para essa pergunta; não se pode sapatear pelo caminho. — location: [2281](kindle://book?action=open&asin=B07N8F9BVN&location=2281) ^ref-9264
+
+---
+A julgar pela nossa experiência no Google, eu diria que os OKRs são particularmente úteis para empresas jovens que estão começando a construir sua cultura corporativa. Quando você é pequeno, com menos recursos, é de suma importância deixar claro aonde está indo. É como criar filhos. Se você os cria sem estrutura e depois diz a eles, quando forem adolescentes, “Ok, agora aqui estão as regras”, bem, as coisas vão ficar difíceis. Se possível, é melhor ter regras desde o início. Ao mesmo tempo, tenho visto empresas maduras darem reviravoltas e mudarem pessoas e processos. Nenhuma empresa é jovem ou velha demais para adotar os OKRs. — location: [2367](kindle://book?action=open&asin=B07N8F9BVN&location=2367) ^ref-5169
+
+---
+“a teoria das pedras grandes”, que se popularizou com Stephen Covey. Digamos que você tenha algumas pedras grandes, um monte de pedras pequenas, uma certa quantidade de areia, e o objetivo seja encaixar o máximo possível de tudo em um jarro de boca larga com aproximadamente 3L. Se você começar com a areia e depois com as pedras pequenas, o jarro ficará sem espaço para todas as pedras. No entanto, se você começa com as pedras grandes, acrescentar as pedras pequenas e guardar a areia para o final, a areia preencherá os espaços entre as rochas. Tudo se encaixa. Em outras palavras, as coisas mais importantes precisam ser feitas primeiro, ou não serão feitas. — location: [2413](kindle://book?action=open&asin=B07N8F9BVN&location=2413) ^ref-4704
+
+---
+Uma conversa é capaz de transformar mentes, que podem transformar comportamentos, que podem transformar instituições. — Sheryl Sandberg — location: [2590](kindle://book?action=open&asin=B07N8F9BVN&location=2590) ^ref-14368
+
+---
+Os líderes empresariais aprenderam muito dolorosamente que pessoas não podem ser reduzidas a números. Até mesmo Peter Drucker, o defensor das metas bem medidas, entendia os limites da calibragem. O “papel primário de um gestor é o pessoal”, disse Drucker. “Ele se traduz em relacionamento com as pessoas, desenvolvimento da confiança mútua... a criação de uma comunidade.” Segundo Albert Einstein: “Nem tudo que pode ser contado conta, e nem tudo que conta pode ser contado.” — location: [2596](kindle://book?action=open&asin=B07N8F9BVN&location=2596) ^ref-49962
+
+---
+Em suma, precisamos de um novo modelo de RH para o novo mundo do trabalho. Esse sistema transformador, a alternativa contemporânea às avaliações anuais, é o gerenciamento contínuo de desempenho. Ele é implementado com um instrumento chamado CFR. A sigla significa: Conversas: Um intercâmbio de ideias autêntico e amplamente detalhado entre o gestor e o colaborador, com foco na melhora do desempenho. Feedback: Comunicação bidirecional ou em rede entre pares para avaliar o progresso e orientar melhorias futuras. Reconhecimento: Expressões de apreço a pessoas merecedoras por contribuições de todos os tamanhos. — location: [2603](kindle://book?action=open&asin=B07N8F9BVN&location=2603) ^ref-11583
+
+---
+Da mesma maneira que os OKRs, os CFRs defendem a transparência, a responsabilidade, o empoderamento e o trabalho em equipe em todos os níveis da organização. Já que são estímulos de comunicação, os CFRs iluminam os OKRs e, por consequência, os impulsionam; eles compõem um sistema completo para a avaliação do que importa. Capturam toda a riqueza e o poder do método inovador de Andy Grove. Eles dão aos OKRs uma voz humana. — location: [2610](kindle://book?action=open&asin=B07N8F9BVN&location=2610) ^ref-62430
+
+---
+“Se uma conversa for limitada a uma obtenção ou não de uma meta, o contexto se perde. É necessário um gerenciamento contínuo de desempenho para expor questões fundamentais: a meta ficou mais difícil de alcançar do que você imaginou quando a definiu? Foi a meta certa a ser priorizada? Ela é motivadora? — location: [2616](kindle://book?action=open&asin=B07N8F9BVN&location=2616) ^ref-30996
+
+---
+“Por outro lado, se não há metas, sobre o que diabos você está falando? O que você já conseguiu e como? Segundo minha experiência, as pessoas mais propensas a se sentirem satisfeitas são aquelas que têm metas claras e alinhadas. Elas não ficam vagando e se perguntando sobre o trabalho, pois conseguem ver como tudo se conecta e ajuda a organização.” — location: [2620](kindle://book?action=open&asin=B07N8F9BVN&location=2620) ^ref-58829
+
+---
+Estamos no ponto em que quase todo costume da área de RH precisa ser repensado. São as exigências básicas de uma força de trabalho móvel e ágil e um local de trabalho não hierárquico. — location: [2630](kindle://book?action=open&asin=B07N8F9BVN&location=2630) ^ref-28546
+
+---
+Para as empresas que estão migrando para o gerenciamento contínuo de desempenho, o primeiro passo é reto e direto: divorciar a remuneração (aumentos e bônus) dos OKRs. Estas devem ser duas conversas distintas, com cadências e calendários próprios. A primeira é uma avaliação retrospectiva, normalmente realizada no final do ano. A segunda é um diálogo contínuo e prospectivo entre líderes e colaboradores. Ela se centra em cinco questões: Em que você está trabalhando? Como você está; como estão seus OKRs? Há alguma coisa impedindo o seu trabalho? O que você precisa de mim para ser (mais) bem-sucedido? Como você precisa crescer para alcançar seus objetivos de carreira? — location: [2665](kindle://book?action=open&asin=B07N8F9BVN&location=2665) ^ref-56077
+
+---
+quando se usa e abusa das metas para definir uma remuneração, os funcionários contarão com um nível determinado de esforço. Eles começam a jogar na defensiva e depois param de se esforçar pelo surpreendente. Ficam entediados por falta de desafio. Por fim, a organização sofre mais do que tudo. — location: [2677](kindle://book?action=open&asin=B07N8F9BVN&location=2677) ^ref-12843
+
+---
+Andy Grove estimava que 90 minutos do tempo de um gerente “podem melhorar a qualidade do trabalho do seu subordinado por duas semanas”. — location: [2695](kindle://book?action=open&asin=B07N8F9BVN&location=2695) ^ref-32978
+
+---
+O essencial da conversa, ele escreveu, é o aprendizado mútuo e a troca de informações. Ao falar sobre problemas e situações específicas, o supervisor ensina ao subordinado sobre habilidades e know-how, e sugere maneiras de abordar as coisas. Ao mesmo tempo, o subordinado fornece ao supervisor informações detalhadas sobre o que ele está fazendo e sobre o que está preocupado... Um ponto essencial sobre uma conversa tête-à-tête: ela ser considerada como a reunião do subordinado, com agenda e tons estabelecidos por ele... O supervisor está lá para aprender e orientar.1 O supervisor também deve encorajar a discussão de questões profundas durante as reuniões tête-à-tête, pois este é o fórum perfeito para se chegar a problemas sutis e profundos relacionados ao trabalho que afetam o subordinado. Ele está satisfeito com seu próprio desempenho? Alguma frustração ou obstáculo o atormenta? Ele tem dúvidas sobre aonde está indo? — location: [2697](kindle://book?action=open&asin=B07N8F9BVN&location=2697) ^ref-13481
+
+---
+As conversas tête-à-tête eficientes escavam a superfície do trabalho do dia a dia. Elas têm uma cadência definida, de semanal a trimestral, dependendo da necessidade. — location: [2707](kindle://book?action=open&asin=B07N8F9BVN&location=2707) ^ref-53844
+
+---
+Com base na experiência da BetterWorks com centenas de empresas, há cinco áreas essenciais da conversa entre o gestor e o colaborador: Definição e reflexão sobre metas, pelas quais o plano OKR do funcionário é definido para o próximo ciclo. A discussão se concentra na melhor maneira de alinhar os objetivos e os resultados-chave do indivíduo às prioridades organizacionais. Atualizações contínuas de progresso, nas quais são realizados check-ins breves e orientados por dados sobre o progresso em tempo real do funcionário com a solução de problemas conforme necessário.3 Coaching bidirecional para ajudar os colaboradores a alcançarem seu potencial e os gestores a realizarem um trabalho melhor. Evolução de carreira para desenvolver habilidades, identificar oportunidades de crescimento e expandir a visão dos funcionários sobre o futuro na empresa. Leves avaliações de desempenho, pois é um mecanismo de feedback para coletar insumos e resumir o que o funcionário realizou desde o último encontro, no contexto das necessidades da organização. — location: [2708](kindle://book?action=open&asin=B07N8F9BVN&location=2708) ^ref-64123
+
+---
+À medida que as conversas no local de trabalho se tornam integradas, os gestores estarão evoluindo de atribuidores de tarefas para professores, coaches e mentores. — location: [2722](kindle://book?action=open&asin=B07N8F9BVN&location=2722) ^ref-36522
+
+---
+“O feedback é uma opinião fundamentada em observações e experiências, que nos permite saber qual impressão causamos nos outros.” Para aproveitar todos os benefícios dos OKRs, o feedback deve obrigatoriamente ser integrado ao processo. Se você não sabe o quão bem você está se saindo, como poderá melhorar? — location: [2729](kindle://book?action=open&asin=B07N8F9BVN&location=2729) ^ref-55114
+
+---
+Os trabalhadores de hoje “querem ser ‘empoderados’ e ‘inspirados’, e não que lhes digam o que fazer. Querem fornecer feedback aos gestores, e não esperar por um ano para receber feedback dos seus gestores. Eles querem discutir os objetivos regularmente, compartilhá-los com os outros e acompanhar o progresso a partir do olhar do outro.” OKRs públicos e transparentes acionam boas perguntas de todas as direções: Essas são as coisas certas para eu/você/nós manter/mantermos o foco? Se eu os concluir, isso será visto como um enorme sucesso? Você tem algum feedback sobre como eu/nós poderia/poderíamos me/nos esforçar ainda mais? — location: [2732](kindle://book?action=open&asin=B07N8F9BVN&location=2732) ^ref-1071
+
+---
+Em organizações em desenvolvimento, o feedback é geralmente liderado pelo RH e, muitas vezes, agendado. Em organizações mais maduras, o feedback é local, em tempo real e multidirecional, um diálogo aberto entre pessoas de qualquer lugar da organização. — location: [2741](kindle://book?action=open&asin=B07N8F9BVN&location=2741) ^ref-42924
+
+---
+O reconhecimento contínuo é um poderoso impulsionador do engajamento: “Tão suave quanto parece, dizer ‘obrigado’ é uma ferramenta extraordinária para formar uma equipe engajada... As empresas com ‘altos níveis de reconhecimento’ têm uma rotatividade de funcionários 31% menor do que empresas com culturas fracas de reconhecimento.” — location: [2760](kindle://book?action=open&asin=B07N8F9BVN&location=2760) ^ref-31055
+
+---
+Aqui vão algumas maneiras de implementá-lo: Institua o reconhecimento entre colegas. Quando as conquistas dos funcionários são reconhecidas de forma consistente pelos colegas, nasce uma cultura de gratidão. Na Zume Pizza, a reunião dos “destaques” às sextas-feiras termina com uma série de clamores não solicitados e não editados, de qualquer pessoa da organização para qualquer outra pessoa que tenha feito algo notável. Estabeleça critérios claros. Reconheça pessoas por ações e resultados: a conclusão de projetos especiais, a obtenção de metas da empresa, demonstrações de valores corporativos. Substitua o “funcionário do mês” pela “realização do mês”. Compartilhe histórias de reconhecimento. Boletins informativos ou blogs corporativos podem fornecer a narrativa por trás da realização, dando mais significado ao reconhecimento. Torne o reconhecimento frequente e atingível. Saúde realizações menores também: aquele esforço extra para cumprir um prazo, aquele polimento especial de uma proposta, pequenas coisas que um gestor pode considerar trivial. Vincule o reconhecimento aos objetivos e às estratégias da empresa. Atendimento ao cliente, inovação, trabalho em equipe, corte de custos. Qualquer prioridade organizacional pode ser apoiada por um aviso oportuno. — location: [2763](kindle://book?action=open&asin=B07N8F9BVN&location=2763) ^ref-1333
+
+---
+Por fim, lembre-se do seguinte: cada elogio é um passo em direção à excelência operacional, o propósito primordial dos OKRs e CFRs. — location: [2781](kindle://book?action=open&asin=B07N8F9BVN&location=2781) ^ref-21951
+
+---
+A partir da experiência da Adobe, eu diria que um sistema de gerenciamento contínuo de desempenho tem três requisitos. O primeiro é o apoio executivo. O segundo é a clareza sobre os objetivos da empresa e como eles se alinham com as prioridades individuais, conforme estabelecido em nossas “metas e expectativas”, o que equivale aos OKRs. O terceiro é um investimento em treinamento para equipar os gerentes e líderes para serem mais eficientes. — location: [2842](kindle://book?action=open&asin=B07N8F9BVN&location=2842) ^ref-25495
+
+---
+A melhor rotatividade é a interna, na qual as pessoas evoluem suas carreiras dentro da empresa, em vez de se mudarem para outro lugar. As pessoas não estão preparadas para serem nômades. Elas só precisam encontrar um lugar onde sintam que podem causar um impacto real. — location: [2858](kindle://book?action=open&asin=B07N8F9BVN&location=2858) ^ref-27512
+
+---
+Os OKRs são uma excelente ferramenta de treinamento para executivos e gerentes. Eles ensinam como gerenciar seu negócio dentro dos limites existentes. Um limite é algo importante de ser desafiado, mas ele é uma realidade. Todos enfrentam restrições de recursos: tempo, dinheiro, pessoas. — location: [2920](kindle://book?action=open&asin=B07N8F9BVN&location=2920) ^ref-3251
+
+---
+Eles nos treinam para sermos cuidadosos com o que podemos realmente alcançar e para incutir a mesma perspectiva em nossa equipe executiva e suas equipes. No início de sua carreira, quando você é um colaborador individual, o volume e a qualidade de seu trabalho são avaliados. Então, um dia, de repente, você se torna gerente. Vamos supor que faça tudo certo e suba para gerenciar mais e mais pessoas. Agora, você não é mais pago pela quantidade de trabalho que faz; é pago pela qualidade das decisões que toma. Só que ninguém lhe disse que as regras mudaram. Quando esbarra em um obstáculo no caminho, você pensa: “Simplesmente trabalharei mais. Foi isso que me trouxe até aqui.” O que você deve fazer é mais contraintuitivo: pare por um momento e interrompa o ruído de sua mente. Feche os olhos para realmente ver o que está à sua frente e, em seguida, escolha o melhor caminho para você e sua equipe em relação às necessidades da organização. O legal dos OKRs é que eles formalizam a reflexão. Pelo menos uma vez a cada trimestre, eles fazem com que os colaboradores parem para refletir em um lugar tranquilo e considerem como suas decisões se alinham com a empresa. As pessoas começam a pensar de maneira macro. Tornam-se mais aguçadas e precisas, pois não é possível escrever uma dissertação de 90 páginas com OKRs. É necessário escolher de três a cinco coisas e o modo exato como elas devem ser medidas. Então, quando chegar o dia e alguém disser: “Ok, agora você é gerente”, você já aprendeu a pensar como um. Isso representa muita coisa. — location: [2935](kindle://book?action=open&asin=B07N8F9BVN&location=2935) ^ref-19853
+
+---
+A maioria das startups não está muito ansiosa para mergulhar na definição de metas estruturadas: Não precisamos disso. Seguimos em alta velocidade. Simplesmente descobrimos as coisas. E, muitas vezes, eles descobrem mesmo. No entanto, acho que estão perdendo uma oportunidade de ensinar às pessoas a serem executivos antes de a empresa crescer. Se esses hábitos não estão arraigados no início, uma das duas coisas acontece: empresas malsucedidas crescem além da capacidade da equipe de liderança e morrem. Empresas bem-sucedidas crescem além das habilidades da equipe e a equipe é substituída. Esses são dois resultados tristes. A melhor maneira é capacitar pessoas para pensarem como líderes desde o início, quando seus departamentos são equipes de uma pessoa só. — location: [2946](kindle://book?action=open&asin=B07N8F9BVN&location=2946) ^ref-48503
+
+---
+Os OKRs me mantêm centrado e no caminho certo. Eles asseguram que eu receba a receita a tempo para todos que estão esperando por ela. Meu prazo está embutido em um resultado-chave. Consigo ter uma visão mais ampla e mais clara. — location: [3019](kindle://book?action=open&asin=B07N8F9BVN&location=3019) ^ref-43127
+
+---
+Cultura é a linguagem comum que permite que os indivíduos de uma organização tenham certeza de que todos estão falando sobre a mesma coisa e que há algum significado compartilhado por todos. Além disso, a cultura estabelece uma estrutura comum para a tomada de decisões. Na ausência de uma cultura, as pessoas não sabem como tornar as principais funções replicáveis e escalonáveis. Nesse sentido, há uma camada mais ambiciosa da cultura: a conversa sobre valores. Quem queremos ser como organização? Como queremos que as pessoas se sintam sobre seu trabalho e sobre nosso produto? — location: [3042](kindle://book?action=open&asin=B07N8F9BVN&location=3042) ^ref-11165
+
+---
+As pessoas precisam de uma cultura que valorize ideias simples e inovadoras. — Jeff Bezos — location: [3070](kindle://book?action=open&asin=B07N8F9BVN&location=3070) ^ref-26548
+
+---
+A cultura é fundamentalmente embasada na estratégia. Cultura é a pedra fundamental, pois ela é o que faz o trabalho ter significado. Os líderes são corretamente obcecados por cultura. Os fundadores se perguntam como podem proteger os valores culturais de suas empresas à medida que elas crescem. — location: [3072](kindle://book?action=open&asin=B07N8F9BVN&location=3072) ^ref-55342
+
+---
+As metas, no entanto, não podem ser alcançadas no vácuo. Assim como as ondas sonoras, metas precisam de um meio. Para OKRs e CFRs, o meio é a cultura de uma organização, a expressão viva de seus valores e crenças mais estimados. — location: [3077](kindle://book?action=open&asin=B07N8F9BVN&location=3077) ^ref-27900
+
+---
+Então, vem a questão: como as empresas definem e constroem uma cultura positiva? Embora eu não tenha uma resposta simples, os OKRs e os CFRs proporcionam um plano. Através do alinhamento das equipes para trabalhar em direção a um punhado de objetivos comuns e, posteriormente, da união por meio de comunicações leves e orientadas por metas, OKRs e CFRs criam transparência e responsabilidade, que são os pilares para um alto desempenho sustentável. Uma cultura saudável e a definição de metas estruturadas são interdependentes. Cultura e alinhamento de metas são parceiras naturais na busca pela excelência operacional. — location: [3080](kindle://book?action=open&asin=B07N8F9BVN&location=3080) ^ref-32774
+
+---
+Andy Grove entendeu a importância primordial dessa interação. “De forma simplificada”, segundo ele, em Administração de Alta Performance, cultura é “um conjunto de valores e crenças, bem como familiaridade com a forma como as coisas são feitas e devem ser feitas em uma empresa. O ponto fundamental é que uma cultura corporativa forte e positiva é absolutamente essencial”. Como engenheiro, Grove equiparava cultura à eficiência, um manual para decisões mais rápidas e confiáveis. — location: [3085](kindle://book?action=open&asin=B07N8F9BVN&location=3085) ^ref-8160
+
+---
+Uma cultura OKR é uma cultura responsável. Não há impulso em direção a uma meta unicamente porque o chefe lhe deu uma ordem. Você faz isso porque todos os OKR são claramente importantes para a empresa e para os colegas que contam com você. Ninguém quer ser visto como aquele que retém o avanço da equipe. Todos se orgulham com o avanço. É um contrato social, porém autorregulado. — location: [3115](kindle://book?action=open&asin=B07N8F9BVN&location=3115) ^ref-25589
+
+---
+Em O Princípio do Progresso: Como Usar Pequenas Vitórias para Estimular Satisfação, Empenho e Criatividade no Trabalho, Teresa Amabile e Steven Kramer analisaram 26 equipes de projeto, 238 pessoas e 12 mil registros do diário do funcionário. Culturas de alta motivação, eles concluíram, dependem de uma mistura de dois elementos. Catalisações são definidas como “ações que dão suporte ao trabalho” e se parecem muito com os OKRs: “Elas incluem a definição de metas claras, permitindo autonomia, fornecendo recursos e tempo suficientes, ajudando com o trabalho, aprendendo abertamente sobre problemas e sucessos e permitindo uma troca livre de ideias.” Cuidados são definidos como “ações de apoio interpessoal” e têm uma notável semelhança com os CFRs: “Respeito e reconhecimento, incentivo, conforto emocional e oportunidades de afiliação.” — location: [3119](kindle://book?action=open&asin=B07N8F9BVN&location=3119) ^ref-12204
+
+---
+Na mesa de altas apostas das mudanças culturais, os OKRs nos dão propósito e clareza à medida que mergulhamos no novo. Os CFRs fornecem a energia de que precisamos para a jornada. Em um lugar onde as pessoas têm conversas autênticas e obtêm feedback construtivo e reconhecimento por realizações excepcionais, o entusiasmo se torna contagiante. O mesmo vale para o pensamento desafiador e o compromisso com a melhoria diária. As empresas que tratam seus funcionários como parceiros valiosos são aquelas que têm o melhor atendimento ao cliente. Elas possuem também os melhores produtos e o maior crescimento de vendas. E são aquelas que vão vencer. — location: [3126](kindle://book?action=open&asin=B07N8F9BVN&location=3126) ^ref-41627
+
+---
+“No passado, quando os funcionários precisavam apenas fazer corretamente as próximas tarefas, ou seja, seguir ordens ao pé da letra, a cultura não importava tanto. Agora, estamos vivendo em um mundo onde estamos pedindo às pessoas que façam as próximas tarefas darem certo. Um livro de regras pode me dizer o que posso ou não fazer. A cultura precisa me dizer o que devo fazer.” — location: [3178](kindle://book?action=open&asin=B07N8F9BVN&location=3178) ^ref-45271
+
+---
+Uma liderança com visão supera o regime de comando e controle. Quanto mais claro é o organograma, mais ágil é a organização. Quando o gerenciamento de desempenho é uma via de mão dupla em rede, os indivíduos crescem em grandeza. — location: [3200](kindle://book?action=open&asin=B07N8F9BVN&location=3200) ^ref-43453
+
+---
+Dada a oportunidade, os OKRs e CFRs construirão um alinhamento de cima para baixo, trabalho em equipe, autonomia e engajamento de baixo para cima. Esses são os pilares de qualquer cultura vibrante e voltada para o valor. — location: [3204](kindle://book?action=open&asin=B07N8F9BVN&location=3204) ^ref-48766
+
+---
+No final das contas, a cultura tem relação com as pessoas que você recruta e os valores que elas trazem. — location: [3275](kindle://book?action=open&asin=B07N8F9BVN&location=3275) ^ref-63712
+
+---
+O tempo é o inimigo da transformação. — location: [3278](kindle://book?action=open&asin=B07N8F9BVN&location=3278) ^ref-17818
+
+---
+“Os OKRs fazem você trabalhar com a empresa, em vez de apenas trabalhar na empresa”, — location: [3343](kindle://book?action=open&asin=B07N8F9BVN&location=3343) ^ref-53171
+
+---
+A estrutura OKR cultiva a loucura. Essa é a química do sistema. Isso nos proporciona um ambiente de risco, de confiança, onde a falha não é uma ofensa passível de castigo, ou seja, um lugar seguro para ser você mesmo. — location: [3502](kindle://book?action=open&asin=B07N8F9BVN&location=3502) ^ref-46396
+
+---
+Ideias são fáceis; a execução é tudo. — location: [3511](kindle://book?action=open&asin=B07N8F9BVN&location=3511) ^ref-35650
+
+---
+Os objetivos são “o que” se quer alcançar. Eles: expressam metas e intenções; são agressivos, porém realistas; precisam ser tangíveis, diretos e sem ambiguidade; devem ser óbvios para um observador racional, se um objetivo já foi atingido ou não; a realização bem-sucedida de um objetivo deve obrigatoriamente agregar um valor claro para o Google. — location: [3560](kindle://book?action=open&asin=B07N8F9BVN&location=3560) ^ref-46899
+
+---
+Os resultados-chave refletem o modo “como” alcançar o(s) objetivo(s). Eles: expressam marcos mensuráveis que, se alcançados, auxiliarão no alcance do(s) objetivo(s) de uma maneira útil; precisam obrigatoriamente descrever resultados, e não atividades. Se seus KRs incluem palavras como “consultar”, “ajudar”, “analisar” ou “participar”, eles descrevem atividades. Em vez disso, descreva o impacto do usuário final sobre as atividades: “publicar medições de latência média e caudal de seis células Colossus até 7 de março”, em vez de “avaliar a latência da Colossus”; deve obrigatoriamente incluir evidências de conclusão. Essa evidência precisa estar disponível, ser confiável e facilmente detectável. Exemplos de evidências incluem listas de alterações, links para documentos, notas e relatórios de métricas publicados. — location: [3566](kindle://book?action=open&asin=B07N8F9BVN&location=3566) ^ref-58379
+
+---
+Os OKRs têm duas variantes e é importante diferenciá-las: Os OKRs compromissados são aqueles que concordamos que serão alcançados, e estaremos dispostos a ajustar cronogramas e recursos para garantir que sejam entregues. A pontuação esperada para um OKR compromissado é 1,0; um escore menor que 1,0 exige uma explicação para a falha, pois mostra erros no planejamento e/ou execução. Por outro lado, os OKRs ambiciosos expressam como gostaríamos que o mundo fosse, embora não tenhamos uma ideia clara de como chegar lá e/ou dos recursos necessários para isso. Os OKRs ambiciosos têm uma pontuação média esperada de 0,7, com alta variância. — location: [3581](kindle://book?action=open&asin=B07N8F9BVN&location=3581) ^ref-46432
+
+---
+OKRs ambiciosos muitas vezes partem do estado atual e efetivamente perguntam: “O que poderíamos fazer se tivéssemos pessoal extra e um pouco de sorte?” Uma abordagem alternativa melhor é começar com: “Como seria o meu mundo (ou dos meus clientes) daqui a alguns anos se fôssemos libertados da maioria das restrições?” Por definição, você não saberá como alcançar esse estado quando o OKR for formulado pela primeira vez. Por isso que ele é um OKR ambicioso. No entanto, sem entender e articular o estado final desejado, isso é garantia de que você não será capaz de alcançá-lo. O teste definitivo: se você perguntar a seus clientes o que eles realmente querem, seu objetivo desafiador atende ou excede essa demanda? — location: [3600](kindle://book?action=open&asin=B07N8F9BVN&location=3600) ^ref-19740
+
+---
+Os OKRs desafiadores e suas prioridades associadas devem permanecer na lista de OKR de uma equipe até que sejam concluídas e devem ser levadas adiante trimestre a trimestre, caso necessário. Tirá-los da lista de OKRs devido à falta de progresso é um erro, pois disfarça problemas persistentes de priorização, disponibilidade de recursos ou falta de compreensão do problema/solução. — location: [3656](kindle://book?action=open&asin=B07N8F9BVN&location=3656) ^ref-1174
+
+---
+São apresentados a seguir alguns testes simples para checar se os OKRs estão bons: Se você os escreveu em cinco minutos, provavelmente não estão bons. Pense bem. Se o seu objetivo não cabe em uma linha, provavelmente ele não será suficientemente nítido. Se os resultados-chave forem expressos em termos internos da equipe (“Lançar o Foo 4.1”), eles provavelmente não serão bons. O que importa não é o lançamento, mas seu impacto. Por que o Foo 4.1 é importante? Uma solução melhor: “Lançar o Foo 4.1 para melhorar as inscrições em 25%.” Ou simplesmente: “Melhorar as inscrições em 25%.” Use datas verdadeiras. Se todo resultado-chave acontecer no último dia do trimestre, você provavelmente não tem um plano autêntico. Certifique-se de que seus resultados-chave sejam mensuráveis: é necessário atribuir objetivamente uma nota no final do trimestre. “Melhorar as inscrições” não é um bom resultado-chave. Uma solução melhor: “Melhorar as inscrições diárias em 25% até 1º de maio.” Certifique-se de que as métricas não sejam ambíguas. Se você disser “1 milhão de usuários”, isso significa os usuários de todas as horas ou os usuários ativos por sete dias? Se houver atividades importantes na sua equipe (ou uma fração significativa de seu esforço) que não sejam cobertas por OKRs, adicione mais OKRs. Para grupos maiores, construa uma hierarquia de OKRs. Tenha OKRs de alto nível para toda a equipe e mais detalhados para as equipes específicas. Certifique-se de que os OKRs “horizontais” (projetos que exigem a contribuição de várias equipes) tenham os resultados-chave de suporte em cada equipe específica. — location: [3666](kindle://book?action=open&asin=B07N8F9BVN&location=3666) ^ref-27737
+
+---
+Recurso 3 Papo Solto: Conversas sobre Desempenho O gerenciamento contínuo de desempenho é um processo entrelaçado de duas partes. — location: [3684](kindle://book?action=open&asin=B07N8F9BVN&location=3684) ^ref-2442
+
+---
+Para ajudar a facilitar esta conversa, um gerente pode perguntar a um colaborador o seguinte: Em quais OKRs você planeja se concentrar para gerar mais valor para sua função, equipe e/ou empresa? Qual destes… — location: [3690](kindle://book?action=open&asin=B07N8F9BVN&location=3690) ^ref-49112
+
+---
+Para que o colaborador comece a falar, um gerente pode fazer as seguintes perguntas: Como estão seus OKRs? De quais capacidades essenciais você precisa para ser bem-sucedido? Há alguma coisa que o impeça de atingir os objetivos? Quais OKRs precisam ser… — location: [3695](kindle://book?action=open&asin=B07N8F9BVN&location=3695) ^ref-60868
+
+---
+Para se preparar para essa conversa, o gerente deve considerar as seguintes questões: Quais comportamentos ou valores eu desejo que meu subordinado continue apresentando? Quais comportamentos ou valores eu quero que meu subordinado comece ou pare de apresentar? Qual tipo de coaching posso fornecer para ajudar o subordinado a realizar plenamente o seu potencial? Durante a conversa, o líder pode… — location: [3701](kindle://book?action=open&asin=B07N8F9BVN&location=3701) ^ref-5532
+
+---
+Para obter informações francas de um colaborador, o gerente pode perguntar o seguinte: O que estou lhe fazendo de útil no trabalho? O que estou fazendo que impede sua capacidade de ser eficiente? O que eu… — location: [3710](kindle://book?action=open&asin=B07N8F9BVN&location=3710) ^ref-29596
+
+---
+Para extrair as ambições profissionais de um colaborador, um gerente pode perguntar o seguinte: Quais habilidades ou capacidades que você gostaria de desenvolver para melhorar sua função atual? Em quais áreas você deseja se desenvolver para alcançar seus objetivos de carreira? Quais habilidades ou capacidades você gostaria de desenvolver para um cargo futuro? Do ponto de vista… — location: [3715](kindle://book?action=open&asin=B07N8F9BVN&location=3715) ^ref-27556
+
+---
+Antes de iniciar uma conversa de desempenho com um colaborador, um certo trabalho de preparação deve estar na ordem do dia. Em especial, os líderes devem considerar o seguinte: Quais foram os principais objetivos e responsabilidades do colaborador no período em questão? Como foi o desempenho do colaborador? Se o colaborador estiver com desempenho insatisfatório, como ele deve corrigi-lo? Se o colaborador apresentar um bom desempenho ou exceder as expectativas, o que posso fazer para manter um alto nível de desempenho sem desgastes? Quando o colaborador está mais engajado? Quando o colaborador está menos engajado? Quais forças o colaborador traz ao trabalho? Que tipo de experiência de aprendizado pode beneficiar este colaborador? Qual deve ser o foco do colaborador nos próximos seis meses? Atender às expectativas em sua função atual? Maximizar as contribuições em sua função atual? Ou se preparar para a próxima oportunidade, seja um novo projeto, uma responsabilidade ampliada ou uma nova função? Os colaboradores também devem se preparar para as… — location: [3722](kindle://book?action=open&asin=B07N8F9BVN&location=3722) ^ref-58246
+
+---
+Defina a cadência apropriada para o seu ciclo OKR. Recomendo um acompanhamento duplo, com OKRs trimestrais (para metas de curto prazo) e OKRs anuais (associado a estratégias de longo prazo) implementadas em paralelo. Para resolver os problemas de implementação e fortalecer o comprometimento dos líderes, faça o lançamento dos OKRs com a alta administração primeiro. Permita… — location: [3743](kindle://book?action=open&asin=B07N8F9BVN&location=3743) ^ref-58533
+
+---
+À medida que as condições mudam, sinta-se à vontade para revisar, adicionar ou excluir OKRs conforme apropriado, mesmo no meio do ciclo. Metas não são eternas. É contraproducente ater-se teimosamente a objetivos que não são mais relevantes ou alcançáveis. — location: [3788](kindle://book?action=open&asin=B07N8F9BVN&location=3788) ^ref-53566
+
+---
+A fim de impulsionar resultados comerciais positivos, implemente os CFRs (conversas, feedback e reconhecimento) em conjunto com a definição estruturada de metas. OKRs transparentes tornam o coaching mais concreto e útil. CFRs contínuos mantêm o trabalho do dia a dia na linha e a colaboração genuína. — location: [3819](kindle://book?action=open&asin=B07N8F9BVN&location=3819) ^ref-40965
+
+---
