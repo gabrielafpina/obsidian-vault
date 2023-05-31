@@ -1,3 +1,4 @@
+## Capítulo 1
 Rir muito e com frequência; ganhar o respeito de pessoas inteligentes e o afeto das crianças; merecer a consideração de críticos honestos e suportar a traição de falsos amigos; apreciar a beleza; encontrar o melhor nos outros; deixar o mundo um pouco melhor, seja por uma saudável criança, um canteiro de jardim ou uma redimida condição social; saber que ao menos uma vida respirou mais fácil porque você viveu. Isso é ter tido sucesso. — RALPH WALDO EMERSON
 
 
@@ -10,7 +11,7 @@ Você modela suas percepções, ou alguém as modela para você. Você faz o que
 Para mim, o poder supremo é a habilidade de produzir os resultados que você mais deseja e criar valores para outros no processo. Poder é a habilidade de mudar sua vida, de dar forma às suas percepções, fazer com que as coisas trabalhem a seu favor — e não contra você. O poder verdadeiro é compartilhado, não imposto.
 
 
-hoje, uma das maiores fontes de poder é derivada do conhecimento especializado.
+Hoje, uma das maiores fontes de poder é derivada do conhecimento especializado.
 
 
 Se há alguma coisa que caracteriza o mundo moderno, é a corrente maciça, quase inacreditável, de informação e, pois, de mudança.
@@ -43,7 +44,7 @@ Como você se sente não é o resultado do que está acontecendo em sua vida —
 É importante lembrar que emoções como a depressão não acometem você. Não se “pega” depressão. Você a cria, como qualquer outro resultado em sua vida, por meio de ações específicas mentais e físicas. Para ficar deprimido você tem de olhar sua vida de maneira específica. Tem de dizer certas coisas para si mesmo, nos tons exatos de voz. Tem de adotar uma postura específica e um modo de respirar.
 
 
-Você pode considerar o processo de produzir estados emocionais, dirigindo suas comunicações internas, semelhante ao trabalho de um diretor de cinema. Para produzir os resultados precisos que quer, o diretor de um filme manipula o que você vê e ouve. Se quer que você fique com medo, mudará o som e jogará alguns efeitos especiais na tela, no momento certo; se quer que fique inspirado, arranjará a música, a iluminação e tudo que for preciso para produzir esse efeito. Um diretor pode produzir uma comédia ou uma tragédia, a partir do mesmo evento, dependendo do que decida pôr na tela. Você pode fazer as mesmas coisas na tela de sua mente. Pode dirigir sua atividade mental, que é a base de toda a ação física, com a mesma destreza e poder; pode acender a luz e o som das mensagens positivas em seu cérebro e pode escurecer as cenas e os sons das negativas.
+Você pode considerar o processo de produzir [[estados emocionais]], dirigindo suas comunicações internas, semelhante ao trabalho de um diretor de cinema. Para produzir os resultados precisos que quer, o diretor de um filme manipula o que você vê e ouve. Se quer que você fique com medo, mudará o som e jogará alguns efeitos especiais na tela, no momento certo; se quer que fique inspirado, arranjará a música, a iluminação e tudo que for preciso para produzir esse efeito. Um diretor pode produzir uma comédia ou uma tragédia, a partir do mesmo evento, dependendo do que decida pôr na tela. Você pode fazer as mesmas coisas na tela de sua mente. Pode dirigir sua atividade mental, que é a base de toda a ação física, com a mesma destreza e poder; pode acender a luz e o som das mensagens positivas em seu cérebro e pode escurecer as cenas e os sons das negativas.
 
 
 As pessoas que conseguiram superioridade seguem um caminho coerente para o sucesso. Chamo a isso de Fórmula do Sucesso Definitivo. O primeiro passo para essa fórmula é saber seu resultado, isto é, definir precisamente o que se quer. O segundo passo é tomar medidas, pois, de outra forma, seus desejos serão sempre sonhos. Você deve tomar os tipos de medidas que acredita que criarão as maiores probabilidades de produzir o resultado desejado. Nem sempre as medidas que tomamos produzem o resultado desejado; logo, o terceiro passo é desenvolver uma acuidade sensorial para reconhecer as espécies de respostas e resultados que se está conseguindo, e reparar — o mais rápido possível — se elas estão aproximando ou afastando você de seu objetivo. Você tem de saber o que está conseguindo, seja em uma conversa ou em seus hábitos diários. Se está obtendo o que não deseja, precisa anotar os resultados que suas medidas produziram, a fim de aprender com a experiência de cada ser humano. Então, você dá o quarto passo, que é desenvolver a flexibilidade para mudar seu comportamento até conseguir o que quer.
