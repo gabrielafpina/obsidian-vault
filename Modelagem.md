@@ -11,6 +11,10 @@
 **PENSADORES:**
 - [[Dan Koe]]
 	1. Escreva os livros que mais te impactaram
+	2. Escreva os creators, autores, figuras públicas que você mais ama o conteúdo
+	3. Faça uma imersão no conteúdo dessas pessoas para que você condicione a sua mente a pensar da forma como eles pensam
+	4. Escreva como é o tom de voz deles, a forma como eles falam e o que faz com que eles sejam incríveis
+	5. Pesquise os produtos, landing pages e todos os detalhes sobre como eles monetizam
 
 
 ---------

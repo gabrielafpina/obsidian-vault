@@ -44,6 +44,10 @@ O nicho mais rentável é você.
 	2. Se você não tem uma visão de futuro, como espera conduzir alguém de forma clara naquela direção?
 2. **Imitação Inteligente / [[Modelagem]]**: a minha voz, tom e mensagem é a combinação da  voz, tom e mensagem das pessoas que eu tenho como referência.
 	- [[O que é a criatividade?]]
+	- Crie uma tribo de mentores e EXCLUSIVAMENTE consuma o conteúdo deles
+		- Você não precisará copiar o conteúdo deles. O seu subconsciente estará tão imerso no conteúdo deles, que ele vai começar a cuspir ideias originais, baseadas no que você está consumindo.
+3. **Book to brand content:** toda história tem um objetivo em mente. Um lugar a ser chegado. No meio da jornada, existe uma série de altos e baixos que você passa.
+	1. 
 
 **PENSADORES:**
 - [[Dan Koe]]
