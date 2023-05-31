@@ -10,7 +10,14 @@
 5. Alan Nicolas
 6. André Duqunt
 7. Leo Guru
-8. 
+8. Dr. Demartini
+9. Aaron Doughty
+10. Jim Kwik
+11. Jay Shetty
+12. Alex Hormozi
+13. Naval Ravikant
+14. Kapil Gupta
+15. Bob Proctor
 
 
 ---------
