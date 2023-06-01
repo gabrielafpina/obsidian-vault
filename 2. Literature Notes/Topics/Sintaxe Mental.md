@@ -2,7 +2,7 @@
 
 **FONTE:** [[Poder Sem Limites]]
 
-**BIG IDEA:** Sequência específica de pensamentos, sentimentos e comportamentos que uma pessoa passa para alcançar um determinado resultado
+**BIG IDEA:** A maneira como as pessoas organizam os seus pensamentos ditam o rumo de suas vidas.
 
 **DEFINIÇÃO:** Na [[PNL]], a sintaxe se refere à ordem dos elementos internos e externos que levam a um resultado específico.
 
@@ -43,5 +43,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Modelagem]]
 
 **Sul: para onde vai**

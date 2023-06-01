@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que faz as pessoas bem sucedidas serem bem sucedidas?.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1df567fde30ce78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Sintaxe Mental.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,42 +68,6 @@
             }
           },
           {
-            "id": "a162ba6c93759a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "158917718d94a29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ebce1c37c9b9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a7c4e8a579121ade",
             "type": "leaf",
             "state": {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8cc29415c5b8913c",
@@ -208,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md"
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
               }
             }
           },
@@ -285,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -349,21 +325,22 @@
       }
     ]
   },
-  "active": "98ba165b02c5c151",
+  "active": "f52ae88c167ace36",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+    "2. Literature Notes/Topics/Sintaxe Mental.md",
+    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+    "Kindle Highlights/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Modelagem.md",
-    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
-    "2. Literature Notes/Topics/O que faz as pessoas bem sucedidas serem bem sucedidas?.md",
+    "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/PNL.md",
+    "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
+    "2. Literature Notes/Topics/estados emocionais.md",
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "4. Me, Myself and I/Brainstorming",
     "4. Me, Myself and I/Untitled.md",
-    "Kindle Highlights/Books/Poder Sem Limites.md",
-    "2. Literature Notes/People/Tony Robbins.md",
-    "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
-    "2. Literature Notes/Topics/estados emocionais.md",
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
     "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
@@ -379,7 +356,6 @@
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites.md",
-    "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
     "4. Me, Myself and I/Exercícios",
     "4. Me, Myself and I",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
