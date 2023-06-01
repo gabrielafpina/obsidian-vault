@@ -2,7 +2,7 @@
 
 **FONTE:**
 
-**BIG IDEA:** 
+**BIG IDEA:** Torne-se um detetive do sucesso e trilhe o seu caminho para a excelência. 
 
 **DEFINIÇÃO:**
 
@@ -15,6 +15,7 @@
 	3. Faça uma imersão no conteúdo dessas pessoas para que você condicione a sua mente a pensar da forma como eles pensam
 	4. Escreva como é o tom de voz deles, a forma como eles falam e o que faz com que eles sejam incríveis
 	5. Pesquise os produtos, landing pages e todos os detalhes sobre como eles monetizam
+- [[Tony Robbins]] em [[Poder Sem Limites]]: 
 
 
 ---------
