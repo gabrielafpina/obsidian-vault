@@ -4,7 +4,7 @@
 
 **BIG IDEA:** Torne-se um detetive do sucesso e trilhe o seu caminho para a excelência. 
 
-**DEFINIÇÃO:**
+**DEFINIÇÃO:** Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve surgir é: “Como ele criou esse resultado?”. Se alguém fez algo, você também pode. Apenas precisa hackear o passo a passo do que aquela pessoa fez para alcançar o re
 
 **COMO:**
 1. Identificar aonde você quer chegar
