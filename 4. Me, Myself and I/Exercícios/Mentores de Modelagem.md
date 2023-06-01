@@ -42,3 +42,5 @@
 7. Autoconhecimento
 	1. Eneagrama
 	2. Book to brand
+	3. Relacionamentos amorosos - [[Como manifestar a sua alma-gêmea]]
+8. [[Comunicação Não-Violenta (CNV)]]
