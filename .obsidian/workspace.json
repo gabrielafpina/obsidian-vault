@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "a0b3984457927ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b30de8d12d0c321f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mel Robbins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7c4e8a579121ade",
             "type": "leaf",
             "state": {
@@ -92,25 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "8cc29415c5b8913c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85a38ce977431a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kindle Highlights/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md"
+                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md"
               }
             }
           },
@@ -337,10 +343,13 @@
       }
     ]
   },
-  "active": "870e0d614c06d064",
+  "active": "a0b3984457927ccb",
   "lastOpenFiles": [
-    "empatia.md",
+    "Mel Robbins.md",
+    "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+    "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
     "2. Literature Notes/Topics/PNL.md",
+    "empatia.md",
     "2. Literature Notes/Topics/Mindfulness.md",
     "Como ter uma vida plena?.md",
     "2. Literature Notes/Topics/Modelagem.md",
@@ -351,7 +360,6 @@
     "Modismo.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/People/Tony Robbins.md",
-    "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
@@ -364,8 +372,6 @@
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites by Tony Robbins.md",
     "Kindle Highlights/Books/How to Love Yourself.md",
     "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
-    "Kindle Highlights/Books/Clube Da Luta.md",
-    "Kindle Highlights/Books/Expert Secrets.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "4. Me, Myself and I/Exercícios",

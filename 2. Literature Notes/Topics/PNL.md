@@ -16,6 +16,7 @@
 
 **Oeste: similar**
 - [[Mindfulness]]
+- [[Neurociência]]
 
 **Leste: oposto**
 - Falta de evidências científicas sobre a sua eficácia

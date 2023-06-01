@@ -2,7 +2,7 @@
 
 **FONTE:** [[Modelagem]]
 
-**QUEM VOU MODELAR:**
+**REFERÊNCIAS:**
 1. [[Tony Robbins]]
 2. [[Dr. Joe Dispenza]]
 3. [[Teal Swan]]
@@ -19,3 +19,11 @@
 14. [[Kapil Gupta]]
 15. [[Bob Proctor]]
 16. [[Osho]]
+17. [[Brendon Burchard]]
+18. [[Mel Robbins]]
+19. [[Rupert Spira]]
+20. [[Sigmund Freud]]
+
+**MATÉRIAS PARA ME APROFUNDAR:**
+1. [[PNL]]
+2. [[Psicanálise]]
