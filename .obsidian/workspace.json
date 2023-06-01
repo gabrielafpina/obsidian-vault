@@ -123,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+                "file": "4. Me, Myself and I/Exercícios/Book to Brand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+                "file": "4. Me, Myself and I/Exercícios/Book to Brand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md"
+                "file": "4. Me, Myself and I/Exercícios/Book to Brand.md"
               }
             }
           },
@@ -291,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,10 +350,10 @@
       }
     ]
   },
-  "active": "a0b3984457927ccb",
+  "active": "6d91ef313e859e22",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/PNL.md",
     "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+    "2. Literature Notes/Topics/PNL.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "Como estudar de forma mais produtiva?.md",
