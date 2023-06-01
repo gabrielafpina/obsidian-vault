@@ -4,7 +4,7 @@
 
 **LIVROS:**
 - [[Os 4 Compromissos]]
-- [[Poder Sem Limites by Tony Robbins]]
+- [[Poder Sem Limites]]
 - [[Quebrando o Hábito de Ser Você Mesmo]]
 - [[O Milagre da Manhã]]
 - [[O Despertar de Uma Nova Consciência]]

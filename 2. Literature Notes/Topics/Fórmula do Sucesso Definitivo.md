@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Tony - Poder Sem Limites]] [[Tony Robbins]]
+**FONTE:** [[Poder Sem Limites]] [[Tony Robbins]]
 
 **BIG IDEA:** Ter sucesso na vida não é um acidente. Existe um passo a passo lógico e claro para tal.
 

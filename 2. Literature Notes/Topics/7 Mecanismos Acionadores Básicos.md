@@ -1,6 +1,6 @@
 **TAGS:** #build #content 
 
-**FONTE:** [[Tony - Poder Sem Limites]] [[Tony Robbins]]
+**FONTE:** [[Poder Sem Limites]] [[Tony Robbins]]
 
 **BIG IDEA:** Siga esses padrões consistentes e lógicos de ação e tenha sucesso em sua vida.
 

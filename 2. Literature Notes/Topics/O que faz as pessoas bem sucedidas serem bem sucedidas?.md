@@ -1,13 +1,12 @@
 **TAGS:**
 
-**FONTE:** https://www.tonyrobbins.com/
+**FONTE:** [[Poder Sem Limites]]
 
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
 
-**LIVROS:**
-- [[Poder Sem Limites]]
+**COMO:**
 
 **PENSADORES:**
 
