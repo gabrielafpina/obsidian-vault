@@ -24,6 +24,14 @@
 19. [[Rupert Spira]]
 20. [[Sigmund Freud]]
 
+**TOP 5 MODELAGEM:**
+1. Tony Robbins (todas as áreas)
+2. Teal Swan (espiritualidade)
+3. Alex Hormozi (business)
+4. Brendon Burchard (todas as áreas)
+5. Kapil Gupta (todas as áreas)
+6. Rupert Spira (espiritualidade)
+
 **MATÉRIAS PARA ME APROFUNDAR:**
 1. [[PNL]]
 2. [[Psicanálise]]
@@ -31,3 +39,6 @@
 4. [[Como reproduzir a excelência humana?]]
 5. 2° Cérebro
 6. [[Como estudar de forma mais produtiva?]]
+7. Autoconhecimento
+	1. Eneagrama
+	2. Book to brand
