@@ -35,10 +35,14 @@
 ---------
 
 **Oeste: similar**
+- [[Modismo]]
 
 **Leste: oposto**
+- É possível melhorar a modelagem através da utilização de métodos matemáticos avançados, visualizações de dados, e simulações.
 
 **Norte: ideia/pergunta**
 - Influência do comportamento humano
 
 **Sul: para onde vai**
+- [[Como reproduzir a excelência humana?]]
+- [[Como ter uma vida plena?]]

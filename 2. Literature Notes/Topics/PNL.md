@@ -15,9 +15,15 @@
 ---------
 
 **Oeste: similar**
+- [[Mindfulness]]
 
 **Leste: oposto**
+- Falta de evidências científicas sobre a sua eficácia
 
 **Norte: ideia/pergunta**
+- [[Modelagem]]
 
 **Sul: para onde vai**
+- [[Como reproduzir a excelência humana?]]
+- [[Modelagem]]
+- [[empatia]]

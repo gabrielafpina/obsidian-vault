@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "98ba165b02c5c151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "870e0d614c06d064",
             "type": "leaf",
             "state": {
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/PNL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/PNL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md"
+                "file": "2. Literature Notes/Topics/PNL.md"
               }
             }
           },
@@ -349,17 +337,20 @@
       }
     ]
   },
-  "active": "98ba165b02c5c151",
+  "active": "870e0d614c06d064",
   "lastOpenFiles": [
+    "empatia.md",
+    "2. Literature Notes/Topics/PNL.md",
+    "2. Literature Notes/Topics/Mindfulness.md",
+    "Como ter uma vida plena?.md",
     "2. Literature Notes/Topics/Modelagem.md",
+    "2. Literature Notes/Topics/Sintaxe Mental.md",
+    "Fisiologia.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "Modismo.md",
-    "Fisiologia.md",
-    "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/People/Tony Robbins.md",
-    "2. Literature Notes/Topics/PNL.md",
     "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
@@ -375,9 +366,6 @@
     "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
     "Kindle Highlights/Books/Clube Da Luta.md",
     "Kindle Highlights/Books/Expert Secrets.md",
-    "Kindle Highlights/Books/Inteligência Emocional.md",
-    "Kindle Highlights/Books/Avalie O Que Importa.md",
-    "Kindle Highlights/Books/Scrum.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "4. Me, Myself and I/Exercícios",
