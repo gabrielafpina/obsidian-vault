@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** Curso Psicanálise
+**FONTE:** Curso [[Psicanálise]]
 
 **BIG IDEA:** Revelação do fluxo de sentimentos.
 

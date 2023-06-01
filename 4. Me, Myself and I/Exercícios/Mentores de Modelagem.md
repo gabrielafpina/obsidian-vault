@@ -27,3 +27,7 @@
 **MATÉRIAS PARA ME APROFUNDAR:**
 1. [[PNL]]
 2. [[Psicanálise]]
+3. [[Biohacking]]
+4. [[Como reproduzir a excelência humana?]]
+5. 2° Cérebro
+6. [[Como estudar de forma mais produtiva?]]

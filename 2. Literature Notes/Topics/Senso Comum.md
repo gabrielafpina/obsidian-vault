@@ -1,6 +1,6 @@
 **TAGS:** #content 
 
-**FONTE:** Curso Psicanálise 
+**FONTE:** Curso [[Psicanálise]] 
 
 **BIG IDEA:** Desvendando a lógica do ilógico: Como nossos pensamentos e comportamentos mais 'comuns' podem ser as chaves mais valiosas para entender a verdadeira profundidade da mente humana.
 

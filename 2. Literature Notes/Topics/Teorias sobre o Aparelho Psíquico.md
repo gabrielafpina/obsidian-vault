@@ -1,6 +1,6 @@
 **TAGS:** 
 
-**FONTE:** Curso Psicanálise
+**FONTE:** Curso [[Psicanálise]]
 
 **BIG IDEA:** Quando descobrimos a estrutura da nossa mente, construímos o roteiro de nossas vidas.
 

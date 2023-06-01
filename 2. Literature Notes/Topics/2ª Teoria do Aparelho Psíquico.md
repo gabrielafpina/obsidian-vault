@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** Curso [[Psicanálise]]
 
 **BIG IDEA:** A Bússola interna para desvendarmos o nosso Id, Ego e Superego
 

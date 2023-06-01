@@ -1,6 +1,6 @@
 **TAGS:** #content
 
-**BIG IDEA:** Decodificador da mente humana.
+**BIG IDEA:** Decodificador da mente humana e pai da [[Psicanálise]]
 
 **DEFINIÇÃO:**
 - Freud foi perseguido pelos nazistas. Morreu 1 ano antes de começar a 2a Guerra Mundial (1856 - 1939).

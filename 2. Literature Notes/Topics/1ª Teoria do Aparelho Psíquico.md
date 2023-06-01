@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** Curso Psicanálise
+**FONTE:** Curso [[Psicanálise]]
 
 **BIG IDEA:** Liberte o poder da sua mente: Navegue pelo Consciente, Pré-consciente e Inconsciente.
 
