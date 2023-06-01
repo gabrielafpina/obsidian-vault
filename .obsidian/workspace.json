@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "870e0d614c06d064",
+            "id": "98ba165b02c5c151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "2. Literature Notes/Topics/Modelagem.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0180438d4033c22e",
+            "id": "870e0d614c06d064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/PNL.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "8cc29415c5b8913c",
@@ -346,15 +346,50 @@
         "height": 1055,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "caef0705e7076ba2",
+        "type": "window",
+        "children": [
+          {
+            "id": "fa2ae4d294338aa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0180438d4033c22e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 25,
+        "width": 1315,
+        "height": 875,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "0180438d4033c22e",
+  "active": "98ba165b02c5c151",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/PNL.md",
-    "Kindle Highlights/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/O que faz as pessoas bem sucedidas serem bem sucedidas?.md",
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "2. Literature Notes/Topics/Modelagem.md",
+    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
+    "2. Literature Notes/Topics/O que faz as pessoas bem sucedidas serem bem sucedidas?.md",
+    "2. Literature Notes/Topics/PNL.md",
+    "4. Me, Myself and I/Brainstorming",
+    "4. Me, Myself and I/Untitled.md",
+    "Kindle Highlights/Books/Poder Sem Limites.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
@@ -362,7 +397,6 @@
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
-    "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites by Tony Robbins.md",
     "Kindle Highlights/Books/How to Love Yourself.md",
@@ -377,8 +411,6 @@
     "Kindle Highlights",
     "2. Literature Notes/Kindle Highlights/Poder Sem Limites.md",
     "2. Literature Notes/Kindle Highlights/Tony - Poder Sem Limites.md",
-    "2. Literature Notes/People/Dr. John Demartini.md",
-    "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "4. Me, Myself and I/Exercícios",
     "4. Me, Myself and I",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
@@ -396,7 +428,6 @@
     "1. Daily Notes/May",
     "Untitled.canvas",
     "6. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
-    "fjyhmfy",
-    "6. Shots, Images & PDFs"
+    "fjyhmfy"
   ]
 }
