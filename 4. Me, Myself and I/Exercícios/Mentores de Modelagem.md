@@ -18,3 +18,4 @@
 13. [[Naval Ravikant]]
 14. [[Kapil Gupta]]
 15. [[Bob Proctor]]
+16. [[Osho]]

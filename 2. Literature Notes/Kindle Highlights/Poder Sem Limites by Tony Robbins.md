@@ -122,4 +122,6 @@ Perguntaram certa vez a Bunker Hunt, o bilionário do petróleo do Texas, se ele
 
 Gosto de chamar as pessoas que sabem o que querem e estão dispostas a pagar o preço para consegui-lo de “os poucos que fazem” versus “os muitos que falam”.
 
+-------
+
 
