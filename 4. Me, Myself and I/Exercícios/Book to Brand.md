@@ -17,7 +17,7 @@
 	- Palestrante reconhecida
 	- Autora de livros best-sellers
 	- Liberdade financeira - poder fazer o que eu quiser, quando eu quiser e com quem eu quiser, sem limitações
-	- Ref
+	- Referência em comunicação no Brasil
 **- Quais são as habilidades que eu preciso desenvolver para chegar no destino final?**
 	- Curso de coaching
 **- Quais são os capítulos do meu livro?**
