@@ -1,14 +1,25 @@
 {
-  "token": "",
-  "readwiseDir": "Readwise",
+  "token": "VSGGuWh7X7f5IQABY4ECHBfXbSvcIqmdQVt0JNApa0BMNaRo1j",
+  "readwiseDir": "Kindle Highlights",
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 0,
+  "lastSavedStatusID": 8941410,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
-  "booksIDsMap": {},
+  "booksIDsMap": {
+    "Kindle Highlights/Books/O Lado Difícil Das Situações Difíceis.md": "28019536",
+    "Kindle Highlights/Books/Scrum.md": "28019531",
+    "Kindle Highlights/Books/Avalie O Que Importa.md": "28019524",
+    "Kindle Highlights/Books/O Poder Dos 5 Segundos.md": "28019518",
+    "Kindle Highlights/Books/Inteligência Emocional.md": "28019516",
+    "Kindle Highlights/Books/Expert Secrets.md": "28019515",
+    "Kindle Highlights/Books/Clube Da Luta.md": "28019514",
+    "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md": "28019512",
+    "Kindle Highlights/Books/How to Love Yourself.md": "28019508",
+    "Kindle Highlights/Books/Poder Sem Limites.md": "28438935"
+  },
   "reimportShowConfirmation": true
 }
