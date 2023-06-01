@@ -80,14 +80,6 @@
             }
           },
           {
-            "id": "a79d76cbd97d7d04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "870e0d614c06d064",
             "type": "leaf",
             "state": {
@@ -112,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "8cc29415c5b8913c",
@@ -216,6 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Modelagem.md"
+              }
             }
           },
           {
@@ -353,7 +349,7 @@
       }
     ]
   },
-  "active": "a79d76cbd97d7d04",
+  "active": "98ba165b02c5c151",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Modelagem.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",

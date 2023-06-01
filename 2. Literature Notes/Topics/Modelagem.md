@@ -39,5 +39,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- Influência do comportamento humano
 
 **Sul: para onde vai**
