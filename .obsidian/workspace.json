@@ -80,6 +80,14 @@
             }
           },
           {
+            "id": "a79d76cbd97d7d04",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "870e0d614c06d064",
             "type": "leaf",
             "state": {
@@ -104,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "8cc29415c5b8913c",
@@ -208,7 +216,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +232,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,9 +253,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,15 +353,15 @@
       }
     ]
   },
-  "active": "98ba165b02c5c151",
+  "active": "a79d76cbd97d7d04",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Modelagem.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "Modismo.md",
     "Fisiologia.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-    "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/People/Tony Robbins.md",
     "2. Literature Notes/Topics/PNL.md",
     "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
