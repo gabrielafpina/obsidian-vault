@@ -75,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md"
-              }
+              "state": {}
             }
           },
           {
@@ -265,12 +262,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b96882c15eede5d8",
+  "active": "20a1f39e2ef1e21d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/rumor.md",
-    "2. Literature Notes/Topics/Ressignificação.md",
-    "2. Literature Notes/Topics/Desidentificação.md",
     "2. Literature Notes/Topics/Transferências.md",
+    "2. Literature Notes/Topics/Desidentificação.md",
+    "2. Literature Notes/Topics/Ressignificação.md",
+    "2. Literature Notes/Topics/rumor.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Readwise/Untitled.md",
     "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",

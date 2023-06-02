@@ -1,8 +1,8 @@
-**TAGS:** 
+**TAGS:** #build 
 
 **FONTE:** Curso de [[Psicanálise]]
 
-**BIG IDEA:** 
+**BIG IDEA:** Eu transfiro o que me aconteceu e o padrão continua se repetindo, até que eu tome consciência deles e mude.
 
 **DEFINIÇÃO:**
 Transferências são um mecanismo de defesa que usamos, geralmente, inconscientemente. 
