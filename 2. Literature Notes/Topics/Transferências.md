@@ -16,10 +16,9 @@ Transferências de conceitos, informações, pensamentos, preconceitos, que eu t
 Muito relacionado ao [[Senso Comum]], assim como de outros conceitos que você recebe diretamente dos seus pais ao longo da sua formação.
 - Não transferimos exatamente igual. Pode ser igual, mas criamos modelos iguais, opostos, misturamos características...
 	- Situações diferentes, sentimento igual
+Quebrar uma tradição é muito difícil, principalmente em famílias que vivem em tradições muito fortes, como em países muçulmanos, etc. Quando alguém tenta quebrar uma tradição que é milenar, ela pode sofrer punições severas, restrições, e até a morte.
 
-**COMO:**
-
-**PENSADORES:**
+>[!important] 'Na psicanálise, nem tudo está definido ou decidido. Nós apenas olhamos para um modelo e vamos copiar o igual ou oposto.'
 
 
 ---------
