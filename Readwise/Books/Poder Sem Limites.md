@@ -8,7 +8,6 @@
 - Category: #books
 
 ## Highlights
-### Capítulo 1
 - Rir muito e com frequência; ganhar o respeito de pessoas inteligentes e o afeto das crianças; merecer a consideração de críticos honestos e suportar a traição de falsos amigos; apreciar a beleza; encontrar o melhor nos outros; deixar o mundo um pouco melhor, seja por uma saudável criança, um canteiro de jardim ou uma redimida condição social; saber que ao menos uma vida respirou mais fácil porque você viveu. Isso é ter tido sucesso. — RALPH WALDO EMERSON ([Location 131](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=131))
 - sucesso é o processo contínuo do esforço para se tornar maior. É a oportunidade de continuar crescendo emocional, social, espiritual, fisiológica, intelectual e financeiramente, enquanto se contribui de alguma forma positiva para outros. A estrada do sucesso está sempre em construção. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=155))
 - Você modela suas percepções, ou alguém as modela para você. Você faz o que quer fazer, ou cumpre os planos que alguém faz para você. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=174))
@@ -50,8 +49,6 @@
 - Só uma pequena porcentagem de pessoas vive, de fato, a vida de seus sonhos. Por quê? É preciso esforço. É preciso ação firme. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=440))
 - Perguntaram certa vez a Bunker Hunt, o bilionário do petróleo do Texas, se ele tinha algum conselho que pudesse dar às pessoas sobre como ser bem-sucedido. Ele respondeu que o sucesso era simples: primeiro, você decide com precisão o que quer; segundo, decide que pagará o preço para fazê-lo acontecer — e, então, paga esse preço. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=441))
 - Gosto de chamar as pessoas que sabem o que querem e estão dispostas a pagar o preço para consegui-lo de “os poucos que fazem” versus “os muitos que falam”. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=444))
-
-### Capítulo 2
 - “Há uma coisa engraçada sobre a vida: se se recusar a aceitar qualquer coisa que não seja a melhor, você, muitas vezes, vai conseguí-la.” — W. SOMERSET MAUGHAM ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=456))
 - Na vida de cada homem e de cada mulher, chega uma hora de supremo desafio. Uma hora quando cada reserva que temos é testada. Uma hora em que a vida parece injusta. Uma hora em que nossa fé, nossos valores, nossa paciência, nossa compaixão, nossa capacidade de resistir são todos empurrados para além de nossos limites. Alguns usam tais testes como oportunidades para se tornarem pessoas melhores. Outros, permitem que essas experiências da vida os destruam. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=466))
 - O que fazemos quando tentamos tudo que podemos e as coisas continuam saindo erradas? As pessoas bem-sucedidas não têm menos problemas do que as que falham. As únicas pessoas sem problemas são aquelas que estão no cemitério. Não é o que acontece conosco que distingue os sucessos dos fracassos. É como percebemos isso e o que fazemos a respeito do que “acontece” que faz a diferença. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=503))
@@ -74,5 +71,3 @@
 - A diferença entre os bem-sucedidos e aqueles que falham não é o que têm, mas sim o que escolhem para ver e fazer com suas reservas e experiências de vida. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=655))
 - John Grinder ensinou-me a nunca acreditar muito em alguma coisa, porque, se acreditar, sempre haverá um ponto sem solução. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=660))
 - Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve surgir é: “Como ele criou esse resultado?” ([Location 672](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=672))
-
-### Capítulo 3
