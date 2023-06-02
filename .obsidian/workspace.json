@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "eb60998f3f5f6cf0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "f52ae88c167ace36",
             "type": "leaf",
             "state": {
@@ -37,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modismo.md",
+                "file": "2. Literature Notes/Topics/Modismo.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisiologia.md",
+                "file": "2. Literature Notes/Topics/Fisiologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como estudar de forma mais produtiva?.md",
+                "file": "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +131,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
-              }
+              "state": {}
             }
           },
           {
@@ -350,14 +355,14 @@
       }
     ]
   },
-  "active": "6d91ef313e859e22",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
+    "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
-    "Como estudar de forma mais produtiva?.md",
+    "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
     "2. Literature Notes/People/Sigmund Freud.md",
     "2. Literature Notes/Topics/Processos Psíquicos.md",
     "2. Literature Notes/Topics/Senso Comum.md",
@@ -368,15 +373,15 @@
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/People/Jacques Lacan.md",
-    "Psicanálise.md",
-    "Mel Robbins.md",
+    "2. Literature Notes/Topics/Psicanálise.md",
+    "2. Literature Notes/People/Mel Robbins.md",
     "4. Me, Myself and I/Exercícios/Os livros que mais me impactaram.md",
-    "empatia.md",
+    "2. Literature Notes/Topics/empatia.md",
     "2. Literature Notes/Topics/Mindfulness.md",
-    "Como ter uma vida plena?.md",
+    "2. Literature Notes/Topics/Como ter uma vida plena?.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
-    "Fisiologia.md",
+    "2. Literature Notes/Topics/Fisiologia.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "4. Me, Myself and I/Brainstorming",
     "Kindle Highlights/Books",
