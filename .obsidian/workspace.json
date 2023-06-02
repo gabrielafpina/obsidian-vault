@@ -131,8 +131,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +256,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
+              }
             }
           },
           {
@@ -355,7 +358,7 @@
       }
     ]
   },
-  "active": "470654b5894bf8e3",
+  "active": "6d91ef313e859e22",
   "lastOpenFiles": [
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
@@ -382,10 +385,10 @@
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/Fisiologia.md",
-    "Kindle Highlights/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "4. Me, Myself and I/Brainstorming",
-    "Kindle Highlights/Books",
-    "Kindle Highlights",
+    "2. Literature Notes/Readwise/Books",
+    "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Exercícios",
     "4. Me, Myself and I",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
