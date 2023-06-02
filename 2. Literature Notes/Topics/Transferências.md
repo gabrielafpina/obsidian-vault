@@ -18,8 +18,10 @@ Muito relacionado ao [[Senso Comum]], assim como de outros conceitos que você r
 	- Situações diferentes, sentimento igual
 Quebrar uma tradição é muito difícil, principalmente em famílias que vivem em tradições muito fortes, como em países muçulmanos, etc. Quando alguém tenta quebrar uma tradição que é milenar, ela pode sofrer punições severas, restrições, e até a morte.
 
->[!important] 'Na psicanálise, nem tudo está definido ou decidido. Nós apenas olhamos para um modelo e vamos copiar o igual ou oposto.'
+>[!important] 'Na [[Psicanálise]], nem tudo está definido ou decidido. Nós apenas olhamos para um modelo e vamos copiar o igual ou oposto.'
 
+-> Você transgeracionaliza quando manda a informação e quando recebe.
+Ex de transgeracionalização: frases, lemas, ideias, pensamentos, esportes, profissões, hobbies, música.
 
 ---------
 

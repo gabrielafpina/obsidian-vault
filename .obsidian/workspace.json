@@ -71,8 +71,12 @@
             "id": "8ad420ef40b2224b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -121,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,16 +271,18 @@
   },
   "active": "b96882c15eede5d8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/Transferências.md",
-    "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
-    "2. Literature Notes/Topics/Senso Comum.md",
     "Readwise/Books/Poder Sem Limites.md",
-    "Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
     "Readwise/Books/O Poder Dos 5 Segundos.md",
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Readwise/Books/O Poder Dos 5 Segundos.md",
+    "2. Literature Notes/Topics/Transferências.md",
+    "2. Literature Notes/People/Carl Jung.md",
+    "2. Literature Notes/Topics/Sincronicidade.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
+    "2. Literature Notes/Topics/Senso Comum.md",
+    "Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
+    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
     "Readwise/Books/How to Love Yourself.md",
     "Readwise/Books/Seja O Amor Da Sua Vida.md",
@@ -294,8 +299,6 @@
     "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
-    "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
-    "2. Literature Notes/People/Sigmund Freud.md",
     "4. Me, Myself and I/Brainstorming",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
