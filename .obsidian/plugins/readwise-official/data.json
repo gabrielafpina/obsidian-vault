@@ -5,10 +5,21 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 8961315,
+  "lastSavedStatusID": 8961724,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
-  "booksToRefresh": [],
+  "booksToRefresh": [
+    "28019524",
+    "28019514",
+    "28019515",
+    "28019508",
+    "28019516",
+    "28019536",
+    "28019518",
+    "28438935",
+    "28019531",
+    "28019512"
+  ],
   "booksIDsMap": {
     "2. Literature Notes/Readwise/Books/Avalie O Que Importa.md": "28019524",
     "2. Literature Notes/Readwise/Books/Clube Da Luta.md": "28019514",
@@ -20,16 +31,7 @@
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md": "28438935",
     "2. Literature Notes/Readwise/Books/Scrum.md": "28019531",
     "2. Literature Notes/Readwise/Books/Seja O Amor Da Sua Vida.md": "28019512",
-    "Readwise/Books/O Lado Difícil Das Situações Difíceis.md": "28019536",
-    "Readwise/Books/Scrum.md": "28019531",
-    "Readwise/Books/Avalie O Que Importa.md": "28019524",
-    "Readwise/Books/O Poder Dos 5 Segundos.md": "28019518",
-    "Readwise/Books/Inteligência Emocional.md": "28019516",
-    "Readwise/Books/Expert Secrets.md": "28019515",
-    "Readwise/Books/Clube Da Luta.md": "28019514",
-    "Readwise/Books/Seja O Amor Da Sua Vida.md": "28019512",
-    "Readwise/Books/How to Love Yourself.md": "28019508",
-    "Readwise/Books/Poder Sem Limites.md": "28438935"
+    "2. Literature Notes/Readwise/Books/O Poder Da Ação.md": "28019541"
   },
   "reimportShowConfirmation": true
 }
