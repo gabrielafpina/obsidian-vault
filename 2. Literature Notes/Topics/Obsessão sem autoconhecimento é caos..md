@@ -35,9 +35,17 @@ Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 
 **Oeste: similar**
 
+
 **Leste: oposto**
+- Integração de práticas de [[Mindfulness]] e meditação
 
 **Norte: ideia/pergunta**
-- 
+- Entendimento do porquê
+- A obsessão sem autoconhecimento é impulsionada pela crença de que a felicidade está em alcançar metas externas, negligenciando a satisfação interna, levando a uma sensação de vazio e desconexão
+- O conhecimento profundo de si mesmo ilumina a jornada da obsessão
 
 **Sul: para onde vai**
+- Exaustão emocional e desequilíbrio
+- Desconexão de si mesmo e de suas [[necessidades emocionais]]
+- Dificuldade em estabelecer relacionamentos saudáveis e duradouros
+- Mindset rígido/fixo: Incapacidade de se adaptar a mudanças
