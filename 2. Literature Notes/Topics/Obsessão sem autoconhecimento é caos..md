@@ -23,7 +23,9 @@ Posso te contar algo surpreendente? Não existe, porra. Sem saúde, você não t
 
 Se você se anula e esquece que é importante olhar para si mesmo, antes de olhar para qualquer outra coisa, você será anulado. Por si mesmo. Que triste.
 
-Eu sou o
+Eu sou obcecada. Não estou aqui falando que isso é algo ruim. Não é. No entanto, se utilizarmos essa força da maneira errada, ela vai nos corroer até que não haja mais nada em nós. Apenas caos.
+
+Por isso, pensadores como [[Sigmund Freud]] e [[Carl Jung]], dois mestres que eu admiro muito, afirmavam sobre a importância de utilizar a obsessão de maneira saudável. No momento em que aceitamos que somos obcecados, podemos trabalhar lado a lado da nossa obsessão. Quando integramos esse aspecto da nossa personalidade, ele nos leva ao crescimento pessoal. Por outro lado, se sabemos que somos obcecados e utilizamos essa força sem pensar e sem nos conhecer... meu irmão, vamos parar no fundo do poço.
 
 **COMO:**
 
