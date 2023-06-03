@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #build 
 
 **FONTE:** [[Tony Robbins]] em [[Poder Sem Limites]]
 
@@ -20,12 +20,16 @@ Ao entender essa metáfora do rio, você percebe que tem o poder de direcionar s
 **PENSADORES:**
 
 **FRASES:**
-- [[Tony Robbins]]: 'Uma das constantes na vida é que sempre estão sendo produzidos resultados. Se você não decide conscientemente que resultados quer produzir e não representa as coisas em consonância com isso, então algum agente externo, como uma conversa, um show de televisão, poderá criar estados que gerarão comportamentos desfavoráveis a você. A vida é como um rio. Está em movimento, e você pode estar à mercê do rio, se não tomar medidas deliberadas e conscientes para se manter na direção que predeterminou. '
+- [[Tony Robbins]]: 
+	- 'Uma das constantes na vida é que sempre estão sendo produzidos resultados. Se você não decide conscientemente que resultados quer produzir e não representa as coisas em consonância com isso, então algum agente externo, como uma conversa, um show de televisão, poderá criar estados que gerarão comportamentos desfavoráveis a você. A vida é como um rio. Está em movimento, e você pode estar à mercê do rio, se não tomar medidas deliberadas e conscientes para se manter na direção que predeterminou.'
+	-  Se não plantar as sementes mentais e fisiológicas dos resultados que quer, sem dúvida crescerão ervas daninhas. Se não orientarmos com consciência nossas próprias mentes e estados, nosso ambiente pode produzir, por acaso, estados indesejáveis. Os resultados podem ser desastrosos. É fundamental, pois, que diariamente fiquemos de guarda à porta de nossa mente, visto que bem sabemos como estamos sempre representando coisas para nós mesmos. Devemos todos os dias tirar as ervas daninhas de nosso jardim.
 
 ---------
 
 **Oeste: similar**
 - Joseph Campbell na Jornada do Herói
+- [[Carl Jung]] em o [[Inconsciente Coletivo]]
+- [[Ego]]: pensamentos são como um rio, eu posso me deixar levar por eles, ou eu posso olhar para eles de fora e compreender se eu quero, ou não, me envolver com eles. É, ainda, uma forma de alteração de [[estados emocionais]]
 
 **Leste: oposto**
 

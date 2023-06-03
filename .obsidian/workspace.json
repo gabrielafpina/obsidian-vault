@@ -189,9 +189,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c21d427a06a4f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inconsciente Coletivo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md"
+                "file": "2. Literature Notes/Topics/estados emocionais.md"
               }
             }
           },
@@ -382,10 +393,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6224d4c3e1529627",
+  "active": "62138a34a68a144f",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "Inconsciente Coletivo.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Representação interna.md",
@@ -411,7 +423,6 @@
     "2. Literature Notes/Readwise/Books/O Poder Dos 5 Segundos.md",
     "2. Literature Notes/People/Carl Jung.md",
     "2. Literature Notes/Topics/Sincronicidade.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",

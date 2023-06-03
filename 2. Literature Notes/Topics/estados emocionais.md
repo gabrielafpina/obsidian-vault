@@ -6,6 +6,8 @@
 
 **DEFINIÇÃO:**
 - [[Tony Robbins]] em [[Poder Sem Limites]]: Um estado pode ser definido como a soma de milhões de processos neurológicos acontecendo dentro de nós. Em outras palavras, a soma total de nossa experiência a qualquer tempo, em qualquer momento.
+[[Representação interna]] + [[Fisiologia]] -> Comportamento -> Estados emocionais -> resultados
+	- Quando aprendemos a mudar as representações internas e a nossa 
 
 **COMO:**
 - [[Como criar um estado emocional?]]
