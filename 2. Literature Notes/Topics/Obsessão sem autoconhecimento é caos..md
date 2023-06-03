@@ -1,9 +1,5 @@
 **TAGS:**
 
-**FONTE:**
-
-**BIG IDEA:** 
-
 **DEFINIÇÃO:**
 'Motivação irresistível para realizar um ato'; 'Compulsão'; 'Apego exagerado a um sentimento ou uma ideia'. Essa é a definição de obsessão no dicionário.
 
@@ -26,6 +22,10 @@ Se você se anula e esquece que é importante olhar para si mesmo, antes de olha
 Eu sou obcecada. Não estou aqui falando que isso é algo ruim. Não é. No entanto, se utilizarmos essa força da maneira errada, ela vai nos corroer até que não haja mais nada em nós. Apenas caos.
 
 Por isso, pensadores como [[Sigmund Freud]] e [[Carl Jung]], dois mestres que eu admiro muito, afirmavam sobre a importância de utilizar a obsessão de maneira saudável. No momento em que aceitamos que somos obcecados, podemos trabalhar lado a lado da nossa obsessão. Quando integramos esse aspecto da nossa personalidade, ele nos leva ao crescimento pessoal. Por outro lado, se sabemos que somos obcecados e utilizamos essa força sem pensar e sem nos conhecer... meu irmão, vamos parar no fundo do poço.
+
+Então, seja um obcecado. Isso pode ser algo incrível. Agora, _lembre-se de cuidar de você e de se ouvir_. Ou o seu corpo vai te parar à força.  
+  
+Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 
 **COMO:**
 
