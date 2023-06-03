@@ -107,3 +107,5 @@
 - a espécie de comportamento que as pessoas produzem é o resultado do estado em que estão. A forma como respondem especificamente a partir desse estado se baseia nos seus modelos do mundo, isto é, em suas estratégias neurológicas armazenadas. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=918))
 - Por que as pessoas usam drogas? Não é por gostarem de espetar agulhas em seus braços, mas por gostarem da experiência e não saberem outra maneira de ficar naquele estado. ([Location 937](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=937))
 - Pessoas que atingiram a excelência são mestras em penetrar nas partes mais ricas de recursos de seu cérebro. É isso que as separa do grupo. O fundamental a lembrar deste capítulo é que seu estado tem um poder admirável, e você pode contatá-lo. Você não tem de estar à mercê do que quer que seja que lhe apareça em seu caminho. ([Location 943](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=943))
+
+## Capítulo 4

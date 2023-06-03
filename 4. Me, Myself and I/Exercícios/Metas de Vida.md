@@ -5,5 +5,62 @@
 **BIG IDEA:** Se não sabe para onde vai, qualquer caminho serve.
 
 **DEFINIÇÃO:**
-**ESTABELECENDO OBJETIVOS COMPONENTES-CHAVE:**
-1. **Crie um inventário de seus sonhos, das coisas que quer ter, ser e compartilhar (trabalho, família, relacionamentos, estado mental, emocional, social, material e físico)**
+Eu me visualizo em cima de um palco muito grande e vejo muitas pessoas na minha frente. É como se fosse um estádio e eu vejo pequenas luzes acesas, como se fossem lanternas de um telefone iluminando. Eu me vejo sentindo toda aquela vibração e levando muita energia para a galera. Eles vibram e se sentem invencíveis. Eu também. Eu ajudo essas pessoas a despertarem o potencial que elas tem dentro delas e, no caminho, eu desperto o MEU potencial. Eu sinto cheiro de suor, mas não é fedido. É como se fosse adrenalina. Me vem uma sensação de lavando ao mesmo tempo. É muita energia, ao mesmo tempo que também tem muita acolhimento e vulnerabilidade. Eu ouço as vozes das pessoas urrando e gritando, ao mesmo tempo que também ouço choro e risadas. Como se fosse uma profunda liberação emocional, energética, espiritual e física também. 
+
+Eu visualizo meu marido no camarim por um tempo, mas ele também participa das dinâmicas. Ele trabalha comigo e me apoia muito. Ao lado dele, me sinto mulher de verdade. Sinto um amor muito profundo, um tesão e muita vontade de viver ao lado dele. Nesse momento, não nos visualizo tendo filhos, é mais pra frente. Teremos um filho. Ele vai mudar a minha vida inteira e trazer ainda mais feminilidade para minha trajetória, o que será aplicado na minha carreira. 
+
+Eu vou falar sobre Deus, espiritualidade, PNL e sobre como as pessoas criar uma vida extraordinária e vibram todos os dias, como eu faço. 
+
+A minha conta bancária tem múltiplos milhões e eu tenho um patrimônio bilionário. Como sou muito filantropa e tenho a minha instituição, que auxilio índios e refloresto a Amazônia, além de Levar inteligência emocional para comunidades mais carentes, o dinheiro é uma ferramenta essencial para o meu desenvolvimento e para o desenvolvimento do mundo. 
+
+Eu viajo quando eu quero (de jato), para onde quero e com quem eu quero. Tenho liberdade financeira de sobra e viajo bastante também, principalmente para dar os meus seminários ao redor do mundo. 
+
+Eu sou amiga das mentes mais brilhantes do Brasil e do mundo. Estou na roda de conversa que quero estar e acabo prezando por estar em locais espirituais e voltados para o desenvolvimento pessoal. 
+
+Conheci pessoalmente o Tony Robbins e o agradeci por ter sido tão fundamental na minha jornada. Na verdade, conheci muitas das minhas referências de hoje. Teal Swan tambem.  
+
+Sou uma pessoa com muitas coisas para fazer, mas duas vezes ao ano paro tudo para ficar com a minha família. Além disso, todos os dias tenho momentos estratégicos para mim, de meditação, leitura e exercícios. Estudo semanalmente também, embora não consiga o fazer de forma muito profunda todos os dias. 
+
+Meu corpo é sarado, definido e eu possuo uma dieta vegana, porque me faz sentir mais conexão espiritual e energética. 
+
+Aprendi a praticar kite surf e esse é meu hobby favorito. 
+
+Consagro ayahuasca regularmente e já fiz algumas jornadas bem profundas de alguns dias de consagração, onde obtive respostas fundamentais. 
+
+Encontrei a harmonia entre o meu feminino e masculino e isso é muito nítido na minha vida. Tudo o que faço é com muito amor e energia. Eu ajudo as pessoas a sentirem novamente, ou sentirem pela primeira vez, o amor em suas vidas. 
+
+Minha conexão espiritual é forte eu não abro mão disso nunca mais. 
+
+Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia. Linda e muito confortável. Bastante branco e tecnologia. Ao mesmo tempo, tem uma casa dentro da floresta, com muitas cachoeiras perto. Se houve muito claramente o som de pássaros, macacos, são das águas e das folhas. É o meu lugar favorito no mundo. Adoro ler na minha sala, sentado na minha poltrona, bem quentinha, em frente à lareira.
+
+**METAS AO LONGO DO TEMPO:**
+- **6 Meses:**
+	- comunidade ativa e 100 alunos dentro; 
+	- 300k no Instagram e 700k no TikTok ;
+	- solteira e fazendo terapia semanalmente pra me conhecer; 
+	- R$15.000 por mês, fixo + lançamentos; 
+	- independência financeira;
+	- prestes a me mudar e morar sozinha; 
+	- fiz mais viagens pelo Brasil; 
+	- primeira palestra realizada; 
+	- vendas do primeiro e Book foram um sucesso; 
+	- finalização do curso de PNL. Aprofundar em a.i E me tornar expert em comunicação.
+- **1 ano:**
+	- primeiro evento presencial com mais de 100 pessoas, sendo muito fácil de fazer vendas; 
+	- formação em coaching, psicanálise e PNL concluídas; 
+	- comunidade com mais de 1000 alunos; 
+	- morando sozinho e decorando a minha casa do meu jeitinho; 
+	- time crescendo para 8 pessoas; 
+	- recebendo convite para palestrar em grandes masterminds (heroes); 
+	- investimento na minha primeira mentoria com um Big player; 
+	- conhecendo muitas pessoas da espiritualidade e desenvolvimento pessoal que vão me impulsionar ainda mais pra chegar no meu destino;
+	- Corpo no shape, já que vem estudando sobre biohacking;
+	- começo a falar sobre empreendedorismo e negócios digitais nas minhas redes; 
+	- parceria com grandes marcas estratégicas e que eu admiro (editoras de livros, gaab wellness);
+	- 700k no ig e 1,4 milhões no TikTok;
+	- voltei com meu canal do YouTube; 
+	- viagem internacional; 
+	- evento presencial do tony robbins.
+- **2 anos:**
+- **5 anos:**
+- **10 anos:**
