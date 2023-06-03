@@ -62,5 +62,50 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- viagem internacional; 
 	- evento presencial do tony robbins.
 - **2 anos:**
+	- Comecei meu talk show e entrevisto convidados do Brasil inteiro; 
+	- escrevi o meu primeiro livro físico; 
+	- estou namorando meu parceiro ideal; 
+	- viajando todo mês pelo Brasil; 
+	- viagem internacional 3x ao ano; 
+	- 2 milhões no Instagram em 4,5 milhões no TikTok; 
+	- Lançamentos de oito dígitos; 
+	- 5000 alunos da comunidade; 
+	- eventos presenciais duas vezes ao ano lotados; 
+	- time com 12 pessoas; 
+	- abertura da segunda empresa; 
+	- comecei a criar uma marca de biohacking; 
+	- estruturação do meu mastermind; 
+	- palestras mensais em eventos e grandes empresas.
 - **5 anos:**
+	- Meu talk show é o melhor do Brasil; 
+	- Autora best-seller; 
+	- casada e morando em um apartamento lindo; 
+	- eventos presenciais quatro vezes ao ano; 
+	- comecei a fazer eventos internacionais; 
+	- palestrante reconhecida mundialmente por sua comunicação universal hipnótica; 
+	- participação ativa nas mesas de maior prestígio intelectual do Brasil; 
+	- mentoria com Tony Robbins; 
+	- 3,5 milhões no Instagram e 8 milhões no tiktok; 
+	- início da minha instituição; 
+	- consagração mensal de ayahuasca; 
+	- fui num evento presencial da Teal Swan e Dr. Joe Dispenza; 
+	- segundo cérebro absurdamente genial; 
+	- time com 35 pessoas; 
+	- 20.000 alunos da comunidade.
 - **10 anos:**
+	- mais de cinco livros físicos publicados; 
+	- 10 milhões Instagram e 30 milhões TiK ToK; 
+	- primeiro grande evento presencial em um estádio; 
+	- palestras e convites para podcasts internacionais; 
+	- talk show ainda melhor do Brasil e passa a ser reconhecido no mundo; 
+	- Biohacking na veia e espiritualidade muito forte; 
+	- comprei minha casa de campo; 
+	- pensando em engravidar.
+
+**4 METAS MAIS IMPORTANTES PARA O PRÓXIMO ANO:**
+1. Viagem internacional
+	1. Realizar a minha primeira viagem internacional paga por mim mesma. É importante para mim realizar essa meta, porque eu quero mostrar pra mim mesma que eu tenho a capacidade de me sustentar sozinha, viajando e fazendo que eu amo lá fora, conhecendo novas pessoas, que agregarão a minha trajetória profissional e pessoal. Quero viajar porque há alguns anos não viajo internacionalmente e quero me sentir orgulhosa por estar proporcionando isso pra mim sozinha.
+	2. Quando eu estiver viajando, sinto uma sensação de liberdade muito forte dentro de mim. Me sinto leve, livre, extasiada. É muito amor que pulsa dentro de mim e as palavras são pequenas para descrever a emoção. Eu visualizo um lugar com praia, ao mesmo tempo que também tem mata. Tailânc
+2. Comunidade com mais de 1.000 alunos
+3. Morar sozinha
+4. Evento presencial meu
