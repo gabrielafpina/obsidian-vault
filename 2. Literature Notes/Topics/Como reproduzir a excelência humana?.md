@@ -9,7 +9,7 @@
 **COMO:**
 [[Richard Bandler]] e [[John Grinder]] descobriram que existem três ingredientes fundamentais que devem ser duplicados, a fim de reproduzir qualquer forma de excelência humana:
 1. **Sistema de Crenças:** O que uma pessoa acredita, o que pensa ser possível ou impossível, determina o que ela pode, ou não, fazer.
-	1. Se você escolhe focar no negativo, você criará [[estados emocionais]] negativos. Por outro lado, quando você foca no positivo, 
+	1. Se você escolhe focar no negativo, você criará [[estados emocionais]] negativos. Por outro lado, quando você resolve ter uma [[Representação interna]] positiva, você fica com mais recursos internos para ter resultados positivos.
 2. **[[Sintaxe Mental]]:** a maneira como as pessoas organizam seus pensamentos. Quando deciframos o código que as pessoas utilizam para falar consigo mesmas, temos uma maior facilidade em modelar os seus resultados.
 3. **[[Fisiologia]]:** O estado em que você está determina o estado dos seus resultados. Uma vez que você hackeia o seu corpo e mente (que estão interligados), você hackeia uma vida de sucesso.
 

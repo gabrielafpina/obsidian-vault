@@ -15,6 +15,9 @@ O que nos faz representar a vida de determinada forma? Nossas [[crenças]], atit
 
 **PENSADORES:**
 
+**FRASES:** 
+-  [[Poder Sem Limites]]: Lembre-se: nada é intrinsecamente mau ou bom. O valor é como nós o representamos para nós mesmos. Podemos representar as coisas de uma maneira que nos deixa num estado positivo, ou podemos fazer o oposto. 
+
 
 ---------
 
