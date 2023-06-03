@@ -4,4 +4,4 @@ Esta dimensão enfatiza a possibilidade de moldar o ambiente, superando oposiç�
   
 **Pontos Fortes:** dinâmico, ativo, forte, preciso, independente, ousado e determinado.  
   
-**Pontos Fracos:** sarcástico, prepotente, intolerante, insensível e impaciente.
+**Pontos Fracos:** sarcástico, prepotente, intolerante, insensível e impaciente.![[Captura de Tela 2023-06-03 às 12.26.39.png]]
