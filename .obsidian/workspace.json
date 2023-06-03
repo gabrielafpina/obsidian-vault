@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Representação interna.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Representação interna.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Representação interna.md"
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
               }
             }
           },
@@ -369,14 +369,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4182522cd5302823",
+  "active": "9233ee3567700e15",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+    "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/People/Albert Einstein.md",
-    "2. Literature Notes/Topics/Representação interna.md",
     "5. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Untitled.md",
