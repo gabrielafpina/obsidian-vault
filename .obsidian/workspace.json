@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Testes/DISC.md",
+                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/DISC.md",
+                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/DISC.md",
+                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/DISC.md"
+                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md"
               }
             }
           },
@@ -273,9 +272,10 @@
   },
   "active": "20a1f39e2ef1e21d",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/DISC.md",
+    "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
     "Captura de Tela 2023-06-03 às 12.26.39.png",
     "2. Literature Notes/Topics/Zoom Lendário.md",
-    "4. Me, Myself and I/Testes/DISC.md",
     "4. Me, Myself and I/Testes",
     "4. Me, Myself and I/Testes.md",
     "2. Literature Notes/Topics/Transferências.md",
@@ -318,7 +318,6 @@
     "Captura de Tela 2023-05-27 às 13.42.36 (2).png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 13.34.46.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-24 às 10.52.35.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 15.00.04.png",
     "Untitled.canvas"
   ]
 }
