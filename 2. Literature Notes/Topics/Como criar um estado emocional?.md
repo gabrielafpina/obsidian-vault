@@ -19,7 +19,7 @@ Se você já alcançou determinado estado na sua vida, você sempre pode voltar 
 
 **FRASES:**
 - [[Poder Sem Limites]]
-	- Pessoas que atingiram a excelência são mestras em penetrar nas partes mais ricas de recursos de seu cérebro. É isso que as separa do grupo. O fundamental a lembrar deste capítulo é que seu estado tem um poder admirável, e você pode contatá-lo. Você não tem de estar à mercê do que quer que seja que lhe apareça em seu caminho.
+	- Pessoas que atingiram a excelência são mestras em penetrar nas partes mais ricas de recursos de seu cérebro - [[Como reproduzir a excelência humana?]]. É isso que as separa do grupo. Seu estado tem um poder admirável, e você pode contatá-lo. *Você não tem de estar à mercê do que quer que seja que lhe apareça em seu caminho.*
 
 ---------
 
