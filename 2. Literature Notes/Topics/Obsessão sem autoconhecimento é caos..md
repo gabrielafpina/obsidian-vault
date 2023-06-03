@@ -27,10 +27,9 @@ Então, seja um obcecado. Isso pode ser algo incrível. Agora, _lembre-se de cu
   
 Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 
-**COMO:**
-
 **PENSADORES:**
-
+- [[Sigmund Freud]]: Freud, o pai da [[Psicanálise]], discutiu a natureza da obsessão em seu trabalho sobre os transtornos mentais. Embora Freud principalmente destacasse os aspectos negativos da obsessão, ele também argumentou que a *canalização correta da energia obsessiva* poderia levar a realizações excepcionais em várias áreas da vida.
+- [[Carl Jung]]: discutiu o conceito de "complexos" na psicologia. Ele argumentava que esses complexos poderiam ser obsessões internalizadas que, quando reconhecidas e integradas, poderiam levar ao *crescimento pessoal e à individuação*.
 
 ---------
 
@@ -39,5 +38,6 @@ Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- 
 
 **Sul: para onde vai**
