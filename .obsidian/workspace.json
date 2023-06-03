@@ -177,9 +177,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6224d4c3e1529627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -265,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
+                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md"
               }
             }
           },
@@ -369,9 +382,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9233ee3567700e15",
+  "active": "6224d4c3e1529627",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Representação interna.md",
@@ -398,7 +412,6 @@
     "2. Literature Notes/People/Carl Jung.md",
     "2. Literature Notes/Topics/Sincronicidade.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",
