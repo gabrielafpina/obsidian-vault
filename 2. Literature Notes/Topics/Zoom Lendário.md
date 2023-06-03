@@ -52,6 +52,7 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 **Transcrição do conteúdo do vídeo do YouTube**: https://glasp.co/youtube-summary
 **Site que compartilha ferramentas de AI**: https://theresanaiforthat.com/
 **Criação de aulas específicas sobre algo específico que você quer aprender:** https://www.tutorai.me/
+**Criação de curso:** https://learningstudioai.com/
 https://www.forefront.ai/
 https://www.perplexity.ai/
 # Formato Comunidade
@@ -66,3 +67,6 @@ https://www.perplexity.ai/
 	5. Está trazendo muito mais do que falou que ia trazer, o que dá um senso de overdelivery muito bom.
 
 
+
+
+Curso online, todo mundo vai ter. Comunidade engajada é o futuro. Conhecimento já é commodity. Cursos vão virar commodity. Contato com as pessoas vai ser cada vez mais raro e valorizado.
