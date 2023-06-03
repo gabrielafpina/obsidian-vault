@@ -34,7 +34,8 @@ Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 ---------
 
 **Oeste: similar**
-
+- "A autenticidade é o antídoto para a obsessão sem propósito"
+- Conceito de Fluxo de Mihaly Csikszentmihalyi
 
 **Leste: oposto**
 - Integração de práticas de [[Mindfulness]] e meditação

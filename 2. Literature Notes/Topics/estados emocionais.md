@@ -2,9 +2,10 @@
 
 **FONTE:**
 
-**BIG IDEA:** 
+**BIG IDEA:** Aprender a alterar estados emocionais é a chave para promover mudanças na vida e conseguir excelência no que faz.
 
 **DEFINIÇÃO:**
+- [[Tony Robbins]] em [[Poder Sem Limites]]: Um estado pode ser definido como a soma de milhões de processos neurológicos acontecendo dentro de nós. Em outras palavras, a soma total de nossa experiência a qualquer tempo, em qualquer momento.
 
 **COMO:**
 
