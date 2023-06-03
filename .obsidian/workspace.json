@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Zoom Lendário.md",
+                "file": "4. Me, Myself and I/Testes/DISC.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Zoom Lendário.md",
+                "file": "4. Me, Myself and I/Testes/DISC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Zoom Lendário.md",
+                "file": "4. Me, Myself and I/Testes/DISC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Zoom Lendário.md"
+                "file": "4. Me, Myself and I/Testes/DISC.md"
               }
             }
           },
@@ -272,6 +273,10 @@
   },
   "active": "20a1f39e2ef1e21d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Zoom Lendário.md",
+    "4. Me, Myself and I/Testes/DISC.md",
+    "4. Me, Myself and I/Testes",
+    "4. Me, Myself and I/Testes.md",
     "2. Literature Notes/Topics/Transferências.md",
     "2. Literature Notes/Topics/Desidentificação.md",
     "2. Literature Notes/Topics/Ressignificação.md",
@@ -295,11 +300,8 @@
     "2. Literature Notes/Readwise/Books/Expert Secrets.md",
     "2. Literature Notes/Readwise/Books/Inteligência Emocional.md",
     "2. Literature Notes/Readwise/Books/Avalie O Que Importa.md",
-    "2. Literature Notes/Readwise/Books/Scrum.md",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
-    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "2. Literature Notes/Topics/Sintaxe Mental.md",
     "4. Me, Myself and I/Brainstorming",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
@@ -317,7 +319,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 13.34.46.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-24 às 10.52.35.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 15.00.04.png",
-    "1. Daily Notes/May",
     "Untitled.canvas"
   ]
 }
