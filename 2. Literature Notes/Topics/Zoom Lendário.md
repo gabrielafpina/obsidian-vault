@@ -1,4 +1,4 @@
-Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23.
+Encontro Zoom com [[Alan Nicolas]] sobre o [[Obsidian]], no dia 24/05/23 e no dia 03/06/2023.
 
 # Formato Webinário
 Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteúdo gratuito, imagina pagando a ele?'. O conteúdo está tão bom e ele está demonstrando ter tanto conhecimento que ele não precisaria nem fazer um pitch, que eu já estou vendida. Ele entrega muito mais do que promete.
@@ -51,6 +51,7 @@ Entrega de MUITO conteúdo ao vivo no webinário - 'Se ele entrega tanto conteú
 # Sites relevantes
 **Transcrição do conteúdo do vídeo do YouTube**: https://glasp.co/youtube-summary
 **Site que compartilha ferramentas de AI**: https://theresanaiforthat.com/
+**Criação de aulas específicas sobre algo específico que você quer aprender:** https://www.tutorai.me/
 https://www.forefront.ai/
 https://www.perplexity.ai/
 # Formato Comunidade
