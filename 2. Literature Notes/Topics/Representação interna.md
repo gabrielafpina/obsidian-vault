@@ -10,6 +10,8 @@ O que nos faz representar a vida de determinada forma? Nossas [[crenças]], atit
 **COMO:**
 **Como representamos internamente as coisas que acontecem em nossas vidas?**
 - Através dos nossos 5 sentidos: paladar ou gosto, olfato ou cheiro, visão ou vista, audição ou ouvir e cinestesia ou tato. 
+	- [[Poder Sem Limites]]: Esses receptores especializados transmitem o estímulo externo para o cérebro. Por meio de processos de generalização, distorção e cancelamento, o cérebro, então, pega esses sinais elétricos e filtra-os, em uma representação interna.
+	- O nosso cérebro não consegue processar todos os estímulos que recebemos. Se fizéssemos isso, ficaríamos loucos. Portanto, a nossa representação interna não é a verdade. Não é o que efetivamente aconteceu, é apenas o que tivemos a capacidade de filtrar, através dos nossos 5 sentidos - por isso, muitas pessoas que viveram a mesma situação, acabam contando-a de formas distintas. - [[O mapa não é o território]]
 
 **PENSADORES:**
 
@@ -23,3 +25,4 @@ O que nos faz representar a vida de determinada forma? Nossas [[crenças]], atit
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O mapa não é o território]]
