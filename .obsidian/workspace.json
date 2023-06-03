@@ -128,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O mapa não é o território.md",
+                "file": "5. Templates/Anotação Atômica X Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O mapa não é o território.md",
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dcb9b69d6f581b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/People/Albert Einstein.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O mapa não é o território.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O mapa não é o território.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O mapa não é o território.md"
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
               }
             }
           },
@@ -357,12 +369,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ad4e67c7d667f9e",
+  "active": "9233ee3567700e15",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "O mapa não é o território.md",
-    "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/People/Albert Einstein.md",
+    "2. Literature Notes/Topics/Representação interna.md",
+    "5. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Untitled.md",
@@ -385,8 +399,6 @@
     "2. Literature Notes/Topics/Sincronicidade.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
-    "2. Literature Notes/Topics/Senso Comum.md",
-    "2. Literature Notes/Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",
