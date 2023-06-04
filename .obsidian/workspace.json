@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1fea5b4992c4d02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af44fbb9e5b30475",
             "type": "leaf",
             "state": {
@@ -44,12 +56,12 @@
             }
           },
           {
-            "id": "b9b36d903234933d",
+            "id": "77aa71c65ea30319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,25 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "860cac33761d9c00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fea5b4992c4d02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md"
-              }
+              "state": {}
             }
           },
           {
@@ -284,13 +274,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9b36d903234933d",
+  "active": "82f57eeb14aa6736",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Desidentificação.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Ressignificação.md",
     "Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Desidentificação.md",
     "Readwise/Books",
     "Readwise",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",
     "Readwise/Books/O Poder Dos 5 Segundos.md",
     "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
@@ -312,8 +304,6 @@
     "Kindle Highlights/Books/How to Love Yourself.md",
     "Kindle Highlights/Books/Scrum.md",
     "Kindle Highlights/Books/O Poder Da Ação.md",
-    "Kindle Highlights/Books/O Lado Difícil Das Situações Difíceis.md",
-    "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
