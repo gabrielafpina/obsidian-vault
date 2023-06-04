@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "831c6f30b6da412e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fce0f94d935dcaec",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md"
+                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
               }
             }
           },
@@ -288,11 +301,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb71ef040aa9132",
+  "active": "831c6f30b6da412e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "POTENCIAL.pdf",
     "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
     "2. Literature Notes/Topics/Transferências.md",
     "2. Literature Notes/Topics/rumor.md",
     "2. Literature Notes/Topics/Ressignificação.md",
@@ -300,7 +314,6 @@
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "resultados experimentais antecipados.md",
     "De onde vem as nossas crenças?.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
     "6. Shots, Images & PDFs/POTENCIAL.pdf",
     "Representações internas.md",
@@ -326,7 +339,6 @@
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",
-    "2. Literature Notes/Readwise/Books",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
