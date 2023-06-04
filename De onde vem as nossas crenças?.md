@@ -17,8 +17,10 @@
 	1. Quando lemos, ouvimos e temos contato com a realização e conhecimento de outras pessoas, passamos a desenvolver crenças que nos permitem ser mais bem sucedidos.
 	2. [[Poder Sem Limites]]:
 		1. O conhecimento é uma das grandes maneiras de quebrar as algemas de um ambiente limitador. Não importa quão rígido seja o seu mundo; se puder ler sobre as realizações dos outros, pode criar as crenças que lhe permitirão ser bem-sucedido.
-5. **Resultados passados**
-	1. 
+4.  **Resultados passados**
+	1. Quando sabemos que já fizemos algo uma vez, fica muito mais fácil de acreditarmos que podemos fazer aquele algo novamente. É como se a nossa régua aumentasse. Você só precisa fazer algo uma vez. Se fez aquele algo uma vez, sabe que consegue replicar o resultado, apenas precisa entender quais foram os [[estados emocionais]] que o levaram àquele resultado.
+5.  **Criação em sua mente da experiência que deseja no futuro, como se estivesse aqui e agora**
+	1. [[Tony Robbins]] chama isso de [[resultados experimentais antecipados]], algo que [[Dr. Joe Dispenza]] também fala muito sobre.      
 
 **PENSADORES:**
 - [[Tony Robbins]]

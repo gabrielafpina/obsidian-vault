@@ -80,7 +80,19 @@
             }
           },
           {
-            "id": "598a1776d8a0c93b",
+            "id": "ce503763c8199fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resultados experimentais antecipados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4d52b4de8b8c521",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,12 +104,12 @@
             }
           },
           {
-            "id": "b4811910ae203f60",
+            "id": "f8f066f2ec89c9fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
+                "file": "Dr. Joe Dispenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De onde vem as nossas crenças?.md",
+                "file": "resultados experimentais antecipados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De onde vem as nossas crenças?.md",
+                "file": "resultados experimentais antecipados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De onde vem as nossas crenças?.md"
+                "file": "resultados experimentais antecipados.md"
               }
             }
           },
@@ -326,11 +338,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "598a1776d8a0c93b",
+  "active": "ce503763c8199fb5",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "resultados experimentais antecipados.md",
     "De onde vem as nossas crenças?.md",
+    "Dr. Joe Dispenza.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "2. Literature Notes/Topics/Representação interna.md",
@@ -353,9 +368,6 @@
     "Readwise/Books/Scrum.md",
     "Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
     "Readwise/Books/O Poder Da Ação.md",
-    "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
-    "Kindle Highlights/Books/Inteligência Emocional.md",
-    "Kindle Highlights/Books/Expert Secrets.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
