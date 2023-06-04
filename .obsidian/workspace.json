@@ -25,106 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be2150dc751db9b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f09331f7ca0ff0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4c9e846e25df857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f757a100235869f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b82cac67125ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "b49ce8c8593713af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4d52b4de8b8c521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fce0f94d935dcaec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fae9ea4ae4eb000e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
+                "file": "4. Me, Myself and I/Testes/Cronotipo.md"
               }
             }
           },
@@ -320,15 +228,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fae9ea4ae4eb000e",
+  "active": "831c6f30b6da412e",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/DISC.md",
+    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/crenças.md",
     "Readwise/Books",
     "Readwise",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
     "2. Literature Notes/Topics/Transferências.md",
@@ -350,7 +260,6 @@
     "2. Literature Notes/Topics/Desidentificação.md",
     "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",
     "Readwise/Books/O Poder Dos 5 Segundos.md",
-    "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
