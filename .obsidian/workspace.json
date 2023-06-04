@@ -8,84 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b96882c15eede5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44408a62921fade6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/rumor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af44fbb9e5b30475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ressignificação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77aa71c65ea30319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fb71ef040aa9132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c9e846e25df857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. Literature Notes/Topics/crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18b3b17a9940ac1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce503763c8199fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resultados experimentais antecipados.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,30 +56,6 @@
             }
           },
           {
-            "id": "2332264810c551a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a31cfae82b3830ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3b82cac67125ccf",
             "type": "leaf",
             "state": {
@@ -151,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "fce0f94d935dcaec",
@@ -269,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md"
               }
             }
           },
@@ -375,24 +290,28 @@
   },
   "active": "5fb71ef040aa9132",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "POTENCIAL.pdf",
     "2. Literature Notes/Topics/crenças.md",
-    "6. Shots, Images & PDFs/POTENCIAL.pdf",
+    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso.md",
+    "2. Literature Notes/Topics/Transferências.md",
+    "2. Literature Notes/Topics/rumor.md",
+    "2. Literature Notes/Topics/Ressignificação.md",
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+    "resultados experimentais antecipados.md",
+    "De onde vem as nossas crenças?.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
+    "6. Shots, Images & PDFs/POTENCIAL.pdf",
     "Representações internas.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
-    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
-    "De onde vem as nossas crenças?.md",
     "Dr. Joe Dispenza.md",
-    "resultados experimentais antecipados.md",
-    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "2. Literature Notes/Topics/Representação interna.md",
-    "2. Literature Notes/Topics/Ressignificação.md",
     "Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Desidentificação.md",
     "Readwise/Books",
@@ -400,9 +319,6 @@
     "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",
     "Readwise/Books/O Poder Dos 5 Segundos.md",
     "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
-    "Kindle Highlights/Books/Poder Sem Limites.md",
-    "Readwise/Books/How to Love Yourself.md",
-    "Readwise/Books/Seja O Amor Da Sua Vida.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",

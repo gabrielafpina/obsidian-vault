@@ -20,7 +20,7 @@
 4.  **Resultados passados**
 	1. Quando sabemos que já fizemos algo uma vez, fica muito mais fácil de acreditarmos que podemos fazer aquele algo novamente. É como se a nossa régua aumentasse. Você só precisa fazer algo uma vez. Se fez aquele algo uma vez, sabe que consegue replicar o resultado, apenas precisa entender quais foram os [[estados emocionais]] que o levaram àquele resultado.
 5.  **Criação em sua mente da experiência que deseja no futuro, como se estivesse aqui e agora**
-	1. [[Tony Robbins]] chama isso de [[resultados experimentais antecipados]], algo que [[Dr. Joe Dispenza]] também fala muito sobre.      
+	1. [[Tony Robbins]] chama isso de [[resultados experimentais antecipados]], algo que [[Dr. Joe Dispenza]] também fala muito sobre.    
 
 **PENSADORES:**
 - [[Tony Robbins]]
@@ -28,6 +28,7 @@
 
 **FRASES:**
 - [[Albert Einstein]]: “Poucas pessoas são capazes de expressar com equanimidade opiniões que diferem dos preconceitos de seu ambiente social. A maioria das pessoas é até incapaz de formar tais opiniões.”
+- [[Tony Robbins]]: Algumas vezes, não é necessário ter uma tremenda crença ou atitude sobre alguma coisa, a fim de ter sucesso. Algumas vezes, as pessoas conseguem resultados de destaque simplesmente porque não sabiam que aquilo era difícil ou impossível. Algumas vezes não ter uma crença limitadora já é suficiente. 
 
 ---------
 

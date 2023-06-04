@@ -17,6 +17,7 @@
 
 **Oeste: similar**
 - [[Você não é só uma folha ao vento]]
+- [['A vida é como um rio']]
 
 **Leste: oposto**
 
