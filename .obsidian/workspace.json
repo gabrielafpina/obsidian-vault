@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Books/Poder Sem Limites.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -320,10 +320,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4c9e846e25df857",
+  "active": "fae9ea4ae4eb000e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/crenças.md",
     "Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/crenças.md",
     "Readwise/Books",
     "Readwise",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
