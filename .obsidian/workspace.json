@@ -4,45 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c4482ae89784ec",
-        "type": "tabs",
+        "id": "b43b4085f0434bfa",
+        "type": "split",
         "children": [
           {
-            "id": "5fb71ef040aa9132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
-                "mode": "source",
-                "source": false
+            "id": "fb669bee9d1b98a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fea5b4992c4d02b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Estocoma Psicológico.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "831c6f30b6da412e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-                "mode": "source",
-                "source": false
+            "id": "f0c4482ae89784ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5fb71ef040aa9132",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "831c6f30b6da412e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7be2150dc751db9b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f09331f7ca0ff0e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f4c9e846e25df857",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/crenças.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f757a100235869f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d3b82cac67125ccf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "f4c9e846e25df857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "b49ce8c8593713af",
+        "type": "tabs",
+        "children": [
           {
             "id": "f4d52b4de8b8c521",
             "type": "leaf",
@@ -54,50 +130,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f757a100235869f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b82cac67125ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fce0f94d935dcaec",
         "type": "tabs",
         "children": [
-          {
-            "id": "1fea5b4992c4d02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Estocoma Psicológico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "fae9ea4ae4eb000e",
             "type": "leaf",
@@ -110,8 +149,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -197,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                "file": "2. Literature Notes/Topics/Estocoma Psicológico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+                "file": "2. Literature Notes/Topics/Estocoma Psicológico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md"
+                "file": "2. Literature Notes/Topics/Estocoma Psicológico.md"
               }
             }
           },
@@ -274,12 +313,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,17 +339,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "831c6f30b6da412e",
+  "active": "78b72e51e4e168a6",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "POTENCIAL.pdf",
     "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
+    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
+    "POTENCIAL.pdf",
     "2. Literature Notes/Topics/Transferências.md",
     "2. Literature Notes/Topics/rumor.md",
     "2. Literature Notes/Topics/Ressignificação.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
-    "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "resultados experimentais antecipados.md",
     "De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
