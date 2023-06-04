@@ -24,4 +24,16 @@
 
 **EXERCÍCIOS:**
 - Para emagrecer, não importa o seu cronotipo: correr 30 minutos após acordar
-- Golfinhos performam melhor d
+- Golfinhos performam melhor de manhã
+
+**ÁLCOOL:**
+-  O ideal é parar de beber até 3h antes de dormir, porque isso permite que o seu corpo digira melhor o álcool e não tenha os efeitos ruins no seu corpo
+- Para golfinhos: o melhor horário para beber é entre 18:00-20:00
+- **Para evitar ressaca:** 
+	- Beber um copo d'água entre bebidas
+	- Beber uma água de côco antes de dormir
+	- Parar de beber 3h antes dormir
+	- Tomar magnésio e vitamina B de manhã
+
+**HORÁRIO DE DORMIR:**
+- Apesar de golfinhos terem a vontade de dormir mais, tendemos a dormir menos, entre 6 a 7h de sono e ta tudo bem.
