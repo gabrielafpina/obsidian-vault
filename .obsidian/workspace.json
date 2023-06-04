@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "1fea5b4992c4d02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af44fbb9e5b30475",
             "type": "leaf",
             "state": {
@@ -61,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,17 +66,27 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82f57eeb14aa6736",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
+      },
+      {
+        "id": "fce0f94d935dcaec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fea5b4992c4d02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md"
+              }
             }
           },
           {
@@ -274,10 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82f57eeb14aa6736",
+  "active": "77aa71c65ea30319",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Ressignificação.md",
     "Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Desidentificação.md",
@@ -303,7 +306,6 @@
     "Kindle Highlights/Books/Avalie O Que Importa.md",
     "Kindle Highlights/Books/How to Love Yourself.md",
     "Kindle Highlights/Books/Scrum.md",
-    "Kindle Highlights/Books/O Poder Da Ação.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",

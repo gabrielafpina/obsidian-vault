@@ -5,7 +5,7 @@
 **BIG IDEA:** Crenças são os comandos que damos para o nosso cérebro. Aquilo que acreditamos acaba se tornando realidade.
 
 **DEFINIÇÃO:**
-Uma crença é um comando que damos para nós mesmos. Quando acreditamos em algo com tanta força, aquilo passa a se tornar uma verdade. Consequentemente, passamos a representar aquela verdade internamente para nós (mesmo que não seja uma verdade)
+Uma crença é um comando que damos para nós mesmos. Quando acreditamos em algo com tanta força, aquilo passa a se tornar uma verdade. Consequentemente, passamos a representar aquela verdade internamente para nós (mesmo que não seja uma verdade) e os nossos resultados estão diretamente atrelados àquele pensamento, ou conjunto de pensamentos.
 
 **COMO:**
 
