@@ -104,13 +104,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. Literature Notes/Topics/Estocoma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f757a100235869f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -300,8 +313,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb71ef040aa9132",
+  "active": "f757a100235869f4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Estocoma.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Representação interna.md",
@@ -329,7 +343,6 @@
     "Kindle Highlights/Books/Inteligência Emocional.md",
     "Kindle Highlights/Books/Expert Secrets.md",
     "Kindle Highlights/Books/Clube Da Luta.md",
-    "Kindle Highlights/Books/Avalie O Que Importa.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
