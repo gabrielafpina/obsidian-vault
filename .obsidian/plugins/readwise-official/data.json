@@ -1,7 +1,7 @@
 {
   "token": "VSGGuWh7X7f5IQABY4ECHBfXbSvcIqmdQVt0JNApa0BMNaRo1j",
   "readwiseDir": "Readwise",
-  "frequency": "1440",
+  "frequency": "60",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
