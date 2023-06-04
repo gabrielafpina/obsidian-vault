@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 8984198,
+  "lastSavedStatusID": 8985612,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -43,7 +43,8 @@
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md": "28438935",
     "2. Literature Notes/Readwise/Books/Scrum.md": "28019531",
     "2. Literature Notes/Readwise/Books/Seja O Amor Da Sua Vida.md": "28019512",
-    "2. Literature Notes/Readwise/Books/O Poder Da Ação.md": "28019541"
+    "2. Literature Notes/Readwise/Books/O Poder Da Ação.md": "28019541",
+    "Readwise/Books/Poder Sem Limites.md": "28438935"
   },
   "reimportShowConfirmation": true
 }
