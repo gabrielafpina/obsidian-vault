@@ -37,3 +37,5 @@
 
 **HORÁRIO DE DORMIR:**
 - Apesar de golfinhos terem a vontade de dormir mais, tendemos a dormir menos, entre 6 a 7h de sono e ta tudo bem.
+- **Horário ideal para acordar:** 6:30
+- **Horário ideal para dormir:** 00:00
