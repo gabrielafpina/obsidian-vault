@@ -6,5 +6,21 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
+    }
+  ],
+  "readwise-official:readwise-official-sync": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
