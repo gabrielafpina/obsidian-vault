@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
+                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
+                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
+            "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
+            "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md"
+            "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md"
           }
         }
       }
@@ -194,12 +194,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45f8b235a7f50473",
+  "active": "b5c72553df9c3476",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Testes/DISC.md",
-    "2. Literature Notes/Topics/Sintaxe Mental.md",
+    "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
     "Kindle Highlights",
     "Kindle Highlights/Books/Poder Sem Limites.md",
+    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+    "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
+    "6. Shots, Images & PDFs/POTENCIAL.pdf",
+    "Kindle Highlights/Books",
+    "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
+    "4. Me, Myself and I/Testes/DISC.md",
+    "2. Literature Notes/Topics/Sintaxe Mental.md",
     "Kindle Highlights/Books/How to Love Yourself.md",
     "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
     "Kindle Highlights/Books/Clube Da Luta.md",
@@ -210,7 +217,6 @@
     "Kindle Highlights/Books/Scrum.md",
     "Kindle Highlights/Books/O Lado Difícil Das Situações Difíceis.md",
     "Kindle Highlights/Books/O Poder Da Ação.md",
-    "Kindle Highlights/Books",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/Ressignificação.md",
     "2. Literature Notes/Topics/Desidentificação.md",
@@ -220,10 +226,6 @@
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "Fisiologia.md",
     "Modismo.md",
-    "Como estudar de forma mais produtiva?.md",
-    "Como ter uma vida plena?.md",
-    "Mel Robbins.md",
-    "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "4. Me, Myself and I/Brainstorming",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
@@ -233,8 +235,6 @@
     "3. Distilled Notes",
     "4. Templates",
     "2. Literature Notes/Courses",
-    "2. Literature Notes/Books",
-    "2. Literature Notes/Topics",
-    "2. Literature Notes"
+    "2. Literature Notes/Books"
   ]
 }
