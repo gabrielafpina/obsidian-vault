@@ -90,9 +90,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82f57eeb14aa6736",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,9 +223,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,8 +286,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4811910ae203f60",
+  "active": "82f57eeb14aa6736",
   "lastOpenFiles": [
+    "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
+    "Kindle Highlights/Books/Inteligência Emocional.md",
+    "Kindle Highlights/Books/Expert Secrets.md",
+    "Kindle Highlights/Books/Clube Da Luta.md",
+    "Kindle Highlights/Books/Avalie O Que Importa.md",
+    "Kindle Highlights/Books/How to Love Yourself.md",
+    "Kindle Highlights/Books/Scrum.md",
+    "Kindle Highlights/Books/Poder Sem Limites.md",
+    "Kindle Highlights/Books/O Poder Da Ação.md",
+    "Kindle Highlights/Books/O Lado Difícil Das Situações Difíceis.md",
+    "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
+    "Kindle Highlights/Books",
+    "Kindle Highlights",
+    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
@@ -298,20 +316,8 @@
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/People/Albert Einstein.md",
     "5. Templates/Anotação Atômica X Template.md",
-    "2. Literature Notes/Topics/Untitled.md",
-    "2. Literature Notes/Topics/Obsessão sem autoconhecimento é caos..md",
-    "crença.md",
-    "4. Me, Myself and I/Testes/DISC.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
-    "2. Literature Notes/Topics/Zoom Lendário.md",
     "4. Me, Myself and I/Testes",
-    "4. Me, Myself and I/Testes.md",
-    "2. Literature Notes/Topics/Transferências.md",
-    "2. Literature Notes/Topics/Desidentificação.md",
-    "2. Literature Notes/Topics/Ressignificação.md",
-    "2. Literature Notes/Topics/rumor.md",
-    "2. Literature Notes/Readwise/Untitled.md",
-    "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",
     "2. Literature Notes/Readwise/Books",
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",
@@ -322,8 +328,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
-    "2. Literature Notes/Content",
-    "2. Literature Notes/Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
     "Captura de Tela 2023-05-27 às 13.53.12.png",

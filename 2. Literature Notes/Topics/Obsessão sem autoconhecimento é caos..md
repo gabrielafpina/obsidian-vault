@@ -39,6 +39,7 @@ Pra quem é obcecado: já se fudeu com isso? Vamos conversar nos comentários!
 
 **Leste: oposto**
 - Integração de práticas de [[Mindfulness]] e meditação
+- Obsessão burra - quando você não para e reflete sobre a jornada, quando não tira aprendizados e quando chega no objetivo final e viu que, na verdade, não queria aquilo
 
 **Norte: ideia/pergunta**
 - Entendimento do porquê
