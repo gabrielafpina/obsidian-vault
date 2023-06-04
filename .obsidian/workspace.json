@@ -104,19 +104,19 @@
             }
           },
           {
-            "id": "f8f066f2ec89c9fa",
+            "id": "f757a100235869f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. Joe Dispenza.md",
+                "file": "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "fce0f94d935dcaec",
@@ -135,7 +135,7 @@
             }
           },
           {
-            "id": "f757a100235869f4",
+            "id": "fae9ea4ae4eb000e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -234,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resultados experimentais antecipados.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resultados experimentais antecipados.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resultados experimentais antecipados.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -338,18 +337,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce503763c8199fb5",
+  "active": "fae9ea4ae4eb000e",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "resultados experimentais antecipados.md",
+    "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "De onde vem as nossas crenças?.md",
     "Dr. Joe Dispenza.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "resultados experimentais antecipados.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "2. Literature Notes/Topics/Representação interna.md",
-    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "2. Literature Notes/Topics/Ressignificação.md",
     "Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Desidentificação.md",
@@ -367,7 +367,6 @@
     "Readwise/Books/Avalie O Que Importa.md",
     "Readwise/Books/Scrum.md",
     "Readwise/Books/O Lado Difícil Das Situações Difíceis.md",
-    "Readwise/Books/O Poder Da Ação.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
