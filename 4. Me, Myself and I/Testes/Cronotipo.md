@@ -18,3 +18,10 @@
 1. Evita riscos
 2. Tendência a se fixar nos detalhes
 3. Perfeccionista
+
+**CAFEÍNA:**
+- Tomar café entre 08:30-10:00 e entre 13:00-14:00
+
+**EXERCÍCIOS:**
+- Para emagrecer, não importa o seu cronotipo: correr 30 minutos após acordar
+- Golfinhos performam melhor d
