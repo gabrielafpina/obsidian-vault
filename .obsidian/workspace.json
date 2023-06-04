@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "2332264810c551a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a31cfae82b3830ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d3b82cac67125ccf",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "fce0f94d935dcaec",
@@ -245,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md"
+                "file": "2. Literature Notes/Topics/crenças.md"
               }
             }
           },
@@ -349,19 +373,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f757a100235869f4",
+  "active": "5fb71ef040aa9132",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
-    "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
-    "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "6. Shots, Images & PDFs/POTENCIAL.pdf",
+    "2. Literature Notes/Topics/Trocar de pensamento é igual trocar de roupa. Se não gostou, troca.md",
+    "Representações internas.md",
+    "2. Literature Notes/Topics/estados emocionais.md",
+    "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+    "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
+    "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "De onde vem as nossas crenças?.md",
     "Dr. Joe Dispenza.md",
     "resultados experimentais antecipados.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/Ressignificação.md",
@@ -375,10 +403,6 @@
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "Readwise/Books/How to Love Yourself.md",
     "Readwise/Books/Seja O Amor Da Sua Vida.md",
-    "Readwise/Books/Clube Da Luta.md",
-    "Readwise/Books/Expert Secrets.md",
-    "Readwise/Books/Inteligência Emocional.md",
-    "Readwise/Books/Avalie O Que Importa.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
@@ -387,7 +411,6 @@
     "2. Literature Notes/Readwise",
     "4. Me, Myself and I/Brainstorming",
     "2. Literature Notes/Readwise/Books",
-    "2. Literature Notes/Readwise",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",

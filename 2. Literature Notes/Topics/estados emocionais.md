@@ -23,6 +23,7 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[De onde vem as nossas crenças?]]
 
 **Sul: para onde vai**
 - [[Como criar um estado emocional?]]
