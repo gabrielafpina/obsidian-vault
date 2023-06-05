@@ -244,6 +244,7 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Participar de eventos do mercado para fazer networking e tirar insights de inovações
 	- ==Estabelecer metas semanais e mensais para acompanhar o progresso em direção às suas metas de 1 ano==
 	- Praticar a gratidão diariamente, reconhecendo e valorizando as conquistas e aprendizados ao longo do caminho
+	- ==Erradicar crenças limitantes com relação ao dinheiro e esforço no trabalho da minha vida==
 
 **QUAIS SÃO OS MEUS VALORES?**
 1. Integridade
@@ -260,3 +261,5 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 
 **O QUE ME IMPEDE DE TER O QUE EU QUERO AGORA?**
 1. O fato de que eu começo uma coisa e depois ela para de me dar tesão, ai eu quero largar
+2. Crenças limitantes com relação ao dinheiro e minha capacidade de fazer dinheiro
+3. Autocobrança e necessidade de controlar tudo, o que faz com que eu sinta sintomas físicos no corpo
