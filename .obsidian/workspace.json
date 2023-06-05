@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2be5b9427a1a2e7e",
@@ -213,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Reels/História Abraham Lincoln.md",
+                "file": "7. Creator/Reels/A vida é como um rio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Reels/História Abraham Lincoln.md",
+                "file": "7. Creator/Reels/A vida é como um rio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Reels/História Abraham Lincoln.md"
+                "file": "7. Creator/Reels/A vida é como um rio.md"
               }
             }
           },
@@ -309,11 +308,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aaaada781a7ec427",
+  "active": "5fb71ef040aa9132",
   "lastOpenFiles": [
+    "7. Creator/Reels/História Abraham Lincoln.md",
     "5. Templates/Content Creation Template.md",
     "7. Creator/Reels/A vida é como um rio.md",
-    "7. Creator/Reels/História Abraham Lincoln.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
