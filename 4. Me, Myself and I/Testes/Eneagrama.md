@@ -1,0 +1,1 @@
+**RESULTADO TESTE:** Tipo 3

@@ -49,55 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "4. Me, Myself and I/Testes/Eneagrama.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2fae569d0c5a0715",
+            "id": "7458fbb2bbee16a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Testes/DISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd502085524f82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Templates/Content Creation Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaaada781a7ec427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Reels/História Abraham Lincoln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e1d606a8784b8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Templates/Template Resumo de Livro.md",
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "29e58e1de649e372",
@@ -248,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md"
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
               }
             }
           },
@@ -343,11 +307,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5e7d6bc75abf61e",
+  "active": "7458fbb2bbee16a5",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "4. Me, Myself and I/Testes/MBTI.md",
+    "4. Me, Myself and I/Testes/Eneagrama.md",
     "4. Me, Myself and I/Testes/DISC.md",
+    "4. Me, Myself and I/Testes/MBTI.md",
+    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "1. Daily Notes/2023/6. June/05-06-2023.md",
     "4. Me, Myself and I/Brainstorming/Público-Alvo.md",
@@ -380,7 +345,6 @@
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
     "2. Literature Notes/Topics/Transferências.md",
-    "2. Literature Notes/Topics/rumor.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
