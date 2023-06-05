@@ -11,3 +11,4 @@
 - Líderes naturais, cheios de paixão e carisma
 - Inspiração para outras pesssoas
 - Confiança natural que gera influência
+- Alegria em guiar os outros a trabalharem juntos para melhorar a si mesmos e sua comunidade
