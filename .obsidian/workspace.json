@@ -6,6 +6,7 @@
       {
         "id": "f0c4482ae89784ec",
         "type": "tabs",
+        "dimension": 85.49250535331906,
         "children": [
           {
             "id": "5fb71ef040aa9132",
@@ -26,6 +27,25 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2be5b9427a1a2e7e",
+        "type": "tabs",
+        "dimension": 14.507494646680943,
+        "children": [
+          {
+            "id": "c68e9f324d304c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -229,6 +250,8 @@
   },
   "active": "5fb71ef040aa9132",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Readwise/Books/Poder Sem Limites.md",
@@ -257,10 +280,8 @@
     "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/People/Dr. Joe Dispenza.md",
-    "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/Desidentificação.md",
-    "2. Literature Notes/Readwise/Books/O Poder Da Ação.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "4. Me, Myself and I/Testes",
     "2. Literature Notes/Readwise/Books",
