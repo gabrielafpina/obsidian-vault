@@ -80,6 +80,8 @@
 	- No fundo do coração, os Protagonistas querem testemunhar os efeitos positivos de seu trabalho – sentir e vivenciar a gratidão e o apreço das pessoas que ajudaram.
 - Deixar um legado positivo é uma prioridade fundamental
 - São geralmente simpáticos e bem-humorados – qualidades que podem impulsioná-los para o sucesso onde quer que tenham a chance de trabalhar com outras pessoas
+- Esses tipos tendem a ver cada membro de sua equipe como uma pessoa com dons importantes e potencial único. Como resultado, trabalhar para um Protagonista pode parecer significativo e estimulante – é uma chance de se desenvolver como pessoa e também como funcionário.
+	- Dito isso, o idealismo dos Protagonistas pode impedi-los de reconhecer as reais limitações de seus funcionários. Às vezes, os gerentes com esse tipo de personalidade podem dar aos membros da equipe atribuições para as quais eles simplesmente não estão preparados
 
 **PONTOS A DESENVOLVER:**
 - Flexibilidade
