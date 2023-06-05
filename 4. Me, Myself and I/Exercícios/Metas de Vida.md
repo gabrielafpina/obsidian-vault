@@ -143,6 +143,8 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Curiosidade
 	- Autenticidade
 	- Facilidade em direcionar pessoas
+	- Autoconfiança
+	- Atenção aos detalhes
 - **RECURSOS E FERRAMENTAS**
 	- Networking: Facilidade em fazer novas amizades
 	- Alto nível de organização
@@ -152,6 +154,7 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Técnica pomodoro para gestão do tempo
 	- Terapia semanal com Fátima
 	- Meditação
+	- Beleza exterior e interior
 	- Journaling para melhor compreensão de mim mesma, sentimentos e próximos passos
 - **USO DE RECURSOS COM MAIOR HABILIDADE**
 	- Vídeo Escola dos Deuses
@@ -162,15 +165,26 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 		- Conexão e empatia com seguidores
 		- Comunicação clara
 		- Capacidade de conexão de ideias
+		- Autoconfiança
 	- Vídeo Funil da Exaustão
 		- Curiosidade (3 primeiros segundos - título chamativo)
 		- Livro como referência
 		- Conexão e empatia com seguidores
 		- Comunicação clara
 		- Capacidade de conexão de ideias multidisciplinares
-		- Utilização de pesquisa
-		- Direcionamento d
+		- Utilização de pesquisa para basear o conteúdo
+		- Direcionamento sobre o que as pessoas devem fazer
+		- Autoconfiança
 	- Redação do Enem 2017
+		- Alto nível de estudo + disciplina
+		- Autoconfiança
+		- Resiliência
+		- Comunicação clara
 	- Evento GrowthDay 1
+		- Autoconfiança
+		- Comunicação clara
+		- Pioneirismo e ser a primeira em tudo
+		- Motivação interna para fazer acontecer
+		- Networking e conexão com outras pessoas
 	- Desafio Meditando com a Gabi
 	- Sábado com Henrique
