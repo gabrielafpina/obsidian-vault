@@ -236,7 +236,14 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Formação em coaching
 	- Journal todos os dias
 	- Tomar banho gelado, para me ajudar com a disciplina e mais disposição e energia
-	- 
+	- Estudar conteúdos da comunidade lendária
+	- Lançar a minha comunidade
+	- Estudar sobre biohacking e hackear o meu corpo
+	- Fazer meditação, afirmações e oração diariamente
+	- Ter momentos diários de conexão comigo mesma
+	- Participar de eventos do mercado para fazer networking e tirar insights de inovações
+	- ==Estabelecer metas semanais e mensais para acompanhar o progresso em direção às suas metas de 1 ano==
+	- Praticar a gratidão diariamente, reconhecendo e valorizando as conquistas e aprendizados ao longo do caminho
 
 **QUAIS SÃO OS MEUS VALORES?**
 1. Integridade
@@ -250,3 +257,6 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 9. Autonomia
 10. Clareza
 11. Autorresponsabilidade
+
+**O QUE ME IMPEDE DE TER O QUE EU QUERO AGORA?**
+1. O fato de que eu começo uma coisa e depois ela para de me dar tesão, ai eu quero largar
