@@ -1,4 +1,4 @@
-**RESULTADO TESTE:** Protagonista (ENFJ-A)
+**RESULTADO TESTE:** Protagonista Assertivo (ENFJ-A)
 
 **CARACTERÍSTICAS:**
 - 72% Extrovertida
@@ -25,6 +25,7 @@
 - Altruísmo - acreditam genuinamente que, se unirem as pessoas, poderão fazer um bem enorme
 - Carismáticos, determinados e inspiradores. Raramente perdem de vista seu objetivo principal: servir aos outros.
 - Extrema compaixão
+- Eperam que a tensão faça parte da vida e a veem como algo natural e algo a ser superado com entusiasmo. Eles podem até inspirar outras pessoas de todos os tipos de personalidade a se juntarem a eles em uma missão para reivindicar a vitória sobre tais dificuldades.
 
 **PONTOS FRACOS:**
 - Irrealista -vontade de resolver todos os problemas do mundo ao mesmo tempo
@@ -51,3 +52,11 @@
 - Dito isso, a maioria dos Protagonistas acha difícil respeitar quem pega atalhos, desrespeita os outros ou se recusa a desafiar o status quo. Em vez disso, eles acham mais fácil se conectar com pessoas que compartilham seus ideais fundamentais, particularmente seu compromisso de fazer a coisa certa e deixar o mundo melhor do que o encontraram.
 - Mantêm conexões calorosas, atenciosas e solidárias com muitas pessoas, mas tendem a se mostrar por completo – incluindo suas inseguranças – apenas para um círculo íntimo de amigos que conquistaram sua confiança.
 - Bons e confiáveis, as pessoas com esse tipo de personalidade dedicam uma quantidade incrível de energia e atenção às suas amizades. Eles querem que seus amigos se sintam não apenas validados, mas apoiados, não apenas ouvidos, mas compreendidos.
+- Nada deixa os Protagonistas mais felizes do que ver as pessoas de quem gostam se saindo bem, e poucas coisas podem impedi-los de tentar ajudar a fazer isso acontecer.
+- À medida que amadurecem, muitos Protagonistas aprendem a evitar levar para o lado pessoal o comportamento de seus amigos.
+
+**PATERNIDADE:**
+
+
+**PONTOS A DESENVOLVER:**
+- Flexibilidade
