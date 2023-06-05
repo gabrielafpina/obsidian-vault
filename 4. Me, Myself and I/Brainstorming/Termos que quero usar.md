@@ -16,5 +16,6 @@
 16. Energia
 17. Comprometimento
 18. Despertar
+19. criador ativo do seu próprio destino
 
 Pesquisar livros best-sellers atemporais
