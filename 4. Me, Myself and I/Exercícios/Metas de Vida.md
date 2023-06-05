@@ -119,4 +119,12 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	4. Só de pensar em ter a minha casa, sinto uma sensação de liberdade, conforto, meu peito fica leve e relaxado. É tudo que eu preciso. E eu já tenho isso.
 4. Evento presencial
 	1. É mais um marco pra mim. Eu quero que seja um momento de muita transformação. Eu ajudo muitas pessoas já, naturalmente, pela internet. Poder tocar neles, fazer a mudança até a tarde faz toda diferença eu quero muito sentir a energia que o evento presencial promove. Sei que o poder da transformação será 100 vezes maior.
-	2. O evento presencial vai ser tiro, porrada e bomba. As pessoas não sabem muito bem o que esperar e quando elas chegarem, serão completamente surpreendidas pelo que eu vou entregar. Elas entrarão como uma pessoa e sairão como outra. Vão ter a sensação de 'Como é que eu não conhecia essa mulher antes?'. Elas ficarão chocadas positivamente e muito impactadas por toda a energia que sentiram no dia do evento. Irão falar para todos os 
+	2. O evento presencial vai ser tiro, porrada e bomba. As pessoas não sabem muito bem o que esperar e quando elas chegarem, serão completamente surpreendidas pelo que eu vou entregar. Elas entrarão como uma pessoa e sairão como outra. Vão ter a sensação de 'Como é que eu não conhecia essa mulher antes?'. Elas ficarão chocadas positivamente e muito impactadas por toda a energia que sentiram no dia do evento. Irão falar para todos os conhecidos sobre o quanto foi transformador e o resultado orgânico da experiência será imensurável.
+	3. Energia é a palavra que as pessoas mais vão sentir. Ela começa na área do plexo solar e vai subindo para a área do cardíaco. Toda essa energia vai fazer com que essas pessoas se comprometam consigo mesmas e tomem as atitudes necessárias, ao final do evento, para mudarem de vida. Eu sou a pessoa que direciona, eles são as pessoas que fazem. Para ter uma vida de impacto, é necessário AGIR. E eles vão sentir que tem todo esse potencial que quer ser desperto dentro de si e vão entender que os únicos que podem fazer isso são eles. Muito mais do que apenas um evento presencial, esse dia será um marco na evolução dessas pessoas. 
+
+**RECURSOS QUE TENHO À MINHA DISPOSIÇÃO:**
+- **HABILIDADES**
+	- Alta capacidade de aprendizado
+- **RECURSOS**
+- **FERRAMENTAS**
+- **FORÇAS**

@@ -6,12 +6,15 @@
 6. Tesão
 7. Potencial
 8. Sangue nos olhos
-9. Ação / agirem
+9. Ação / agir
 10. Milagre
 11. Libertar potencial
 12. Atemporal
 13. Impacto
 14. Transformação
 15. Evolução
+16. Energia
+17. Comprometimento
+18. Despertar
 
 Pesquisar livros best-sellers atemporais
