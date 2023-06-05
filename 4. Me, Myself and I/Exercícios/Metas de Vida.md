@@ -142,6 +142,7 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Capacidade de conexão de ideias inter e multidisciplinares
 	- Curiosidade
 	- Autenticidade
+	- Facilidade em direcionar pessoas
 - **RECURSOS E FERRAMENTAS**
 	- Networking: Facilidade em fazer novas amizades
 	- Alto nível de organização
@@ -154,10 +155,21 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Journaling para melhor compreensão de mim mesma, sentimentos e próximos passos
 - **USO DE RECURSOS COM MAIOR HABILIDADE**
 	- Vídeo Escola dos Deuses
+		- Curiosidade (3 primeiros segundos - título chamativo)
 		- Alto nível de energia
 		- Autenticidade
 		- Livro como referência
+		- Conexão e empatia com seguidores
+		- Comunicação clara
+		- Capacidade de conexão de ideias
 	- Vídeo Funil da Exaustão
+		- Curiosidade (3 primeiros segundos - título chamativo)
+		- Livro como referência
+		- Conexão e empatia com seguidores
+		- Comunicação clara
+		- Capacidade de conexão de ideias multidisciplinares
+		- Utilização de pesquisa
+		- Direcionamento d
 	- Redação do Enem 2017
 	- Evento GrowthDay 1
 	- Desafio Meditando com a Gabi
