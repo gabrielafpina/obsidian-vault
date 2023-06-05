@@ -26,6 +26,8 @@
 - Carismáticos, determinados e inspiradores. Raramente perdem de vista seu objetivo principal: servir aos outros.
 - Extrema compaixão
 - Eperam que a tensão faça parte da vida e a veem como algo natural e algo a ser superado com entusiasmo. Eles podem até inspirar outras pessoas de todos os tipos de personalidade a se juntarem a eles em uma missão para reivindicar a vitória sobre tais dificuldades.
+- Se move com ousadia e independência
+- Inteligência emocional e altas habilidades sociais
 
 **PONTOS FRACOS:**
 - Irrealista -vontade de resolver todos os problemas do mundo ao mesmo tempo
@@ -56,6 +58,19 @@
 - À medida que amadurecem, muitos Protagonistas aprendem a evitar levar para o lado pessoal o comportamento de seus amigos.
 
 **PATERNIDADE:**
+- Como pais, eles são guiados por um profundo senso de propósito
+- Os pais com esse tipo de personalidade promovem a criatividade e a autenticidade, liberando seus filhos para falarem o que pensam e serem eles mesmos
+- Esses tipos geralmente estabelecem regras e limites claros e adequados à idade, para que seus filhos entendam as consequências do comportamento irresponsável ou cruel.
+- As personalidades Protagonistas ensinam pelo exemplo, modelando os tipos de comportamento que esperam que seus filhos imitem.
+- Os pais com esse tipo de personalidade têm altos padrões para seus filhos.
+	- Os Protagonistas podem precisar assegurar a seus filhos que são amados por quem são, não pelo que fazem.
+- Mesmo quando incentivam seus filhos a crescer, aprender e perseguir seus sonhos, os pais com esse tipo de personalidade podem oferecer um alicerce de apoio emocional que permanece com seus filhos por toda a vida.
+- À medida que amadurecem, os filhos dos Protagonistas raramente perdem de vista o carinho, o cuidado, o amor e o encorajamento genuínos que receberam de seus pais. Essas crianças tendem a crescer com um profundo apreço pelas lições que foram incorporadas ao seu caráter, incluindo honestidade, empatia, responsabilidade e a importância vital de fazer a coisa certa.
+
+**PLANOS DA CARREIRA:**
+- O que mais ama: ajudar pessoas
+- Com sua criatividade e motivação, eles podem encontrar maneiras de servir e elevar os outros em praticamente qualquer ambiente de trabalho
+- Tendem a se sentir especialmente motivados em posições nas quais podem orientar outras pessoas a aprender, crescer e se tornar mais independentes
 
 
 **PONTOS A DESENVOLVER:**
