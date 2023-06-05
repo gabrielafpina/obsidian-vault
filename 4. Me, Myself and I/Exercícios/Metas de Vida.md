@@ -231,6 +231,12 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Eu sou resiliente e vou até o fim naquilo que me comprometo, por isso, é importante refletir sobre o que estou me comprometendo e se faz sentido com os meus objetivos de vida
 	- Eu mereço ter uma vida plena e abundante em todas as áreas
 - **COMPORTAMENTOS**
+	- Finalizar curso de PNL
+	- Finalizar curso de Psicanálise
+	- Formação em coaching
+	- Journal todos os dias
+	- Tomar banho gelado, para me ajudar com a disciplina e mais disposição e energia
+	- 
 
 **QUAIS SÃO OS MEUS VALORES?**
 1. Integridade
