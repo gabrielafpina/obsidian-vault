@@ -184,7 +184,14 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 		- Autoconfiança
 		- Comunicação clara
 		- Pioneirismo e ser a primeira em tudo
-		- Motivação interna para fazer acontecer
+		- Motivação interna para fazer acontecer, dar o meu melhor e tirar o melhor do evento
 		- Networking e conexão com outras pessoas
+		- Influência
+		- Altos níveis de energia
 	- Desafio Meditando com a Gabi
-	- Sábado com Henrique
+		- Altos níveis de energia
+		- Autoconfiança
+		- Comunicação clara
+		- Motivação interna
+		- Impacto na vida das pessoas - conexão, empatia e influência
+		- Disciplina extrema
