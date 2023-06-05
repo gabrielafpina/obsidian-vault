@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "ed9e4f1cf8d75547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "efd502085524f82d",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2be5b9427a1a2e7e",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Cronotipo.md"
+                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
               }
             }
           },
@@ -321,8 +333,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15929850f188cbfb",
+  "active": "ed9e4f1cf8d75547",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/Cronotipo.md",
     "7. Creator/Reels/A vida é como um rio.md",
     "7. Creator/Reels/História Abraham Lincoln.md",
     "5. Templates/Content Creation Template.md",
@@ -344,7 +357,6 @@
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
-    "4. Me, Myself and I/Testes/Cronotipo.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/crenças.md",
