@@ -275,6 +275,12 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 
 **PESSOAS PARA MODELAR**
 1. Tony Robbins
+	1. Extrema disciplina
+	2. Curiosidade para descobrir novas formas de potencializar sua vida
+	3. Comunicador célebre
+	4. Energia contagiante
+	5. Altos níveis de empatia
+	6. Líder nato
 2. Brendon Burchard
 3. Joel Jota
 4. Teal Swan
