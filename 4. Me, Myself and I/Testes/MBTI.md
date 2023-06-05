@@ -1,0 +1,3 @@
+**RESULTADO TESTE:** Protagonista
+
+**CARACTERÍSTICAS:**
