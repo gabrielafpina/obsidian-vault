@@ -127,9 +127,19 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Alta capacidade de aprendizado
 	- Resiliência para suportar momentos dolorosos e persistir apesar da dor
 	- Comunicação clara (**ponto a ser mais desenvolvido**)
+	- Alta capacidade de liderança
+	- Altos níveis de empatia
 	- As pessoas se sentem facilmente conectadas a mim
 	- Alta capacidade de influência e persuasão
-	- Orientada para o suces
-- **RECURSOS**
-- **FERRAMENTAS**
-- **FORÇAS**
+	- Orientada para o sucesso
+	- Integridade e ética
+	- Necessidade de sempre se manter frente ao tempo - constantemente ligada em inovações, já que gosto de ser pioneira
+	- Disciplina extrema no que me proponho a fazer, aprender e estudar
+	- Motivação interna
+- **RECURSOS E FERRAMENTAS**
+	- Networking: Facilidade em fazer novas amizades
+	- Alto nível de organização
+	- Facilidade em usar plataformas de gestão e organização - ClickUp, Notion, Obsidian
+	- Leitura de livros, participação de cursos e comunidade(PNL, psicanálise, Mente Lendária)
+	- Vontade de fazer acontecer e paciência para ver o resultado chegar
+
