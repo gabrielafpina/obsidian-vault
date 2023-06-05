@@ -140,6 +140,8 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Motivação interna
 	- Alta capacidade de ação
 	- Capacidade de conexão de ideias inter e multidisciplinares
+	- Curiosidade
+	- Autenticidade
 - **RECURSOS E FERRAMENTAS**
 	- Networking: Facilidade em fazer novas amizades
 	- Alto nível de organização
@@ -152,4 +154,11 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Journaling para melhor compreensão de mim mesma, sentimentos e próximos passos
 - **USO DE RECURSOS COM MAIOR HABILIDADE**
 	- Vídeo Escola dos Deuses
-	- Vídeo Espiral 
+		- Alto nível de energia
+		- Autenticidade
+		- Livro como referência
+	- Vídeo Funil da Exaustão
+	- Redação do Enem 2017
+	- Evento GrowthDay 1
+	- Desafio Meditando com a Gabi
+	- Sábado com Henrique
