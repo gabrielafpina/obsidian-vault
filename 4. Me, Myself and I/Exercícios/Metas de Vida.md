@@ -138,6 +138,8 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Necessidade de sempre se manter frente ao tempo - constantemente ligada em inovações, já que gosto de ser pioneira
 	- Disciplina extrema no que me proponho a fazer, aprender e estudar
 	- Motivação interna
+	- Alta capacidade de ação
+	- Capacidade de conexão de ideias inter e multidisciplinares
 - **RECURSOS E FERRAMENTAS**
 	- Networking: Facilidade em fazer novas amizades
 	- Alto nível de organização
@@ -148,4 +150,6 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Terapia semanal com Fátima
 	- Meditação
 	- Journaling para melhor compreensão de mim mesma, sentimentos e próximos passos
-
+- **USO DE RECURSOS COM MAIOR HABILIDADE**
+	- Vídeo Escola dos Deuses
+	- Vídeo Espiral 
