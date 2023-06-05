@@ -20,4 +20,8 @@
 	- Referência em comunicação no Brasil
 **- Quais são as habilidades que eu preciso desenvolver para chegar no destino final?**
 	- Curso de coaching
+	- Comunicação não violenta
+	- PNL
+	- Psicanálise
+	- Biohacking
 **- Quais são os capítulos do meu livro?**

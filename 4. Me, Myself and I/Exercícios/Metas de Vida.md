@@ -123,8 +123,13 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	3. Energia é a palavra que as pessoas mais vão sentir. Ela começa na área do plexo solar e vai subindo para a área do cardíaco. Toda essa energia vai fazer com que essas pessoas se comprometam consigo mesmas e tomem as atitudes necessárias, ao final do evento, para mudarem de vida. Eu sou a pessoa que direciona, eles são as pessoas que fazem. Para ter uma vida de impacto, é necessário AGIR. E eles vão sentir que tem todo esse potencial que quer ser desperto dentro de si e vão entender que os únicos que podem fazer isso são eles. Muito mais do que apenas um evento presencial, esse dia será um marco na evolução dessas pessoas. 
 
 **RECURSOS QUE TENHO À MINHA DISPOSIÇÃO:**
-- **HABILIDADES**
+- **HABILIDADES E FORÇAS**
 	- Alta capacidade de aprendizado
+	- Resiliência para suportar momentos dolorosos e persistir apesar da dor
+	- Comunicação clara (**ponto a ser mais desenvolvido**)
+	- As pessoas se sentem facilmente conectadas a mim
+	- Alta capacidade de influência e persuasão
+	- Orientada para o suces
 - **RECURSOS**
 - **FERRAMENTAS**
 - **FORÇAS**
