@@ -71,7 +71,15 @@
 - O que mais ama: ajudar pessoas
 - Com sua criatividade e motivação, eles podem encontrar maneiras de servir e elevar os outros em praticamente qualquer ambiente de trabalho
 - Tendem a se sentir especialmente motivados em posições nas quais podem orientar outras pessoas a aprender, crescer e se tornar mais independentes
-
+- Muitas vezes se encontram em posições de influência.
+- Missão pessoal: melhorar a vida das pessoas
+- Captam intuitivamente as necessidades de seus clientes ou clientes e, em seguida, usam sua criatividade para atender a essas necessidades de maneiras inovadoras e inesperadas
+- Capazes de trazer sinceridade, integridade e até mesmo idealismo
+- O trabalho repetitivo, isolado ou restrito pode ser frustrante para eles
+- Querem ver o impacto que estão tendo, não para se dedicar às tarefas por conta própria.
+	- No fundo do coração, os Protagonistas querem testemunhar os efeitos positivos de seu trabalho – sentir e vivenciar a gratidão e o apreço das pessoas que ajudaram.
+- Deixar um legado positivo é uma prioridade fundamental
+- São geralmente simpáticos e bem-humorados – qualidades que podem impulsioná-los para o sucesso onde quer que tenham a chance de trabalhar com outras pessoas
 
 **PONTOS A DESENVOLVER:**
 - Flexibilidade
