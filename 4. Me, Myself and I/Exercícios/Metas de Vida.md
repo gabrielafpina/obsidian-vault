@@ -195,3 +195,13 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 		- Motivação interna
 		- Impacto na vida das pessoas - conexão, empatia e influência
 		- Disciplina extrema
+
+**QUEM TENHO QUE SER PARA ATINGIR MINHAS METAS?**
+- **HABILIDADES**
+	- Especialista em PNL
+	- Especialista em Comunicação
+	- Psicanalista
+	- Especialista em Biohacking
+	- Especialista em Marketing e Criação de Conteúdo
+- **CRENÇAS**
+- **COMPORTAMENTOS**
