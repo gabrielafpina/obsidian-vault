@@ -206,11 +206,21 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Desenvolvimento em inteligência artificial
 	- Especialista em produtividade e organização
 	- Desenvolvimento em testes de personalidade (DISC, Cronotipo, Eneagrama, MBTI)
-	- Especialista em autoconhecimento
+	- Especialista em autoconhecimento e espiritualidade
 		- Feridas emocionais
 		- Propósito
 		- Amor-próprio e autoconfiança
+		- Confiança no propósito divino
+		- Prosperidade financeira
 	- Especialista em relacionamentos amorosos
 		- Energias feminina e masculina
 - **CRENÇAS**
+	- Eu consigo alcançar tudo aquilo que me proponho estudar e desenvolver
+	- Eu confio que Deus tem todas as respostas e que eu serei guiada para alcançar todos os meus sonhos
+	- Eu sou responsável por tudo o que acontece em minha vida
+	- Se algo aconteceu em minha vida, era porque tinha que acontecer e eu precisava viver aquilo para tirar aprendizados da situação
+	- Existem apenas resultados na vida e se eu não estou tendo o resultado desejado, é importante olhar para a minha estratégia e alterá-la até que eu consiga o que quero - e eu vou conseguir, independente de quando seja
+	- Meu trabalho é parte da minha vida e o mais importante de tudo é que seja leve para que eu aproveite a jornada e desfrute muito quando chegar no meu objetivo
+	- Eu confio que sou capaz de alcançar todos os meus maiores sonhos. Se Deus colocou uma vontade e um desejo dentro de mim, é porque eu tenho total capacidade de viver aquilo
+	- Tudo que me acontece, seja gostoso ou do
 - **COMPORTAMENTOS**
