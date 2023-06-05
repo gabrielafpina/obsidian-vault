@@ -231,3 +231,16 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Eu sou resiliente e vou até o fim naquilo que me comprometo, por isso, é importante refletir sobre o que estou me comprometendo e se faz sentido com os meus objetivos de vida
 	- Eu mereço ter uma vida plena e abundante em todas as áreas
 - **COMPORTAMENTOS**
+
+**QUAIS SÃO OS MEUS VALORES?**
+1. Integridade
+2. Conexão com Deus
+3. Sabedoria
+4. Progresso
+5. Autenticidade
+6. Transparência radical
+7. Comprometimento
+8. Autoconfiança com humildade 
+9. Autonomia
+10. Clareza
+11. Autorresponsabilidade
