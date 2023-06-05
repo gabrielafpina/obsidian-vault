@@ -1,5 +1,7 @@
 **TYPE:** Reels
 
+**STATUS:** #gravar
+
 **CONNECTED TO:** [['A vida é como um rio']]
 
 **IDEA**: 

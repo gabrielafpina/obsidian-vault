@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Reels/História Abraham Lincoln.md",
+                "file": "7. Creator/Reels/A vida é como um rio.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,6 +27,18 @@
               "type": "markdown",
               "state": {
                 "file": "5. Templates/Content Creation Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaaada781a7ec427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Reels/História Abraham Lincoln.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2be5b9427a1a2e7e",
@@ -296,14 +309,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb71ef040aa9132",
+  "active": "aaaada781a7ec427",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
-    "7. Creator/Reels/História Abraham Lincoln.md",
+    "5. Templates/Content Creation Template.md",
     "7. Creator/Reels/A vida é como um rio.md",
+    "7. Creator/Reels/História Abraham Lincoln.md",
+    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
-    "5. Templates/Content Creation Template.md",
     "5. Templates/Brainstorming Checklist Output Template.md",
     "5. Templates/Template Resumo de Livro.md",
     "5. Templates/Podcasts e Aulas.md",
