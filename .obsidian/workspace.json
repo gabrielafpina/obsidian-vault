@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "831c6f30b6da412e",
+            "id": "0ed4e9e42ba64f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ed4e9e42ba64f4d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md"
+              }
             }
           },
           {
@@ -232,13 +227,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ed4e9e42ba64f4d",
+  "active": "5fb71ef040aa9132",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "Readwise/Books/Poder Sem Limites.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
-    "Readwise/Books/Poder Sem Limites.md",
     "4. Me, Myself and I/Testes/Cronotipo.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
