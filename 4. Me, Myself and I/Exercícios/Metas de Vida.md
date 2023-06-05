@@ -203,5 +203,14 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Psicanalista
 	- Especialista em Biohacking
 	- Especialista em Marketing e Criação de Conteúdo
+	- Desenvolvimento em inteligência artificial
+	- Especialista em produtividade e organização
+	- Desenvolvimento em testes de personalidade (DISC, Cronotipo, Eneagrama, MBTI)
+	- Especialista em autoconhecimento
+		- Feridas emocionais
+		- Propósito
+		- Amor-próprio e autoconfiança
+	- Especialista em relacionamentos amorosos
+		- Energias feminina e masculina
 - **CRENÇAS**
 - **COMPORTAMENTOS**
