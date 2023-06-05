@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed4e9e42ba64f4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,8 +232,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "831c6f30b6da412e",
+  "active": "0ed4e9e42ba64f4d",
   "lastOpenFiles": [
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
@@ -237,7 +242,6 @@
     "4. Me, Myself and I/Testes/Cronotipo.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/crenças.md",
     "Readwise/Books",
     "Readwise",
