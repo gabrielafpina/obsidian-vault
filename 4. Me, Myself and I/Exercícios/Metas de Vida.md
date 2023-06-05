@@ -262,4 +262,4 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 **O QUE ME IMPEDE DE TER O QUE EU QUERO AGORA?**
 1. O fato de que eu começo uma coisa e depois ela para de me dar tesão, ai eu quero largar
 2. Crenças limitantes com relação ao dinheiro e minha capacidade de fazer dinheiro
-3. Autocobrança e necessidade de controlar tudo, o que faz com que eu sinta sintomas físicos no corpo
+3. Autocobrança e necessidade de controlar tudo, o que faz com que eu sinta sintomas físicos no corpo e muita ansiedade

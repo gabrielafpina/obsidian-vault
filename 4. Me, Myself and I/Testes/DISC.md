@@ -1,4 +1,4 @@
-**RESULTADO TESTE:** Dominância.
+**RESULTADO TESTE:** Dominância (45%) e Influência (32,5%).
 
 Esta dimensão enfatiza a possibilidade de moldar o ambiente, superando oposições para alcançar resultados.  
   
