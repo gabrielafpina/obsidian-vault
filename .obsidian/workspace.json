@@ -163,6 +163,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
+        "dimension": 81.06060606060606,
         "children": [
           {
             "id": "78b72e51e4e168a6",
@@ -177,6 +178,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
+        "dimension": 18.939393939393938,
         "children": [
           {
             "id": "2496bad57a073913",
@@ -277,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,7 +301,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed9e4f1cf8d75547",
+  "active": "78b72e51e4e168a6",
   "lastOpenFiles": [
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
     "1. Daily Notes/2023/6. June/05-06-2023.md",
