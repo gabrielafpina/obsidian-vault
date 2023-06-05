@@ -263,3 +263,6 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 1. O fato de que eu começo uma coisa e depois ela para de me dar tesão, ai eu quero largar
 2. Crenças limitantes com relação ao dinheiro e minha capacidade de fazer dinheiro
 3. Autocobrança e necessidade de controlar tudo, o que faz com que eu sinta sintomas físicos no corpo e muita ansiedade
+4. Dificuldade em delegar tarefas e alta centralização, porque tenho dificuldade em confiar que as pessoas possam fazer um trabalho tão bom quanto o meu
+5. Impulsividade. às vezes, começo a agir e depois percebo que não tive tempo de reflexão e agi errado, o que me faz sentir culpada, porque vou ter que quebrar o meu compromisso
+6. É apenas uma questão de continuar fazendo o que eu quero sem, necessariamente, querer ficar controlando tudo o tempo inteiro. Entender que tudo tem o seu tempo de gestação e que eu vou, sim, conseguir tudo que eu quero ao longo do tempo
