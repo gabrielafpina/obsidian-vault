@@ -222,5 +222,12 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Existem apenas resultados na vida e se eu não estou tendo o resultado desejado, é importante olhar para a minha estratégia e alterá-la até que eu consiga o que quero - e eu vou conseguir, independente de quando seja
 	- Meu trabalho é parte da minha vida e o mais importante de tudo é que seja leve para que eu aproveite a jornada e desfrute muito quando chegar no meu objetivo
 	- Eu confio que sou capaz de alcançar todos os meus maiores sonhos. Se Deus colocou uma vontade e um desejo dentro de mim, é porque eu tenho total capacidade de viver aquilo
-	- Tudo que me acontece, seja gostoso ou do
+	- Tudo que me acontece, seja gostoso ou doloroso, eu tenho capacidade de lidar. Deus nos capacita com desafios proporcionais ao nosso potencial de superação.
+	- Dentro de mim, eu tenho tudo que eu preciso para alcançar o sucesso, basta apenas despertar o meu potencial
+	- Eu sou grata por tudo que já aconteceu na minha vida
+	- Eu sou uma pessoa criativa e inovadora, capaz de encontrar soluções para qualquer problema.
+	- Independente do momento de vida que eu esteja passando, eu priorizo a minha saúde e o bem-estar em todas as áreas da minha vida
+	- Eu sou acredito no poder da gratidão e da positividade para transformar a minha vida.
+	- Eu sou resiliente e vou até o fim naquilo que me comprometo, por isso, é importante refletir sobre o que estou me comprometendo e se faz sentido com os meus objetivos de vida
+	- Eu mereço ter uma vida plena e abundante em todas as áreas
 - **COMPORTAMENTOS**
