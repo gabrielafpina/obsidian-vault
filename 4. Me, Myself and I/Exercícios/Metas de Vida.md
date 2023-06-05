@@ -266,3 +266,15 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 4. Dificuldade em delegar tarefas e alta centralização, porque tenho dificuldade em confiar que as pessoas possam fazer um trabalho tão bom quanto o meu
 5. Impulsividade. às vezes, começo a agir e depois percebo que não tive tempo de reflexão e agi errado, o que me faz sentir culpada, porque vou ter que quebrar o meu compromisso
 6. É apenas uma questão de continuar fazendo o que eu quero sem, necessariamente, querer ficar controlando tudo o tempo inteiro. Entender que tudo tem o seu tempo de gestação e que eu vou, sim, conseguir tudo que eu quero ao longo do tempo
+
+**ESBOÇO DE COMO REALIZAR** #build 
+1. Viagem internacional
+2. Comunidade com 1000 alunos
+3. Evento presencial
+4. Me mudar
+
+**PESSOAS PARA MODELAR**
+1. Tony Robbins
+2. Brendon Burchard
+3. Joel Jota
+4. Teal Swan
