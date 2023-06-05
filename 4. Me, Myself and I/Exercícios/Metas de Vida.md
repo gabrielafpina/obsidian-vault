@@ -125,6 +125,8 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 **RECURSOS QUE TENHO À MINHA DISPOSIÇÃO:**
 - **HABILIDADES E FORÇAS**
 	- Alta capacidade de aprendizado
+	- Adaptabilidade
+	- Criatividade
 	- Resiliência para suportar momentos dolorosos e persistir apesar da dor
 	- Comunicação clara (**ponto a ser mais desenvolvido**)
 	- Alta capacidade de liderança
@@ -140,6 +142,10 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Networking: Facilidade em fazer novas amizades
 	- Alto nível de organização
 	- Facilidade em usar plataformas de gestão e organização - ClickUp, Notion, Obsidian
-	- Leitura de livros, participação de cursos e comunidade(PNL, psicanálise, Mente Lendária)
+	- Leitura de livros, participação de cursos e comunidade(PNL, psicanálise, Mente Lendária), podcasts e vídeos no Youtube
 	- Vontade de fazer acontecer e paciência para ver o resultado chegar
+	- Técnica pomodoro para gestão do tempo
+	- Terapia semanal com Fátima
+	- Meditação
+	- Journaling para melhor compreensão de mim mesma, sentimentos e próximos passos
 
