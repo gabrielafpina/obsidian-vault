@@ -297,7 +297,7 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	8. Ideias disruptivas e contraintuitivas
 
 **COMO SERIA O MEU DIA PERFEITO?**
-- **DIA DA SEMANA**
+- **DIA DA SEMANA DE TRABALHO/NA CIDADE**
 	- 6h: Acordar
 	- Tomar meus suplementos
 	- Fazer minha rotina ayurvédica e tomar banho
@@ -320,14 +320,33 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- 20h: leitura de livro
 	- 21h: journaling
 	- 22h: dormir
-- **FINAL DE SEMANA**
+- **FINAL DE SEMANA 1**
 	- 7h30: acordar
 	- Tomar meus suplementos
 	- Fazer minha rotina ayurvédica e tomar banho
 	- Meditação
 	- Comer algo leve
 	- 8h30: me exercitar (academia, ou aeróbico na praia)
-	- 10h: praia
+	- 9h40: tomar banho gelado
+	- 10h: café da manhã
+	- 10h30: passear com a Bella
+	- 11h: praia
+	- 15h: almoço
+	- 15h40: leitura de livro
+	- 17h: ver amigas
+- **FINAL DE SEMANA 2**
+	- 7h00: acordar
+	- Tomar meus suplementos
+	- Fazer minha rotina ayurvédica e tomar banho
+	- Meditação
+	- Comer algo leve
+	- 8h: me exercitar (academia, ou aeróbico na praia)
+	- 9h20: tomar banho gelado
+	- 9h40: tomar café da manhã
+	- 10h: estudar
 	- 13h: almoço
+	- 14h: leitura de um livro
+	- 15h: Resumo do livro
+	- 16h30: 
 
 **COMO SERIA O MEU AMBIENTE PERFEITO?**
