@@ -304,17 +304,30 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- Meditação
 	- Comer algo leve
 	- 7h: ir para a academia me exercitar
-	- 8h10: tomar banho gelado
-	- 8h40: tomar café da manhã
-	- 9h: leitura de um livro
+	- 8h10: leitura de um livro + cardio na bike
+	- 9h10: tomar banho gelado
+	- 9h40: tomar café da manhã
 	- 10h: escrever sobre o livro que estou lendo
-	- 11h: ver redes sociais e criar conteúdo
+	- 11h: responder meus alunos e criar conteúdo
 	- 12h: almoço
+	- 12h30: pegar sol
 	- 13h: estudar
 	- 15h: passear com a Bella
-	- 15h30: lanche da tarde
-	- 16h: mentoria 
-	- 17h
+	- 15h30: lanche da tarde + rapé
+	- 16h: mentoria/gravar vídeo para a comunidade 
+	- 18h: estudar
+	- 19h30: janta
+	- 20h: leitura de livro
+	- 21h: journaling
+	- 22h: dormir
 - **FINAL DE SEMANA**
+	- 7h30: acordar
+	- Tomar meus suplementos
+	- Fazer minha rotina ayurvédica e tomar banho
+	- Meditação
+	- Comer algo leve
+	- 8h30: me exercitar (academia, ou aeróbico na praia)
+	- 10h: praia
+	- 13h: almoço
 
 **COMO SERIA O MEU AMBIENTE PERFEITO?**
