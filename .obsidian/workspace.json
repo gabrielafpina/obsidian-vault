@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "5cff3f0feab4dfc4",
+            "id": "416b3ed275f84707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fc66a17aec8fb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "2. Literature Notes/Topics/Mandala do Ser.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +52,25 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "f4acea79f84f6234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cff3f0feab4dfc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
+                "file": "2. Literature Notes/Topics/Mandala do Ser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
+                "file": "2. Literature Notes/Topics/Mandala do Ser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md"
+                "file": "2. Literature Notes/Topics/Mandala do Ser.md"
               }
             }
           },
@@ -262,10 +268,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eca29516a2cdf0d1",
+  "floating": {
+    "id": "0e95516ac78df13e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5049a6d7b6759fdd",
+        "type": "window",
+        "children": [
+          {
+            "id": "18fbd36b9a5eefff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fc66a17aec8fb07",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/PNL.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -9,
+        "y": 25,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "416b3ed275f84707",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/Mandala do Ser.md",
+    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "4. Me, Myself and I/Testes/MBTI.md",
@@ -293,7 +337,6 @@
     "5. Templates/Content Creation Template.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
-    "5. Templates/Brainstorming Checklist Output Template.md",
     "7. Creator/Reels",
     "7. Creator",
     "6. Shots, Images & PDFs/7.",
