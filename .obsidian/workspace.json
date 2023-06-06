@@ -68,6 +68,14 @@
             }
           },
           {
+            "id": "8f4dbc42f71fb587",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e7db59d5920e8c6f",
             "type": "leaf",
             "state": {
@@ -104,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +251,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Metas de Vida.md"
-              }
+              "state": {}
             }
           },
           {
@@ -301,10 +305,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7458fbb2bbee16a5",
+  "active": "8f4dbc42f71fb587",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
+    "Kindle Highlights/Books/Poder Sem Limites.md",
+    "Nos momentos difíceis, todos se viram pra Deus.md",
+    "Kindle Highlights/Books",
+    "Kindle Highlights",
     "4. Me, Myself and I/Exercícios/Metas de Vida.md",
+    "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "4. Me, Myself and I/Testes/Eneagrama.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "4. Me, Myself and I/Testes/MBTI.md",
@@ -330,14 +338,10 @@
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Readwise/Books/Poder Sem Limites.md",
-    "Kindle Highlights/Books/Poder Sem Limites.md",
-    "Kindle Highlights/Books",
-    "Kindle Highlights",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/crenças.md",
     "Readwise/Books",
     "Readwise",
-    "2. Literature Notes/Topics/Estocoma Psicológico.md",
     "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
