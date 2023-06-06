@@ -4,7 +4,18 @@
 
 **BIG IDEA:** É nos momentos de maior dor na vida que todas as pessoas se viram para Deus, buscando consolo e conforto.
 
-**PORQUÊ FAZEMOS I:**
+**PORQUÊ FAZEMOS ISSO:**
+A busca humana por Deus, especialmente em tempos de crise, pode ser atribuída a vários aspectos da nossa natureza e experiência humana. [[necessidades emocionais]]
+
+1. **Necessidade de Significado**: Como seres humanos, temos uma necessidade inerente de encontrar significado e propósito na vida. Quando enfrentamos dificuldades, é natural procurar respostas e compreensão para dar sentido ao que estamos passando. A fé em Deus pode oferecer um senso de propósito e um enquadramento para interpretar e lidar com as dificuldades da vida.
+    
+2. **Medo do Desconhecido**: O medo do desconhecido é uma característica humana fundamental. Nos momentos de crise, enfrentamos a incerteza, o desconhecido e, muitas vezes, o medo da morte. A crença em Deus pode trazer conforto e alívio desses medos, proporcionando esperança na existência de um poder superior que está no controle.
+    
+3. **Necessidade de Conforto e Esperança**: A dor, o sofrimento e a adversidade são partes inevitáveis da experiência humana. Em tais momentos, a crença em Deus pode proporcionar conforto, paz e esperança. A fé pode nos ajudar a acreditar que há um propósito maior para nosso sofrimento e que tempos melhores virão.
+    
+4. **Anseio pela Justiça**: Em tempos de crise, especialmente quando enfrentamos a injustiça, podemos nos sentir impotentes. A crença em Deus e no conceito de justiça divina pode nos dar a esperança de que, no final, a justiça prevalecerá.
+    
+5. **Consciência da nossa Mortalidade**: A consciência da nossa mortalidade e a inevitabilidade da morte pode nos fazer buscar Deus. A crença em Deus oferece uma resposta à nossa mortalidade, prometendo a vida após a morte.
 
 **PENSADORES:**
 1. **Søren Kierkegaard** - Kierkegaard, o pai do existencialismo, explorou profundamente a relação entre fé e desespero. Em suas obras, ele falou da angústia humana como um caminho para a fé, argumentando que é somente através de crises pessoais profundas que uma pessoa pode verdadeiramente experimentar a presença de Deus. Ele sugere que o ciclo de esquecer e lembrar Deus é uma parte natural da condição humana, uma vez que somos constantemente confrontados com a angústia de nossa própria mortalidade.
