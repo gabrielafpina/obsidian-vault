@@ -18,5 +18,6 @@
 18. Despertar
 19. criador ativo do seu próprio destino
 20. Dominando o caos (já existe)
+21. força e resiliência [[Nos momentos difíceis, todos se viram pra Deus]]
 
 Pesquisar livros best-sellers atemporais

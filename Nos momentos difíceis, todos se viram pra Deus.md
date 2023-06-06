@@ -36,9 +36,20 @@
 ---------
 
 **Oeste: similar**
+- Busca por significado e propósito na vida - filosofia e psicologia existencial
+- [[Psicologia Positiva]]
 
 **Leste: oposto**
+- A ideia de que a resolução de problemas deve ser exclusivamente racional e baseada em evidências
+- Pode não contemplar outras crenças e visões de mundo
+- Como a espiritualidade pode ser uma fonte de força e resiliência em momentos difíceis, independentemente da religião ou crença específica
 
 **Norte: ideia/pergunta**
+- Necessidade humana de encontrar conforto e esperança em momentos de crise
+- Deus é um ser superior que pode ajudar a superar as dificuldades da vida
+- Busca por um sentido ou propósito em meio ao caos e à adversidade.
 
 **Sul: para onde vai**
+- Importância da espiritualidade e da conexão com algo maior em nossas vidas
+- Relação entre profundos níveis de conexão espiritual e saúde mental, propósito
+- A importância da comunidade e do apoio emocional em momentos difíceis, a busca por significado e propósito na vida, e a importância da resiliência e da esperança em tempos de crise
