@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "f4acea79f84f6234",
@@ -276,7 +276,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +292,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,9 +313,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -372,10 +368,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cff3f0feab4dfc4",
+  "active": "a1b4cfe521dd5a14",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/PNL.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "2. Literature Notes/Topics/Como aprendemos novas habilidades?.md",
