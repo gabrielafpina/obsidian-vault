@@ -284,6 +284,7 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	7. Networking pesado
 	8. Liberdade emocional, geográfica e financeira
 	9. Alta capacidade de influenciar pessoas
+	10. Ideias disruptivas e contraintuitivas
 2. [[Brendon Burchard]]
 3. [[Teal Swan]]
 	1. Conexão espiritual muito profunda
@@ -293,3 +294,27 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	5. Comunicadora célebre
 	6. Altos níveis de empatia
 	7. Líder nata
+	8. Ideias disruptivas e contraintuitivas
+
+**COMO SERIA O MEU DIA PERFEITO?**
+- **DIA DA SEMANA**
+	- 6h: Acordar
+	- Tomar meus suplementos
+	- Fazer minha rotina ayurvédica e tomar banho
+	- Meditação
+	- Comer algo leve
+	- 7h: ir para a academia me exercitar
+	- 8h10: tomar banho gelado
+	- 8h40: tomar café da manhã
+	- 9h: leitura de um livro
+	- 10h: escrever sobre o livro que estou lendo
+	- 11h: ver redes sociais e criar conteúdo
+	- 12h: almoço
+	- 13h: estudar
+	- 15h: passear com a Bella
+	- 15h30: lanche da tarde
+	- 16h: mentoria 
+	- 17h
+- **FINAL DE SEMANA**
+
+**COMO SERIA O MEU AMBIENTE PERFEITO?**
