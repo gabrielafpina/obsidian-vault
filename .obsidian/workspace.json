@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "80b90ca403cd31f1",
+            "id": "eca29516a2cdf0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,42 +37,6 @@
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "31e1e23e1020f48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7db59d5920e8c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8e8ffc74026f324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Exercícios/Book to Brand.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -117,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a vida é como ",
+                "query": "estados",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md"
+                "file": "2. Literature Notes/Topics/estados emocionais.md"
               }
             }
           },
@@ -286,8 +251,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b90ca403cd31f1",
+  "active": "eca29516a2cdf0d1",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/MBTI.md",
     "Nos momentos difíceis, todos se viram pra Deus.md",
     "Jean-Paul Sartre.md",
     "2. Literature Notes/People/Friedrich Nietzsche.md",
@@ -305,7 +271,6 @@
     "Kindle Highlights",
     "4. Me, Myself and I/Exercícios/Mentores de Modelagem.md",
     "4. Me, Myself and I/Testes/DISC.md",
-    "4. Me, Myself and I/Testes/MBTI.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "1. Daily Notes/2023/6. June/05-06-2023.md",
     "1. Daily Notes/2023/6. June",
