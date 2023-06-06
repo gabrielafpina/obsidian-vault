@@ -5,6 +5,7 @@
 **BIG IDEA:** Aprender a alterar estados emocionais é a chave para promover mudanças na vida e conseguir excelência no que faz.
 
 **DEFINIÇÃO:**
+- [[Sam Jolen]]: Um estado emocional é o conjunto de sensações físicas - e essas sensações são únicas para cada pessoa.
 - [[Tony Robbins]] em [[Poder Sem Limites]]: Um estado pode ser definido como a soma de milhões de processos neurológicos acontecendo dentro de nós. Em outras palavras, a soma total de nossa experiência a qualquer tempo, em qualquer momento.
 [[Representação interna]] + [[Fisiologia]] -> Estados emocionais -> Comportamento ->  resultados
 	- Quando aprendemos a mudar as representações internas e a nossa fisiologia, mudamos os resultados que temos na nossa vida.
