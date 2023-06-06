@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "183d86a51c91e599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a6756f1048ec4e4",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f4acea79f84f6234",
@@ -264,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md"
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md"
               }
             }
           },
@@ -388,18 +400,19 @@
           }
         ],
         "direction": "vertical",
-        "x": -9,
-        "y": 25,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
+        "x": 1721,
+        "y": 82,
+        "width": 1442,
+        "height": 875,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1fc66a17aec8fb07",
+  "active": "183d86a51c91e599",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/Como aprendemos novas habilidades?.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
     "Melhor Opção Disponível (MOD).md",
@@ -410,7 +423,6 @@
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Mandala do Ser.md",
     "Como se manter no presente?.md",
-    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "4. Me, Myself and I/Testes/MBTI.md",
