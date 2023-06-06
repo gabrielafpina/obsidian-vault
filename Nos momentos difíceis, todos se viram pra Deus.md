@@ -43,6 +43,8 @@
 - A ideia de que a resolução de problemas deve ser exclusivamente racional e baseada em evidências
 - Pode não contemplar outras crenças e visões de mundo
 - Como a espiritualidade pode ser uma fonte de força e resiliência em momentos difíceis, independentemente da religião ou crença específica
+- [[Friedrich Nietzsche]]: argumenta que a religião é uma forma de escapismo, uma maneira de evitar a realidade da vida. Ele sugere que a religião é uma forma de negar a responsabilidade pessoal e a liberdade individual, e que a verdadeira coragem é enfrentar a vida sem a ajuda de Deus. (contraponto: não estamos falando de religião)
+- [[Jean-Paul Sartre]]: argumenta que a vida não tem um propósito ou significado inerente, e que é responsabilidade de cada indivíduo criar seu próprio significado. Ele sugere que a religião é uma forma de evitar a responsabilidade pessoal e a liberdade individual, e que a verdadeira liberdade só pode ser alcançada quando se assume a responsabilidade por suas próprias escolhas e ações.
 
 **Norte: ideia/pergunta**
 - Necessidade humana de encontrar conforto e esperança em momentos de crise
