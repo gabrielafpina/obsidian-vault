@@ -17,5 +17,6 @@
 17. Comprometimento
 18. Despertar
 19. criador ativo do seu próprio destino
+20. Dominando o caos (já existe)
 
 Pesquisar livros best-sellers atemporais
