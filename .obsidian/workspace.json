@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +263,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md"
-              }
+              "state": {}
             }
           },
           {
@@ -299,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,8 +318,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3cca3b7185af99ba",
+  "active": "8f4dbc42f71fb587",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "4. Me, Myself and I/Brainstorming/Público-Alvo.md",
     "Kindle Highlights/Books/Poder Sem Limites.md",
     "Nos momentos difíceis, todos se viram pra Deus.md",
@@ -343,7 +341,6 @@
     "5. Templates/Content Creation Template.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
-    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "5. Templates/Brainstorming Checklist Output Template.md",
     "5. Templates/Template Resumo de Livro.md",
     "5. Templates/Podcasts e Aulas.md",
