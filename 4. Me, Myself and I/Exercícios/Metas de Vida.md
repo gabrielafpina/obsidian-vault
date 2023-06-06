@@ -274,13 +274,22 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 4. Me mudar
 
 **PESSOAS PARA MODELAR**
-1. Tony Robbins
+1. [[Tony Robbins]]
 	1. Extrema disciplina
 	2. Curiosidade para descobrir novas formas de potencializar sua vida
 	3. Comunicador célebre
 	4. Energia contagiante
 	5. Altos níveis de empatia
 	6. Líder nato
-2. Brendon Burchard
-3. Joel Jota
-4. Teal Swan
+	7. Networking pesado
+	8. Liberdade emocional, geográfica e financeira
+	9. Alta capacidade de influenciar pessoas
+2. [[Brendon Burchard]]
+3. [[Teal Swan]]
+	1. Conexão espiritual muito profunda
+	2. Relacionamentos saudáveis
+	3. Liberdade emocional, geográfica e financeira
+	4. Alta capacidade de influenciar pessoas
+	5. Comunicadora célebre
+	6. Altos níveis de empatia
+	7. Líder nata
