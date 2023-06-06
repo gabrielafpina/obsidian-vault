@@ -4,7 +4,7 @@
 
 **BIG IDEA:** É nos momentos de maior dor na vida que todas as pessoas se viram para Deus, buscando consolo e conforto.
 
-**DEFINIÇÃO:**
+**PORQUÊ FAZEMOS I:**
 
 **PENSADORES:**
 1. **Søren Kierkegaard** - Kierkegaard, o pai do existencialismo, explorou profundamente a relação entre fé e desespero. Em suas obras, ele falou da angústia humana como um caminho para a fé, argumentando que é somente através de crises pessoais profundas que uma pessoa pode verdadeiramente experimentar a presença de Deus. Ele sugere que o ciclo de esquecer e lembrar Deus é uma parte natural da condição humana, uma vez que somos constantemente confrontados com a angústia de nossa própria mortalidade.
