@@ -333,7 +333,9 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- 11h: praia
 	- 15h: almoço
 	- 15h40: leitura de livro
-	- 17h: ver amigas
+	- 17h: ver amigas/ver filme sozinha
+	- 21h30: journal
+	- 22h: ir dormir
 - **FINAL DE SEMANA 2**
 	- 7h00: acordar
 	- Tomar meus suplementos
@@ -347,6 +349,17 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- 13h: almoço
 	- 14h: leitura de um livro
 	- 15h: Resumo do livro
-	- 16h30: 
+	- 16h30: passear com a Bella
+	- 17h: ver amigas/ver filme sozinha
+	- 21h30: journal
+	- 22h: ir dormir
 
 **COMO SERIA O MEU AMBIENTE PERFEITO?**
+- **NA CIDADE**
+	- **QUARTO**
+		- Meu quarto perfeito seria um ambiente com poucas distrações. Não quero que tenha TV no meu quarto, quero que ele seja o local mais confortável de todos. Quero que seja, realmente, um ambiente pra eu dormir, relaxar, o lugar em que, assim que eu entro, eu esqueço de tudo. É o meu refúgio. Tenho uma cama bem grande e confortável, deliciosa. Com muitos travesseiros. É uma cama que cabem, facilmente, 4 pessoas grandes. Uma coberta
+	- **ESCRITÓRIO**
+	- **SALA**
+	- **COZINHA**
+	- **VARANDA**
+- **NO CAMPO**
