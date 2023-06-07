@@ -24,16 +24,36 @@
             "id": "26db58863b6a9920",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "906815c525cc92de",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Nos momentos difíceis, todos se viram pra Deus.md",
+                "file": "2. Literature Notes/Topics/L.I.E.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3851a0f07d0b1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como ter motivação ilimitada?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "d4bb42aa78e04ca3",
@@ -150,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nos momentos difíceis, todos se viram pra Deus.md",
+            "file": "Como ter motivação ilimitada?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Nos momentos difíceis, todos se viram pra Deus.md",
+            "file": "Como ter motivação ilimitada?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Nos momentos difíceis, todos se viram pra Deus.md"
+            "file": "Como ter motivação ilimitada?.md"
           }
         }
       }
@@ -203,8 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26db58863b6a9920",
+  "active": "c3851a0f07d0b1b6",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/L.I.E.md",
+    "Como ter motivação ilimitada?.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "Nos momentos difíceis, todos se viram pra Deus.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
@@ -233,8 +255,6 @@
     "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
     "Kindle Highlights/Books/Avalie O Que Importa.md",
     "Kindle Highlights/Books/Scrum.md",
-    "Kindle Highlights/Books/O Lado Difícil Das Situações Difíceis.md",
-    "Kindle Highlights/Books/O Poder Da Ação.md",
     "4. Me, Myself and I/Brainstorming",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
