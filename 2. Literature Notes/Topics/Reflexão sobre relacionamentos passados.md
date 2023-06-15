@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #build
 
 **BIG IDEA:** Ao refletir sobre o que aconteceu, podemos fazer diferente a partir de agora.
 

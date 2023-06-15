@@ -46,14 +46,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "file": "“Seu amor por Deus é sazonal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea26aae076f662bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A infelicidade é um subproduto da artificialidade humana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e28c494ebd3cb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você consegue viver completamente, não há morte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf7f1a8fd80c2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a essência da liberdade?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "d4bb42aa78e04ca3",
@@ -170,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+            "file": "Qual é a essência da liberdade?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+            "file": "Qual é a essência da liberdade?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md"
+            "file": "Qual é a essência da liberdade?.md"
           }
         }
       }
@@ -223,12 +259,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3851a0f07d0b1b6",
+  "active": "9bf7f1a8fd80c2a5",
   "lastOpenFiles": [
+    "Osho.md",
+    "A procura da liberdade é uma prisão em si mesma.md",
+    "Qual é a essência da liberdade?.md",
+    "Se você consegue viver completamente, não há morte.md",
+    "A infelicidade é um subproduto da artificialidade humana.md",
+    "“Seu amor por Deus é sazonal.md",
+    "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "A religião é a corrente da alma.md",
     "Como ter motivação ilimitada?.md",
     "2. Literature Notes/Topics/L.I.E.md",
-    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "Nos momentos difíceis, todos se viram pra Deus.md",
     "4. Me, Myself and I/Exercícios/Book to Brand.md",
     "4. Me, Myself and I/Testes/Eneagrama.md",
@@ -248,13 +291,6 @@
     "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
-    "Kindle Highlights/Books/How to Love Yourself.md",
-    "Kindle Highlights/Books/Seja O Amor Da Sua Vida.md",
-    "Kindle Highlights/Books/Clube Da Luta.md",
-    "Kindle Highlights/Books/Expert Secrets.md",
-    "Kindle Highlights/Books/Inteligência Emocional.md",
-    "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
-    "Kindle Highlights/Books/Avalie O Que Importa.md",
     "4. Me, Myself and I/Brainstorming",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
