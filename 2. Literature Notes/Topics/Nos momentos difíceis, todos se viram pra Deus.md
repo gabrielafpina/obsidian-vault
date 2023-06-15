@@ -49,7 +49,7 @@ A busca humana por Deus, especialmente em tempos de crise, pode ser atribuída a
 **Oeste: similar**
 - Busca por significado e propósito na vida - filosofia e psicologia existencial
 - [[Psicologia Positiva]]
-- [[“Seu amor por Deus é sazonal]]
+- [[Seu amor por Deus é sazonal]]
 
 **Leste: oposto**
 - A ideia de que a resolução de problemas deve ser exclusivamente racional e baseada em evidências

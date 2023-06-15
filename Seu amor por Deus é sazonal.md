@@ -15,6 +15,7 @@
 ---------
 
 **Oeste: similar**
+- [[Nos momentos difíceis, todos se viram pra Deus]]
 
 **Leste: oposto**
 
