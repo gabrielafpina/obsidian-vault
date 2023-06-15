@@ -44,8 +44,12 @@
             "id": "c3851a0f07d0b1b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -153,7 +157,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "a69fc84187491cad",
@@ -165,6 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +198,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md"
+          }
         }
       }
     ],
@@ -216,6 +225,7 @@
   },
   "active": "c3851a0f07d0b1b6",
   "lastOpenFiles": [
+    "A religião é a corrente da alma.md",
     "Como ter motivação ilimitada?.md",
     "2. Literature Notes/Topics/L.I.E.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
@@ -245,7 +255,6 @@
     "Kindle Highlights/Books/Inteligência Emocional.md",
     "Kindle Highlights/Books/O Poder Dos 5 Segundos.md",
     "Kindle Highlights/Books/Avalie O Que Importa.md",
-    "Kindle Highlights/Books/Scrum.md",
     "4. Me, Myself and I/Brainstorming",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
