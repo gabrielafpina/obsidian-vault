@@ -4,7 +4,7 @@
 
 **BIG IDEA:** 
 
-**DEFINIÇÃO:** Como você vê o mundo é o que controla a sua biologia
+**DEFINIÇÃO:** Como você vê o mundo é o que controla a sua biologia. Ou seja, a percepção é o que causa o comportamento.
 
 **COMO:**
 
@@ -15,6 +15,7 @@
 ---------
 
 **Oeste: similar**
+- [[Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia]]
 
 **Leste: oposto**
 
