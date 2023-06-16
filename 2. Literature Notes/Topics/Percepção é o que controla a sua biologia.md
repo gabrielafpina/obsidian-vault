@@ -20,5 +20,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[crenças]]
 
 **Sul: para onde vai**
