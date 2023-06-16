@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "33ec36ac6c169916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a73875fdfa83b836",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md"
               }
             }
           },
@@ -322,10 +334,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a88b57e17c2cfc7",
+  "active": "33ec36ac6c169916",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A linguagem foi projetada para esconder os sentimentos.md",
     "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
+    "2. Literature Notes/Topics/A linguagem foi projetada para esconder os sentimentos.md",
     "2. Literature Notes/Topics/O mundo material é uma sombra corrompida do ideal.md",
     "Sócrates.md",
     "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
@@ -349,7 +362,6 @@
     "2. Literature Notes/Topics/L.I.E.md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
     "2. Literature Notes/Topics/PNL.md",
-    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
