@@ -13,6 +13,7 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 **PENSADORES:**
 - [[Tony Robbins]]
 - [[Sigmund Freud]]
+- [[Bruce Lipton]]
 
 **FRASES:**
 - [[2. Literature Notes/Readwise/Books/Poder Sem Limites|Poder Sem Limites]]: 
