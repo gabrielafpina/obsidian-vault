@@ -453,8 +453,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "95d2c16332e15ed4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -470,8 +483,8 @@
   "active": "9842aec3f24c0abf",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
-    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
+    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",

@@ -7,6 +7,7 @@
 **DEFINIÇÃO:**
 O amor não muda ninguém, a pessoa o muda se ela quiser. Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar.
 Quando vamos conhecer uma pessoa, temos, muitas vezes, a percepção de que podemos modificá-la e, se abrirmos concessões, com o tempo, aquela pessoa pode se tornar quem queremos que ela seja. No entanto, isso é uma ilusão.
+Não é o seu amor, é o amor por ele mesmo que vai fazer com que ele mude.
 
 **COMO:**
 
