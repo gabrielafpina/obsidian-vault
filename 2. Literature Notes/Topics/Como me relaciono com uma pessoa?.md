@@ -16,6 +16,7 @@
 	1. é uma grande comunicação subjetiva a respeito da personalidade de uma pessoa. Está relacionado com gostos e preferências. É uma admiração conjunta, que traduz estímulos e provoca reações emotivas.
 5. **Sentimento de eternidade**
 	1. No primeiro momento, dentro ainda do [[Senso Comum]] de cada um, os parceiros imaginam, 'sabem' que o relacionamento estabelecido tem que durar até o fim dos dias.
+	2. Temos no nosso senso comum a ideia de que o amor é para a vida toda.
 
 **COMO:**
 
@@ -27,7 +28,7 @@
 ---------
 
 **Oeste: similar**
-- [[O olhar é um dos emissores mais poderosos na aproximação de duas pessoas]]
+- [[Como manifestar a sua alma-gêmea]]
 
 **Leste: oposto**
 
