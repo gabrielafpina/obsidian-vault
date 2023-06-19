@@ -27,7 +27,9 @@ O homem que vive no presente, liberado do passado e do futuro, conhece o sabor d
 **Oeste: similar**
 
 **Leste: oposto**
+- [[Ego]]
 
 **Norte: ideia/pergunta**
+- [[Mindfulness]]
 
 **Sul: para onde vai**
