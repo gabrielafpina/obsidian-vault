@@ -171,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily Notes/2023/6. June/17-06-2023.md",
+                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily Notes/2023/6. June/17-06-2023.md",
+                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily Notes/2023/6. June/17-06-2023.md"
+                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md"
               }
             }
           },
@@ -370,10 +369,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "7458fbb2bbee16a5",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "1. Daily Notes/2023/6. June/17-06-2023.md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
     "2. Literature Notes/Topics/Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia.md",
     "2. Literature Notes/Topics/O que é o ser humano?.md",
