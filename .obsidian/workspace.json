@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "00f6f3eea75ba906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O amor não muda ninguém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0115aa66a2f54d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3acd8e8a7833e66b",
             "type": "leaf",
             "state": {
@@ -220,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -322,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -418,10 +442,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b96b8b56a3d977b",
+  "active": "0115aa66a2f54d56",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Cadeia Emocional.md",
+    "2. Literature Notes/Topics/O amor não muda ninguém.md",
+    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Transferências.md",
     "Qual é a essência da liberdade?.md",
     "2. Literature Notes/Topics/Mindfulness.md",
@@ -444,8 +470,6 @@
     "A religião é a corrente da alma.md",
     "2. Literature Notes/People/Osho.md",
     "Se você consegue viver completamente, não há morte.md",
-    "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
-    "A procura da liberdade é uma prisão em si mesma.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
