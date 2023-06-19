@@ -171,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
+                "file": "Qual é a essência da liberdade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
+                "file": "Qual é a essência da liberdade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md"
+                "file": "Qual é a essência da liberdade?.md"
               }
             }
           },
@@ -369,8 +370,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7458fbb2bbee16a5",
+  "active": "7b782e32b9c8e8f9",
   "lastOpenFiles": [
+    "Qual é a essência da liberdade?.md",
+    "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "1. Daily Notes/2023/6. June/17-06-2023.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
@@ -387,8 +390,6 @@
     "A religião é a corrente da alma.md",
     "2. Literature Notes/People/Osho.md",
     "Se você consegue viver completamente, não há morte.md",
-    "Qual é a essência da liberdade?.md",
-    "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "A procura da liberdade é uma prisão em si mesma.md",
