@@ -18,6 +18,7 @@ Começou a ser formulada por [[Sigmund Freud]] em 1912, e desde então, se torno
     Quando o seu desejo não é resolvido, você pode **adiar**, **substituir** ou **cancelar**.
     No geral, as pessoas querem as coisas pra agora. E quando elas são frustradas, são levadas para a próxima etapa da cadeia.
 	    Momento de vítima: _é só comigo que isso acontece_.
+	Eu posso resolver o meu desejo aqui, ou eu posso descer ainda mais na cadeia emocional.
     
 3. **Ódio ou Raiva**
 4. **Destruição**
