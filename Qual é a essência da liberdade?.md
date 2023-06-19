@@ -33,3 +33,4 @@ O homem que vive no presente, liberado do passado e do futuro, conhece o sabor d
 - [[Mindfulness]]
 
 **Sul: para onde vai**
+- [[Como criar um estado emocional?]]

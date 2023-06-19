@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ab25f554c3593048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Mindfulness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1d1447480c9aee93",
             "type": "leaf",
             "state": {
@@ -196,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Mindfulness.md",
+                "file": "Qual é a essência da liberdade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Mindfulness.md",
+                "file": "Qual é a essência da liberdade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Mindfulness.md"
+                "file": "Qual é a essência da liberdade?.md"
               }
             }
           },
@@ -393,8 +381,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34bc9bc63f694fbd",
+  "active": "7b782e32b9c8e8f9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Mindfulness.md",
     "Qual é a essência da liberdade?.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
@@ -420,7 +409,6 @@
     "2. Literature Notes/Topics/resultados experimentais antecipados.md",
     "2. Literature Notes/Topics/Reflexão sobre relacionamentos passados.md",
     "2. Literature Notes/Topics/O que é ser um criador de conteúdo?.md",
-    "2. Literature Notes/Topics/Negacionismo emocional.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
