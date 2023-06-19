@@ -12,6 +12,10 @@
 	1. Certos aspectos vibratórios na voz traduzem mensagens no relacionamento. Conseguimos perceber os sentimentos da pessoa com quem estamos começando a nos relacionar e o interesse que ela deixa entender por trás da palavra num simples 'oi'. E não necessariamente no seu conteúdo explícito de diversas palavras.
 3. **Ato manifesto**
 	1. Expressões corporais que entram na comunicação. É uma sintonia de gestos que provoca ou não, de repente, o encontro afetivo. É a forma de expressão que cada um utiliza. Um gesto pode simbolizar a reunião, mas também o abandono, desinteresse, etc., entre duas pessoas. A sensualidade está também presente no ato manifesto, mas sensualidade demais pode atrapalhar e confundir com vulgaridade. - relacionado à [[2ª Teoria do Aparelho Psíquico]], em que o ID busca o prazer a qualquer custo.
+4. **A arte**
+	1. é uma grande comunicação subjetiva a respeito da personalidade de uma pessoa. Está relacionado com gostos e preferências. É uma admiração conjunta, que traduz estímulos e provoca reações emotivas.
+5. **Sentimento de eternidade**
+	1. No primeiro momento, dentro ainda do [[Senso Comum]] de cada um, os parceiros imaginam, 'sabem' que o relacionamento estabelecido tem que durar até o fim dos dias.
 
 **COMO:**
 
