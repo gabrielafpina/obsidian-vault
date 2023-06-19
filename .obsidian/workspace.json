@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "1b96b8b56a3d977b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d1447480c9aee93",
             "type": "leaf",
             "state": {
@@ -196,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -299,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -395,8 +406,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3b9af4155f52cb8",
+  "active": "1b96b8b56a3d977b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Transferências.md",
+    "2. Literature Notes/Topics/Untitled.md",
     "Qual é a essência da liberdade?.md",
     "2. Literature Notes/Topics/Mindfulness.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
@@ -421,8 +434,6 @@
     "2. Literature Notes/Topics/Você não é só uma folha ao vento.md",
     "A procura da liberdade é uma prisão em si mesma.md",
     "2. Literature Notes/Topics/resultados experimentais antecipados.md",
-    "2. Literature Notes/Topics/Reflexão sobre relacionamentos passados.md",
-    "2. Literature Notes/Topics/O que é ser um criador de conteúdo?.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
