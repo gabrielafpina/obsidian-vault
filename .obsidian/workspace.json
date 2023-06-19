@@ -227,12 +227,16 @@
             "id": "5a0b1a906ecdc442",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -334,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -480,11 +484,11 @@
       }
     ]
   },
-  "active": "9842aec3f24c0abf",
+  "active": "5a0b1a906ecdc442",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
-    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
