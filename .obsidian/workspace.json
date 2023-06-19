@@ -56,24 +56,12 @@
             }
           },
           {
-            "id": "00f6f3eea75ba906",
+            "id": "9842aec3f24c0abf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O amor não muda ninguém.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0115aa66a2f54d56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
+                "file": "2. Literature Notes/Topics/Como conheço uma pessoa?.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -346,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
+                "file": "2. Literature Notes/Topics/Como conheço uma pessoa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
+                "file": "2. Literature Notes/Topics/Como conheço uma pessoa?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md"
+                "file": "2. Literature Notes/Topics/Como conheço uma pessoa?.md"
               }
             }
           },
@@ -442,10 +431,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0115aa66a2f54d56",
+  "floating": {
+    "id": "0e95516ac78df13e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c84d875f803833e6",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3be5bb8ab7dd87b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "00f6f3eea75ba906",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -5,
+        "y": 25,
+        "width": 1445,
+        "height": 842,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9842aec3f24c0abf",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O amor não muda ninguém.md",
+    "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
+    "2. Literature Notes/Topics/Como conheço uma pessoa?.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Transferências.md",
@@ -469,7 +496,6 @@
     "A infelicidade é um subproduto da artificialidade humana.md",
     "A religião é a corrente da alma.md",
     "2. Literature Notes/People/Osho.md",
-    "Se você consegue viver completamente, não há morte.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
