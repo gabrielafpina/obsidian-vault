@@ -30,12 +30,14 @@
 	5. Pesquise os produtos, landing pages e todos os detalhes sobre como eles monetizam
 - [[Tony Robbins]] em [[Poder Sem Limites]]: Se eu vejo alguém neste mundo conseguindo um resultado que desejo, posso produzir os mesmos resultados, se quiser pagar o preço do tempo e do esforço. Se você quiser alcançar o sucesso, tudo o que precisa fazer é encontrar um meio de copiar aqueles que já são um sucesso. Isto é, descobrir como agiram, e, em especial, como usaram seus cérebros e corpos para conseguirem os resultados que você deseja duplicar.
 	- Para modelar excelência você precisa tornar-se um detetive, um investigador, alguém que faz uma porção de perguntas e segue todas as pistas do que produz excelência.
+- [[Sam Jolen]]: O cúmulo da imbecilidade é fazer a mesma coisa e esperar resultados diferentes.
 
 
 ---------
 
 **Oeste: similar**
 - [[Modismo]]
+- [[Se alguns podem, todos podem]]
 
 **Leste: oposto**
 - É possível melhorar a modelagem através da utilização de métodos matemáticos avançados, visualizações de dados, e simulações.
