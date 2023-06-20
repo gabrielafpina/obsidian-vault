@@ -1,9 +1,9 @@
 ## Sumário
 1. Introdução
-	1. Para quem é o autoconhecime
-	2. O que é o autoconhecimento?
-	3. Porque é importante se conhecer? 
-	4. Porque muitas pessoas fogem de se conhecer?
+	1. Para quem é o autoconhecimento?
+	2. Porque é importante se conhecer?
+	3. Porque muitas pessoas fogem de se conhecer?
+	4. O que é o autoconhecimento?
 	5. Quem sou eu + minha história
 		1. Como o autoconhecimento mudou a minha vida na prática
 3. Desenvolvimento
@@ -25,6 +25,10 @@
 		2. podcasts
 
 ## Conteúdo
-“Por que é importante me conhecer?”
-“E se eu não me conhecer?”
+### 1. 
 “Não é para mim”
+“Eu não tenho tempo para isso”
+“Eu prefiro não mexer em algumas coisas, porque doem muito”
+“Isso parece muito complicado e difícil”
+“Isso não é importante”
+Eu vou ser muito sincera com você. Eu já tive esses mesmos tipos de pensamento. Lá atrás quando eu comecei, eu não fazia a menor ideia do porquê era importante me conhecer e porquê eu deveria embarcar nessa jornada. Afinal, o autoconhecimento era para mim?
