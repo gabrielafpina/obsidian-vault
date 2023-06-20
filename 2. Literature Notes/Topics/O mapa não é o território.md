@@ -17,6 +17,10 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - Quais são os mapas que você está disposto a abrir mão?
 - Quais são os mapas que você tem e que estão tão enraizados que não está disposto a abrir mão?
 
+Nesse sentido, você não controla nada.
+Você não sabe de nada.
+Você não tem noção de nada, efetivamente, do jeito que é. Então, esteja sempre aberto ao que aparecer para você.
+
 
 **PENSADORES:**
 - [[Tony Robbins]] em [[Poder Sem Limites]]: Como Alfred Korzybski fez notar em seu Science & Sanity: “As características importantes dos mapas devem ser notadas. Um mapa não é o território que ele representa, mas, se estiver correto, tem uma estrutura similar ao território, o que é válido para sua utilização.”
