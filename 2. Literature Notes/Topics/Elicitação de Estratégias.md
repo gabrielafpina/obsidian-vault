@@ -7,6 +7,8 @@
 **DEFINIÇÃO:** Todo resultado que produzimos em nossas vidas, seja ele positivo ou negativo, é o produto de uma estratégia que não necessariamente temos consciência. As estratégias podem incluir nossas *crenças*, *valores*, *regras internas*, *padrões de linguagem*, *sequências de foco* e qualquer outro padrão de pensamento ou comportamento que usamos para processar informações e tomar decisões.
 - A elicitação de estratégias é o processo de descobrir esses padrões de pensamento e comportamento. Uma vez que sejamos capazes de identificar a estratégia que alguém está usando para produzir um resultado específico, podemos '*modelar*' ou copiar essa estratégia para produzir o mesmo resultado em nossas próprias vidas.
 
+
+
 **COMO:**
 1. Descoberta do principal sistema representativo ([[Canais Sensoriais]])
 2. Reconstrução de experiências

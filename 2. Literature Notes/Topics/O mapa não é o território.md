@@ -38,6 +38,7 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[PNL]]
 
 **Sul: para onde vai**
 - Empatia e compaixão pelas outras pessoas

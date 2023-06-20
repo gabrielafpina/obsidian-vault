@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidi",
+                "query": "elicit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md"
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md"
               }
             }
           },
@@ -304,12 +305,12 @@
       }
     ]
   },
-  "active": "b564b65e9bc21538",
+  "active": "0b81f97d47d219b4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/VACOG.md",
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
