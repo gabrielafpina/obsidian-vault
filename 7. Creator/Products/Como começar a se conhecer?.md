@@ -20,3 +20,6 @@
 	3. Pode não ser fácil sozinho, então é importante buscar por ajuda
 
 ## Conteúdo
+“Por que é importante me conhecer?”
+“E se eu não me conhecer?”
+“Por que é importante me conhecer?”
