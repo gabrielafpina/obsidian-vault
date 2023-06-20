@@ -25,7 +25,7 @@
 		2. podcasts
 
 ## Conteúdo
-### 1. 
+### 1. Para quem é?
 “Não é para mim”
 “Eu não tenho tempo para isso”
 “Eu prefiro não mexer em algumas coisas, porque doem muito”
