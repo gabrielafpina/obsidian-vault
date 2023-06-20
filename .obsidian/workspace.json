@@ -4,191 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c4482ae89784ec",
+        "id": "cadc88cab5a08895",
         "type": "tabs",
         "children": [
           {
-            "id": "7458fbb2bbee16a5",
+            "id": "b564b65e9bc21538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b782e32b9c8e8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a essência da liberdade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3b9af4155f52cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Transferências.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b96b8b56a3d977b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9842aec3f24c0abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3acd8e8a7833e66b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d1447480c9aee93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d201597ce11ed985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Se você consegue viver completamente, não há morte.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63796075875b3d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A religião é a corrente da alma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8354369d098c467c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A infelicidade é um subproduto da artificialidade humana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bae3724f44dd6a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9254f91de157382c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o ser humano?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a73875fdfa83b836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Sócrates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e79f091e5a3fd3bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Bruce Lipton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a0b1a906ecdc442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md"
+                "file": "7. Creator/Products/Como começar a se conhecer?.md"
               }
             }
           },
@@ -436,34 +267,35 @@
       }
     ]
   },
-  "active": "bae3724f44dd6a16",
+  "active": "b564b65e9bc21538",
   "lastOpenFiles": [
+    "7. Creator/Products/Como começar a se conhecer?.md",
+    "7. Creator/Products",
+    "A religião é a corrente da alma.md",
+    "Se você consegue viver completamente, não há morte.md",
+    "2. Literature Notes/Topics/'A vida é como um rio'.md",
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
+    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
+    "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
+    "A infelicidade é um subproduto da artificialidade humana.md",
+    "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
     "2. Literature Notes/Topics/Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia.md",
     "1. Daily Notes/2023/6. June/17-06-2023.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
-    "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
-    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Transferências.md",
     "Qual é a essência da liberdade?.md",
     "2. Literature Notes/Topics/Mindfulness.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
-    "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que é o ser humano?.md",
     "2. Literature Notes/Topics/A linguagem foi projetada para esconder os sentimentos.md",
     "2. Literature Notes/Topics/O mundo material é uma sombra corrompida do ideal.md",
-    "2. Literature Notes/People/Sócrates.md",
-    "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
-    "2. Literature Notes/People/Bruce Lipton.md",
-    "Seu amor por Deus é sazonal.md",
-    "A infelicidade é um subproduto da artificialidade humana.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
@@ -473,7 +305,6 @@
     "6. Shots, Images & PDFs/7.",
     "Readwise/Books",
     "Readwise",
-    "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
