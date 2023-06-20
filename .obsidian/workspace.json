@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/VACOG.md",
+                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b81f97d47d219b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/VACOG.md",
+                "file": "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/VACOG.md",
+                "file": "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/VACOG.md"
+                "file": "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md"
               }
             }
           },
@@ -267,10 +280,12 @@
       }
     ]
   },
-  "active": "b564b65e9bc21538",
+  "active": "0b81f97d47d219b4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+    "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
     "2. Literature Notes/Topics/VACOG.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
@@ -294,8 +309,6 @@
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/O olhar é um dos emissores mais poderosos na aproximação de duas pessoas.md",
-    "2. Literature Notes/Topics/Transferências.md",
-    "Qual é a essência da liberdade?.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
