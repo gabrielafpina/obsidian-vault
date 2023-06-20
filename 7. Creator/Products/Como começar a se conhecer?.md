@@ -6,8 +6,13 @@
 	4. Quem sou eu + minha história
 2. Desenvolvimento
 	1. Autorreflexão + Autoquestionamento
-		1. The work + Gabi
-		2. Connect with the body
-		3. Quais perguntas fazer e quais pergu
+		1. Ego + Consciência
+		2. The work + Gabi
+		3. Connect with the body
+		4. Quais perguntas fazer e quais perguntas não fazer (evitar porquê)
+	3. Meditação
+		1. Link com MPA
+	4. Journaling
+	5. Terapia
 
 ## Conteúdo
