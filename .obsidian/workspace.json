@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Osho",
+                "query": "1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Termos que quero usar.md"
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md"
               }
             }
           },
@@ -269,6 +270,9 @@
   },
   "active": "b564b65e9bc21538",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+    "2. Literature Notes/Topics/Inconsciente Coletivo.md",
+    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "7. Creator/Products/Como começar a se conhecer?.md",
     "7. Creator/Products",
     "A religião é a corrente da alma.md",
@@ -293,9 +297,6 @@
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/O que é o ser humano?.md",
-    "2. Literature Notes/Topics/A linguagem foi projetada para esconder os sentimentos.md",
-    "2. Literature Notes/Topics/O mundo material é uma sombra corrompida do ideal.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
