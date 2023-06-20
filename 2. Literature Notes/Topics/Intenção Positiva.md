@@ -1,6 +1,6 @@
 **TAGS:** #live #content 
 
-**FONTE:** [[John Grinder]] [[Richard Bandler]] [[Tony Robbins]] 
+**FONTE:** [[John Grinder]] [[Richard Bandler]] 
 
 **BIG IDEA:** A intenção positiva é um princípio fundamental da [[PNL]] que afirma que, por trás de toda ação, não importa o quanto pareça ser negativa, existe uma intenção positiva.
 
@@ -21,6 +21,7 @@
 - [[Sigmund Freud]], pai da [[Psicanálise]], delineou a [[teoria dos mecanismos de defesa]], em que afirmava que os mecanismos de defesa são comportamentos inconscientes projetados para proteger o ego de ansiedade e estresse. Embora determinados comportamentos possam parecer destrutivos e prejudiciais para a pessoa de fora, eles tem a intenção positiva de autoproteção para a pessoa de dentro.
 - [[Carl Jung]] criou o conceito de [[sombra]], que seria aquela parte de nós mesmos que rejeitamos ou ignoramos. Ao mesmo tempo, afirmava que com o objetivo de realmente nos desenvolvermos, seria fundamental integrar a nossa sombra. Fazendo o paralelo com a intenção positiva, a sombra seria o comportamento que usamos para nos proteger ou beneficiar, mesmo que esse comportamento pareça negativo para as outras pessoas.
 	- Ou seja, tal comportamento 'negativo', a sombra, teria o objetivo de suprir uma necessidade humana. Consequentemente, haveria uma intenção positiva por trás.
+- [[Sam Jolen]]: afirma que tudo que fazemos é sempre egoísta, porque fazemos por nós mesmos, de acordo com a nossa intenção positiva para algo.
 
 **POSSÍVEIS OBJEÇÕES:**
 - **Não é possível uma pessoa cometer tamanha atrocidade e ter uma intenção positiva**

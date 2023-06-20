@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "90f3f6b316f67e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Intenção Positiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ea64fd9c6c5dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f208d45998e5c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Sintaxe Mental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8abcc6cbc67d74ca",
             "type": "leaf",
             "state": {
@@ -100,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zona de confo",
+                "query": "intençã",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md"
+                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md"
               }
             }
           },
@@ -349,14 +384,17 @@
       }
     ]
   },
-  "active": "f2a3439405e433d4",
+  "active": "a2ea64fd9c6c5dc6",
   "lastOpenFiles": [
-    "Gabriela Pina.md",
+    "2. Literature Notes/Topics/Intenção Positiva.md",
+    "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
+    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+    "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+    "Gabriela Pina.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/Topics/Se alguns podem, todos podem.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -375,9 +413,6 @@
     "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "A infelicidade é um subproduto da artificialidade humana.md",
-    "2. Literature Notes/Topics/O ser humano é uma comunidade, não uma pessoa única.md",
-    "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/'O campo é o único agente que governa a partícula'.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
