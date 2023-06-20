@@ -1,4 +1,4 @@
-**TAGS:** #build 
+**TAGS:** #build #content 
 
 **BIG IDEA:** Não é porque você tem um mapa que você sabe a verdade sobre o território. Você tem apenas a sua interpretação.
 
@@ -17,9 +17,9 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - Quais são os mapas que você está disposto a abrir mão?
 - Quais são os mapas que você tem e que estão tão enraizados que não está disposto a abrir mão?
 
-Nesse sentido, você não controla nada.
-Você não sabe de nada.
-Você não tem noção de nada, efetivamente, do jeito que é. Então, esteja sempre aberto ao que aparecer para você.
+>[!important] Nesse sentido, você não controla nada.
+	Você não sabe de nada.
+	Você não tem noção de nada, efetivamente, do jeito que é. Então, esteja sempre aberto ao que aparecer para você.
 
 
 **PENSADORES:**
