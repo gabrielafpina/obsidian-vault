@@ -1,6 +1,6 @@
 **TAGS:** #exercise #build
 
-**FONTE:** [[Poder Sem Limites]]
+**FONTE:** [[Poder Sem Limites]] [[PNL]]
 
 **BIG IDEA:** O comportamento humano não é aleatório, mas sim o resultado de padrões de pensamento e ação.
 
@@ -10,15 +10,14 @@
 
 
 **COMO:**
-1. Descoberta do principal sistema representativo ([[Canais Sensoriais]])
+1. Descoberta do principal sistema representativo ([[Canais Sensoriais]] e [[VACOG]])
 2. Reconstrução de experiências
 	1. [[Sintaxe Mental]]
 	2. [[Submodalidades]]
 
 **PENSADORES:**
 - [[Tony Robbins]] explora a ideia de que o sucesso em qualquer área da vida pode ser entendido como o resultado de *estratégias específicas que podem ser aprendidas*, *modeladas* e *replicadas*. Ele argumenta que, se você pode descobrir a estratégia que alguém usa para atingir um resultado específico, pode imitar essa estratégia e alcançar um resultado semelhante.
-
-
+- [[Sam Jolen]]: O segredo é entender as suas estratégias e percebê-las de propósito. É desmontar o processo de como algo é feito. Tudo tem estratégia. Você precisa entender a sua estratégia e estar disposto a mudá-la caso você sinta que não está dando certo do jeito que você quer. Portanto, quais são as coisas que você faz e às vezes dá certo, e as vezes não? Faça uma lista e busque por padrões.
 ---------
 
 **Oeste: similar**
