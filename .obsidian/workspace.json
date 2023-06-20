@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "7d441c56cd687ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Exercício das posições perspectivas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f208d45998e5c8d",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intençã",
+                "query": "#exercise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
+                "file": "2. Literature Notes/Topics/Exercício das posições perspectivas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
+                "file": "2. Literature Notes/Topics/Exercício das posições perspectivas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md"
+                "file": "2. Literature Notes/Topics/Exercício das posições perspectivas.md"
               }
             }
           },
@@ -384,10 +397,11 @@
       }
     ]
   },
-  "active": "a2ea64fd9c6c5dc6",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
+    "2. Literature Notes/Topics/Exercício das posições perspectivas.md",
+    "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
@@ -412,7 +426,6 @@
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
-    "A infelicidade é um subproduto da artificialidade humana.md",
     "Kindle Highlights/Books",
     "Kindle Highlights",
     "1. Daily Notes/2023/6. June",
