@@ -21,6 +21,6 @@
 21. força e resiliência [[Nos momentos difíceis, todos se viram pra Deus]]
 22. Consciência
 23. Imprint
-24. Se conhecer é fundamental 
+24. Se conhecer é fundamental pra ter vontade de viver
 
 Pesquisar livros best-sellers atemporais
