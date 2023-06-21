@@ -97,7 +97,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
+                "file": "Solicitação Justificada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b73859c1cc287ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Melhor Opção Disponível (MOD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a1d4bc11a004822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,7 +256,25 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
+      },
+      {
+        "id": "3bdea91a8c89906e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aef81048cd74bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +393,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer melhores perguntas?.md"
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md"
               }
             }
           },
@@ -480,14 +522,18 @@
       }
     ]
   },
-  "active": "b4c9b5cfe8dcec23",
+  "active": "1a1d4bc11a004822",
   "lastOpenFiles": [
+    "Melhor Opção Disponível (MOD).md",
+    "2. Literature Notes/Courses/Método 12 em 2.md",
+    "Solicitação Justificada.md",
+    "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
+    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
+    "2. Literature Notes/Topics/Solicitação Justificada.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
     "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
-    "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
-    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "2. Literature Notes/Topics/Sincronicidade.md",
     "2. Literature Notes/Topics/Negacionismo emocional.md",
     "2. Literature Notes/Topics/Estocoma Psicológico.md",
@@ -505,10 +551,6 @@
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/VACOG.md",
-    "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Consciente e Inconsciente.md",
-    "2. Literature Notes/Topics/Inconsciente Coletivo.md",
     "7. Creator/Products",
     "Kindle Highlights/Books",
     "Kindle Highlights",

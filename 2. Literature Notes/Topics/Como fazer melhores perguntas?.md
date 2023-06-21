@@ -28,6 +28,7 @@ Quando você faz essas perguntas, pessoa te dar muito mais respostas detalhadas,
 ---------
 
 **Oeste: similar**
+- [[Solicitação Justificada]]
 
 **Leste: oposto**
 
