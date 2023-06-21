@@ -42,7 +42,7 @@ Tudo que é não-verbal, é aquilo que você consegue captar vendo.
     -   Expressões faciais
     -   Fisionomia
 
-Se você quer entrar em rapport com alguém, é necessário fazer algum tipo de **[[espelhamento]]**.
+Se você quer entrar em rapport com alguém, é necessário fazer algum tipo de espelhamento.
 -   Consiste em fazer com que a outra pessoa _perceba você como algo parecido_ com ela.
 -   Nos estamos programados a procurar por coisas parecidas conosco e quando fazemos isso, colocamos atenção naquilo, quer seja onde for.
 -   Como espelhar? Se a pessoa está fazendo determinada coisa, você pode fazer igual a ela. Ex: ela cruza os braços, você também pode cruzar. E se não quiser cruzar os braços, para não parecer um macaco de imitação, você pode cruzar as pernas, isso se chama espelhamento cruzado. Ou, até mesmo, fazer um mini espelhamento, em que você cruza levemente as suas mãos na frente do seu corpo.

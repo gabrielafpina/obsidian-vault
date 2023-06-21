@@ -92,36 +92,12 @@
             }
           },
           {
-            "id": "b4c9b5cfe8dcec23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solicitação Justificada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b73859c1cc287ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Melhor Opção Disponível (MOD).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a1d4bc11a004822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,6 +220,18 @@
             }
           },
           {
+            "id": "203e6b9563df55a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Rapport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "799d004f11384abf",
             "type": "leaf",
             "state": {
@@ -256,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 18
       },
       {
         "id": "3bdea91a8c89906e",
@@ -303,7 +291,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "associaçã",
+                "query": "tag:#decisão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -376,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "file": "2. Literature Notes/Topics/Rapport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +381,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "file": "2. Literature Notes/Topics/Rapport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md"
+                "file": "2. Literature Notes/Topics/Rapport.md"
               }
             }
           },
@@ -522,13 +510,16 @@
       }
     ]
   },
-  "active": "1a1d4bc11a004822",
+  "active": "203e6b9563df55a3",
   "lastOpenFiles": [
-    "Melhor Opção Disponível (MOD).md",
     "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/Rapport.md",
+    "Captura de Tela 2023-06-21 às 18.34.12.png",
+    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
+    "Melhor Opção Disponível (MOD).md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "Solicitação Justificada.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
-    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "2. Literature Notes/Topics/Solicitação Justificada.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
@@ -548,9 +539,6 @@
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/Topics/Se alguns podem, todos podem.md",
     "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
-    "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
-    "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/VACOG.md",
     "7. Creator/Products",
     "Kindle Highlights/Books",
     "Kindle Highlights",
@@ -569,7 +557,6 @@
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
     "Captura de Tela 2023-05-27 às 13.53.12.png",
     "Captura de Tela 2023-05-27 às 13.42.36 (2).png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 13.34.46.png",
     "Untitled.canvas"
   ]
 }

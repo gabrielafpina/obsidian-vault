@@ -22,10 +22,10 @@ Quando você está em um ambiente de tomada de decisão, você vai optar por esc
 ---------
 
 **Oeste: similar**
-- [[Percepção é o que controla a sua biologia]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Percepção é o que controla a sua biologia]]
 
 **Sul: para onde vai**
