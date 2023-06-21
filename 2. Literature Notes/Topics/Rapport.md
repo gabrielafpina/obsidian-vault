@@ -14,7 +14,7 @@
 
 </aside>
 
-Ou seja, quando você desenvolve o [[rapport]], a outra pessoa está muito **mais aberta para ser influenciada por você**. Essa pessoa estará mais disposta a gostar mais de você.
+Ou seja, quando você desenvolve o rapport, a outra pessoa está muito **mais aberta para ser influenciada por você**. Essa pessoa estará mais disposta a gostar mais de você.
 
 **RAPPORT VISUAL**
 Tudo que é não-verbal, é aquilo que você consegue captar vendo.
@@ -29,7 +29,7 @@ Se você quer entrar em rapport com alguém, é necessário fazer algum tipo de 
 -   Nos estamos programados a procurar por coisas parecidas conosco e quando fazemos isso, colocamos atenção naquilo, quer seja onde for.
 -   Como espelhar? Se a pessoa está fazendo determinada coisa, você pode fazer igual a ela. Ex: ela cruza os braços, você também pode cruzar. E se não quiser cruzar os braços, para não parecer um macaco de imitação, você pode cruzar as pernas, isso se chama espelhamento cruzado. Ou, até mesmo, fazer um mini espelhamento, em que você cruza levemente as suas mãos na frente do seu corpo.
     -   Um jeito legal de fazer isso é se vestir como a outra pessoa. Isso cria uma empatia maior com os outros. Isso é 55% da comunicação que você está passando para a outra pessoa.
-    -   Nível de #rapport mais profundo: perceber como a pessoa está respirando e gesticular de forma a acompanhar a respiração daquela pessoa. Grande segredo: observar os ombros, o peito, a barriga, como a pessoa está respirando.
+    -   Nível de rapport mais profundo: perceber como a pessoa está respirando e gesticular de forma a acompanhar a respiração daquela pessoa. Grande segredo: observar os ombros, o peito, a barriga, como a pessoa está respirando.
     -   Uma outra forma de rapport muito legal é quando algumas pessoas tendem a falar e entortam levemente a cabeça para um dos lados. Quando você está se comunicando com essa pessoa, você pode, também, entortar levemente a sua cabeça e isso irá gerar mais empatia. As pessoas tendem a não perceber pequenos detalhes.
 
 <aside> ✨ Observe o outro e entre em harmonia com ele ao reproduzir comportamentos semelhantes.
@@ -66,11 +66,23 @@ Qual é o **grande segredo** para podermos nos comunicar melhor de forma verbal?
         -   O que você gosta de fazer?
         -   Você tem algum hobbie?
         -   O que você gosta de estudar?
--   Só isso não faz com que você crie um super [[rapport]], mas isso _serve de pretexto_ para você continuar se comunicando com a outra pessoa e enquanto a comunicação toda está rolando, você pode usar o rapport visual e auditivo.
+-   Só isso não faz com que você crie um super rapport, mas isso _serve de pretexto_ para você continuar se comunicando com a outra pessoa e enquanto a comunicação toda está rolando, você pode usar o rapport visual e auditivo.
 
 
 **COMO USAR?**
+O grande segredo do rapport é você criar empatia para que você consiga influenciar a pessoa. Só vamos nos deixar influenciadas por pessoas que são parecidas conosco, ou que são a [[Melhor Opção Disponível (MOD)]] dentro do que temos.
+- Rapport Visual
+- Rapport Auditivo
+- Rapport de Conteúdo
+- Teste
+	- Testar se a outra pessoa também está em #rapport com você, ou se só você está seguindo ela.
+	- O rapport é como uma dança. Você vai conduzindo a dança e é esse teste que vai te mostrar se a pessoa está aberta a ser influenciada por você, ou se você precisa continuar fazendo rapport com ela.
 
+**TESTE DO RAPPORT**
+Faça testes visuais e auditivos para ver se a pessoa está em rapport com você.
+Ex: cruze os braços, boceje, mude a posição do seu corpo. Se a outra pessoa, inconscientemente, fizer algo parecido com você, a pessoa está em rapport com você. Agora você sabe que, inconscientemente, esta pessoa está te seguindo.
+A pessoa não saberá que está te seguindo, mas você sabe que ela está. Fazemos isso naturalmente, através dos nossos [[neurônios-espelho]], ou seja, copiamos o outro para podermos viver em harmonia e em sociedade.
+Quando você perceber que o rapport foi bem sucedido, você pode dar o impulso de influenciar a pessoa como quiser - seja através de um [[pitch]], paquera, etc.
 
 **PENSADORES:**
 

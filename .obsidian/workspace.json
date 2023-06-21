@@ -244,19 +244,19 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       },
       {
         "id": "3bdea91a8c89906e",
         "type": "tabs",
         "children": [
           {
-            "id": "7aef81048cd74bf5",
+            "id": "708fe27a0ab962bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Courses/Método 12 em 2.md",
+                "file": "2. Literature Notes/Topics/Canais Sensoriais.md",
                 "mode": "source",
                 "source": false
               }
@@ -364,7 +364,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Rapport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +380,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Rapport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,9 +401,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Rapport.md"
-              }
+              "state": {}
             }
           },
           {
@@ -510,10 +506,12 @@
       }
     ]
   },
-  "active": "203e6b9563df55a3",
+  "active": "8abcc6cbc67d74ca",
   "lastOpenFiles": [
-    "2. Literature Notes/Courses/Método 12 em 2.md",
     "2. Literature Notes/Topics/Rapport.md",
+    "2. Literature Notes/Courses/Método 12 em 2.md",
+    "2. Literature Notes/Topics/Canais Sensoriais.md",
+    "2. Literature Notes/Topics/empatia.md",
     "Captura de Tela 2023-06-21 às 18.34.12.png",
     "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "Melhor Opção Disponível (MOD).md",
@@ -538,7 +536,6 @@
     "Gabriela Pina.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/Topics/Se alguns podem, todos podem.md",
-    "2. Literature Notes/Topics/Não existe fracasso. Tudo é feedback.md",
     "7. Creator/Products",
     "Kindle Highlights/Books",
     "Kindle Highlights",
