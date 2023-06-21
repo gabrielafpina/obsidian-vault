@@ -25,6 +25,7 @@ Exemplo: 'olha, eu não quero que vocês assinam contrato agora. Antes disso eu 
 ---------
 
 **Oeste: similar**
+- [[O significado da comunicação é a resposta que se obtém]]
 
 **Leste: oposto**
 
