@@ -30,7 +30,8 @@ Na ausência da mãe, o pai assume as funções maternas também. O contrário �
 7. A mãe deve emprestar a sua personalidade, como capacidades de perceber, pensar, juízo crítico, porque a criança ainda não tem isso formado.
 8. A mãe deve favorecer a formação no psiquismo da criança de representações valorizadas e admiradas, tanto do próprio filho como também dos pais que estão sendo interiorizados pelo mesmo. Assim, é especialmente relevante a verbalização que a mãe faz do pai da criança, porque esta será a imagem inicial que ela terá de seu pai (o mesmo serve para o pai).
 9. A mãe é modelo de identificação para seu filho. A criança repete com frequência os comportamentos da mãe, assim como o seu humor do dia a dia e as formas de lidar com as situações da vida.
-
+10. Torna-se necessário incluir na função materna o reconhecimento, não só das ansiedades, mas também das capacidades de seus filhos, notadamente dos pequenos que para eles estão conquistando feedbacks positivos.
+11. Dissimbiotização: a mãe deve ajudar a criança a tornar-se cada vez mais independente, adquirindo a capacidade de reconhecer a existência de outras pessoas, como o pai, irmãos, avos, etc., o que propicia a importante transição da sua personalidade.
 
 **PENSADORES:**
 
