@@ -2,7 +2,7 @@
 
 **FONTE:** curso de [[Psicanálise]]
 
-**BIG IDEA:** 
+**BIG IDEA:** A relação entre mãe e filho é crucial para o desenvolvimento da personalidade da criança. A mãe é a primeira figura de apego e a base para a construção de um senso de identidade e segurança emocional. Através da relação com a mãe, a criança aprende a se relacionar com o mundo exterior e a desenvolver habilidades sociais e emocionais.
 
 **DEFINIÇÃO:**
 Frase de [[Jacques Lacan]]. A mãe, por ser o nosso primeiro contato desde a vida intrauterina, temos uma relação muito forte com ela de simbiose. A díade mãe-bebê de simbiose é natural. O que não é natural, é que essa relação se estenda por muitos anos.
