@@ -22,8 +22,13 @@ Na ausência da mãe, o pai assume as funções maternas também. O contrário �
 4. Frustrar adequadamente a criança, promovendo uma progressiva e necessária 'desilusão das ilusões'
 	1. Além de serem inevitáveis, as frustrações favorecem o desenvolvimento emocional da criança, aumentando sua capacidade de pensar e encontrar soluções para seus próprios problemas. Assim, a criança saberá que as dificuldades existem e que estas são passíveis de serem superadas
 		1. Ex: ensinar a criança a receber o não. OBS: é necessário explicar o porquê do não 
-5. A mãe deve permitir que a criança exercite seus direitos e necessidades - de brincar, devanear, imaginar e fantasiar
+5. A mãe deve permitir que a criança exercite seus direitos e necessidades - de brincar, devanear, imaginar e fantasiar. 
 	1. A criança que não é permitida brincar, se torna adulto muito rápido e pode vir a ter problemas nos seus relacionamentos la na frente
+	2. Quando brincamos, desenvolvemos a capacidade de ser criativos
+6. Moderação de discursos (linguajar e entonação de voz), porque a criança incorpora tudo isso no seu modelo de personalidade e repete isso com outras pessoas. 
+	1. Os discursos da mãe devem ser coerentes com as suas atitudes, porque, se não, isso confunde o desenvolvimento do juízo crítico da criança
+7. A mãe deve emprestar a sua personalidade, como capacidades de perceber, pensar, juízo crítico, porque a criança ainda não tem isso formado.
+8. A mãe deve favorecer a formação no psiquismo da criança de representações valorizadas e admiradas, tanto do próprio filho como também dos pais que estão sendo interiorizados pelo mesmo. Assim, é especialmente relevante a verbalização que a mãe faz do pai da criança, porque esta será a imagem inicial que ela tera de seu pai (o mesmo serve para o pai).
 
 
 **PENSADORES:**
@@ -40,3 +45,4 @@ Na ausência da mãe, o pai assume as funções maternas também. O contrário �
 - [[Transferências]]
 
 **Sul: para onde vai**
+- [[Criança Interior]]
