@@ -56,6 +56,14 @@
             }
           },
           {
+            "id": "8829958568e60790",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "62a3f1e4eac44722",
             "type": "leaf",
             "state": {
@@ -319,8 +327,8 @@
   },
   "active": "1902b215858ba309",
   "lastOpenFiles": [
-    "Donald Winnicott.md",
     "A mãe é fundante da nossa personalidade.md",
+    "Donald Winnicott.md",
     "2. Literature Notes/Topics/Senso Comum.md",
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
