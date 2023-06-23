@@ -40,11 +40,15 @@ Na ausência da mãe, o pai assume as funções maternas também. O contrário �
 ---------
 
 **Oeste: similar**
+ - [[2ª Teoria do Aparelho Psíquico]]
+ - [[Como me relaciono com uma pessoa?]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
 - [[Transferências]]
+- [[De onde vem as nossas crenças?]]
 
 **Sul: para onde vai**
 - [[Criança Interior]]
+- [[crenças]]
