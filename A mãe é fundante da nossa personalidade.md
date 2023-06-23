@@ -19,6 +19,11 @@ Na ausência da mãe, o pai assume as funções maternas também. O contrário �
 	1. Se a criança não tiver isso, ela pode se sentir rejeitada
 3. Compreender as necessidades individuais e suas manifestações em sua comunicação ainda em desenvolvimento
 	1. Cabe a mãe decodificar (sentir) a comunicação do filho e seus desejos de fome, frio, sede, cólica, dor de ouvido, etc.
+4. Frustrar adequadamente a criança, promovendo uma progressiva e necessária 'desilusão das ilusões'
+	1. Além de serem inevitáveis, as frustrações favorecem o desenvolvimento emocional da criança, aumentando sua capacidade de pensar e encontrar soluções para seus próprios problemas. Assim, a criança saberá que as dificuldades existem e que estas são passíveis de serem superadas
+		1. Ex: ensinar a criança a receber o não. OBS: é necessário explicar o porquê do não 
+5. A mãe deve permitir que a criança exercite seus direitos e necessidades - de brincar, devanear, imaginar e fantasiar
+	1. A criança que não é permitida brincar, se torna adulto muito rápido e pode vir a ter problemas nos seus relacionamentos la na frente
 
 
 **PENSADORES:**
