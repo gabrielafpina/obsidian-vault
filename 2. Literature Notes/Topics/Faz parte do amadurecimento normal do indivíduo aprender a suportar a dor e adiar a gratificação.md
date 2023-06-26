@@ -13,6 +13,8 @@ Muitas vezes, nos sacrificamos por uma necessidade real. Em outras, por uma fant
 
 Ao fazer isso, o indivíduo passa a reger-se menos pelo princípio do prazer e mais pelo princípio de realidade. No entanto, se a pessoa vive o princípio da realidade no exagero, ela pode desenvolver grandes problemas, como tensões físicas e emocionais, que podem gerar processos psicossomáticos.
 
+[[Tudo é uma escolha]], e se você escolhe, por exemplo, ficar em um trabalho que não gosta, que seja de forma consciente, tendo em mente o porquê aquilo é importante para você.
+
 **COMO:**
 
 **PENSADORES:**

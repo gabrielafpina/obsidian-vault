@@ -25,6 +25,8 @@ O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se p
 2. **Princípio da realidade** (processo secundário): sistema nervoso permite ao organismo tolerar um adiamento ou substituição dos impulsos.
 	1. Um processo caracterizado pelo pensamento, suspendendo os impulsos afetivos, desviando a atenção e sua energia para o trabalho e, ao mesmo tempo, para a diversão.
 
+Freud denominou de 'satisfação alucinatória dos desejos' pela qual o bebê substitui o seio da mãe pela sucção do seu próprio polegar. É uma alucinação porque não ocorre a substituição do alimento materno, o que pode ser, na verdade, é a busca pela mãe.
+
 **COMO:**
 
 **PENSADORES:**
@@ -34,6 +36,7 @@ O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se p
 ---------
 
 **Oeste: similar**
+- [[A mãe é fundante da nossa personalidade]]
 
 **Leste: oposto**
 
