@@ -18,7 +18,7 @@ A busca pelo prazer é algo muito primitivo dentro do ser humano. É o prazer pr
 A busca instintiva de prazer, evitando a dor e o sofrimento, de forma a satisfazer as necessidades biológicas e psicológicas. De modo específico, o princípio do prazer é a força motriz que guia a personalidade e possivelmente o impulso guia com ainda mais força a vida de um indivíduo.
 - Ou seja, formamos a nossa personalidade na busca do prazer. Nos primeiros anos de vida, formamos a nossa personalidade e a força motriz é o prazer.
 
-O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se pelo adiamento da gratificação. O [[Ego]] vai segurando a vontade primitiva do ID a qualque
+O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se pelo adiamento ou diminuição da gratificação, para que possamos manter o equilíbrio harmonioso das nossas emoções. Aqui, o [[Ego]] vai segurando a vontade primitiva do ID a qualquer custo. [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
 
 **COMO:**
 
