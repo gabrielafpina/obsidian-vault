@@ -35,6 +35,8 @@ O mecanismo de sublimação é um mecanismo de defesa onde o objeto de satisfaç
 O prazer e a realidade não são verdadeiramente opostos, pois realizam uma diminuição das tensões. O prazer é o resultado psíquico do descarregamento de uma determinada quantidade de excitação, estímulos ou tensões produzidas no organismo. O princípio da realidade chega ao mesmo resultado, mas com a ajuda de um processo de adiamento ou refreamento do prazer.
 - Por isso, quando você adia ou refreia algo, é importante explicar o porquê daquilo, ter a consciência do porquê aquilo é importante.
 
+Portanto, sempre estaremos vivendo o princípio do prazer e da realidade de forma simultânea. Esses princípios interagem ao longo da vida, mesmo que, no adulto, as demandas imediatistas do prazer estejam escondidas.
+
 **COMO:**
 
 **PENSADORES:**

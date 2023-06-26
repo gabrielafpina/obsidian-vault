@@ -16,7 +16,7 @@ Ao fazer isso, o indivíduo passa a reger-se menos pelo princípio do prazer e m
 [[Tudo é uma escolha]], e se você escolhe, por exemplo, ficar em um trabalho que não gosta, que seja de forma consciente, tendo em mente o porquê aquilo é importante para você.
 - É importante ter um ganho secundário para ter o adiamento do prazer! Se eu apenas impedir o prazer, se torna um recalque, uma repressão dentro do seu inconsciente.
 - O que acontece quando eu tenho um prazer que não é substituído, que não uso o princípio da realidade?
-	- Entro no desprazer
+	- Entro no desprazer. As vezes, eu quero um prazer original, mas como não tenho, vou buscar tê-lo de formas secundárias. Ex: algo não da certo, que é o que você queria, você entra em um prazer substituto, como a bebida, com o objetivo de ter algum tipo de prazer, por conta do desprazer que você teve.
 
 **COMO:**
 
@@ -36,4 +36,4 @@ Ao fazer isso, o indivíduo passa a reger-se menos pelo princípio do prazer e m
 
 **Sul: para onde vai**
 - [[Princípio Psicossomático]]
-- [[cadeia]]
+- [[Cadeia Emocional]]

@@ -32,12 +32,20 @@
             }
           },
           {
+            "id": "89837333d1ba7d76",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "a653eff89870cec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo é uma escolha.md",
+                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md"
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md"
               }
             }
           },
@@ -328,12 +335,12 @@
       }
     ]
   },
-  "active": "85fa07b59b239f3a",
+  "active": "7da3d4a4c18627e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
-    "Tudo é uma escolha.md",
+    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Princípio Psicossomático.md",
     "2. Literature Notes/Topics/O que é prazer?.md",
