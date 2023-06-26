@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b564b65e9bc21538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d45f2a2281407dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b81f97d47d219b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Senso Comum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1902b215858ba309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A mãe é fundante da nossa personalidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7da3d4a4c18627e3",
             "type": "leaf",
             "state": {
@@ -68,48 +20,12 @@
             }
           },
           {
-            "id": "74717f7ecbc43472",
+            "id": "86438da3e223e5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad0ca1e87e8f43e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a54a03ddfb79715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b52505857b6347f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
+                "file": "2. Literature Notes/Topics/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,21 +38,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "62a3f1e4eac44722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Donald Winnicott.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,13 +289,14 @@
   },
   "active": "7da3d4a4c18627e3",
   "lastOpenFiles": [
-    "A mãe é fundante da nossa personalidade.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
+    "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
+    "A mãe é fundante da nossa personalidade.md",
     "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Topics/Senso Comum.md",
-    "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
     "Donald Winnicott.md",
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
@@ -412,7 +316,6 @@
     "2. Literature Notes/Topics/Solicitação Justificada.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Intenção Positiva.md",
-    "2. Literature Notes/Topics/Se eu fosse você, eu faria exatamente a mesma coisa.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
     "Kindle Highlights/Books",
