@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é prazer?.md",
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é prazer?.md",
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é prazer?.md"
+                "file": "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md"
               }
             }
           },
@@ -300,10 +299,10 @@
       }
     ]
   },
-  "active": "436f6a5fb62ad358",
+  "active": "78b72e51e4e168a6",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "O que é prazer?.md",
+    "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
     "A mãe é fundante da nossa personalidade.md",

@@ -15,6 +15,11 @@ O prazer é a busca do ser humano. Até se formos parar para perceber nos nossos
 
 A busca pelo prazer é algo muito primitivo dentro do ser humano. É o prazer primitivo do ID ([[2ª Teoria do Aparelho Psíquico]]), a busca do prazer a qualquer custo. Se você busca só prazer, você busca o ID. Quando você busca o princípio da realidade, você ameniza o ID.
 
+A busca instintiva de prazer, evitando a dor e o sofrimento, de forma a satisfazer as necessidades biológicas e psicológicas. De modo específico, o princípio do prazer é a força motriz que guia a personalidade e possivelmente o impulso guia com ainda mais força a vida de um indivíduo.
+- Ou seja, formamos a nossa personalidade na busca do prazer. Nos primeiros anos de vida, formamos a nossa personalidade e a força motriz é o prazer.
+
+O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se pelo adiamento da gratificação. O [[Ego]] vai segurando a vontade primitiva do ID a qualque
+
 **COMO:**
 
 **PENSADORES:**
