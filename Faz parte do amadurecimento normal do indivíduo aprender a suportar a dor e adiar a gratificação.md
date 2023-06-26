@@ -11,7 +11,7 @@ Uma mãe e um pai fazem sacrifícios para dar uma boa vida para o filho, por exe
 
 Muitas vezes, nos sacrificamos por uma necessidade real. Em outras, por uma fantasia.
 
-Ao adiar
+Ao fazer isso, o indivíduo passa a reger-se menos pelo princípio do prazer e mais pelo princípio de realidade. No entanto, se a pessoa vive o princípio da realidade no exagero, ela pode desenvolver grandes problemas, como tensões físicas e emocionais, que podem gerar processos psicossomáticos.
 
 **COMO:**
 
@@ -26,5 +26,7 @@ Ao adiar
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Princípio do Prazer e Princípio da Realidade]]
 
 **Sul: para onde vai**
+- [[Princípio Psicossomático]]

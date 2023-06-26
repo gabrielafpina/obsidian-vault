@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4683e68a24887cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Princípio Psicossomático.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "436f6a5fb62ad358",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           },
           {
-            "id": "8829958568e60790",
+            "id": "30f1a73e59ae271e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jacq",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,11 +122,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -166,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md"
-              }
+              "state": {}
             }
           },
           {
@@ -312,12 +322,13 @@
       }
     ]
   },
-  "active": "85fa07b59b239f3a",
+  "active": "30f1a73e59ae271e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Obsidian.md",
+    "Princípio Psicossomático.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
     "O que é prazer?.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
     "A mãe é fundante da nossa personalidade.md",
     "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
@@ -340,7 +351,6 @@
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "Solicitação Justificada.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
-    "2. Literature Notes/Topics/Solicitação Justificada.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
     "Kindle Highlights/Books",
