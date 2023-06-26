@@ -19,6 +19,11 @@ A busca instintiva de prazer, evitando a dor e o sofrimento, de forma a satisfaz
 - Ou seja, formamos a nossa personalidade na busca do prazer. Nos primeiros anos de vida, formamos a nossa personalidade e a força motriz é o prazer.
 
 O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se pelo adiamento ou diminuição da gratificação, para que possamos manter o equilíbrio harmonioso das nossas emoções. Aqui, o [[Ego]] vai segurando a vontade primitiva do ID a qualquer custo. [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
+- Não da para ser só prazer e não da para ser só realidade também. É necessário ter harmonia.
+
+1. **Princípio do prazer** (processo primário): no sentido de pressionar o organismo à satisfação direta e impulsiva dos desejos. Prazer a qualquer custo.
+2. **Princípio da realidade** (processo secundário): sistema nervoso permite ao organismo tolerar um adiamento ou substituição dos impulsos.
+	1. Um processo caracterizado pelo pensamento, suspendendo os impulsos afetivos, desviando a atenção e sua energia para o trabalho e, ao mesmo tempo, para a diversão.
 
 **COMO:**
 

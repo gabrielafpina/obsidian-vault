@@ -27,6 +27,7 @@ Ao fazer isso, o indivíduo passa a reger-se menos pelo princípio do prazer e m
 
 **Norte: ideia/pergunta**
 - [[Princípio do Prazer e Princípio da Realidade]]
+- [[O que é prazer?]]
 
 **Sul: para onde vai**
 - [[Princípio Psicossomático]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
+                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Princípio Psicossomático.md",
+                "file": "2. Literature Notes/Topics/Princípio Psicossomático.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é prazer?.md",
+                "file": "2. Literature Notes/Topics/O que é prazer?.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,17 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30f1a73e59ae271e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,13 +114,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -180,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md"
+              }
             }
           },
           {
@@ -322,24 +316,24 @@
       }
     ]
   },
-  "active": "30f1a73e59ae271e",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Obsidian.md",
-    "Princípio Psicossomático.md",
+    "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
+    "2. Literature Notes/Topics/Princípio Psicossomático.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
-    "Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
-    "O que é prazer?.md",
+    "2. Literature Notes/Topics/O que é prazer?.md",
     "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
     "A mãe é fundante da nossa personalidade.md",
     "2. Literature Notes/Topics/princípio da compulsão à repetição.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Topics/Senso Comum.md",
-    "Donald Winnicott.md",
+    "2. Literature Notes/People/Donald Winnicott.md",
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Negacionismo emocional.md",
-    "Melhor Opção Disponível (MOD).md",
+    "2. Literature Notes/Topics/Melhor Opção Disponível (MOD).md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/Rapport.md",
@@ -349,7 +343,7 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "Solicitação Justificada.md",
+    "2. Literature Notes/Topics/Solicitação Justificada.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
