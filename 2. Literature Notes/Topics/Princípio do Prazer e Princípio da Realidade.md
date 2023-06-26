@@ -26,6 +26,10 @@ O princípio de prazer opõe-se ao princípio da realidade, que caracteriza-se p
 	1. Um processo caracterizado pelo pensamento, suspendendo os impulsos afetivos, desviando a atenção e sua energia para o trabalho e, ao mesmo tempo, para a diversão.
 
 Freud denominou de 'satisfação alucinatória dos desejos' pela qual o bebê substitui o seio da mãe pela sucção do seu próprio polegar. É uma alucinação porque não ocorre a substituição do alimento materno, o que pode ser, na verdade, é a busca pela mãe.
+- Essa 'satisfação mágica e ilusória' sempre acaba sendo frustrante e decepcionante porque o sujeito não suporta as exigências e necessidades da realidade que a vida lhe impõe. Caso o bebê tenha uma fome real, ela não será satisfeita com o polegar na boca, causando insatisfação perante a realidade dos fatos.
+
+O mecanismo de sublimação é um mecanismo de defesa onde o objeto de satisfação é mudado para formas 'socialmente aceitáveis'. Assim, vamos sublimando os nossos prazeres.
+- A criança é puro ID.
 
 **COMO:**
 
@@ -37,6 +41,7 @@ Freud denominou de 'satisfação alucinatória dos desejos' pela qual o bebê su
 
 **Oeste: similar**
 - [[A mãe é fundante da nossa personalidade]]
+- [[teoria dos mecanismos de defesa]]
 
 **Leste: oposto**
 
