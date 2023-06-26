@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 [[Sigmund Freud]] em 1895, acreditava que o comportamento humano tinha como base algumas tendências ligadas ao sistema nervoso. A essas tendências ele denominou: princípios.
 - Princípios é onde tudo começa dentro de nós. O que a gente quer, de verdade, no mundo. O princípio é o ponto de partida.
-O termo 'princípio'
+O termo 'princípio' designa um **ponto de partida** para a construção de um modelo psíquico que mantenha uma certa lógica e que resulte num estímulo conforme a experiência de cada um.
 
 >[!important] Tudo o que a gente faz na vida está ligado à busca pelo prazer.
 
@@ -28,5 +28,6 @@ A busca pelo prazer é algo muito primitivo dentro do ser humano. É o prazer pr
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[ O que é prazer?]]
 
 **Sul: para onde vai**
