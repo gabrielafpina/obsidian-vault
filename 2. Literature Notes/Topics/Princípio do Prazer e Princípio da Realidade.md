@@ -32,7 +32,8 @@ O mecanismo de sublimação é um mecanismo de defesa onde o objeto de satisfaç
 - A criança é puro ID. 
 - É importante termos cuidado com as sensações, porque elas nos ludibriam, muitas vezes. Ex: drogas. É necessário saber qual é o seu limite e saber administrá-lo.
 
-O prazer e a realidade não são verdadeiramente opostos, pois realizam uma diminuição das tensões. O prazer é o resultado psíquico do d
+O prazer e a realidade não são verdadeiramente opostos, pois realizam uma diminuição das tensões. O prazer é o resultado psíquico do descarregamento de uma determinada quantidade de excitação, estímulos ou tensões produzidas no organismo. O princípio da realidade chega ao mesmo resultado, mas com a ajuda de um processo de adiamento ou refreamento do prazer.
+- Por isso, quando você adia ou refreia algo, é importante explicar o porquê daquilo, ter a consciência do porquê aquilo é importante.
 
 **COMO:**
 
