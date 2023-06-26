@@ -29,8 +29,10 @@ Freud denominou de 'satisfação alucinatória dos desejos' pela qual o bebê su
 - Essa 'satisfação mágica e ilusória' sempre acaba sendo frustrante e decepcionante porque o sujeito não suporta as exigências e necessidades da realidade que a vida lhe impõe. Caso o bebê tenha uma fome real, ela não será satisfeita com o polegar na boca, causando insatisfação perante a realidade dos fatos.
 
 O mecanismo de sublimação é um mecanismo de defesa onde o objeto de satisfação é mudado para formas 'socialmente aceitáveis'. Assim, vamos sublimando os nossos prazeres, vamos nos adaptando às regras sociais- o que também é importante para vivermos em sociedade. Este mecanismo depende do princípio da realidade; e não consiste em uma repressão dos impulsos afetivos, mas em um encaminhamento da **energia libidinal**, numa adequação necessária à realidade, silenciando os instintos.
-- A criança é puro ID.
+- A criança é puro ID. 
 - É importante termos cuidado com as sensações, porque elas nos ludibriam, muitas vezes. Ex: drogas. É necessário saber qual é o seu limite e saber administrá-lo.
+
+O prazer e a realidade não são verdadeiramente opostos, pois realizam uma diminuição das tensões. O prazer é o resultado psíquico do d
 
 **COMO:**
 
