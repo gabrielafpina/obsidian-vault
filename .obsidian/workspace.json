@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "606874867f1a5c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a653eff89870cec0",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md"
+              }
             }
           },
           {
@@ -283,8 +299,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89837333d1ba7d76",
+  "active": "606874867f1a5c25",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
@@ -311,7 +328,6 @@
     "2. Literature Notes/Topics/Canais Sensoriais.md",
     "2. Literature Notes/Topics/empatia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
-    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
     "Kindle Highlights/Books",
