@@ -57,7 +57,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da5bf2f9ca70b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d93ba89017658996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tudo é uma escolha",
+                "query": "o que eu quero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +230,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
+                "file": "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
+                "file": "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md"
+                "file": "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md"
               }
             }
           },
@@ -358,10 +383,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cf3c99f3c5a6437",
+  "active": "d93ba89017658996",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
+    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
-    "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
@@ -385,7 +411,6 @@
     "2. Literature Notes/People/Donald Winnicott.md",
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-    "2. Literature Notes/Topics/Negacionismo emocional.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
