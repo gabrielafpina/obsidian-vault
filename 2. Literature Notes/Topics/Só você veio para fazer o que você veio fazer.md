@@ -26,3 +26,4 @@ Quando você desperta a sua alma, você começa a viver o seu combinado com Deus
 **Sul: para onde vai**
 - [[Adultos não ganham dinheiro, adultos fazem dinheiro]]
 - [[Tudo é uma escolha]]
+- [[Nunca mais peça desconto]]

@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "7bcf1d6e7cadbc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nunca mais peça desconto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7f059c8d7f42b7e2",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
+                "file": "Nunca mais peça desconto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
+                "file": "Nunca mais peça desconto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md"
+                "file": "Nunca mais peça desconto.md"
               }
             }
           },
@@ -411,10 +423,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edd79aecc23d73e8",
+  "active": "7bcf1d6e7cadbc27",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
+    "Nunca mais peça desconto.md",
+    "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
@@ -438,7 +451,6 @@
     "2. Literature Notes/Topics/O que é prazer?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
-    "Comunicação Não-Violenta (CNV).md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
