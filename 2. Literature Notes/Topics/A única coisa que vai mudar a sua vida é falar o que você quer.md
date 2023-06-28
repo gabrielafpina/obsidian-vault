@@ -6,7 +6,7 @@
 
 **DEFINIÇÃO:** Verbalizar o que você não quer, não especifica o que você quer. Você sabe o que você quer, porque a verdade está dentro do seu coração.
 
-É sobre 
+É sobre começar a tomar posse do seu lugar no mundo.
 
 **COMO:**
 
