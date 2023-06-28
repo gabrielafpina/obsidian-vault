@@ -22,5 +22,6 @@ Que o seu falar seja apenas sim ou não. Jamais, tentar.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
