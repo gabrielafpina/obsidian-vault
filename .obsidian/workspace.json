@@ -164,6 +164,18 @@
             }
           },
           {
+            "id": "38001367a52adcce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/As 3 leis do trabalho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f11c147496ab3349",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -359,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toda pessoa que para na sua frente é seu espelho.md",
+                "file": "2. Literature Notes/Topics/As 3 leis do trabalho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toda pessoa que para na sua frente é seu espelho.md",
+                "file": "2. Literature Notes/Topics/As 3 leis do trabalho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -399,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toda pessoa que para na sua frente é seu espelho.md"
+                "file": "2. Literature Notes/Topics/As 3 leis do trabalho.md"
               }
             }
           },
@@ -447,10 +459,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29751116b0a01f7c",
+  "active": "38001367a52adcce",
   "lastOpenFiles": [
-    "Nunca mais peça desconto.md",
     "Toda pessoa que para na sua frente é seu espelho.md",
+    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
+    "Nunca mais peça desconto.md",
     "2. Literature Notes/Topics/Se você acha, você não tem certeza. Então, você não sabe.md",
     "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
     "2. Literature Notes/Topics/Minimax.md",
@@ -474,7 +487,6 @@
     "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "2. Literature Notes/Topics/Princípio Psicossomático.md",
-    "2. Literature Notes/Topics/O que é prazer?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
