@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 Se algo entrou, eu deixei a porta aberta.
 
-O outro só te trata como você ensina a ele como deseja ser tratado.
+O outro só te trata como você ensina a ele como deseja ser tratado. Quando você está no lugar de vítima, você escolhe ser abusada pelo abusador. Tudo que está acontecendo na sua vida é da sua responsabilidade e, a partir dessa responsabilidade você tem toda a capacidade de mudar para melhor.
 
 **COMO:**
 
