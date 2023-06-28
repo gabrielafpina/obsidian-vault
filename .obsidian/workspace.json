@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "o que eu quero",
+                "query": "amor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -375,7 +376,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2008fadaa671bdd2",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
