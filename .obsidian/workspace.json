@@ -52,18 +52,6 @@
             }
           },
           {
-            "id": "da29a6120cf30ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "075ebec1dc7cdcfb",
             "type": "leaf",
             "state": {
@@ -247,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md"
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md"
               }
             }
           },
@@ -334,12 +322,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da29a6120cf30ae6",
+  "active": "075ebec1dc7cdcfb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
-    "Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+    "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+    "Comunicação Não-Violenta (CNV).md",
     "Pirâmide de Maslow.md",
     "Abraham Maslow.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
