@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md"
+                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md"
               }
             }
           },
@@ -346,10 +346,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd4097abe3d74492",
+  "active": "606874867f1a5c25",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
