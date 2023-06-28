@@ -73,10 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Ninguém tem que nada.md",
+                "file": "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1dc16a68f7f472b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -140,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,7 +259,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +275,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,9 +296,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -339,25 +343,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39a24bfdf9d23884",
+  "active": "1dc16a68f7f472b0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
+    "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
+    "2. Literature Notes/Topics/Quem tenta não faz.md",
+    "2. Literature Notes/Topics/Tudo é uma escolha.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
     "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
-    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Princípio Psicossomático.md",
     "2. Literature Notes/Topics/O que é prazer?.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/Ninguém tem que nada.md",
-    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-    "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
-    "2. Literature Notes/Topics/A paz é o meu estado natural.md",
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
     "Comunicação Não-Violenta (CNV).md",
     "Pirâmide de Maslow.md",
@@ -366,7 +371,6 @@
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Pensamentos criam experiências futuras.md",
-    "2. Literature Notes/Topics/A mãe é fundante da nossa personalidade.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
