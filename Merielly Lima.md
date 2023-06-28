@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Merielly Lima]]
+**FONTE:**
 
 **BIG IDEA:** 
 
