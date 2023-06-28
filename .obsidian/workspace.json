@@ -52,6 +52,42 @@
             }
           },
           {
+            "id": "da29a6120cf30ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7da3b8c2f40783fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comunicação Não-Violenta (CNV).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "075ebec1dc7cdcfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b73302a6b8c4d6f6",
             "type": "leaf",
             "state": {
@@ -112,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+                "file": "Comunicação Não-Violenta (CNV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+                "file": "Comunicação Não-Violenta (CNV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md"
+                "file": "Comunicação Não-Violenta (CNV).md"
               }
             }
           },
@@ -310,10 +346,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "606874867f1a5c25",
+  "active": "7da3b8c2f40783fd",
   "lastOpenFiles": [
-    "Pirâmide de Maslow.md",
+    "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
+    "Comunicação Não-Violenta (CNV).md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+    "Pirâmide de Maslow.md",
     "Abraham Maslow.md",
     "2. Literature Notes/Topics/Como me relaciono com uma pessoa?.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
@@ -335,9 +374,6 @@
     "2. Literature Notes/Topics/Negacionismo emocional.md",
     "2. Literature Notes/Topics/Melhor Opção Disponível (MOD).md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Sintaxe Mental.md",
-    "2. Literature Notes/Topics/Rapport.md",
-    "2. Literature Notes/Courses/Método 12 em 2.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
