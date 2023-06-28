@@ -234,9 +234,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42645692bcc917cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -347,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+                "file": "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+                "file": "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md"
+                "file": "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md"
               }
             }
           },
@@ -435,10 +447,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd4097abe3d74492",
+  "active": "42645692bcc917cc",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
+    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
     "2. Literature Notes/Topics/Se você acha, você não tem certeza. Então, você não sabe.md",
@@ -462,7 +475,6 @@
     "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação.md",
-    "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
