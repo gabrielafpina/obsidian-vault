@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md"
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
               }
             }
           },
@@ -387,10 +387,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f059c8d7f42b7e2",
+  "active": "2008fadaa671bdd2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/crenças.md",
