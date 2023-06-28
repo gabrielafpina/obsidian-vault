@@ -5,9 +5,6 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Achar que sabe tudo e não pode aprender nada com ninguém.
-Medo é a frequência mais baixa de todas e tudo o que você faz estando nesse lugar, vai dar errado.
-
 
 **COMO:**
 
@@ -22,5 +19,6 @@ Medo é a frequência mais baixa de todas e tudo o que você faz estando nesse l
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
