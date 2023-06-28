@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "8cf3c99f3c5a6437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "075ebec1dc7cdcfb",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md"
+                "file": "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md"
               }
             }
           },
@@ -346,11 +358,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "606874867f1a5c25",
+  "active": "8cf3c99f3c5a6437",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
+    "2. Literature Notes/Topics/A compreensão é quando eu sou o que eu estudei.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Toda generalização é burra, inclusive, esta.md",
     "Comunicação Não-Violenta (CNV).md",
@@ -373,7 +386,6 @@
     "2. Literature Notes/People/Jacques Lacan.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Negacionismo emocional.md",
-    "2. Literature Notes/Topics/Melhor Opção Disponível (MOD).md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
