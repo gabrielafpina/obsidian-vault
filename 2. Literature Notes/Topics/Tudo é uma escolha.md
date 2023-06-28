@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Tudo o que você faz na sua vida é uma escolha. Aprenda a escolher de forma consciente, tendo em mente o porquê você está fazendo aquilo e procure fazer aquilo com alegria, já que é uma escolha sua.
 
+O seu maior poder em vida, é o poder de escolher o que você quer fazer na sua vida.
+
 **COMO:**
 
 **PENSADORES:**

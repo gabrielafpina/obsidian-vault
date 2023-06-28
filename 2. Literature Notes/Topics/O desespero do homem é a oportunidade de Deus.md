@@ -18,6 +18,7 @@ Além disso, o desespero pode ser visto como uma oportunidade para se conectar c
 
 **Oeste: similar**
 - [[Friedrich Nietzsche]]: o que não me mata, me fortalece
+- [[Nos momentos difíceis, todos se viram pra Deus]]
 
 **Leste: oposto**
 
