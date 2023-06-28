@@ -6,7 +6,7 @@
 
 **DEFINIÇÃO:**
 É uma fuga inconsciente da cura, do sucesso, da felicidade.
-Ex: sono, vontade de fazer xixi, faltar na aula, celul
+Ex: sono, vontade de fazer xixi, faltar na aula, celular, etc.
 
 **COMO:**
 
@@ -23,3 +23,4 @@ Ex: sono, vontade de fazer xixi, faltar na aula, celul
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como se manter no presente?]]
