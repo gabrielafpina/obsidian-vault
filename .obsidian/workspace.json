@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c42d71adb950f7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Oração da Verdade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94eedab035c0ab58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,22 +94,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "470654b5894bf8e3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "f2a3439405e433d4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "verdade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +115,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "470654b5894bf8e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "file": "2. Literature Notes/Topics/Oração da Verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "file": "2. Literature Notes/Topics/Oração da Verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md"
+                "file": "2. Literature Notes/Topics/Oração da Verdade.md"
               }
             }
           },
@@ -255,10 +280,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac8ef99d5d4dbb82",
+  "active": "c42d71adb950f7d2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "2. Literature Notes/Topics/Oração da Verdade.md",
+    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
@@ -281,8 +308,6 @@
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/O desespero do homem é a oportunidade de Deus.md",
     "Merielly Lima.md",
-    "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",

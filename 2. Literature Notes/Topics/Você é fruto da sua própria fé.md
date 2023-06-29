@@ -1,11 +1,11 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Merielly Lima]]
 
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Experimente as informações que você colhe na sua vida, aplique, colha o fruto e, então compartilhe. Ai, todo mundo vai acreditar em você, porque você teve resultados. Todo mundo vai acreditar, porque você é irrefutáv
+Experimente as informações que você colhe na sua vida, aplique, colha o fruto e, então compartilhe. Ai, todo mundo vai acreditar em você, porque você teve resultados. Todo mundo vai acreditar, porque você é irrefutável.
 
 **COMO:**
 
