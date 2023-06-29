@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac8ef99d5d4dbb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md"
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md"
               }
             }
           },
@@ -244,10 +255,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edab9c0967a14f2a",
+  "active": "ac8ef99d5d4dbb82",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
@@ -271,7 +283,6 @@
     "Merielly Lima.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
-    "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
