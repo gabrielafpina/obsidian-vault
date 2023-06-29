@@ -39,3 +39,4 @@ Uma simples frase tem níveis de consciência e você pode escolher frases que t
 **Sul: para onde vai**
 - [[Só de ter nascido eu já sou capaz]]
 - [[Deus fez os seres humanos para serem 100% saudáveis]]
+- [[Inconsciente Coletivo]]

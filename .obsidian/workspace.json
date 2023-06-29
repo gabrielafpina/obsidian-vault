@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus puro tesão.md",
+                "file": "2. Literature Notes/Topics/Deus é puro tesão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a02932387cc80ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sexo é divino.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus puro tesão.md",
+                "file": "sexo é divino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus puro tesão.md",
+                "file": "sexo é divino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus puro tesão.md"
+                "file": "sexo é divino.md"
               }
             }
           },
@@ -316,11 +328,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18d3abc0d0344500",
+  "active": "a02932387cc80ed1",
   "lastOpenFiles": [
-    "Todas as suas crenças começam no ventre da sua mãe.md",
-    "2. Literature Notes/Topics/Deus puro tesão.md",
+    "2. Literature Notes/Topics/Deus é puro tesão.md",
+    "sexo é divino.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "Todas as suas crenças começam no ventre da sua mãe.md",
     "Deus fez os seres humanos para serem 100% saudáveis.md",
     "Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
@@ -343,7 +356,6 @@
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
-    "Quem é de Verdade sabe quem é de mentira.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",

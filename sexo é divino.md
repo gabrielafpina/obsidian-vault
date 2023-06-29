@@ -5,9 +5,6 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Só quem é um tesão pode criar o ser humano para sentir tesão.
-
-Só quem É, consegue criar algo que É também.
 
 **COMO:**
 
