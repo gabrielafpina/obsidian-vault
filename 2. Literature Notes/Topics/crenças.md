@@ -26,7 +26,7 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 	- Ex: Se _____, então _____.
 		Se eu sou uma boa pessoa, então eu vou para o céu.
 - [[João Yida]]: Crenças podem estar te afastando do que a sua alma almeje.
-- [[Henry Ford]]: Independentemente se você acredita se pode, ou não, você está certo.
+- [[Henry Ford]]: Independentemente se você acredita se pode ou não pode, você estará certo.
 ---------
 
 **Oeste: similar**
