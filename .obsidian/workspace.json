@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edab9c0967a14f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amor",
+                "query": "verdade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,10 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3b97603ce5429f0",
+  "active": "edab9c0967a14f2a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
+    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
@@ -258,7 +272,6 @@
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
     "2. Literature Notes/Topics/Evite falar o que você não quer e prefira falar o que você quer.md",
-    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
