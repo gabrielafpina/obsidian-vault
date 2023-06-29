@@ -25,7 +25,7 @@
 - Altruísmo - acreditam genuinamente que, se unirem as pessoas, poderão fazer um bem enorme
 - Carismáticos, determinados e inspiradores. Raramente perdem de vista seu objetivo principal: servir aos outros.
 - Extrema compaixão
-- Eperam que a tensão faça parte da vida e a veem como algo natural e algo a ser superado com entusiasmo. Eles podem até inspirar outras pessoas de todos os tipos de personalidade a se juntarem a eles em uma missão para reivindicar a vitória sobre tais dificuldades.
+- Esperam que a tensão faça parte da vida e a veem como algo natural e algo a ser superado com entusiasmo. Eles podem até inspirar outras pessoas de todos os tipos de personalidade a se juntarem a eles em uma missão para reivindicar a vitória sobre tais dificuldades.
 - Se move com ousadia e independência
 - Inteligência emocional e altas habilidades sociais
 
