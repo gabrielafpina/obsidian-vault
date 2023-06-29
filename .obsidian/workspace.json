@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "6640e5e675a5da90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94dfdb85179926c0",
             "type": "leaf",
             "state": {
@@ -92,24 +80,36 @@
             }
           },
           {
-            "id": "d5d8ae4e212941ff",
+            "id": "5994f07c01fea4cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
+                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b55f0322e497818e",
+            "id": "f8c88de64babffad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
+                "file": "O meu único poder é fazer por mim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5d8ae4e212941ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -288,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quem é de Verdade sabe quem é de mentira.md",
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quem é de Verdade sabe quem é de mentira.md",
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quem é de Verdade sabe quem é de mentira.md"
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md"
               }
             }
           },
@@ -376,21 +376,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46b7a0b4a6a02735",
+  "active": "594ca4ca8d66b93a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
-    "Quem é de Verdade sabe quem é de mentira.md",
-    "2. Literature Notes/Topics/Untitled",
-    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
     "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
     "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
+    "O meu único poder é fazer por mim.md",
+    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
+    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
+    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+    "Quem é de Verdade sabe quem é de mentira.md",
+    "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
+    "2. Literature Notes/Topics/Untitled",
+    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/Oração da Verdade.md",
-    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
-    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
-    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
@@ -403,8 +405,6 @@
     "Toda pessoa que para na sua frente é seu espelho.md",
     "Nunca mais peça desconto.md",
     "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
-    "2. Literature Notes/Topics/Minimax.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
