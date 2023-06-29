@@ -5,7 +5,9 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Eu sou filha de Deus. Eu sou escolhida de Deus. Eu sou amada por Deus. Porque eu sou ser humano. Por tudo isso, eu sou capaz. Pelo simples fato de ter nascido, eu já tenho valor
+Eu sou filha de Deus. Eu sou escolhida de Deus. Eu sou amada por Deus. Porque eu sou ser humano. Por tudo isso, eu sou capaz. Pelo simples fato de ter nascido, eu já tenho valor. 
+
+É inteligente escolher acreditar nisso, porque ai você consegue quebrar o toco do elefante ([[Porque o elefante não foge do circo?]]).Você acaba empoderando todas as pessoas ao seu redor quando faz isso.
 
 **COMO:**
 
