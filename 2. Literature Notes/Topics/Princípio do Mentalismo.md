@@ -18,6 +18,8 @@ Todas as vezes que você escreve o que você tem na sua mente, você manifesta.
 
 Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para poder escolher criar tudo o que você quiser.
 
+>[!important] Para você Ser, é inteligente você criar antes o que o seu coração quer ser.
+
 **COMO:**
 
 **PENSADORES:**

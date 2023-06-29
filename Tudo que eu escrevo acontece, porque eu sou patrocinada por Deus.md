@@ -11,10 +11,13 @@ Escreva com detalhes o que você quer que aconteça, porque acontece.
 - O que você quer que aconteça
 - Como você quer que aconteça
 - Com quem você quer que aconteça
+- Como você quer se sentir
 
 É inteligente que você faça pedidos elevados. Peça a elevação e o despertar da sua própria consciência. Quando você pede consciência, tudo se manifesta. O pedido mais inteligente de todos é investir em consciência. Quanto mais consciência, melhor a sua vida fica.
 
 A sua vida está 100% equiparada ao seu nível de consciência. Quanto mais verdadeira você é, mais disso você atrai para a sua vida.
+
+É muito simples. É a frase: [[O mais alto grau de satisfação está na simplicidade]]. Não é necessário se esforçar para ganhar dinheiro. Escreva e escolha o que você quer viver. [[Escolha estar presente nesse evento, que é o aqui e o agora]].
 
 **COMO:**
 
