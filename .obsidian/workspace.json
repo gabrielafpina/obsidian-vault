@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "4. Me, Myself and I/Testes/MBTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "4. Me, Myself and I/Testes/MBTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "4. Me, Myself and I/Testes/MBTI.md"
               }
             }
           },
@@ -243,12 +244,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a8c8d48f24a49c4",
+  "active": "9b6ddc7cfdb609e2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "4. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
-    "2. Literature Notes/Topics/crenças.md",
     "Merielly Lima.md",
     "Henry Ford.md",
     "João Yida.md",
