@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2c5ae1a88e8b8491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b6ddc7cfdb609e2",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md"
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md"
               }
             }
           },
@@ -256,10 +268,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8eaec841c1534b4",
+  "active": "2c5ae1a88e8b8491",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
+    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "2. Literature Notes/Topics/crenças.md",
     "4. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
@@ -284,7 +297,6 @@
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
-    "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
