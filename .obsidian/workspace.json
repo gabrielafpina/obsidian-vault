@@ -243,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "princípio do m",
+                "query": "auto observação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -424,7 +424,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "916585b70fef3c62",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "Henry Ford.md",
     "2. Literature Notes/Topics/crenças.md",
