@@ -128,6 +128,14 @@
             }
           },
           {
+            "id": "fedd2513fcde2d6c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "352d4398093a56b1",
             "type": "leaf",
             "state": {
@@ -224,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -336,7 +344,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +360,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,9 +381,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
-              }
+              "state": {}
             }
           },
           {
@@ -424,10 +428,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "fedd2513fcde2d6c",
   "lastOpenFiles": [
-    "Henry Ford.md",
     "2. Literature Notes/Topics/crenças.md",
+    "Henry Ford.md",
     "João Yida.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Princípio do Mentalismo.md",
