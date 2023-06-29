@@ -16,6 +16,8 @@ Quanto mais paz, melhor.
 
 Se melhorar, melhora.
 
+Despertar é uma jornada sem parada, nem chegada. É algo infinito.
+
 **COMO:**
 
 **PENSADORES:**

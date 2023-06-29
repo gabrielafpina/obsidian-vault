@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "916585b70fef3c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "352d4398093a56b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "João Yida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a226087e543cc0f",
             "type": "leaf",
             "state": {
@@ -312,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md"
+                "file": "2. Literature Notes/Topics/crenças.md"
               }
             }
           },
@@ -400,11 +424,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "916585b70fef3c62",
   "lastOpenFiles": [
-    "Para manifestar, é importante visualizar.md",
-    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
+    "Henry Ford.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "João Yida.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
+    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
+    "Para manifestar, é importante visualizar.md",
     "O meu único poder é fazer por mim.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Oração da Verdade.md",
@@ -426,9 +453,6 @@
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
     "2. Literature Notes/Topics/Se você acha, você não tem certeza. Então, você não sabe.md",
-    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
-    "Toda pessoa que para na sua frente é seu espelho.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",

@@ -6,7 +6,9 @@
 
 **DEFINIÇÃO:**
 Uma crença é um comando que damos para nós mesmos. Quando acreditamos em algo com tanta força, aquilo passa a se tornar uma verdade. Consequentemente, passamos a representar aquela verdade internamente para nós (mesmo que não seja uma verdade) e os nossos resultados estão diretamente atrelados àquele pensamento, ou conjunto de pensamentos.
+
 O que a maior parte das pessoas não tem em mente, no entanto, é que crenças são escolhas. 
+
 
 **COMO:**
 
@@ -23,6 +25,8 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 - [[Sam Jolen]]: Toda crença é uma noção de causa e efeito.
 	- Ex: Se _____, então _____.
 		Se eu sou uma boa pessoa, então eu vou para o céu.
+- [[João Yida]]: Crenças podem estar te afastando do que a sua alma almeje.
+- [[Henry Ford]]: Independentemente se você acredita se pode, ou não, você está certo.
 ---------
 
 **Oeste: similar**
@@ -30,6 +34,7 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Consciente e Inconsciente]]
 
 **Sul: para onde vai**
 - 
