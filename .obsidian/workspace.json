@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sexo é divino.md",
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sexo é divino.md",
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sexo é divino.md"
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md"
               }
             }
           },
@@ -328,10 +328,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a02932387cc80ed1",
+  "active": "2c5ae1a88e8b8491",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Deus é puro tesão.md",
     "sexo é divino.md",
+    "2. Literature Notes/Topics/Deus é puro tesão.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "Todas as suas crenças começam no ventre da sua mãe.md",
     "Deus fez os seres humanos para serem 100% saudáveis.md",
