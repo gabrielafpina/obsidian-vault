@@ -9,7 +9,7 @@
 
 **PERSONALIDADE:**
 - Líderes naturais, cheios de paixão e carisma
-- Inspiração para outras pesssoas
+- Inspiração para outras pessoas
 - Confiança natural que gera influência
 - Alegria em guiar os outros a trabalharem juntos para melhorar a si mesmos e sua comunidade
 - Não tem medo de se posicionar quando sente que algo precisa ser dito
