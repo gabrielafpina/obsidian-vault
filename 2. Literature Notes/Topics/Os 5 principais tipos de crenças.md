@@ -33,6 +33,8 @@ Uma simples frase tem níveis de consciência e você pode escolher frases que t
 
 **Norte: ideia/pergunta**
 - [[crenças]]
+- [[Transferências]]
+- [[Todas as suas crenças começam no ventre da sua mãe]]
 
 **Sul: para onde vai**
 - [[Só de ter nascido eu já sou capaz]]
