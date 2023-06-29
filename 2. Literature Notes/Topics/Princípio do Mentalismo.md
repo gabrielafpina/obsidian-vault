@@ -14,6 +14,14 @@ Toda a realidade na sua vida aconteceu na sua mente e se manifestou. Seja de for
 
 Se abrindo conscientemente para a existência dessa lei, você pode desfrutar de forma inteligente do poder dela.
 
+Todas as vezes que você escreve o que você tem na sua mente, você manifesta.
+
+Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para poder escolher criar tudo o que você quiser.
+
+Nós cocriamos tudo o tempo inteiro. Isso é possível. Você só precisa escolher se abrir para a lei do mentalismo, para que você possa cocriar de verdade.
+
+Escreva com detalhes o que você quer que aconteça, porque acontece.
+
 **COMO:**
 
 **PENSADORES:**
@@ -23,6 +31,7 @@ Se abrindo conscientemente para a existência dessa lei, você pode desfrutar de
 ---------
 
 **Oeste: similar**
+- [[Como manifestar a sua alma-gêmea]]
 
 **Leste: oposto**
 
@@ -30,3 +39,5 @@ Se abrindo conscientemente para a existência dessa lei, você pode desfrutar de
 - [[Consciente e Inconsciente]]
 
 **Sul: para onde vai**
+- [[Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá]]
+- [[Tudo é uma escolha]]
