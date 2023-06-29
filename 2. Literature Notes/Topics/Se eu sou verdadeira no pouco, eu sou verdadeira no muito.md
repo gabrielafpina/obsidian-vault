@@ -11,7 +11,7 @@ Comece falar a Verdade o tempo inteiro. Seja verdadeiro consigo mesmo para tudo.
 
 Como Jesus dizia: Que o seu falar seja sim, sim, ou não, não.
 
-Escolha a frequência da Verdade o tempo inteiro. Você falando minúsculas verdades, seja com o minuto, com a hora,
+Escolha a frequência da Verdade o tempo inteiro. Você falando minúsculas verdades, seja com o minuto, com a hora, fazendo a [[Oração da Verdade]], você se liberta e liberta o outro. Mais do que isso, você atrai pessoas que são verdadeiras com você o tempo todo. Se tem gente fingida ao meu redor, é porque eu sou fingida. Quanto mais eu vibro na frequência da verdade, mais eu atraio essas pessoas.
 
 **COMO:**
 
@@ -23,6 +23,7 @@ Escolha a frequência da Verdade o tempo inteiro. Você falando minúsculas verd
 
 **Oeste: similar**
 - [[Existem 4 lugares proibidos]]
+- [[Toda pessoa que para na sua frente é seu espelho]]
 
 **Leste: oposto**
 
