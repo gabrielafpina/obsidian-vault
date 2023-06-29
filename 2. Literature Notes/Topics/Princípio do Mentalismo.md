@@ -20,7 +20,8 @@ Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para pod
 
 >[!important] Para você Ser, é inteligente você criar antes o que o seu coração quer ser.
 
-Dedique um tempo todo dia para pensar e se observar. [[Para manifes]]
+Dedique um tempo todo dia para pensar e se observar. Para manifestar, é importante visualizar e escrever, de preferência, a lápis, porque ele tem magnetismo (o grafite). O mais importante, a virada de chave, é o sentir. Sentir como já é o que você quer.
+- Pedir, orar e acreditar, sentindo que o que você quer já é uma realidade.
 
 **COMO:**
 

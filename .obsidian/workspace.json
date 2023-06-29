@@ -246,7 +246,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -399,8 +400,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a226087e543cc0f",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "Para manifestar, é importante visualizar.md",
+    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "O meu único poder é fazer por mim.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
@@ -416,7 +419,6 @@
     "Quem é de Verdade sabe quem é de mentira.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
     "2. Literature Notes/Topics/Untitled",
-    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
@@ -427,7 +429,6 @@
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "Toda pessoa que para na sua frente é seu espelho.md",
-    "Nunca mais peça desconto.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
