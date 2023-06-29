@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42645692bcc917cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b97603ce5429f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edab9c0967a14f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66f93f8646f88002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94dfdb85179926c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b7a0b4a6a02735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quem é de Verdade sabe quem é de mentira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5994f07c01fea4cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8c88de64babffad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O meu único poder é fazer por mim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a674a6b645b64f46",
             "type": "leaf",
             "state": {
@@ -114,125 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "916585b70fef3c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fedd2513fcde2d6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "352d4398093a56b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "João Yida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a226087e543cc0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d8ae4e212941ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "594ca4ca8d66b93a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac8ef99d5d4dbb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c42d71adb950f7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Oração da Verdade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f8fd6bcc46490b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94eedab035c0ab58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -344,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md"
+              }
             }
           },
           {
@@ -428,12 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fedd2513fcde2d6c",
+  "active": "a674a6b645b64f46",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
+    "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/crenças.md",
+    "Merielly Lima.md",
     "Henry Ford.md",
     "João Yida.md",
-    "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "Para manifestar, é importante visualizar.md",
     "O meu único poder é fazer por mim.md",
@@ -446,7 +239,6 @@
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
-    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "Quem é de Verdade sabe quem é de mentira.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
     "2. Literature Notes/Topics/Untitled",
@@ -456,7 +248,6 @@
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
-    "2. Literature Notes/Topics/Se você acha, você não tem certeza. Então, você não sabe.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
