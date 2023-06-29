@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "46b7a0b4a6a02735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quem é de Verdade sabe quem é de mentira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5d8ae4e212941ff",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidia",
+                "query": "amor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -276,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
+                "file": "Quem é de Verdade sabe quem é de mentira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
+                "file": "Quem é de Verdade sabe quem é de mentira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md"
+                "file": "Quem é de Verdade sabe quem é de mentira.md"
               }
             }
           },
@@ -364,10 +376,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94dfdb85179926c0",
+  "active": "46b7a0b4a6a02735",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
+    "Quem é de Verdade sabe quem é de mentira.md",
+    "2. Literature Notes/Topics/Untitled",
+    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
     "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
     "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
@@ -391,7 +405,6 @@
     "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
@@ -403,7 +416,6 @@
     "7. Creator",
     "6. Shots, Images & PDFs/7.",
     "Readwise/Books",
-    "Readwise",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
