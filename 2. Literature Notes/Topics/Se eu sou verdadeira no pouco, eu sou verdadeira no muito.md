@@ -1,13 +1,17 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Merielly Lima]]
 
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
 Tenha coragem de falar a Verdade sempre.
 
-Comece falar a Ve
+Comece falar a Verdade o tempo inteiro. Seja verdadeiro consigo mesmo para tudo. É algo muito simples e muda a sua vida para sempre. A Verdade liberta.
+
+Como Jesus dizia: Que o seu falar seja sim, sim, ou não, não.
+
+Escolha a frequência da Verdade o tempo inteiro. Você falando minúsculas verdades, seja com o minuto, com a hora,
 
 **COMO:**
 
@@ -18,6 +22,7 @@ Comece falar a Ve
 ---------
 
 **Oeste: similar**
+- [[Existem 4 lugares proibidos]]
 
 **Leste: oposto**
 
