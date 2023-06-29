@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md",
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/MBTI.md"
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md"
               }
             }
           },
@@ -232,8 +231,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b6ddc7cfdb609e2",
+  "active": "a674a6b645b64f46",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "2. Literature Notes/Topics/crenças.md",
@@ -260,7 +260,6 @@
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/Enquanto eu não aprendo a aplaudir o sucesso do outro, o sucesso tem medo de mim.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
