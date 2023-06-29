@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "a674a6b645b64f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a226087e543cc0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5d8ae4e212941ff",
             "type": "leaf",
             "state": {
@@ -195,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amor",
+                "query": "princípio do m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +246,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
+                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
+                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md"
+                "file": "2. Literature Notes/Topics/Princípio do Mentalismo.md"
               }
             }
           },
@@ -376,12 +399,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "594ca4ca8d66b93a",
+  "active": "2a226087e543cc0f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Consciência nunca é demais.md",
+    "O meu único poder é fazer por mim.md",
+    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
+    "2. Literature Notes/Topics/Oração da Verdade.md",
+    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
     "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
     "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
-    "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
-    "O meu único poder é fazer por mim.md",
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
@@ -390,9 +417,6 @@
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
     "2. Literature Notes/Topics/Untitled",
     "2. Literature Notes/Topics/Princípio do Mentalismo.md",
-    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
-    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-    "2. Literature Notes/Topics/Oração da Verdade.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
@@ -404,7 +428,6 @@
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "Toda pessoa que para na sua frente é seu espelho.md",
     "Nunca mais peça desconto.md",
-    "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",

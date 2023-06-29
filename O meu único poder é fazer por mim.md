@@ -9,7 +9,7 @@ Se coloque em primeiro lugar. Escolha se colocar em primeiro lugar. Escolha o am
 
 Só faça o que você quiser fazer.
 
-O que é inteligente fazer por mim mesma nesse momento?
+>[!important] O que é inteligente fazer por mim mesma nesse momento?
 
 **COMO:**
 

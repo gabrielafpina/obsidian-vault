@@ -20,6 +20,8 @@ Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para pod
 
 >[!important] Para você Ser, é inteligente você criar antes o que o seu coração quer ser.
 
+Dedique um tempo todo dia para pensar e se observar. [[Para manifes]]
+
 **COMO:**
 
 **PENSADORES:**
@@ -35,6 +37,7 @@ Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para pod
 
 **Norte: ideia/pergunta**
 - [[Consciente e Inconsciente]]
+- [[crenças]]
 
 **Sul: para onde vai**
 - [[Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá]]
