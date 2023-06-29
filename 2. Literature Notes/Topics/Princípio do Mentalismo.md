@@ -18,15 +18,6 @@ Todas as vezes que você escreve o que você tem na sua mente, você manifesta.
 
 Eu decreto, eu escolhi criar a minha própria realidade. Você é livre para poder escolher criar tudo o que você quiser.
 
-Nós cocriamos tudo o tempo inteiro. Isso é possível. Você só precisa escolher se abrir para a lei do mentalismo, para que você possa cocriar de verdade.
-
-Escreva com detalhes o que você quer que aconteça, porque acontece.
-- O que você quer que aconteça
-- Como você quer que aconteça
-- Com quem você quer que aconteça
-
-[[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]. É inteligente que você faça pedidos elevados. Peça a elevação e o despertar da sua própria consciência. Quando você pede consciência, tudo se manifesta.
-
 **COMO:**
 
 **PENSADORES:**
@@ -46,3 +37,4 @@ Escreva com detalhes o que você quer que aconteça, porque acontece.
 **Sul: para onde vai**
 - [[Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá]]
 - [[Tudo é uma escolha]]
+- [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]

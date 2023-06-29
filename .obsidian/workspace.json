@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "594ca4ca8d66b93a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac8ef99d5d4dbb82",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md"
+                "file": "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md"
               }
             }
           },
@@ -328,10 +340,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5d8ae4e212941ff",
+  "active": "594ca4ca8d66b93a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
+    "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
+    "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/Oração da Verdade.md",
@@ -355,7 +368,6 @@
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
-    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
