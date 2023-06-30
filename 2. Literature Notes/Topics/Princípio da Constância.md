@@ -23,7 +23,9 @@ O aumento da tensão interna deslocará a energia psíquica no sentido de produz
 
 A experiência da dor está exposta a 'estímulos externos' que aumentam a tensão no sistema nervoso. A quantidade de energia externas excessivamente grande rompe os dispositivos de defesa ocorrendo a sensação da dor.
 	Com a mente, é a mesma coisa. Assim, quando você dá brechas para pensamentos negativos, para o mau humor e irritabilidade, pessimismo e negativismo, tudo isso vão abrindo fendas na sua personalidade.
-A dor, produz, ainda, um grande aumento de tensão, o
+A dor, produz, ainda, um grande aumento de tensão, o que levará, consequentemente, a uma propensão à descarga. Ou seja, é tensão em cima de tensão.
+
+Nas lembranças dolorosas, o desprazer é liberado no interior do corpo e, de novo, transmitido. Sempre que você pensa em coisas ruins, a dor vem de novo.
 
 
 **COMO:**
@@ -31,6 +33,7 @@ A dor, produz, ainda, um grande aumento de tensão, o
 **PENSADORES:**
 
 **FRASES:**
+- [[Sigmund Freud]]: 'qual é a sua responsabilidade na desordem da qual você se queixa?'
 
 ---------
 
