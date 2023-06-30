@@ -35,6 +35,11 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 
 **Norte: ideia/pergunta**
 - [[Consciente e Inconsciente]]
+- [[De onde vem as nossas crenças?]]
+- [[Todas as suas crenças começam no ventre da sua mãe]]
 
 **Sul: para onde vai**
-- 
+- [[Quais são as áreas que mais existem crenças?]]
+- [[As crenças são os compassos e os mapas que nos guiam em direção a nossas metas]]
+- [[Os 5 principais tipos de crenças]]
+- [[Tudo é uma escolha]]

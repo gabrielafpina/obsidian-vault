@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "31cc39d4ee49fbc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a2920b73dd99c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7adcfe8acf02925b",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -240,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sexo é divino.md",
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sexo é divino.md",
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sexo é divino.md"
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md"
               }
             }
           },
@@ -328,8 +353,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a02932387cc80ed1",
+  "active": "31cc39d4ee49fbc4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "sexo é divino.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/Deus é puro tesão.md",
@@ -337,7 +364,6 @@
     "Deus fez os seres humanos para serem 100% saudáveis.md",
     "Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
-    "2. Literature Notes/Topics/crenças.md",
     "4. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
@@ -355,7 +381,6 @@
     "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
-    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",

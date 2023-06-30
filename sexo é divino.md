@@ -11,7 +11,7 @@ Existe a diferença entre o sagrado e o profano. O sexo é sagrado, porque ele m
 
 Tudo que me tira a consciência do aqui e agora está me distanciando de Deus e isso pode ser considerado profano. Essa é a diferença do profano para o sagrado.
 
-É muito inteligente limpar as [[crenças]] sobre o sexo, porque delas derivam tudo. O que eu acredito sobre o sexo?
+É muito inteligente limpar as [[crenças]] sobre o sexo, porque delas derivam tudo. O que eu acredito sobre o sexo? O que eu acredito sobre o orgasmo?
 
 **COMO:**
 
