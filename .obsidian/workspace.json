@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "e1d5e180a519aac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b875204f6e322713",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -300,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md"
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md"
               }
             }
           },
@@ -388,10 +400,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd08ce69d10049e0",
+  "active": "e1d5e180a519aac8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
+    "2. Literature Notes/Topics/Princípio da Constância.md",
+    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
@@ -415,7 +428,6 @@
     "2. Literature Notes/Topics/Princípio do Mentalismo.md",
     "Para manifestar, é importante visualizar.md",
     "2. Literature Notes/Topics/O meu único poder é fazer por mim.md",
-    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
