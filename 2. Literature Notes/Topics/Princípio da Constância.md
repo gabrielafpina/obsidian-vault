@@ -23,6 +23,8 @@ O aumento da tensão interna deslocará a energia psíquica no sentido de produz
 
 A experiência da dor está exposta a 'estímulos externos' que aumentam a tensão no sistema nervoso.
 
+[[A nossa mente é como se fosse um balão]]
+
 **COMO:**
 
 **PENSADORES:**
