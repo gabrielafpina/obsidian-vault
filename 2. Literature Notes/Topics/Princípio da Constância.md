@@ -14,7 +14,10 @@ Mas, mais importante do que isso, é que não haja grandes alterações de tens�
 Assim, embora o princípio do prazer continue a ser importante, ele vai obedecer a um outro princípio mais elevado: o princípio da constância, que vai manter o ritmo nervoso no estado de equilíbrio, através dos neurônios sensoriais (percepção) e motores que levam a uma resposta no órgão ou estado emocional onde estiver ocorrendo a tensão. 
 	Por isso, temos uma tensão e uma descarga dessa tensão o tempo inteiro, para manter o ritmo equilibrado.
 
-Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. Quanto mais intenso, mais tensão.
+Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. Quanto mais intenso, mais tensão. É importante ter um ritmo alegre na vida para que tenhamos harmonia na vida.
+- Uma pessoa que tem um ritmo muito lento, pode estar em uma depressão
+- Uma pessoa que está em um ritmo muito acelerado pode estar em uma ansiedade
+A harmonia é ter ritmos acelerados e lentos, ao mesmo tempo. A vida é feita de ritmos mistos, no entanto, temos ritmos predominantes dentro da gente.
 
 **COMO:**
 
@@ -26,6 +29,7 @@ Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. Quanto mais intens
 
 **Oeste: similar**
 - [[Canais Sensoriais]]
+- [[Mindfulness]]
 
 **Leste: oposto**
 
@@ -33,3 +37,4 @@ Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. Quanto mais intens
 
 **Sul: para onde vai**
 - [[Princípio do Prazer e Princípio da Realidade]]
+- [[A paz é o meu estado natural]]
