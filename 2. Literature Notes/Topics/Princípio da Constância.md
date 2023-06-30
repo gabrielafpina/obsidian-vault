@@ -11,7 +11,10 @@ Nesta teoria, Freud baseia-se na ideia de que cada vez que a tensão aumente, de
 
 Mas, mais importante do que isso, é que não haja grandes alterações de tensão, ou seja, não deixar elevar muito a tensão do seu valor normal e tentar manter uma variação, o mais constante possível.
 
-Assim, embora o princípio do prazer continue a ser importante, ele vai obedecer a um outro princípio mais elevado: o princípio da constância, que vai manter o ritmo nervoso no estado de equilíbrio, através dos neurônios sensoriais
+Assim, embora o princípio do prazer continue a ser importante, ele vai obedecer a um outro princípio mais elevado: o princípio da constância, que vai manter o ritmo nervoso no estado de equilíbrio, através dos neurônios sensoriais (percepção) e motores que levam a uma resposta no órgão ou estado emocional onde estiver ocorrendo a tensão. 
+	Por isso, temos uma tensão e uma descarga dessa tensão o tempo inteiro, para manter o ritmo equilibrado.
+
+Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. Quanto mais intenso, mais tensão.
 
 **COMO:**
 
@@ -22,10 +25,11 @@ Assim, embora o princípio do prazer continue a ser importante, ele vai obedecer
 ---------
 
 **Oeste: similar**
-- [[Princípio do Prazer e Princípio da Realidade]]
+- [[Canais Sensoriais]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Princípio do Prazer e Princípio da Realidade]]
