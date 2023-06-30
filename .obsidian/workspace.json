@@ -152,66 +152,6 @@
             }
           },
           {
-            "id": "e1d5e180a519aac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fe4d6bd8d11d842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como surgem as tensões emocionais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c8ad577b4aa387",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A nossa mente é como se fosse um balão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372c2823c87f0242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Princípio Psicossomático.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3411deb095685a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é o seu ritmo na vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b875204f6e322713",
             "type": "leaf",
             "state": {
@@ -248,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -360,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como surgem as tensões emocionais?.md",
+                "file": "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como surgem as tensões emocionais?.md",
+                "file": "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -400,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como surgem as tensões emocionais?.md"
+                "file": "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md"
               }
             }
           },
@@ -448,15 +388,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fe4d6bd8d11d842",
+  "active": "b875204f6e322713",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
+    "Qual é o seu ritmo na vida?.md",
     "2. Literature Notes/Topics/Princípio da Constância.md",
     "Como surgem as tensões emocionais?.md",
+    "Princípio de Nirvana.md",
     "A nossa mente é como se fosse um balão.md",
     "Quem dorme pouco perde a memória.md",
     "2. Literature Notes/Topics/Princípio Psicossomático.md",
-    "Qual é o seu ritmo na vida?.md",
-    "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
@@ -475,7 +416,6 @@
     "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
     "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
-    "2. Literature Notes/People/Merielly Lima.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
