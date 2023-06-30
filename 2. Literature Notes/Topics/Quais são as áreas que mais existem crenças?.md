@@ -11,6 +11,7 @@ As top 4 áreas que mais possuem [[crenças]] atreladas, são:
 - Sucesso profissional
 - Relacionamentos
 - Saúde
+	- Eu sou 100% saudável. Deus não criou doença para nenhuma idade.
 
 O que é tudo que você acredita sobre prosperidade?
 O que é tudo que você acredita sobre sucesso profissional?
@@ -36,3 +37,4 @@ Você pode ter sucesso em todas as áreas da sua vida, a partir do momento em qu
 
 **Sul: para onde vai**
 - [[O dinheiro não é positivo e também não é negativo]]
+- [[Ninguém tem que porra nenhuma]]
