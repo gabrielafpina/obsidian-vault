@@ -21,9 +21,10 @@ O princípio da constância deriva diretamente das observações clínicas nas d
 O aumento da tensão interna deslocará a energia psíquica no sentido de produzir alterações (descarga) no comportamento e na personalidade, de modo compulsivo e repetitivo. Quando o seu ritmo está muito acelerado, você tende a ter apagões na memória e você pode cometer erros sem perceber. Essa energia também pode se manifestar nos órgãos sob forma de doenças picossomáticas (outra forma de descarga de tensão). A descarga dessa tensão serve como alívio, onde o organismo tende a liberar a tensão o máximo possível, mesmo num estado inicial de dor.
 	Há um alívio, que pode criar uma nova dor, uma nova tensão, ou o acúmulo de tensões.
 
-A experiência da dor está exposta a 'estímulos externos' que aumentam a tensão no sistema nervoso.
+A experiência da dor está exposta a 'estímulos externos' que aumentam a tensão no sistema nervoso. A quantidade de energia externas excessivamente grande rompe os dispositivos de defesa ocorrendo a sensação da dor.
+	Com a mente, é a mesma coisa. Assim, quando você dá brechas para pensamentos negativos, para o mau humor e irritabilidade, pessimismo e negativismo, tudo isso vão abrindo fendas na sua personalidade.
+A dor, produz, ainda, um grande aumento de tensão, o
 
-[[A nossa mente é como se fosse um balão]]
 
 **COMO:**
 
@@ -46,3 +47,4 @@ A experiência da dor está exposta a 'estímulos externos' que aumentam a tens�
 - [[A paz é o meu estado natural]]
 - [[Princípio Psicossomático]]
 - [[princípio da compulsão à repetição]]
+- [[A nossa mente é como se fosse um balão]]

@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quem dorme pouco perde a memória.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quem dorme pouco perde a memória.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -400,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quem dorme pouco perde a memória.md"
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md"
               }
             }
           },
@@ -448,7 +448,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "374a4099f8908530",
+  "active": "e1d5e180a519aac8",
   "lastOpenFiles": [
     "A nossa mente é como se fosse um balão.md",
     "Quem dorme pouco perde a memória.md",
