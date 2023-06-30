@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsid",
+                "query": "princípio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -400,7 +400,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1d5e180a519aac8",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
     "2. Literature Notes/Topics/Princípio da Constância.md",
