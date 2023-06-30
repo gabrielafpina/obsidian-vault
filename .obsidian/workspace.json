@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0a8c8d48f24a49c4",
+            "id": "a9d4336ec1d576f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "b875204f6e322713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O dinheiro não é positivo e também não é negativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53a2920b73dd99c7",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cren",
+                "query": "obsid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,13 +210,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -265,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "O dinheiro não é positivo e também não é negativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "O dinheiro não é positivo e também não é negativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md"
+                "file": "O dinheiro não é positivo e também não é negativo.md"
               }
             }
           },
@@ -353,19 +363,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31cc39d4ee49fbc4",
+  "active": "b875204f6e322713",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "sexo é divino.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+    "4. Me, Myself and I/Testes/MBTI.md",
+    "Só de ter nascido eu já sou capaz.md",
+    "O dinheiro não é positivo e também não é negativo.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/Deus é puro tesão.md",
     "Todas as suas crenças começam no ventre da sua mãe.md",
     "Deus fez os seres humanos para serem 100% saudáveis.md",
-    "Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
-    "4. Me, Myself and I/Testes/MBTI.md",
-    "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "Merielly Lima.md",
     "Henry Ford.md",
@@ -379,8 +391,6 @@
     "2. Literature Notes/Topics/É bom demais só porque é verdadeiro.md",
     "Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus.md",
     "2. Literature Notes/Topics/O mais alto grau de satisfação está na simplicidade.md",
-    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
-    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",

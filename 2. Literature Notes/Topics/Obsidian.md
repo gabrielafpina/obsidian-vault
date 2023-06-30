@@ -48,6 +48,7 @@ Cmd + Shift + F
 
 >[!note]
 
+>[!important]
 
 **Adicionando uma imagem de link externo**
 ![write whatever](https://m.media-amazon.com/images/I/41K+8hD-9nS.jpg)
