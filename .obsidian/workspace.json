@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -324,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é o seu ritmo na vida?.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é o seu ritmo na vida?.md",
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é o seu ritmo na vida?.md"
+                "file": "2. Literature Notes/Topics/Princípio da Constância.md"
               }
             }
           },
@@ -412,10 +412,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3411deb095685a3",
+  "active": "e1d5e180a519aac8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Princípio da Constância.md",
     "Qual é o seu ritmo na vida?.md",
+    "2. Literature Notes/Topics/Princípio da Constância.md",
     "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",

@@ -16,6 +16,8 @@ Assim, embora o princípio do prazer continue a ser importante, ele vai obedecer
 
 Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. [[Qual é o seu ritmo na vida?]]
 
+O princípio da constância deriva diretamente das observações clínicas nas doenças físicas e emocionais (especialmente no que diz respeito a ideias excessivamente intensas). Freud observou o PC na histeria e nas neuroses obsessivas, nas quais, a característica quantitativa da energia emerge com mais intensidade do que seria normal.
+
 **COMO:**
 
 **PENSADORES:**

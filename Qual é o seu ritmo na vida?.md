@@ -24,6 +24,7 @@ A dificuldade surgirá, quando você começar a retroagir nos seus ritmos. Se vo
 ---------
 
 **Oeste: similar**
+- [[Mindfulness]]
 
 **Leste: oposto**
 
