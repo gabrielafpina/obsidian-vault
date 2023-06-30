@@ -19,6 +19,8 @@ Eu posso fazer isso **aqui**. (AMBIENTE)
 
 Uma simples frase tem níveis de consciência e você pode escolher frases que te empoderam.
 
+Temos, ainda, crenças a nível histórico, genético, de alma.
+
 **COMO:**
 
 **PENSADORES:**
