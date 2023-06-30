@@ -9,6 +9,8 @@
 
 >[!important] Seus pensamentos causam doenças. Emoções causam doenças
 
+Tem o objetivo de aliviar dores. Você somatiza e vai para o seu organismo.
+
 **COMO:**
 
 **PENSADORES:**

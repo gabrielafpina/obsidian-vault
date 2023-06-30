@@ -32,3 +32,4 @@ A dificuldade surgirá, quando você começar a retroagir nos seus ritmos. Se vo
 
 **Sul: para onde vai**
 - [[A paz é o meu estado natural]]
+- [[Princípio Psicossomático]]

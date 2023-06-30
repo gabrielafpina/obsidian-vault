@@ -18,6 +18,11 @@ Isso tudo está relacionado ao *ritmo de vida* de uma pessoa. [[Qual é o seu ri
 
 O princípio da constância deriva diretamente das observações clínicas nas doenças físicas e emocionais (especialmente no que diz respeito a ideias excessivamente intensas). Freud observou o PC na histeria e nas neuroses obsessivas, nas quais, a característica quantitativa da energia emerge com mais intensidade do que seria normal.
 
+O aumento da tensão interna deslocará a energia psíquica no sentido de produzir alterações (descarga) no comportamento e na personalidade, de modo compulsivo e repetitivo. Quando o seu ritmo está muito acelerado, você tende a ter apagões na memória e você pode cometer erros sem perceber. Essa energia também pode se manifestar nos órgãos sob forma de doenças picossomáticas (outra forma de descarga de tensão). A descarga dessa tensão serve como alívio, onde o organismo tende a liberar a tensão o máximo possível, mesmo num estado inicial de dor.
+	Há um alívio, que pode criar uma nova dor, uma nova tensão, ou o acúmulo de tensões.
+
+A experiência da dor está exposta a 'estímulos externos' que aumentam a tensão no sistema nervoso.
+
 **COMO:**
 
 **PENSADORES:**
@@ -37,3 +42,5 @@ O princípio da constância deriva diretamente das observações clínicas nas d
 **Sul: para onde vai**
 - [[Princípio do Prazer e Princípio da Realidade]]
 - [[A paz é o meu estado natural]]
+- [[Princípio Psicossomático]]
+- [[princípio da compulsão à repetição]]
