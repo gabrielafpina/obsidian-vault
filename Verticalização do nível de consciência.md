@@ -18,6 +18,7 @@ Constantemente, as pessoas não conseguem al alcançar resultados diferentes em 
 **Oeste: similar*
 
 **Leste: oposto**
+- [[Aprendizado sem ação é só mais uma informação]]
 
 **Norte: ideia/pergunta**
 
