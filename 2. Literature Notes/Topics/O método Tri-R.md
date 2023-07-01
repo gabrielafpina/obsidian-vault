@@ -29,4 +29,4 @@ Esses são os 3 Rs para realização profissional, através da gestão avançada
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[A partir do momento em que eu tenho que seguir ]]
+- [[A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira]]
