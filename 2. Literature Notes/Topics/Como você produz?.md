@@ -16,7 +16,7 @@ Existem 3 tipos de pessoas e como elas funcionam quando o assunto é produtivida
 	3. Essa pessoa tem a tendência de entrar no caminho do burnout, pq se abandonou. Até que chega um momento em que ele não aguenta mais e joga na cara do outro tudo que ele vem fazendo para ajudar a outra pessoa. Só que, o que acontece, é que a pessoa também joga na cara dele que não pediu nada daquilo. Isso só faz com que o superfuncional fique ainda mais irritado. Ai ele se coloca na posição de vítima, achando que não está sendo reconhecido pela sua entrega. 
 	4. Normalmente, o superfuncional está em relacionamento com os subfuncionais. Então, sempre que você tiver um superfuncional perto de você, e você é o subfuncional, isso vai fazer com que você não se desenvolva.
 3. **Subfuncional**
-	1. 
+	1. Não quer assumir responsabilidades por nada, em qualquer âmbito. É muito desafiador estar ao lado dessa pessoa, porque você vai assumir o posto de super funcional e essa pessoa não vai fazer nada, por medo de assumir responsabilidades, e não vai se desenvolver. 
 
 **COMO:**
 
@@ -28,6 +28,7 @@ Existem 3 tipos de pessoas e como elas funcionam quando o assunto é produtivida
 
 **Oeste: similar**
 - [[Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar.]]
+- [[Integridade não é motivo para você fazer uma sociedade]]
 
 **Leste: oposto**
 
