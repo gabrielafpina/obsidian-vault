@@ -176,6 +176,18 @@
             }
           },
           {
+            "id": "2b94964d9c14b30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7929305fb93b5e6",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "o que o universo",
+                "query": "ajudar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md"
+                "file": "2. Literature Notes/Topics/Como você funciona?.md"
               }
             }
           },
@@ -411,8 +423,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53c04b8c7557a8e1",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
+    "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
@@ -437,8 +451,6 @@
     "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/Consciência nunca é demais.md",
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
