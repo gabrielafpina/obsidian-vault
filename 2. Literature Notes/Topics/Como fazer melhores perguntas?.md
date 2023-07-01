@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O ideal é evitarmos fazer perguntas que comecem com 'por quê?'. Isso porque, a pessoa traz na resposta algum tipo de crença que ela tenha respeito de algo. 
+O ideal é evitarmos fazer perguntas que comecem com 'por quê?'. Isso porque, a pessoa traz na resposta algum tipo de crença que ela tenha respeito de algo, justificativas que fazem a pessoa perpetuar resultados medíocres.
 
 >[!important] Crença = Noção de causa e efeito
 
@@ -18,6 +18,8 @@ Troque por
 - Onde 
 - Quando
 Quando você faz essas perguntas, pessoa te dar muito mais respostas detalhadas, que facilitam saber como argumentar com ela e mudar a sua opinião. 
+
+O uso do ´como´ é muito eficaz.
 
 **COMO:**
 
