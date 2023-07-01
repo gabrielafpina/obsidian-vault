@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Tudo aquilo que conversamos antes, com antecedência, vai ter muito mais efeito a longo prazo, do que aquilo que vamos consertando no meio do caminho.
 
+É o famoso ´o combinado não sai caro´
+
 **COMO:**
 
 **PENSADORES:**
