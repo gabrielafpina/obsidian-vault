@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você produz?.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "mode": "source",
                 "source": false
               }
@@ -280,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -391,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -408,7 +408,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -431,7 +431,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md"
+                "file": "2. Literature Notes/Topics/Como você funciona?.md"
               }
             }
           },
@@ -479,9 +479,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e87c14b20a85418",
+  "active": "2b94964d9c14b30b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como você produz?.md",
+    "Aprendizado sem ação é só mais uma informação 2.md",
+    "como-voce-funciona.pdf",
+    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+    "2. Literature Notes/Topics/Como você funciona?.md",
     "Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "Integridade não é motivo para você fazer uma sociedade.md",
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
@@ -505,8 +508,6 @@
     "Quem dorme pouco perde a memória.md",
     "2. Literature Notes/Topics/Princípio Psicossomático.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
-    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
@@ -518,7 +519,6 @@
     "7. Creator/Reels",
     "7. Creator",
     "6. Shots, Images & PDFs/7.",
-    "Readwise/Books",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",

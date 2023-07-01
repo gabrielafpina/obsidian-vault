@@ -26,7 +26,7 @@ Não deixe de lado o que é seu para fazer pelo outro.
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
-- [[Como você produz?]]
+- [[Como você funciona?]]
 
 **Sul: para onde vai**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]

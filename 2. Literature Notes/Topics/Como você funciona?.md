@@ -17,6 +17,7 @@ Existem 3 tipos de pessoas e como elas funcionam quando o assunto é produtivida
 	4. Normalmente, o superfuncional está em relacionamento com os subfuncionais. Então, sempre que você tiver um superfuncional perto de você, e você é o subfuncional, isso vai fazer com que você não se desenvolva.
 3. **Subfuncional**
 	1. Não quer assumir responsabilidades por nada, em qualquer âmbito. É muito desafiador estar ao lado dessa pessoa, porque você vai assumir o posto de super funcional e essa pessoa não vai fazer nada, por medo de assumir responsabilidades, e não vai se desenvolver. 
+![[como-voce-funciona.pdf]]
 
 **COMO:**
 
