@@ -9,6 +9,8 @@ Para quem não pede ajuda, não é inteligente ajudar. As pessoas estão pedindo
 
 É sempre sobre mim, só sobre mim. [[O meu único poder é fazer por mim]].
 
+Não deixe de lado o que é seu para fazer pelo outro. 
+
 **COMO:**
 
 **PENSADORES:**
@@ -24,6 +26,7 @@ Para quem não pede ajuda, não é inteligente ajudar. As pessoas estão pedindo
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
+- [[Como você produz?]]
 
 **Sul: para onde vai**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
