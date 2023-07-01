@@ -263,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajudar",
+                "query": "amar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -443,7 +443,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b94964d9c14b30b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/Como você produz?.md",

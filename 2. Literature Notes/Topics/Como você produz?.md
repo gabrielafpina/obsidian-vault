@@ -12,7 +12,9 @@ Existem 3 tipos de pessoas e como elas funcionam quando o assunto é produtivida
 	3. Tem clareza das responsabilidades de todas as áreas da sua vida. Todas as suas relações precisam ser otimizadas também e ele tem em mente que o combinado não sai caro. [[1g de pré-frame vale mais do que 100t de pós frame]] As responsabilidades são divididas e assumidas.
 2. **Superfuncional**
 	1. A pessoa que assume um excesso de responsabilidades de quem está ao seu redor, em todas as áreas da vida (negócios, amor, amizade)
-	2. Ele assume responsabilidades em excesso, pegando o tempo da sua vida e fazendo coisas da vida das outras pessoas, sendo que o que e
+	2. Ele assume responsabilidades em excesso, pegando o tempo da sua vida e fazendo coisas da vida das outras pessoas, sendo que o que ele está fazendo pelo outro, não está fazendo por si mesmo. Além disso, começa a fazer pelo outro coisas que o outro não pediu.
+	3. Essa pessoa tem a tendência de entrar no caminho do burnout, pq se abandonou. Até que chega um momento em que ele não aguenta mais e joga na cara do outro tudo que ele vem fazendo para ajudar a outra pessoa. Só que, o que acontece, é que a pessoa também joga na cara dele que não pediu nada daquilo. Isso só faz com que o superfuncional fique ainda mais irritado. Ai ele se coloca na posição de vítima, achando que não está sendo reconhecido pela sua entrega. 
+	4. Normalmente, o superfuncional está em relacionamento com os subfuncionais. Então, sempre que você tiver um superfuncional perto de você, e você é o subfuncional, isso vai fazer com que você não se desenvolva.
 3. **Subfuncional**
 	1. 
 
@@ -25,6 +27,7 @@ Existem 3 tipos de pessoas e como elas funcionam quando o assunto é produtivida
 ---------
 
 **Oeste: similar**
+- [[Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar.]]
 
 **Leste: oposto**
 
