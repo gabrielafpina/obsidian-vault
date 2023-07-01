@@ -9,6 +9,10 @@ Elimine o verbo tentar da sua vida. Não existe uma ação para esse verbo. O ve
 
 Que o seu falar seja apenas sim ou não. Jamais, tentar.
 
+Quais são os impactos de falar que vai tentar?
+1. Descomprometimento
+	1. Você não se comprometeu com algo e nem falou conscientemente quando e como vai fazer aquilo
+
 **COMO:**
 
 **PENSADORES:**

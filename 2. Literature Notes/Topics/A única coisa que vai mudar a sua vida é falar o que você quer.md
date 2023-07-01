@@ -8,7 +8,9 @@
 
 É sobre começar a tomar posse do seu lugar no mundo.
 
-Além dissok,
+Além disso, quando você comunica o que você não quer, como quer que o outro saiba o que você quer? Existem milhões de hipóteses sobre o que você quer e eu não sei o que o outro quer, porque o mais importante ele não verbalizou. Ao invés de perder tempo e energia falando do que não quer, fale com especificidade o que você almeja.
+
+Isso elimina a subjetividade da comunicação e não existe dúvida.
 
 **COMO:**
 
