@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Como você produz?.md",
                 "mode": "source",
                 "source": false
               }
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Como você produz?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Como você produz?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md"
+                "file": "2. Literature Notes/Topics/Como você produz?.md"
               }
             }
           },
@@ -423,10 +423,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "2b94964d9c14b30b",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
-    "2. Literature Notes/Topics/Como você funciona?.md",
+    "2. Literature Notes/Topics/Como você produz?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
