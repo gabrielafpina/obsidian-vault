@@ -38,6 +38,30 @@
             }
           },
           {
+            "id": "ae59d9a1bbeb96be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnica de Sobreposição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fc0dfca40e07a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fab485fca3113cb1",
             "type": "leaf",
             "state": {
@@ -185,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -273,11 +297,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fab485fca3113cb1",
+  "active": "475d940d006d301a",
   "lastOpenFiles": [
+    "Técnica de Sobreposição.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Representação interna.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Topics/crenças.md",
     "Como procrastinar menos?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
@@ -299,8 +325,6 @@
     "2. Literature Notes/Topics/Deus é puro tesão.md",
     "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
-    "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
