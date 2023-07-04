@@ -14,7 +14,7 @@ Os 3 lados são:
 2. **Foco:** onde você coloca a sua atenção. 
 	1. Dependendo de pra onde você coloca a sua atenção, isso muda o seu estado emocional. Se você só olha para o negativo, é só isso que você vai ver.
 	2. Comece a colocar o foco nas coisas positivas.
-3. **Palavras:** tudo aquilo que você di
+3. **Palavras:** tudo aquilo que você diz e comunica para si mesmo e para o outro vai influenciar em como você se sente.
 
 **COMO:**
 
@@ -32,3 +32,4 @@ Os 3 lados são:
 - [[Como criar um estado emocional?]]
 
 **Sul: para onde vai**
+- [[Desafio de 21 dias para mudança de estados emocionais]]
