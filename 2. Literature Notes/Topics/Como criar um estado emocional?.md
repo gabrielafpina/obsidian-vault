@@ -28,6 +28,7 @@ Se você já alcançou determinado estado na sua vida, você sempre pode voltar 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Modelagem]]
 
 **Sul: para onde vai**
 - [[Como procrastinar menos?]]

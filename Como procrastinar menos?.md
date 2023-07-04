@@ -13,6 +13,8 @@ Ao refletir sobre a seguinte pergunta: [[Como criar um estado emocional?]], pode
 
 Nesse sentido, dependendo da forma como vemos determinada imagem na nossa cabeça, como sentimos aquilo e a forma como estamos falando conosco, aquilo pode nos paralisar. Por outro lado, quando temos consciência de como estamos representando esse algo dentro de nós, podemos começar a alterar essa representação e, consequentemente, isso pode nos fazer tomar a ação necessária para executar.
 
+Para saber o que te faz procrastinar, pergunte-se: 'Como eu procrastino? Se uma pessoa estivesse no meu lugar, de que maneira procrastinaria? O que imaginaria? O que diria para si mesma? Como diria isso? Que tonalidade usaria?'.
+
 **COMO:**
 
 **PENSADORES:**
