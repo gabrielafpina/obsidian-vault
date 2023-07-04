@@ -12,6 +12,10 @@
 2. [[Fisiologia]]: Coisas como tensão muscular, o que comemos, como respiramos, nossa postura, o nível global de nosso funcionamento bioquímico, tudo provoca um impacto importante em nosso estado.
 A representação interna e a fisiologia trabalham juntas, num enlace cibernético. Tudo que afeta uma, automaticamente afetará a outra. 
 
+Muitas vezes, para alterar determinado estado emocional, algumas pessoas se viciam em determinadas coisas. Mas isso é ruim, porque quando você se vicia em algo, você precisa daquele algo o tempo inteiro, ou você não consegue mudar o seu estado.
+
+1. Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer
+
 **IMPORTANTE:**
 Se você já alcançou determinado estado na sua vida, você sempre pode voltar para ele, é apenas importante aprender a maneira como você alcançou aquilo.
 
