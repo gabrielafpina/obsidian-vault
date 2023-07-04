@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "como mudar",
+                "query": "depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -309,7 +309,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9ce41177786e88a",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Sistema Swish.md",
