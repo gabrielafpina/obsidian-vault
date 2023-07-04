@@ -21,7 +21,8 @@ O que a maior parte das pessoas não tem em mente, no entanto, é que crenças s
 - [[2. Literature Notes/Readwise/Books/Poder Sem Limites|Poder Sem Limites]]: 
 	- Uma crença é qualquer princípio orientador, máximas, fé ou paixão que pode proporcionar significado e direção na vida. Estímulos ilimitados estão disponíveis para nós. Crenças são os filtros pré-arranjados e organizados para nossas percepções do mundo. São como comandos do cérebro. Quando acreditamos com convicção que alguma coisa é verdade, é como se enviássemos um comando para nosso cérebro de como representar o que está ocorrendo.
 	- A crença não é mais que um estado, uma [[Representação interna]], que governa o comportamento. 
-	- O que são crenças? São abordagens para a percepção, pré-formadas, pré-organizadas, que filtram nossa comunicação para nós mesmos, de maneira consistente. ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1034))
+	- O que são crenças? São abordagens para a percepção, pré-formadas, pré-organizadas, que filtram nossa comunicação para nós mesmos, de maneira consistente. 
+	- Lembre-se: uma crença é um forte estado emocional de certeza que você mantém sobre pessoas, coisas, ideias ou experiências específicas de vida. Como você cria essa certeza? Por meio de submodalidades específicas.
 - [[Sam Jolen]]: Toda crença é uma noção de causa e efeito.
 	- Ex: Se _____, então _____.
 		Se eu sou uma boa pessoa, então eu vou para o céu.
