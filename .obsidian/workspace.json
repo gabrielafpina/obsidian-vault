@@ -36,6 +36,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "589915ede9c55a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -56,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "representa",
+                "query": "como mudar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,6 +251,7 @@
   "active": "6ded9b8d917f795c",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
@@ -263,7 +276,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
-    "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação 2.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
