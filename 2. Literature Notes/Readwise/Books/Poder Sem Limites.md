@@ -181,7 +181,7 @@
 - Compromisso é um componente importante do sucesso em qualquer campo. ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1406))
 - Gosto de usar a expressão W.I.T. [Whatever It Takes], isto é, o que for necessário. As pessoas bem-sucedidas estão a fim de fazer o que for necessário para terem sucesso (sem, é claro, prejudicar alguém). Isso, tanto quanto alguma outra coisa, é o que as distingue das outras. ([Location 1412](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1412))
 - Lembre-se: o sucesso deixa pistas. Estude aqueles que são sucesso. Descubra as crenças-chave que têm e que intensificam a habilidade para tomar medidas efetivas consistentemente e produzir resultados relevantes. ([Location 1416](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1416))
-## New highlights added June 19, 2023 at 2:12 PM
+## Capítulo 6
 - “Não encontre um defeito, encontre uma solução.” — HENRY FORD ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1434))
 - Em geral, não faltam recursos às pessoas: falta-lhes o controle sobre seus recursos. ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1438))
 - Vejo nossa atividade neurológica mais como toca-discos do que como se toda a dor agisse como um fluido letal. O que, na realidade, acontece é que os seres humanos têm experiências que são gravadas. Nós as guardamos no cérebro como discos em um aparelho de som. Assim como os discos, nossas gravações podem ser tocadas outra vez, a qualquer momento, se o estímulo certo em nosso ambiente for desencadeado, se o botão certo for acionado. ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B07641N34C&location=1459))

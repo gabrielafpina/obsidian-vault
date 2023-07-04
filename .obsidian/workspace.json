@@ -4,283 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "cadc88cab5a08895",
+        "id": "1a71828ccf3440df",
         "type": "tabs",
         "children": [
           {
-            "id": "a674a6b645b64f46",
+            "id": "475d940d006d301a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Consciência nunca é demais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9d4336ec1d576f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8eaec841c1534b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c5ae1a88e8b8491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa8bbc2636538045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d3abc0d0344500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Deus é puro tesão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a02932387cc80ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/sexo é divino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31cc39d4ee49fbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06c523330355e7d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa9182b75873187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91fdae40956d1bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd08ce69d10049e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b875204f6e322713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O método Tri-R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53c04b8c7557a8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b94964d9c14b30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e87c14b20a85418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "037933ab6524dfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cf3499838df8191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integridade não é motivo para você fazer uma sociedade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc00487b07fc1b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdbbcee15c74c2db",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7929305fb93b5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7adcfe8acf02925b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b53b09b519899a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 14
+        ]
+      },
+      {
+        "id": "5dcb56b36d493902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ded9b8d917f795c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Representação interna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amar",
+                "query": "representa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -391,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Representação interna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -408,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Representação interna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -431,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md"
+                "file": "2. Literature Notes/Topics/Representação interna.md"
               }
             }
           },
@@ -479,35 +236,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b94964d9c14b30b",
+  "active": "6ded9b8d917f795c",
   "lastOpenFiles": [
-    "Aprendizado sem ação é só mais uma informação.md",
-    "Aprendizado sem ação é só mais uma informação 2.md",
-    "como-voce-funciona.pdf",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Representação interna.md",
+    "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
+    "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
+    "2. Literature Notes/Topics/A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
+    "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
+    "2. Literature Notes/Topics/Integridade não é motivo para você fazer uma sociedade.md",
+    "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
-    "Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
-    "Integridade não é motivo para você fazer uma sociedade.md",
-    "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
-    "2. Literature Notes/Topics/Tudo é uma escolha.md",
-    "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
-    "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
-    "Aprendizado sem ação é so.md",
-    "Verticalização do nível de consciência.md",
     "2. Literature Notes/Topics/O método Tri-R.md",
-    "A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
-    "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
     "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
-    "Qual é o seu ritmo na vida?.md",
-    "2. Literature Notes/Topics/Princípio da Constância.md",
-    "Como surgem as tensões emocionais?.md",
-    "Princípio de Nirvana.md",
-    "A nossa mente é como se fosse um balão.md",
-    "Quem dorme pouco perde a memória.md",
-    "2. Literature Notes/Topics/Princípio Psicossomático.md",
-    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
+    "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+    "2. Literature Notes/Topics/sexo é divino.md",
+    "2. Literature Notes/Topics/Deus é puro tesão.md",
+    "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
+    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "2. Literature Notes/Topics/Porque o elefante não foge do circo?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Consciência nunca é demais.md",
+    "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
+    "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação 2.md",
+    "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
