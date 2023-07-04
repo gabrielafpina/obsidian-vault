@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "1a71828ccf3440df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "475d940d006d301a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5dcb56b36d493902",
         "type": "tabs",
         "children": [
@@ -32,54 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Representação interna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae59d9a1bbeb96be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Técnica de Sobreposição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9ce41177786e88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Swish.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4fc0dfca40e07a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fab485fca3113cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md"
               }
             }
           },
@@ -309,16 +243,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fab485fca3113cb1",
+  "active": "589915ede9c55a12",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/crenças.md",
-    "Sistema Swish.md",
+    "2. Literature Notes/Topics/Representação interna.md",
     "Técnica de Sobreposição.md",
+    "Sistema Swish.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Como procrastinar menos?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
-    "2. Literature Notes/Topics/Representação interna.md",
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
     "2. Literature Notes/Topics/A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
