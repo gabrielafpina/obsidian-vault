@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ce3f843163b86b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tríade dos estados emocionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b6a28c7f1a8a9c60",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+                "file": "Tríade dos estados emocionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+                "file": "Tríade dos estados emocionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md"
+                "file": "Tríade dos estados emocionais.md"
               }
             }
           },
@@ -243,8 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "589915ede9c55a12",
+  "active": "ce3f843163b86b9e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como criar um estado emocional?.md",
+    "Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "Técnica de Sobreposição.md",
     "Sistema Swish.md",
@@ -252,7 +266,6 @@
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Como procrastinar menos?.md",
-    "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
     "2. Literature Notes/Topics/A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
@@ -270,7 +283,6 @@
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/sexo é divino.md",
     "2. Literature Notes/Topics/Deus é puro tesão.md",
-    "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",

@@ -14,7 +14,9 @@ A representação interna e a fisiologia trabalham juntas, num enlace cibernéti
 
 Muitas vezes, para alterar determinado estado emocional, algumas pessoas se viciam em determinadas coisas. Mas isso é ruim, porque quando você se vicia em algo, você precisa daquele algo o tempo inteiro, ou você não consegue mudar o seu estado.
 
-1. Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer
+1. Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer trocar o seu estado emocional, ou seja, a forma como você se sente. Quando você está se sentindo mal, o que você costuma fazer para se sentir melhor?
+
+[[Tríade dos estados emocionais]]
 
 **IMPORTANTE:**
 Se você já alcançou determinado estado na sua vida, você sempre pode voltar para ele, é apenas importante aprender a maneira como você alcançou aquilo.
