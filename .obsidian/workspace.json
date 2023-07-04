@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "Técnica de Sobreposição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "Técnica de Sobreposição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
+                "file": "Técnica de Sobreposição.md"
               }
             }
           },
@@ -297,10 +297,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "475d940d006d301a",
+  "active": "ae59d9a1bbeb96be",
   "lastOpenFiles": [
-    "Técnica de Sobreposição.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "Técnica de Sobreposição.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/crenças.md",
