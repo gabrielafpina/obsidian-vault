@@ -1,0 +1,27 @@
+**TAGS:**
+
+**FONTE:** [[Merielly Lima]]
+
+**BIG IDEA:** 
+
+**DEFINIÇÃO:**
+Isso é uma crença ineficiente. Rápido e devagar é uma comparação. A comparação vem da energia da competição. E é muito inteligente eu estar 100% conectada, permanecer sabendo que eu não sou rápida nem devagar, eu sou eu mesma. eu tenho o meu tempo. minha alma tem o seu próprio tempo. cada alma está no seu tempo. e o seu tempo é o seu tempo perfeito, não é necessário se desculpar.
+
+eu estou o tempo todo no lugar certo, na hora certa, com a pessoa certa. tudo é correto do jeito que é, no tempo que é. é inteligente escolher viver essa realidade. eu respeito o tempo da minha alma.
+
+**COMO:**
+
+**PENSADORES:**
+
+**FRASES:**
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+- [[crenças]]
+
+**Sul: para onde vai**
