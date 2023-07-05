@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01fe719398b6488e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não da para dar carona a pé.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+                "file": "2. Literature Notes/Topics/Não da para dar carona a pé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+                "file": "2. Literature Notes/Topics/Não da para dar carona a pé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md"
+                "file": "2. Literature Notes/Topics/Não da para dar carona a pé.md"
               }
             }
           },
@@ -228,9 +240,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8996ed6c714e2af",
+  "active": "01fe719398b6488e",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+    "2. Literature Notes/Topics/Não da para dar carona a pé.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -256,7 +269,6 @@
     "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
-    "2. Literature Notes/Topics/O método Tri-R.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
