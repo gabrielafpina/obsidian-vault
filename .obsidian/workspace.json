@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "084a2ca0b948780a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef767a962f835304",
             "type": "leaf",
             "state": {
@@ -28,72 +16,12 @@
             }
           },
           {
-            "id": "4580f464ad20e8a6",
+            "id": "c8996ed6c714e2af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "728df688ba2c663b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1adeee09133f9079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/SPIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3f843163b86b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acedbda2f35b0d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6a28c7f1a8a9c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como procrastinar menos?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md"
+              }
             }
           },
           {
@@ -296,8 +228,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef767a962f835304",
+  "active": "c8996ed6c714e2af",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -324,7 +257,6 @@
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/O método Tri-R.md",
-    "2. Literature Notes/Topics/Eu desejo para cada pessoa o que ela deseja para ela mesma.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
