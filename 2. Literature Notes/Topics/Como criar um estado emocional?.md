@@ -39,3 +39,4 @@ Se você já alcançou determinado estado na sua vida, você sempre pode voltar 
 
 **Sul: para onde vai**
 - [[Como procrastinar menos?]]
+- [[SPIN]]
