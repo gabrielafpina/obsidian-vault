@@ -28,7 +28,19 @@
             }
           },
           {
-            "id": "01fe719398b6488e",
+            "id": "0dd56bb7efb2cd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b79279288bbecf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unti",
+                "query": "adulto inf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -239,12 +252,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01fe719398b6488e",
+  "active": "7b79279288bbecf8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
-    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+    "2. Literature Notes/Topics/O monge e a xícara vazia.md",
+    "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -267,7 +281,6 @@
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/Integridade não é motivo para você fazer uma sociedade.md",
     "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
-    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
