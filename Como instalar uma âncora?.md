@@ -13,7 +13,8 @@ A partir disso, entendemos que um hábito atrela-se, necessariamente, a alguma �
 
 Existem âncoras positivas e âncoras negativas, que remetem as pessoas a coisas positivas ou negativas.
 
-**COMO:**
+**COMO CRIAR UMA ÂNCORA POSITIVA:**
+
 
 **PENSADORES:**
 
