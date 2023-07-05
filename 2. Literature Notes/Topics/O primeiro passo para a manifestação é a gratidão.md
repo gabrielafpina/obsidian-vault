@@ -11,6 +11,10 @@ Tudo que não está legal e satisfatório, também está me comunicando que dent
 
 Tudo que está dentro de mim, materializa a minha vida que está dentro de mim.
 
+As minhas intenções se materializam ainda mais rápido se o que eu estou intencionando é para o bem maior de todos os envolvidos.
+
+Dinheiro sem intenção e propósito é ganância e pode, ainda, ser preguiça. Dinheiro com intenção e propósito, é materialização, manifestação.
+
 **COMO:**
 
 **PENSADORES:**
@@ -28,3 +32,4 @@ Tudo que está dentro de mim, materializa a minha vida que está dentro de mim.
 
 **Sul: para onde vai**
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
+- [[O dinheiro não é positivo e também não é negativo]]
