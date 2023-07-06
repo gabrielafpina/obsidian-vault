@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #content 
 
 **FONTE:** [[Merielly Lima]]
 
@@ -10,6 +10,8 @@ Isso é uma crença ineficiente. Rápido e devagar é uma comparação. A compar
 eu estou o tempo todo no lugar certo, na hora certa, com a pessoa certa. tudo é correto do jeito que é, no tempo que é. é inteligente escolher viver essa realidade. eu respeito o tempo da minha alma.
 
 não existe certo. não existe errado. existe a escolha de cada alma.
+
+nem mais, nem menos. sou eu. a vida não é uma competição. estamos aqui para evoluir juntos.
 
 **COMO:**
 
@@ -29,3 +31,4 @@ não existe certo. não existe errado. existe a escolha de cada alma.
 - [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
+- [[O amor é a cura]]
