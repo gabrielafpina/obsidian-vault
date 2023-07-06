@@ -11,7 +11,9 @@ Somos como se fôssemos uma semente. podemos ser essa semente para sempre (adorm
 
 somos consciência pura, ou seja, possibilidade pura. ser infinito e ilimitado é direito da minha alma.
 
-a potencialidade pura está no silêncio do aqui e agora.
+a potencialidade pura está no silêncio do aqui e agora. é a observação do silêncio absoluto. quando eu fico em silêncio, as respostas chegam.
+
+Só no silêncio que você escuta Deus te da direcionamento. a verdade já está no coração.
 
 **COMO:**
 
@@ -30,6 +32,7 @@ a potencialidade pura está no silêncio do aqui e agora.
 - [[O meu nível de ser atrai a minha vida]]
 - [[A paz é o meu estado natural]]
 - [[Mindfulness]]
+
 
 **Sul: para onde vai**
 - [[Fórmula do Entusiasmo]]

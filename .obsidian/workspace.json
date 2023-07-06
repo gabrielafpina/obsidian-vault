@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "96f1ebd3d8944004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Para toda regra tem uma ou mais exceção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "97b1160ae024d9ed",
             "type": "leaf",
             "state": {
@@ -82,18 +94,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b79279288bbecf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crença",
+                "query": "verdade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -321,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "2. Literature Notes/Topics/Para toda regra tem uma ou mais exceção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "2. Literature Notes/Topics/Para toda regra tem uma ou mais exceção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +360,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md"
+                "file": "2. Literature Notes/Topics/Para toda regra tem uma ou mais exceção.md"
               }
             }
           },
@@ -409,18 +408,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6018355054d58a1b",
+  "active": "96f1ebd3d8944004",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+    "2. Literature Notes/Topics/Para toda regra tem uma ou mais exceção.md",
+    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "Não se cobre e não se distraia.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "O amor é a cura.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "Fórmula do Entusiasmo.md",
     "Bashar.md",
     "Deepak Chopra.md",
     "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
     "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
-    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "'Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação'.md",
@@ -436,7 +436,6 @@
     "2. Literature Notes/Topics/SPIN.md",
     "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
-    "2. Literature Notes/Topics/Desafio de 21 dias para mudança de estados emocionais.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
