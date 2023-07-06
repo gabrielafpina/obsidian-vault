@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
+                "file": "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golden Circle.md",
+                "file": "2. Literature Notes/Topics/Golden Circle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0abe9c7ff1dcace2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15c6b66699dccf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+                "file": "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+                "file": "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,36 +140,12 @@
             }
           },
           {
-            "id": "b16d55405658cffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a6492b649f23ef1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2b9fbb4cb20ac19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,48 +164,12 @@
             }
           },
           {
-            "id": "a739273622b1a472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5bc199ce9ee1f7b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df1d0df00e39f455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee449c5b3df50db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação'.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xícara",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,7 +222,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -323,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Golden Circle.md",
+                "file": "2. Literature Notes/Topics/Golden Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Golden Circle.md",
+                "file": "2. Literature Notes/Topics/Golden Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golden Circle.md"
+                "file": "2. Literature Notes/Topics/Golden Circle.md"
               }
             }
           },
@@ -411,18 +376,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d816b959141ff7f2",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
+    "2. Literature Notes/Topics/Golden Circle.md",
+    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "Golden Circle.md",
-    "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
     "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/A simplicidade é o mais alto grau de satisfação.md",
-    "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
-    "É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
+    "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+    "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
@@ -434,11 +402,8 @@
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/'Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação'.md",
-    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-    "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
-    "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

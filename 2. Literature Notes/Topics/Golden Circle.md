@@ -11,6 +11,10 @@ As empresas e pessoas que estão conectadas com esse porque, é um outro nível 
 
 Tudo é frequência, então as almas corretas se identificam com isso. a sua alma esta aqui para fazer algo que só ela veio para fazer.
 
+Se conectar com o seu porque é se conectar com a sua Verdade, que é o que, de fato, magnetiza. se o seu porque tem uma intenção no seu coração, vai prosperar. se tem medo, vaidade ou preguiça, vai dar errado.
+
+tem gente esperando pelo seu serviço. tem gente que esta esperando a sua alma se manifestar. se tem a energia do medo, já está errado.
+
 **COMO:**
 
 **PENSADORES:**
@@ -27,5 +31,6 @@ Tudo é frequência, então as almas corretas se identificam com isso. a sua alm
 **Norte: ideia/pergunta**
 - [[Comunicação Não-Violenta (CNV)]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Você é fruto da sua própria fé]]
 
 **Sul: para onde vai**
