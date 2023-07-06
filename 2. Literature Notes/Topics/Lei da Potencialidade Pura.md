@@ -37,3 +37,4 @@ Só no silêncio que você escuta Deus te da direcionamento. a verdade já está
 - [[Fórmula do Entusiasmo]]
 - [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
 - [[É interessante que eu viva a Verdade do meu coração antes de passar para frente]]
+- [[Golden Circle]]

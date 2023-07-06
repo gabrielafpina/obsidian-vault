@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "d816b959141ff7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golden Circle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "973d7195ca37f1d4",
             "type": "leaf",
             "state": {
@@ -86,42 +98,6 @@
               "type": "markdown",
               "state": {
                 "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96f1ebd3d8944004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14822d1b47dadee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b1160ae024d9ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verdade",
+                "query": "xícara",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -282,8 +258,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "file": "Golden Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "file": "Golden Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md"
+                "file": "Golden Circle.md"
               }
             }
           },
@@ -436,17 +411,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97b1160ae024d9ed",
+  "active": "d816b959141ff7f2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A simplicidade é o mais alto grau de satisfação.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-    "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+    "Golden Circle.md",
+    "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+    "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
+    "2. Literature Notes/Topics/Lei do Mentalismo.md",
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+    "2. Literature Notes/Topics/O monge e a xícara vazia.md",
+    "2. Literature Notes/Topics/A simplicidade é o mais alto grau de satisfação.md",
+    "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
     "É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
-    "2. Literature Notes/Topics/Lei do Mentalismo.md",
-    "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
@@ -461,9 +438,7 @@
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
-    "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
