@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Merielly Lima]]
 
 **BIG IDEA:** 
 
@@ -13,8 +13,6 @@ Saber não importa. Eu quero saber *se você é o que você me diz*. Ser é o ma
 
 Portanto, é necessário ter um alto nível de auto observação para compreender.
 
-responder o que não estão te perguntando é um movimento desnecessário.
-
 **COMO:**
 
 **PENSADORES:**
@@ -24,7 +22,7 @@ responder o que não estão te perguntando é um movimento desnecessário.
 ---------
 
 **Oeste: similar**
-- [[eu so]]
+- [[Você é fruto da sua própria fé]]
 
 **Leste: oposto**
 

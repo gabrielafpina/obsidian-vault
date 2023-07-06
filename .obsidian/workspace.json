@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8996ed6c714e2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3c1944075362065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d17c7fd8fcd6f40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O amor é a cura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bed304f49c95df1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6018355054d58a1b",
             "type": "leaf",
             "state": {
@@ -140,24 +92,48 @@
             }
           },
           {
-            "id": "15c6b66699dccf03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "973d7195ca37f1d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdba7d67d911b374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3921bb5b375318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41ad4bde4ebfbf0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -243,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "mestre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -335,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md"
+                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md"
               }
             }
           },
@@ -423,8 +399,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a1b58a71e234668",
+  "active": "2e3921bb5b375318",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
+    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+    "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+    "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "Gente que 'se acha' significa que se procurou e se encontrou.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -434,13 +415,11 @@
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
     "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/A simplicidade é o mais alto grau de satisfação.md",
-    "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
     "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
@@ -448,9 +427,6 @@
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/People/Bashar.md",
     "2. Literature Notes/People/Deepak Chopra.md",
-    "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
-    "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

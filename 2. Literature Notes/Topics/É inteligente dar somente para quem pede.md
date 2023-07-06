@@ -11,6 +11,8 @@ Para quem não pede ajuda, não é inteligente ajudar. As pessoas estão pedindo
 
 Não deixe de lado o que é seu para fazer pelo outro. 
 
+responder o que não estão te perguntando é um movimento desnecessário.
+
 **COMO:**
 
 **PENSADORES:**
@@ -27,6 +29,7 @@ Não deixe de lado o que é seu para fazer pelo outro.
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
 - [[Como você funciona?]]
+- [[Existem 4 lugares proibidos]]
 
 **Sul: para onde vai**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
