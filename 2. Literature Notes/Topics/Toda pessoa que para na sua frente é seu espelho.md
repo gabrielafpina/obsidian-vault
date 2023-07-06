@@ -27,3 +27,4 @@ toda alma que para na minha frente tem algo muito sagrado para me ensinar. e eu 
 
 **Sul: para onde vai**
 - [[O monge e a xícara vazia]]
+- [[O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade]]
