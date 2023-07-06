@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Quando você vai para esses lugares, a sua alma sai do seu lugar no mundo. Quando você está na sua consciência, no estado de presença e acolhendo com amor incondicional todos os seus processos, você own o seu lugar de adulto.
+Quando você vai para esses lugares, a sua alma sai do seu lugar no mundo. Quando você está na sua consciência, no estado de presença e acolhendo com amor incondicional todos os seus processos, você assume o seu lugar de adulto.
 Os lugares proibidos são:
 1. **Salvador**
 	1. Você fica querendo salvar o outro, porque existe uma grande possibilidade de ter sido uma criança que não foi reconhecida, não se sentiu amada e vista pelo pai e pela mãe.
