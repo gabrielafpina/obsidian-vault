@@ -34,5 +34,7 @@ Despertar é uma jornada sem parada, nem chegada. É algo infinito.
 - [[Toda generalização é burra, inclusive, esta]]
 - [[crenças]]
 - [[Senso Comum]]
+- [[Inconsciente Coletivo]]
+- [[Transferências]]
 
 **Sul: para onde vai**
