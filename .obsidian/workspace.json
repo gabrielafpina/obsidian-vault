@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funciona",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,12 +78,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -232,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "682b8fe7608cc492",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
