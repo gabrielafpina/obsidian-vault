@@ -53,8 +53,8 @@ Basicamente, você coloca a pessoa em um estado emocional e você cria um estím
 6. Quebra de estado;
 7. Volte no seu estado positivo com a sua âncora e deixe ele bem poderoso;
 8. Quebra de estado;
-9. Dispara o estado ruim com a âncora ruim e dispara o estado positivo com a âncora positiva, ao mesmo tempo. O estado ruim vai perdendo efeito, até que ele deixa de existir. Então, é importante que o seu estado emocional bom esteja muito mais poderoso do que o seu estado ruim.
-	1. Quando você bate um de frente com o outro, o mais forte sobrevive. 
+9. Dispara o estado ruim com a âncora ruim e dispara o estado positivo com a âncora positiva, ao mesmo tempo. O estado ruim vai perdendo efeito, até que ele deixa de existir. 
+	1. Quando você bate um de frente com o outro, o mais forte sobrevive. Então, é importante que o seu estado emocional bom esteja muito mais poderoso do que o seu estado ruim.
 
 **FRASES:**
 
