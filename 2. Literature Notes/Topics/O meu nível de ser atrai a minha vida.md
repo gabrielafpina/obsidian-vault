@@ -10,6 +10,8 @@ Assim, é inegociável o exercício de auto observação, para que eu olhe todas
 
 Quando eu tomo posse do meu lugar de adulta no mundo, é que eu tenho a possibilidade de alterar minha vida. Sim, você está cocriando a sua realidade. É necessário sair do lugar do vítima, que é o pior lugar que você possa estar. O melhor lugar em que eu posso viver a minha vida, é quando estou vivendo o meu papel de adulta.
 
+Você cocria 100% da sua realidade.
+
 **COMO:**
 
 **PENSADORES:**
