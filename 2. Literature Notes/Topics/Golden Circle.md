@@ -11,9 +11,11 @@ As empresas e pessoas que estão conectadas com esse porque, é um outro nível 
 
 Tudo é frequência, então as almas corretas se identificam com isso. a sua alma esta aqui para fazer algo que só ela veio para fazer.
 
-Se conectar com o seu porque é se conectar com a sua Verdade, que é o que, de fato, magnetiza. se o seu porque tem uma intenção no seu coração, vai prosperar. se tem medo, vaidade ou preguiça, vai dar errado.
+Se conectar com o seu porque é se conectar com a sua Verdade, que é o que, de fato, magnetiza. se o seu porque tem uma intenção no seu coração, vai prosperar. se tem medo, vaidade ou preguiça, não vai prosperar.
 
 tem gente esperando pelo seu serviço. tem gente que esta esperando a sua alma se manifestar. se tem a energia do medo, já está errado.
+
+para identificar a missão e o propósito, o *porque* é a pergunta. para uma ação, o *porque* não é a melhor pergunta, a pergunta é o *como*. [[Como fazer melhores perguntas?]]
 
 **COMO:**
 
