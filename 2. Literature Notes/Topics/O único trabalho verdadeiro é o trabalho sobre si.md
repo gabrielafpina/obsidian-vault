@@ -9,6 +9,8 @@ Todo momento o universo te convida a sair do seu lugar, parar de fazer o seu tra
 
 Eu não estou aqui para salvar ninguém. Estou aqui para compartilhar os meus trabalhos sobre mim.
 
+o trabalho sobre si é o trabalho de desabrochar as pétalas da sua alma e eu não estou autorizada a invadir o processo de desabrochar da vida de outras almas.
+
 **COMO:**
 
 **PENSADORES:**

@@ -93,14 +93,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
+                "file": "'Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd4fe357253d45d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
+                "file": "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
+                "file": "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md"
+                "file": "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md"
               }
             }
           },
@@ -299,16 +311,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ee449c5b3df50db",
+  "active": "7b79279288bbecf8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+    "'Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação'.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-    "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
     "Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",

@@ -9,6 +9,8 @@ Isso é uma crença ineficiente. Rápido e devagar é uma comparação. A compar
 
 eu estou o tempo todo no lugar certo, na hora certa, com a pessoa certa. tudo é correto do jeito que é, no tempo que é. é inteligente escolher viver essa realidade. eu respeito o tempo da minha alma.
 
+não existe certo. não existe errado. existe a escolha de cada alma.
+
 **COMO:**
 
 **PENSADORES:**
@@ -18,10 +20,12 @@ eu estou o tempo todo no lugar certo, na hora certa, com a pessoa certa. tudo é
 ---------
 
 **Oeste: similar**
+- [[Não existe fracasso. Tudo é feedback]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
 - [[crenças]]
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
