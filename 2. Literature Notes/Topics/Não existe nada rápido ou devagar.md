@@ -32,3 +32,4 @@ nem mais, nem menos. sou eu. a vida não é uma competição. estamos aqui para 
 
 **Sul: para onde vai**
 - [[O amor é a cura]]
+- [[Não se cobre e não se distraia]]

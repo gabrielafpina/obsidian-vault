@@ -9,6 +9,10 @@ Somos como se fôssemos uma semente. podemos ser essa semente para sempre (adorm
 
 é sobre acessarmos todo o poder da nossa alma. nos conhecermos tão profundamente, a ponto de ter a capacidade de saber o que nutre a minha alma e o que é só do ego e não me leva para lugar nenhum. é a busca e dedicação para elevar o meu nível de consciência e elevar a minha alma para o que eu nasci para ser e fazer.
 
+somos consciência pura, ou seja, possibilidade pura. ser infinito e ilimitado é direito da minha alma.
+
+a potencialidade pura está no silêncio do aqui e agora.
+
 **COMO:**
 
 **PENSADORES:**
@@ -24,6 +28,8 @@ Somos como se fôssemos uma semente. podemos ser essa semente para sempre (adorm
 
 **Norte: ideia/pergunta**
 - [[O meu nível de ser atrai a minha vida]]
+- [[A paz é o meu estado natural]]
+- [[Mindfulness]]
 
 **Sul: para onde vai**
 - [[Fórmula do Entusiasmo]]
