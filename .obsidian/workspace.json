@@ -76,6 +76,30 @@
             }
           },
           {
+            "id": "973d7195ca37f1d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ed41d4e7d76f24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96f1ebd3d8944004",
             "type": "leaf",
             "state": {
@@ -232,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -344,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -384,7 +408,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md"
+                "file": "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md"
               }
             }
           },
@@ -432,11 +456,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6018355054d58a1b",
+  "active": "5ed41d4e7d76f24d",
   "lastOpenFiles": [
+    "É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
+    "O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
@@ -458,8 +484,6 @@
     "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
-    "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/SPIN.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
