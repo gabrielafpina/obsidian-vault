@@ -13,6 +13,8 @@ Saber não importa. Eu quero saber *se você é o que você me diz*. Ser é o ma
 
 Portanto, é necessário ter um alto nível de auto observação para compreender.
 
+responder o que não estão te perguntando é um movimento desnecessário.
+
 **COMO:**
 
 **PENSADORES:**
@@ -22,6 +24,7 @@ Portanto, é necessário ter um alto nível de auto observação para compreende
 ---------
 
 **Oeste: similar**
+- [[eu so]]
 
 **Leste: oposto**
 

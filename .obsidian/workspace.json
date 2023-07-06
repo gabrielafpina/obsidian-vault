@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "3a1b58a71e234668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "654d77fd0bd616c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gente que 'se acha' significa que se procurou e se encontrou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0abe9c7ff1dcace2",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -311,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md"
+                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md"
               }
             }
           },
@@ -399,10 +423,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c62aa3d7edec1bd1",
+  "active": "3a1b58a71e234668",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+    "Gente que 'se acha' significa que se procurou e se encontrou.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
     "2. Literature Notes/Topics/Golden Circle.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
@@ -426,7 +451,6 @@
     "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
     "2. Literature Notes/Topics/Crença que não prestam, não vale acreditar.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

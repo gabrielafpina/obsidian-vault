@@ -32,8 +32,10 @@ quando você é o que você fala, as pessoas começam a te seguir aos montes.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Você está pensando ou você está sendo pensado?]]]
 
 **Sul: para onde vai**
 - [[A compreensão é quando Eu Sou o que eu estudei]]
 - [[Tudo é uma escolha]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Gente que 'se acha' significa que se procurou e se encontrou]]
