@@ -28,7 +28,7 @@ Dinheiro sem intenção e propósito é ganância e pode, ainda, ser preguiça. 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Princípio do Mentalismo]]
+- [[Lei do Mentalismo]]
 
 **Sul: para onde vai**
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]

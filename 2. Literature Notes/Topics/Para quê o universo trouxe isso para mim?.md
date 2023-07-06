@@ -25,7 +25,7 @@ O que o Universo quer me ensinar com esse aprendizado?
 
 **Norte: ideia/pergunta**
 - [[O meu nível de ser atrai a minha vida]]
-- [[Princípio do Mentalismo]]
+- [[Lei do Mentalismo]]
 
 **Sul: para onde vai**
 - [[A porta só abre pelo lado de dentro]]

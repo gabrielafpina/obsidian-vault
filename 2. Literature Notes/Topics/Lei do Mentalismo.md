@@ -33,6 +33,7 @@ Dedique um tempo todo dia para pensar e se observar. Para manifestar, é importa
 
 **Oeste: similar**
 - [[Como manifestar a sua alma-gêmea]]
+- [[Lei da Potencialidade Pura]]
 
 **Leste: oposto**
 

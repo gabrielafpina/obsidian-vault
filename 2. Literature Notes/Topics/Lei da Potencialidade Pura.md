@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Deepak Chopra]] [[Merielly Lima]] [[João Yida]]
+**FONTE:** [[Deepak Chopra]] [[Merielly Lima]] [[João Yida]] [[As 7 Leis Espirituais do Sucesso]]
 
 **BIG IDEA:** 
 
@@ -13,7 +13,7 @@ somos consciência pura, ou seja, possibilidade pura. ser infinito e ilimitado �
 
 a potencialidade pura está no silêncio do aqui e agora. é a observação do silêncio absoluto. quando eu fico em silêncio, as respostas chegam.
 
-Só no silêncio que você escuta Deus te da direcionamento. a verdade já está no coração.
+Só no silêncio que você escuta Deus te da direcionamento. a verdade já está no coração. essa lei nunca esteve fora, sempre esteve dentro de você. o seu coração já tem todas as respostas, o grande cuidado é com a mente.
 
 **COMO:**
 

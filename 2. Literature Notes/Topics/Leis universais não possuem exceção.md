@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 Leis não possuem exceção! As leis do [[Caibalion]] não possuem exceção. Se você aplicar essas leis, você vai voar.
 
-Para toda regra tem uma ou mais exceção
+Para toda regra tem uma ou mais exceção. Isso não se aplica para as leis universais.
 
 **COMO:**
 
@@ -24,3 +24,5 @@ Para toda regra tem uma ou mais exceção
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Lei do Mentalismo]]
+- [[Lei da Potencialidade Pura]]

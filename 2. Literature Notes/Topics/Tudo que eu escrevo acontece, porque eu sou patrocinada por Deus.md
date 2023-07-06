@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Nós cocriamos tudo o tempo inteiro. Isso é possível. Você só precisa escolher se abrir para o [[Princípio do Mentalismo]], para que você possa cocriar de verdade.
+Nós cocriamos tudo o tempo inteiro. Isso é possível. Você só precisa escolher se abrir para o [[Lei do Mentalismo]], para que você possa cocriar de verdade.
 
 Escreva com detalhes o que você quer que aconteça, porque acontece.
 - O que você quer que aconteça

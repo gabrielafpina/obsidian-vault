@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Doenças são criadas na mente, a partir do [[Princípio do Mentalismo]] e, muitas vezes, de forma inconsciente. Tudo que você acredita, acontece.
+Doenças são criadas na mente, a partir do [[Lei do Mentalismo]] e, muitas vezes, de forma inconsciente. Tudo que você acredita, acontece.
 
 Cuidado quando você acha que pode ficar doente. Você pode mesmo. Você pode tudo o que você acredita. Acredite em [[crenças]] elevadas.
 
