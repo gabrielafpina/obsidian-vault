@@ -32,8 +32,24 @@ OBS: sempre que você se encontrar naturalmente no estado emocional da âncora q
 	1. Você também pode fazer através de imagens (caretas), usar sons, cheiros, gostos...
 Basicamente, você coloca a pessoa em um estado emocional e você cria um estímulo sensorial.
 
+**COMO VENDER USANDO A ÂNCORA A SEU FAVOR?**
+1. Pergunte e induza a pessoa a relembrar de um momento em que ela estava muito feliz comprando alguma coisa que ela tinha a sensação de que iria mudar a vida dela;
+2. Faça um toque na pessoa ou faça um som;
+3. Conduza esse processo de indução naturalmente;
+4. Ofereça o seu produto.
+
 **COMO DESFAZER UMA ÂNCORA RUIM?**
-1. Fazer uma âncora ruim de propósito
+1. Fazer uma âncora ruim de propósito;
+	1. Sente a emoção ruim;
+	2. Faça um estímulo sensorial específico, ancorando essa sensação;
+	3. Você não precisa ficar ancorando com muita força a sensação ruim.
+2. Quebra de estado;
+	1. Comece a pensar em coisas aleatórias.
+3. Faça o gesto novamente e veja se veio a sensação ruim;
+4. Quebra de estado;
+5. Criação de âncora positiva, ou utilização de âncoras que você já tem;
+	1. Pense e lembre dos melhores momentos que já teve na sua vida;
+	2. Amplie de forma bemintensa essa sua ân
 
 **FRASES:**
 
