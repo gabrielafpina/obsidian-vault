@@ -27,3 +27,4 @@ o trabalho sobre si é o trabalho de desabrochar as pétalas da sua alma e eu n�
 
 **Sul: para onde vai**
 - [[Existem 4 lugares proibidos]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
