@@ -13,6 +13,12 @@ você eleva o seu nivel de Ser quando você aplica aquele conhecimento na sua vi
 
 viva o que você vende.
 
+quando eu falo a partir da minha transformação, isso entra e fica na glândula pineal e do coração da outra pessoa, porque tem a frequência da verdade, que é diferente da frequência da vaidade. é informação com consciência. 
+
+>[!important] palavras comovem, exemplos arrastam.
+
+quando você é o que você fala, as pessoas começam a te seguir aos montes.
+
 **COMO:**
 
 **PENSADORES:**
@@ -30,3 +36,4 @@ viva o que você vende.
 **Sul: para onde vai**
 - [[A compreensão é quando Eu Sou o que eu estudei]]
 - [[Tudo é uma escolha]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
