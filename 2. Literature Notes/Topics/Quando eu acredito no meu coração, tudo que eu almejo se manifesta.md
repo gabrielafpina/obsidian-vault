@@ -28,4 +28,5 @@ se eu acredito em mim, isso vai acontecer.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[[Você é fruto da sua própria fé]]]
+- [[Você é fruto da sua própria fé]]
+- [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]

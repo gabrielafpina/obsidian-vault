@@ -11,6 +11,8 @@ Quando você fez em si mesmo, você pode provar a partir do seu próprio corpo.
 
 você eleva o seu nivel de Ser quando você aplica aquele conhecimento na sua vida e, então, você mostra o que você fez e isso é irrefutável. eu sou apenas autorizada a passar informações de um lugar em que eu já obtive resultado.
 
+viva o que você vende.
+
 **COMO:**
 
 **PENSADORES:**

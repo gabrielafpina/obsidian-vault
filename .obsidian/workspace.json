@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "c62aa3d7edec1bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0abe9c7ff1dcace2",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md"
+                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md"
               }
             }
           },
@@ -388,10 +400,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d96e9e51929ffd14",
+  "active": "c62aa3d7edec1bd1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Golden Circle.md",
     "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
+    "2. Literature Notes/Topics/Golden Circle.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
