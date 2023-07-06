@@ -57,14 +57,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
+                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bc199ce9ee1f7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a verdadeira intenção em querer prosperar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df1d0df00e39f455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee449c5b3df50db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -83,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adulto inf",
+                "query": "dinheir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
+                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
+                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md"
+                "file": "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md"
               }
             }
           },
@@ -264,10 +299,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a739273622b1a472",
+  "active": "4ee449c5b3df50db",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
+    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
+    "Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação.md",
+    "Qual é a verdadeira intenção em querer prosperar?.md",
+    "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
+    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
@@ -289,10 +328,6 @@
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Como procrastinar menos?.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
-    "2. Literature Notes/Topics/Deus fez os seres humanos para serem 100% saudáveis.md",
-    "2. Literature Notes/Topics/A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
-    "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
-    "2. Literature Notes/Topics/Integridade não é motivo para você fazer uma sociedade.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",

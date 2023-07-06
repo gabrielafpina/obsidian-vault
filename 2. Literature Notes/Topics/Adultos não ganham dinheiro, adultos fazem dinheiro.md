@@ -23,3 +23,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Qual é a verdadeira intenção em querer prosperar?]]

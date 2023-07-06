@@ -24,3 +24,4 @@ Medo é a frequência mais baixa de todas e tudo o que você faz estando nesse l
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação]]
