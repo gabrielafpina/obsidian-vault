@@ -25,6 +25,12 @@ OBS1: quando você for criar o seu estado, você pode estimular a sua ancoragem 
 
 OBS: sempre que você se encontrar naturalmente no estado emocional da âncora que você escolheu, você pode reforçá-la, fazendo o gesto com esse pico de estado emocional natural.
 
+**COMO CRIAR UMA ÂNCORA EM OUTRA PESSOA?**
+1. Instale um senso de [[Rapport]]. Crie uma conexão com a outra pessoa;
+2. Direcione o foco da pessoa para algo específico, influenciando ela a partir do seu próprio comportamento;
+3. Quando a pessoa entrar no foco, toque a pessoa em um lugar específico, que normalmente outras pessoas não tocam e você instala esse processo.
+Basicamente, você coloca a pessoa em um estado emocional e você cria um estímulo sensorial.
+
 **PENSADORES:**
 
 **FRASES:**

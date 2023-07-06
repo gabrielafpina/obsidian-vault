@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5dcb56b36d493902",
+        "id": "3b9744e688174abf",
         "type": "tabs",
         "children": [
           {
-            "id": "6018355054d58a1b",
+            "id": "13a2d8a1295caaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d816b959141ff7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Golden Circle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d96e9e51929ffd14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c62aa3d7edec1bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a1b58a71e234668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "654d77fd0bd616c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gente que 'se acha' significa que se procurou e se encontrou.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0abe9c7ff1dcace2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973d7195ca37f1d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdba7d67d911b374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e3921bb5b375318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "559162aef69391eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41ad4bde4ebfbf0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ed41d4e7d76f24d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd56bb7efb2cd8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6492b649f23ef1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e151c7c50e34d571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc199ce9ee1f7b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excesso",
+                "query": "âncora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -324,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md"
               }
             }
           },
@@ -412,13 +218,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "559162aef69391eb",
+  "active": "13a2d8a1295caaed",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+    "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
+    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
+    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Consciência nunca é demais.md",
     "2. Literature Notes/Readwise/Books/A Prateleira Do Amor.md",
-    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
-    "2. Literature Notes/Topics/É inteligente dar somente para quem pede.md",
-    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
     "2. Literature Notes/Topics/É interessante que eu viva a Verdade do meu coração antes de passar para frente.md",
     "2. Literature Notes/Topics/A compreensão é quando Eu Sou o que eu estudei.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
@@ -428,7 +239,6 @@
     "2. Literature Notes/Topics/Golden Circle.md",
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-    "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
@@ -436,10 +246,6 @@
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/A simplicidade é o mais alto grau de satisfação.md",
     "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
-    "2. Literature Notes/Topics/O amor é a cura.md",
-    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
-    "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
-    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
