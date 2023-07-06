@@ -29,9 +29,11 @@ OBS: sempre que você se encontrar naturalmente no estado emocional da âncora q
 1. Instale um senso de [[Rapport]]. Crie uma conexão com a outra pessoa;
 2. Direcione o foco da pessoa para algo específico, influenciando ela a partir do seu próprio comportamento;
 3. Quando a pessoa entrar no foco, toque a pessoa em um lugar específico, que normalmente outras pessoas não tocam e você instala esse processo.
+	1. Você também pode fazer através de imagens (caretas), usar sons, cheiros, gostos...
 Basicamente, você coloca a pessoa em um estado emocional e você cria um estímulo sensorial.
 
-**PENSADORES:**
+**COMO DESFAZER UMA ÂNCORA RUIM?**
+1. Fazer uma âncora ruim de propósito
 
 **FRASES:**
 
