@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a739273622b1a472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md"
+                "file": "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md"
               }
             }
           },
@@ -252,10 +264,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b79279288bbecf8",
+  "active": "a739273622b1a472",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
+    "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/O monge e a xícara vazia.md",
     "2. Literature Notes/Topics/Não dá para dar carona a pé.md",
@@ -280,7 +293,6 @@
     "2. Literature Notes/Topics/A partir do momento em que eu tenho que seguir a verdade de outra pessoa, que não é igual à minha, eu estou vivendo uma mentira.md",
     "2. Literature Notes/Topics/1g de pré-frame vale mais do que 100t de pós frame.md",
     "2. Literature Notes/Topics/Integridade não é motivo para você fazer uma sociedade.md",
-    "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
