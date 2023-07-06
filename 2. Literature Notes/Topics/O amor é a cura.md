@@ -27,3 +27,4 @@ o amor é a força mais poderosa do universo.
 
 **Sul: para onde vai**
 - [[Tudo é uma escolha]]
+- [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]

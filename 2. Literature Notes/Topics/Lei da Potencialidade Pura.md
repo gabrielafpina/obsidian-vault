@@ -33,6 +33,7 @@ Só no silêncio que você escuta Deus te da direcionamento. a verdade já está
 - [[A paz é o meu estado natural]]
 - [[Mindfulness]]
 
-
 **Sul: para onde vai**
 - [[Fórmula do Entusiasmo]]
+- [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
+- [[É interessante que eu viva a Verdade do meu coração antes de passar para frente]]
