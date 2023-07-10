@@ -95,3 +95,8 @@ Reencontro com o cliente após 1 mês
 O que se espera aqui?
 - Comemoração com o cliente, que tinha um problema e não tem mais
 - Pede para o cliente dar um testemunho e grave, se ele permitir
+- Se o problema ainda estiver aqui, faça mais técnica. O mais importante é que o problema não esteja mais como era antes.
+- Encerramento do processo.
+
+Se o cliente precisar de mais sessões, você pode vender mais um pacote de 5 sessões, dependendo do tamanho do processo, ou você pode fazer sessão avulsa.
+	Você pode cobrar o valor cheio, ou o valor de mais uma sessão do pacote.
