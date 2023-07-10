@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d6efc9d577b14e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2a08cb73d714230",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
+                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças.md"
+                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md"
               }
             }
           },
@@ -267,10 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b7d51c19338bedb",
+  "active": "d6efc9d577b14e56",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
+    "Captura de Tela 2023-07-10 às 20.41.44.png",
     "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "Sessão a Sessão de PNL.md",
     "2. Literature Notes/Topics/PNL.md",
@@ -294,7 +307,6 @@
     "2. Literature Notes/Topics/Gente que 'se acha' significa que se procurou e se encontrou.md",
     "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
     "2. Literature Notes/Topics/Golden Circle.md",
-    "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

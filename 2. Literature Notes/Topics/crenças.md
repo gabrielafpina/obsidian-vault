@@ -16,7 +16,7 @@ Para a nossa criança interior, as crenças são muito importantes. São a prote
 Quanto maior o trauma, mais enraizada e profunda fica a crença.
 >[!important] Crença gera pensamento, que gera sentimento, que gera comportamento/ação, que gera resultado.
 
-
+Como eu penso, sinto e ajo é o que vai determinar a minha vida.
 
 **COMO:**
 Você detecta as crenças a partir da auto observação. Começo a observar as áreas da minha vida e vejo o que não está alinhado com o que eu quero para mim.

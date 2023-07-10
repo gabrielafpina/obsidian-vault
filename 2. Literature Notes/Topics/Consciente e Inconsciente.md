@@ -10,6 +10,10 @@
 
 Obs: até mesmo as decisões racionais são influenciadas pelo inconsciente, que é o responsável pelos nossos diálogos internos.
 
+![[Captura de Tela 2023-07-10 às 20.41.44.png]]
+
+O resultado da minha vida é os 95% que estão no meu inconsciente.
+
 #### Objetivo do Inconsciente
 
 -   Te manter ********vivo********! Toda vez em que você for fazer algo, inconscientemente, você vai escolher algo que tenha mais a ver com a sua **auto preservação**.
@@ -40,10 +44,11 @@ Ou seja, se você quer crescer, importante que você tem em comum zona de confor
 ---------
 
 **Oeste: similar**
-- [[Psicanálise]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[1ª Teoria do Aparelho Psíquico]]
+- [[Psicanálise]]
 
 **Sul: para onde vai**
