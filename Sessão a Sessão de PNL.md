@@ -36,4 +36,15 @@ Dar as regras do que vai acontecer, antes que aconteça. É o alinhamento de exp
 		8. Com que frequência o problema acontece
 		9. Qual é a intensidade
 		10. Tem alguma outra queixa secundária? Com que frequência e intensidade?
-		11. Já fez algum tratamento específico para lidar com isso? Qual? Terapeuta, psicólogo, pa
+		11. Já fez algum tratamento específico para lidar com isso? Qual? Terapeuta, psicólogo, pai de santo, pajé...
+		12. O que a pessoa quer melhorar na vida dela? desejos
+		13. Quais são as maiores dificuldades e desafios que a pessoa tem?
+		14. Como foi a infância da pessoa?
+		15. Ela tem algum tipo de vício? Como são os seus hábitos? Quais são os hobbies? 
+		16. Como é o trabalho dela?
+	6. Faz alguma técnica?
+		1. Depende da pessoa. Mas o que o Sam fala é que ele gosta de se aprofundar bastante na pessoa nessa primeira sessão, para conseguir ter mais ferramentas para lidar com ela.
+		2. O objetivo aqui é entender o que ela quer e o que ela não quer mais. Como ela quer se comportar com relação às fobias dela? Como ela não quer se comportar?
+	7. Faz muito pré-frame
+		1. Tudo o que pode, ou não, acontecer durante o processo. Passa, novamente, todos os pontos do pré-frame
+	8. Pode ser que faça 
