@@ -6,6 +6,9 @@
 
 **DEFINIÇÃO:**
 Recomendação de apenas 5 sessões.
+Intervalo entre uma sessão e outra: 
+- A primeira, o mais rápido possível.
+- As próximas, ele gosta de colocar para após 1 semana.
 
 ### Sessão 0 - Pré-frame
 Sessão gratuita
@@ -18,7 +21,7 @@ Dar as regras do que vai acontecer, antes que aconteça. É o alinhamento de exp
 3. Caso a pessoa não fizer o cancelamento 5 horas antes da sessão, ou 1 dia útil, a sessão será cobrada.
 4. É importante ter contrato com o cliente.
 
-### Sessão 1 
+### Sessão 1 - Anamnese
 1. Anamnese
 	1. Entrevista profunda sobre a pessoa, em que ela vai falar sobre ela
 	2. Testes e perguntas de ***como*** a pessoa tem o problema dela, como ela sente isso, se existe padrão. *Como o problema acontece*.
@@ -47,4 +50,15 @@ Dar as regras do que vai acontecer, antes que aconteça. É o alinhamento de exp
 		2. O objetivo aqui é entender o que ela quer e o que ela não quer mais. Como ela quer se comportar com relação às fobias dela? Como ela não quer se comportar?
 	7. Faz muito pré-frame
 		1. Tudo o que pode, ou não, acontecer durante o processo. Passa, novamente, todos os pontos do pré-frame
-	8. Pode ser que faça 
+	8. Pode ser que faça sentido alguma técnica de meditação, ou algo assim. Ou não, sinta 
+
+
+### Sessão 2 
+Essa é uma sessão muito importante nesse processo, é aqui que queremos a transformação. O resultado da próxima sessão vai depender dessa sessão.
+1. Calibrar o de 0 a 10 o quanto o problema é grande para a pessoa hoje. 
+2. Começar a aplicar as técnicas. Como as técnicas são rápidas, você consegue aplicar muita coisa de uma vez só 
+	1. Swish
+	2. Reimprint
+	3. Cura rápida de fobias
+	4. Técnica de ancoragem
+	5. Passar informação
