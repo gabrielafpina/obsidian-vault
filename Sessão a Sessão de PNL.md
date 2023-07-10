@@ -62,3 +62,11 @@ Essa é uma sessão muito importante nesse processo, é aqui que queremos a tran
 	3. Cura rápida de fobias
 	4. Técnica de ancoragem
 	5. Passar informação
+
+### Sessão 3
+Objetivo de descobrir o que mudou na vida do cliente, como ele ficou após a sessão 2 de transformação, o que aconteceu, o que ela pensou, sentiu, ou não.
+- pode acontecer de ter resultados extraordinários, ou não 
+
+Caso você chegue até aqui e não tiver tido sucesso com as ações feitas, é importante olhar para o problema de novo e entender ele melhor. Se você não teve resultados é porque você não encontrou onde trabalhar.
+
+Pode ser que tenha melhorado, mas não melhorou tudo 100%.
