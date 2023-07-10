@@ -9,11 +9,17 @@ Uma crença é um comando que damos para nós mesmos. Quando acreditamos em algo
 
 O que a maior parte das pessoas não tem em mente, no entanto, é que crenças são escolhas. 
 
-Crenças são a forma como a nossa vida é ordenada. Toda a nossa realidade é criada a partir da nossa vibração e as nossas vibrações estão alinhadas com as nossas crenças.
+Crenças são a forma como a nossa vida é ordenada. Toda a nossa realidade é criada a partir da nossa vibração e as nossas vibrações são controladas pelas nossas crenças, que podem ser positivas ou limitantes.
+
+Para a nossa criança interior, as crenças são muito importantes. São a proteção dela. Ela faz de tudo para evitar o trauma. A nossa criança interior é quem rege o nosso subconsciente e a nossa vibração. As crenças nos servem e já nos serviram durante toda a nossa vida.
+
+Quanto maior o trauma, mais enraizada e profunda fica a crença.
+>[!important] Crença gera pensamento, que gera sentimento, que gera comportamento/ação, que gera resultado.
+
 
 
 **COMO:**
-Você detecta as crenças a partir da auto obsertvação.
+Você detecta as crenças a partir da auto observação. Começo a observar as áreas da minha vida e vejo o que não está alinhado com o que eu quero para mim.
 
 **PENSADORES:**
 - [[Tony Robbins]]
@@ -42,6 +48,7 @@ Você detecta as crenças a partir da auto obsertvação.
 - [[Consciente e Inconsciente]]
 - [[De onde vem as nossas crenças?]]
 - [[Todas as suas crenças começam no ventre da sua mãe]]
+- [[Criança Interior]]
 
 **Sul: para onde vai**
 - [[Quais são as áreas que mais existem crenças?]]
