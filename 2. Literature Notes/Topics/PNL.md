@@ -42,4 +42,4 @@
 **Sul: para onde vai**
 - [[Como reproduzir a excelência humana?]]
 - [[Modelagem]]
-- [[empatia]]
+- [[Sessão a Sessão de PNL]]

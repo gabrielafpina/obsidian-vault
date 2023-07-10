@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9b7d51c19338bedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessão a Sessão de PNL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "682b8fe7608cc492",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "Sessão a Sessão de PNL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md",
+                "file": "Sessão a Sessão de PNL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/PNL.md"
+                "file": "Sessão a Sessão de PNL.md"
               }
             }
           },
@@ -230,8 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13a2d8a1295caaed",
+  "active": "9b7d51c19338bedb",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/PNL.md",
+    "Sessão a Sessão de PNL.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
@@ -256,8 +271,6 @@
     "2. Literature Notes/Topics/Como fazer melhores perguntas?.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "2. Literature Notes/Topics/Leis universais não possuem exceção.md",
-    "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
