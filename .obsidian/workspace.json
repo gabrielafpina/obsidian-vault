@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessão a Sessão de PNL.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pnl",
+                "query": "crenç",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessão a Sessão de PNL.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessão a Sessão de PNL.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessão a Sessão de PNL.md"
+                "file": "2. Literature Notes/Topics/crenças.md"
               }
             }
           },
@@ -245,8 +245,8 @@
   },
   "active": "9b7d51c19338bedb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/PNL.md",
     "Sessão a Sessão de PNL.md",
+    "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
