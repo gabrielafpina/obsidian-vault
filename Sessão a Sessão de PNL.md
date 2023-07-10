@@ -69,4 +69,17 @@ Objetivo de descobrir o que mudou na vida do cliente, como ele ficou após a ses
 
 Caso você chegue até aqui e não tiver tido sucesso com as ações feitas, é importante olhar para o problema de novo e entender ele melhor. Se você não teve resultados é porque você não encontrou onde trabalhar.
 
-Pode ser que tenha melhorado, mas não melhorou tudo 100%.
+Pode ser que tenha melhorado, mas não melhorou tudo 100%. Pode ser que você faça as mesmas técnicas, como pode ser que você faça outras.
+
+1. Medir o resultado do que fez de técnica na sessão 2
+2. Descobrir se o que você trabalhou foi o que efetivamente fez a diferença, ou se você vai precisar ir atrás de mais informações do problema
+3. Melhorar o que já teve resultado
+Se a pessoa já tiver melhorado tudo, você pode começar a trabalhar a queixa secundária.
+
+### Sessão 4 
+1. Medir o resultado das sessões antigas. Se a pessoa está feliz e alegre.
+	1. Se você chegar aqui e a pessoa não estiver tendo resultado, é porque você está tendo falhas graves no processo e significa que é importante olhar para o seu processo.
+2. Guiança do processo até o fim
+
+O que se espera de resultados até aqui?
+- Que a pessoa tenha diminuido substancialmente ou 
