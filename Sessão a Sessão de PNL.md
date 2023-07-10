@@ -80,6 +80,18 @@ Se a pessoa já tiver melhorado tudo, você pode começar a trabalhar a queixa s
 1. Medir o resultado das sessões antigas. Se a pessoa está feliz e alegre.
 	1. Se você chegar aqui e a pessoa não estiver tendo resultado, é porque você está tendo falhas graves no processo e significa que é importante olhar para o seu processo.
 2. Guiança do processo até o fim
+3. Alinhamento e entendimento se as expectativas foram atendidas
+4. Enviar a pessoa para a vida real e testar tudo aquilo na vida real, para ver se o problema realmente foi eliminado da vida dela
+5. Dali há 1 ou 2 meses vocês voltam a se encontrar para a última sessão. Já deixa marcada a última sessão.
 
 O que se espera de resultados até aqui?
-- Que a pessoa tenha diminuido substancialmente ou 
+- Que a pessoa tenha diminuído substancialmente ou zerado o resultado da queixa dela.
+- Essa é uma sessão mais leve e mais a vontade.
+- Se tiver mais o que fazer, faça mais técnicas.
+
+### Sessão 5
+Reencontro com o cliente após 1 mês
+
+O que se espera aqui?
+- Comemoração com o cliente, que tinha um problema e não tem mais
+- Pede para o cliente dar um testemunho e grave, se ele permitir
