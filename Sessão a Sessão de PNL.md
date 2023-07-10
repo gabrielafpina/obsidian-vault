@@ -8,6 +8,7 @@
 Recomendação de apenas 5 sessões.
 
 ### Sessão 0 - Pré-frame
+Sessão gratuita
 [[1g de pré-frame vale mais do que 100t de pós frame]]
 Dar as regras do que vai acontecer, antes que aconteça. É o alinhamento de expectativas sobre conceitos importantes. É importante mandar por escrito também, além de falar sobre isso. É importante deixar tudo bem documentado.
 
@@ -20,4 +21,19 @@ Dar as regras do que vai acontecer, antes que aconteça. É o alinhamento de exp
 ### Sessão 1 
 1. Anamnese
 	1. Entrevista profunda sobre a pessoa, em que ela vai falar sobre ela
-	2. Testes e perguntas de ***como*** a pessoa tem o problema dela, como ela sente isso, se existe padrão. Como o pronb
+	2. Testes e perguntas de ***como*** a pessoa tem o problema dela, como ela sente isso, se existe padrão. *Como o problema acontece*.
+		1. Como acontece, quando acontece, como a pessoa sabe que acontece, onde acontece
+	3. Aqui, a pessoa não vai ficar falando a vontade, você vai guiar ela através de perguntas focadas.
+	4. É entender e modelar o problema da pessoa ([[Modelagem]]). Você quer sair da sessão sabendo como resolver o problema e, para isso, é importante saber como acontece.
+	5. Fazer perguntas do formulário de anamnese
+		1. Nome
+		2. Idade
+		3. Estado civil
+		4. Graduação
+		5. Profissão
+		6. Terapias que já fez antes
+		7. Qual é a queixa
+		8. Com que frequência o problema acontece
+		9. Qual é a intensidade
+		10. Tem alguma outra queixa secundária? Com que frequência e intensidade?
+		11. Já fez algum tratamento específico para lidar com isso? Qual? Terapeuta, psicólogo, pa
