@@ -39,3 +39,5 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quais são as áreas que mais existem crenças?]]
+- [[Quais são os níveis de crenças existentes?]]

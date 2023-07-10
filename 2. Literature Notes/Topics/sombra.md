@@ -11,6 +11,12 @@ Muitas vezes, a criança é desrespeitada por simplesmente ser quem ela é. Ela 
 
 É aprender a perdoar a criança que você tinha dentro de si e que se silenciou, criando culpa e vergonha por ter sido reprimida.
 
+A sombra é negar o lado negativo da polaridade e querer ficar só com o positivo. Por isso, é importante fazer a integração da sombra.
+
+Você para de vibrar, você para de atrair.
+
+As nossas relações são pautadas sobre sombras.
+
 **COMO:**
 
 **PENSADORES:**
@@ -27,5 +33,7 @@ Muitas vezes, a criança é desrespeitada por simplesmente ser quem ela é. Ela 
 **Norte: ideia/pergunta**
 - [[Criança Interior]]
 - [[crenças]]
+- [[Consciente e Inconsciente]]
 
 **Sul: para onde vai**
+- [[Toda pessoa que para na sua frente é seu espelho]]
