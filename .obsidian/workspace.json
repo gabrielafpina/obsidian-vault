@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "be5bbf9827a99615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A gente atrai o que a gente vibra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2a08cb73d714230",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+                "file": "A gente atrai o que a gente vibra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+                "file": "A gente atrai o que a gente vibra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Consciente e Inconsciente.md"
+                "file": "A gente atrai o que a gente vibra.md"
               }
             }
           },
@@ -279,10 +291,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6efc9d577b14e56",
+  "active": "be5bbf9827a99615",
   "lastOpenFiles": [
-    "Captura de Tela 2023-07-10 às 20.41.44.png",
+    "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+    "A gente atrai o que a gente vibra.md",
     "2. Literature Notes/Topics/crenças.md",
+    "Captura de Tela 2023-07-10 às 20.41.44.png",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "Sessão a Sessão de PNL.md",
@@ -306,7 +320,6 @@
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/Gente que 'se acha' significa que se procurou e se encontrou.md",
     "2. Literature Notes/Topics/Quando eu acredito no meu coração, tudo que eu almejo se manifesta.md",
-    "2. Literature Notes/Topics/Golden Circle.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
@@ -326,7 +339,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
     "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
-    "Captura de Tela 2023-05-27 às 13.53.12.png",
     "Untitled.canvas"
   ]
 }

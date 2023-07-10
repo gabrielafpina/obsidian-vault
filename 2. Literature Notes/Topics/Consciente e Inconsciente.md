@@ -30,7 +30,7 @@ O seu inconsciente quer que você sobreviva, por isso que ele te mantém por mai
 
 Ou seja, se você quer crescer, importante que você tem em comum zona de conforto.
 
-→ Porque a PNL é poderosa? Porque trabalhamos o inconsciente, não o Consciente.
+→ Porque a [[PNL]] é poderosa? Porque trabalhamos o inconsciente, não o Consciente.
 
 **COMO:**
 
@@ -38,6 +38,7 @@ Ou seja, se você quer crescer, importante que você tem em comum zona de confor
 - [[Sam Jolen]]
 - [[Sigmund Freud]]
 - [[Tony Robbins]]
+- [[Bruce Lipton]]
 
 **FRASES:**
 
@@ -50,5 +51,7 @@ Ou seja, se você quer crescer, importante que você tem em comum zona de confor
 **Norte: ideia/pergunta**
 - [[1ª Teoria do Aparelho Psíquico]]
 - [[Psicanálise]]
+- [[Criança Interior]]
 
 **Sul: para onde vai**
+- [[A gente atrai o que a gente vibra]]
