@@ -15,6 +15,8 @@ As minhas intenções se materializam ainda mais rápido se o que eu estou inten
 
 Dinheiro sem intenção e propósito é ganância e pode, ainda, ser preguiça. Dinheiro com intenção e propósito, é materialização, manifestação.
 
+O nosso coração gera um campo eletromagnético que vibra até 3 a 4 metros fora da gente. Por isso que é tão importante a emoção na hora de manifestar.
+
 **COMO:**
 
 **PENSADORES:**

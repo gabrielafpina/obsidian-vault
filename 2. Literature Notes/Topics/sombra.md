@@ -17,6 +17,8 @@ Você para de vibrar, você para de atrair.
 
 As nossas relações são pautadas sobre sombras.
 
+Os nossos desejos são criados a partir das nossas [[crenças]] e [[sombra]]. Quando você libera as sombras e as crenças, você libera os seus desejos.
+
 **COMO:**
 
 **PENSADORES:**

@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "75e2b9fe04024594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8486bebb67e8a301",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energia",
+                "query": "manifestação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapa da Consciência.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapa da Consciência.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapa da Consciência.md"
+                "file": "2. Literature Notes/Topics/sombra.md"
               }
             }
           },
@@ -363,15 +375,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8486bebb67e8a301",
+  "active": "be5bbf9827a99615",
   "lastOpenFiles": [
-    "Captura de Tela 2023-07-10 às 21.06.16.png",
+    "2. Literature Notes/Topics/Consciente e Inconsciente.md",
+    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
+    "Quais são os níveis de crenças existentes?.md",
+    "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "O micro é igual ao macro.md",
     "Mapa da Consciência.md",
-    "Quais são os níveis de crenças existentes?.md",
-    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
+    "Captura de Tela 2023-07-10 às 21.06.16.png",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
-    "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "Inconsciente.md",
     "2. Literature Notes/Topics/sombra.md",
     "A gente atrai o que a gente vibra.md",
@@ -410,7 +423,6 @@
     "6. Shots, Images & PDFs/IMG_1372.jpg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
-    "Captura de Tela 2023-05-27 às 13.53.12 (2).png",
     "Untitled.canvas"
   ]
 }
