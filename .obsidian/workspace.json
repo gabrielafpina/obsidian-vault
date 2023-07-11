@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e7edbd9fa53d0be",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "653ad8040ea2728f",
             "type": "leaf",
             "state": {
@@ -35,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sigmund",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
