@@ -9,7 +9,7 @@ O nosso instinto de sobrevivência vem da nossa ancestralidade com os répteis e
 
 A nossa amígdala é a nossa parte mais primitiva e reativa. Normalmente, a amígdala é responsável pelo 'não sei o que me deu', quando temos reações repentinas a situações inesperadas. Isso vale tanto para agressões físicas, como verbais e emocionais.
 
-Nessas situações, você passa pelo o que chamamos de 'Sequestro da Amígdala'.
+Nessas situações, você passa pelo o que chamamos de '[[Sequestro da Amígdala]]'.
 
 **COMO:**
 

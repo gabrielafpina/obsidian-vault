@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3c277a8507b10351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequestro da Amígdala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc9f00746b88dd75",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mecanis",
+                "query": "proteção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -188,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instinto de sobrevivência.md",
+                "file": "Sequestro da Amígdala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instinto de sobrevivência.md",
+                "file": "Sequestro da Amígdala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instinto de sobrevivência.md"
+                "file": "Sequestro da Amígdala.md"
               }
             }
           },
@@ -276,10 +287,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7cda842e45f21f8",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "Instinto de sobrevivência.md",
+    "Sequestro da Amígdala.md",
+    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
     "2. Literature Notes/Topics/Você tem plano de saúde?.md",
@@ -305,7 +317,6 @@
     "3. Distilled Notes/Topics/Sessão a Sessão de PNL.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/Como você funciona?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
