@@ -9,7 +9,7 @@
 
 Denomina-se homeostase o controle das condições estáveis no meio interno e inclui também o nosso psiquismo. Através da homeostase, fatores como a manutenção das concentrações normais dos elementos sanguíneos, temperatura, ph, balanço hídrico, pressão arterial e outras substâncias são a todo instante equilibradas no nosso organismo. O nosso organismo é perfeito, somos nós que provocamos os desequilíbrios na maioria das vezes.
 
-Os organismos vivos para se manterem com vida buscam um equilíbrio interior, a homeostase.
+Os organismos vivos para se manterem com vida buscam um equilíbrio interior, a homeostase. Tudo que for contrário na concepção da homeostase é considerado desequilíbrio. O organismo em qualquer modificação do equilíbrio irá sentir como uma ameaça à sua vida.
 
 **COMO:**
 
