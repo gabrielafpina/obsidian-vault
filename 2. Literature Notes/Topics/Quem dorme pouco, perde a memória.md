@@ -13,6 +13,8 @@ A pessoa que não dorme direito, que dorme com preocupações e não tem uma boa
 
 É no processo de homeostase, [[Princípio da Homeostase Biológica ou Manutenção da Vida]], que você vai conseguir fazer a transferência de todas as informações que estão armazenadas no hipocampo, para ir para o córtex frontal, onde temos a memória definitiva guardada e organizada. Assim, quando entramos em sono profundo, o nosso cérebro continua a trabalhar.
 
+É durante o sono que o cérebro revisa o aprendizado do dia, processa as informações e as grava na forma de memória.
+
 **COMO:**
 
 **PENSADORES:**
