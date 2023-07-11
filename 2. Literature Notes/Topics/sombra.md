@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O que é mais desrespeitado no ser humano é a criança.
+O que é mais desrespeitado no ser humano é a criança. O ego quer proteger a criança interior.
 
 Muitas vezes, a criança é desrespeitada por simplesmente ser quem ela é. Ela vai criando vergonha e culpa da sua vergonha e espontaneidade, de ser ela mesma. Você enterra isso no seu inconsciente e isso acaba te machucando cada vez mais. Você atrai sombras, ou seja, pessoas que te fazem relembrar de sentimentos de culpa e vergonha. Você começa a atrair pessoas que te irritam, que te mostram a sua sombra.
 
