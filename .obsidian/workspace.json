@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "327fa1bb5ff70752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O medo nos protege.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc9f00746b88dd75",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequestro da Amígdala.md",
+                "file": "O medo nos protege.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequestro da Amígdala.md",
+                "file": "O medo nos protege.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequestro da Amígdala.md"
+                "file": "O medo nos protege.md"
               }
             }
           },
@@ -287,10 +299,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "327fa1bb5ff70752",
   "lastOpenFiles": [
-    "Instinto de sobrevivência.md",
     "Sequestro da Amígdala.md",
+    "O medo nos protege.md",
+    "Instinto de sobrevivência.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
@@ -316,7 +329,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "3. Distilled Notes/Topics/Sessão a Sessão de PNL.md",
     "2. Literature Notes/Topics/PNL.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

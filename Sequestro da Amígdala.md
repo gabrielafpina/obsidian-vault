@@ -11,7 +11,7 @@ Na natureza, os mecanismos de defesa pecam sempre por exagero. É melhor ser exa
 
 A amígdala faz isso e tenta nos proteger física e emocionalmente. Assim, aquela resposta que você deu sem pensar quando estava 'cego de raiva', nada mais foi do que o seu cérebro tentando te proteger emocionalmente. O nosso corpo é tão perfeito, que possui fortes mecanismos de defesa para nos proteger.
 
-A ausência da amígdala impede a experiência do medo em humanos. O medo nos protege. O medo é uma emoção necessária na nossa vida.
+A ausência da amígdala impede a experiência do medo em humanos. [[O medo nos protege]]. 
 
 **COMO:**
 
