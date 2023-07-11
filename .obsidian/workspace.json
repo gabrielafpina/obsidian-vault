@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "2a274cee29f0213f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a476170a763d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As 3 conspirações que tiram o nosso poder pessoal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d6efc9d577b14e56",
             "type": "leaf",
             "state": {
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manifestação",
+                "query": "amor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo julgamento é uma confissão.md",
+                "file": "Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo julgamento é uma confissão.md",
+                "file": "Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo julgamento é uma confissão.md"
+                "file": "Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md"
               }
             }
           },
@@ -363,10 +387,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29906765d06bb6d5",
+  "active": "2a274cee29f0213f",
   "lastOpenFiles": [
-    "Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "Todo julgamento é uma confissão.md",
+    "Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
+    "As 3 conspirações que tiram o nosso poder pessoal.md",
+    "Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "Quais são os níveis de crenças existentes?.md",
@@ -391,8 +417,6 @@
     "2. Literature Notes/Topics/O meu único poder é fazer por mim.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

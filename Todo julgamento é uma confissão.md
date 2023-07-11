@@ -9,7 +9,7 @@ Se você está julgando, você está confessando. Olhe para dentro e entenda aon
 
 Não é nunca sobre o outro. É sempre com você.
 
-Se você não cura esse padrão, ele irá se repetir em n
+Se você não cura esse padrão, ele irá se repetir em outra relação.
 
 **COMO:**
 
@@ -20,6 +20,7 @@ Se você não cura esse padrão, ele irá se repetir em n
 ---------
 
 **Oeste: similar**
+- [[Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro]]
 
 **Leste: oposto**
 
@@ -29,3 +30,4 @@ Se você não cura esse padrão, ele irá se repetir em n
 - [[O micro é igual ao macro]]
 
 **Sul: para onde vai**
+- [[As 3 conspirações que tiram o nosso poder pessoal]]
