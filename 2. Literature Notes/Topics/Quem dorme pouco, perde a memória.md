@@ -11,7 +11,7 @@ Tudo que você faz, os seus pensamentos, sentimentos, emoções, atos manifestos
 
 A pessoa que não dorme direito, que dorme com preocupações e não tem uma boa noite de sono, não se preparam para dormir, tem perda de memória.
 
-É no processo de homeostase, [[Princípio da Homeostase Biológica ou Manutenção da Vida]], que você vai conseguir fazer a transferência de todas as informações que estão armazenadas no hipocampo, para ir para o córtex frontal, onde temos a memória definitiva guardada e organizada.
+É no processo de homeostase, [[Princípio da Homeostase Biológica ou Manutenção da Vida]], que você vai conseguir fazer a transferência de todas as informações que estão armazenadas no hipocampo, para ir para o córtex frontal, onde temos a memória definitiva guardada e organizada. Assim, quando entramos em sono profundo, o nosso cérebro continua a trabalhar.
 
 **COMO:**
 

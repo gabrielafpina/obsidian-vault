@@ -29,4 +29,4 @@ Os organismos vivos para se manterem com vida buscam um equilíbrio interior, a 
 - [[A paz é o meu estado natural]]
 - [[Qual é o seu ritmo na vida?]]
 - [[Você tem plano de saúde?]]
-- [[Quem dorme pouco perde a memória]]
+- [[Quem dorme pouco, perde a memória]]

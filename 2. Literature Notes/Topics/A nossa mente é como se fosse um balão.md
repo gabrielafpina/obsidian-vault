@@ -25,4 +25,4 @@ Dependendo do seu ritmo, a sua panela de expressão pode explodir a qualquer mom
 
 **Sul: para onde vai**
 - [[Qual é o seu ritmo na vida?]]
-- [[Quem dorme pouco perde a memória]]
+- [[Quem dorme pouco, perde a memória]]
