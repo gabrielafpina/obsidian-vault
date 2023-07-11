@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "5962c8b06590dcd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O micro é igual ao macro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8486bebb67e8a301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mapa da Consciência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98695c341a5dd074",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -159,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crenças",
+                "query": "energia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são os níveis de crenças existentes?.md",
+                "file": "Mapa da Consciência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são os níveis de crenças existentes?.md",
+                "file": "Mapa da Consciência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são os níveis de crenças existentes?.md"
+                "file": "Mapa da Consciência.md"
               }
             }
           },
@@ -339,10 +363,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2262aabbf85976d",
+  "active": "8486bebb67e8a301",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
+    "Captura de Tela 2023-07-10 às 21.06.16.png",
+    "O micro é igual ao macro.md",
+    "Mapa da Consciência.md",
     "Quais são os níveis de crenças existentes?.md",
+    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "Inconsciente.md",
@@ -365,9 +392,6 @@
     "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
     "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Consciência nunca é demais.md",
-    "2. Literature Notes/Readwise/Books/A Prateleira Do Amor.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",

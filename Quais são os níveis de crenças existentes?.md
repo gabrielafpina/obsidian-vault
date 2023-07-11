@@ -29,3 +29,4 @@ O inconsciente é um vasto território inexplorado. Nos conduz no piloto automá
 - [[A mãe é fundante da nossa personalidade]]
 
 **Sul: para onde vai**
+- [[O micro é igual ao macro]]
