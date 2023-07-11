@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "58b8daa93a1ad772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29906765d06bb6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo julgamento é uma confissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d6efc9d577b14e56",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+                "file": "Todo julgamento é uma confissão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+                "file": "Todo julgamento é uma confissão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md"
+                "file": "Todo julgamento é uma confissão.md"
               }
             }
           },
@@ -339,8 +363,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1e98d42e5dd0db4c",
+  "active": "29906765d06bb6d5",
   "lastOpenFiles": [
+    "Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
+    "Todo julgamento é uma confissão.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "Quais são os níveis de crenças existentes?.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
@@ -348,14 +376,12 @@
     "O micro é igual ao macro.md",
     "Mapa da Consciência.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
-    "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "Captura de Tela 2023-07-10 às 21.06.16.png",
     "Inconsciente.md",
     "A gente atrai o que a gente vibra.md",
     "Captura de Tela 2023-07-10 às 20.41.44.png",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "Sessão a Sessão de PNL.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
@@ -367,8 +393,6 @@
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida.md",
-    "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
