@@ -152,6 +152,14 @@
             }
           },
           {
+            "id": "43f00644c27c8293",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "a25194e79a1decfe",
             "type": "leaf",
             "state": {
@@ -184,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -296,7 +304,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +320,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,9 +341,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md"
-              }
+              "state": {}
             }
           },
           {
@@ -384,10 +388,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "146a04f8ede447d1",
+  "active": "43f00644c27c8293",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
