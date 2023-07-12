@@ -18,7 +18,7 @@ Os lugares proibidos são:
 	1. A vida é um sistema de contribuição, não de competição. Você está aqui para contribuir consigo mesma e tudo conspira ao meu favor. Existem possibilidades para todas as pessoas no mundo. Nenhum lugar está saturado, essa é apenas uma crença limitante de um lugar de vítima que você resolveu assumir.
 	2. Ninguém consegue competir comigo, porque eu não estou competindo com ninguém. A vida inteira é um sistema de auto contribuição. A vida não é uma competição. Ninguém compete comigo se eu não quero competir. [[O ser humano é uma comunidade, não uma pessoa única]]
 	3. A falsa ilusão de separação cria a ilusão da competição.
-	4. O pior do papel da vítima é acreditar nesse papel., acreditar que a vida tá ruim e colocar a culpa em outra pessoa.
+	4. O pior do papel da vítima é acreditar nesse papel, acreditar que a vida tá ruim e colocar a culpa em outra pessoa.
 4. **Adulto infantilóide**
 	1. Quando você acha que alguém vai fazer por você aquilo que é seu. É achar que o outro tem a obrigação de fazer a sua parte.
 
@@ -36,6 +36,7 @@ Os lugares proibidos são:
 
 **Norte: ideia/pergunta**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[crenças]]
 
 **Sul: para onde vai**
 - [[O vazio de si mesmo faz com que você aceite a migalha do outro]]
