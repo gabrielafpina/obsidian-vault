@@ -92,6 +92,42 @@
             }
           },
           {
+            "id": "6d8fae9287a04743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c37a9bd1bf0b8fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b12837737b58b0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc9f00746b88dd75",
             "type": "leaf",
             "state": {
@@ -112,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -131,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ancora",
+                "query": "crenças",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md"
+                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md"
               }
             }
           },
@@ -311,18 +347,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "327fa1bb5ff70752",
+  "active": "b12837737b58b0f9",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
-    "O medo nos protege.md",
-    "Bruno gimenes.md",
-    "Sequestro da Amígdala.md",
     "Instinto de sobrevivência.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
     "2. Literature Notes/Topics/Você tem plano de saúde?.md",
+    "Sequestro da Amígdala.md",
+    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+    "O medo nos protege.md",
+    "Bruno gimenes.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
     "2. Literature Notes/Topics/Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
@@ -330,7 +369,6 @@
     "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
-    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/sombra.md",
     "2. Literature Notes/Topics/O micro é igual ao macro.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
@@ -339,8 +377,6 @@
     "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
-    "2. Literature Notes/Topics/Obsidian.md",
-    "3. Distilled Notes/Topics/Sessão a Sessão de PNL.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
