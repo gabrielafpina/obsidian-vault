@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "146a04f8ede447d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a25194e79a1decfe",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md"
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md"
               }
             }
           },
@@ -371,10 +384,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05473827cdef4c10",
+  "active": "146a04f8ede447d1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+    "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+    "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
@@ -399,7 +413,6 @@
     "2. Literature Notes/Topics/O micro é igual ao macro.md",
     "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
-    "2. Literature Notes/Topics/Inconsciente.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
