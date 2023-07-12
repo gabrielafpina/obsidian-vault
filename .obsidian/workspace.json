@@ -162,7 +162,7 @@
         "dimension": 58.388625592417064,
         "children": [
           {
-            "id": "8f4c86c17be09e91",
+            "id": "85fe64f08a38fc99",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -170,7 +170,7 @@
             }
           },
           {
-            "id": "9d1c0d051e4ec2e0",
+            "id": "51b84da0407e96ea",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -276,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +298,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "327fa1bb5ff70752",
+  "active": "51b84da0407e96ea",
   "lastOpenFiles": [
     "Bruno gimenes.md",
     "Sequestro da Amígdala.md",
