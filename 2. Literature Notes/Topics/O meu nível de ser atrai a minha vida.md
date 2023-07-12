@@ -12,6 +12,8 @@ Quando eu tomo posse do meu lugar de adulta no mundo, é que eu tenho a possibil
 
 Você cocria 100% da sua realidade.
 
+Quem é o SER? Você. Ou seja, o nível de quem você é atrai a sua vida e ele foi construído a partir de todas as [[crenças]] que você ouviu e acolheu para a sua vida.
+
 **COMO:**
 
 **PENSADORES:**
@@ -28,3 +30,4 @@ Você cocria 100% da sua realidade.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Você está pensando ou você está sendo pensado?]]
