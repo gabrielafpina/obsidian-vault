@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5fe577d3ccabe339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4eb131d13dda95e9",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pouco",
+                "query": "deus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,7 +218,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md",
+                "file": "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md",
+                "file": "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md"
+                "file": "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md"
               }
             }
           },
@@ -359,11 +372,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "5fe577d3ccabe339",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Não me falta nada.md",
+    "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
     "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "O que move a vida do ser humano é a fé.md",
@@ -386,7 +400,6 @@
     "Bruno gimenes.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
-    "2. Literature Notes/Topics/Nós fomos condicionados a ser o objeto de satisfação e merecimento do outro.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
