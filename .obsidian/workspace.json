@@ -8,108 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "653ad8040ea2728f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "702b6adf32f97abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b5771c93fe3a91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7cda842e45f21f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Instinto de sobrevivência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c277a8507b10351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Sequestro da Amígdala.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "327fa1bb5ff70752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f00eb40a3d11c24b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d8fae9287a04743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c37a9bd1bf0b8fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3258d56ceb49d8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -384,22 +300,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "146a04f8ede447d1",
+  "active": "3258d56ceb49d8b4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
-    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
+    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+    "2. Literature Notes/Topics/Sequestro da Amígdala.md",
     "2. Literature Notes/Topics/Instinto de sobrevivência.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
+    "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
+    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+    "2. Literature Notes/Topics/Mapa da Consciência.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Você tem plano de saúde?.md",
-    "2. Literature Notes/Topics/Sequestro da Amígdala.md",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/O medo nos protege.md",
     "Bruno gimenes.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
@@ -411,7 +328,6 @@
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "2. Literature Notes/Topics/sombra.md",
     "2. Literature Notes/Topics/O micro é igual ao macro.md",
-    "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
