@@ -11,7 +11,7 @@ Sempre que se pegar pensando em uma crença, questione-se isso:
 
 A pessoa está jorrando esgoto no seu ouvido? Se você começa a entrar na energia do medo, está errado. É inteligente que você se mova na energia do amor. Observe tudo que você está ouvindo e se as suas ações estão na energia do amor.
 
-Tudo são [[crenças]]. Você é uma máquina de crenças. E a sua boca é a varinha mágica. Você escolhe a crença que sai da máquina e materializa ela. Escute o que você está falando, as palavras que saem da sua boca.
+Tudo são [[crenças]]. Você é uma máquina de crenças. E a sua boca é a varinha mágica. Você escolhe a crença que sai da máquina e materializa ela. Escute o que você está falando, as palavras que saem da sua boca. Tudo isso é energia e tudo isso tem poder. [[O micro é igual ao macro]].
 
 **COMO:**
 

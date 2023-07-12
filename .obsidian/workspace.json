@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5f60e962540976c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4eb131d13dda95e9",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fé",
+                "query": "vítima",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -247,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md"
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
               }
             }
           },
@@ -335,13 +347,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3258d56ceb49d8b4",
+  "active": "5f60e962540976c9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
+    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "O que move a vida do ser humano é a fé.md",
     "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "2. Literature Notes/Topics/Você está pensando ou você está sendo pensado?.md",
-    "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
@@ -352,7 +365,6 @@
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
-    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Você tem plano de saúde?.md",
