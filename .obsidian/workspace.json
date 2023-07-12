@@ -152,14 +152,6 @@
             }
           },
           {
-            "id": "43f00644c27c8293",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a25194e79a1decfe",
             "type": "leaf",
             "state": {
@@ -192,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -304,6 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,6 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,7 +335,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md"
+              }
             }
           },
           {
@@ -388,7 +384,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43f00644c27c8293",
+  "active": "146a04f8ede447d1",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
