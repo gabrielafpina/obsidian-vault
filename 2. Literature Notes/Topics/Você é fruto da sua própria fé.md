@@ -39,3 +39,4 @@ quando você é o que você fala, as pessoas começam a te seguir aos montes.
 - [[Tudo é uma escolha]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
 - [[Gente que 'se acha' significa que se procurou e se encontrou]]
+- [[O que move a vida do ser humano é a fé]]
