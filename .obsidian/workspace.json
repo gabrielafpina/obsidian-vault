@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instinto de sobrevivência.md",
+                "file": "2. Literature Notes/Topics/Instinto de sobrevivência.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequestro da Amígdala.md",
+                "file": "2. Literature Notes/Topics/Sequestro da Amígdala.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,6 +128,30 @@
             }
           },
           {
+            "id": "05473827cdef4c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a25194e79a1decfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc9f00746b88dd75",
             "type": "leaf",
             "state": {
@@ -148,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crenças",
+                "query": "consciência",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md"
+                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md"
               }
             }
           },
@@ -347,20 +371,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b12837737b58b0f9",
+  "active": "05473827cdef4c10",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Mapa da Consciência.md",
+    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
-    "Instinto de sobrevivência.md",
+    "2. Literature Notes/Topics/Instinto de sobrevivência.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/Princípio da Homeostase Biológica ou Manutenção da Vida.md",
     "2. Literature Notes/Topics/Você tem plano de saúde?.md",
-    "Sequestro da Amígdala.md",
+    "2. Literature Notes/Topics/Sequestro da Amígdala.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
-    "O medo nos protege.md",
+    "2. Literature Notes/Topics/O medo nos protege.md",
     "Bruno gimenes.md",
     "2. Literature Notes/Topics/Consciente e Inconsciente.md",
     "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
@@ -371,11 +397,9 @@
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "2. Literature Notes/Topics/sombra.md",
     "2. Literature Notes/Topics/O micro é igual ao macro.md",
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/O primeiro passo para a manifestação é a gratidão.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "2. Literature Notes/Topics/Inconsciente.md",
-    "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
