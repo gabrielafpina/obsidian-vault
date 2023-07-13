@@ -9,7 +9,9 @@
 
 As submodalidades são as sub características de cada um dos principais canais representativos. ex: imagem colorida, imagem em preto e branco, pequeno ou grande.
 
+![[MOD 8_AULA 1_O que são os Estados Emocionais.pdf]]
 
+Para que servem? Só conseguimos fazer reprogramações em cima do que queremos e vivemos, a partir do momento em que compreendemos a forma como representamos o mundo internamente.
 
 **COMO:**
 
