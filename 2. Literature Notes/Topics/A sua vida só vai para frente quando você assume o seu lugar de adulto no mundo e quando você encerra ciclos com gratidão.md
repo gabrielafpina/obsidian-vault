@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Eu que conto a minha história.
 
+Eu escolho abandonar as minhas crenças e abrir espaço para o novo chegar.
+
 **COMO:**
 
 **PENSADORES:**
