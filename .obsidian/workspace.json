@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5f60e962540976c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d30194ea1ab303d2",
             "type": "leaf",
             "state": {
@@ -68,18 +56,6 @@
             }
           },
           {
-            "id": "80c341ad8470eba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4a5e850a91e9f704",
             "type": "leaf",
             "state": {
@@ -104,48 +80,12 @@
             }
           },
           {
-            "id": "eed593600d3ad83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O amor é a cura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb131d13dda95e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "540f35770962cec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "O que move a vida do ser humano é a fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbb3d44ae92faa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,6 +152,18 @@
             }
           },
           {
+            "id": "9d62f2075f67a1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a3110ce0fc9d9362",
             "type": "leaf",
             "state": {
@@ -224,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -243,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auto sabotagem",
+                "query": "tentar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -270,8 +222,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -336,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md",
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md",
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não me falta nada.md"
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md"
               }
             }
           },
@@ -424,9 +375,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d30194ea1ab303d2",
+  "active": "9d62f2075f67a1b7",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Não me falta nada.md",
     "Eu que conto a minha história e ela é extraordinária.md",
     "2. Literature Notes/Topics/Princípio da Correspondência.md",
     "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
@@ -438,7 +390,6 @@
     "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
     "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
     "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
-    "2. Literature Notes/Topics/Não me falta nada.md",
     "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",

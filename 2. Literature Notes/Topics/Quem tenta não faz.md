@@ -16,6 +16,8 @@ Quais são os impactos de falar que vai tentar?
 	1. Não existe tentar fazer algo. Todos os verbos são ações de execução e conclusão. Por outro lado, o tentar é um verbo de fracasso, porque você está programando o seu cérebro a não concluir determinada atividade.
 Sim ou não. Ou você vai fazer, ou não vai fazer.
 
+Se você continua falando 'tentar', significa que você adora fracassar. Se você não para de utilizar essa palavra, você adora fracassar.
+
 **COMO:**
 
 **PENSADORES:**
@@ -31,5 +33,9 @@ Sim ou não. Ou você vai fazer, ou não vai fazer.
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
+- [[Existem 4 lugares proibidos]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
 
 **Sul: para onde vai**
+- [[Todo pensamento sabotador tá cancelado]]
+- [[Eu desejo para cada pessoa o que ela deseja para ela mesma]]
