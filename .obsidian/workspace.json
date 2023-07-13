@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "591b1ddc2cd0a97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a10de5c92e44e56",
             "type": "leaf",
             "state": {
@@ -236,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TEM QUE",
+                "query": "amar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -348,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md"
+                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md"
               }
             }
           },
@@ -436,11 +448,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bc57921ebab0791",
+  "active": "591b1ddc2cd0a97a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+    "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+    "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/People/Hipócrates.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Quem libera informação, libera poder.md",
@@ -462,8 +476,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O medo que você tem é que as pessoas façam com você o que você faz com o outro.md",
     "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/Você é fruto da sua própria fé.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
