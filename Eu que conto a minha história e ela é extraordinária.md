@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Eu não aceito bençãos intermediárias. Nada menos do que o extraordinário. A minha história é extraordinária e eu não aceito nada menos do que isso. Eu decido escolher o extraordinária. Eu escolho me inspirar, aplaudir e admirar quem dá certo. A pessoa que vive no amor é a pessoa que mais dá certo no mundo.
 
+Para de contar história de baixo drama. Você que manda na sua vida. Eu faço o que é para fazer! Você é que vai criar a sua própria vida extraordinária.
+
 **COMO:**
 
 **PENSADORES:**

@@ -152,18 +152,6 @@
             }
           },
           {
-            "id": "b12837737b58b0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "05473827cdef4c10",
             "type": "leaf",
             "state": {
@@ -224,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -335,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
+                "file": "Eu que conto a minha história e ela é extraordinária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
+                "file": "Eu que conto a minha história e ela é extraordinária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md"
+                "file": "Eu que conto a minha história e ela é extraordinária.md"
               }
             }
           },
@@ -423,10 +411,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "a23c9c099efeefe0",
   "lastOpenFiles": [
-    "Eu que conto a minha história e ela é extraordinária.md",
     "2. Literature Notes/Topics/Princípio da Correspondência.md",
+    "Eu que conto a minha história e ela é extraordinária.md",
     "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
