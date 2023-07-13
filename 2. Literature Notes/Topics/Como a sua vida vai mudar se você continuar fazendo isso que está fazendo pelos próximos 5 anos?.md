@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Ema alguns momentos pare e se questione:
+Em alguns momentos pare e se questione:
 >[!important] Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?
 
 Você vai estar com a mesma idade que você estaria se não estivesse fazendo. Então começa, porque a hora é agora. Deus é tão extraordinário que o agora se chama presente, porque só existe ele. e toda mudança que eu começo agora, eu teria a idade que eu teria se eu não tivesse começado essa mudança. Por isso, o agora é um presente inteligente. É a única coisa que existe.
