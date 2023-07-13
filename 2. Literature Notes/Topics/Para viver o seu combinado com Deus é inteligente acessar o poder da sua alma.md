@@ -27,3 +27,4 @@ Faz parte da cura o desejo de ser curado.
 - [[Existem 4 lugares proibidos]]
 
 **Sul: para onde vai**
+- [[Você está disposto a abandonar tudo que te adoeceu?]]
