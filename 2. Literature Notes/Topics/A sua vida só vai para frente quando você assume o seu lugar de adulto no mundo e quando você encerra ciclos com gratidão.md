@@ -21,6 +21,8 @@
 
 **Norte: ideia/pergunta**
 - [[Existem 4 lugares proibidos]]
+- [[Tudo é uma escolha]]
+- [[Ninguém tem que porra nenhuma]]
 
 **Sul: para onde vai**
 - [[Adultos não ganham dinheiro, adultos fazem dinheiro]]
