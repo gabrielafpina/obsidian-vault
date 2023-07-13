@@ -164,6 +164,30 @@
             }
           },
           {
+            "id": "4fe107b91b57587f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Sistema Swish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca7ba6c5325f44e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnica Godiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc67e0129b3668e7",
             "type": "leaf",
             "state": {
@@ -236,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -255,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inconsciente",
+                "query": "swish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -347,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como controlar o seu diálogo interno?.md",
+                "file": "Técnica Godiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como controlar o seu diálogo interno?.md",
+                "file": "Técnica Godiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como controlar o seu diálogo interno?.md"
+                "file": "Técnica Godiva.md"
               }
             }
           },
@@ -435,10 +459,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "ca7ba6c5325f44e7",
   "lastOpenFiles": [
-    "Submodalidades.md",
+    "2. Literature Notes/Topics/Sistema Swish.md",
+    "Técnica Godiva.md",
     "Como controlar o seu diálogo interno?.md",
+    "Submodalidades.md",
     "MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
@@ -462,8 +488,6 @@
     "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
     "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
     "2. Literature Notes/Topics/Princípio da Correspondência.md",
-    "2. Literature Notes/Topics/O amor é a cura.md",
-    "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",

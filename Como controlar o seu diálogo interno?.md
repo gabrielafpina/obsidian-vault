@@ -26,6 +26,7 @@ Aumento do volume do diálogo interno -> aumento de energia*
 Se você quiser dormir mais rápido, você pode simplesmente diminuir o volume do seu diálogo interno e você pode colocar uma voz bocejando.
 
 **PENSADORES:**
+- [[Tony Robbins]] em [[Poder Sem Limites]]
 
 **FRASES:**
 

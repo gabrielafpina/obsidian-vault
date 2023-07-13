@@ -37,3 +37,4 @@ Pode não funcionar, se a imagem que escolheu para avançar não for bastante ex
 - [[Como criar um estado emocional?]]
 
 **Sul: para onde vai**
+- [[Técnica Godiva]]
