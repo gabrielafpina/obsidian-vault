@@ -181,7 +181,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swish para gostar menos.md",
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e13d5c55829faf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -279,7 +291,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swish",
+                "query": "tenta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -371,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swish para gostar menos.md",
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swish para gostar menos.md",
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swish para gostar menos.md"
+                "file": "2. Literature Notes/Topics/Quem tenta não faz.md"
               }
             }
           },
@@ -459,10 +471,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c09ceeb3a4c17f9",
+  "active": "2e13d5c55829faf7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Sistema Swish.md",
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "Swish para gostar menos.md",
+    "2. Literature Notes/Topics/Sistema Swish.md",
     "Técnica Godiva.md",
     "Como controlar o seu diálogo interno?.md",
     "Submodalidades.md",
@@ -470,7 +483,6 @@
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
     "2. Literature Notes/People/Hipócrates.md",
