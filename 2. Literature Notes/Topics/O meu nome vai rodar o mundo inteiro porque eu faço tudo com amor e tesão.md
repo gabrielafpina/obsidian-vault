@@ -13,6 +13,8 @@ O planeta terra é um planeta de contribuição. Quando as pessoas entenderem is
 
 Aonde você está colocando a sua energia?
 
+Não quero competir com ninguém. Eu amo o que eu faço. Eu sirvo com brilho nos olhos e amor no coração.
+
 **COMO:**
 
 **PENSADORES:**

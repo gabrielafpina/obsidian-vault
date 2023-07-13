@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
+                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
+                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md"
+                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md"
               }
             }
           },
@@ -387,10 +387,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "e36a4c38a9e2beff",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/Não me falta nada.md",
