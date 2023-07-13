@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 tudo o que vibra dentro de mim, é o que eu inconscientemente vou atrair para a minha vida. Tudo é frequência. Tudo é vibração. Se você critica o sucesso do outro, o casamento, o corpo, nada disso tem como chegar até você. O Universo não vai te mandar nada disso, ainda mais se você duvida.
 
->[!important] Tudo o que você aplaude, você atrai.
+>[!important] Tudo o que você aplaude, você atrai. Tudo o que você critica, você afasta da sua vida.
 
 
 **COMO:**
