@@ -176,12 +176,12 @@
             }
           },
           {
-            "id": "ca7ba6c5325f44e7",
+            "id": "2c09ceeb3a4c17f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnica Godiva.md",
+                "file": "Swish para gostar menos.md",
                 "mode": "source",
                 "source": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Técnica Godiva.md",
+                "file": "Swish para gostar menos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Técnica Godiva.md",
+                "file": "Swish para gostar menos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Técnica Godiva.md"
+                "file": "Swish para gostar menos.md"
               }
             }
           },
@@ -459,9 +459,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca7ba6c5325f44e7",
+  "active": "2c09ceeb3a4c17f9",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Sistema Swish.md",
+    "Swish para gostar menos.md",
     "Técnica Godiva.md",
     "Como controlar o seu diálogo interno?.md",
     "Submodalidades.md",
@@ -487,7 +488,6 @@
     "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
     "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
     "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
-    "2. Literature Notes/Topics/Princípio da Correspondência.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",

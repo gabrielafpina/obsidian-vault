@@ -38,3 +38,4 @@ Pode não funcionar, se a imagem que escolheu para avançar não for bastante ex
 
 **Sul: para onde vai**
 - [[Técnica Godiva]]
+- [[Swish para gostar menos]]
