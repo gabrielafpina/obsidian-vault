@@ -13,7 +13,7 @@ O planeta terra é um planeta de contribuição. Quando as pessoas entenderem is
 
 Aonde você está colocando a sua energia?
 
-Não quero competir com ninguém. Eu amo o que eu faço. Eu sirvo com brilho nos olhos e amor no coração.
+Não quero competir com ninguém. Eu amo o que eu faço. Eu sirvo com brilho nos olhos e amor no coração. O poder está em fazer o que você ama em estado de presença. No aqui, no agora.
 
 **COMO:**
 
@@ -33,6 +33,7 @@ Não quero competir com ninguém. Eu amo o que eu faço. Eu sirvo com brilho nos
 - [[Existem 4 lugares proibidos]]
 - [[Essa crença é minha ou do outro?]]
 - [[O meu nível de ser atrai a minha vida]]
+- [[Mindfulness]]
 
 **Sul: para onde vai**
 - [[Todo pensamento sabotador tá cancelado]]

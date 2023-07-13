@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
+                "file": "Eu que conto a minha história e ela é extraordinária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
+                "file": "Eu que conto a minha história e ela é extraordinária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md"
+                "file": "Eu que conto a minha história e ela é extraordinária.md"
               }
             }
           },
@@ -387,8 +387,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e36a4c38a9e2beff",
+  "active": "a23c9c099efeefe0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
     "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
@@ -403,7 +404,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O medo que você tem é que as pessoas façam com você o que você faz com o outro.md",
     "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
-    "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
     "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
     "2. Literature Notes/Topics/Essa crença é minha ou do outro?.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
