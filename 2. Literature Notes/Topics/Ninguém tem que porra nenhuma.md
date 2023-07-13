@@ -31,3 +31,4 @@ Você não tem que nada. Você só faz o que você escolhe.
 - [[Quais são os níveis de crenças existentes?]]
 - [[Adultos não ganham dinheiro, adultos fazem dinheiro]]
 - [[Todo julgamento é uma confissão]]
+- [[Você está pensando ou você está sendo pensado?]]
