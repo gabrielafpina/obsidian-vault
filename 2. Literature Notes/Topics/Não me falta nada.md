@@ -11,6 +11,8 @@ Se você usa essa expressão no pouco, em coisas pequenas, significa que ela já
 
 É inteligente acreditar em crenças otimizadoras.
 
+Não te falta nada, mas você não está ouvindo o que está sendo dito.
+
 **COMO:**
 
 **PENSADORES:**

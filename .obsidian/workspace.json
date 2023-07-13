@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "77796703dfde73cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a3110ce0fc9d9362",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -323,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eu que conto a minha história e ela é extraordinária.md",
+                "file": "2. Literature Notes/Topics/Não me falta nada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eu que conto a minha história e ela é extraordinária.md",
+                "file": "2. Literature Notes/Topics/Não me falta nada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eu que conto a minha história e ela é extraordinária.md"
+                "file": "2. Literature Notes/Topics/Não me falta nada.md"
               }
             }
           },
@@ -411,10 +424,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a23c9c099efeefe0",
+  "active": "d30194ea1ab303d2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Princípio da Correspondência.md",
+    "2. Literature Notes/Topics/Untitled.md",
     "Eu que conto a minha história e ela é extraordinária.md",
+    "2. Literature Notes/Topics/Princípio da Correspondência.md",
     "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
     "2. Literature Notes/Topics/O amor é a cura.md",
@@ -438,7 +452,6 @@
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Sequestro da Amígdala.md",
     "2. Literature Notes/Topics/Instinto de sobrevivência.md",
-    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
