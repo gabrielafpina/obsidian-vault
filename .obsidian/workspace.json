@@ -145,7 +145,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a8ec4337d2ed8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Submodalidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poder da alma",
+                "query": "submoda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,8 +270,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -324,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+                "file": "Submodalidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+                "file": "Submodalidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md"
+                "file": "Submodalidades.md"
               }
             }
           },
@@ -412,8 +423,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "591b1ddc2cd0a97a",
+  "active": "50a8ec4337d2ed8d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+    "Submodalidades.md",
     "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
@@ -438,8 +451,6 @@
     "2. Literature Notes/Topics/O amor é a cura.md",
     "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/O medo que você tem é que as pessoas façam com você o que você faz com o outro.md",
-    "2. Literature Notes/Topics/A gente atrai o que a gente vibra.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
