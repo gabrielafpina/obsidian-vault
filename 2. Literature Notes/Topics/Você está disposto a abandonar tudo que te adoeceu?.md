@@ -11,7 +11,7 @@ Faz parte da realização o desejo de se realizar, assim como abandonar todas as
 
 Faz parte da cura o desejo de ser curado. E para a pessoa se curar, ela precisa estar disposta. Pergunte para o doente se ele está disposto a ser curado. O que cura é a fé.
 
-Faça a sua parte. Abandona o que não te realiza. O que não te realiza? As suas crenças limitantes.
+Faça a sua parte. Abandona o que não te realiza. O que não te realiza? As suas crenças limitantes. Está na hora de tomar posse do seu lugar no mundo.
 
 **COMO:**
 
