@@ -29,6 +29,8 @@ A matéria é um reflexo do outro plano. Uma pessoa que está com uma doença ps
 
 **Norte: ideia/pergunta**
 - [[Lei do Mentalismo]]
+- [[O meu nível de ser atrai a minha vida]]
 
 **Sul: para onde vai**
 - [[Princípio Psicossomático]]
+- [[Não me falta nada]]
