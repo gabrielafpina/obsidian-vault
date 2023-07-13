@@ -19,5 +19,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O único trabalho verdadeiro é o trabalho sobre si]]
 
 **Sul: para onde vai**
