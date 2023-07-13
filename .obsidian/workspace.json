@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tenta",
+                "query": "4 lug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -251,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md"
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
               }
             }
           },
@@ -341,6 +342,7 @@
   },
   "active": "cec9d65aa988988a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
     "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
@@ -367,7 +369,6 @@
     "2. Literature Notes/Topics/Não me falta nada.md",
     "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
     "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
-    "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
