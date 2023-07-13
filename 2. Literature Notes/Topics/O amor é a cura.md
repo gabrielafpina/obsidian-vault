@@ -9,7 +9,7 @@
 
 quando você é muito duro com o ego, ele se rebela. o segredo da auto observação é se observar, levando consciência e mostrando que você está atento, sem se machucar, com amorosidade.
 
-o amor é a força mais poderosa do universo.
+o amor é a força/energia mais poderosa do universo.
 
 **COMO:**
 
