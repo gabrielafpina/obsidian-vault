@@ -11,7 +11,7 @@ Só eu posso transformar o que está na minha vida. Acredite que você nasceu pa
 
 Eu que conto a minha história. Eu nasci para ser vitoriosa para caralho em tudo na minha vida. Qual é a história que você aluga o tímpano do coleguinha? Não alugue o outro com baixo drama.
 
-Eu que conto a minha história e ela é extraordinária. Eu não aceito bençãos intermediárias. Nada menos do que o extraordinário.
+[[Eu que conto a minha história e ela é extraordinária]]. 
 
 **COMO:**
 
