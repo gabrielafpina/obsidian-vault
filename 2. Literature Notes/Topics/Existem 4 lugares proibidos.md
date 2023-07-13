@@ -41,3 +41,4 @@ Os lugares proibidos são:
 **Sul: para onde vai**
 - [[O vazio de si mesmo faz com que você aceite a migalha do outro]]
 - [[É inteligente dar somente para quem pede]]
+- [[Ninguém tem que porra nenhuma]]

@@ -8,6 +8,8 @@
 
 >[!important] **MAKE MONEY.**
 
+ASSUMA O SEU LUGAR DE ADULTO NO MUNDO!
+
 **COMO:**
 
 **PENSADORES:**

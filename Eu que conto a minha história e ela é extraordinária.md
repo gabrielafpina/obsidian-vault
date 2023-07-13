@@ -31,3 +31,4 @@ Para de contar história de baixo drama. Você que manda na sua vida. Eu faço o
 - [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]]
 - [[Existem 4 lugares proibidos]]
 - [[A gente atrai o que a gente vibra]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
