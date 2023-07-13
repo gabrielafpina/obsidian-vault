@@ -152,18 +152,6 @@
             }
           },
           {
-            "id": "5a10de5c92e44e56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1060e04e606274d0",
             "type": "leaf",
             "state": {
@@ -212,30 +200,6 @@
             }
           },
           {
-            "id": "a62d3e9bf35d8fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b54f2f85d0e15b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3110ce0fc9d9362",
             "type": "leaf",
             "state": {
@@ -267,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amar",
+                "query": "poder da alma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -294,8 +258,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -448,11 +411,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "591b1ddc2cd0a97a",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
-    "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
+    "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
     "2. Literature Notes/People/Hipócrates.md",
