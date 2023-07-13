@@ -11,6 +11,8 @@ Para eu ser a melhor, alguém tem que ser o pior. Não estou competindo. Não qu
 
 O planeta terra é um planeta de contribuição. Quando as pessoas entenderem isso, ficam milionárias. Tudo conspira ao nosso favor.
 
+Aonde você está colocando a sua energia?
+
 **COMO:**
 
 **PENSADORES:**
@@ -34,3 +36,4 @@ O planeta terra é um planeta de contribuição. Quando as pessoas entenderem is
 - [[Todo pensamento sabotador tá cancelado]]
 - [[Não me falta nada]]
 - [[O meu único poder é fazer por mim]]
+- [[A gente atrai o que a gente vibra]]
