@@ -28,3 +28,6 @@ Você não tem que nada. Você só faz o que você escolhe.
 - [[crenças]]
 
 **Sul: para onde vai**
+- [[Quais são os níveis de crenças existentes?]]
+- [[Adultos não ganham dinheiro, adultos fazem dinheiro]]
+- [[Todo julgamento é uma confissão]]

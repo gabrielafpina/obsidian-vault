@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem libera informação, libera poder.md",
+                "file": "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem libera informação, libera poder.md",
+                "file": "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem libera informação, libera poder.md"
+                "file": "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md"
               }
             }
           },
@@ -423,14 +423,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77796703dfde73cd",
+  "active": "d1c579a3b15e9a12",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quem libera informação, libera poder.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Adultos não ganham dinheiro, adultos fazem dinheiro.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "2. Literature Notes/Topics/Quem libera informação, libera poder.md",
     "Eu que conto a minha história e ela é extraordinária.md",
     "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
