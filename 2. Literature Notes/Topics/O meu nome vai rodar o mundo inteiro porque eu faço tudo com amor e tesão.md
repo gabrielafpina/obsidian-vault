@@ -9,6 +9,8 @@ Eu não quero ser reconhecido como o melhor, porque esse é o conceito de algué
 
 Para eu ser a melhor, alguém tem que ser o pior. Não estou competindo. Não quero que ninguém seja o pior.
 
+O planeta terra é um planeta de contribuição. Quando as pessoas entenderem isso, ficam milionárias. Tudo conspira ao nosso favor.
+
 **COMO:**
 
 **PENSADORES:**
@@ -24,5 +26,11 @@ Para eu ser a melhor, alguém tem que ser o pior. Não estou competindo. Não qu
 **Norte: ideia/pergunta**
 - [[O amor é a cura]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Existem 4 lugares proibidos]]
+- [[Essa crença é minha ou do outro?]]
+- [[O meu nível de ser atrai a minha vida]]
 
 **Sul: para onde vai**
+- [[Todo pensamento sabotador tá cancelado]]
+- [[Não me falta nada]]
+- [[O meu único poder é fazer por mim]]

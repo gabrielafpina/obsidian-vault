@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deus",
+                "query": "auto observação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -230,8 +230,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -384,7 +383,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e36a4c38a9e2beff",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Todo pensamento sabotador tá cancelado.md",
     "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
