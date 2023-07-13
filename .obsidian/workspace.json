@@ -207,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "competição",
+                "query": "melhor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -387,7 +387,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b54f2f85d0e15b9",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",

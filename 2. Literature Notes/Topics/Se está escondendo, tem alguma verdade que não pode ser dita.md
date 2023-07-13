@@ -29,3 +29,4 @@ Quando você é verdadeiro, sai do lugar de criança e assume o seu lugar de adu
 - [[Existem 4 lugares proibidos]]
 
 **Sul: para onde vai**
+- [[Todo pensamento sabotador tá cancelado]]
