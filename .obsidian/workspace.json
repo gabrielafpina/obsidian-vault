@@ -243,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Deus",
+                "query": "auto sabotagem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -270,8 +270,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -424,7 +423,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3110ce0fc9d9362",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Eu que conto a minha história e ela é extraordinária.md",
     "2. Literature Notes/Topics/Princípio da Correspondência.md",
