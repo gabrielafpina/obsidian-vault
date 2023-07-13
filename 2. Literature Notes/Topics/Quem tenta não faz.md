@@ -39,3 +39,4 @@ Se você continua falando 'tentar', significa que você adora fracassar. Se voc�
 **Sul: para onde vai**
 - [[Todo pensamento sabotador tá cancelado]]
 - [[Eu desejo para cada pessoa o que ela deseja para ela mesma]]
+- [[Adultos não ganham dinheiro, adultos fazem dinheiro]]
