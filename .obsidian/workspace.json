@@ -231,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diferente",
+                "query": "Deus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,8 +258,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -412,7 +411,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1060e04e606274d0",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
     "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
