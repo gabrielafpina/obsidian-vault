@@ -29,6 +29,8 @@ Faça a sua parte. Abandona o que não te realiza. O que não te realiza? As sua
 **Norte: ideia/pergunta**
 - [[O que move a vida do ser humano é a fé]]
 - [[Você é fruto da sua própria fé]]
+- [[Existem 4 lugares proibidos]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
 
 **Sul: para onde vai**
 - [[Trocar de pensamento é igual trocar de roupa. Se não gostou, troca]]
