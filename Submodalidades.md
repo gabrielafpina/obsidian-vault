@@ -18,6 +18,8 @@ As imagens que temos dentro da nossa cabeça nos influenciam muito, por isso, é
 **COMO:**
 
 **PENSADORES:**
+- [[Tony Robbins]] em [[Poder Sem Limites]]
+- [[Sam Jolen]]
 
 **FRASES:**
 
@@ -31,3 +33,4 @@ As imagens que temos dentro da nossa cabeça nos influenciam muito, por isso, é
 - [[VACOG]]
 
 **Sul: para onde vai**
+- [[Como controlar o seu diálogo interno?]]

@@ -157,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Submodalidades.md",
+                "file": "Como controlar o seu diálogo interno?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc67e0129b3668e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como controlar o seu diálogo interno?.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "submoda",
+                "query": "inconsciente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Submodalidades.md",
+                "file": "Como controlar o seu diálogo interno?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Submodalidades.md",
+                "file": "Como controlar o seu diálogo interno?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Submodalidades.md"
+                "file": "Como controlar o seu diálogo interno?.md"
               }
             }
           },
@@ -423,11 +435,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50a8ec4337d2ed8d",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "Submodalidades.md",
+    "Como controlar o seu diálogo interno?.md",
     "MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-    "Submodalidades.md",
     "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
@@ -465,7 +478,6 @@
     "1. Daily Notes/2023",
     "7. Creator/Reels",
     "7. Creator",
-    "6. Shots, Images & PDFs/7.",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
