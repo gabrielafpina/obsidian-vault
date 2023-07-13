@@ -13,6 +13,8 @@ As submodalidades são as sub características de cada um dos principais canais 
 
 Para que servem? Só conseguimos fazer reprogramações em cima do que queremos e vivemos, a partir do momento em que compreendemos a forma como representamos o mundo internamente.
 
+As imagens que temos dentro da nossa cabeça nos influenciam muito, por isso, é importante mudar as imagens ruins que temos internamente por imagens boas.
+
 **COMO:**
 
 **PENSADORES:**
