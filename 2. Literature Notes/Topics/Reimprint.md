@@ -28,13 +28,17 @@ A chave para o reimprint são as emoções, que são um conjunto de sensações 
 11. Quebre o estado;
 12. Vamos atrás do recurso: amor e segurança. Peça para a pessoa buscar uma situação em que ela sentiu o recurso que você, conversando com o cliente, percebeu que ele tem mais acesso;
 13. Olhe para a linha do tempo com o cliente e peça para ele te mostrar onde que ele se sentiu mais seguro ou amado (a depender do recurso que ele tem mais acesso);
-	1. Não importa se está antes ou depois da situação traumática;
+	1. Não importa se está antes ou depois da situação traumática, só não pode estar no futuro. Tem que ser do presente para o passado, porque o futuro ainda não aconteceu;
 14. Peça para a pessoa entrar na situação se associando a ela. Peça para ela fechar os olhos se lembrando das imagens e dos sons. Peça para ela sentir isso agora;
 15. Ancore a pessoa com a solução de forma diferente. Normalmente ele usa o cotovelo, usando a outra mão dele, porque ele consegue disparar os dois ao mesmo tempo;
 16. De 0 a 10, o quanto você está sentindo essa emoção forte? Peça para ele deixar em 10;
 17. Amplifique o estado emocional, deixando ele o mais forte possível. Faça isso a ponto de deixar a pessoa louca com aquele estado;
 18. Tira a pessoa da linha do tempo e quebre o estado;
 19. Faça esse mesmo processo com a outra sensação: amor ou segurança;
+	1. Ancore essa pessoa no mesmo lugar da outra sensação positiva, porque vai ser um empilhamento de âncoras, aumentando ainda mais a sensação.
+20. Tira a pessoa da linha do tempo e quebre o estado;
+21. Coloque a pessoa no presente, dispare a âncora negativa, volte até a situação de origem do problema e quando chegamos aqui e a pessoa está triste e fale: 'Agora, enquanto você vive o problema, você tem acesso a um recurso que você não tinha antes, você encontra o seu eu do futuro adulto que chega aqui e te dá um presente'. Dispare as duas âncoras ao mesmo tempo, olhando nos olhos das pessoas. Mantenha a âncora positiva segurada e vá soltando lentamente a âncora negativa, até que fica só a positiva;
+22. Leve ela andando pela linha do tempo até chegar ao presente. Quando chegar no presente, faça um pequeno ensaio para o futuro. Como seria em uma próxima situação, onde isso poderia, ou não, acontecer. Pergunte como ficou de 0 a 10.
 
 **PENSADORES:**
 
@@ -53,5 +57,6 @@ A chave para o reimprint são as emoções, que são um conjunto de sensações 
 - [[Como instalar uma âncora?]]
 - [[Princípio Psicossomático]]
 - [[estados emocionais]]
+- [[Como criar um estado emocional?]]
 
 **Sul: para onde vai**
