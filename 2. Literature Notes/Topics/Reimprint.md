@@ -9,7 +9,7 @@ Voltar no passado e consertar algum erro ou problema que aconteceu na sua vida.
 
 É basicamente um colapso de âncoras feito na linha do tempo, onde usamos psico geografia para poder ter o efeito desejado. Ou seja, usar o espaço físico para influenciar como você se sente  de alguma forma.
 
-É benéfico para cura de traumas, para libertação de sensações, alergias psicossomáticas que ela não sabe quando começou, diminuição da sensação da ansiedade, diminuição da dependência química, emocional e psicológica. Tudo isso, principalmente, quando a pessoa não sabe quando nada disso começou. Tudo que é de origem psicossomática pode ser influenciado por essa técnica.
+É benéfico para cura de traumas, para libertação de sensações, alergias psicossomáticas que ela não sabe quando começou, diminuição da sensação da ansiedade, diminuição da dependência química, emocional e psicológica. Tudo isso, principalmente, quando a pessoa não sabe quando nada disso começou. Tudo que é de origem psicossomática pode ser influenciado por essa técnica. A pergunta é: você não tinha e isso começou a acontecer na sua vida? Se sim, pode ser resolvido por essa técnica.
 
 A chave para o reimprint são as emoções, que são um conjunto de sensações que eu sinto dentro de determinada situação.
 
