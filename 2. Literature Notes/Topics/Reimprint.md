@@ -62,3 +62,4 @@ Aqui, você quer reconfigurar um estado emocional na ORIGEM.
 - [[Como criar um estado emocional?]]
 
 **Sul: para onde vai**
+- [[O segredo de qualquer terapia é dissociação do problema e associação da solução]]
