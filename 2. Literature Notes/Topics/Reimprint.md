@@ -24,9 +24,17 @@ A chave para o reimprint são as emoções, que são um conjunto de sensações 
 8. Ache o momento de ORIGEM: voltar na linha do tempo até uma situação onde foi a primeira vez em que ela sentiu o estado emocional negativo. Precisamos matar o problema pela sua raiz;
 	1. Como eu sei qual é o momento inicial? Quando não tem nenhuma sensação nesse ponto e atrás dele, mas na frente tem sensação.
 9. Tire a pessoa da linha do tempo, para que ela não sofra, principalmente se é um momento muito traumático;
-10. Coloque a pessoa dissociada do problema, vendo ele de fora, de forma segura, podendo até ancorar de forma diferente a segurança;
+10. Coloque a pessoa dissociada do problema, vendo ele de fora, de forma segura;
 11. Quebre o estado;
-12. Vamos atrás do recurso: amor e segurança. Peça para a pessoa buscar uma situação em que ela sentiu 
+12. Vamos atrás do recurso: amor e segurança. Peça para a pessoa buscar uma situação em que ela sentiu o recurso que você, conversando com o cliente, percebeu que ele tem mais acesso;
+13. Olhe para a linha do tempo com o cliente e peça para ele te mostrar onde que ele se sentiu mais seguro ou amado (a depender do recurso que ele tem mais acesso);
+	1. Não importa se está antes ou depois da situação traumática;
+14. Peça para a pessoa entrar na situação se associando a ela. Peça para ela fechar os olhos se lembrando das imagens e dos sons. Peça para ela sentir isso agora;
+15. Ancore a pessoa com a solução de forma diferente. Normalmente ele usa o cotovelo, usando a outra mão dele, porque ele consegue disparar os dois ao mesmo tempo;
+16. De 0 a 10, o quanto você está sentindo essa emoção forte? Peça para ele deixar em 10;
+17. Amplifique o estado emocional, deixando ele o mais forte possível. Faça isso a ponto de deixar a pessoa louca com aquele estado;
+18. Tira a pessoa da linha do tempo e quebre o estado;
+19. Faça esse mesmo processo com a outra sensação: amor ou segurança;
 
 **PENSADORES:**
 
@@ -44,5 +52,6 @@ A chave para o reimprint são as emoções, que são um conjunto de sensações 
 **Norte: ideia/pergunta**
 - [[Como instalar uma âncora?]]
 - [[Princípio Psicossomático]]
+- [[estados emocionais]]
 
 **Sul: para onde vai**
