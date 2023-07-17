@@ -9,6 +9,10 @@ Quando você nasce é apenas uma pulsão, que se chama ID. que é a nossa parte 
 
 O ID vem a ser como que a reserva da energia libidinal e agressiva, que guiada pelo impulso do princípio do prazer, procura satisfação completa e imediata dos impulsos instintivos ainda que em contrário e em desacordo com a realidade. O ID é puro instinto, não tem nada racional nele.
 
+O id é o representante psíquico de forças e necessidades que vêm dos instintos (pulsões). E essa parte é hereditária, inata, ou seja, o indivíduo nasce com várias pulsões que vão colocá-lo em movimento.
+
+A outra parte do ID é o recalcado, que contém principalmente as fantasias criadas durante a infância da pessoa; portanto, ela é adquirida durante a vida. Isso acontece quando não nos sentimos realizados e ficamos com algo mal resolvido dentro de nós.
+
 Essa é a nossa parte necessitada de prazer, as vezes, a qualquer custo.
 - O [[Ego]] é a minha base responsável por representar o eu. OI ego e o eu são a mesma pessoa. A diferença é que o ego é toda a máscara estratégica que colocamos para sermos nós no mundo, de forma a viver uma vida em sociedade.
 	- Para se relacionar com as pessoas você precisa atender às regras de um sistema organizacional, porque se não você não sobrevive a ele.
@@ -20,7 +24,8 @@ Essa é a nossa parte necessitada de prazer, as vezes, a qualquer custo.
 
 ![[Captura de Tela 2023-07-17 às 14.21.21.png]]
 
-**COMO:**
+**CARACTERÍSTICAS DO ID:**
+- Não possui organização, é totalmente displicente e desordenado.
 
 **PENSADORES:**
 
