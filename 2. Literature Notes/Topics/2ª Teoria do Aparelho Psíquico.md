@@ -20,7 +20,7 @@
 
 ![[Captura de Tela 2023-07-17 às 14.06.01.png]]
 
-Esse desenho nos mostra como a nossa mente funciona. O [[Ego]] está no centro de tudo, no centro da nossa mente. Embaixo, temos o inconsciente. Em cima, o pré-consciente e o consciente. O [[SuperEgo]] e o [[Ego]] pegam toda a estrutura da mente. Embaixo, temos o [[ID]].
+Esse desenho nos mostra como a nossa mente funciona. O [[Ego]] está no centro de tudo, no centro da nossa mente. Embaixo, temos o inconsciente. Em cima, o pré-consciente e o consciente. O [[SuperEgo]] e o [[Ego]] pegam toda a estrutura da mente. Embaixo, temos o [[ID]], a energia pulsional.
 
 ------------
 
