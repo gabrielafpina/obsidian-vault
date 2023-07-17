@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Reels/Pare de pedir desculpa.md",
+                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d3e4d71c3f7b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Id.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hater",
+                "query": "id",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,8 +210,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Reels/Pare de pedir desculpa.md",
+                "file": "Id.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Reels/Pare de pedir desculpa.md",
+                "file": "Id.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Reels/Pare de pedir desculpa.md"
+                "file": "Id.md"
               }
             }
           },
@@ -352,11 +363,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96c8a0b5cf880d0d",
+  "active": "d9d3e4d71c3f7b75",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "Id.md",
+    "7. Creator/Reels/Pare de pedir desculpa.md",
     "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
     "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
-    "7. Creator/Reels/Pare de pedir desculpa.md",
     "2. Literature Notes/Topics/O segredo de qualquer terapia é dissociação do problema e associação da solução.md",
     "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Reimprint.md",
@@ -378,8 +391,6 @@
     "2. Literature Notes/Topics/Como controlar o seu diálogo interno?.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Topics/Swish para gostar menos.md",
-    "2. Literature Notes/Topics/Técnica Godiva.md",
-    "2. Literature Notes/Topics/Submodalidades.md",
     "6. Shots, Images & PDFs/MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
