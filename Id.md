@@ -30,11 +30,15 @@ Essa é a nossa parte necessitada de prazer, as vezes, a qualquer custo.
 - Não expressa vontade coletiva, está relacionado com o individualismo e necessidade íntima e pessoal. 
 - Possui leis próprias e é a instância mais arcaica e primitiva da psiquê humana. Uma pessoa é capaz de matar pelo que quer.
 - Ausência de valores; naturalmente, o id não conhece nenhum julgamento de valores: não conhece o bem, nem o mal, nem a moralidade.
-- Atemporalidade: no id, não existe nada que corresponda à ideia do tempo; não há reconhecimento da passagem do tempo e nenhuma alteração em seus processos mentais é produzida pela passagem do tempo. Ou seja, ele não tem capacidade cronológica. Assim, pode ser que uma emoção que foi recalcada na sua infância ainda pode estar existindo em você, no seu inconsciente. Você só consegue trazer os processos do id 
+- Atemporalidade: no id, não existe nada que corresponda à ideia do tempo; não há reconhecimento da passagem do tempo e nenhuma alteração em seus processos mentais é produzida pela passagem do tempo. Ou seja, ele não tem capacidade cronológica. Assim, pode ser que uma emoção que foi recalcada na sua infância ainda pode estar existindo em você, no seu inconsciente. Você só consegue trazer os processos do id para o consciente a partir do momento em que você faz uma análise, uma reflexão.
+	- O id é uma energia, uma pulsão que fica dentro de você.
+- Imortalidade dos desejos: impulsos plenos de desejos que jamais passam além do id e também impressões que foram mergulhadas no id pelas repressões, são virtualmente imortais: depois de se passarem décadas, comportam-se como se tivessem ocorridos há poucos instantes.
+- Capacidade de tornar-se consciente: seus elementos só podem ser reconhecidos como pertencentes ao passado, só vão perder sua importância e ser reelaborados em sua primeira catexia (primeira imagem libidinal. concentração de toda a energia psíquica, mental ou emocional, na representação de uma ideia, uma imagem, um objeto, uma pessoa, uma lembrança...) de energia, tornando-se conscientes pela análise, com base no efeito terapêutico.
 
 **PENSADORES:**
 
 **FRASES:**
+- [[Pitágoras]]: o homem é mortal por seus temores e imortal por seus desejos.
 
 ---------
 
