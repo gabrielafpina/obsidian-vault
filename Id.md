@@ -28,7 +28,9 @@ Essa é a nossa parte necessitada de prazer, as vezes, a qualquer custo.
 **CARACTERÍSTICAS DO ID:**
 - Não possui organização, é totalmente displicente e desordenado. Precisa de apoio do ego e superego.
 - Não expressa vontade coletiva, está relacionado com o individualismo e necessidade íntima e pessoal. 
-- Possui leis próprias e é a instância mais arcaica e primitiva da psiquê humana.
+- Possui leis próprias e é a instância mais arcaica e primitiva da psiquê humana. Uma pessoa é capaz de matar pelo que quer.
+- Ausência de valores; naturalmente, o id não conhece nenhum julgamento de valores: não conhece o bem, nem o mal, nem a moralidade.
+- Atemporalidade: no id, não existe nada que corresponda à ideia do tempo; não há reconhecimento da passagem do tempo e nenhuma alteração em seus processos mentais é produzida pela passagem do tempo. Ou seja, ele não tem capacidade cronológica. Assim, pode ser que uma emoção que foi recalcada na sua infância ainda pode estar existindo em você, no seu inconsciente. Você só consegue trazer os processos do id 
 
 **PENSADORES:**
 
