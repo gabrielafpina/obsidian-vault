@@ -14,10 +14,15 @@
 - **[[Ego]]**
     - Representante do eu revestido de personalidade, de máscaras (estratégicas, sociais…). É o representante do eu. É o que colocamos para viver em sociedade. As máscaras servem para que consigamos viver em sociedade. O ego é a máscara. Essas máscaras, quando conscientes delas, passam a ser estratégicas, para que consigamos viver em harmonia na sociedade. Quanto menos máscaras você tem, mais feliz você vai ser.
     - Enquanto não tinha o Ego, eu era apenas o **eu** com a pulsão do Id. Agora, o ego já é algo mais estruturado.
-- **Superego**
+- **[[SuperEgo]]**
     - Regras e crenças, que impede o Id de agir sobre o Ego, através de seus exageros.
 ![[Captura de Tela 2023-05-22 às 11.45.08.png]]
----------
+
+![[Captura de Tela 2023-07-17 às 14.06.01.png]]
+
+Esse desenho nos mostra como a nossa mente funciona. O [[Ego]] está no centro de tudo, no centro da nossa mente. Embaixo, temos o inconsciente. Em cima, o pré-consciente e o consciente. O [[SuperEgo]] e o [[Ego]] pegam toda a estrutura da mente. Embaixo, temos o [[ID]].
+
+------------
 
 **Oeste: similar**
 - [[Inconsciente Coletivo]] de [[Carl Jung]]
