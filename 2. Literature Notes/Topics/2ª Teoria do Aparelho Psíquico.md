@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 [[Sigmund Freud]] foi aperfeiçoando o seu modelo e reformulando a sua modelística inicial, até desenvolver a segunda teoria do aparelho psíquico. Ele não anulou a [[1ª Teoria do Aparelho Psíquico]], apenas aperfeiçoou-a. A segunda teoria está relacionada ao modelo _Estrutural_, ou seja, à estrutura da mente.
 
-- **[[Id]]**
+- **[[ID]]**
     - Nossa parte pulsional, nossa energia, necessidade de prazer a qualquer custo - querer as coisas em excesso, nem que eu tenha que passar em cima dos outros.
     - É muito primitivo, nascemos com ele.
     - O ID não tem capacidade racional, tudo é prazer para ele. O Id é, ainda, atemporal, ele não tem capacidade cronológica, ele não entende o tempo. Uma angústia mal resolvida desde a infância vai continuar ai dentro, enquanto você não trouxer à consciência o que está no seu inconsciente, ele será dono do seu destino.
