@@ -21,11 +21,14 @@ Essa é a nossa parte necessitada de prazer, as vezes, a qualquer custo.
 - O ID é a energia pulsional dentro de mim que busca pelo prazer. Nós nascemos já querendo o prazer em tudo o que queremos. OS nossos 5 sentidos ([[VACOG]]) querem prazer em tudo.
 	- O ID não possui capacidade racional. Por isso, precisamos tomar cuidado com os nossos pensamentos e desejos, porque ele sozinho pode tomar decisões irracionais.
 	- É a nossa mola propulsora do prazer. É através dele que a gente vai buscar a alegria, entusiasmo, viver. Porque o ID é pulsão de vida, o desejo, imediatamente.
+	- Quem dá freio ao ID é o superego e quem toma a decisão é o ego.
 
 ![[Captura de Tela 2023-07-17 às 14.21.21.png]]
 
 **CARACTERÍSTICAS DO ID:**
-- Não possui organização, é totalmente displicente e desordenado.
+- Não possui organização, é totalmente displicente e desordenado. Precisa de apoio do ego e superego.
+- Não expressa vontade coletiva, está relacionado com o individualismo e necessidade íntima e pessoal. 
+- Possui leis próprias e é a instância mais arcaica e primitiva da psiquê humana.
 
 **PENSADORES:**
 
