@@ -27,6 +27,8 @@ Assim, quando estiver se sentindo mal, lembre-se de investigar qual é o pensame
 6. Qual é um pensamento que eu posso colocar no lugar desse?
 7. Como eu me sentiria com esse novo pensamento?
 
+Esse não é um trabalho sobre se livrar de pensamentos ou crenças, mas sobre questioná-los. É se abrir para a possibilidade de que as coisas podem ser diferentes do que pensávamos. É sobre encontrar a liberdade que vem de não acreditar em tudo que pensamos, porque não é porque pensamos em algo, que aquilo corresponde à realidade. Essa é uma ferramenta que você pode usar pra te trazer mais paz, compreensão e amor para sua a vida.
+
 **COMO:**
 
 **PENSADORES:**
@@ -46,4 +48,4 @@ Assim, quando estiver se sentindo mal, lembre-se de investigar qual é o pensame
 **Sul: para onde vai**
 - [[Trocar de pensamento é igual trocar de roupa. Se não gostou, troca]]
 - [[Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia]]
--
+- [[Crença que não prestam, não vale acreditar]]
