@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -241,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
+                "file": "7. Creator/Products/Como começar a se conhecer?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo.md"
+                "file": "7. Creator/Products/Como começar a se conhecer?.md"
               }
             }
           },
@@ -329,10 +328,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a10125f9fa14f9f",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
+    "7. Creator/Products/Untitled",
     "7. Creator/Reels/Lobo divino x Lobo.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável",
+    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
     "2. Literature Notes/Topics/ID.md",
     "2. Literature Notes/Topics/SuperEgo.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
@@ -358,7 +359,6 @@
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-    "2. Literature Notes/Topics/Como controlar o seu diálogo interno?.md",
     "6. Shots, Images & PDFs/MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
@@ -373,7 +373,6 @@
     "1. Daily Notes/2023/6. June",
     "1. Daily Notes/2023",
     "7. Creator/Reels",
-    "7. Creator",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
