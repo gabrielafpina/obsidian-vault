@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -228,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md"
+                "file": "2. Literature Notes/Topics/Ego.md"
               }
             }
           },
@@ -316,10 +317,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a10125f9fa14f9f",
+  "active": "b892dc5330308981",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer/Como começar a se conhecer?.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Reels/Lobo divino x Lobo.md",

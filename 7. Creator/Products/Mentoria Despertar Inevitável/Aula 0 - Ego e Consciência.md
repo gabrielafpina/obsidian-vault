@@ -3,7 +3,7 @@
 	1. Estado de presença
 	2. Xícara vazia
 2. Check-in
-	1. Fazer o meu e pedir para que coloquem no chat como estão chegando
+	1. **Chat:** Fazer o meu e pedir para que coloquem no chat como estão chegando
 3. O conhecimento mais impactante no meu despertar
 	1. Eu não sou os meus pensamentos
 	2. Metáfora do cinema
@@ -12,6 +12,10 @@
 	1. [[Ego]]
 		1. Conceito de ego do [[Senso Comum]]
 		2. Conceito de ego a partir de uma perspectiva espiritual
+			1. Características do ego
+			2. **Chat:** Quem aí viveu no ego a vida inteira?
+		3. Se eu não sou o ego, o que eu sou?
+			1. O que é a consciência? Como identificá-la?
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
