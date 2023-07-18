@@ -32,7 +32,8 @@
 	1. Conceito
 	2. Porque é importante para acessarmos a consciÊncia e nos desidentificarmos do ego?
 	3. Ferramenta de auto observação
-		1. [[The Work]]
+			1. [[The Work]]
+				1. E
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
