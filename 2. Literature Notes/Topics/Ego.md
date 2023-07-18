@@ -28,6 +28,9 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 **Norte: ideia/pergunta**
 - [[Criança Interior]]
 - [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
+- [[Mindfulness]]
 
 **Sul: para onde vai**
 - [[Trocar de pensamento é igual trocar de roupa. Se não gostou, troca]]
+- [[Essa crença é minha ou do outro?]]
+- [[Você está pensando ou você está sendo pensado?]]
