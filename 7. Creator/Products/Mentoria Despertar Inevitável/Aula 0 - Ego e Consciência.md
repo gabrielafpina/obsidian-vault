@@ -6,7 +6,7 @@
 		2. Quem sou eu hoje
 **2. Alinhamento de expectativas**
 1. Importância desse alinhamento de expectativas
-	1. É a base de tudo que vamos fazer daqui pra frente
+	1. É a base de tudo que vamos fazer daqui pra frente, para todos os encontros
 	2. Rituais da mentoria
  1. Estado de presença
 		1. Rápida meditação com respiração consciente
@@ -53,6 +53,7 @@
 			2. Qual é a sensação que você tem quando se depara com esse eu?
 			3. Qual é o nome dele? De preferência que seja um nome engraçado
 			4. Quando ele se manifestar, o que fazer?
+**9. Pitch para mentoria**
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
