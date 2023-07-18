@@ -6,7 +6,8 @@
 		2. Quem sou eu hoje
 **2. Alinhamento de expectativas**
 1. Importância desse alinhamento de expectativas
-	1. É a base de tudo que vamos fazer da
+	1. É a base de tudo que vamos fazer daqui pra frente
+	2. Rituais da mentoria
  1. Estado de presença
 		1. Rápida meditação com respiração consciente
 3. Xícara vazia
