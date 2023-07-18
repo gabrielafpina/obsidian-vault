@@ -5,9 +5,11 @@
 		1. Quem era eu antes de começar a olhar para dentro
 		2. Quem sou eu hoje
 **2. Alinhamento de expectativas**
-	1. Estado de presença
+1. Importância desse alinhamento de expectativas
+	1. É a base de tudo que vamos fazer da
+ 1. Estado de presença
 		1. Rápida meditação com respiração consciente
-	2. Xícara vazia
+3. Xícara vazia
 **3. Check-in**
 	1. **Chat:** Fazer o meu e pedir para que coloquem no chat como estão chegando
 **4. O conhecimento mais impactante no meu despertar**
