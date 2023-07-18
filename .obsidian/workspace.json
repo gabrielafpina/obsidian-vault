@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ID.md",
+                "file": "2. Literature Notes/Topics/ID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a10125f9fa14f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperEgo.md",
+                "file": "2. Literature Notes/Topics/SuperEgo.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SuperEgo.md",
+                "file": "2. Literature Notes/Topics/SuperEgo.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -229,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ID.md",
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ID.md",
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ID.md"
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md"
               }
             }
           },
@@ -317,13 +328,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9d3e4d71c3f7b75",
+  "active": "5a10125f9fa14f9f",
   "lastOpenFiles": [
-    "SuperEgo.md",
-    "ID.md",
-    "Captura de Tela 2023-07-17 às 14.21.21.png",
+    "2. Literature Notes/Topics/ID.md",
+    "7. Creator/Reels/Lobo divino x Lobo.md",
+    "2. Literature Notes/Topics/SuperEgo.md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
-    "Captura de Tela 2023-07-17 às 14.06.01.png",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.06.01.png",
     "7. Creator/Reels/Pare de pedir desculpa.md",
     "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
     "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
