@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "d2eca5ac6e92e0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o despertar espiritual?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3e85d0a4b29b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porque eu não me identifico com a consciência da mesma forma que me identifico com o Ego?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e27acbd6c331ae9",
             "type": "leaf",
             "state": {
@@ -253,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metáfora do cinema.md",
+                "file": "O que é o despertar espiritual?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metáfora do cinema.md",
+                "file": "O que é o despertar espiritual?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metáfora do cinema.md"
+                "file": "O que é o despertar espiritual?.md"
               }
             }
           },
@@ -341,9 +365,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e27acbd6c331ae9",
+  "active": "d2eca5ac6e92e0e4",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "O que é o despertar espiritual?.md",
+    "Porque eu não me identifico com a consciência da mesma forma que me identifico com o Ego?.md",
     "Metáfora do cinema.md",
     "Consciência.md",
     "2. Literature Notes/Topics/Ego.md",
@@ -371,8 +397,6 @@
     "2. Literature Notes/Topics/A auto observação é uma jornada sem parada, nem chegada.md",
     "2. Literature Notes/Topics/Um passinho por vez, lembrando que passos autênticos e felizes valem por três.md",
     "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
-    "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
-    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "6. Shots, Images & PDFs/MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
