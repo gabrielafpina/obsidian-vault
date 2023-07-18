@@ -129,6 +129,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "ef7e17c34ecf767d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03aba7b059a2a666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -330,14 +348,14 @@
   },
   "active": "5a10125f9fa14f9f",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/ID.md",
+    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
     "7. Creator/Reels/Lobo divino x Lobo.md",
+    "2. Literature Notes/Topics/ID.md",
     "2. Literature Notes/Topics/SuperEgo.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.06.01.png",
     "7. Creator/Reels/Pare de pedir desculpa.md",
-    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md",
     "2. Literature Notes/Topics/O hater é um mestre para te mostrar que você esta passando as informações na energia da vaidade.md",
     "2. Literature Notes/Topics/O segredo de qualquer terapia é dissociação do problema e associação da solução.md",
     "2. Literature Notes/Topics/Técnica de reestruturação.md",
