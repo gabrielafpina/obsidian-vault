@@ -15,6 +15,8 @@
 4. Xícara vazia
 	1. Mentalidade de aprendiz
 5. Importância de saber pedir ajuda para a pessoa certa
+6. Mentalidade de vítima x Protagonista
+	1. Eu cocrio a minha realidade
 **4. O conhecimento mais impactante no meu despertar**
 	1. [[O que é o despertar espiritual?]]
 	2. Eu não sou os meus pensamentos
