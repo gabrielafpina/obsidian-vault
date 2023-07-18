@@ -19,6 +19,8 @@ Por outro lado, o ego é extremamente barulhento! Cheio de pensamentos, preocupa
 
 A consciência, no entanto, é silenciosa. Ela fala sussurrando. Para que possamos ouvir a nossa consciência, precisamos de uma mente calma. Só que a nossa mente, atualmente, é tudo, menos calma. A consciência apenas observa o nosso ego, sem julgar ou comentar. Por isso, é muito fácil não notamos a consciência por trás de todo o barulho do ego.
 
+Nesse sentido, não é possível identificar-se com a consciência. Na verdade, para você alcançar um estado de consciência, é necessário desidentificar-se com o seu ego. Ou seja, é ter a realização de que você não é o seus pensamentos, seus sentimentos, a sua mente, o seu corpo, suas emoções, as suas posses, ou qualquer outra “forma” com a qual você possa ter se identificado. Você é a consciência que observa e testemunha tudo isso.
+
 **COMO:**
 
 **PENSADORES:**
