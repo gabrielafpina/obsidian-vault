@@ -37,7 +37,13 @@
 				2. Importância da repetição
 7. Somos muitos eus
 	1. Importante observar os nossos eus, ou seremos pensados por eles
-	2. Fragmentos: o que são?
+	2. Observar os eus que mais tem impacto na sua vida
+	3. Exemplo dos 3 eus que eu comecei a observar
+		1. Como eu sugiro fazer o exercício dos 3 eus?
+			1. Visualização do eu como se fosse uma forma, uma pessoa, um ser na sua frente
+			2. Qual é a sensação que você tem quando se depara com esse eu?
+			3. Qual é o nome dele? De preferência que seja um nome engraçado
+			4. Quando ele se manifestar, o que fazer?
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
