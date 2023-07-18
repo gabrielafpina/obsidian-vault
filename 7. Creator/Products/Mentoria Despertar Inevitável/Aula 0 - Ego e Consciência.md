@@ -8,9 +8,11 @@
 1. Importância desse alinhamento de expectativas
 	1. É a base de tudo que vamos fazer daqui pra frente, para todos os encontros
 	2. Rituais da mentoria
- 1. Estado de presença
+ 2. Estado de presença
 		1. Rápida meditação com respiração consciente
+3. Che
 3. Xícara vazia
+	1. Mentalidade de aprendiz
 **3. Check-in**
 	1. **Chat:** Fazer o meu e pedir para que coloquem no chat como estão chegando
 **4. O conhecimento mais impactante no meu despertar**
