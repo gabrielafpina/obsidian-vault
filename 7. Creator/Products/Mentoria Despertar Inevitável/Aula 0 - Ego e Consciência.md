@@ -1,15 +1,21 @@
 **TÓPICOS ABORDADOS:**
-**1. Alinhamento de expectativas**
+**1. Apresentação**
+	1. Quem sou eu
+	2. Como comecei no autoconhecimento
+		1. Quem era eu antes de começar a olhar para dentro
+		2. Quem sou eu hoje
+**2. Alinhamento de expectativas**
 	1. Estado de presença
+		1. Rápida meditação com respiração consciente
 	2. Xícara vazia
-**2. Check-in**
+**3. Check-in**
 	1. **Chat:** Fazer o meu e pedir para que coloquem no chat como estão chegando
-**3. O conhecimento mais impactante no meu despertar**
+**4. O conhecimento mais impactante no meu despertar**
 	1. [[O que é o despertar espiritual?]]
 	2. Eu não sou os meus pensamentos
 	3. [[Metáfora do cinema]]
 	4. Como eu alcancei essa compreensão? Meditação e estudo.
-**4. Se eu não sou os meus pensamentos, o que sou?**
+**5. Se eu não sou os meus pensamentos, o que sou?**
 	1. [[Ego]]
 		1. Conceito de ego do [[Senso Comum]]
 		2. Conceito de ego a partir de uma perspectiva espiritual
@@ -24,18 +30,18 @@
 					1. [[Senso Comum]] e [[Transferências]]
 					2. *No mundo em que vivemos, os rótulos ditam quem somos*
 					3. Meditação te ajuda na desidentificação com o ego
-**5. O que eu faço com todas essas informações?**
+**6. O que eu faço com todas essas informações?**
 	1. Para mudar tudo que você precisa é desconstruir as ideias que não te servem mais e construir uma nova identidade mais alinhada com o que faz sentido para você. 
 		1. [[Você está pensando ou você está sendo pensado?]] 
 		2. [[Você está disposto a abandonar tudo que te adoeceu?]]
-**6. [[Auto Observação]]**
+**67. [[Auto Observação]]**
 	1. Conceito
 	2. Porque é importante para acessarmos a consciÊncia e nos desidentificarmos do ego?
 	3. Ferramenta de auto observação
 			1. [[The Work]]
 				1. Exemplo de como funciona na prática
 				2. Importância da repetição
-7. Somos muitos eus
+**8. Somos muitos eus**
 	1. Importante observar os nossos eus, ou seremos pensados por eles
 	2. Observar os eus que mais tem impacto na sua vida
 	3. Exemplo dos 3 eus que eu comecei a observar
