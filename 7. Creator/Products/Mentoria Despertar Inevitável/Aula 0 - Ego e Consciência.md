@@ -6,7 +6,12 @@
 	1. Fazer o meu e pedir para que coloquem no chat como estão chegando
 3. O conhecimento mais impactante no meu despertar
 	1. Eu não sou os meus pensamentos
-	2. 
+	2. Metáfora do cinema
+	3. Como eu alcancei essa compreensão? Meditação e estudo.
+4. Se eu não sou os meus pensamentos, o que sou?
+	1. [[Ego]]
+		1. Conceito de ego do [[Senso Comum]]
+		2. Conceito de ego a partir de uma perspectiva espiritual
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
