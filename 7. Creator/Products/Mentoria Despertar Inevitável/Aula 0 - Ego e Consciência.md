@@ -10,11 +10,11 @@
 	2. Rituais da mentoria
  2. Estado de presença
 		1. Rápida meditação com respiração consciente
-3. Che
-3. Xícara vazia
-	1. Mentalidade de aprendiz
-**3. Check-in**
+3. Check-in
 	1. **Chat:** Fazer o meu e pedir para que coloquem no chat como estão chegando
+4. Xícara vazia
+	1. Mentalidade de aprendiz
+5. Importância de saber pedir ajuda para a pessoa certa
 **4. O conhecimento mais impactante no meu despertar**
 	1. [[O que é o despertar espiritual?]]
 	2. Eu não sou os meus pensamentos
