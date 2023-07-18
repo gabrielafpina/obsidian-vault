@@ -28,8 +28,11 @@
 	1. Para mudar tudo que você precisa é desconstruir as ideias que não te servem mais e construir uma nova identidade mais alinhada com o que faz sentido para você. 
 		1. [[Você está pensando ou você está sendo pensado?]] 
 		2. [[Você está disposto a abandonar tudo que te adoeceu?]]
-6. Auto Observação
-	1. 
+6. [[Auto Observação]]
+	1. Conceito
+	2. Porque é importante para acessarmos a consciÊncia e nos desidentificarmos do ego?
+	3. Ferramenta de auto observação
+		1. [[The Work]]
 
 **EXERCÍCIOS PARA CASA:**
 Mentorados vão receber o próprio Notion, onde todos os materiais da mentoria serão entregues e onde tudo ficará centralizado
