@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O trabalho feito com alma e amor
+O trabalho feito com alma e amor tem tudo para dar certo.
 
 **COMO:**
 
