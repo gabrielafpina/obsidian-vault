@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entusiasmo",
+                "query": "criação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md"
+                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md"
               }
             }
           },
@@ -257,9 +257,9 @@
   },
   "active": "301c901172475be8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Sistema Swish.md",
     "2. Literature Notes/Topics/Técnica Godiva.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/estados emocionais.md",
