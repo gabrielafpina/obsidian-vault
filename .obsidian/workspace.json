@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reimpr",
+                "query": "entusiasmo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E se a pessoa não conseguir acessar o estado emocional positivo?.md"
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md"
               }
             }
           },
@@ -256,10 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "301c901172475be8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
+    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Reimprint.md",
     "Como aplicar o reimprint em mim mesma?.md",
