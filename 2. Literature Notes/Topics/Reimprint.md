@@ -64,3 +64,4 @@ Aqui, você quer reconfigurar um estado emocional na ORIGEM.
 
 **Sul: para onde vai**
 - [[O segredo de qualquer terapia é dissociação do problema e associação da solução]]
+- [[Como aplicar o reimprint em mim mesma?]]
