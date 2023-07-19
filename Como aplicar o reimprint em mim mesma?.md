@@ -20,6 +20,18 @@ OBS: eu posso sempre colocar sensação ruim no mesmo gesto da âncora? Sim, por
 **COMO FAZER REIMPRINT ONLINE?**
 Uma coisa que o Sam gosta muito é que a pessoa pode usar, ela mesma, fazendo os gestos, ou podemos usar sons.
 
+*Como disparar sons?*
+- Com Youtube,
+- Fazendo som com a boca,
+- Utilizando objetos.
+
+1. Dispare o som com a âncora ruim;
+2. Quebre o estado emocional e faça todo o processo;
+3. Traga o estado emocional positivo com um som diferente;
+4. Quebre o estado emocional;
+5. Volte a pessoa para o estado emocional ruim, fazendo o som da âncora ruim e peça para a pessoa trazer o recurso positivo, usando o som positivo, enquanto você vai parando de usar o som do recurso ruim.
+É interessante usar o gesto junto com o som. O princípio é o mesmo: acessar, disparar e colapsar âncoras.
+
 **PENSADORES:**
 
 **FRASES:**

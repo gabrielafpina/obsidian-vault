@@ -43,6 +43,8 @@ Aqui, você quer reconfigurar um estado emocional na ORIGEM.
 22. Leve ela andando pela linha do tempo até chegar ao presente. Quando chegar no presente, faça um pequeno ensaio para o futuro. Como seria em uma próxima situação, onde isso poderia, ou não, acontecer. Pergunte como ficou de 0 a 10.
 23. Peça para ela fazer um gesto de como ela vai fazer para se lembrar desse novo recurso que ela criou.
 
+[[E se a pessoa não conseguir acessar o estado emocional positivo?]]
+
 **PENSADORES:**
 
 **FRASES:**
