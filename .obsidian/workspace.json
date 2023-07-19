@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a27ad0ee37572572",
+            "id": "bea0c41533cd7191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
+                "file": "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tony robbins",
+                "query": "7 mec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
+                "file": "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
+                "file": "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md"
+                "file": "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md"
               }
             }
           },
@@ -280,10 +280,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a27ad0ee37572572",
+  "active": "bea0c41533cd7191",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+    "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
+    "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
+    "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Sistema Swish.md",
@@ -307,8 +309,6 @@
     "2. Literature Notes/Topics/O que é o despertar espiritual?.md",
     "2. Literature Notes/Topics/Porque eu não me identifico com a consciência da mesma forma que me identifico com o Ego?.md",
     "2. Literature Notes/Topics/Metáfora do cinema.md",
-    "2. Literature Notes/Topics/Consciência.md",
-    "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
