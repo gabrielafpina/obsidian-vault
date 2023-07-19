@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a27ad0ee37572572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quando você se assume seu lugar, sua vida prospera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "555be90be29fa803",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/Quando você se assume seu lugar, sua vida prospera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/Quando você se assume seu lugar, sua vida prospera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md"
+                "file": "2. Literature Notes/Topics/Quando você se assume seu lugar, sua vida prospera.md"
               }
             }
           },
@@ -255,13 +268,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "301c901172475be8",
+  "active": "a27ad0ee37572572",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+    "2. Literature Notes/Topics/Quando você se assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Sistema Swish.md",
     "2. Literature Notes/Topics/Técnica Godiva.md",
     "E se a pessoa não conseguir acessar o estado emocional positivo?.md",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Reimprint.md",
     "Como aplicar o reimprint em mim mesma?.md",
@@ -284,7 +298,6 @@
     "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer/Como começar a se conhecer?.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
-    "7. Creator/Reels/Lobo divino x Lobo.md",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.06.01.png",
