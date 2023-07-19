@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[PNL]]
 
 **BIG IDEA:** Aprender a alterar estados emocionais é a chave para promover mudanças na vida e conseguir excelência no que faz.
 
