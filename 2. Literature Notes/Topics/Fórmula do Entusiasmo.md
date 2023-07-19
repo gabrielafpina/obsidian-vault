@@ -32,3 +32,4 @@
 **Sul: para onde vai**
 - [[A simplicidade é o mais alto grau de satisfação]]
 - [[Existem 4 lugares proibidos]]
+- [[Mindfulness]]
