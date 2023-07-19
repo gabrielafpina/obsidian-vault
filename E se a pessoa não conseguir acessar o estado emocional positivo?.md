@@ -14,7 +14,8 @@ Lembre-se: um estado emocional influencia o outro. Quando a pessoa acha um estad
 *'Ah, mas eu não consigo me sentir bem'*
 Mostre para a pessoa que se ela se sente mal, ela tem como se sentir bem. O mais importante, aqui, é estar presente e mostrar para a pessoa, através de lógica, que ela tem como, sim, se sentir bem e junto a ela, procurar momentos em que ela se sentiu bem.
 
-**
+*Reimprint com pessoas que estão de luto*
+Peça para a pessoa relembrar de uma situação de amor antes de quem ela ama ter morrido. Aqui, não importa com quem seja a sensação de amor. O que importa é o estado emocional. Se ele é bom, puro e forte, ele vai funcionar. Se ele estiver poluído pelo luto, troca por um outro. Teste e faça até conseguir.
 
 **COMO:**
 
