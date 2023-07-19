@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9607595,
+  "lastSavedStatusID": 9621426,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -46,7 +46,8 @@
     "2. Literature Notes/Readwise/Books/Seja O Amor Da Sua Vida.md": "28019512",
     "2. Literature Notes/Readwise/Books/O Poder Da Ação.md": "28019541",
     "2. Literature Notes/Readwise/Books/A Prateleira Do Amor.md": "29603542",
-    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md": "30191657"
+    "2. Literature Notes/Readwise/Books/Ouse Ser Diferente.md": "30191657",
+    "2. Literature Notes/Readwise/Articles/Getting Started with Reader.md": "30264325"
   },
   "reimportShowConfirmation": true
 }
