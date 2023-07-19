@@ -41,6 +41,7 @@ Aqui, você quer reconfigurar um estado emocional na ORIGEM.
 20. Tira a pessoa da linha do tempo e quebre o estado;
 21. Coloque a pessoa no presente, dispare a âncora negativa, volte até a situação de origem do problema e quando chegamos aqui e a pessoa está triste e fale: 'Agora, enquanto você vive o problema, você tem acesso a um recurso que você não tinha antes, você encontra o seu eu do futuro adulto que chega aqui e te dá um presente'. Dispare as duas âncoras ao mesmo tempo, olhando nos olhos das pessoas. Mantenha a âncora positiva segurada e vá soltando lentamente a âncora negativa, até que fica só a positiva;
 22. Leve ela andando pela linha do tempo até chegar ao presente. Quando chegar no presente, faça um pequeno ensaio para o futuro. Como seria em uma próxima situação, onde isso poderia, ou não, acontecer. Pergunte como ficou de 0 a 10.
+23. Peça para ela fazer um gesto de como ela vai fazer para se lembrar desse novo recurso que ela criou.
 
 **PENSADORES:**
 
