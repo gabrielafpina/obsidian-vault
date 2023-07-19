@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O trabalho feito com alma e amor tem tudo para dar certo.
+O trabalho feito com alma e amor tem tudo para dar certo. No entanto, quando eu deixo de assumir o meu lugar e me vitimizar, minha vida ruína.
 
 **COMO:**
 
@@ -23,5 +23,6 @@ O trabalho feito com alma e amor tem tudo para dar certo.
 
 **Norte: ideia/pergunta**
 - [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]]
+
 
 **Sul: para onde vai**
