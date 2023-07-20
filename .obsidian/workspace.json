@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hoje eu acordei para despertar.md",
+                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimax",
+                "query": "potenci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -276,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hoje eu acordei para despertar.md",
+                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hoje eu acordei para despertar.md",
+                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hoje eu acordei para despertar.md"
+                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md"
               }
             }
           },
@@ -366,11 +365,11 @@
   },
   "active": "9cacec2b9d4f27ad",
   "lastOpenFiles": [
+    "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
     "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
     "Se você estiver na expectativa de receber, não vai acontecer.md",
-    "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",

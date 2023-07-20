@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 Somos como se fôssemos uma semente. podemos ser essa semente para sempre (adormecimento ou inconsciência). esse é o lugar em que estamos sendo pensados, não estamos desenvolvendo a nossa potencialidade pura. no entanto, se eu buscar pela minha consciência, eu posso me colocar como uma semente em um solo fértil, com a umidade adequada, temperatura e essa semente pode se transformar em algo que já existia quando semente, mas que era inimaginável para aquela pequena semente. você pode virar o que você nasceu para ser.
 
-é sobre acessarmos todo o poder da nossa alma. nos conhecermos tão profundamente, a ponto de ter a capacidade de saber o que nutre a minha alma e o que é só do ego e não me leva para lugar nenhum. é a busca e dedicação para elevar o meu nível de consciência e elevar a minha alma para o que eu nasci para ser e fazer.
+é sobre acessarmos todo o poder da nossa alma. nos conhecermos tão profundamente, a ponto de ter a capacidade de saber o que nutre a minha alma e o que é só do [[Ego]] e não me leva para lugar nenhum. é a busca e dedicação para elevar o meu nível de [[Consciência]] e elevar a minha alma para o que eu nasci para ser e fazer.
 
 somos consciência pura, ou seja, possibilidade pura. ser infinito e ilimitado é direito da minha alma.
 
@@ -38,3 +38,4 @@ Só no silêncio que você escuta Deus te da direcionamento. a verdade já está
 - [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
 - [[É interessante que eu viva a Verdade do meu coração antes de passar para frente]]
 - [[Golden Circle]]
+- [[O meu nível de consciência está equiparado ao que me tira do sério]]
