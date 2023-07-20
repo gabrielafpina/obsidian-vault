@@ -29,3 +29,4 @@ A partir de hoje eu escolho não utilizar mais a expressão ´eu não sei´, qua
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Se eu sou verdadeira no pouco, eu sou verdadeira no muito]]]

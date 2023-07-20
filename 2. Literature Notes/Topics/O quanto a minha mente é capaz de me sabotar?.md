@@ -30,5 +30,6 @@ O que o seu inconsciente está querendo te falar? Porque será que você imagino
 - [[Lei do Mentalismo]]
 - [[Consciente e Inconsciente]]
 - [[Ego]]
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
