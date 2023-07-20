@@ -25,6 +25,8 @@ Todo aparente mal é um bem em gestação, porque Deus não erra. Confia. Agrade
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
+- [[O meu nível de ser atrai a minha vida]]
+- [[Consciência]]
 
 **Sul: para onde vai**
 - [[O quanto a minha mente é capaz de me sabotar?]]
