@@ -27,3 +27,4 @@ Eu escolho e aceito dar e receber, todos os dias da minha vida.
 - [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
+- [[Se você estiver na expectativa de receber, não vai acontecer]]

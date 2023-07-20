@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "72958e9ce306481c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a1aa8d5dbda4cc6",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -299,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hoje eu acordei para despertar.md",
+                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hoje eu acordei para despertar.md",
+                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hoje eu acordei para despertar.md"
+                "file": "Se você estiver na expectativa de receber, não vai acontecer.md"
               }
             }
           },
@@ -387,10 +399,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cacec2b9d4f27ad",
+  "active": "72958e9ce306481c",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Doação.md",
     "Hoje eu acordei para despertar.md",
+    "Se você estiver na expectativa de receber, não vai acontecer.md",
+    "2. Literature Notes/Topics/Lei da Doação.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -416,7 +429,6 @@
     "2. Literature Notes/Readwise/Articles/Getting Started with Reader.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
-    "2. Literature Notes/Topics/The Work.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
