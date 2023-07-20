@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e298b1148ead8a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72958e9ce306481c",
             "type": "leaf",
             "state": {
@@ -195,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidi",
+                "query": "zona de conforto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -377,8 +390,9 @@
   },
   "active": "c13eb83a870ac347",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "Hoje eu acordei para despertar.md",
@@ -403,7 +417,6 @@
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Sistema Swish.md",
     "2. Literature Notes/Topics/Técnica Godiva.md",
-    "2. Literature Notes/Topics/E se a pessoa não conseguir acessar o estado emocional positivo?.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
