@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "f349380ac124d25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vigiai e orai sem cessar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e5bf6374cf75ccee",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pequen",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,8 +210,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
+                "file": "Vigiai e orai sem cessar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
+                "file": "Vigiai e orai sem cessar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md"
+                "file": "Vigiai e orai sem cessar.md"
               }
             }
           },
@@ -352,10 +363,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79525be75bc5e99c",
+  "active": "f349380ac124d25f",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
+    "Vigiai e orai sem cessar.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
@@ -380,8 +393,6 @@
     "2. Literature Notes/Topics/The Work.md",
     "2. Literature Notes/People/Byron Katie.md",
     "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
