@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "487b280b0a160246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79525be75bc5e99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cacec2b9d4f27ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c13eb83a870ac347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7c5359c8528f27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como fazer autohipnose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c723b557e9e418c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa2102ad82040b0d",
             "type": "leaf",
             "state": {
@@ -104,139 +32,19 @@
             }
           },
           {
-            "id": "e298b1148ead8a28",
+            "id": "61e43e19cd3cb83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72958e9ce306481c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc6d08db7937a961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Minimax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43909afe3764922a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1aa8d5dbda4cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f349380ac124d25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vigiai e orai sem cessar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5bf6374cf75ccee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Âncoras de Carreira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c85067696464b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb23e17066e6128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555be90be29fa803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f81cece2241a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "Crenças são como lâmpadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crenças não tem sua própria energia.md",
+                "file": "Crenças são como lâmpadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crenças não tem sua própria energia.md",
+                "file": "Crenças são como lâmpadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crenças não tem sua própria energia.md"
+                "file": "Crenças são como lâmpadas.md"
               }
             }
           },
@@ -436,17 +244,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6da679a229caadd7",
+  "active": "61e43e19cd3cb83c",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "crenças não tem sua própria energia.md",
+    "Crenças são como lâmpadas.md",
+    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+    "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
-    "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
-    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+    "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Minimax.md",
@@ -464,7 +273,6 @@
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-    "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
