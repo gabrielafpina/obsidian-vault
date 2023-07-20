@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "você tem que concordar em se afetar pelo que o outro fala de você.md",
+                "file": "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,10 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crenças não tem sua própria energia.md",
+                "file": "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "336e651b407280b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -49,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crenças são como lâmpadas.md",
+                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crenças não tem sua própria energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crenças não tem sua própria energia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "crenças não tem sua própria energia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,28 +260,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6da679a229caadd7",
+  "active": "336e651b407280b2",
   "lastOpenFiles": [
-    "você tem que concordar em se afetar pelo que o outro fala de você.md",
+    "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
+    "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
-    "Crenças são como lâmpadas.md",
-    "crenças não tem sua própria energia.md",
+    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
-    "Como fazer autohipnose?.md",
+    "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
-    "Hoje eu acordei para despertar.md",
+    "2. Literature Notes/Topics/Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
     "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
-    "Se você estiver na expectativa de receber, não vai acontecer.md",
+    "2. Literature Notes/Topics/Se você estiver na expectativa de receber, não vai acontecer.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
-    "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
-    "Vigiai e orai sem cessar.md",
+    "2. Literature Notes/Topics/Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
+    "2. Literature Notes/Topics/Vigiai e orai sem cessar.md",
     "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",

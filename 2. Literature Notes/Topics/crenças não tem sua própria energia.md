@@ -17,7 +17,7 @@ Essa compreensão oferece uma visão poderosa sobre o papel ativo que desempenha
 
 Isso significa que [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]].
 
-Mais do que isso, significa que as crenças são apenas um dispositivo para
+Mais do que isso, significa que as crenças são apenas um dispositivo para permitir que você sinta o seu poder, a sua energia, da maneira como você acredita que naquele momento funciona para você, seja positivo ou negativo, porque lembre-se: você não experiencia alguma coisa que você não acredita que te serve. [[Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma]]
 
 **DEFINIÇÃO:**
 
