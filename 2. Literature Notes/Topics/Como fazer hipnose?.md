@@ -22,6 +22,8 @@ A hipnose cerebral acontece quando a frequência da pessoa está abaixando.
 
 O melhor momento para reprogramar uma pessoa através de hipnose é uns 20 minutos antes da pessoa pegar no sono, que é quando o cérebro está mais aberto a mudanças.
 
+Não importa o volume, o que importa é que não seja uma coisa muito brusca, porque isso assusta.
+
 **COMO:**
 1. O ideal é que a pessoa esteja em um local seguro e tranquilo;
 	1. Quanto mais conforto, mais isso auxilia na hipnose.
@@ -29,6 +31,7 @@ O melhor momento para reprogramar uma pessoa através de hipnose é uns 20 minut
 4. O segredo é distrair o racional da pessoa para alguma coisa. Dessa forma, você começa a dar tarefas na pessoa, pedindo para ela concentrar a atenção nos pés dela, nas mãos dela, nos pés dela. E ela vai se concentrando em tantos lugares diferentes que a mente dela buga e ele vai relaxando. 
 5. Quando você percebe que a pessoa está relaxando, você começa o processo de sugestionamento (fale diretamente *o que você quer*, evite o que você não quer), o que você quer mudar na vida dela, o que você quer reprogramar, o que você quer que ela traga de novo para a vida dela e para o que ela faz.
 	1. Para ter certeza de que a pessoa está bem relaxada, você pode dar comandos como: 'Se você está me ouvindo e está relaxada, balance levemente a sua cabeça'.
+	2. É interessante fazer a sugestão principal e a sugestão teste, para ver se vai servir de teste, porque se essa pessoa fizer isso, quer dizer que a sugestão principal também encaixou.
 
 **PENSADORES:**
 
