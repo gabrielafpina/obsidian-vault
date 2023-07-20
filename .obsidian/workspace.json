@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d7c5359c8528f27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como fazer autohipnose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e298b1148ead8a28",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
+                "file": "Como fazer autohipnose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
+                "file": "Como fazer autohipnose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md"
+                "file": "Como fazer autohipnose?.md"
               }
             }
           },
@@ -388,10 +400,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c13eb83a870ac347",
+  "active": "d7c5359c8528f27e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
+    "Como fazer autohipnose?.md",
+    "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
+    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
@@ -415,8 +429,6 @@
     "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "2. Literature Notes/Topics/Sistema Swish.md",
-    "2. Literature Notes/Topics/Técnica Godiva.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",

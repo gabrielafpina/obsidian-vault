@@ -47,6 +47,9 @@ Não importa o volume, o que importa é que não seja uma coisa muito brusca, po
 **Norte: ideia/pergunta**
 - [[Consciente e Inconsciente]]
 - [[Mindfulness]]
+- [[estados emocionais]]
+- [[Como criar um estado emocional?]]
 
 **Sul: para onde vai**
 - [[O que impede as pessoas de mudar?]]
+- [[Como fazer autohipnose?]]
