@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a10125f9fa14f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Reimprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301c901172475be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bea0c41533cd7191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c177fd21c6206f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed3f5b0a129c079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "487b280b0a160246",
             "type": "leaf",
             "state": {
@@ -122,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43909afe3764922a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -414,8 +366,9 @@
   },
   "active": "bc6d08db7937a961",
   "lastOpenFiles": [
-    "Se você estiver na expectativa de receber, não vai acontecer.md",
+    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
     "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+    "Se você estiver na expectativa de receber, não vai acontecer.md",
     "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
@@ -440,7 +393,6 @@
     "2. Literature Notes/Topics/Reimprint.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "2. Literature Notes/Readwise/Articles/Getting Started with Reader.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
