@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "bc6d08db7937a961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a1aa8d5dbda4cc6",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -311,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se você estiver na expectativa de receber, não vai acontecer.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se você estiver na expectativa de receber, não vai acontecer.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -399,10 +412,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72958e9ce306481c",
+  "active": "bc6d08db7937a961",
   "lastOpenFiles": [
-    "Hoje eu acordei para despertar.md",
     "Se você estiver na expectativa de receber, não vai acontecer.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",
@@ -428,7 +442,6 @@
     "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Readwise/Articles/Getting Started with Reader.md",
     "2. Literature Notes/Readwise/Articles",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
