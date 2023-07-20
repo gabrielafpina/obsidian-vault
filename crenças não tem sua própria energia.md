@@ -15,7 +15,9 @@ Portanto, uma crença depende da energia do indivíduo para existir e ser sentid
 
 Essa compreensão oferece uma visão poderosa sobre o papel ativo que desempenhamos na formação de nossas próprias experiências e a importância de conscientemente escolher crenças que são positivas e capacitadoras.
 
-Isso significa que [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]
+Isso significa que [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]].
+
+Mais do que isso, significa que as crenças são apenas um dispositivo para
 
 **DEFINIÇÃO:**
 

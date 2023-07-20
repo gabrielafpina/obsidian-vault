@@ -15,6 +15,8 @@ No fundo, somos os mestres de nossas próprias energias e, consequentemente, de 
 
 Nesse sentido, [[crenças não tem sua própria energia]]. 
 
+Além disso, se você se afeta por algo que alguém falou de você, [[você tem que concordar em se afetar pelo que o outro fala de você]].
+
 **COMO:**
 
 **PENSADORES:**

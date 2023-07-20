@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9585af8d98a05ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "você tem que concordar em se afetar pelo que o outro fala de você.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6da679a229caadd7",
             "type": "leaf",
             "state": {
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crenças são como lâmpadas.md",
+                "file": "crenças não tem sua própria energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crenças são como lâmpadas.md",
+                "file": "crenças não tem sua própria energia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crenças são como lâmpadas.md"
+                "file": "crenças não tem sua própria energia.md"
               }
             }
           },
@@ -244,12 +256,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61e43e19cd3cb83c",
+  "active": "6da679a229caadd7",
   "lastOpenFiles": [
-    "crenças não tem sua própria energia.md",
-    "Crenças são como lâmpadas.md",
-    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
+    "você tem que concordar em se afetar pelo que o outro fala de você.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
+    "Crenças são como lâmpadas.md",
+    "crenças não tem sua própria energia.md",
+    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
@@ -272,7 +285,6 @@
     "2. Literature Notes/Topics/Âncoras de Carreira.md",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
