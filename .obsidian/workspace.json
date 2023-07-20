@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "c723b557e9e418c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e298b1148ead8a28",
             "type": "leaf",
             "state": {
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,12 +258,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -312,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como fazer autohipnose?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como fazer autohipnose?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como fazer autohipnose?.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -400,10 +412,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7c5359c8528f27e",
+  "active": "c723b557e9e418c4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "Como fazer autohipnose?.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -428,7 +441,6 @@
     "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
     "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
