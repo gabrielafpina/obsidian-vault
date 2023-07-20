@@ -14,7 +14,11 @@ Quando você toma consciência das suas âncoras, a tomada de decisão fica muit
 
 Tá tudo bem eu fazer outras atividades de outras âncoras, mas reflita quanto da sua vida está sendo dedicado a isso.
 
-Comece a refletir no seu dia a dia, o quanto da sua rotina está alinhado a determinada âncora. Olhando para alguma atividade eu consigo, fac
+Comece a refletir no seu dia a dia, o quanto da sua rotina está alinhado a determinada âncora. Olhando para alguma tarefa eu consigo, facilmente, atrelar ela a alguma âncora. Isso, a nível pessoal e a nível empresarial. É inteligente e interessante saber o quanto cada pessoa dentro do seu time está dentro do escopo de âncora que você precisa para que aquelas atividades sejam realizadas.
+
+Essa ferramenta é o que me garante se determinada pessoa está no cargo certo e vai me entregar o que eu preciso da função. As pessoas tem um perfil comportamental e é inteligente compreender qual é esse perfil.
+
+Testes importantes como esse: [[Eneagrama]], [[MBTI]], preferência cerebral.
 
 **COMO:**
 
@@ -31,3 +35,4 @@ Comece a refletir no seu dia a dia, o quanto da sua rotina está alinhado a dete
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como você funciona?]]
