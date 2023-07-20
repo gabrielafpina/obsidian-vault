@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c13eb83a870ac347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72958e9ce306481c",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potenci",
+                "query": "obsidi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md"
+                "file": "2. Literature Notes/Topics/Como fazer hipnose?.md"
               }
             }
           },
@@ -363,8 +375,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9cacec2b9d4f27ad",
+  "active": "c13eb83a870ac347",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Como fazer hipnose?.md",
+    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Minimax.md",
@@ -374,7 +389,6 @@
     "2. Literature Notes/Topics/Lei da Doação.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
     "2. Literature Notes/Topics/Se eu sou verdadeira no pouco, eu sou verdadeira no muito.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
@@ -390,8 +404,6 @@
     "2. Literature Notes/Topics/Sistema Swish.md",
     "2. Literature Notes/Topics/Técnica Godiva.md",
     "2. Literature Notes/Topics/E se a pessoa não conseguir acessar o estado emocional positivo?.md",
-    "2. Literature Notes/Topics/estados emocionais.md",
-    "2. Literature Notes/Topics/Reimprint.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
