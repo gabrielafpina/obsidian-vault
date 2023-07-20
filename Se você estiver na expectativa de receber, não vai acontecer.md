@@ -26,6 +26,8 @@ Quando você tem expectativa sobre algo, não é de coração. Você dá, porque
 - [[Quando eu acredito no meu coração, tudo que eu almejo se manifesta]]
 - [[Lei da Doação]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Auto Observação]]
+- [[A auto observação é uma jornada sem parada, nem chegada]]
 
 **Sul: para onde vai**
 - [[Fórmula do Entusiasmo]]
