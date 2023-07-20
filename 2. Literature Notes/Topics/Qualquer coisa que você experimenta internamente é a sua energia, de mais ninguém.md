@@ -13,6 +13,8 @@ Esta perspectiva empodera-nos para mudar nossas experiências e reações. Uma v
 
 No fundo, somos os mestres de nossas próprias energias e, consequentemente, de nossas próprias vidas. Ninguém mais tem o poder de moldar nossas experiências internas a não ser nós mesmos. Reconhecer e abraçar este fato é um passo essencial para o autoconhecimento e o autodesenvolvimento.
 
+Nesse sentido, [[crenças não tem sua própria energia]]. 
+
 **COMO:**
 
 **PENSADORES:**

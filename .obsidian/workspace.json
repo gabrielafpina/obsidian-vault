@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "6da679a229caadd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crenças não tem sua própria energia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e298b1148ead8a28",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -336,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
+                "file": "crenças não tem sua própria energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
+                "file": "crenças não tem sua própria energia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +388,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md"
+                "file": "crenças não tem sua própria energia.md"
               }
             }
           },
@@ -424,10 +436,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa2102ad82040b0d",
+  "active": "6da679a229caadd7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
+    "crenças não tem sua própria energia.md",
+    "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
@@ -452,7 +465,6 @@
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
-    "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
