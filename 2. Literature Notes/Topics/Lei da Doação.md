@@ -35,3 +35,4 @@ O dar e receber, é importante que seja de coração. É só aí que ele entra d
 - [[Fórmula do Entusiasmo]]
 - [[Vigiai e orai sem cessar]]
 - [[Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado]]
+- [[Hoje eu acordei para despertar]]

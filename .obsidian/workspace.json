@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "9cacec2b9d4f27ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hoje eu acordei para despertar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a1aa8d5dbda4cc6",
             "type": "leaf",
             "state": {
@@ -287,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
+                "file": "Hoje eu acordei para despertar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
+                "file": "Hoje eu acordei para despertar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md"
+                "file": "Hoje eu acordei para despertar.md"
               }
             }
           },
@@ -375,9 +387,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a1aa8d5dbda4cc6",
+  "active": "9cacec2b9d4f27ad",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei da Doação.md",
+    "Hoje eu acordei para despertar.md",
     "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -404,7 +417,6 @@
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/The Work.md",
-    "2. Literature Notes/People/Byron Katie.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
