@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "9a1aa8d5dbda4cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f349380ac124d25f",
             "type": "leaf",
             "state": {
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vigiai e orai sem cessar.md",
+                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vigiai e orai sem cessar.md",
+                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vigiai e orai sem cessar.md"
+                "file": "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md"
               }
             }
           },
@@ -363,9 +375,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f349380ac124d25f",
+  "active": "9a1aa8d5dbda4cc6",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei da Doação.md",
+    "Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
     "Vigiai e orai sem cessar.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Se você sabe porque você está fazendo, continua.md",
@@ -392,7 +405,6 @@
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/The Work.md",
     "2. Literature Notes/People/Byron Katie.md",
-    "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",

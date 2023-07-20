@@ -34,3 +34,4 @@ O dar e receber, é importante que seja de coração. É só aí que ele entra d
 - [[Se eu sou verdadeira no pouco, eu sou verdadeira no muito]]
 - [[Fórmula do Entusiasmo]]
 - [[Vigiai e orai sem cessar]]
+- [[Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado]]
