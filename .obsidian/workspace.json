@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar a minha empresa?.md",
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
                 "mode": "source",
                 "source": false
               }
@@ -216,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,6 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +255,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md"
+              }
             }
           },
           {
@@ -300,9 +304,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "1c85067696464b3d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como criar a minha empresa?.md",
+    "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa?.md",
     "2. Literature Notes/Topics/Âncoras de Carreira.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Topics/O quanto a minha mente é capaz de me sabotar?.md",
