@@ -18,6 +18,8 @@ Comece a refletir no seu dia a dia, o quanto da sua rotina está alinhado a dete
 
 Essa ferramenta é o que me garante se determinada pessoa está no cargo certo e vai me entregar o que eu preciso da função. As pessoas tem um perfil comportamental e é inteligente compreender qual é esse perfil.
 
+Muitas vezes, a pessoa tem a possibilidade de fazer algo, mas foi uma adaptação que ela fez para sobreviver. Eu me vejo muito nesse lugar.
+
 Testes importantes como esse: [[Eneagrama]], [[MBTI]], preferência cerebral.
 
 **COMO:**
