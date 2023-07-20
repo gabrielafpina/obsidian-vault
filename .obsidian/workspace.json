@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+                "file": "2. Literature Notes/Topics/Minimax.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "minimax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,12 +210,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -276,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+                "file": "Hoje eu acordei para despertar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+                "file": "Hoje eu acordei para despertar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md"
+                "file": "Hoje eu acordei para despertar.md"
               }
             }
           },
@@ -364,10 +364,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc6d08db7937a961",
+  "active": "9cacec2b9d4f27ad",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
+    "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
+    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
     "Se você estiver na expectativa de receber, não vai acontecer.md",
     "Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
@@ -392,7 +393,6 @@
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Reimprint.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
-    "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
     "7. Creator/Products/Mentoria Despertar Inevitável",

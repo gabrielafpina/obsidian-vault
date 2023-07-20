@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 Acordar todos os dias agradecendo pela vida. Por mais uma oportunidade de estar vivo. Acordar todos os dias para despertar e elevar, ainda mais, a minha [[Consciência]].
 
-Eu escolho e aceito dar e receber, todos os dias da minha vida.
+Eu escolho dar e aceito receber, todos os dias da minha vida.
 
 **COMO:**
 
