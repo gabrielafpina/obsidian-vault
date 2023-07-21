@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoh",
+                "query": "jornada",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -335,7 +335,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0bd15edf29d8c450",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
