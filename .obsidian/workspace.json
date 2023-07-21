@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajuda",
+                "query": "volume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -287,7 +287,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87830d406470bd0c",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
     "Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
