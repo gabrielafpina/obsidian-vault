@@ -26,3 +26,4 @@ O que realmente importa, de acordo com Bashar, é "o que você faz com o que aco
 - [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
+- [[Não existe algo como uma situação difícil, apenas definições que as tornam experienciadas como difíceis]]
