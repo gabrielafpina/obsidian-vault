@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "ad00c341c473db66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "699ab555bcdbe264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espelho reflexivo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed65e1d1061e78d5",
             "type": "leaf",
             "state": {
@@ -136,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "Espelho reflexivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "Espelho reflexivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md"
+                "file": "Espelho reflexivo.md"
               }
             }
           },
@@ -335,11 +359,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1553fb2ba1fc55",
+  "active": "699ab555bcdbe264",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+    "Espelho reflexivo.md",
+    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "Você não é os seus pensamentos.md",
     "2. Literature Notes/Topics/Consciência.md",
-    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
@@ -361,8 +387,6 @@
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
-    "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
-    "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",

@@ -61,3 +61,4 @@ Assim, a compreensão de que você não é seus pensamentos, mas o observador de
 - [[Essa crença é minha ou do outro?]]
 - [[Você não é os seus pensamentos]]
 - [[O micro é igual ao macro]]
+- [[O meu nível de ser atrai a minha vida]]

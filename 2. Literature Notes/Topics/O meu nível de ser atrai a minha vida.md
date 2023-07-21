@@ -24,6 +24,7 @@ Quem é o SER? Você. Ou seja, o nível de quem você é atrai a sua vida e ele 
 
 **Oeste: similar**
 - [[Tudo é uma escolha]]
+- [[Espelho reflexivo]]
 
 **Leste: oposto**
 
