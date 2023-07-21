@@ -29,3 +29,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como elicitar a estratégia amorosa de alguém?]]
