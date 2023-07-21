@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todos somos um.md",
+                "file": "2. Literature Notes/Topics/todos somos um.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data calls data.md",
+                "file": "2. Literature Notes/Topics/Data calls data.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,10 +109,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
+                "file": "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a4a07207b729f0df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -145,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -308,7 +316,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +332,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,9 +353,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -396,24 +400,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "591abd39ccd2445c",
+  "active": "a4a07207b729f0df",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
-    "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-    "Data calls data.md",
+    "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "Aaron Doughty.md",
-    "todos somos um.md",
+    "2. Literature Notes/People/Aaron Doughty.md",
+    "2. Literature Notes/Topics/todos somos um.md",
     "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
-    "Ho'oponopono.md",
+    "2. Literature Notes/Topics/Ho'oponopono.md",
     "2. Literature Notes/Topics/Como fazer autohipnose?.md",
-    "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
+    "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
     "2. Literature Notes/Topics/Reimprint.md",
     "2. Literature Notes/Topics/Como se manter no presente?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
-    "Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
+    "2. Literature Notes/Topics/Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
