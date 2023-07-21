@@ -7,13 +7,15 @@
 **DEFINIÇÃO:** Todo resultado que produzimos em nossas vidas, seja ele positivo ou negativo, é o produto de uma estratégia que não necessariamente temos consciência. As estratégias podem incluir nossas *crenças*, *valores*, *regras internas*, *padrões de linguagem*, *sequências de foco* e qualquer outro padrão de pensamento ou comportamento que usamos para processar informações e tomar decisões.
 - A elicitação de estratégias é o processo de descobrir esses padrões de pensamento e comportamento. Uma vez que sejamos capazes de identificar a estratégia que alguém está usando para produzir um resultado específico, podemos '*modelar*' ou copiar essa estratégia para produzir o mesmo resultado em nossas próprias vidas.
 
-
-
 **COMO:**
 1. Descoberta do principal sistema representativo ([[Canais Sensoriais]] e [[VACOG]])
-2. Reconstrução de experiências
-	1. [[Sintaxe Mental]]
-	2. [[Submodalidades]]
+2. Entendimento da estratégia e reconstrução de experiências
+	1. Pode se lembrar de uma época em que estava totalmente X’d? Pode se lembrar de uma época especifica? Volte para aquela época e experimente a... (ponha-os em estado); Enquanto você se lembra daquela época... (mantenha-os em estado).
+	2. Qual foi exatamente a primeira coisa que fez com que ficasse X’d? Foi alguma coisa que viu? Foi alguma coisa que ouviu? Foi o toque de alguma coisa ou alguém? Qual foi exatamente a primeira coisa que fez com que ficasse totalmente X’d? Após você (ter visto, ouvido ou sido tocado), qual foi exatamente a coisa seguinte que fez com que ficasse totalmente X’d? 
+	3. Você... imaginou uma cena? disse alguma coisa para si mesmo? teve uma certa sensação ou emoção? Qual foi exatamente a coisa seguinte que fez com que ficasse X’d? Após você estar A’d? e B’d? (viu alguma coisa, disse alguma coisa para si mesmo, e assim por diante), qual foi exatamente a coisa seguinte que fez com que ficasse totalmente X’d? 
+	4. Você... imaginou uma cena? disse alguma coisa para si mesmo? teve uma certa emoção ou sensação? Ou aconteceu mais alguma coisa? Qual foi exatamente a coisa seguinte que fez com que ficasse X’d? 
+	5. Pergunte, nesse ponto, se a pessoa estava muito X’d (atraída, motivada, ou outra coisa). Se for sim, a elicitação está completa. Se for não, continue eliciando a [[Sintaxe Mental]] até a conclusão congruente do estado. 
+3. Elicitação das [[Submodalidades]] específicas de cada representação na estratégia dessa pessoa
 
 **PENSADORES:**
 - [[Tony Robbins]] explora a ideia de que o sucesso em qualquer área da vida pode ser entendido como o resultado de *estratégias específicas que podem ser aprendidas*, *modeladas* e *replicadas*. Ele argumenta que, se você pode descobrir a estratégia que alguém usa para atingir um resultado específico, pode imitar essa estratégia e alcançar um resultado semelhante.

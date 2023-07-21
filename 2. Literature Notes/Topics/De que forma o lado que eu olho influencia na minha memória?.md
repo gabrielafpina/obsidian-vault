@@ -11,6 +11,9 @@ Da mesma forma, se estiver tendo dificuldade para lembrar-se de alguma coisa, ta
 
 Uma vez que sabe para onde olhar para achar a informação guardada em seu cérebro, será capaz de alcançá-la com rapidez e facilidade.'
 
+Para cima e para a esquerda -> memória armazenada
+Para cima e para a direita -> imagem criada
+
 **COMO:**
 
 **PENSADORES:**
