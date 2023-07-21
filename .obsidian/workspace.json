@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "539aaa2c089814b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed65e1d1061e78d5",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Espelho reflexivo.md",
+                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Espelho reflexivo.md",
+                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espelho reflexivo.md"
+                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md"
               }
             }
           },
@@ -359,10 +371,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "699ab555bcdbe264",
+  "active": "539aaa2c089814b6",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "Espelho reflexivo.md",
+    "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "Você não é os seus pensamentos.md",
     "2. Literature Notes/Topics/Consciência.md",
@@ -386,7 +399,6 @@
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
-    "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",

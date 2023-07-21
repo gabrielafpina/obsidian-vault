@@ -9,6 +9,8 @@ A maneira como experimentamos o mundo ao nosso redor é um reflexo direto de nos
 
 Por exemplo, se carregamos crenças negativas sobre nós mesmos ou sobre o mundo, nossas experiências tendem a refletir essa negatividade. Da mesma forma, se abrigamos crenças positivas, a realidade tende a nos apresentar experiências que confirmam essas crenças positivas.
 
+O espelho reflexivo não é um obstáculo mas, sim, uma oportunidade.
+
 **COMO USAR ISSO A MEU FAVOR?**
 1. **Autoconhecimento**: O espelho reflexivo fornece uma valiosa oportunidade de autoconhecimento. Ao prestar atenção em como a realidade se apresenta para você, você pode ganhar insights profundos sobre suas próprias [[crenças]], pensamentos e emoções.
     
@@ -23,11 +25,15 @@ Por exemplo, se carregamos crenças negativas sobre nós mesmos ou sobre o mundo
 ---------
 
 **Oeste: similar**
+- [[Toda pessoa que para na sua frente é seu espelho]]
 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
 - [[Princípio da Correspondência]]
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
 - [[O micro é igual ao macro]]
+- [[Nenhuma mensagem é boa ou ruim, todas são neutras]]
+- [[Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças]]
