@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "02cfbf77d26f2f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'Não é sobre o que acontece. É sobre o que você faz com o que acontece que importa'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba1093b1a35b7b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que acontece quando morremos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "332898ab804545ca",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servi",
+                "query": "interpre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,7 +174,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "file": "2. Literature Notes/Topics/O que acontece quando morremos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "file": "2. Literature Notes/Topics/O que acontece quando morremos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md"
+                "file": "2. Literature Notes/Topics/O que acontece quando morremos?.md"
               }
             }
           },
@@ -303,10 +328,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "539aaa2c089814b6",
+  "active": "ba1093b1a35b7b59",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
+    "2. Literature Notes/Topics/'Não é sobre o que acontece. É sobre o que você faz com o que acontece que importa'.md",
+    "2. Literature Notes/Topics/O que acontece quando morremos?.md",
     "Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+    "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "Espelho reflexivo.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
@@ -329,8 +356,6 @@
     "2. Literature Notes/Topics/Reimprint.md",
     "2. Literature Notes/Topics/Como se manter no presente?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
-    "2. Literature Notes/Topics/Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
-    "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
