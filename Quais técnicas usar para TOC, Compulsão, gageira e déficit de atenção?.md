@@ -13,9 +13,14 @@ Toda vez que a pessoa tem uma compulsão, é porque ela não controla, racionalm
 4. [[Sistema Swish]] de que apenas uma vez basta
 5. [[Como instalar uma âncora?]] para a pessoa ficar mais presente
 
-**DEFINIÇÃO:**
+**GAGUEIRA:**
+1. [[Reimprint]]: dificilmente alguém gagueja sempre. Ajuda a tirar a sensação do medo enquanto ela está falando. Gagueira normalmente está associada à pessoa se sentir nervosa e perder o controle da fala.
+2. Alteração de [[Submodalidades]]: como ela faz para ficar com medo? Mudar o processo.
+3. Desafiar [[crenças]] dessa pessoa: 'eu sou gago'. Você não é o seu comportamento. O comportamento acontece, você é uma [[Consciência]] que tem o poder de observar esse comportamento.
+4. [[Como fazer hipnose?]]: ensinar a pessoa que ela precisa ficar presente na hora de falar [[Mindfulness]]
 
-**COMO:**
+**DÉFICIT DE ATENÇÃO:**
+Pessoa tem atenção em tudo menos no que se espera que ela tenha atenção.
 
 **PENSADORES:**
 
