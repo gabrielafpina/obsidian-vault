@@ -22,16 +22,19 @@ Nesse sentido, a energia não vem da crença. A crença não tem energia, é a s
 **COMO:**
 Para iluminar sua vida com uma luz diferente, você deve alterar as "lâmpadas" ou crenças que estão atualmente conectadas à sua fonte de energia interna. Aqui estão alguns passos para fazer isso:
 1. **Reconhecimento**: Primeiro, reconheça as crenças que estão atualmente "iluminando" sua vida. Pergunte a si mesmo quais crenças estão moldando sua experiência de vida atual. Isso pode incluir crenças sobre si mesmo, sobre os outros, sobre o mundo em geral.
-    
 2. **Avaliação**: Avalie essas crenças. Elas estão "iluminando" sua vida de uma maneira que é positiva e benéfica para você? Ou elas estão criando sombras de negatividade, medo ou limitação?
-    
 3. **Desparafusar Crenças Negativas**: Se você identificar crenças que estão criando uma luz negativa em sua vida, visualize-se "desparafusando" essas lâmpadas. Isso pode envolver processos como a terapia, meditação, escrita reflexiva ou simplesmente tomar a decisão consciente de não mais acreditar nessas coisas.
-    
 4. **Escolha Novas Crenças**: Em seguida, pense nas crenças que você gostaria de ter iluminando sua vida. Essas devem ser crenças que criam uma luz positiva e encorajadora. Por exemplo, em vez de acreditar que você não é bom o suficiente (uma crença negativa), você pode escolher acreditar que você é capaz e digno (uma crença positiva).
-    
 5. **Parafusar Novas Crenças**: Finalmente, visualize-se "parafusando" essas novas lâmpadas de crença em sua energia interna. Isso pode envolver repetir afirmações positivas para si mesmo, visualizar-se vivendo de acordo com essas novas crenças, ou simplesmente escolher agir de uma maneira que esteja alinhada com essas crenças.
 
-**PENSADORES:**
+**EXEMPLO:**
+Digamos que você tenha um pensamento que diz "Eu sou um fracasso". Em vez de se apegar a esse pensamento e permitir que ele se torne uma crença (ou seja, fluir sua energia através dessa "lâmpada"), você pode simplesmente observar o pensamento. Você pode reconhecer que é apenas um pensamento, não uma verdade absoluta sobre quem você é.
+
+Depois de observar o pensamento, você pode escolher conscientemente se quer se apegar a ele ou deixá-lo passar. Se você decidir que esse pensamento não é útil ou verdadeiro para você, pode optar por deixá-lo passar e não se tornar uma crença.
+
+Ao mesmo tempo, você pode escolher se apegar a pensamentos mais positivos e úteis, como "Eu sou capaz de aprender e crescer". Ao se apegar a esses pensamentos, você está escolhendo fluir sua energia através de "lâmpadas" de crença mais positivas.
+
+Assim, a compreensão de que você não é seus pensamentos, mas o observador de seus pensamentos, fornece a base para a escolha consciente de suas crenças. Isso permite que você se torne o mestre de sua própria mente e, por extensão, de sua própria vida.
 
 **FRASES:**
 
@@ -45,6 +48,7 @@ Para iluminar sua vida com uma luz diferente, você deve alterar as "lâmpadas" 
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
+- [[Princípio da Correspondência]]
 
 **Sul: para onde vai**
 - [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]
@@ -56,3 +60,4 @@ Para iluminar sua vida com uma luz diferente, você deve alterar as "lâmpadas" 
 - [[A porta só abre pelo lado de dentro]]
 - [[Essa crença é minha ou do outro?]]
 - [[Você não é os seus pensamentos]]
+- [[O micro é igual ao macro]]
