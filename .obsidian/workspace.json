@@ -56,6 +56,42 @@
             }
           },
           {
+            "id": "fafbf7dd2f5e8fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63891962499bad51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todos somos um.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbde018b3d4adb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data calls data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d1a112ee6bb2387",
             "type": "leaf",
             "state": {
@@ -136,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jornada",
+                "query": "bashar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -247,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
+                "file": "Data calls data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
+                "file": "Data calls data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md"
+                "file": "Data calls data.md"
               }
             }
           },
@@ -335,8 +371,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "fbde018b3d4adb6e",
   "lastOpenFiles": [
+    "Aaron Doughty.md",
+    "Data calls data.md",
+    "todos somos um.md",
+    "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
+    "Ho'oponopono.md",
+    "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
     "2. Literature Notes/Topics/Reimprint.md",
@@ -349,7 +391,6 @@
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
-    "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
@@ -358,11 +399,6 @@
     "2. Literature Notes/Topics/Hoje eu acordei para despertar.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
-    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
-    "2. Literature Notes/Topics/Se você estiver na expectativa de receber, não vai acontecer.md",
-    "2. Literature Notes/Topics/Lei da Doação.md",
-    "2. Literature Notes/Topics/Aquele que não tem, o pouco que tem, lhe será tirado. Aquele que tem, mais lhe será dado.md",
-    "2. Literature Notes/Topics/Vigiai e orai sem cessar.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
