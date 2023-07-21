@@ -14,9 +14,9 @@ Portanto, a crença em si não tem energia ou luz própria, assim como uma lâmp
 Isso significa que temos o poder de escolher quais "lâmpadas" ou crenças queremos "parafusar" ou conectar à nossa energia. Podemos "desparafusar" [[crenças]] negativas que estão nos fazendo sentir mal e substituí-las por crenças mais positivas que nos fazem sentir bem. Essa metáfora é uma maneira de enfatizar que somos os mestres de nossa própria energia e, por extensão, de nossas próprias vidas.
 
 
->[!important]  A energia não está chegando da crença negativa. Ela vem de você, mas passa pelo filtro da crença negativa,NÃOpela lâmpada.
+>[!important]  A energia não está chegando da crença negativa. Ela vem de você, mas passa pelo filtro da crença negativa, pela lâmpada.
 
-Nesse sentido, a energia não vem da crença. A crença não tem energia, 
+Nesse sentido, a energia não vem da crença. A crença não tem energia, é a sua energia e você pode escolher o que vai fazer com a sua energia. [[crenças não tem sua própria energia]]
 
 
 **COMO:**
@@ -44,6 +44,7 @@ Para iluminar sua vida com uma luz diferente, você deve alterar as "lâmpadas" 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
 - [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]
@@ -51,3 +52,7 @@ Para iluminar sua vida com uma luz diferente, você deve alterar as "lâmpadas" 
 - [[As crenças são os compassos e os mapas que nos guiam em direção a nossas metas]]
 - [[The Work]]
 - [[Como fazer autohipnose?]]
+- [[A dor é obrigatória, o sofrimento é opcional]]
+- [[A porta só abre pelo lado de dentro]]
+- [[Essa crença é minha ou do outro?]]
+- [[Você não é os seus pensamentos]]

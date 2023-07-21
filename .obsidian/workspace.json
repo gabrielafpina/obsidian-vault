@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ed65e1d1061e78d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você não é os seus pensamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d1a112ee6bb2387",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidi",
+                "query": "energia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -235,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "Você não é os seus pensamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "Você não é os seus pensamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md"
+                "file": "Você não é os seus pensamentos.md"
               }
             }
           },
@@ -323,10 +335,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1553fb2ba1fc55",
+  "active": "ed65e1d1061e78d5",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+    "Você não é os seus pensamentos.md",
+    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
@@ -334,7 +348,6 @@
     "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/People/Aaron Doughty.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
@@ -350,7 +363,6 @@
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
-    "2. Literature Notes/Articles/Welcome to Instapaper!.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
