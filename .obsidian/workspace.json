@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "e884d956ae8a666d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "539aaa2c089814b6",
             "type": "leaf",
             "state": {
@@ -178,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -290,6 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,6 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +321,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md"
+              }
             }
           },
           {
@@ -374,7 +370,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e884d956ae8a666d",
+  "active": "a1f8a3d96f86cee0",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
