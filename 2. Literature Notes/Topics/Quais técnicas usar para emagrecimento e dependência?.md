@@ -37,6 +37,7 @@ O mais importante aqui é que a pessoa precisa querer, porque se ela não quiser
 **Oeste: similar**
 - [[Quais técnicas usar para emagrecimento e dependência?]]
 - [[Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?]]
+- [[Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?]]
 
 **Leste: oposto**
 

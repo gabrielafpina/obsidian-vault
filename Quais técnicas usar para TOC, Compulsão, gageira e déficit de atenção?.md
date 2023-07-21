@@ -20,7 +20,10 @@ Toda vez que a pessoa tem uma compulsão, é porque ela não controla, racionalm
 4. [[Como fazer hipnose?]]: ensinar a pessoa que ela precisa ficar presente na hora de falar [[Mindfulness]]
 
 **DÉFICIT DE ATENÇÃO:**
-Pessoa tem atenção em tudo menos no que se espera que ela tenha atenção.
+Pessoa tem atenção em tudo menos no que se espera que ela tenha atenção. Encontre a estratégia da pessoa e altere.
+1. Trabalhar associação de [[Submodalidades]] do que a pessoa gosta, com o que você quer que ela comece a gostar e prestar atenção.
+	1. Esse caso funciona muito se a pessoa consegue aprender determinadas coisas, mas não consegue aprender outras. É uma questão simples de entender a estratégia da pessoa.
+2. Procurar um psicopedagogo ou psiquiatra se ela não consegue aprender nada mesmo
 
 **PENSADORES:**
 
