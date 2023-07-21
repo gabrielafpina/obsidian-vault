@@ -44,86 +44,6 @@
             }
           },
           {
-            "id": "0bd15edf29d8c450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fafbf7dd2f5e8fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63891962499bad51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/todos somos um.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbde018b3d4adb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Data calls data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b0b436c0fecda38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "591abd39ccd2445c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4a07207b729f0df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2d1a112ee6bb2387",
             "type": "leaf",
             "state": {
@@ -204,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,6 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,7 +275,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md"
+              }
             }
           },
           {
@@ -400,18 +324,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4a07207b729f0df",
+  "active": "ad1553fb2ba1fc55",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+    "2. Literature Notes/Topics/Como fazer autohipnose?.md",
+    "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
+    "2. Literature Notes/Topics/todos somos um.md",
     "2. Literature Notes/Topics/Data calls data.md",
+    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+    "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/People/Aaron Doughty.md",
-    "2. Literature Notes/Topics/todos somos um.md",
-    "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
-    "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
     "2. Literature Notes/Topics/Reimprint.md",
