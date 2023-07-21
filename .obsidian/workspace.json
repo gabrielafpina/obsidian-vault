@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "9b0b436c0fecda38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591abd39ccd2445c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d1a112ee6bb2387",
             "type": "leaf",
             "state": {
@@ -172,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bashar",
+                "query": "atrai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,7 +242,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -234,7 +259,7 @@
         "dimension": 58.388625592417064,
         "children": [
           {
-            "id": "85fe64f08a38fc99",
+            "id": "d26de7e0f938a340",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -242,7 +267,7 @@
             }
           },
           {
-            "id": "51b84da0407e96ea",
+            "id": "2d163cf332d453cc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -283,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data calls data.md",
+                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data calls data.md",
+                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data calls data.md"
+                "file": "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md"
               }
             }
           },
@@ -371,10 +396,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbde018b3d4adb6e",
+  "active": "591abd39ccd2445c",
   "lastOpenFiles": [
-    "Aaron Doughty.md",
+    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+    "Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "Data calls data.md",
+    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
+    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+    "Aaron Doughty.md",
     "todos somos um.md",
     "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
     "Ho'oponopono.md",
@@ -392,13 +421,9 @@
     "2. Literature Notes/Topics/O que impede as pessoas de mudar?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para quem tem ansiedade e síndrome do pânico?.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Articles/Welcome to Instapaper!.md",
-    "2. Literature Notes/Topics/Hoje eu acordei para despertar.md",
-    "2. Literature Notes/Topics/Minimax.md",
-    "2. Literature Notes/Topics/Nenhuma mensagem é boa ou ruim, todas são neutras.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
