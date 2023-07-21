@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5ebdb58fd7f822",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5e29cc4690adae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Reimprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e5b500167a0870c1",
         "type": "tabs",
         "children": [
@@ -56,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bd15edf29d8c450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reimprint",
+                "query": "autoh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -253,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
+                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
+                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md"
+                "file": "2. Literature Notes/Topics/Como fazer autohipnose?.md"
               }
             }
           },
@@ -341,11 +335,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad1553fb2ba1fc55",
+  "active": "0bd15edf29d8c450",
   "lastOpenFiles": [
+    "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
     "2. Literature Notes/Topics/Reimprint.md",
-    "Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?.md",
     "2. Literature Notes/Topics/Como se manter no presente?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
     "Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?.md",
