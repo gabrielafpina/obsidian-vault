@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "f67a2771bcae2b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "539aaa2c089814b6",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
+                "file": "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
+                "file": "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md"
+                "file": "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md"
               }
             }
           },
@@ -352,10 +364,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fafbfa853836c44",
+  "active": "f67a2771bcae2b70",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é a dúvida?.md",
     "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
+    "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
+    "2. Literature Notes/Topics/O que é a dúvida?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Espelho reflexivo.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
@@ -379,7 +392,6 @@
     "2. Literature Notes/Topics/Como fazer autohipnose?.md",
     "2. Literature Notes/Topics/O que significa a ideia de responsabilidade total?.md",
     "2. Literature Notes/Topics/todos somos um.md",
-    "2. Literature Notes/Topics/Data calls data.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
