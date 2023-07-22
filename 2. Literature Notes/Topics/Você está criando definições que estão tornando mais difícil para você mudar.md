@@ -13,7 +13,13 @@ Por outro lado, se você redefine a situação e começa a acreditar que a mudan
 
 Portanto, a frase de Bashar é um lembrete de que temos o poder de moldar nossa realidade através de nossas crenças e definições. Se queremos mudar nossas vidas, precisamos começar por mudar as definições que estamos criando para nós mesmos.
 
-A questão é que podemos nos recriar a cada momento como sendo uma pessoa diferente e podemos, constantemente, nos ensinar coisas novas.
+A questão é que podemos nos recriar a cada momento como sendo uma pessoa diferente e estamos, constantemente, nos ensinando coisas novas. Se as coisas que estamos nos ensinando não nos ajudam, podemos parar de nos ensinar essas coisas. [[A simplicidade é o mais alto grau de satisfação]]. 
+
+Ninguém está te ensinando nada, é você quem está se ensinando as coisas, portanto, você tem o poder de parar. [[Existem 4 lugares proibidos]]. Você sempre pode se ensinar coisas diferentes.
+
+Quanto mais você resiste, mais o sofrimento persiste. [[A dor é obrigatória, o sofrimento é opcional]].
+
+Deixe de lado as definições que não funcionam mais para você e a vida será menos sofrida.
 
 **COMO:**
 
@@ -29,7 +35,9 @@ A questão é que podemos nos recriar a cada momento como sendo uma pessoa difer
 
 **Norte: ideia/pergunta**
 - [[Crenças são como lâmpadas]]
+- [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]
 
 **Sul: para onde vai**
 - [[O quanto a minha mente é capaz de me sabotar?]]
 - [[Todo pensamento sabotador tá cancelado]]
+- [[Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma]]
