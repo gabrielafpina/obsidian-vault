@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "65c95efc1acdddf8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d41f75cb8db55524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e5b500167a0870c1",
         "type": "tabs",
         "children": [
@@ -74,18 +56,6 @@
             }
           },
           {
-            "id": "ad00c341c473db66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "699ab555bcdbe264",
             "type": "leaf",
             "state": {
@@ -98,24 +68,24 @@
             }
           },
           {
-            "id": "b6a6b04e076fafc2",
+            "id": "4d4c09da56d90e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Elicitação de Estratégias.md",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1f8a3d96f86cee0",
+            "id": "0c97a963ae94acde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elicit",
+                "query": "fórmula",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -282,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -370,11 +340,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1f8a3d96f86cee0",
+  "active": "0c97a963ae94acde",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Espelho reflexivo.md",
+    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Sintaxe Mental.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/De que forma o lado que eu olho influencia na minha memória?.md",
@@ -384,7 +357,6 @@
     "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
     "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
-    "2. Literature Notes/Topics/Espelho reflexivo.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Você não é os seus pensamentos.md",
     "2. Literature Notes/Topics/Consciência.md",
@@ -396,8 +368,6 @@
     "2. Literature Notes/Topics/todos somos um.md",
     "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
-    "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
