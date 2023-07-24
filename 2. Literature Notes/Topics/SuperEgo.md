@@ -15,6 +15,8 @@ O superego pega toda a parte do consciente, pré-consciente e inconsciente. E a 
 
 Ele trabalha para suprimir os impulsos do id e tenta forçar o ego a agir moralmente, e não se comportar de forma impulsiva, porque o ego pode acabar agindo de forma impulsiva quando ele atende as necessidades/exigências do ID constantemente, sem ponderar.
 
+Ou seja, o superego é uma parte da nossa mente e personalidade responsável pelos ditames morais. Muito relacionado a regras e [[crenças]]. É no superego que está a renúncia do prazer em prol do benefício da vida coletiva em sociedade.
+
 **COMO:**
 
 **PENSADORES:**
