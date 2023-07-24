@@ -13,7 +13,6 @@ Portanto, a crença em si não tem energia ou luz própria, assim como uma lâmp
 
 Isso significa que temos o poder de escolher quais "lâmpadas" ou crenças queremos "parafusar" ou conectar à nossa energia. Podemos "desparafusar" [[crenças]] negativas que estão nos fazendo sentir mal e substituí-las por crenças mais positivas que nos fazem sentir bem. Essa metáfora é uma maneira de enfatizar que somos os mestres de nossa própria energia e, por extensão, de nossas próprias vidas.
 
-
 >[!important]  A energia não está chegando da crença negativa. Ela vem de você, mas passa pelo filtro da crença negativa, pela lâmpada.
 
 Nesse sentido, a energia não vem da crença. A crença não tem energia, é a sua energia e você pode escolher o que vai fazer com a sua energia. [[crenças não tem sua própria energia]]
