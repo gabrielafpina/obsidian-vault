@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
+                "file": "2. Literature Notes/Topics/SuperEgo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92951ddb0c2249b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fórmula",
+                "query": "ego",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,8 +258,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md"
+                "file": "2. Literature Notes/Topics/Ego.md"
               }
             }
           },
@@ -400,15 +411,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68260f2e1e010d86",
+  "active": "92951ddb0c2249b3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
-    "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
-    "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "7. Creator/Reels/História Abraham Lincoln.md",
-    "7. Creator/Reels/Lobo divino x Lobo.md",
+    "2. Literature Notes/Topics/SuperEgo.md",
     "7. Creator/Reels/Pare de pedir desculpa.md",
+    "7. Creator/Reels/Lobo divino x Lobo.md",
+    "7. Creator/Reels/História Abraham Lincoln.md",
+    "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
     "7. Creator/Reels/A vida é como um rio.md",
+    "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
+    "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
@@ -427,7 +439,6 @@
     "2. Literature Notes/Topics/O que acontece quando morremos?.md",
     "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
     "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
-    "2. Literature Notes/Topics/É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",

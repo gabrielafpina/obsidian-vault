@@ -1,4 +1,4 @@
-**TAGS:** #content 
+**TAGS:**  #postado
 
 **FONTE:** [[Ouse Ser Diferente]]
 

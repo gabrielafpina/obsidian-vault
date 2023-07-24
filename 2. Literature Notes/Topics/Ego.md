@@ -16,6 +16,7 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 **COMO:**
 
 **PENSADORES:**
+- [[Sigmund Freud]]: para Freud, o ego é o fiel representante do eu e é quem está mais no controle da nossa mente, se comparado com o [[ID]] e com 
 
 **FRASES:**
 

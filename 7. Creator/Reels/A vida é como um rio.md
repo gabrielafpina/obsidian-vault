@@ -1,6 +1,6 @@
 **TYPE:** Reels
 
-**STATUS:** #gravar
+**STATUS:** #postado
 
 **CONNECTED TO:** [['A vida é como um rio']]
 
