@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -312,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
+                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem tenta não faz.md",
+                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem tenta não faz.md"
+                "file": "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md"
               }
             }
           },
@@ -400,7 +400,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "771d5fd9d8a73594",
+  "active": "68260f2e1e010d86",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
     "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
