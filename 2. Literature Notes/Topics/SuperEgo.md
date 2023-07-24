@@ -35,6 +35,13 @@ Ele exerce autoridade moral sobre as ações e o pensamento, surgindo a partir d
 
 O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o nosso crítico interno. [[Os 4 Compromissos]]. É comparado a um filtro ou sensor, e é influenciado pelos princípios religiosos, cultural, história do povo, etc. ([[Senso Comum]]). Ele dá origem a sentimentos punitivos, de culpa, remorso, ou a um desejo de penitenciar-se ou fazer reparação. Onde tem autopunição, tem o superego agindo. Podemos acrescentar que, constituem o superego todo processo de educação e controle da sociedade, exercido de modo sistemático.
 
+Com a prática, é possível dominar o superego, ao mostrar para ele que você está no controle.
+
+Na teoria de Freud, o superego é o último componente da personalidade a se desenvolver:
+1. ID: você nasce com o id
+2. Ego: é sua personalidade desenvolvido a partir do ID
+3. Superego: você pega emprestado das pessoas importantes para você valores, regras e crenças.
+
 **5 FUNÇÕES:**
 1. Auto-observação;
 2. Consciência moral;
