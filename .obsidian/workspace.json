@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "25533441fcc14f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mentalidade do Caçador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10394f41dc4396e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atenção é o meu recurso mais valioso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10a03e6ffe1bf71e",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -216,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
+                "file": "Mentalidade do Caçador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
+                "file": "Mentalidade do Caçador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Círculo de Controle.md"
+                "file": "Mentalidade do Caçador.md"
               }
             }
           },
@@ -304,11 +328,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "700630ad7eb4bfa7",
+  "active": "25533441fcc14f49",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Círculo de Controle.md",
+    "Mentalidade do Caçador.md",
+    "Atenção é o meu recurso mais valioso.md",
     "Captura de Tela 2023-07-24 às 18.39.47.png",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
-    "2. Literature Notes/Topics/Círculo de Controle.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
@@ -331,7 +357,6 @@
     "2. Literature Notes/Topics/O que é a dúvida?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
-    "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
@@ -351,7 +376,6 @@
     "Kindle Highlights",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
-    "6. Shots, Images & PDFs/IMG_1372.jpg",
     "Untitled.canvas"
   ]
 }
