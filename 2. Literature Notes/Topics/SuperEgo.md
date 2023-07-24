@@ -33,9 +33,14 @@ Se não formos fiéis ao superego, vem o sentimento de culpa, porque é como se 
 
 Ele exerce autoridade moral sobre as ações e o pensamento, surgindo a partir de atitudes como vergonha, repulsa e moralidade. [[A religião é a corrente da alma]]. Muitas religiões tem esse poder de trazer ainda mais moralidade e atitudes condenatórias.
 
-O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o nosso crítico interno. [[Os 4 Compromissos]]. É comparado a um filtro ou sensor, e é influenciado pelos princípios religiosos, cultural, história do povo, etc. ([[Senso Comum]]). Ele dá origem a sentimentos punitivos, de culpa, remorso, ou a um desejo de penitenciar-se ou fazer reparação. Onde tem autopunição, tem o supere
+O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o nosso crítico interno. [[Os 4 Compromissos]]. É comparado a um filtro ou sensor, e é influenciado pelos princípios religiosos, cultural, história do povo, etc. ([[Senso Comum]]). Ele dá origem a sentimentos punitivos, de culpa, remorso, ou a um desejo de penitenciar-se ou fazer reparação. Onde tem autopunição, tem o superego agindo. Podemos acrescentar que, constituem o superego todo processo de educação e controle da sociedade, exercido de modo sistemático.
 
-**COMO:**
+**5 FUNÇÕES:**
+1. Auto-observação;
+2. Consciência moral;
+3. Censura;
+4. Influência principal na repressão;
+5. Exaltação dos ideais.
 
 **PENSADORES:**
 
@@ -45,6 +50,7 @@ O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o noss
 
 **Oeste: similar**
 - [[1ª Teoria do Aparelho Psíquico]]
+- [[Auto Observação]]
 
 **Leste: oposto**
 
@@ -56,3 +62,4 @@ O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o noss
 **Sul: para onde vai**
 - [[Cadeia Emocional]]
 - [[Princípio do Prazer e Princípio da Realidade]]
+- [[The Work]]
