@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "700630ad7eb4bfa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10a03e6ffe1bf71e",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md"
+                "file": "2. Literature Notes/Topics/Círculo de Controle.md"
               }
             }
           },
@@ -291,8 +304,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "590deffb637b3901",
+  "active": "700630ad7eb4bfa7",
   "lastOpenFiles": [
+    "Captura de Tela 2023-07-24 às 18.39.47.png",
+    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+    "2. Literature Notes/Topics/Círculo de Controle.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
     "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
@@ -301,7 +317,6 @@
     "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
-    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/De que forma o lado que eu olho influencia na minha memória?.md",
     "2. Literature Notes/Topics/Espelho reflexivo.md",
     "2. Literature Notes/Topics/Complexo de Electra.md",
@@ -317,8 +332,6 @@
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "2. Literature Notes/Topics/Como elicitar a estratégia amorosa de alguém?.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/Sintaxe Mental.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
