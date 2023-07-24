@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mentalidade do Caçador.md",
+                "file": "2. Literature Notes/Topics/Mentalidade do Caçador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "066cfba67795de58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atenção é o meu recurso mais valioso.md",
+                "file": "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energia",
+                "query": "APRENDER",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mentalidade do Caçador.md",
+                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mentalidade do Caçador.md",
+                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mentalidade do Caçador.md"
+                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md"
               }
             }
           },
@@ -328,12 +339,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25533441fcc14f49",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Mentalidade do Caçador.md",
+    "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
     "2. Literature Notes/Topics/Círculo de Controle.md",
-    "Mentalidade do Caçador.md",
-    "Atenção é o meu recurso mais valioso.md",
-    "Captura de Tela 2023-07-24 às 18.39.47.png",
+    "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
@@ -356,7 +368,6 @@
     "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
     "2. Literature Notes/Topics/O que é a dúvida?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "2. Literature Notes/Topics/Elicitação de Estratégias.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
