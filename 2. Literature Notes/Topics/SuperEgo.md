@@ -33,6 +33,8 @@ Se não formos fiéis ao superego, vem o sentimento de culpa, porque é como se 
 
 Ele exerce autoridade moral sobre as ações e o pensamento, surgindo a partir de atitudes como vergonha, repulsa e moralidade. [[A religião é a corrente da alma]]. Muitas religiões tem esse poder de trazer ainda mais moralidade e atitudes condenatórias.
 
+O suerpego está integrado ao id e ao ego e é o controlador de ambos. É o nosso crítico interno. [[Os 4 Compromissos]]. É comparado a um filtro ou sensor, e é influenciado pelos princípios religiosos, cultural, história do povo, etc. ([[Senso Comum]]). Ele dá origem a sentimentos punitivos, de culpa, remorso, ou a um desejo de penitenciar-se ou fazer reparação. Onde tem autopunição, tem o supere
+
 **COMO:**
 
 **PENSADORES:**
@@ -49,7 +51,6 @@ Ele exerce autoridade moral sobre as ações e o pensamento, surgindo a partir d
 **Norte: ideia/pergunta**
 - [[teoria dos mecanismos de defesa]]
 - [[2ª Teoria do Aparelho Psíquico]]
-- [[Senso Comum]]
 - [[Transferências]]
 
 **Sul: para onde vai**
