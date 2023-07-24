@@ -25,7 +25,13 @@ A constituição do superego contará com aparatos adquiridos com a passagem pel
 
 Na resolução do conflito edipiano, predominará o superego materno e no menino, o superego paterno, embora conforme a cultura (patriarcal ou matriarcal) o pai ou a mãe assume o papel na formação do superego de ambos os sexos.
 
->[!important] O su
+>[!important] O superego surge também como noção de proteção e amor.
+
+O superego surge desse modo, como noção de certo e errado, não apenas como fonte de punição e ameaça, mas também de proteção de amor. [[A mãe é fundante da nossa personalidade]]. A origem disso tudo está na mãe e no pai, que temos a intenção de nos proteger.
+
+Se não formos fiéis ao superego, vem o sentimento de culpa, porque é como se você não estivesse sendo fiel aos seus pais.
+
+Ele exerce autoridade moral sobre as ações e o pensamento, surgindo a partir de atitudes como vergonha, repulsa e moralidade. [[A religião é a corrente da alma]]. Muitas religiões tem esse poder de trazer ainda mais moralidade e atitudes condenatórias.
 
 **COMO:**
 
@@ -47,3 +53,5 @@ Na resolução do conflito edipiano, predominará o superego materno e no menino
 - [[Transferências]]
 
 **Sul: para onde vai**
+- [[Cadeia Emocional]]
+- [[Princípio do Prazer e Princípio da Realidade]]
