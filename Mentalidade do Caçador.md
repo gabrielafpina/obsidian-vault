@@ -10,6 +10,9 @@ Ser um Caçador de Informações pode te trazer um monte de vantagens. Você apr
 Você com essa mentalidade ficará MUITO menos tempo pesquisando e poderá rapidamente voltar para seja lá o que você preferir fazer.
 
 **COMO:**
+1. Seja intencional no conteúdo que consome
+	1. Seja seletivo e busque recursos de alta qualidade que se alinhem com seus interesses e objetivos;
+	2. Priorize livros, podcasts e artigos que forneçam insights e conhecimentos valiosos
 
 **PENSADORES:**
 
