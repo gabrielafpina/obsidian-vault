@@ -19,7 +19,13 @@ Ou seja, o superego é uma parte da nossa mente e personalidade responsável pel
 
 O superego é um elemento estrutural do aparelho psíquico, responsável por imposição de sanções, normas e padrões. Ele tem a tendência de jogar culpa quando você não está alinhado com o sistema de regras de onde você vive e das áreas da sua vida.
 
-Tem sua formação pela introjeção de conteúdos superegócios advindos dos pais e começa a se constituir com a resolução do [[Complexo de Édipo]] da fase fálica (onde temos descobertas sobre a nossa anatomia), a partir de 3 aos 6 anos de idade.
+Tem sua formação pela introjeção de conteúdos superegócios advindos dos pais e começa a se constituir com a resolução do [[Complexo de Édipo]] e [[Complexo de Electra]] da fase fálica (onde temos descobertas sobre a nossa anatomia), a partir de 3 aos 6 anos de idade.
+
+A constituição do superego contará com aparatos adquiridos com a passagem pelo complexo de édipo, mas também com subsídios incorporados das falas, falas e atitudes dos pais e pessoas significativas para o mundo infantil.
+
+Na resolução do conflito edipiano, predominará o superego materno e no menino, o superego paterno, embora conforme a cultura (patriarcal ou matriarcal) o pai ou a mãe assume o papel na formação do superego de ambos os sexos.
+
+>[!important] O su
 
 **COMO:**
 
