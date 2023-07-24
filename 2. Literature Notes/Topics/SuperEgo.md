@@ -39,8 +39,14 @@ Com a prática, é possível dominar o superego, ao mostrar para ele que você e
 
 Na teoria de Freud, o superego é o último componente da personalidade a se desenvolver:
 1. ID: você nasce com o id
-2. Ego: é sua personalidade desenvolvido a partir do ID
-3. Superego: você pega emprestado das pessoas importantes para você valores, regras e crenças.
+2. Ego: é sua personalidade desenvolvido a partir do ID, começa a se desenvolver durante os 3 primeiros anos de vida da criança
+3. Superego: você pega emprestado das pessoas importantes para você valores, regras e crenças, começa a surgir, com toda a força desde os 6 anos.
+
+O superego para Freud pode ser dividido em dois componentes: o ideal de ego e a consciência.
+- Ideal de ego: composto de todas as regras de bom comportamento, te fazendo acreditar que você *tem que ___*. [[Ninguém tem que porra nenhuma]].
+	- quando nos envolvemos em ações que estejam em conformidade com o ideal de ego, que é o próprio superego, nos sentimos bem sobre nós mesmos e orgulhosos de nossas realizações.
+- consciência: é composta das regras pelas quais determinados comportamentos são considerados ruins pela sociedade em que vivemos.
+	- quando fazemos coisas que a nossa consciência considera ruins, nós experimentamos sentimentos de culpa.
 
 **5 FUNÇÕES:**
 1. Auto-observação;

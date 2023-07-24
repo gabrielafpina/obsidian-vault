@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "e17eb955ecf45d00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "d08a00c18d134070",
             "type": "leaf",
             "state": {
@@ -244,8 +252,8 @@
   },
   "active": "68260f2e1e010d86",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/SuperEgo.md",
+    "2. Literature Notes/Topics/Técnica de reestruturação.md",
     "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
