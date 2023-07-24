@@ -97,7 +97,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,18 +251,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68260f2e1e010d86",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/SuperEgo.md",
     "2. Literature Notes/Topics/Técnica de reestruturação.md",
-    "2. Literature Notes/Topics/Ego.md",
     "2. Literature Notes/Topics/Pare de tentar e você estará fazendo o seu melhor.md",
     "2. Literature Notes/Topics/Quem tenta não faz.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/De que forma o lado que eu olho influencia na minha memória?.md",
     "2. Literature Notes/Topics/Espelho reflexivo.md",
-    "Complexo de Electra.md",
-    "Complexo de Édipo.md",
+    "2. Literature Notes/Topics/Complexo de Electra.md",
+    "2. Literature Notes/Topics/Complexo de Édipo.md",
     "7. Creator/Reels/Pare de pedir desculpa.md",
     "7. Creator/Reels/Lobo divino x Lobo.md",
     "7. Creator/Reels/História Abraham Lincoln.md",

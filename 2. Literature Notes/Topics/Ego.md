@@ -17,6 +17,7 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 
 **PENSADORES:**
 - [[Sigmund Freud]]: para Freud, o ego é o fiel representante do eu e é quem está mais no controle da nossa mente, se comparado com o [[ID]] e com o [[SuperEgo]]. No entanto, ele acaba dando autonomia para o superego muitas vezes, que acaba ficando no comando de tudo.
+	- O ego estaria, então, sempre em uma corda bamba, entre as vontades do id e a moralidade do supergo.
 
 **FRASES:**
 

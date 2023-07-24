@@ -55,7 +55,14 @@ O superego para Freud pode ser dividido em dois componentes: o ideal de ego e a 
 4. Influência principal na repressão;
 5. Exaltação dos ideais.
 
-**PENSADORES:**
+**METAS DO SUPEREGO:**
+A ação principal do superego, segundo freud, é suprimir inteiramente quaisquer impulsos ou desejos do id que são considerados errados ou socialmente inaceitáveis.
+
+Se esforça pela perfeição moral, sem levar em conta a realidade.
+
+O superego está presente em todos os 3 níveis da consciência. Devido a isso, às vezes podemos sentir culpa sem entender exatamente o motivo.
+
+Quando o superego atua na mente consciente, estamos conscientes dos nossos sentimentos resultantes. Se, no entanto, o superego age inconscientemente para punir ou reprimir o id, podemos acabar com sentimentos de culpa e sem compreensão real do porque nos sentimos assim.
 
 **FRASES:**
 
@@ -71,6 +78,7 @@ O superego para Freud pode ser dividido em dois componentes: o ideal de ego e a 
 - [[teoria dos mecanismos de defesa]]
 - [[2ª Teoria do Aparelho Psíquico]]
 - [[Transferências]]
+- [[Consciente e Inconsciente]]
 
 **Sul: para onde vai**
 - [[Cadeia Emocional]]
