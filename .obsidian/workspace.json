@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "APRENDER",
+                "query": "estudar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -339,10 +339,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "066cfba67795de58",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Mentalidade do Caçador.md",
+    "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
     "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
+    "2. Literature Notes/Topics/Mentalidade do Caçador.md",
     "2. Literature Notes/Topics/Círculo de Controle.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
@@ -367,7 +368,6 @@
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
     "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
     "2. Literature Notes/Topics/O que é a dúvida?.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
