@@ -124,6 +124,18 @@
             }
           },
           {
+            "id": "1eafa9ff04d99beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0825d39d99fef822",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "não me falta nada",
+                "query": "quais té",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md"
+                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md"
               }
             }
           },
@@ -347,8 +359,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "1eafa9ff04d99beb",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Doação.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "Meu Destino Preferido.md",
     "Eu-Paralelo-Preferido.md",
@@ -375,7 +388,6 @@
     "2. Literature Notes/Topics/Círculo de Controle.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
-    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
