@@ -34,6 +34,8 @@ Assim, você, agora é o passado do seu eu-paralelo. E o sue eu-paralelo é a su
 
 Entenda que todos os seus desejos genuínos já foram realizados pelo seu eu-paralelo preferido. Ou seja, tudo que você quer já aconteceu.
 
+Quando acessar tudo o que o seu eu-paralelo preferido já fez e que você quer se alinhar, você vai fazer o seguinte exercício: [[Meu Destino Preferido]]
+
 **COMO:**
 
 **PENSADORES:**
