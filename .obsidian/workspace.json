@@ -112,6 +112,18 @@
             }
           },
           {
+            "id": "b9e35e092383098e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0825d39d99fef822",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -247,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eu-Paralelo-Preferido.md",
+                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eu-Paralelo-Preferido.md",
+                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eu-Paralelo-Preferido.md"
+                "file": "2. Literature Notes/Topics/Só eu sou eu.md"
               }
             }
           },
@@ -335,12 +347,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bfc1ce760ed2907",
+  "active": "b9e35e092383098e",
   "lastOpenFiles": [
-    "Não tem como algo dar errado.md",
     "Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/Só eu sou eu.md",
     "Eu-Paralelo-Preferido.md",
+    "Não tem como algo dar errado.md",
+    "2. Literature Notes/Topics/Só eu sou eu.md",
     "O tempo é uma ilusão.md",
     "Tudo é energia.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
