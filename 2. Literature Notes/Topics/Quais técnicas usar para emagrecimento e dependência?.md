@@ -38,6 +38,8 @@ O mais importante aqui é que a pessoa precisa querer, porque se ela não quiser
 - [[Quais técnicas usar para emagrecimento e dependência?]]
 - [[Quais técnicas usar para TOC, Compulsão, gageira e déficit de atenção?]]
 - [[Quais técnicas usar para insegurança, medo, medo de dirigir, falar em público, opinião?]]
+- [[Quais técnicas usar para quem tem ansiedade e síndrome do pânico?]]
+- [[Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias]]
 
 **Leste: oposto**
 

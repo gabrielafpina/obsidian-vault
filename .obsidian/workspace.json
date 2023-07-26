@@ -136,6 +136,18 @@
             }
           },
           {
+            "id": "240d57424b52b407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0825d39d99fef822",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
+                "file": "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
+                "file": "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md"
+                "file": "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md"
               }
             }
           },
@@ -359,8 +371,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1eafa9ff04d99beb",
+  "active": "240d57424b52b407",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
+    "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "Meu Destino Preferido.md",
@@ -385,8 +399,6 @@
     "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
     "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
     "2. Literature Notes/Topics/Mentalidade do Caçador.md",
-    "2. Literature Notes/Topics/Círculo de Controle.md",
-    "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
