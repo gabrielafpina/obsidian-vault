@@ -5,6 +5,8 @@
 **ALERGIAS E INTOLERÂNCIA:** 
 Principalmente, quando a pessoa não tinha isso e desenvolveu, quando é psicossomática ([[Princípio Psicossomático]]):
 - [[Reimprint]]: sensação que a pessoa tem quando está tendo o ataque de energia
+- [[Como fazer hipnose?]]
+- [[Submodalidades]]
 
 **PSORÍASE:**
 - [[Reimprint]]: qual é o estado emocional que a pessoa vive quando está tendo os problemas de pele? colapso das âncoras
