@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doaçã",
+                "query": "não me falta nada",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -347,7 +347,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9e35e092383098e",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "Meu Destino Preferido.md",
