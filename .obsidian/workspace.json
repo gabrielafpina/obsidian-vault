@@ -4,143 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e5b500167a0870c1",
+        "id": "d70f87777a4e60d0",
         "type": "tabs",
         "children": [
           {
-            "id": "68260f2e1e010d86",
+            "id": "75b16df943ec91dd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7297b106c4b05a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/SuperEgo.md",
+                "file": "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "418e579f5531c4c6",
+            "id": "db5efd85be6649ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém.md",
+                "file": "Você vai receber aquilo que você tem fé de Verdade.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f4fd75887870514",
+            "id": "9b428c625d5965e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590deffb637b3901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "700630ad7eb4bfa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Círculo de Controle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25533441fcc14f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Mentalidade do Caçador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "066cfba67795de58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10394f41dc4396e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10a03e6ffe1bf71e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/você tem que concordar em se afetar pelo que o outro fala de você.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d08a00c18d134070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Técnica de reestruturação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92951ddb0c2249b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ego.md",
+                "file": "Thauã Morlin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oportunidade de",
+                "query": "fé ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
+                "file": "Thauã Morlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
+                "file": "Thauã Morlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md"
+                "file": "Thauã Morlin.md"
               }
             }
           },
@@ -339,10 +251,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "9b428c625d5965e4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
+    "Você vai receber aquilo que você tem fé de Verdade.md",
+    "Thauã Morlin.md",
+    "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
     "2. Literature Notes/Topics/Como funciona o consumo vertical e horizontal de informações?.md",
+    "2. Literature Notes/Topics/Como estudar de forma mais produtiva?.md",
     "2. Literature Notes/Topics/Mentalidade do Caçador.md",
     "2. Literature Notes/Topics/Círculo de Controle.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
@@ -365,9 +280,6 @@
     "7. Creator/Reels/História Abraham Lincoln.md",
     "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
     "7. Creator/Reels/A vida é como um rio.md",
-    "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
-    "2. Literature Notes/Topics/Você está criando definições que estão tornando mais difícil para você mudar.md",
-    "2. Literature Notes/Topics/O que é a dúvida?.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",

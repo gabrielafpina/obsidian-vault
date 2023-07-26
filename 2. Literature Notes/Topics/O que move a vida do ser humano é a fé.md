@@ -29,4 +29,5 @@ Tudo que você acredita, você materializa.
 - [[O meu nível de ser atrai a minha vida]]
 
 **Sul: para onde vai**
-- [[Quando eu acredito no meu coração, tudo que eu almejo se manifesta]]
+- [[Quando eu acredito no meu coração, tudo que eu almejo se manifesta
+- [[Você vai receber aquilo que você tem fé de Verdade]]]]
