@@ -8,195 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75b16df943ec91dd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7297b106c4b05a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db5efd85be6649ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você vai receber aquilo que você tem fé de Verdade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb8e187999a4e732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ao tomar consciência de algo que você faz, esse algo perde o seu poder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "503644dd4b702fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dee092426e59e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f6402d0f93a736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bfc1ce760ed2907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eu-Paralelo-Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d6eea305b49f067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meu Destino Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9e35e092383098e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Doação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eafa9ff04d99beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d43ee4e2ac42b808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a96d5e8cad454a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "240d57424b52b407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0825d39d99fef822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Não tem como algo dar errado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89acba0bd5f4364f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tudo é energia.md",
+                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consegue",
+                "query": "corres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -307,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
+                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
+                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md"
+                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md"
               }
             }
           },
@@ -397,6 +220,7 @@
   },
   "active": "5a96d5e8cad454a0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
@@ -422,7 +246,6 @@
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Psicanálise.md",
-    "2. Literature Notes/Topics/Ao tomar consciência de algo que você faz, esse algo perde o seu poder.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",

@@ -15,6 +15,8 @@ Existem planos fora dos nossos conhecimentos, mas quando lhe aplicamos o princí
 
 A matéria é um reflexo do outro plano. Uma pessoa que está com uma doença psicossomática, está doente por outros motivos também.
 
+>[!important] O que está fora é como o que está dentro.
+
 **COMO:**
 
 **PENSADORES:**
