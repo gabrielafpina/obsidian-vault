@@ -56,3 +56,4 @@ Você detecta as crenças a partir da auto observação. Começo a observar as �
 - [[Os 5 principais tipos de crenças]]
 - [[Tudo é uma escolha]]
 - [[Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma]]
+- [[5 Perguntas Fundamentais de Permissão]]
