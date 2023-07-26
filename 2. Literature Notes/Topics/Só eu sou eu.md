@@ -16,6 +16,7 @@ Não existe absolutamente ninguém como você no mundo. Com o seu jeito, trejeit
 ---------
 
 **Oeste: similar**
+- [[Só você veio para fazer o que você veio fazer]]
 
 **Leste: oposto**
 
