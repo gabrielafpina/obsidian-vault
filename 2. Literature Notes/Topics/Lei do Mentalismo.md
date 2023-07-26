@@ -45,3 +45,4 @@ Dedique um tempo todo dia para pensar e se observar. Para manifestar, é importa
 - [[Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá]]
 - [[Tudo é uma escolha]]
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
+- [[Eu-Paralelo-Preferido]]
