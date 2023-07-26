@@ -29,7 +29,10 @@ Agora, vamos partir para o próximo passo:
 
 Agora, sinta que você é o seu eu-paralelo e você está no passado. E o seu eu-paralelo está no futuro. Ele está vivendo no agora-futuro dele e você está vivendo no agora-passado seu. A única coisa que separa vocês dois é a vibração. O futuro tem uma vibração específica. [[Tudo é energia]]. E o futuro e o passado tem as suas vibrações específicas.
 
-Assim, você, agora é o passado do seu eu-paralelo. E o sue eu-paralelo é a sua versão futura que coexiste com a sua versão agora. Para a existência não existe um antes, durante e depois. Existe um eterno momento presente.
+Assim, você, agora é o passado do seu eu-paralelo. E o sue eu-paralelo é a sua versão futura que coexiste com a sua versão agora. Para a existência não existe um antes, durante e depois. Existe um eterno momento presente. Nesse sentido, o que eu devo fazer agora é me alinhar com a vibração do eu-preferido e começar a agir como ele.
+- Quais decisões você precisa fazer AGORA com os recursos disponíveis? O que você deve mudar agora para se alinhar com o seu eu-paralelo
+
+Entenda que todos os seus desejos genuínos já foram realizados pelo seu eu-paralelo preferido. Ou seja, tudo que você quer já aconteceu.
 
 **COMO:**
 

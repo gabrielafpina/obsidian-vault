@@ -9,6 +9,8 @@ Só existe o agora. Só existe o momento presente.
 
 Não existe existência a não ser agora. O agora é a única coisa que existe.
 
+Para a existência não existe um antes, durante e depois. Existe um eterno momento presente. A linearidade é uma ilusão.
+
 **COMO:**
 
 **PENSADORES:**
