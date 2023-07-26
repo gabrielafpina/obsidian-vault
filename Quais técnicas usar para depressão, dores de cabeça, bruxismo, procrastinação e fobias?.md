@@ -13,13 +13,24 @@
 	- Ter compromissos
 	- Fazer coisas que ela queira fazer com propósito
 
-**DEFINIÇÃO:**
+**DORES:**
+- [[Submodalidades]]
+- [[Como instalar uma âncora?]]
+- [[Reimprint]]
+- [[Como fazer hipnose?]]
 
-**COMO:**
+**BRUXISMO:**
+Tem a ver com [[estados emocionais]].
+- [[Reimprint]]
 
-**PENSADORES:**
+**PROCRASTINAÇÃO:**
+- [[Submodalidades]] com [[Sistema Swish]]: qual é a consequência negativa de não fazer agora? Descobrir a estratégia que ela usa para procrastinar e alterar
+- [[Como instalar uma âncora?]] para fazer agora
+- [[Reimprint]]
 
-**FRASES:**
+**FOBIAS:**
+- [[Trabalhando com Fobias]] alterando as [[Submodalidades]]
+- [[Reimprint]]
 
 ---------
 

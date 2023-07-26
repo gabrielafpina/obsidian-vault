@@ -41,7 +41,7 @@ O mais importante aqui é que a pessoa precisa querer, porque se ela não quiser
 - [[Quais técnicas usar para quem tem ansiedade e síndrome do pânico?]]
 - [[Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias]]
 - [[Quais técnicas usar para falar outro idioma, estudar, dar branco?]]
-- [[Quais técnicas usar para depressão, dores de cabeça, bruxismo e procrastinação?]]
+- [[Quais técnicas usar para depressão, dores de cabeça, bruxismo, procrastinação e fobias?]]
 
 **Leste: oposto**
 
