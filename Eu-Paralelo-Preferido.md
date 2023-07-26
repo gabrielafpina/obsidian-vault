@@ -36,6 +36,8 @@ Entenda que todos os seus desejos genuínos já foram realizados pelo seu eu-par
 
 Quando acessar tudo o que o seu eu-paralelo preferido já fez e que você quer se alinhar, você vai fazer o seguinte exercício: [[Meu Destino Preferido]]
 
+>[!important] Quando você não souber o que fazer, pode se perguntar: 'O que o meu eu-paralelo-preferido fez nessa situação? O que ele pensa sobre isso? Como ele lidou com isso?'
+
 **COMO:**
 
 **PENSADORES:**

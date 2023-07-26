@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Não tem como algo dar errado.md",
+                "file": "Eu-Paralelo-Preferido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Não tem como algo dar errado.md",
+                "file": "Eu-Paralelo-Preferido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Não tem como algo dar errado.md"
+                "file": "Eu-Paralelo-Preferido.md"
               }
             }
           },
@@ -335,10 +335,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0825d39d99fef822",
+  "active": "5bfc1ce760ed2907",
   "lastOpenFiles": [
-    "Meu Destino Preferido.md",
     "Não tem como algo dar errado.md",
+    "Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "Eu-Paralelo-Preferido.md",
     "O tempo é uma ilusão.md",
