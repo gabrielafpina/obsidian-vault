@@ -21,9 +21,17 @@ Assim **quanto mais você dá, mais recebe** porque mantém a abundância do uni
 
 Praticar a Lei da doação é muito simples. Se você quer alegria, dê alegria aos outros. Se você deseja amor, aprenda a dar amor. 
 
-Quanto mais dá, mais cresce a sua confiança nos efeitos milagrosos dessa lei. Quanto mais você recebe, mais cresce a capacidade de dar. A nossa verdadeira natureza é da riqueza e abundância. Nós somos naturalmente ricos porque a natureza supre todas as nossas necessidades e sustenta todos os nossos desejos. Nada nos falta porque nossa natureza essencial é da potencialidade pura e das possibilidades infinitas. [[Não me falta nada]].
+Quanto mais dá, mais cresce a sua confiança nos efeitos milagrosos dessa lei. Quanto mais você recebe, mais cresce a capacidade de dar. A nossa verdadeira natureza é da riqueza e abundância. Nós somos naturalmente ricos porque a natureza supre todas as nossas necessidades e sustenta todos os nossos desejos. Nada nos falta porque nossa natureza essencial é da potencialidade pura e das possibilidades infinitas. [[Não me falta nada]]. 
+
+Portanto, você precisa saber que já é inerentemente rico. Pouco importa quanto dinheiro tenha, porque a fonte da riqueza é o campo da potencialidade pura. [[Eu-Paralelo-Preferido]].
 
 **COMO:**
+Você pode colocar a lei da doação em movimento assumindo o compromisso de dar os seguintes passos:
+1. Dar um presente em todo lugar que for e a todos que encontrar
+	1. Esse presente poderá ser um cumprimento, uma flor, uma oração. Oferecer diariamente alguma coisa a todas as pessoas com as quais entrar em contato e estará assim desencadeando o processo de circulação de energia de alegria, de riquezas, de abundância na sua vida e na de outras pessoas.
+2. Receber agradecido e estar aberto para receber dos outros
+3. Assumir o compromisso de manter a riqueza circulando em sua vida dando e recebendo os mais preciosos presentes
+	1. Carinho, afeição, apreço, amor, desejar em silêncio felicidade e muita alegria toda vez que encontrar alguém.
 
 **PENSADORES:**
 
