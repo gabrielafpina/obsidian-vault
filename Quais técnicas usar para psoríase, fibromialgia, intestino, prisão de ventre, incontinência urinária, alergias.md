@@ -2,7 +2,9 @@
 
 **FONTE:** [[PNL]] [[Sam Jolen]]
 
-**BIG IDEA:** 
+**ALERGIAS E INTOLERÂNCIA:** 
+Principalmente, quando a pessoa não tinha isso e desenvolveu, quando é psicossomática ([[Princípio Psicossomático]]):
+- [[Reimprint]]: sensação que a pessoa tem quando está tendo o ataque de energia
 
 **PSORÍASE:**
 - [[Reimprint]]: qual é o estado emocional que a pessoa vive quando está tendo os problemas de pele? colapso das âncoras
@@ -10,12 +12,16 @@
 - [[Submodalidades]]: como a pessoa sabe que está em um momento de estresse? mudança de [[estados emocionais]]
 
 **FIBROMIALGIA:**
-- [[Reimprint]]
+- [[Reimprint]]: sensação de quando a pessoa está tendo a crise de dor, ou um pouco antes, volta até a origem de quando começou a sentir algo conectado com aquilo. Colapso das âncoras
 - [[crenças]] que a pessoa tem
+	- [[Como fazer hipnose?]] e [[Como fazer autohipnose?]]
 
-**PENSADORES:**
+**INTESTINO IRRITADO:**
+- [[Reimprint]]
 
-**FRASES:**
+**INCONTINÊNCIA URINÁRIA:**
+- [[Reimprint]] para adultos
+- [[Como fazer hipnose?]] para crianças, principalmente
 
 ---------
 
