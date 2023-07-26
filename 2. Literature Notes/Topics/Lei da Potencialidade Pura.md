@@ -32,6 +32,7 @@ Só no silêncio que você escuta Deus te da direcionamento. a verdade já está
 - [[O meu nível de ser atrai a minha vida]]
 - [[A paz é o meu estado natural]]
 - [[Mindfulness]]
+- [[O tempo é uma ilusão]]
 
 **Sul: para onde vai**
 - [[Fórmula do Entusiasmo]]

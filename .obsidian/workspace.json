@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24036ac7f8e79ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem pressa e sem pausa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb2e7d79b797abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lúcia Helena Galvão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35bebbe26ccf1661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corres",
+                "query": "tempo divino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
+                "file": "Sem pressa e sem pausa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md",
+                "file": "Sem pressa e sem pausa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Correspondência.md"
+                "file": "Sem pressa e sem pausa.md"
               }
             }
           },
@@ -218,8 +255,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a96d5e8cad454a0",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "Lúcia Helena Galvão.md",
+    "Sem pressa e sem pausa.md",
+    "2. Literature Notes/Topics/Princípio da Correspondência.md",
+    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
+    "O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
@@ -235,17 +277,12 @@
     "Meu Destino Preferido.md",
     "Eu-Paralelo-Preferido.md",
     "Não tem como algo dar errado.md",
-    "O tempo é uma ilusão.md",
     "Tudo é energia.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
     "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
-    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
-    "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
-    "2. Literature Notes/Topics/Psicanálise.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",

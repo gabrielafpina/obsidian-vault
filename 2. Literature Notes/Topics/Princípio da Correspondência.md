@@ -17,6 +17,8 @@ A matéria é um reflexo do outro plano. Uma pessoa que está com uma doença ps
 
 >[!important] O que está fora é como o que está dentro.
 
+Como eu faço uma coisa mostra como eu faço quase tudo na minha vida.
+
 **COMO:**
 
 **PENSADORES:**
@@ -36,3 +38,6 @@ A matéria é um reflexo do outro plano. Uma pessoa que está com uma doença ps
 **Sul: para onde vai**
 - [[Princípio Psicossomático]]
 - [[Não me falta nada]]
+- [[Lei da Doação]]
+- [[Lei da Potencialidade Pura]]
+- [[Sem pressa e sem pausa]]
