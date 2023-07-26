@@ -5,7 +5,9 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O universo opera por meio de trocas dinâmicas. Dar e receber são diferentes aspectos do fluxo da energia vital.
+Essa é a 2a lei espiritual do sucesso. Pode ser chamada de lei do dar e receber também.
+
+O universo opera por meio de trocas dinâmicas. Dar e receber são diferentes aspectos do fluxo da energia vital. Receber é o mesmo que dar, porque dar e receber são aspectos diferentes do flu
 
 Em nossa própria capacidade de dar tudo aquilo que almejamos, encontra-se a chave para atrair a abundância do universo - o fluxo da energia universal - para as nossas vidas.
 
