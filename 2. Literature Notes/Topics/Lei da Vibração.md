@@ -60,3 +60,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida]]
 - [[Você escolhe o que semeia, mas a colheita é obrigatória]]
 - [[Compreender é diferente de entender]]
+- [[Se doeu, pega que é seu]]
