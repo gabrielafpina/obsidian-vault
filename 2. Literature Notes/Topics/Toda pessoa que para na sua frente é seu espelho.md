@@ -11,6 +11,8 @@ Todas as pessoas que aparecem na sua frente, são o seu mestre, são apenas um e
 
 toda alma que para na minha frente tem algo muito sagrado para me ensinar. e eu aprendo se eu estou com a minha xícara vazia.
 
+Toda pessoa é um mestre, é um espelho de você com você mesmo.
+
 **COMO:**
 
 **PENSADORES:**
