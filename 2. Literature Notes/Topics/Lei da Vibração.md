@@ -11,13 +11,15 @@ Quando você está em um lugar, você será frequenciado por esse lugar. Quando 
 
 Todas as escolhas que você está fazendo geram sementes dentro de você. As suas escolhas te nutrem de amor, consciência, certezas, autoconfiança, auto acolhimento, [[Auto Observação]], ou elas estão te envenenando?
 
-Nada es´ta parado, tudo se move, tudo vibra.
+Nada está parado, tudo se move, tudo vibra.
 
-O movimento é manifestado em tudo no universo. Matéria e energia são a mesma coisa, sao um modo de movimento vibratório.
+O movimento é manifestado em tudo no universo. Matéria e energia são a mesma coisa (só estão em uma frequência diferente), são um modo de movimento vibratório. Com a minha mente eu tenho a capacidade de colapsar a função de alguma coisa e materializar o que eu quiser.
 
-Toda manifestaçãp do pensamento, emoção, vontade, raciocínio ou desejo ou qualquer condição ou estado mental são acompanhadas por vibrações, uma parte é descartada e tende a afetar a mente de outras pessoas por 'indução'.
+Toda manifestação do pensamento, emoção, vontade, raciocínio ou desejo ou qualquer condição ou estado mental são acompanhadas por vibrações (é energia vibrando), uma parte é descartada e tende a afetar a mente de outras pessoas por 'indução'.
 
 Aquele que compreende o princípio da vibração está de posse do cetro de poder. Ou seja, se você começou a fazer um trabalho sobre si e reconhece que esse é o sue único poder, você começa a refletir sobre a vibração que você quer para a sua vida e, consequentemente, assume o seu lugar de adulta no mundo, se empoderando e sintonizando a vibração que você quer.
+
+Você é o responsável por criar as suas referências de [[crenças]] e se você não faz isso, você passa a fazer parte do campo vibracional de pessoas que não são despertas.
 
 **COMO:**
 
