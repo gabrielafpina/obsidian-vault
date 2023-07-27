@@ -5,14 +5,9 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-'O que for a profundeza do teu Ser, assim será o teu desejo.
-O que for o teu desejo, assim será a tua vontade.
-O que for a tua vontade, assim serão os teus atos.
-O que forem os teus atos, assim será o teu destino.'
-
 [[O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso.]]
 
-Quanto mais profunda eu sou, mais a minha vida dá certo. O poder do autoconhecimento é muito poderoso, por isso que está dentro.
+
 
 **COMO:**
 
@@ -40,3 +35,4 @@ Quanto mais profunda eu sou, mais a minha vida dá certo. O poder do autoconheci
 - [[A Verdadeira vontade que existe é a do seu coração]]
 - [[Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino]]
 - [[Escolha estar presente nesse evento, que é o aqui e o agora]]
+- [[Tudo é energia]]

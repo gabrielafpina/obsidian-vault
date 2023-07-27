@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Tudo é vibração.
 
 **COMO:**
 
@@ -19,5 +20,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Lei da Vibração]]
 
 **Sul: para onde vai**
