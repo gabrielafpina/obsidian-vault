@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 [[O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso.]]
 
-
+Quando você está em um lugar, você será frequenciado por esse lugar. Quando você está ao redor de determinadas pessoas, você será frequenciado por essas pessoas. O que você está fazendo com a sua consciência?
 
 **COMO:**
 
