@@ -51,5 +51,5 @@ Um dos grandes segredos aqui é o processo de dissociação.
 - [[Consciente e Inconsciente]]
 
 **Sul: para onde vai**
-- [[Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino]]
+- [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]
 - [[Como controlar o seu diálogo interno?]]

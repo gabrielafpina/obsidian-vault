@@ -83,8 +83,12 @@
             "id": "2e22da7285764062",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -299,7 +303,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#build",
+                "query": "inconsciente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -391,6 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,6 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -428,7 +434,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md"
+              }
             }
           },
           {
@@ -475,7 +483,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "2e22da7285764062",
   "lastOpenFiles": [
     "Pirâmide do Sucesso.md",
     "WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

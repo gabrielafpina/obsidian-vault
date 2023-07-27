@@ -38,4 +38,4 @@ Existem 3 tipos de pessoas e como elas funcionam:
 **Sul: para onde vai**
 - [[É inteligente dar somente para quem pede]]
 - [[Existem 4 lugares proibidos]]
-- [[Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino]]
+- [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]

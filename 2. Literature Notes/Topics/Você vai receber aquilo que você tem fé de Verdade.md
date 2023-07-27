@@ -30,7 +30,7 @@
 - [[Você não é os seus pensamentos]]
 
 **Sul: para onde vai**
-- [[Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino]]
+- [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]
 - [[Você está disposto a abandonar tudo que te adoeceu?]]
 - [[Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?]]
 - [[Ao tomar consciência de algo que você faz, esse algo perde o seu poder]]

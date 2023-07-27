@@ -53,7 +53,7 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Existem 4 lugares proibidos]]
 - [[A sua intenção serve o sue coração ou a sua ganância?]]
 - [[A Verdadeira vontade que existe é a do seu coração]]
-- [[Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino]]
+- [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]
 - [[Escolha estar presente nesse evento, que é o aqui e o agora]]
 - [[Tudo é energia]]
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
