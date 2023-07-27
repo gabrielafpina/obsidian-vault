@@ -27,3 +27,4 @@ Reflita: você está entrando no lugar de salvador? Ou está ouvindo o seu cora�
 
 **Sul: para onde vai**
 - [[A sua intenção serve o sue coração ou a sua ganância?]]
+- [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]]

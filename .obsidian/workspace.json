@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "f36f87f1fc6e2a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7366e6c528290127",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia.md",
+                "file": "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia.md",
+                "file": "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia.md"
+                "file": "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md"
               }
             }
           },
@@ -364,12 +376,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "f36f87f1fc6e2a75",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Vibração.md",
-    "2. Literature Notes/Topics/Tudo é energia.md",
-    "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
     "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
+    "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
+    "2. Literature Notes/Topics/Tudo é energia.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
     "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
     "2. Literature Notes/Topics/Não normalize dor, não é normal ter dor.md",
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
@@ -391,7 +404,6 @@
     "2. Literature Notes/Topics/SPIN.md",
     "2. Literature Notes/Topics/Quais técnicas usar para emagrecimento e dependência?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para falar outro idioma, estudar, dar branco?.md",
-    "2. Literature Notes/Topics/Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
