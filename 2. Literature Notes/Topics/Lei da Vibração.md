@@ -57,3 +57,4 @@ Você é o responsável por criar as suas referências de [[crenças]] e se voc�
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
 - [[O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida]]
 - [[Você escolhe o que semeia, mas a colheita é obrigatória]]
+- [[Compreender é diferente de entender]]
