@@ -11,8 +11,8 @@
 3. **Ausência de idealização e planejamento:** a pessoa não planeja nada, não pensa e não percebe que está repetindo padrões antigos da sua família. Não esta em estado de presença para observar. [[Você está pensando ou você está sendo pensado?]] Você repete padrões da referência que você não criou. [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]]. Você não tem nenhum ideal de vida e permanece frustrado. [[Toda frustração é uma desconexão do coração]].
 4. **Inconsciência das leis universais:** ninguém nunca ouviu falar das leis do [[Caibalion]] e [[As 7 Leis Espirituais do Sucesso]]. 
 5. **Ausência de diálogos construtivos e comunicação transparente:** se você não é quem você é, significa que você não é adulto e você merece o que está acontecendo na sua vida. [[Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança]]. 
-6. **Inconsciência de valores:** tem gente que nem sabe quais são seus valores de vida. [[Você está pensando ou você está sendo pensado?]]. [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]]. Descubra quais são os valores que vibram no seu coração e viva eles, porque esses valores são só seus.
-7. **Ausência de autoconhecimento:** 
+6. **Inconsciência de valores:** tem gente que nem sabe quais são seus valores de vida. [[Você está pensando ou você está sendo pensado?]]. [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]]. Descubra quais são os valores que vibram no seu coração e viva por eles, porque esses valores são só seus. 
+7. **Ausência de autoconhecimento:** [[O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso.]] 
 
 **COMO:**
 
