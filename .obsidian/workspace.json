@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "55dbb425fa168412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toda frustração é uma desconexão do coração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d274857c6f7ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pirâmide da Frustração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bcdf5856c2391585",
             "type": "leaf",
             "state": {
@@ -272,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -384,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "Pirâmide da Frustração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "Pirâmide da Frustração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -424,7 +448,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
+                "file": "Pirâmide da Frustração.md"
               }
             }
           },
@@ -472,14 +496,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9b64298d72dc4da",
+  "active": "c7d274857c6f7ed7",
   "lastOpenFiles": [
+    "WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
+    "Toda frustração é uma desconexão do coração.md",
+    "Pirâmide da Frustração.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
     "2. Literature Notes/Topics/Se você não está milionário ainda, é porque você está se divertindo pouco.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/Compreender é diferente de entender.md",
@@ -497,9 +524,6 @@
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "2. Literature Notes/Readwise/Books/Caibalion.md",
-    "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
-    "2. Literature Notes/Topics/Sem pressa e sem pausa.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",

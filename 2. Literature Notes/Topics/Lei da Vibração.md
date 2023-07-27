@@ -62,3 +62,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Compreender é diferente de entender]]
 - [[Se doeu, pega que é seu]]
 - [[Se você não está milionário ainda, é porque você está se divertindo pouco]]
+- [[Toda frustração é uma desconexão do coração]]
