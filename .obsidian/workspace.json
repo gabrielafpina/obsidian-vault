@@ -296,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -315,7 +315,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "justificativa",
+                "query": "criança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -407,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md"
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md"
               }
             }
           },
@@ -495,10 +495,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "c7d274857c6f7ed7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
+    "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "Untitled.md",
     "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
     "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
