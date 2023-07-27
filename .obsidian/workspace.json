@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +238,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
+              }
             }
           },
           {
@@ -284,10 +287,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75ecbccdb697e293",
+  "active": "5a96d5e8cad454a0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
+    "2. Literature Notes/Readwise/Books/Caibalion.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
+    "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
     "2. Literature Notes/Topics/Tudo é energia.md",
     "2. Literature Notes/Topics/Sem pressa e sem pausa.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
@@ -311,7 +315,6 @@
     "2. Literature Notes/Topics/Não tem como algo dar errado.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
-    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
