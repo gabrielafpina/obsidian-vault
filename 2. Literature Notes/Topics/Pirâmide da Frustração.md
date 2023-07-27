@@ -23,6 +23,7 @@
 ---------
 
 **Oeste: similar**
+- [[As 3 leis do trabalho]]
 
 **Leste: oposto**
 
@@ -35,3 +36,5 @@
 - [[Lei da Doação]]
 - [[Lei da Potencialidade Pura]]
 - [[Existem 4 lugares proibidos]]
+- [[O único trabalho verdadeiro é o trabalho sobre si]]
+- [[Observação não tem julgamento]]
