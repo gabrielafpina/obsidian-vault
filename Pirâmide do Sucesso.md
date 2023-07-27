@@ -10,7 +10,9 @@ O que é a sua referência de sucesso? Você está criando a sua referência de 
 
 1. **Sem sucesso:** quem não tem sucesso não questiona nada. Tá tudo uma merda, mas não questiona porque está fazendo o que está fazendo. Continua na merda. É a pessoa que está vendo a merda feder e não questiona como ela pode colocar o cocô no lixo.
 2. **Pouco sucesso:** começa a questionar, mas questiona mal. 'Ruim com, pior sem'. Pessoa que se compara com quem também não vive o sucesso. Pessoa que questiona mal o sucesso. Tá ruim e se compara com quem está no bueiro.
-3. **Sucesso:** é quando ela começa a se questionar sobre o que é sucesso para ele em todas as áreas da vida. 'Como eu faço para ser mais '
+3. **Sucesso:** é quando ela começa a se questionar sobre o que é sucesso para ele em todas as áreas da vida. 'Como eu faço para ser mais próspera/feliz/consciente/etc?'. Elas começam a se questionar bem quando observam que existem muitas pessoas que vivem felizes, prósperas, que são felizes nos seus trabalhos, vê que tem gente que já está vivendo a sua referência de sucesso;
+4. **Sucesso extraordinário:** são super-questionadores: 'Será que existe alguém que trabalha 2x na semana e ganha 200k reais por mês? Como eu faço para fazer isso? Será que eu mereço?'.
+
 **COMO:**
 
 **PENSADORES:**
