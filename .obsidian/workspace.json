@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "914b492132c3e971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pirâmide da Realização Consciente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a5031f3076db4a4",
             "type": "leaf",
             "state": {
@@ -308,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -419,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+                "file": "Pirâmide da Realização Consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +448,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+                "file": "Pirâmide da Realização Consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -459,7 +471,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md"
+                "file": "Pirâmide da Realização Consciente.md"
               }
             }
           },
@@ -507,12 +519,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7d274857c6f7ed7",
+  "active": "914b492132c3e971",
   "lastOpenFiles": [
+    "WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
+    "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+    "Pirâmide da Realização Consciente.md",
     "Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "Diferente não é melhor e não é pior, é diferente.md",
     "Observação não tem julgamento.md",
-    "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
     "Untitled.md",
@@ -534,8 +548,6 @@
     "2. Literature Notes/Topics/Não normalize dor, não é normal ter dor.md",
     "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
     "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
-    "2. Literature Notes/Topics/Tudo é energia.md",
-    "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
