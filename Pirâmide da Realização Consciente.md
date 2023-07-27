@@ -12,7 +12,7 @@
 4. **Prática consciente e diária das leis universais:**
 5. **Diálogos construtivos, empáticos e comunicação transparente:** decide viver por uma [[Comunicação Não-Violenta (CNV)]];
 6. **Consciência e vivência diária dos próprios valores:**
-7. **Autoconhecimento a flor da pele, vive de acordo com a essência e com os seus pontos fortes:** 
+7. **Autoconhecimento a flor da pele, vive de acordo com a essência e com os seus pontos fortes:** crie as suas referências. [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]].
 
 **COMO:**
 
@@ -27,5 +27,7 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Só eu sou eu]]
 
 **Sul: para onde vai**
+- [[Não desenvolva os seus pontos fracos]]
