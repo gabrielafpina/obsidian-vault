@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "51fdb5248c77d6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6b2438f25083ffb8",
             "type": "leaf",
             "state": {
@@ -110,30 +122,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deca121048147081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "add45d6efc095de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -431,7 +419,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diferente não é melhor e não é pior, é diferente.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -448,7 +436,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diferente não é melhor e não é pior, é diferente.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -471,7 +459,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diferente não é melhor e não é pior, é diferente.md"
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md"
               }
             }
           },
@@ -519,10 +507,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "c7d274857c6f7ed7",
   "lastOpenFiles": [
-    "Observação não tem julgamento.md",
+    "Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "Diferente não é melhor e não é pior, é diferente.md",
+    "Observação não tem julgamento.md",
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
@@ -547,7 +536,6 @@
     "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
     "2. Literature Notes/Topics/Tudo é energia.md",
     "2. Literature Notes/Topics/Quais são os níveis de crenças existentes?.md",
-    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",

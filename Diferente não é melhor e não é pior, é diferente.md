@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-O outro não é melhor e nem pior do que eu, ele apenas é diferente. Ele pode ter valores diferentes dos meus. Isso apenas significa que ele é diferente.
+O outro não é melhor e nem pior do que eu, ele apenas é diferente. Ele pode ter valores diferentes dos meus. Isso apenas significa que ele é diferente. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]. 
 
 
 **COMO:**

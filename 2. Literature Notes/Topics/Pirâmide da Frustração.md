@@ -24,6 +24,7 @@
 
 **Oeste: similar**
 - [[As 3 leis do trabalho]]
+- [[Pirâmide da Realização Consciente]]
 
 **Leste: oposto**
 
