@@ -29,3 +29,4 @@ Ouça o seu coração.
 - [[O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso.]]
 - [[Quando eu acredito no meu coração, tudo que eu almejo se manifesta]]
 - [[A Verdadeira vontade que existe é a do seu coração]]
+- [[Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano]]
