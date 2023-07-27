@@ -15,6 +15,10 @@ Você escolhe quem chega na sua vida. Quem entra e quem permanece. Se chegou uma
 
 >[!important] Crie a sua referência de realidade.
 
+Você escolhe o que você coloca para dentro. Quanto mais você cria as suas referências, mais você atrai as pessoas que chegam ao seu campo. [[A gente atrai o que a gente vibra]].
+
+É inteligente que você sintonize a sua frequência.
+
 **COMO:**
 
 **PENSADORES:**
@@ -34,3 +38,4 @@ Você escolhe quem chega na sua vida. Quem entra e quem permanece. Se chegou uma
 - [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]
 
 **Sul: para onde vai**
+- [[Como eu descubro a frequência de algo?]]
