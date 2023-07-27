@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei da Vibração.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8efa39a11e3d6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Verdadeira vontade que existe é a do seu coração.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3b1cc064ba391b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não normalize dor, não é normal ter dor.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intenção",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,7 +206,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -247,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "A Verdadeira vontade que existe é a do seu coração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "A Verdadeira vontade que existe é a do seu coração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A sua intenção serve o sue coração ou a sua ganância?.md"
+                "file": "A Verdadeira vontade que existe é a do seu coração.md"
               }
             }
           },
@@ -335,11 +360,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7366e6c528290127",
+  "active": "c8efa39a11e3d6dc",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "A Verdadeira vontade que existe é a do seu coração.md",
+    "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+    "2. Literature Notes/Topics/Não normalize dor, não é normal ter dor.md",
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
-    "A sua intenção serve o sue coração ou a sua ganância?.md",
-    "Lei da Vibração.md",
     "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Readwise/Books/Caibalion.md",
@@ -361,8 +388,6 @@
     "2. Literature Notes/Topics/Quais técnicas usar para falar outro idioma, estudar, dar branco?.md",
     "2. Literature Notes/Topics/Quais técnicas usar para psoríase, fibromialgia, intestino, prisão de ventre, incontinência urinária, alergias.md",
     "2. Literature Notes/Topics/Lei da Doação.md",
-    "2. Literature Notes/Topics/Só eu sou eu.md",
-    "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
