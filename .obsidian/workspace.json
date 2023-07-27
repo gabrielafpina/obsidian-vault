@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toda frustração é uma desconexão do coração.md",
+                "file": "2. Literature Notes/Topics/Toda frustração é uma desconexão do coração.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pirâmide da Frustração.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b2438f25083ffb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
+                "file": "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -303,7 +315,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mestre",
+                "query": "justificativa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -330,8 +342,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -396,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pirâmide da Frustração.md",
+                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pirâmide da Frustração.md",
+                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -436,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pirâmide da Frustração.md"
+                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md"
               }
             }
           },
@@ -484,19 +495,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7d274857c6f7ed7",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+    "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
     "Untitled.md",
-    "Pirâmide da Frustração.md",
-    "Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
+    "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
     "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
     "2. Literature Notes/Topics/Se você não está milionário ainda, é porque você está se divertindo pouco.md",
-    "Toda frustração é uma desconexão do coração.md",
+    "2. Literature Notes/Topics/Toda frustração é uma desconexão do coração.md",
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
     "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
     "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
     "2. Literature Notes/Topics/Compreender é diferente de entender.md",
-    "WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
+    "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
@@ -512,7 +524,6 @@
     "2. Literature Notes/Topics/De onde vem as nossas crenças?.md",
     "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
     "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
-    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
