@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Não é porque o [[Inconsciente Coletivo]] tem [[crenças]] que são normalizadas que isso é normal. Todas as suas dores tem algo para te falar.
 
+[[Deus fez os seres humanos para serem 100% saudáveis]].
+
 **COMO:**
 
 **PENSADORES:**
