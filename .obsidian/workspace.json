@@ -80,6 +80,14 @@
             }
           },
           {
+            "id": "2e22da7285764062",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "e0e8c893e7c35a42",
             "type": "leaf",
             "state": {
@@ -272,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -291,7 +299,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -383,7 +391,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pirâmide do Sucesso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +407,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pirâmide do Sucesso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,9 +428,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pirâmide do Sucesso.md"
-              }
+              "state": {}
             }
           },
           {
@@ -471,11 +475,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21e5f502bc58358e",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "Pirâmide do Sucesso.md",
     "WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "Pirâmide da Realização Consciente.md",
-    "Pirâmide do Sucesso.md",
     "Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
     "Não desenvolva os seus pontos fracos.md",
     "Untitled.md",
@@ -515,7 +519,6 @@
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-06-20 às 17.42.55.png",
     "7. Creator/Products",
     "Kindle Highlights/Books",
     "Kindle Highlights",
