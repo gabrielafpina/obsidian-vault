@@ -13,6 +13,8 @@ não existe certo. não existe errado. existe a escolha de cada alma.
 
 nem mais, nem menos. sou eu. a vida não é uma competição. estamos aqui para evoluir juntos.
 
+[[Sem pressa e sem pausa]]
+
 **COMO:**
 
 **PENSADORES:**

@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f9b64298d72dc4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lei da Vibração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f557c2e13fbe9b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "24036ac7f8e79ca7",
             "type": "leaf",
             "state": {
@@ -87,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tempo divino",
+                "query": "não existe certo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,8 +158,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "file": "Lei da Vibração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "file": "Lei da Vibração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
+                "file": "Lei da Vibração.md"
               }
             }
           },
@@ -287,10 +311,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a96d5e8cad454a0",
+  "active": "f9b64298d72dc4da",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Caibalion.md",
+    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+    "Lei da Vibração.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
+    "2. Literature Notes/Readwise/Books/Caibalion.md",
     "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
     "2. Literature Notes/Topics/Tudo é energia.md",
     "2. Literature Notes/Topics/Sem pressa e sem pausa.md",
@@ -313,8 +339,6 @@
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Não tem como algo dar errado.md",
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
-    "2. Literature Notes/Topics/Como eu descubro a frequência de algo?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
