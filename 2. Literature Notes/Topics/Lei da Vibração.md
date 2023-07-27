@@ -42,6 +42,7 @@ Você é o responsável por criar as suas referências de [[crenças]] e se voc�
 - [[Lei da Potencialidade Pura]]
 - [[O único trabalho verdadeiro é o trabalho sobre si]]
 - [[Lei do Mentalismo]]
+- [[Mapa da Consciência]]
 
 **Sul: para onde vai**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
@@ -53,3 +54,4 @@ Você é o responsável por criar as suas referências de [[crenças]] e se voc�
 - [[Tudo é energia]]
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
 - [[O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida]]
+- [[Você escolhe o que semeia, mas a colheita é obrigatória]]
