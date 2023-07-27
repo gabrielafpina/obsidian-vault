@@ -8,6 +8,8 @@
 
 Todas as respostas da sua vida estão dentro do seu coração.
 
+A paz é o meu estado de poder. Sempre que eu quero tomar uma decisão poderosa, eu escolho encontrar a paz. Quando eu encontro a minha paz, posso tomar uma decisão poderosa. [[Tudo é uma escolha]].
+
 **COMO:**
 
 **PENSADORES:**

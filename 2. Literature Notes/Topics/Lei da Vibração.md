@@ -21,6 +21,7 @@ Aquele que compreende o princípio da vibração está de posse do cetro de pode
 
 Você é o responsável por criar as suas referências de [[crenças]] e se você não faz isso, você passa a fazer parte do campo vibracional de pessoas que não são despertas.
 
+Tudo só acontece quando você está na mesma frequência.
 
 **OBS:**
 432Hz é uma frequência de cura. É inteligente utilizá-la quando você estiver precisando se curar de alguma dor.
@@ -45,6 +46,7 @@ Você é o responsável por criar as suas referências de [[crenças]] e se voc�
 - [[O único trabalho verdadeiro é o trabalho sobre si]]
 - [[Lei do Mentalismo]]
 - [[Mapa da Consciência]]
+- [[A paz é o meu estado natural]]
 
 **Sul: para onde vai**
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]

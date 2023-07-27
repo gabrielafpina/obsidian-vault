@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "add45d6efc095de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cae4e52e2d68cba2",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compreender",
+                "query": "crenças",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compreender é diferente de entender.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compreender é diferente de entender.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compreender é diferente de entender.md"
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
               }
             }
           },
@@ -411,8 +423,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "f9b64298d72dc4da",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A paz é o meu estado natural.md",
+    "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "Compreender é diferente de entender.md",
     "Você escolhe o que semeia, mas a colheita é obrigatória.md",
@@ -437,8 +451,6 @@
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
-    "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
