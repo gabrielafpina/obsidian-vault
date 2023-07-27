@@ -32,12 +32,48 @@
             }
           },
           {
+            "id": "bcdf5856c2391585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você não está milionário ainda, é porque você está se divertindo pouco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc410952ec7e00b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Se doeu, pega que é seu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e66763de9ae66a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deca121048147081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -347,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se doeu, pega que é seu.md",
+                "file": "Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se doeu, pega que é seu.md",
+                "file": "Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se doeu, pega que é seu.md"
+                "file": "Você é o maior especialista em ensinar aos outros como você quer ser tratado.md"
               }
             }
           },
@@ -435,10 +471,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "3e66763de9ae66a3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "Se doeu, pega que é seu.md",
+    "Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
+    "Se você não está milionário ainda, é porque você está se divertindo pouco.md",
+    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/A paz é o meu estado natural.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "Compreender é diferente de entender.md",
@@ -460,9 +499,6 @@
     "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
     "2. Literature Notes/Topics/Sem pressa e sem pausa.md",
     "2. Literature Notes/Topics/Nos momentos difíceis, todos se viram pra Deus.md",
-    "2. Literature Notes/People/Lúcia Helena Galvão.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
