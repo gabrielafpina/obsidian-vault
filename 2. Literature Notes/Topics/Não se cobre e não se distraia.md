@@ -16,6 +16,7 @@ Não se cobre de fazer mais rápido do que você consegue, e também não se dis
 ---------
 
 **Oeste: similar**
+- [[Sem pressa e sem pausa]]
 
 **Leste: oposto**
 

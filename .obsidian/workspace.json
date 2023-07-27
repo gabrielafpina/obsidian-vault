@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d512466628922d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "01a6a30576805da8",
             "type": "leaf",
             "state": {
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "opcional",
+                "query": "não se cobre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -299,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Você escolhe o que semeia, mas a colheita é obrigatória.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Você escolhe o que semeia, mas a colheita é obrigatória.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Você escolhe o que semeia, mas a colheita é obrigatória.md"
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
               }
             }
           },
@@ -387,10 +399,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb2dfc047bad4ccf",
+  "active": "f9b64298d72dc4da",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "Você escolhe o que semeia, mas a colheita é obrigatória.md",
+    "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Não normalize dor, não é normal ter dor.md",
     "Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
     "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
@@ -414,7 +427,6 @@
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Até que eu me torne consciente, o inconsciente vai reger a minha vida e eu vou chamar isso de destino.md",
     "2. Literature Notes/Topics/Como aplicar o reimprint em mim mesma?.md",
-    "2. Literature Notes/Topics/Reimprint.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",

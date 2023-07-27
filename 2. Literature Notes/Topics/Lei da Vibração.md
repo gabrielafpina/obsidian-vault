@@ -21,7 +21,9 @@ Aquele que compreende o princípio da vibração está de posse do cetro de pode
 
 Você é o responsável por criar as suas referências de [[crenças]] e se você não faz isso, você passa a fazer parte do campo vibracional de pessoas que não são despertas.
 
-**COMO:**
+
+**OBS:**
+432Hz é uma frequência de cura. É inteligente utilizá-la quando você estiver precisando se curar de alguma dor.
 
 **PENSADORES:**
 
