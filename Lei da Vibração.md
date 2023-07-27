@@ -6,6 +6,7 @@
 
 **DEFINIÇÃO:**
 'O que for a profundeza do teu Ser, assim será o teu desejo.
+O que for o teu desejo, assim será a sua vontade.
 
 **COMO:**
 
@@ -22,5 +23,9 @@
 **Norte: ideia/pergunta**
 - [[O meu nível de ser atrai a minha vida]]
 - [[crenças]]
+- [[O amor é a cura]]
 
 **Sul: para onde vai**
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Existem 4 lugares proibidos]]
+- [[A sua intenção serve o sue coração ou a sua ganância?]]

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7366e6c528290127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e17524c90e8b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f557c2e13fbe9b74",
             "type": "leaf",
             "state": {
@@ -112,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "não existe certo",
+                "query": "intenção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei da Vibração.md",
+                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei da Vibração.md",
+                "file": "A sua intenção serve o sue coração ou a sua ganância?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei da Vibração.md"
+                "file": "A sua intenção serve o sue coração ou a sua ganância?.md"
               }
             }
           },
@@ -311,10 +335,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9b64298d72dc4da",
+  "active": "7366e6c528290127",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
+    "2. Literature Notes/Topics/Qual é a verdadeira intenção em querer prosperar?.md",
+    "A sua intenção serve o sue coração ou a sua ganância?.md",
     "Lei da Vibração.md",
+    "2. Literature Notes/Topics/Não existe nada rápido ou devagar.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Readwise/Books/Caibalion.md",
     "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
@@ -337,8 +363,6 @@
     "2. Literature Notes/Topics/Lei da Doação.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
-    "2. Literature Notes/Topics/Não tem como algo dar errado.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
