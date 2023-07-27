@@ -30,7 +30,7 @@ O espelho reflexivo não é um obstáculo mas, sim, uma oportunidade.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 - [[Tudo é uma escolha]]
 
 **Sul: para onde vai**

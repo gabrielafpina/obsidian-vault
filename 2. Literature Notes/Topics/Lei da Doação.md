@@ -40,7 +40,7 @@ Você pode colocar a lei da doação em movimento assumindo o compromisso de dar
 ---------
 
 **Oeste: similar**
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 
 **Leste: oposto**
 

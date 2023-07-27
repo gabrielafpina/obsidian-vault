@@ -47,7 +47,7 @@ Assim, a compreensão de que você não é seus pensamentos, mas o observador de
 
 **Norte: ideia/pergunta**
 - [[Tudo é uma escolha]]
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 
 **Sul: para onde vai**
 - [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]

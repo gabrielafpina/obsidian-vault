@@ -22,7 +22,7 @@
 
 **Norte: ideia/pergunta**
 - [[O micro é igual ao macro]]
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 - [[Lei do Mentalismo]]
 - [[Tudo é uma escolha]]
 - [[Crenças são como lâmpadas]]

@@ -30,7 +30,7 @@ O que eu faço no pouco, eu faço no muito. O jeito que você faz uma coisa, é 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 
 **Sul: para onde vai**
 - [[Oração da Verdade]]

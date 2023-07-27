@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Tudo acontece no tempo divino. [[Não me falta nada]].
+Tudo acontece no tempo divino. [[Não me falta nada]]. [[Não tem como algo dar errado]].
 
 Escolho continuar, sem pressa e também sem parar.
 

@@ -55,7 +55,7 @@ Quando acessar tudo o que o seu eu-paralelo preferido já fez e que você quer s
 - [[Mapa da Consciência]]
 - [[Pensamentos criam experiências futuras]]
 - [[Lei do Mentalismo]]
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 - [[O micro é igual ao macro]]
 - [[Tudo é uma escolha]]
 

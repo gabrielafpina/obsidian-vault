@@ -30,7 +30,7 @@ Por exemplo, se você tem muita raiva dentro de você (ou seja, "dados" de raiva
 
 **Norte: ideia/pergunta**
 - [[O meu nível de ser atrai a minha vida]]
-- [[Princípio da Correspondência]]
+- [[Lei da Correspondência]]
 - [[O micro é igual ao macro]]
 
 **Sul: para onde vai**

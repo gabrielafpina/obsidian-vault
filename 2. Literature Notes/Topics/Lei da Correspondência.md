@@ -19,6 +19,7 @@ A matéria é um reflexo do outro plano. Uma pessoa que está com uma doença ps
 
 Como eu faço uma coisa mostra como eu faço quase tudo na minha vida.
 
+
 **COMO:**
 
 **PENSADORES:**
