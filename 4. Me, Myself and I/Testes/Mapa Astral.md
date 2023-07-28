@@ -1,4 +1,5 @@
-Sol - Peixes - casa 5 - 24°57' 
+**Sol - Peixes - casa 5 - 24°57'**: Você é uma pessoa sensível, intuitiva e criativa. Sua expressão pessoal é marcada por uma forte imaginação e uma tendência a se envolver profundamente em suas paixões. Você tem uma conexão natural com as artes e pode ser atraída por carreiras criativas.
+
 Lua- Peixes - casa 5 - 1°18' 
 Mercúrio - Áries - casa 6 - 1°55' 
 Vênus - Áries - casa 6 - 27°4' 
@@ -10,4 +11,5 @@ Netuno - Aquário - casa 4 - 3°39'
 Plutão - Sagitário - casa 2 - 10°30' 
 Ascendente - Escorpião - casa 1 - 16°10' 
 Meio do Céu - Leão - casa 10 - 4°6' 
-Descendente - Touro - casa 7 - 16°10' Fundo do Céu - Aquário - casa 4 - 4°6'
+Descendente - Touro - casa 7 - 16°10' 
+Fundo do Céu - Aquário - casa 4 - 4°6'
