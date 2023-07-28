@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "d608fe5e6e433b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c672b91a9777b1d2",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 58.388625592417064,
+        "dimension": 81.04265402843602,
         "children": [
           {
             "id": "d26de7e0f938a340",
@@ -184,35 +196,15 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 41.61137440758294,
+        "dimension": 18.95734597156398,
         "children": [
-          {
-            "id": "2496bad57a073913",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "617ad52e9a7c6605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Canais Sensoriais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "34bc9bc63f694fbd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Resistência é uma bússola.md",
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Resistência é uma bússola.md",
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Resistência é uma bússola.md"
+                "file": "7. Creator/Reels/Lobo divino x Lobo.md"
               }
             }
           },
@@ -265,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -291,10 +283,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee92e31164fc5e7c",
+  "active": "d608fe5e6e433b1f",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
     "A Resistência é uma bússola.md",
+    "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
     "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/People/Vicky Zhao.md",
