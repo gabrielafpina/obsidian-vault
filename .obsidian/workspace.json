@@ -47,8 +47,12 @@
             "id": "92dddf7da0eff7d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -164,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md"
+              }
             }
           },
           {
@@ -250,6 +258,8 @@
   },
   "active": "92dddf7da0eff7d9",
   "lastOpenFiles": [
+    "2. Literature Notes/People/Vicky Zhao.md",
+    "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "2. Literature Notes/Topics/Como filtrar o conteúdo ideal para mim?.md",
     "2. Literature Notes/Topics/Má informação amplifica a sua ignorância.md",
@@ -277,8 +287,6 @@
     "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
     "2. Literature Notes/Topics/Se você não está milionário ainda, é porque você está se divertindo pouco.md",
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
-    "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
-    "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
