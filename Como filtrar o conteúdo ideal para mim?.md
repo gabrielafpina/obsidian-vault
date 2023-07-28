@@ -55,5 +55,8 @@ Aqui estão algumas perguntas chave que você pode se fazer para ajudar a filtra
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Mentalidade do Caçador]]
+- [[Má informação amplifica a sua ignorância]]
+- [["O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros".]]
 
 **Sul: para onde vai**

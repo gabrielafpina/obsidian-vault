@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
+                "file": "Como filtrar o conteúdo ideal para mim?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
+                "file": "Como filtrar o conteúdo ideal para mim?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md"
+                "file": "Como filtrar o conteúdo ideal para mim?.md"
               }
             }
           },
@@ -242,12 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2db3046913a807fe",
+  "active": "b16a0fac7ca8eba7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Sexo de Ideias.md",
-    "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
-    "Como filtrar o conteúdo ideal para mim?.md",
     "2. Literature Notes/Topics/Má informação amplifica a sua ignorância.md",
+    "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
+    "2. Literature Notes/Topics/Sexo de Ideias.md",
+    "Como filtrar o conteúdo ideal para mim?.md",
     "4. Me, Myself and I/Testes/Numerologia 2023.md",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
