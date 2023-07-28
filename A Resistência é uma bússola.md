@@ -33,6 +33,6 @@ Mas, e se, ao invés de fugir do lobo, nós o encarássemos? E se, ao invés de 
 - [[Só eu sou eu]]
 - [[Só você veio para fazer o que você veio fazer]]
 - [[Ego]]
-- [[Lobo divino x Lobo]]
+- [[Lobo divino x Lobo selvagem]]
 
 **Sul: para onde vai**

@@ -40,7 +40,7 @@ Assim, a compreensão de que você não é seus pensamentos, mas o observador de
 ---------
 
 **Oeste: similar**
-- [[Lobo divino x Lobo]]
+- [[Lobo divino x Lobo selvagem]]
 - [[Você está pensando ou você está sendo pensado?]]
 
 **Leste: oposto**
