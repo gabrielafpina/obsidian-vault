@@ -169,9 +169,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "f86c735e844ed812",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7f0480c584097b69",
@@ -249,14 +257,6 @@
             }
           },
           {
-            "id": "f86c735e844ed812",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {}
-            }
-          },
-          {
             "id": "97134def2c638959",
             "type": "leaf",
             "state": {
@@ -265,12 +265,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {

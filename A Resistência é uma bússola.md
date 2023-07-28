@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Aquilo que a resistência mais te impede de fazer deve ser a melhor coisa que você tem pra fazer na vida. Ela é uma bússola. Sabe aquilo que você vem enrolando? Faça.
 
+A resistência tem como principal arma o medo. Ela usa o medo para te manipular e te parar. Ao mesmo tempo, podemos olhar isso como um guia. Se você está ouvindo essa voz querendo te parar, pode ser que lá é o lugar que você deve ir.
+
 **COMO:**
 
 **PENSADORES:**
