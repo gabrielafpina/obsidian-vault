@@ -29,3 +29,4 @@ Portanto, é crucial que sejamos seletivos em relação às fontes de informaç�
 
 **Sul: para onde vai**
 - [["O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros".]]
+- [[Como filtrar o conteúdo ideal para mim?]]
