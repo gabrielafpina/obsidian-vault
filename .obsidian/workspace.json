@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "d5b07691e43f6c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e0e8c893e7c35a42",
             "type": "leaf",
             "state": {
@@ -296,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -408,7 +420,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +437,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -448,7 +460,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Mapa Astral.md"
+                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md"
               }
             }
           },
@@ -496,10 +508,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da8c8b015649c4f8",
+  "active": "d5b07691e43f6c2c",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
+    "4. Me, Myself and I/Testes/Numerologia 2023.md",
+    "4. Me, Myself and I/Testes/Cronotipo.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "Pirâmide do Sucesso.md",
     "WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
@@ -525,8 +539,6 @@
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
-    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
-    "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
