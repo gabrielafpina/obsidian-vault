@@ -327,7 +327,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inconsciente",
+                "query": "vert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -354,8 +354,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -508,7 +507,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5b07691e43f6c2c",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
