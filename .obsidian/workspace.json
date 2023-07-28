@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "da8c8b015649c4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e0e8c893e7c35a42",
             "type": "leaf",
             "state": {
@@ -284,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -330,7 +342,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -395,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
+                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
+                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +448,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md"
+                "file": "4. Me, Myself and I/Testes/Mapa Astral.md"
               }
             }
           },
@@ -483,8 +496,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e22da7285764062",
+  "active": "da8c8b015649c4f8",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "4. Me, Myself and I/Testes/Mapa Astral.md",
+    "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "Pirâmide do Sucesso.md",
     "WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "Pirâmide da Realização Consciente.md",
@@ -511,8 +527,6 @@
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/A porta só abre pelo lado de dentro.md",
-    "2. Literature Notes/Topics/A paz é o meu estado natural.md",
-    "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
