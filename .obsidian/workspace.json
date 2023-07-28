@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee92e31164fc5e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Resistência é uma bússola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c672b91a9777b1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -180,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "A Resistência é uma bússola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "A Resistência é uma bússola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md"
+                "file": "A Resistência é uma bússola.md"
               }
             }
           },
@@ -268,10 +292,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c92de441dd52b4aa",
+  "active": "ee92e31164fc5e7c",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
+    "A Resistência é uma bússola.md",
+    "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "2. Literature Notes/People/Alan Nicolas.md",
-    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/People/Vicky Zhao.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "2. Literature Notes/Topics/Como filtrar o conteúdo ideal para mim?.md",
@@ -297,8 +323,6 @@
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
     "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
-    "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
-    "2. Literature Notes/Topics/Se você não está milionário ainda, é porque você está se divertindo pouco.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
