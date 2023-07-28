@@ -20,6 +20,19 @@ Dada a sua natureidade assertiva e líder (Mercúrio, Vênus e Júpiter em Árie
 
 No entanto, você também deve estar ciente do potencial para a impulsividade e a inquietação durante esse tempo. Tente manter um equilíbrio entre a aventura e a estabilidade e lembre-se de cuidar de si mesma e dos outros.
 
+-------
+### Ano de 2024
+Minha numerologia do ano que vem é o número 8. O número 8 na numerologia é frequentemente associado à vitória, superação e prosperidade. Ele representa o equilíbrio e a mediação entre dois polos distintos. Além disso, o número 8 é conhecido por sua ligação com a confiança, a extroversão, a justiça, o renascimento, a renovação e a regeneração. Ele também simboliza a habilidade de gerir bem o dinheiro e a capacidade de lidar com questões complexas.
+
+Para se preparar para o ano de 2024, que está sob a influência do número 8, você pode considerar as seguintes ações:
+1. **Desenvolver habilidades de gestão financeira**: Como o número 8 está associado à gestão de dinheiro, este pode ser um bom momento para aprender mais sobre finanças pessoais, investimentos e planejamento financeiro. Isso pode ajudá-la a alcançar a prosperidade financeira que o número 8 promete.
+    
+2. **Focar em superação e crescimento pessoal**: O número 8 também está associado à superação. Isso pode ser um bom momento para enfrentar quaisquer desafios ou obstáculos que estejam impedindo seu progresso. Isso pode envolver trabalhar em seus pontos fracos identificados em seu mapa astral, como a necessidade de estabilidade emocional e a capacidade de lidar com a incerteza.
+    
+3. **Buscar equilíbrio**: O número 8 simboliza o equilíbrio. Isso pode ser um bom momento para se concentrar em encontrar um equilíbrio em todas as áreas da sua vida, seja entre trabalho e lazer, dar e receber, ou falar e ouvir. Isso pode envolver a prática de mindfulness ou outras técnicas de equilíbrio.
+    
+4. **Praticar a autoconfiança**: O número 8 também está associado à autoconfiança. Isso pode ser um bom momento para trabalhar em sua autoestima e confiança. Isso pode envolver a prática de afirmações positivas, a busca de feedback construtivo ou a realização de atividades que a façam se sentir competente e capaz.
+
 --------
 
 ![[FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png]]
