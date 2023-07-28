@@ -48,7 +48,7 @@
 - Assuntos: Educação, Filosofia, Ciência, Tecnologia, Negócios.
 
 - Idioma: Inglês
-
+ 
 - Indicado: Para quem está interessado em aprender com líderes de pensamento em várias disciplinas.
 
 5. **[[Vicky Zhao]] [BEEAMP]**
