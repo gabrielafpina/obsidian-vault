@@ -8,307 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a96d5e8cad454a0",
+            "id": "2db3046913a807fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9b64298d72dc4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55dbb425fa168412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Toda frustração é uma desconexão do coração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7d274857c6f7ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "914b492132c3e971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pirâmide da Realização Consciente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e5f502bc58358e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pirâmide do Sucesso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e22da7285764062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8c8b015649c4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Mapa Astral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5b07691e43f6c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0e8c893e7c35a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Não desenvolva os seus pontos fracos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b023274d266215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a5031f3076db4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Observação não tem julgamento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a26b94f406eb78f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diferente não é melhor e não é pior, é diferente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51fdb5248c77d6b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2438f25083ffb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b6b133448d037d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e66763de9ae66a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cae4e52e2d68cba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Compreender é diferente de entender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb2dfc047bad4ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d512466628922d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01a6a30576805da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a771547404ae427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8efa39a11e3d6dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f36f87f1fc6e2a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7366e6c528290127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -419,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
+                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
+                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -459,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md"
+                "file": "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md"
               }
             }
           },
@@ -507,37 +219,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "2db3046913a807fe",
   "lastOpenFiles": [
-    "FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
-    "4. Me, Myself and I/Testes/Mapa Astral.md",
+    "2. Literature Notes/Topics/Má informação amplifica a sua ignorância.md",
     "4. Me, Myself and I/Testes/Numerologia 2023.md",
-    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "4. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
-    "Pirâmide do Sucesso.md",
-    "WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
-    "Pirâmide da Realização Consciente.md",
-    "Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
-    "Não desenvolva os seus pontos fracos.md",
-    "Untitled.md",
-    "WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
+    "2. Literature Notes/Topics/Pirâmide do Sucesso.md",
+    "2. Literature Notes/Topics/Pirâmide da Realização Consciente.md",
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
-    "Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-    "Diferente não é melhor e não é pior, é diferente.md",
-    "Observação não tem julgamento.md",
+    "2. Literature Notes/Topics/Toda frustração é uma desconexão do coração.md",
+    "\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
+    "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
+    "4. Me, Myself and I/Testes/Cronotipo.md",
+    "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
+    "2. Literature Notes/Topics/Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
+    "2. Literature Notes/Topics/Não desenvolva os seus pontos fracos.md",
+    "Untitled.md",
+    "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
+    "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+    "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
+    "2. Literature Notes/Topics/Observação não tem julgamento.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
     "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
     "2. Literature Notes/Topics/Se doeu, pega que é seu.md",
     "2. Literature Notes/Topics/Se você não está milionário ainda, é porque você está se divertindo pouco.md",
-    "2. Literature Notes/Topics/Toda frustração é uma desconexão do coração.md",
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
     "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
     "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
     "2. Literature Notes/Topics/Compreender é diferente de entender.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "2. Literature Notes/Topics/Lei da Vibração.md",
-    "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
@@ -551,7 +264,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
     "7. Creator/Products",
     "Kindle Highlights/Books",
     "Kindle Highlights",
