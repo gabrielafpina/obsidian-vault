@@ -44,8 +44,12 @@
             "id": "0e28c494ebd3cb30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -165,6 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +186,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +197,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2. Literature Notes/Topics/Você escolhe o que semeia, mas a colheita é obrigatória.md"
+          }
         }
       }
     ],
@@ -216,47 +224,51 @@
   },
   "active": "0e28c494ebd3cb30",
   "lastOpenFiles": [
-    "A auto observação é uma jornada sem parada, nem chegada.md",
-    "Um passinho por vez, lembrando que passos autênticos e felizes valem por três.md",
-    "O meu nível de consciência está equiparado ao que me tira do sério.md",
-    "2. Literature Notes/Topics/Não se cobre e não se distraia.md",
-    "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
-    "2. Literature Notes/Topics/Eu escolho dançar a dança da perfeita imperfeição.md",
-    "Submodalidades.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "2. Literature Notes/Topics/A Verdadeira vontade que existe é a do seu coração.md",
+    "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+    "2. Literature Notes/Topics/Tudo é energia.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
+    "2. Literature Notes/Topics/Só você veio para fazer o que você veio fazer.md",
+    "2. Literature Notes/Topics/Só eu sou eu.md",
+    "2. Literature Notes/Topics/Só de ter nascido eu já sou capaz.md",
+    "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
+    "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
+    "7. Creator/Products/E-book Como Começar a Se Conhecer/Como começar a se conhecer?.md",
+    "6. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
+    "1. Daily Notes/2023/6. June/05-06-2023.md",
+    "2. Literature Notes/Topics/O que é ser um criador de conteúdo?.md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
+    "2. Literature Notes/Topics/Ao tomar consciência de algo que você faz, esse algo perde o seu poder.md",
     "2. Literature Notes/Topics/O que move a vida do ser humano é a fé.md",
-    "MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
-    "2. Literature Notes/Topics/Não queira o que o outro vive, porque você está muito distante de ser o que ele é.md",
-    "Swish para gostar menos.md",
-    "2. Literature Notes/Topics/Como a sua vida vai mudar se você continuar fazendo isso que está fazendo pelos próximos 5 anos?.md",
-    "Técnica Godiva.md",
-    "Como controlar o seu diálogo interno?.md",
-    "2. Literature Notes/Topics/A sua vida só vai para frente quando você assume o seu lugar de adulto no mundo e quando você encerra ciclos com gratidão.md",
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
-    "2. Literature Notes/Topics/Se está escondendo, tem alguma verdade que não pode ser dita.md",
-    "2. Literature Notes/People/Hipócrates.md",
-    "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
-    "2. Literature Notes/Topics/Eu que conto a minha história e ela é extraordinária.md",
-    "2. Literature Notes/Topics/Não me falta nada.md",
-    "2. Literature Notes/Topics/O meu nome vai rodar o mundo inteiro porque eu faço tudo com amor e tesão.md",
-    "2. Literature Notes/Topics/Você acredita que as pessoas prestam atenção em você contando a sua história de sucesso?.md",
-    "2. Literature Notes/Topics/Princípio da Correspondência.md",
-    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
-    "2. Literature Notes/Topics/O vazio de si mesmo faz com que você aceite a migalha do outro.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+    "2. Literature Notes/Topics/Quando você assume seu lugar, sua vida prospera.md",
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
+    "5. Templates/Distilled Note Template.md",
+    "2. Literature Notes/Topics/Escolha estar presente nesse evento, que é o aqui e o agora.md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.52.32.png",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.59.36.png",
+    "5. Templates/Template Resumo de Livro.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
+    "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
+    "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 10.33.05.png",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "5. Templates/Podcasts e Aulas.md",
+    "2. Literature Notes/Topics/ID.md",
+    "fjyhmfy",
+    "6. Shots, Images & PDFs/Captura de Tela 2023-07-04 às 15.56.26.png",
+    "MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "Kindle Highlights",
     "Kindle Highlights/Books",
     "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
     "6. Shots, Images & PDFs/POTENCIAL.pdf",
     "4. Me, Myself and I/Brainstorming",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
     "6. Shots, Images & PDFs/IMG_1372.jpg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-05-31 às 16.49.14.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 13.34.46.png",
     "2. Literature Notes/Articles",
-    "3. Distilled Notes",
-    "4. Templates",
-    "2. Literature Notes/Courses"
+    "3. Distilled Notes"
   ]
 }
