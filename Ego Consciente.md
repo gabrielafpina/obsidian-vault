@@ -11,6 +11,10 @@
 3. **Percepção:** de si mesmo, do mundo exterior, sua imagem corporal, suas representações e o seu sentimento de identidade. É a forma como nos vemos e vemos o mundo.
 	1. [[Jacques Lacan]] afirma que temos uma fase na vida que se chama a fase do espelho, que fica perto dos 18 meses de idade, quando começamos a aproveitar e compreender o espaço que ocupamos e, então, passamos a ver a nossa identidade. É quando começamos a nos ver e nos compreender.
 4. **Capacidade de sintetizar:** não é o mesmo que resumir, é algo mais nobre do ego, que significa juntar e integrar os mesmos elementos que estão sendo pensados numa combinação que possibilite um novo significado.
+5. **Ordenação temporal dos processos mentais:** é dar noção de tempo aos processos mentais, já que o [[ID]] é atemporal.
+	1. O id não consegue compreender o tempo e o ego, sim. Ele consegue colocar cronologia em toda a sua história, vivência e experiência.
+6. **Adaptação:** aprender a ser conveniente no mundo externo em seu benefício através da atividade.
+	1. É importante ser conveniente e se adaptar às situações da vida, através das atividades. Nós nos adaptamos em qualquer situação, porque essa é uma característica do ser humano. Ao mesmo tempo, precisamos de um tempo para nos adaptar às fases da vida.
 
 **COMO:**
 
