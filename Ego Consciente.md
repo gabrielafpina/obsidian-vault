@@ -6,7 +6,7 @@
 
 **DEFINIÇÃO:**
 1. **Controle da mobilidade (ação):** o [[Ego]] tem sob seu comando o movimento voluntário, plano comportamental e conduta do ser humano.
-	1. Desde você dar comandos de movimentos, até falar . Isso tudo está relacionado ao subconsciente (pré-consciente), que é quem age.
+	1. Desde você dar comandos de movimentos, até falar . Isso tudo está relacionado ao subconsciente (pré-consciente), que é quem age, sem que tenhamos que nos preocupar com isso de forma consciente.
 2. 
 
 **COMO:**
@@ -24,3 +24,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[4 estilos de comportamento humano, segundo Freud]]
