@@ -40,6 +40,9 @@ No livro "[[Poder Sem Limites]]", Tony Robbins discute vários metaprogramas que
 	3. A pessoa que é motivada pela necessidade está interessada no que é conhecido e seguro. A pessoa que é motivada pela possibilidade está igualmente interessada no que não é conhecido. Ela quer saber o que pode evoluir, que oportunidades deve desenvolver.
     
 7. **Estilos de trabalho independentes, cooperativos e de proximidade**: Algumas pessoas são mais felizes quando são independentes, outras funcionam melhor como parte de um grupo (cooperativo), e ainda outras preferem trabalhar com outras pessoas enquanto mantêm a responsabilidade única por uma tarefa (proximidade).
+	1. Algumas não são felizes a menos que sejam independentes. Têm grande dificuldade em trabalhar junto de outras pessoas e não podem trabalhar bem sob muita supervisão. Têm de dirigir suas próprias vidas.
+	2. Outras trabalham melhor como parte de um grupo. Chamamos sua estratégia de cooperativa. Querem repartir a responsabilidade de qualquer tarefa que façam.
+	3. Outras, ainda, têm uma estratégia de proximidade, que fica entre as outras duas. Preferem trabalhar com outras pessoas, mas mantendo para si a responsabilidade da tarefa. Elas são as encarregadas, mas não são sozinhas.
 
 **COMO:**
 
