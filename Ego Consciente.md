@@ -18,7 +18,7 @@
 	2. 'Viver é adaptar-se' - Euclides da Cunha
 7. **Linguagem e comunicação:** o uso adequado de palavras articuladas ou escrita, visando uma boa comunicação com as pessoas. nLinguagem verbal e não verbal, expressões corporais.
 8. **Ataque ao autoconhecimento:** o ego processa um ataque de mutilação ao vínculo do autoconhecimento, quando o indivíduo não aceita as verdades 'penosas', externas e internas que vive, impedindo o desmascaramento, a percepção e a correlação dessas verdades intoleráveis.
-	1. As pessoas chegam em alguns pontos dentro de si que começam a não acreditar em algumas questões internas e resistem a isso, culpando os outros. [[4 lugar]]
+	1. As pessoas chegam em alguns pontos dentro de si que começam a não acreditar em algumas questões internas e resistem a isso, culpando os outros. [[Existem 4 lugares proibidos]]. Elas não admitem que tem responsabilidade ou são corresponsáveis pelas coisas que estão acontecendo em suas vidas. [[O quanto a minha mente é capaz de me sabotar?]]
 
 **COMO:**
 
@@ -37,3 +37,6 @@
 
 **Sul: para onde vai**
 - [[4 estilos de comportamento humano, segundo Freud]]
+- [[Cadeia Emocional]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Conhecer, saber, é o caminho para o sujeito vir a Ser]]
