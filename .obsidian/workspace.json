@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e4fd5848f2b61d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ego Inconsciente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f6cb9d2d28d1871d",
             "type": "leaf",
             "state": {
@@ -38,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72b6a34f8228b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você não é, você está.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
+                "file": "Ego Inconsciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
+                "file": "Ego Inconsciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conhecer, saber, é o caminho para o sujeito vir a Ser.md"
+                "file": "Ego Inconsciente.md"
               }
             }
           },
@@ -245,12 +269,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0a5669b333aa96a",
+  "active": "e4fd5848f2b61d9b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Ego.md",
+    "Ego Inconsciente.md",
     "Ego Consciente.md",
+    "Você não é, você está.md",
     "Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "4 estilos de comportamento humano, segundo Freud.md",
-    "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
@@ -273,9 +299,7 @@
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "2. Literature Notes/Topics/Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
     "2. Literature Notes/Topics/Não desenvolva os seus pontos fracos.md",
-    "Untitled.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
-    "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",

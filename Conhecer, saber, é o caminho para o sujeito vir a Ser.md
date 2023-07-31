@@ -26,4 +26,4 @@ Nós somos as nossas escolhas. [[Tudo é uma escolha]]. [[Tudo é energia]].
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[Você n]]
+- [[Você não é, você está]]
