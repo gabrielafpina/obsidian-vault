@@ -17,7 +17,7 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 - [[Sigmund Freud]] [[Psicanálise]]: para Freud, o ego é o fiel representante do eu e é quem está mais no controle da nossa mente, se comparado com o [[ID]] e com o [[SuperEgo]]. No entanto, ele acaba dando autonomia para o superego muitas vezes, que acaba ficando no comando de tudo.
 	- O ego estaria, então, sempre em uma corda bamba, entre as vontades do id e a moralidade do supergo.
 	- O ego é o representante do eu, a parte central da mente.
-	- É dividido em [[Ego Consciente]] e [[Ego Inconsciente]]. Freud afi
+	- É dividido em [[Ego Consciente]] e [[Ego Inconsciente]]. Freud mostra a evolução do inconsciente somente de forma progressiva. Ele afirma que todo processo inconsciente também é capaz de se tornar consciente, mas o processo consciente exige algumas regras: uma recordação só pode ser passada para o inconsciente, uma de cada vez e que pode ser bloqueada enquanto a perturbação não tiver vencido as resistências.
 
 **FRASES:**
 
@@ -33,6 +33,7 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 - [[Mindfulness]]
 - [[2ª Teoria do Aparelho Psíquico]]
 - [[1ª Teoria do Aparelho Psíquico]]
+- [[A Resistência é uma bússola]]
 
 **Sul: para onde vai**
 - [[Trocar de pensamento é igual trocar de roupa. Se não gostou, troca]]

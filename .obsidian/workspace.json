@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Ego.md",
+                "file": "Ego Consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Ego.md",
+                "file": "Ego Consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Ego.md"
+                "file": "Ego Consciente.md"
               }
             }
           },
@@ -211,10 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d608fe5e6e433b1f",
+  "active": "f6cb9d2d28d1871d",
   "lastOpenFiles": [
-    "Ego Consciente.md",
     "2. Literature Notes/Topics/Ego.md",
+    "Ego Consciente.md",
     "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
