@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ego Inconsciente.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37254d57fcf4dbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ego",
+                "query": "metap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -189,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ego Inconsciente.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ego Inconsciente.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ego Inconsciente.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
               }
             }
           },
@@ -269,10 +280,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4fd5848f2b61d9b",
+  "active": "37254d57fcf4dbdb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Ego.md",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "Ego Inconsciente.md",
+    "2. Literature Notes/Topics/Ego.md",
     "Ego Consciente.md",
     "Você não é, você está.md",
     "Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
@@ -297,8 +310,6 @@
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "4. Me, Myself and I/Testes/Cronotipo.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
-    "2. Literature Notes/Topics/Você é remunerado pela sua capacidade de resolver problemas do seu cotidiano.md",
-    "2. Literature Notes/Topics/Não desenvolva os seus pontos fracos.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
