@@ -11,10 +11,11 @@ No livro "[[Poder Sem Limites]]", Tony Robbins discute vários metaprogramas que
 	1. Para descobrir de que modo as pessoas se movem, pergunte-lhes o que querem de um relacionamento — uma casa, carro, emprego, ou alguma outra coisa. Elas lhe dizem o que querem ou o que não querem?
     
 2. **Referência externa ou interna**: Algumas pessoas precisam de validação externa para saber que fizeram um bom trabalho, enquanto outras confiam em sua avaliação interna.
-	1. Uma pessoa com uma referência externa tende a buscar validação ou feedback de outras pessoas ou do ambiente externo. Eles podem basear suas decisões ou avaliações de desempenho no feedback ou na aprovação de outras pessoas. 
-	2. Por outro lado, uma pessoa com uma referência interna tende a confiar em suas próprias avaliações ou sentimentos internos. Eles podem tomar decisões ou avaliar seu desempenho com base em seus próprios padrões ou critérios internos, independentemente do feedback externo.
+	1. Pergunte a qualquer pessoa *como ela sabe que fez um bom trabalho*.
+	2. Uma pessoa com uma referência externa tende a buscar validação ou feedback de outras pessoas ou do ambiente externo. Eles podem basear suas decisões ou avaliações de desempenho no feedback ou na aprovação de outras pessoas. 
+	3. Por outro lado, uma pessoa com uma referência interna tende a confiar em suas próprias avaliações ou sentimentos internos. Eles podem tomar decisões ou avaliar seu desempenho com base em seus próprios padrões ou critérios internos, independentemente do feedback externo.
     
-3. **Classificando por si mesmo ou classificando pelos outros**: Algumas pessoas olham para as interações humanas principalmente em termos do que há para elas pessoalmente, enquanto outras olham em termos do que podem fazer por si mesmas ou pelos outros.
+3. **Classificando por si mesmo ou classificando pelos outros**: Algumas pessoas olham para as interações humanas principalmente em termos do que há para elas pessoalmente, enquanto outras olham em termos do que podem fazer por si mesmas ou pelos outros. São os introvertidos e os extrovertidos.
 	1. Uma pessoa que classifica por si mesma tende a olhar para as situações principalmente do ponto de vista de seus próprios interesses pessoais. Eles podem tomar decisões com base no que é melhor para eles. 
 	2. Por outro lado, uma pessoa que classifica pelos outros tende a considerar as necessidades, desejos ou interesses dos outros em suas decisões. Eles podem tomar decisões com base no que é melhor para os outros ou no que pode beneficiar os outros.
     
