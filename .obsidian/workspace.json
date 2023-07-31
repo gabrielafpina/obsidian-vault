@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metap",
+                "query": "prazer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,7 +279,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37254d57fcf4dbdb",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
