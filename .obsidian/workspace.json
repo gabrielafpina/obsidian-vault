@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 estilos de comportamento humano, segundo Freud.md",
+                "file": "Ego Consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 estilos de comportamento humano, segundo Freud.md",
+                "file": "Ego Consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 estilos de comportamento humano, segundo Freud.md"
+                "file": "Ego Consciente.md"
               }
             }
           },
@@ -225,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24c05d064cdd3257",
+  "active": "f6cb9d2d28d1871d",
   "lastOpenFiles": [
-    "Ego Consciente.md",
     "4 estilos de comportamento humano, segundo Freud.md",
+    "Ego Consciente.md",
     "2. Literature Notes/Topics/Ego.md",
     "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",

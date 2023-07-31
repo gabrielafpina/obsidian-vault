@@ -14,8 +14,9 @@ Nas relações humanas, conhecemos 4 estilos de comportamentos, onde aprendemos 
 2. **Empreendedor**: pessoas orientadas para o resultado. São determinados e persistentes, buscam maximizar o resultado em função dos recursos alocados. Não demonstram as emoções e priorizam o resultado. São ágeis na tomada de decisões.
 	1. Busca sempre entender o que ele está ganhando ou perdendo em algo. Ele não gosta de perder. Ele se arrisca muito. Não é de ficar adulando ninguém, e quando ele faz isso, é porque ele quer ganhar algo na relação.
 3. **Expressivo**: gostam de se destacar no grupo, tem foco no resultado e querem consegui-lo através dos seus relacionamentos. Demonstram as emoções. Tomam decisões com foco no resultado e no grau de visibilidade que será proporcionado.
-	1. Quer status, quer ser bem visto no grupo. Busca conviver em grupos, para que possa ter a sua expressividade alcançada na sua visibilidade. É sincero no que faz e as pessoas gostam dele. Gosta de ser a estrela da festa. Gosta da aprovação dos outros. Ele vive para se expressar. Você só pode contar com o expressivo de acordo com o que você combinou com ele.
-4. **Integrador**:
+	1. Quer status, quer ser bem visto no grupo. Busca conviver em grupos, para que possa ter a sua expressividade alcançada na sua visibilidade. É sincero no que faz e as pessoas gostam dele. Gosta de ser a estrela da festa. Gosta da aprovação dos outros. Ele vive para se expressar. Você só pode contar com o expressivo de acordo com o que você combinou com ele. Ele faz marketing positivo de todo mundo, não arrisca ser negativo, porque ele quer a visibilidade do grupo. 
+4. **Integrador**: tem um pouco do expressivo, mas são pessoas orientados pela aceitação do grupo e querem estar bem com todas as pessoas. Preferem ambientes com harmonia e boa integração. Tomam decisões baseado no bem estar comum e na busca do consenso. 
+	1. Ele busca a harmonia do coletivo. É uma pessoa que gosta muito de ajudar. É uma pessoa que trabalha muito pelos outros e acaba pegando muitas tarefas ao mesmo tempo. É importante ele ter o reconhecimento do outro, porque se você não faz isso, ele vai embora e sai fazendo marketing negativo sobre você. Tendência de ser superfuncional.
 
 Podemos ter os 4 comportamentos, mas um deles é o predominante em nossas vidas.
 
@@ -28,6 +29,7 @@ Podemos ter os 4 comportamentos, mas um deles é o predominante em nossas vidas.
 ---------
 
 **Oeste: similar**
+- [[Como você funciona?]]
 
 **Leste: oposto**
 
