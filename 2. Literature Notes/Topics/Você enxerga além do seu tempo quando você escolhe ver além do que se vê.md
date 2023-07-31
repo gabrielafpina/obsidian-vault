@@ -1,10 +1,11 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Ouse Ser Diferente]]
 
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Você enxerga além do seu tempo quando você escolhe ver além do que se vê
 
 **COMO:**
 
