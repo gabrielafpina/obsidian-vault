@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "Ego Consciente.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metap",
+                "query": "ego con",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "Ego Consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "Ego Consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
+                "file": "Ego Consciente.md"
               }
             }
           },
@@ -201,8 +200,8 @@
   },
   "active": "37254d57fcf4dbdb",
   "lastOpenFiles": [
-    "4 estilos de comportamento humano, segundo Freud.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+    "4 estilos de comportamento humano, segundo Freud.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "Ego Inconsciente.md",
