@@ -22,5 +22,7 @@
 22. Consciência
 23. Imprint
 24. Se conhecer é fundamental pra ter vontade de viver
+25. Magnífica
+26. Extraordinário
 
 Pesquisar livros best-sellers atemporais
