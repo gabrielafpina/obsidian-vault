@@ -15,6 +15,10 @@
 	1. O id não consegue compreender o tempo e o ego, sim. Ele consegue colocar cronologia em toda a sua história, vivência e experiência.
 6. **Adaptação:** aprender a ser conveniente no mundo externo em seu benefício através da atividade.
 	1. É importante ser conveniente e se adaptar às situações da vida, através das atividades. Nós nos adaptamos em qualquer situação, porque essa é uma característica do ser humano. Ao mesmo tempo, precisamos de um tempo para nos adaptar às fases da vida.
+	2. 'Viver é adaptar-se' - Euclides da Cunha
+7. **Linguagem e comunicação:** o uso adequado de palavras articuladas ou escrita, visando uma boa comunicação com as pessoas. nLinguagem verbal e não verbal, expressões corporais.
+8. **Ataque ao autoconhecimento:** o ego processa um ataque de mutilação ao vínculo do autoconhecimento, quando o indivíduo não aceita as verdades 'penosas', externas e internas que vive, impedindo o desmascaramento, a percepção e a correlação dessas verdades intoleráveis.
+	1. As pessoas chegam em alguns pontos dentro de si que começam a não acreditar em algumas questões internas e resistem a isso, culpando os outros. [[4 lugar]]
 
 **COMO:**
 
@@ -29,6 +33,7 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[A Resistência é uma bússola]]
 
 **Sul: para onde vai**
 - [[4 estilos de comportamento humano, segundo Freud]]
