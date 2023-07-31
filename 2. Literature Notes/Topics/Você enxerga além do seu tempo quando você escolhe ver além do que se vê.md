@@ -9,6 +9,8 @@
 
 [[Merielly Lima]]: A forma mais poderosa de curas é através de frequências. Comece a estudar sobre frequências, solfeggios, biokinese.
 
+O óbvio não é óbvio para todo mundo.
+
 **COMO:**
 
 **PENSADORES:**
