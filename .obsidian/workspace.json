@@ -8,103 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2db3046913a807fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/\"O homem que nunca lê jornais está mais bem informado do que aquele que os lê, pois aquele que não sabe nada está mais próximo da verdade do que aquele cuja mente está cheia de falsidades e erros\"..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e450dd10c235f904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Má informação amplifica a sua ignorância.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b16a0fac7ca8eba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92dddf7da0eff7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Alan Nicolas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c92de441dd52b4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee92e31164fc5e7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Resistência é uma bússola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d608fe5e6e433b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c672b91a9777b1d2",
+            "id": "f6cb9d2d28d1871d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
+                "file": "Ego Consciente.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inconsciente",
+                "query": "ego",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -204,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
+                "file": "2. Literature Notes/Topics/Ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Reels/Lobo divino x Lobo selvagem.md"
+                "file": "2. Literature Notes/Topics/Ego.md"
               }
             }
           },
@@ -261,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,7 +213,10 @@
   },
   "active": "d608fe5e6e433b1f",
   "lastOpenFiles": [
-    "A Resistência é uma bússola.md",
+    "Ego Consciente.md",
+    "2. Literature Notes/Topics/Ego.md",
+    "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
+    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
     "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "2. Literature Notes/People/Alan Nicolas.md",
@@ -311,9 +242,6 @@
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
     "2. Literature Notes/Topics/Observação não tem julgamento.md",
-    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
-    "2. Literature Notes/Topics/Você ainda tem necessidade de ser aprovado pelo outro porque você ainda é uma criança.md",
-    "2. Literature Notes/Topics/Quando você começa a fazer perguntas inteligentes, as respostas chegarão.md",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.03.23.jpeg",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-24 às 18.39.47.png",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",

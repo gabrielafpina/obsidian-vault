@@ -1,7 +1,5 @@
 **TAGS:**
 
-**FONTE:**
-
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
@@ -16,8 +14,10 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 **COMO:**
 
 **PENSADORES:**
-- [[Sigmund Freud]]: para Freud, o ego é o fiel representante do eu e é quem está mais no controle da nossa mente, se comparado com o [[ID]] e com o [[SuperEgo]]. No entanto, ele acaba dando autonomia para o superego muitas vezes, que acaba ficando no comando de tudo.
+- [[Sigmund Freud]] [[Psicanálise]]: para Freud, o ego é o fiel representante do eu e é quem está mais no controle da nossa mente, se comparado com o [[ID]] e com o [[SuperEgo]]. No entanto, ele acaba dando autonomia para o superego muitas vezes, que acaba ficando no comando de tudo.
 	- O ego estaria, então, sempre em uma corda bamba, entre as vontades do id e a moralidade do supergo.
+	- O ego é o representante do eu, a parte central da mente.
+	- É dividido em [[Ego Consciente]] e [[Ego Inconsciente]]. Freud afi
 
 **FRASES:**
 
@@ -31,6 +31,8 @@ E a grande real é que o ego é isso: pensamentos, crenças, percepções de mun
 - [[Criança Interior]]
 - [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
 - [[Mindfulness]]
+- [[2ª Teoria do Aparelho Psíquico]]
+- [[1ª Teoria do Aparelho Psíquico]]
 
 **Sul: para onde vai**
 - [[Trocar de pensamento é igual trocar de roupa. Se não gostou, troca]]
