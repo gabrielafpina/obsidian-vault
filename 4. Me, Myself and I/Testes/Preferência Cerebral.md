@@ -17,8 +17,9 @@ Hemisfério direito idealizador do cérebro. *Emocional*
 - **Como motivar essa pessoa?** Liberdade de expressão - ouvir o que essa pessoa tem para falar, porque ela geralmente tem muito a acrescentar, já leu muitos livros, fez muitos cursos, tem muitas experiências de vida, fez muitos cursos. Essa pessoa se expressar; ausência de controles rígidos; ambiente de trabalho descentralizado; oportunidade para delegar tarefas e detalhes - essas pessoas pegam as atividades para fazerem e quando delegam, delegam com leveza.
 
 **GOLFINHO:**
-- **Lema:** 
-- **O que move?** 
+Hemisfério direito comunicador do cérebro. *Emocional*
+- **Lema:** fazer junto com o outro. tem prazer e engajamento em fazer tudo com todos.
+- **O que move?** felicidade e igu
 - **Quais são os comportamentos?** 
 - **Quais são as qualidades e pontos fortes?** 
 - **Quais são os pontos a desenvolver?** 
@@ -39,4 +40,4 @@ Hemisfério esquerdo organizador do cérebro. *Racional*
 - **Quais são os comportamentos?** detalhista; organizado; planejado; busca conhecimento; pontual; conservador; metódico; previsível. Muito responsável, profissional e dedicado. Tem um alto senso de responsabilidade e auto cobrança.
 - **Quais são as qualidades e pontos fortes?** seguem muito bem as regras e normas; fazem tudo com qualidade; seguem sistemas, métodos e procedimentos com facilidade; consistência; conformidade; lealdade e segurança; responsável.
 - **Quais são os pontos a desenvolver?** dificuldade de se adaptar as mudanças; pode impedir o progresso; aversão a riscos; detalhista, estruturado e demasiadamente sistemático - exigem esse excesso de método e passo a passo do outro também;
-- **Como motivar essa pessoa?** gosta de ter certeza e compreensão exata de quais são as regras; conhecimento específico do trabalho - ele vai fazer muito bem feito, mas vai fazer só o que você pediu; ausência de riscos e erros - gosta de trabalhar de forma pr; ver o produto acabado; começo, meio e fim.
+- **Como motivar essa pessoa?** gosta de ter certeza e compreensão exata de quais são as regras; conhecimento específico do trabalho - ele vai fazer muito bem feito, mas vai fazer só o que você pediu; ausência de riscos e erros - gosta de trabalhar de forma protegida; ver o produto acabado; começo, meio e fim - é inteligente solicitar uma entrega antecipadamente, pra que ele te entregue no prazo combinado. Tudo que ele começa, ele tende a terminar.
