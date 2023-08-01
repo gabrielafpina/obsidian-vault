@@ -28,10 +28,13 @@ A melhor forma de compreendermos as memórias que guardamos e não estão mais s
 	Uma doença, nada mais é do que uma estratégia de sobrevivência que a natureza adotou para evoluir.
 	Quando você resolve o conflito, o sintoma não precisa mais estar ali e ele tende a regredir, porque a percepção de perigo não existe mais.
 	É importante aprender a compreender os sinais que a vida nos dá.
+	Tudo isso te dá a chance de se apropriar da sua memória, da sua vida, dos seus ancestrais.
 	
 Quando a gente nasce, os nossos pais tem medos, problemas, dificuldades. Muitos de nos chegamos em momentos adversos da vida deles, que eles não queriam ter dado luz a uma criança. Então, damos um significado a isso, que levamos para a nossa vida como um todo, repetindo isso como uma crença. [[crenças]] são relações com a psiquê.
 
 Reagimos ao mundo a partir do repertório que temos, a partir do momento que temos a capacidade de mudar a nossa percepção.
+
+A nossa profissão tem o objetivo de corrigir o que o nosso clã não teve a capacidade de corrigir.
 
 **COMO:**
 
