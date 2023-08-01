@@ -17,10 +17,26 @@ Hemisfério direito idealizador do cérebro. *Emocional*
 - **Como motivar essa pessoa?** Liberdade de expressão - ouvir o que essa pessoa tem para falar, porque ela geralmente tem muito a acrescentar, já leu muitos livros, fez muitos cursos, tem muitas experiências de vida, fez muitos cursos. Essa pessoa se expressar; ausência de controles rígidos; ambiente de trabalho descentralizado; oportunidade para delegar tarefas e detalhes - essas pessoas pegam as atividades para fazerem e quando delegam, delegam com leveza.
 
 **GOLFINHO:**
+- **Lema:** 
+- **O que move?** 
+- **Quais são os comportamentos?** 
+- **Quais são as qualidades e pontos fortes?** 
+- **Quais são os pontos a desenvolver?** 
+- **Como motivar essa pessoa?** 
 
 **TUBARÃO:**
+- **Lema:** 
+- **O que move?** 
+- **Quais são os comportamentos?** 
+- **Quais são as qualidades e pontos fortes?** 
+- **Quais são os pontos a desenvolver?** 
+- **Como motivar essa pessoa?** 
 
 **LOBO:**
 Hemisfério esquerdo organizador do cérebro. *Racional*
-- **Lema:** fazer certo. Tem muita questão com a organiz
+- **Lema:** fazer certo. Tem muita questão com a organização e com a conclusão das coisas. Grande padrão de terminar tudo o que começa.
 - **O que move?** ordem; controle; segurança.
+- **Quais são os comportamentos?** detalhista; organizado; planejado; busca conhecimento; pontual; conservador; metódico; previsível. Muito responsável, profissional e dedicado. Tem um alto senso de responsabilidade e auto cobrança.
+- **Quais são as qualidades e pontos fortes?** seguem muito bem as regras e normas; fazem tudo com qualidade; seguem sistemas, métodos e procedimentos com facilidade; consistência; conformidade; lealdade e segurança; responsável.
+- **Quais são os pontos a desenvolver?** dificuldade de se adaptar as mudanças; pode impedir o progresso; aversão a riscos; detalhista, estruturado e demasiadamente sistemático.
+- **Como motivar essa pessoa?** 
