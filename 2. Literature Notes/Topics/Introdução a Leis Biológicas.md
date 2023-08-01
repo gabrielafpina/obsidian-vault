@@ -41,6 +41,8 @@ A nossa profissão tem o objetivo de corrigir o que o nosso clã não teve a cap
 
 O ser humano é como se fosse um programa de software. E muitas vezes, quando não atualizamos os nossos softwares, isso gera conflitos de identidade e sintomas, que nos mostram qual é a percepção que precisamos atualizar, qual é o software que está desatualizado.
 
+As vezes, um elemento do clã morre para que os outros possam continuar a sobreviver.
+
 **COMO:**
 
 **PENSADORES:**

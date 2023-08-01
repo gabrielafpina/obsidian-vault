@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mini",
+                "query": "leis ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A falta de capacidade é superada pelo movimento.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A falta de capacidade é superada pelo movimento.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A falta de capacidade é superada pelo movimento.md"
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md"
               }
             }
           },
@@ -235,16 +234,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65572f3257393f3a",
+  "active": "e09656638a81f164",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Minimax.md",
-    "A falta de capacidade é superada pelo movimento.md",
+    "2. Literature Notes/Topics/Você enxerga além do seu tempo quando você escolhe ver além do que se vê.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+    "A falta de capacidade é superada pelo movimento.md",
+    "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "Captura de Tela 2023-07-31 às 21.09.13.png",
     "Nada é aleatório.md",
     "Rafael Livramento.md",
-    "2. Literature Notes/Topics/Você enxerga além do seu tempo quando você escolhe ver além do que se vê.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
     "2. Literature Notes/Topics/Ego Consciente.md",
