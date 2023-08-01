@@ -38,5 +38,5 @@ Hemisfério esquerdo organizador do cérebro. *Racional*
 - **O que move?** ordem; controle; segurança.
 - **Quais são os comportamentos?** detalhista; organizado; planejado; busca conhecimento; pontual; conservador; metódico; previsível. Muito responsável, profissional e dedicado. Tem um alto senso de responsabilidade e auto cobrança.
 - **Quais são as qualidades e pontos fortes?** seguem muito bem as regras e normas; fazem tudo com qualidade; seguem sistemas, métodos e procedimentos com facilidade; consistência; conformidade; lealdade e segurança; responsável.
-- **Quais são os pontos a desenvolver?** dificuldade de se adaptar as mudanças; pode impedir o progresso; aversão a riscos; detalhista, estruturado e demasiadamente sistemático.
-- **Como motivar essa pessoa?** 
+- **Quais são os pontos a desenvolver?** dificuldade de se adaptar as mudanças; pode impedir o progresso; aversão a riscos; detalhista, estruturado e demasiadamente sistemático - exigem esse excesso de método e passo a passo do outro também;
+- **Como motivar essa pessoa?** gosta de ter certeza e compreensão exata de quais são as regras; conhecimento específico do trabalho - ele vai fazer muito bem feito, mas vai fazer só o que você pediu; ausência de riscos e erros - gosta de trabalhar de forma pr; ver o produto acabado; começo, meio e fim.
