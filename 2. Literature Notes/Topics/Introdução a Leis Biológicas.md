@@ -18,8 +18,13 @@ Cada função do corpo está ligado a uma percepção específica. Cada sintoma 
 
 A partir de um evento, cada um tem a sua percepção diferente. a Nossa psique é a nossa bagagem de memória. E as informações que os nossos pais viveram passam para a gente. Todas essas impressões ditam como a gente vai lidar com os inícios da nossa vida. Ex: uma pessoa que na barriga da mãe é rejeitada, vai sentir essa rejeição constantemente.
 
+Para evitar reviver situações dolorosas, o nosso inconsciente nos segura.
 
+Ou seja, temos um modelo do que copiamos dos nossos pais do que é a família, relacionamentos, da vida. As memórias que herdamos nos forma como indivíduos e identidades.
 
+O que eu preciso entender e ressignificar?
+
+A melhor forma de 
 
 **COMO:**
 
