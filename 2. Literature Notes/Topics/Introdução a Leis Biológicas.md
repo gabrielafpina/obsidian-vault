@@ -58,3 +58,4 @@ O ser humano é como se fosse um programa de software. E muitas vezes, quando n�
 - [[Percepção é o que controla a sua biologia]]
 
 **Sul: para onde vai**
+- [[Minimax]]
