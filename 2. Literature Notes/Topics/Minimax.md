@@ -26,3 +26,4 @@ Algumas memórias são tão traumáticas, que o nosso inconsciente nos protege p
 
 **Sul: para onde vai**
 - [[Como se manter no presente?]]
+- [[A falta de capacidade é superada pelo movimento]]
