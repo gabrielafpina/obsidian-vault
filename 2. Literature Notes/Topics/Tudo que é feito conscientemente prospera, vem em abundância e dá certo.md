@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Tudo que é feito na mecanicidade não dá certo e não prospera.
+Tudo que é feito na mecanicidade e no piloto automático não dá certo, não prospera e é perdido, muitas vezes, tendo que ser refeito.
 
 **COMO:**
 
