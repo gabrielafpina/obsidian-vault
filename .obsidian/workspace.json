@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7c35695298611722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb85cdc05a3d56df",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md"
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md"
               }
             }
           },
@@ -234,8 +248,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e09656638a81f164",
+  "active": "7c35695298611722",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+    "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
     "2. Literature Notes/Topics/Você enxerga além do seu tempo quando você escolhe ver além do que se vê.md",
     "A falta de capacidade é superada pelo movimento.md",
@@ -261,8 +277,6 @@
     "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/People/Vicky Zhao.md",
-    "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
-    "2. Literature Notes/Topics/Como filtrar o conteúdo ideal para mim?.md",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
