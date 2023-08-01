@@ -55,5 +55,6 @@ O ser humano é como se fosse um programa de software. E muitas vezes, quando n�
 
 **Norte: ideia/pergunta**
 - [[teoria dos mecanismos de defesa]]
+- [[Percepção é o que controla a sua biologia]]
 
 **Sul: para onde vai**
