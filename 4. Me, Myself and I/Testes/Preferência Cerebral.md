@@ -19,9 +19,9 @@ Hemisfério direito idealizador do cérebro. *Emocional*
 **GOLFINHO:**
 Hemisfério direito comunicador do cérebro. *Emocional*
 - **Lema:** fazer junto com o outro. tem prazer e engajamento em fazer tudo com todos.
-- **O que move?** felicidade e igu
-- **Quais são os comportamentos?** 
-- **Quais são as qualidades e pontos fortes?** 
+- **O que move?** felicidade e igualdade (pensa nos outros). em um baixo nível de consciência faz, não porque quer ajudar o outro, mas porque quer agradar. tem a tendência de esquecer de si e fazendo pelos outros, colocando a felicidade do outro antes da sua.
+- **Quais são os comportamentos?** sensível; bons relacionamentos; equipe; tradicionalismo - segue tradições; contribuição onde quer que esteja - até mesmo com doações; busca harmonia; delega com autoridade inspiracional.
+- **Quais são as qualidades e pontos fortes?** tradição; diversão; colocam sentimento no que fazem; participação; celebração; preservação; rituais; manter comunicação harmoniosa; desenvolver e manter a cultura empresarial; comunicação aberta - são os prefeitos do cérebro, falam com todo mundo.
 - **Quais são os pontos a desenvolver?** 
 - **Como motivar essa pessoa?** 
 
