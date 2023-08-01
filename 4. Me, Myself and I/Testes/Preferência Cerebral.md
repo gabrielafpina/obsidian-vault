@@ -22,8 +22,8 @@ Hemisfério direito comunicador do cérebro. *Emocional*
 - **O que move?** felicidade e igualdade (pensa nos outros). em um baixo nível de consciência faz, não porque quer ajudar o outro, mas porque quer agradar. tem a tendência de esquecer de si e fazendo pelos outros, colocando a felicidade do outro antes da sua.
 - **Quais são os comportamentos?** sensível; bons relacionamentos; equipe; tradicionalismo - segue tradições; contribuição onde quer que esteja - até mesmo com doações; busca harmonia; delega com autoridade inspiracional.
 - **Quais são as qualidades e pontos fortes?** tradição; diversão; colocam sentimento no que fazem; participação; celebração; preservação; rituais; manter comunicação harmoniosa; desenvolver e manter a cultura empresarial; comunicação aberta - são os prefeitos do cérebro, falam com todo mundo.
-- **Quais são os pontos a desenvolver?** 
-- **Como motivar essa pessoa?** 
+- **Quais são os pontos a desenvolver?** tendência a esconder conflitos e ficar em silêncio para não ter ainda mais conflitos; felicidade acima dos resultados - pode deixar projetos de lado porque prefere a felicidade, tem dificuldade em observar as prioridades; manipulação através dos sentimentos - conseguem manipular bem e também são facilmente manipulados; sensível; carente - é importante aprender a fazer o que se quer sozinho.
+- **Como motivar essa pessoa?** passando segurança; aceitação social - gosta de se sentir aceito; construir o consenso; reconhecimento da equipe; supervisão compreensiva; ambiente harmônico; trabalho em grupo.
 
 **TUBARÃO:**
 - **Lema:** 
