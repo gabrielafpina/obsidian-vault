@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dd7c7b79e0f1d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexandre Lourenção.md",
+                "file": "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexandre Lourenção.md",
+                "file": "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexandre Lourenção.md"
+                "file": "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md"
               }
             }
           },
@@ -219,10 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c943e459ebc35544",
+  "active": "6dd7c7b79e0f1d7d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Nunca diga não.md",
     "Alexandre Lourenção.md",
+    "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
+    "2. Literature Notes/Topics/Nunca diga não.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
     "2. Literature Notes/Topics/Minimax.md",
@@ -247,7 +261,6 @@
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "7. Creator/Reels/Lobo divino x Lobo selvagem.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
-    "2. Literature Notes/Topics/Muitas doenças são técnicas de marketing.md",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
