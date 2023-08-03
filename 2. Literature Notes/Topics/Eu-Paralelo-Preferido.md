@@ -7,7 +7,7 @@
 **DEFINIÇÃO:**
 [[O tempo é uma ilusão]]. Só existe a existência no agora. Ao mesmo tempo, quando olhamos para o futuro e passado, existem N possibilidades do que poderia ser. Você tem várias vidas e realidades paralelas. Em que algumas estão com mudanças próximas à sua e outros são mudanças drásticas, em que você é totalmente diferente. Existem várias linhas do tempo possíveis. Nesse sentido, você tem N possibilidades de eus. N possibilidades do que você é em outras realidades paralelas.
 
-Tudo está relacionado à frequência que você vibra. Se você quer trocar a sua realidade, é inteligente trocar a sua vibração. [[A gente atrai o que a gente vibra]].
+Tudo está relacionado à frequência que você vibra. Se você quer trocar a sua realidade, é inteligente trocar a sua vibração. [[A gente atrai o que a gente vibra]]. [[O micro é igual ao macro]].
 
 Quando você cria a lista dos seus desejos genuínos, você tem um eu-paralelo que já está vivendo a realidade dos seus desejos. Nesse sentido:
 - Como é o dia dessa sua versão?
@@ -58,6 +58,7 @@ Quando acessar tudo o que o seu eu-paralelo preferido já fez e que você quer s
 - [[Lei da Correspondência]]
 - [[O micro é igual ao macro]]
 - [[Tudo é uma escolha]]
+- [[Lei da Vibração]]
 
 **Sul: para onde vai**
 - [[Como eu descubro a frequência de algo?]]
