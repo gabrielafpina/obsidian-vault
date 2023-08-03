@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diferencia",
+                "query": "pena",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -319,7 +319,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b33d70233f3686da",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
