@@ -8,163 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47206531e2844c24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2a7be24e725f5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64ae756a48fe38b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Troque 'incrível' por 'extraordinário'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c06f1b06c4094d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não acredita em algo, você procura pessoas na mesma frequência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c66f8a2132a2fe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe297c11c6eae367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Comece a decretar o que você quer que o Universo te mostre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8156826430f962a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ea65da9969c761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b0fbe62660b566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo acontece para voce.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51aa7aad04ca2042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Aprender a desaprender é uma qualidade poderosa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bcef63b207ae21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb69e9c43bee92c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d27c75a4310f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "me inclua",
+                "query": "paralelo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md"
               }
             }
           },
@@ -346,8 +200,8 @@
   },
   "active": "c2a7be24e725f5b1",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Brainstorming/Público-Alvo.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "4. Me, Myself and I/Brainstorming/Público-Alvo.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Troque 'incrível' por 'extraordinário'.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
