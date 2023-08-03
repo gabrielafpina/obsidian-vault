@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "03d108db38c6a1b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você é a sua própria medicina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "708b4d625fb60ba0",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merielly",
+                "query": "compet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+                "file": "Você é a sua própria medicina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+                "file": "Você é a sua própria medicina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md"
+                "file": "Você é a sua própria medicina.md"
               }
             }
           },
@@ -319,9 +331,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b33d70233f3686da",
+  "active": "03d108db38c6a1b1",
   "lastOpenFiles": [
     "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
+    "Você é a sua própria medicina.md",
     "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
@@ -346,7 +359,6 @@
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
-    "2. Literature Notes/Topics/Você enxerga além do seu tempo quando você escolhe ver além do que se vê.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
