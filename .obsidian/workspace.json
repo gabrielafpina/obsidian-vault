@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bcef63b207ae21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb69e9c43bee92c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intenção sem coração é ganância. Intenção com coração é ambição..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compet",
+                "query": "intenção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "Intenção sem coração é ganância. Intenção com coração é ambição..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "Intenção sem coração é ganância. Intenção com coração é ambição..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md"
+                "file": "Intenção sem coração é ganância. Intenção com coração é ambição..md"
               }
             }
           },
@@ -212,10 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe297c11c6eae367",
+  "active": "eb69e9c43bee92c3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei.md",
+    "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+    "Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Lei.md",
     "2. Literature Notes/Topics/Você é a sua própria medicina.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
@@ -238,8 +263,6 @@
     "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
-    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

@@ -9,6 +9,8 @@ Você pode ter tudo o que quiser. Agora, porque você quer ter isso? Qual é a s
 
 Se for verdadeiramente para dedicar o seu dinheiro para se curar e limpar a sua alma, acontece rápido. Agora, se for na energia da vaidade, não vai acontecer. [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]. E aí você não compreende porque a vida não está mudando. Tudo que está dentro é como o que está fora. [[Lei da Correspondência]].
 
+[[Intenção sem coração é ganância. Intenção com coração é ambição.]] 
+
 **COMO:**
 
 **PENSADORES:**
