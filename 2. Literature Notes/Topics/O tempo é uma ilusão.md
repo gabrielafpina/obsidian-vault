@@ -28,4 +28,4 @@ Para a existência não existe um antes, durante e depois. Existe um eterno mome
 - [[Escolha estar presente nesse evento, que é o aqui e o agora]]
 
 **Sul: para onde vai**
-- [[Tudo acon]]
+- [[Tudo acontece no momento divino]]
