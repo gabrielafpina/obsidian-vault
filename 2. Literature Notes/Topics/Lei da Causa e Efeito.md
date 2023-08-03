@@ -7,7 +7,9 @@
 **DEFINIÇÃO:**
 Tudo o que eu vivo é o efeito de uma causa. Meu casamento, minha conta corrente, como eu durmo, o nível de consciência dos meus alunos. Tudo é o efeito da minha causa.
 
-Toda a minha frequência é atraída para a minha vida. [[A gente atrai o que a gente vibra]]. [[Lei da Vibração]].
+Toda a minha frequência é atraída para a minha vida. [[A gente atrai o que a gente vibra]]. [[Lei da Vibração]]. Qual é a vibração que está dentro de você? A vibração que você sintoniza, é a vibração que você recebe.
+
+Tudo que você acredita acontece. E tudo acontece porque você acredita. O que você está escolhendo acreditar? [[Tudo é uma escolha]]
 
 **COMO:**
 
@@ -23,6 +25,9 @@ Toda a minha frequência é atraída para a minha vida. [[A gente atrai o que a 
 
 **Norte: ideia/pergunta**
 - [[Lei da Potencialidade Pura]]
+- [[Lei da Correspondência]]
+- [[Lei do Mentalismo]]
 
 **Sul: para onde vai**
 - [[Você escolhe o que semeia, mas a colheita é obrigatória]]
+- [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]
