@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "38da1143fe1ee9f8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c06f1b06c4094d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se você não acredita em algo, você procura pessoas na mesma frequência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c66f8a2132a2fe1",
             "type": "leaf",
             "state": {
@@ -127,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semei",
+                "query": "me inclua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +194,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,7 +248,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +264,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +285,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md"
-              }
+              "state": {}
             }
           },
           {
@@ -306,9 +324,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47206531e2844c24",
+  "active": "38da1143fe1ee9f8",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "2. Literature Notes/Topics/Se você não acredita em algo, você procura pessoas na mesma frequência.md",
     "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
     "2. Literature Notes/Topics/Aprender a desaprender é uma qualidade poderosa.md",
     "2. Literature Notes/Topics/Tudo acontece para voce.md",
@@ -333,7 +352,6 @@
     "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
     "2. Literature Notes/People/Alexandre Lourenção.md",
     "2. Literature Notes/Topics/Nunca diga não.md",
-    "2. Literature Notes/Topics/Nada é aleatório.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

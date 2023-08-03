@@ -35,3 +35,5 @@ Toda doença tem efeito de alguma causa, qual é a causa? [[Deus fez os seres hu
 **Sul: para onde vai**
 - [[Você escolhe o que semeia, mas a colheita é obrigatória]]
 - [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]
+- [[Se você não acredita em algo, você procura pessoas na mesma frequência]]
+- [[Toda pessoa que para na sua frente é seu espelho]]
