@@ -13,6 +13,8 @@ Enquanto você acreditar que tem alguém superior a você, existe uma possibilid
 
 Todo mundo tem a sua função no mundo. É de igual para igual. E ai você compreende que qualquer pessoa que para na sua frente tem algo poderoso para te aprender: 'Qual é a inteligência do universo que fez essa pessoa ter a coragem de falar isso comigo e quer me fazer aprender algo com essa pessoa?'. É inteligente aprender as mensagens do aqui e agora, porque você só tem o aqui e agora.
 
+É inteligente se relacionar amorosamente, com todas as pessoas de igual para igual. Todo mundo importa. E o socorro vem de onde menos se espera. Porque normalmente o socorro vem para quem ainda precisa aprender a ser humilde. Quando você aprende a ser humilde, não existe mais a necessidade de ser socorrido por ninguém, porque você aprendeu que todos somos iguais e diferentes ao mesmo tempo. Não é melhor nem pior. Não é superior nem inferior. Todos somos iguais e diferentes e todos importam. Então, você não precisa ser socorrido por ninguém, porque você vai compreender a importância de todas as almas que passam pela sua vida. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. 
+
 **COMO:**
 
 **PENSADORES:**

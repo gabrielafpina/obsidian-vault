@@ -68,24 +68,12 @@
             }
           },
           {
-            "id": "81340b72170fe48c",
+            "id": "48f1e965c6eaf4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c8b77aefcf6108b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md"
+                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md"
               }
             }
           },
@@ -331,18 +319,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b33d70233f3686da",
+  "active": "48f1e965c6eaf4f3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
     "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+    "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
+    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
+    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+    "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
     "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
     "2. Literature Notes/Topics/É inteligente ouvir o que o outro está falando de você.md",
     "2. Literature Notes/Topics/Troque 'vencedor' por 'gloriosa'.md",
     "2. Literature Notes/Topics/Não aceite bençãos intermediárias.md",
     "2. Literature Notes/Topics/As pessoas te tratam como você permite que elas te tratem.md",
-    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/É inteligente ouvir o outro em estado de completa presença.md",
     "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
     "2. Literature Notes/Topics/Aprender a desaprender é uma qualidade poderosa.md",
@@ -358,7 +347,6 @@
     "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
     "2. Literature Notes/Topics/Você enxerga além do seu tempo quando você escolhe ver além do que se vê.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
