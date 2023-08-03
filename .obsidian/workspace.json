@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md"
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md"
               }
             }
           },
@@ -319,10 +319,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48f1e965c6eaf4f3",
+  "active": "b33d70233f3686da",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
     "Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
+    "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
