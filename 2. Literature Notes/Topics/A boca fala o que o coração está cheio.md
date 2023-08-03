@@ -11,7 +11,9 @@ Não é pessoal. Não é sobre você. O outro está falando sobre si mesmo. Seja
 
 'Quando Pedro me fala mal de Paulo, eu sei mais de Pedro do que Paulo.'
 
-A forma como cada ser humano olha o mundo e vem compartilhar sobre o mundo me diz muito sobre essa pessoa. Observe o que as pessoas falam, porque só no estado de presença você tem a capacidade de acessar o coração do outro. [[É inteligente ouvir o outro em estado de completa presença]]
+A forma como cada ser humano olha o mundo e vem compartilhar sobre o mundo me diz muito sobre essa pessoa. Observe o que as pessoas falam, porque só no estado de presença você tem a capacidade de acessar o coração do outro. [[É inteligente ouvir o outro em estado de completa presença]].
+
+[[Utilize palavras de frequências gentis]].
 
 **COMO:**
 

@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/Comece a decretar o que você quer que o Universo te mostre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8156826430f962a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14ea65da9969c761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilize palavras de frequências gentis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b0fbe62660b566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo acontece para voce.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intenção",
+                "query": "boca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "2. Literature Notes/Topics/Tudo acontece para voce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
+                "file": "2. Literature Notes/Topics/Tudo acontece para voce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md"
+                "file": "2. Literature Notes/Topics/Tudo acontece para voce.md"
               }
             }
           },
@@ -247,11 +284,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14d27c75a4310f0c",
+  "active": "26b0fbe62660b566",
   "lastOpenFiles": [
-    "Intenção sem coração é ganância. Intenção com coração é ambição..md",
+    "Utilize palavras de frequências gentis.md",
+    "2. Literature Notes/Topics/Tudo acontece para voce.md",
+    "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
+    "2. Literature Notes/Topics/Comece a decretar o que você quer que o Universo te mostre.md",
     "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
-    "2. Literature Notes/Topics/Untitled.md",
+    "Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "2. Literature Notes/Topics/Lei.md",
     "2. Literature Notes/Topics/Você é a sua própria medicina.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
@@ -266,15 +306,12 @@
     "2. Literature Notes/Topics/Não aceite bençãos intermediárias.md",
     "2. Literature Notes/Topics/As pessoas te tratam como você permite que elas te tratem.md",
     "2. Literature Notes/Topics/É inteligente ouvir o outro em estado de completa presença.md",
-    "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
     "2. Literature Notes/Topics/Aprender a desaprender é uma qualidade poderosa.md",
     "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
     "2. Literature Notes/People/Alexandre Lourenção.md",
     "2. Literature Notes/Topics/Nunca diga não.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
-    "2. Literature Notes/Topics/Minimax.md",
-    "2. Literature Notes/Topics/Eu só posso modificar a mim mesmo. Aos outros, eu só posso amar..md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
