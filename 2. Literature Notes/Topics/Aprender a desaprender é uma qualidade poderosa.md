@@ -22,5 +22,7 @@ Continuar com as suas antigas verdades absolutas pode ser muito perigoso. Alguma
 **Norte: ideia/pergunta**
 - [[A justificativa perpetua a mediocridade]]
 - [[Crença que não prestam, não vale acreditar]]
+- [[O quanto a minha mente é capaz de me sabotar?]]
+- [[Todo pensamento sabotador tá cancelado]]
 
 **Sul: para onde vai**
