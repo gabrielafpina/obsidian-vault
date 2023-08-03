@@ -11,6 +11,8 @@ Se for verdadeiramente para dedicar o seu dinheiro para se curar e limpar a sua 
 
 [[Intenção sem coração é ganância. Intenção com coração é ambição.]] 
 
+Se você tem uma intenção pura de amor, tudo prospera, porque a energia mais poderosa do mundo é o amor. [[O amor é a cura]].
+
 **COMO:**
 
 **PENSADORES:**
@@ -31,3 +33,4 @@ Se for verdadeiramente para dedicar o seu dinheiro para se curar e limpar a sua 
 - [[Tudo é energia]]
 
 **Sul: para onde vai**
+- [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]
