@@ -21,3 +21,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Você está pensando ou você está sendo pensado?]]
