@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a4f18c2596adb4d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99ccf3ef24255db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Nunca diga não.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c943e459ebc35544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Alexandre Lourenção.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dd7c7b79e0f1d7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11ba80aab0bb7a84",
             "type": "leaf",
             "state": {
@@ -100,6 +56,18 @@
             }
           },
           {
+            "id": "b33d70233f3686da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c8b77aefcf6108b",
             "type": "leaf",
             "state": {
@@ -117,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo acontece no momento divino.md",
+                "file": "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Não aceite bençãos intermediárias.md",
+                "file": "2. Literature Notes/Topics/Não aceite bençãos intermediárias.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troque 'vencedor' por 'gloriosa'.md",
+                "file": "2. Literature Notes/Topics/Troque 'vencedor' por 'gloriosa'.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permite",
+                "query": "diferencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troque 'vencedor' por 'gloriosa'.md",
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troque 'vencedor' por 'gloriosa'.md",
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Troque 'vencedor' por 'gloriosa'.md"
+                "file": "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md"
               }
             }
           },
@@ -352,14 +319,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "b33d70233f3686da",
   "lastOpenFiles": [
-    "Não aceite bençãos intermediárias.md",
-    "Troque 'vencedor' por 'gloriosa'.md",
-    "2. Literature Notes/Topics/As pessoas te tratam como você permite que elas te tratem.md",
-    "Tudo acontece no momento divino.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+    "2. Literature Notes/Topics/O que diferencia uma pessoa da outra?.md",
+    "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
     "2. Literature Notes/Topics/É inteligente ouvir o que o outro está falando de você.md",
+    "2. Literature Notes/Topics/Troque 'vencedor' por 'gloriosa'.md",
+    "2. Literature Notes/Topics/Não aceite bençãos intermediárias.md",
+    "2. Literature Notes/Topics/As pessoas te tratam como você permite que elas te tratem.md",
+    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
+    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/É inteligente ouvir o outro em estado de completa presença.md",
     "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
     "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
@@ -379,8 +348,6 @@
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "2. Literature Notes/People/Rafael Livramento.md",
-    "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
-    "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",

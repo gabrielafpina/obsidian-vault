@@ -13,6 +13,8 @@ Se você não tomar a decisão de sintonizar na frequência do amor e da gratid�
 
 Tudo é aprendizado.
 
+É inteligente compreender a vibração do que está sendo dito. E se o outro está falando algo que você não quer vibrar na frequência, você pode escolher dentro de si que não quer fazer parte daquilo.
+
 **COMO:**
 
 **PENSADORES:**
@@ -28,5 +30,7 @@ Tudo é aprendizado.
 **Norte: ideia/pergunta**
 - [[O meu único poder é fazer por mim]]
 - [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]
+- [[A boca fala o que o coração está cheio]]
+- [[Você enxerga além do seu tempo quando você escolhe ver além do que se vê]]
 
 **Sul: para onde vai**

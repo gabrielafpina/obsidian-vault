@@ -24,5 +24,6 @@ Venceamor = vencer no amor. Eu crio as minhas realidades e as palavras que eu qu
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[As pessoas te tratam como você permite que elas te tratem]]
 
 **Sul: para onde vai**
