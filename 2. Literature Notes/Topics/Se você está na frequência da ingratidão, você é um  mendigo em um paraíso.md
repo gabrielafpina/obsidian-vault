@@ -13,6 +13,8 @@ Se você não for grato, você se torna até um suicida, porque você não vê g
 
 Quem se incomoda com quem agradece não compreendeu a mensagem da gratidão.
 
+O prêmio não está no fim da vida. O presente é viver o presente que é a sua própria vida. [[Escolha estar presente nesse evento, que é o aqui e o agora]].
+
 Agradecer.
 A Graça Descer.
 A Graça de Ser.

@@ -27,6 +27,7 @@ Todo mundo tem a sua função no mundo. É de igual para igual. E ai você compr
 
 **Norte: ideia/pergunta**
 - [[Mindfulness]]
+- [['Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação']]
 
 **Sul: para onde vai**
 - [[O que diferencia uma pessoa da outra?]]
