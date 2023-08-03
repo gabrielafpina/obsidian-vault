@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "480f6db3b21fce00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É inteligente ouvir o outro em estado de completa presença.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7c28141596602202",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boca fala",
+                "query": "gratidão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +146,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,11 +279,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c28141596602202",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/É inteligente ouvir o outro em estado de completa presença.md",
-    "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
     "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
+    "2. Literature Notes/Topics/Se você está na frequência da ingratidão, você é um  mendigo em um paraíso.md",
     "2. Literature Notes/Topics/Aprender a desaprender é uma qualidade poderosa.md",
     "2. Literature Notes/Topics/É bom demais porque é a mais pura Verdade.md",
     "2. Literature Notes/People/Alexandre Lourenção.md",
