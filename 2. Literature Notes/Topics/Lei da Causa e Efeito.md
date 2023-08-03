@@ -11,7 +11,9 @@ Toda a minha frequência é atraída para a minha vida. [[A gente atrai o que a 
 
 Tudo que você acredita acontece. E tudo acontece porque você acredita. O que você está escolhendo acreditar? [[Tudo é uma escolha]].
 
-O que você acredita é para o benefício de todos os envolvidos? Te empodera? Ou tem algum tipo de medo, ganância, vaidade e preguiça? [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+O que você acredita é para o benefício de todos os envolvidos? Te empodera ou é de uma frequência distorcida? Ou tem algum tipo de medo, ganância, vaidade e preguiça? [[3 coisas que paralisam a vida - vaidade, medo e preguiça]].
+
+Toda doença tem efeito de alguma causa, qual é a causa? [[Deus fez os seres humanos para serem 100% saudáveis]].
 
 **COMO:**
 
