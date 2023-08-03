@@ -15,6 +15,8 @@ O que você acredita é para o benefício de todos os envolvidos? Te empodera ou
 
 Toda doença tem efeito de alguma causa, qual é a causa? [[Deus fez os seres humanos para serem 100% saudáveis]].
 
+Pare de gastar energia com movimento desnecessário justificando uma causa - [[A justificativa perpetua a mediocridade]]. Quando, na verdade, você pode investir o seu tempo de vida para criar um novo efeito. Qual é o efeito que você quer?
+
 **COMO:**
 
 **PENSADORES:**
@@ -37,3 +39,4 @@ Toda doença tem efeito de alguma causa, qual é a causa? [[Deus fez os seres hu
 - [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]
 - [[Se você não acredita em algo, você procura pessoas na mesma frequência]]
 - [[Toda pessoa que para na sua frente é seu espelho]]
+- [[Comunicação Não-Violenta (CNV)]]
