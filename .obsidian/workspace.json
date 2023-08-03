@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refer",
+                "query": "semei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -306,7 +306,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47206531e2844c24",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",

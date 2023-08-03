@@ -25,3 +25,4 @@ Toda a minha frequência é atraída para a minha vida. [[A gente atrai o que a 
 - [[Lei da Potencialidade Pura]]
 
 **Sul: para onde vai**
+- [[Você escolhe o que semeia, mas a colheita é obrigatória]]
