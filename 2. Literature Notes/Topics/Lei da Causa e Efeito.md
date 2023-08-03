@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Tudo o que eu vivo é o efeito. Meu casamento, minha conta corrente, como eu durmo. O ní
 
 **COMO:**
 
