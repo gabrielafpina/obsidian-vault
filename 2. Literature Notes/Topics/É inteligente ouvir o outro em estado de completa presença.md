@@ -9,6 +9,8 @@ Ouça sem pensar na sua resposta. Escolha ouvir o que o outro está falando. Que
 
 É inteligente ouvir com o coração o que as pessoas dizem ao seu redor.
 
+É interessante estar em presença e perceber que muitas vezes, a frequência do outro está muito longe do estado de gratidão.
+
 **COMO:**
 
 **PENSADORES:**
@@ -23,5 +25,7 @@ Ouça sem pensar na sua resposta. Escolha ouvir o que o outro está falando. Que
 
 **Norte: ideia/pergunta**
 - [[A Verdadeira vontade que existe é a do seu coração]]
+- [[Mindfulness]]
+- [[Como eu descubro a frequência de algo?]]
 
 **Sul: para onde vai**
