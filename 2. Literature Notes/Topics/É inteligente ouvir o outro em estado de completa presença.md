@@ -9,7 +9,7 @@ Ouça sem pensar na sua resposta. Escolha ouvir o que o outro está falando. Que
 
 É inteligente ouvir com o coração o que as pessoas dizem ao seu redor.
 
-É interessante estar em presença e perceber que muitas vezes, a frequência do outro está muito longe do estado de gratidão.
+É interessante estar em presença e perceber que muitas vezes, a frequência do outro está muito longe do estado de gratidão. [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]].
 
 **COMO:**
 
@@ -29,3 +29,4 @@ Ouça sem pensar na sua resposta. Escolha ouvir o que o outro está falando. Que
 - [[Como eu descubro a frequência de algo?]]
 
 **Sul: para onde vai**
+- [[É inteligente ouvir o que o outro está falando de você]]
