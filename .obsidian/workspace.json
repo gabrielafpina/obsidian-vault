@@ -44,20 +44,24 @@
             }
           },
           {
-            "id": "7c76ff3d0f591d8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2909f9096544883f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f3a7b9ad51b7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basta um único pensamento para mudar a realidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +77,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "455d104c09bccde1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -183,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+                "file": "Basta um único pensamento para mudar a realidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+                "file": "Basta um único pensamento para mudar a realidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md"
+                "file": "Basta um único pensamento para mudar a realidade.md"
               }
             }
           },
@@ -263,10 +259,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2909f9096544883f",
+  "active": "d2f3a7b9ad51b7a0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A natureza é abundante.md",
     "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+    "Basta um único pensamento para mudar a realidade.md",
+    "2. Literature Notes/Topics/A natureza é abundante.md",
     "2. Literature Notes/Topics/Solta a caneta.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/PNL.md",
@@ -290,7 +287,6 @@
     "2. Literature Notes/Topics/Você é a sua própria medicina.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
-    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
