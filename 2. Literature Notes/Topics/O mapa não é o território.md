@@ -33,7 +33,7 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 	- Como Alfred Korzybski fez notar em seu Science & Sanity: “As características importantes dos mapas devem ser notadas. Um mapa não é o território que ele representa, mas, se estiver correto, tem uma estrutura similar ao território, o que é válido para sua utilização.”
 - [[Hélio Couto]]
 	- O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
-	- Se você já tem um programa instalado e quer alterar os seus resultados, é inteligente [[Aprender a desaprender é uma qualidade poderosa]]. Ter uma mentalidade de aprendiz [[O monge e a xícara vazia]].
+	- Se você já tem um programa instalado e quer alterar os seus resultados, é inteligente [[Aprender a desaprender é uma qualidade poderosa]]. Ter uma mentalidade de aprendiz [[O monge e a xícara vazia]]. Para o novo entrar, é inteligente tirar o velho.
 
 ---------
 
