@@ -1,10 +1,12 @@
-**TAGS:** #build
+**TAGS:**
 
 **FONTE:**
 
 **BIG IDEA:** Torne-se um detetive do sucesso e trilhe o seu caminho para a excelência. 
 
 **DEFINIÇÃO:** Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve surgir é: “Como ele criou esse resultado?”. Se alguém fez algo, você também pode. Apenas precisa hackear o passo a passo do que aquela pessoa fez para alcançar o resultado desejado.
+
+[[Hélio Couto]]: É pegar um modelo e colocá-lo dentro de você. Hélio usa o termo Arquétipo (só que as pessoas tem problemas com [[Carl Jung]]), afirma que é a mesma coisa. Você modela uma pessoa mentalmente usando hipnose.
 
 **COMO:**
 1. Identificar aonde você quer chegar
@@ -48,3 +50,4 @@
 **Sul: para onde vai**
 - [[Como reproduzir a excelência humana?]]
 - [[Como ter uma vida plena?]]
+- [[Como fazer hipnose?]]

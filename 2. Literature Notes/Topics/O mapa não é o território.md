@@ -34,6 +34,7 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - [[Hélio Couto]]
 	- O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
 	- Se você já tem um programa instalado e quer alterar os seus resultados, é inteligente [[Aprender a desaprender é uma qualidade poderosa]]. Ter uma mentalidade de aprendiz [[O monge e a xícara vazia]]. Para o novo entrar, é inteligente tirar o velho.
+	- As pessoas resistem, elas não querem mexer no mapa. [[A Resistência é uma bússola]].
 
 ---------
 
@@ -48,3 +49,4 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - Empatia e compaixão pelas outras pessoas
 - Menos julgamento do outro
 - [[Percepção é o que controla a sua biologia]]
+- [[Modelagem]]
