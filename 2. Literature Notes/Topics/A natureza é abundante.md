@@ -14,6 +14,7 @@ Só existe energia pura energia, quando essa energia diminui a velocidade é qu
 **PENSADORES:**
 
 **FRASES:**
+- [[Albert Einstein]]: “É mais fácil desintegrar um átomo que um preconceito”.
 
 ---------
 
@@ -23,5 +24,7 @@ Só existe energia pura energia, quando essa energia diminui a velocidade é qu
 
 **Norte: ideia/pergunta**
 - [[Percepção é o que controla a sua biologia]]
+- [[crenças]]
+- [[Mapa da Consciência]]
 
 **Sul: para onde vai**
