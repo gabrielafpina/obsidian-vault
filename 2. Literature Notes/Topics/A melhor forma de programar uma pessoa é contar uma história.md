@@ -33,3 +33,4 @@ Tudo são histórias que, se contadas por muito tempo, passam a se tornar [[cren
 - [[A natureza é abundante]]
 - [[Basta um único pensamento para mudar a realidade]]
 - [[Você está criando definições que estão tornando mais difícil para você mudar]]
+- [[As pessoas querem os resultados, mas não querem a mudança]]
