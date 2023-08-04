@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md"
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md"
               }
             }
           },
@@ -295,10 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daaf6624e0874be6",
+  "active": "2909f9096544883f",
   "lastOpenFiles": [
-    "Basta um único pensamento para mudar a realidade.md",
+    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/Modelagem.md",
+    "Basta um único pensamento para mudar a realidade.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "4 forças fundamentais do Universo.md",
     "Só vai ter resultados maciços na sua vida quando todos os preconceitos forem jogados no lixo.md",
@@ -322,7 +323,6 @@
     "2. Literature Notes/Topics/A boca fala o que o coração está cheio.md",
     "2. Literature Notes/Topics/Comece a decretar o que você quer que o Universo te mostre.md",
     "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
-    "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
