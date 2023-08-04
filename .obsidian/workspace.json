@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Solta a caneta.md",
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Solta a caneta.md",
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Solta a caneta.md"
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dfe5d84125f3110",
+  "active": "2909f9096544883f",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Solta a caneta.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
     "2. Literature Notes/People/Hélio Couto.md",
