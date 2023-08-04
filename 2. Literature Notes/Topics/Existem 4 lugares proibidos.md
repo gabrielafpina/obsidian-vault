@@ -21,6 +21,7 @@ Os lugares proibidos são:
 	4. O pior do papel da vítima é acreditar nesse papel, acreditar que a vida tá ruim e colocar a culpa em outra pessoa.
 4. **Adulto infantilóide**
 	1. Quando você acha que alguém vai fazer por você aquilo que é seu. É achar que o outro tem a obrigação de fazer a sua parte.
+	2. Quando o adulto não faz o processo de cura da sua criança ferida, ele se mantém um adulto infantilóide e se permite ser manipulado pelas suas companhias. Essa pessoa vai sendo sugestionada pelo outro e na hora de assumir sua responsabilidade, ela fala que só obedece ordens.
 
 **COMO:**
 
@@ -42,3 +43,4 @@ Os lugares proibidos são:
 - [[O vazio de si mesmo faz com que você aceite a migalha do outro]]
 - [[É inteligente dar somente para quem pede]]
 - [[Ninguém tem que porra nenhuma]]
+- [[Você está pensando ou você está sendo pensado?]]
