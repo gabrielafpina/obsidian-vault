@@ -25,3 +25,4 @@ Exercício que o [[Hélio Couto]] fazia nas imersões dele de [[PNL]]. Ele pedia
 
 **Sul: para onde vai**
 - [[O mapa não é o território]]
+- [[O quanto a minha mente é capaz de me sabotar?]]

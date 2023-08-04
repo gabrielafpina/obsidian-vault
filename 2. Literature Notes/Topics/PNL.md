@@ -45,3 +45,4 @@
 - [[Modelagem]]
 - [[Sessão a Sessão de PNL]]
 - [[O mapa não é o território]]
+- [[A melhor forma de programar uma pessoa é contar uma história]]
