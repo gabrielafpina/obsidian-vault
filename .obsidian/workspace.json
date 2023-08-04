@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "7fe0a56ca68aee86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Só vai ter resultados maciços na sua vida quando todos os preconceitos forem jogados no lixo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac8f65dea847bfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 forças fundamentais do Universo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59839d80cec7f108",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basta um único pensamento para mudar a realidade.md",
+                "file": "4 forças fundamentais do Universo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basta um único pensamento para mudar a realidade.md",
+                "file": "4 forças fundamentais do Universo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basta um único pensamento para mudar a realidade.md"
+                "file": "4 forças fundamentais do Universo.md"
               }
             }
           },
@@ -259,10 +283,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2f3a7b9ad51b7a0",
+  "active": "ac8f65dea847bfdd",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+    "Só vai ter resultados maciços na sua vida quando todos os preconceitos forem jogados no lixo.md",
+    "4 forças fundamentais do Universo.md",
     "Basta um único pensamento para mudar a realidade.md",
+    "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
     "2. Literature Notes/Topics/A natureza é abundante.md",
     "2. Literature Notes/Topics/Solta a caneta.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
@@ -285,8 +311,6 @@
     "2. Literature Notes/Topics/A sua intenção serve o sue coração ou a sua ganância?.md",
     "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "2. Literature Notes/Topics/Você é a sua própria medicina.md",
-    "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
-    "2. Literature Notes/Topics/Eu não sou mais, nem menos do que ninguém.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
