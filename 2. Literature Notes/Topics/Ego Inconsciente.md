@@ -22,5 +22,6 @@
 
 **Norte: ideia/pergunta**
 - [[teoria dos mecanismos de defesa]]
+- [[Ego]]
 
 **Sul: para onde vai**
