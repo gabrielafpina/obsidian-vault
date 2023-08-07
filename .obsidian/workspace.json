@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ego inconsciente",
+                "query": "metapro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -212,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1af18b11c3ef7a9",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Ego Inconsciente.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
