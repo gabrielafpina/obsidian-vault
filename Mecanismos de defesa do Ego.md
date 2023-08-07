@@ -23,6 +23,9 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 3. **Regressão**
 	1. Você volta a um estado emocional infantil, em seus medos inconscientes, ansiedade e 'angústia' geralmente aparecem.
 	2. Aqui, uma pessoa reverte-se para um estado infantil, quando está em tensão. Envolve tomar a posição de criança em alguma situação problemática, em vez de agir de forma adulta.
+	3. Recusa-se a falar sobre as coisas que estão fazendo ou fizeram mal a você; ou que te deixaram triste, frustrado, por exemplo, pode intensificar sua raiva reprimida. O problema com isso é que você pode se tornar uma pessoa auto destrutiva, por não querer mais ver, ouvir ou falar sobre o assunto que te aflige e acaba jogando a sua raiva, tristeza e mau humor no outro. Ao invés de resolver, fica de mau humor. [[Existem 4 lugares proibidos]].
+4. **Deslocamento**
+	1. Você transfere os seus sentimentos originais perig
 
 **PENSADORES:**
 
