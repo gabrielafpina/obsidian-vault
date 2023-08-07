@@ -25,7 +25,9 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	2. Aqui, uma pessoa reverte-se para um estado infantil, quando está em tensão. Envolve tomar a posição de criança em alguma situação problemática, em vez de agir de forma adulta.
 	3. Recusa-se a falar sobre as coisas que estão fazendo ou fizeram mal a você; ou que te deixaram triste, frustrado, por exemplo, pode intensificar sua raiva reprimida. O problema com isso é que você pode se tornar uma pessoa auto destrutiva, por não querer mais ver, ouvir ou falar sobre o assunto que te aflige e acaba jogando a sua raiva, tristeza e mau humor no outro. Ao invés de resolver, fica de mau humor. [[Existem 4 lugares proibidos]].
 4. **Deslocamento**
-	1. Você transfere os seus sentimentos originais perig
+	1. Você transfere os seus sentimentos originais perigosos (geralmente raiva) para longe da pessoa que é o verdadeiro responsável pelo mal que possa ter feito a você, e desloca toda a sua energia para outro alvo: uma vítima mais infeliz e inofensiva do que você.
+	2. É o mecanismo psicológico de defesa em que a pessoa substitui a finalidade inicial de uma pulsão por outra diferente e socialmente mais aceita.
+	3. Toda vez que você mudar os seus verdadeiros sentimentos da sua fonte provocadora de ansiedade original para quem você percebe como menos provável de causar-lhe mal, você está muito possivelmente usando deslocamento como mecanismo de defesa.
 
 **PENSADORES:**
 
