@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1af18b11c3ef7a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb6c11354d9f461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f0c2e9ed5cc5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basta um único pensamento para mudar a realidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa810e63cc533ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e996bd67489668a1",
             "type": "leaf",
             "state": {
@@ -104,18 +56,6 @@
             }
           },
           {
-            "id": "5ae3a9ffd33919a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0cf0a40b4416d91e",
             "type": "leaf",
             "state": {
@@ -152,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Crenças são como lâmpadas.md"
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md"
               }
             }
           },
@@ -331,14 +271,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ae3a9ffd33919a9",
+  "active": "0cf0a40b4416d91e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+    "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
     "Basta um único pensamento para mudar a realidade.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
@@ -358,7 +299,6 @@
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/People/Hélio Couto.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
