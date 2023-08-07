@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md"
+                "file": "2. Literature Notes/Topics/crenças.md"
               }
             }
           },
@@ -307,7 +307,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0cf0a40b4416d91e",
+  "active": "5eb117dcebe2b8ce",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
