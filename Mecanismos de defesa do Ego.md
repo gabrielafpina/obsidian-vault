@@ -12,6 +12,9 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 **PRINCIPAIS MECANISMOS DE DEFESA:**
 1. **Negação** ou posição avestruz
 	1. Quando você usa a negação, você simplesmente se recusa a aceitar a verdade ou a realidade de um fato ou experiência. 'Não, não. Eu sou apenas um fumante social.' Existe justificativa para tudo aqui. [[A justificativa perpetua a mediocridade]].
+	2. As pessoas podem aplicar esse mecanismo a qualquer mau hábito que desejam se distanciar, incluindo uso excessivo de álcool ou uso de drogas, compras compulsivas ou jogos de azar, etc.
+	3. A pessoa diz não, para tentar proteger o seu próprio [[Ego]], não reconhecendo o seu próprio comportamento e assim fingir que nada está acontecendo de errado.
+	4. Também pode ser utilizada por vítimas de traumatismo ou de desastres e pode ser mesmo uma resposta protetora inicial benéfica.
 
 **PENSADORES:**
 
