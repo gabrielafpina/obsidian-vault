@@ -32,6 +32,7 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 **PENSADORES:**
 
 **FRASES:**
+- [[Sigmund Freud]]: 'a inteligência é a única forma de controlarmos os nossos instintos'.
 
 ---------
 
