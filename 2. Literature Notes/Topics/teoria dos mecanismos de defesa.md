@@ -34,3 +34,4 @@ Nesse sentido, mecanismos de defesa são processos psicológicos automáticos qu
 
 **Sul: para onde vai**
 - [[Instinto de sobrevivência]]
+- [[Mecanismos de defesa do Ego]]
