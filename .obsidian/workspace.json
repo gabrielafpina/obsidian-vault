@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4f0c2e9ed5cc5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basta um único pensamento para mudar a realidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mentalismo",
+                "query": "basta um ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md",
+                "file": "Basta um único pensamento para mudar a realidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md",
+                "file": "Basta um único pensamento para mudar a realidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mentalismo.md"
+                "file": "Basta um único pensamento para mudar a realidade.md"
               }
             }
           },
@@ -224,8 +236,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cb6c11354d9f461",
+  "active": "c4f0c2e9ed5cc5f8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Ego Inconsciente.md",
@@ -251,7 +264,6 @@
     "2. Literature Notes/Topics/Troque 'incrível' por 'extraordinário'.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
     "2. Literature Notes/Topics/Se você não acredita em algo, você procura pessoas na mesma frequência.md",
-    "2. Literature Notes/Topics/Se você não cria a sua referência, você vai fazer parte da referência de alguém.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
