@@ -17,7 +17,12 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	4. Também pode ser utilizada por vítimas de traumatismo ou de desastres e pode ser mesmo uma resposta protetora inicial benéfica.
 		1. Pode ser bom em um primeiro momento, quando você abafa a ansiedade, ms se você continua fazendo isso, pode ser perigoso. A longo prazo, a negação pode impedi-lo de incorporar informações desagradáveis sobre você e sua vida e ter consequências potencialmente destrutivas.
 2. **Repressão** 
-	1. Envolve simplesmente esquecer de algo ruim.
+	1. Envolve simplesmente esquecer momentos traumáticos e de extrema angústia.
+	2. Você também pode usar a repressão quando você 'esquecer' de fazer algo desagradável, como ir ao dentista ou ao encontro com um conhecido que você não gosta.
+	3. Pode ser temporariamente benéfica, principalmente de você se esqueceu de algo ruim que aconteceu com você. Como acontece com a negação, se você não vir a enfrentar a experiência, ela pode voltar para assombrá-la.
+3. **Regressão**
+	1. Você volta a um estado emocional infantil, em seus medos inconscientes, ansiedade e 'angústia' geralmente aparecem.
+	2. Aqui, uma pessoa reverte-se para um estado infantil, quando está em tensão. Envolve tomar a posição de criança em alguma situação problemática, em vez de agir de forma adulta.
 
 **PENSADORES:**
 
