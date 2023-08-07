@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanismos de defesa do Ego.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mecanismos de defesa do Ego.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mecanismos de defesa do Ego.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mecanismos de defesa do Ego.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
               }
             }
           },
@@ -211,11 +212,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "d1af18b11c3ef7a9",
   "lastOpenFiles": [
+    "Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Ego Inconsciente.md",
     "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
-    "Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/A natureza é abundante.md",
     "4 forças fundamentais do Universo.md",
     "Só vai ter resultados maciços na sua vida quando todos os preconceitos forem jogados no lixo.md",
