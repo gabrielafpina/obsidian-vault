@@ -9,7 +9,7 @@ Uma crença é um comando que damos para nós mesmos. Quando acreditamos em algo
 
 O que a maior parte das pessoas não tem em mente, no entanto, é que crenças são escolhas. 
 
-Crenças são a forma como a nossa vida é ordenada. Toda a nossa realidade é criada a partir da nossa vibração e as nossas vibrações são controladas pelas nossas crenças, que podem ser positivas ou limitantes.
+Crenças são a forma como a nossa vida é ordenada. Toda a nossa realidade é criada a partir da nossa vibração e as nossas vibrações são controladas pelas nossas crenças, que podem ser positivas ou limitantes. [[Lei da Vibração]]
 
 Para a nossa criança interior, as crenças são muito importantes. São a proteção dela. Ela faz de tudo para evitar o trauma. A nossa criança interior é quem rege o nosso subconsciente e a nossa vibração. As crenças nos servem e já nos serviram durante toda a nossa vida.
 

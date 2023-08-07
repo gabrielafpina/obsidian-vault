@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "411d17020e6d3776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ego Inconsciente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1af18b11c3ef7a9",
             "type": "leaf",
             "state": {
@@ -66,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e996bd67489668a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e37a76e465b196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5eb117dcebe2b8ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basta um ",
+                "query": "crenças",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -168,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "file": "2. Literature Notes/Topics/crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md"
+                "file": "2. Literature Notes/Topics/crenças.md"
               }
             }
           },
@@ -248,8 +271,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa810e63cc533ed5",
+  "active": "5eb117dcebe2b8ce",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
+    "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
     "Basta um único pensamento para mudar a realidade.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
@@ -262,10 +288,8 @@
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "As pessoas querem os resultados, mas não querem a mudança.md",
-    "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/Modelagem.md",
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Solta a caneta.md",
     "2. Literature Notes/Topics/PNL.md",
     "2. Literature Notes/People/Hélio Couto.md",
@@ -275,7 +299,6 @@
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Troque 'incrível' por 'extraordinário'.md",
     "4. Me, Myself and I/Brainstorming/Termos que quero usar.md",
-    "2. Literature Notes/Topics/Se você não acredita em algo, você procura pessoas na mesma frequência.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
