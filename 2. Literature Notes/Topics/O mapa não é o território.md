@@ -50,3 +50,4 @@ Constantemente, as pessoas ficam putas, porque querem que o mapa dela e se sobre
 - Menos julgamento do outro
 - [[Percepção é o que controla a sua biologia]]
 - [[Modelagem]]
+- [[Solta a caneta]]
