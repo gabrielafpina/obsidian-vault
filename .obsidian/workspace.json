@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hélio",
+                "query": "materializ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +186,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -320,7 +319,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b1555f72069aacd",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
     "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
