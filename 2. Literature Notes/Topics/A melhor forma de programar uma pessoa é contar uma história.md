@@ -13,6 +13,8 @@ Tudo são histórias que, se contadas por muito tempo, passam a se tornar [[cren
 
 É tudo sobre implantar um programa na cabeça da pessoa, alterando a percepção que ela tem sobre a vida. Isso é [[PNL]].
 
+Qualquer história grava mapa, por isso, é inteligente selecionar as coisas que ouve e vê.
+
 **COMO:**
 
 **PENSADORES:**
@@ -27,6 +29,7 @@ Tudo são histórias que, se contadas por muito tempo, passam a se tornar [[cren
 
 **Norte: ideia/pergunta**
 - [[A Verdadeira vontade que existe é a do seu coração]]
+- [[O mapa não é o território]]u
 
 **Sul: para onde vai**
 - [[Como fazer hipnose?]]
