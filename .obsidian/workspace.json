@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "e76b5ae6eca95d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0cef971215e0d6b",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ressignificar",
+                "query": "hélio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O dinheiro é criado pela mente.md",
+                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O dinheiro é criado pela mente.md",
+                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O dinheiro é criado pela mente.md"
+                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md"
               }
             }
           },

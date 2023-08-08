@@ -12,6 +12,7 @@ A alegria não vem da crença/experiência negativa em si, mas da oportunidade q
 Em outras palavras, encontrar dentro de nós as coisas que não são nossa alegria nos dá a oportunidade de mudar e evoluir. Ao enfrentarmos e transformarmos essas partes de nós mesmos, abrimos espaço para mais alegria e positividade em nossa vida. Assim, mesmo as experiências e sentimentos negativos se tornam, de certa forma, uma fonte de alegria, porque nos dão a oportunidade de se tornar uma versão mais consciente, autêntica e alegre de nós mesmos.
 
 **COMO:**
+[[Hélio Couto]] afirma que uma forma de ressignificar pessoas e [[crenças]] é colocá-las em sua mão e visualizá-las como um palhaço nas suas mãos, ou dissolver aquilo e jogar no sol. É você ressignificar o seu mapa. [[O mapa não é o território]].
 
 **PENSADORES:**
 
@@ -24,8 +25,8 @@ Em outras palavras, encontrar dentro de nós as coisas que não são nossa alegr
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[crenças]]
 - [[Espelho reflexivo]]
+- [[PNL]]
 
 **Sul: para onde vai**
 - [[O desespero do homem é a oportunidade de Deus]]
