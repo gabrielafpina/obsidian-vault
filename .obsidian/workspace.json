@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "513082cd9684869b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "06b864b0829a28d0",
             "type": "leaf",
             "state": {
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como instalar uma âncora?.md"
+                "file": "2. Literature Notes/Topics/O mapa não é o território.md"
               }
             }
           },
@@ -223,11 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "06b864b0829a28d0",
+  "active": "513082cd9684869b",
   "lastOpenFiles": [
-    "Se você receber um brinde, sai correndo.md",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "Como abrir o subconsciente?.md",
+    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
+    "Se você receber um brinde, sai correndo.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/Como fazer autohipnose?.md",
