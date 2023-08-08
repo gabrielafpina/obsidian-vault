@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "2b1555f72069aacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0cef971215e0d6b",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "file": "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+                "file": "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md"
+                "file": "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md"
               }
             }
           },
@@ -307,8 +320,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "2b1555f72069aacd",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
+    "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
     "2. Literature Notes/Topics/O dinheiro é criado pela mente.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
@@ -333,8 +348,6 @@
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Ego Inconsciente.md",
-    "2. Literature Notes/Topics/teoria dos mecanismos de defesa.md",
-    "2. Literature Notes/Topics/A natureza é abundante.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
