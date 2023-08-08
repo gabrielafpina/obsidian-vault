@@ -59,7 +59,8 @@ Basicamente, você coloca a pessoa em um estado emocional e você cria um estím
 9. Dispara o estado ruim com a âncora ruim e dispara o estado positivo com a âncora positiva, ao mesmo tempo. O estado ruim vai perdendo efeito, até que ele deixa de existir. 
 	1. Quando você bate um de frente com o outro, o mais forte sobrevive. Então, é importante que o seu estado emocional bom esteja muito mais poderoso do que o seu estado ruim.
 
-**FRASES:**
+**PENSADORES:**
+- [[Hélio Couto]] afirma que é interessante fazer a âncora 5x para que ela tenha efetividade.
 
 ---------
 
@@ -71,3 +72,4 @@ Basicamente, você coloca a pessoa em um estado emocional e você cria um estím
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Se você receber um brinde, sai correndo]]
