@@ -28,3 +28,4 @@ Se você se junta com alguma coisa, quer dizer que você está na mesma frequên
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O dinheiro é criado pela mente]]
