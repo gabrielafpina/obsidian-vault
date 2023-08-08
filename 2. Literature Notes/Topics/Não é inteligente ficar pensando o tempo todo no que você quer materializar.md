@@ -26,5 +26,6 @@ Crie o que você quer e solte, para que aquilo se manifeste na sua vida, atravé
 **Norte: ideia/pergunta**
 - [[O primeiro passo para a manifestação é a gratidão]]
 - [[Quando eu acredito no meu coração, tudo que eu almejo se manifesta]]
+- [[Basta um único pensamento para mudar a realidade]]
 
 **Sul: para onde vai**

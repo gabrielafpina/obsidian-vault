@@ -13,7 +13,9 @@ Que tipo de pensamento? Se você tem o mapa errado, você pensa errado. [[O mapa
 
 [[Só vai ter resultados maciços na sua vida quando todos os preconceitos forem jogados no lixo]].
 
-Qualquer coisa pensada é criada.
+Qualquer coisa pensada é criada. 
+
+Pensou, mudou.
 
 **COMO:**
 
