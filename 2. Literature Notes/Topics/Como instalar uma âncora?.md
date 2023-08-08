@@ -14,7 +14,7 @@ A partir disso, entendemos que um hábito atrela-se, necessariamente, a alguma �
 Existem âncoras positivas e âncoras negativas, que remetem as pessoas a coisas positivas ou negativas.
 
 Uma âncora é uma neuroassociação.
-Tem que ser a 
+Tem que ser a mesma intensidade, a mesma entonação, a mesma palavra-chave, o mesmo toque.
 
 **COMO CRIAR UMA ÂNCORA POSITIVA:**
 Antes de mais nada, é importante afirmar que o segredo está, não no número de repetições que você faz, mas sim, com a intensidade que o estado emocional acontece. Quanto mais forte o estado emocional, mais forte a âncora.
