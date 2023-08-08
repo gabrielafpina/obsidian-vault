@@ -58,3 +58,4 @@ Você detecta as crenças a partir da auto observação. Começo a observar as �
 - [[Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma]]
 - [[5 Perguntas Fundamentais de Permissão]]
 - [[O mapa não é o território]]
+- [[Crenças são como lâmpadas]]
