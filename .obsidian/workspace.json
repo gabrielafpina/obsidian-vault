@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
+                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md"
+                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md"
               }
             }
           },
@@ -320,8 +320,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2dbda14f6c1f1581",
+  "active": "dc3cc51ea5df36ea",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
@@ -347,7 +348,6 @@
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Se você receber um brinde, sai correndo.md",
     "2. Literature Notes/Topics/Como fazer hipnose?.md",
-    "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
