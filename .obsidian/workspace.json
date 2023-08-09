@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25f5d65628b65699",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
