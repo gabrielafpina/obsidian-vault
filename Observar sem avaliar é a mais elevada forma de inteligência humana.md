@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Comunicação Não-Violenta (CNV)]] [[Marshall Rosenberg]]
 
 **BIG IDEA:** 
 
@@ -19,5 +19,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Mindfulness]]
 
 **Sul: para onde vai**

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f8f3aebe24f993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a1d49dd28b6c9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Observar sem avaliar é a mais elevada forma de inteligência humana.md"
               }
             }
           },
@@ -200,9 +225,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "33956eadef949e48",
+  "active": "90f8f3aebe24f993",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
+    "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
+    "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
@@ -226,8 +253,6 @@
     "2. Literature Notes/Topics/espelhamento.md",
     "2. Literature Notes/Topics/Conhecimento é poder.md",
     "2. Literature Notes/Topics/Rapport.md",
-    "2. Literature Notes/Topics/Como abrir o subconsciente?.md",
-    "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
