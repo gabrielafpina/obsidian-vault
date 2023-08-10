@@ -11,6 +11,12 @@ Um ponto de vista tem múltiplas polaridades de outros pontos de vista. Assim, [
 
 Toda verdade é uma meia verdade, porque ela está polarizada. Toda verdade tem diversos diferentes pontos de vista e todos eles são verdadeiros.
 
+Existem vários graus entre uma polaridade e outra. E nós podemos transitar nessas polaridades.
+
+Se eu vou só pra uma polaridade, uma hora eu vou ser arremessado para o outro lado. Ex: ser bonzinho no trabalho pode me fazer querer arregaçar a minha família.
+
+Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
+
 **COMO:**
 
 **PENSADORES:**
