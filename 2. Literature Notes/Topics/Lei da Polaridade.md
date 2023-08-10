@@ -23,6 +23,8 @@ Não existe certo e errado, existem diferentes pontos de vista e compreensão so
 
 Muitas vezes, é um desafio acreditar na possibilidade de que tudo o que você sabia, não é a verdade, porque você vai aprendendo muitas coisas. [[Aprender a desaprender é uma qualidade poderosa]].
 
+Esse princípio pode te ajudar a compreender em qual polaridade o seu pensamento está. Você pode elevar ou diminuir a vibração, transitando entre a natpolaridade
+
 **COMO:**
 
 **PENSADORES:**

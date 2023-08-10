@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pergunta",
+                "query": "aprender",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md"
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md"
               }
             }
           },
@@ -308,13 +307,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "ce2df6688c78fc73",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
+    "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
+    "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Lei da Polaridade.md",
-    "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/People/Buda.md",
     "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
     "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",

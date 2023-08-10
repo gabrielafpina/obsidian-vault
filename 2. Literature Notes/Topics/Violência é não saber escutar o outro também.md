@@ -9,7 +9,9 @@ Se o que as pessoas tem para te falar, existe a possibilidade que você já sabe
 
 Escuta a pessoa até a última palavra dela, para quando ela terminar de falar, você perceber que o outro pode até ficar sem graça, e questionar 'você não vai falar nada?'. Você pode falar 'o que você quer que eu fale?'. As vezes, a pessoa só quer ser ouvida.
 
-É seguro escutar uma pessoa até o fim. e fica em silêncio esperando e ouvindo. Caso a pessoa pergunte 'o que você acha sobre isso?'. Você responde e pergunta 'Qual é a sua intenção ao me falar isso? Você quer que eu fale a minha opinião ou apenas ouça?'
+É seguro escutar uma pessoa até o fim. e fica em silêncio esperando e ouvindo. Caso a pessoa pergunte 'o que você acha sobre isso?'. Você responde e pergunta 'Qual é a sua intenção ao me falar isso? Você quer que eu fale a minha opinião ou apenas ouça?'.
+
+
 
 **COMO:**
 
