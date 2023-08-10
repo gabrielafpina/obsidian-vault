@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b7a4e0bf4c9cc439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed40938d73cc9ce4",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Você se justifica porque quer ser aprovado pelo outro.md"
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md"
               }
             }
           },
@@ -295,10 +307,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "b7a4e0bf4c9cc439",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Pedidos não são exigências.md",
     "Você se justifica porque quer ser aprovado pelo outro.md",
+    "2. Literature Notes/Topics/Pedidos não são exigências.md",
     "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
