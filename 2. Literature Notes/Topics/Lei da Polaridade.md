@@ -23,7 +23,7 @@ Não existe certo e errado, existem diferentes pontos de vista e compreensão so
 
 Muitas vezes, é um desafio acreditar na possibilidade de que tudo o que você sabia, não é a verdade, porque você vai aprendendo muitas coisas. [[Aprender a desaprender é uma qualidade poderosa]].
 
-Esse princípio pode te ajudar a compreender em qual polaridade o seu pensamento está. Você pode elevar ou diminuir a vibração, transitando entre a natpolaridade
+Esse princípio pode te ajudar a compreender em qual polaridade o seu pensamento está. Você pode elevar ou diminuir a vibração, transitando entre a natureza da polaridade e transformar os seus pensamentos, se transformando um mestre dos seus pensamentos. E aí eu penso, não sou pensado. [[Você está pensando ou você está sendo pensado?]]
 
 **COMO:**
 
@@ -38,6 +38,7 @@ Esse princípio pode te ajudar a compreender em qual polaridade o seu pensamento
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Lei da Vibração]]
 
 **Sul: para onde vai**
 - [[O mapa não é o território]]
