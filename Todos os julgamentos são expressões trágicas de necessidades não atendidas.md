@@ -27,3 +27,4 @@
 
 **Sul: para onde vai**
 - [[Observar sem avaliar é a mais elevada forma de inteligência humana]]
+- [[O outro é apenas extensão de mim mesmo]]

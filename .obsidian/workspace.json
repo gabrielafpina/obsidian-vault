@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "1625c65df213affa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O outro é apenas extensão de mim mesmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce2df6688c78fc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90f8f3aebe24f993",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
+                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
+                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md"
+                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md"
               }
             }
           },
@@ -223,11 +248,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90f8f3aebe24f993",
+  "active": "ce2df6688c78fc73",
   "lastOpenFiles": [
-    "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
-    "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
+    "O outro é apenas extensão de mim mesmo.md",
+    "2. Literature Notes/Topics/Princípio da Polaridade.md",
     "Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
+    "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
+    "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
@@ -249,8 +276,6 @@
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
-    "2. Literature Notes/Topics/espelhamento.md",
-    "2. Literature Notes/Topics/Conhecimento é poder.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
