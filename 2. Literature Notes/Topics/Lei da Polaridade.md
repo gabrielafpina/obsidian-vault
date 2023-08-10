@@ -15,7 +15,7 @@ Existem vários graus entre uma polaridade e outra. E nós podemos transitar nes
 
 Se eu vou só pra uma polaridade, uma hora eu vou ser arremessado para o outro lado. Ex: ser bonzinho no trabalho pode me fazer querer arregaçar a minha família.
 
-Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
+Por isso, [[Buda]] afirma que o caminho é o caminho do meio. [[O caminho do meio é o caminho do equilíbrio]].
 
 Assim, quanto mais você está aberto e disposto para ouvir novos pontos de vista, quem aprende é você mesmo. [[Violência é não saber escutar o outro também]].
 

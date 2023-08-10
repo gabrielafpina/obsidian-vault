@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e6e30fe808739de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O caminho do meio é o caminho do equilíbrio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c0ae06aa134d83a",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "file": "O caminho do meio é o caminho do equilíbrio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "file": "O caminho do meio é o caminho do equilíbrio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md"
+                "file": "O caminho do meio é o caminho do equilíbrio.md"
               }
             }
           },
@@ -307,11 +319,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7a4e0bf4c9cc439",
+  "active": "e6e30fe808739de7",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Polaridade.md",
+    "O caminho do meio é o caminho do equilíbrio.md",
+    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "Você se justifica porque quer ser aprovado pelo outro.md",
     "2. Literature Notes/Topics/Pedidos não são exigências.md",
-    "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
@@ -333,8 +347,6 @@
     "2. Literature Notes/Topics/Os 5 principais tipos de crenças.md",
     "2. Literature Notes/Topics/Quais são as áreas que mais existem crenças?.md",
     "2. Literature Notes/Topics/crenças.md",
-    "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
-    "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
