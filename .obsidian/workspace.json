@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "0f81c4055248c726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed40938d73cc9ce4",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aprender",
+                "query": "justifica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Pedidos não são exigências.md",
+                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Pedidos não são exigências.md",
+                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Pedidos não são exigências.md"
+                "file": "Você se justifica porque quer ser aprovado pelo outro.md"
               }
             }
           },
@@ -284,10 +295,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0ae06aa134d83a",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Pedidos não são exigências.md",
+    "Você se justifica porque quer ser aprovado pelo outro.md",
+    "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
@@ -311,7 +323,6 @@
     "2. Literature Notes/Topics/crenças.md",
     "2. Literature Notes/Topics/Todas as suas crenças começam no ventre da sua mãe.md",
     "2. Literature Notes/Topics/crenças não tem sua própria energia.md",
-    "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
