@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33956eadef949e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1625c65df213affa",
             "type": "leaf",
             "state": {
@@ -38,18 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "101bbd0307c7bb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,33 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90f8f3aebe24f993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a1d49dd28b6c9ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md"
+                "file": "2. Literature Notes/Topics/Lei da Polaridade.md"
               }
             }
           },
@@ -320,10 +272,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "101bbd0307c7bb96",
+  "active": "ce2df6688c78fc73",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
+    "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
     "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
