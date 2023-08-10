@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O outro é apenas extensão de mim mesmo.md",
+                "file": "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +38,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdb6ee793c0b6465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Violência é não saber escutar o outro também.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
+                "file": "Violência é não saber escutar o outro também.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
+                "file": "Violência é não saber escutar o outro também.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Polaridade.md"
+                "file": "Violência é não saber escutar o outro também.md"
               }
             }
           },
@@ -272,14 +284,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce2df6688c78fc73",
+  "active": "bdb6ee793c0b6465",
   "lastOpenFiles": [
-    "Buda.md",
     "2. Literature Notes/Topics/Lei da Polaridade.md",
+    "Violência é não saber escutar o outro também.md",
+    "2. Literature Notes/People/Buda.md",
     "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
     "todas as percepções carregam em si alguma verdade.md",
     "7. Creator/Reels/Pare de pedir desculpa.md",
-    "O outro é apenas extensão de mim mesmo.md",
+    "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
     "Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
     "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
@@ -299,7 +312,6 @@
     "4. Me, Myself and I/Brainstorming/Público-Alvo.md",
     "2. Literature Notes/Topics/Basta um único pensamento para mudar a realidade.md",
     "2. Literature Notes/Topics/Não é inteligente ficar pensando o tempo todo no que você quer materializar.md",
-    "2. Literature Notes/Topics/Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

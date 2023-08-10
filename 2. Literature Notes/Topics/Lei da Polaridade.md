@@ -11,11 +11,13 @@ Um ponto de vista tem múltiplas polaridades de outros pontos de vista. Assim, [
 
 Toda verdade é uma meia verdade, porque ela está polarizada. Toda verdade tem diversos diferentes pontos de vista e todos eles são verdadeiros.
 
-Existem vários graus entre uma polaridade e outra. E nós podemos transitar nessas polaridades.
+Existem vários graus entre uma polaridade e outra. E nós podemos transitar nessas polaridades de mesma natureza.
 
 Se eu vou só pra uma polaridade, uma hora eu vou ser arremessado para o outro lado. Ex: ser bonzinho no trabalho pode me fazer querer arregaçar a minha família.
 
 Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
+
+Assim, quanto mais você está aberto e disposto para ouvir novos pontos de vista, quem aprende é você mesmo. [[Violência é não saber escutar o outro também]]
 
 **COMO:**
 
@@ -33,3 +35,4 @@ Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
 
 **Sul: para onde vai**
 - [[O mapa não é o território]]
+- [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
