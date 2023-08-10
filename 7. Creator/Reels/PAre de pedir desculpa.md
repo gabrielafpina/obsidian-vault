@@ -23,6 +23,7 @@ Depois que eu descobri isso, parei de pedir desculpa. Melhor, parei de usar a pa
 ---------
 
 **Oeste: similar**
+- [[Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar]]
 
 **Leste: oposto**
 
