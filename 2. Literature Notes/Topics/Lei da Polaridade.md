@@ -17,7 +17,9 @@ Se eu vou só pra uma polaridade, uma hora eu vou ser arremessado para o outro l
 
 Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
 
-Assim, quanto mais você está aberto e disposto para ouvir novos pontos de vista, quem aprende é você mesmo. [[Violência é não saber escutar o outro também]]
+Assim, quanto mais você está aberto e disposto para ouvir novos pontos de vista, quem aprende é você mesmo. [[Violência é não saber escutar o outro também]].
+
+Não existe certo e errado, existem diferentes pontos de vista e compreensão sobre a mesma verdade.
 
 **COMO:**
 
