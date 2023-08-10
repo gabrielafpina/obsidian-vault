@@ -9,6 +9,8 @@ Tudo é duplo. Tudo tem dois polos, tudo tem seu par de oposto, o semelhante e o
 
 Um ponto de vista tem múltiplas polaridades de outros pontos de vista. Assim, [[todas as percepções carregam em si alguma verdade]].
 
+Toda verdade é uma meia verdade, porque ela está polarizada. Toda verdade tem diversos diferentes pontos de vista e todos eles são verdadeiros.
+
 **COMO:**
 
 **PENSADORES:**

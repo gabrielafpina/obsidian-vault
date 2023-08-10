@@ -23,7 +23,7 @@ Quem está falando a verdade, então? Todos estão falando as suas verdades. Nã
 
 **Norte: ideia/pergunta**
 - [[Percepção é o que controla a sua biologia]]
-- [[Princípio da Polaridade]]
+- [[Lei da Polaridade]]
 
 **Sul: para onde vai**
 - [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]]
