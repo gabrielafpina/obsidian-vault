@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7d9ac2bf9f5211a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todas as percepções carregam em si alguma verdade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90f8f3aebe24f993",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md",
+                "file": "todas as percepções carregam em si alguma verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md",
+                "file": "todas as percepções carregam em si alguma verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Polaridade.md"
+                "file": "todas as percepções carregam em si alguma verdade.md"
               }
             }
           },
@@ -248,10 +260,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce2df6688c78fc73",
+  "active": "7d9ac2bf9f5211a3",
   "lastOpenFiles": [
-    "O outro é apenas extensão de mim mesmo.md",
     "2. Literature Notes/Topics/Princípio da Polaridade.md",
+    "todas as percepções carregam em si alguma verdade.md",
+    "O outro é apenas extensão de mim mesmo.md",
     "Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
     "Observar sem avaliar é a mais elevada forma de inteligência humana.md",
@@ -275,7 +288,6 @@
     "2. Literature Notes/Topics/O dinheiro é criado pela mente.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-    "2. Literature Notes/Topics/A melhor forma de programar uma pessoa é contar uma história.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
