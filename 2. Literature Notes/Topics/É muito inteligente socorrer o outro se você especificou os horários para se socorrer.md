@@ -26,3 +26,4 @@ Se você abre mão de você mesmo, quem é que não vai abrir? Se você não abr
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Não existe culpa, existe responsabilidade]]
