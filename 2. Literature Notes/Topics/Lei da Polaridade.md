@@ -19,7 +19,9 @@ Por isso, [[Buda]] afirma que o caminho é o caminho do meio.
 
 Assim, quanto mais você está aberto e disposto para ouvir novos pontos de vista, quem aprende é você mesmo. [[Violência é não saber escutar o outro também]].
 
-Não existe certo e errado, existem diferentes pontos de vista e compreensão sobre a mesma verdade.
+Não existe certo e errado, existem diferentes pontos de vista e compreensão sobre a mesma verdade. Cada pessoa passa uma informação e uma verdade de acordo com a própria percepção de vida.
+
+Muitas vezes, é um desafio acreditar na possibilidade de que tudo o que você sabia, não é a verdade, porque você vai aprendendo muitas coisas. [[Aprender a desaprender é uma qualidade poderosa]].
 
 **COMO:**
 
@@ -38,3 +40,4 @@ Não existe certo e errado, existem diferentes pontos de vista e compreensão so
 **Sul: para onde vai**
 - [[O mapa não é o território]]
 - [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
+- [[Percepção é o que controla a sua biologia]]
