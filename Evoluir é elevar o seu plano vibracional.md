@@ -24,3 +24,4 @@ Quanto mais alto você vibra, mais perto está da vibração do Todo.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã]]
