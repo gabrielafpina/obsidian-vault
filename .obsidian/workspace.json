@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7256535f0e086e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você não vibra impunemente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b5c136fab377f716",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
+                "file": "Você não vibra impunemente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
+                "file": "Você não vibra impunemente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md"
+                "file": "Você não vibra impunemente.md"
               }
             }
           },
@@ -223,11 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26c1fa2b9021d803",
+  "active": "7256535f0e086e30",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "Você não vibra impunemente.md",
     "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
     "Evoluir é elevar o seu plano vibracional.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
     "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
@@ -250,7 +263,6 @@
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Crenças são como lâmpadas.md",
-    "2. Literature Notes/Topics/As crenças são os compassos e os mapas que nos guiam em direção a nossas metas.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

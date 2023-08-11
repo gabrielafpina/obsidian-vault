@@ -67,3 +67,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Se você não está milionário ainda, é porque você está se divertindo pouco]]
 - [[Toda frustração é uma desconexão do coração]]
 - [[Evoluir é elevar o seu plano vibracional]]
+- [[Você não vibra impunemente]]
