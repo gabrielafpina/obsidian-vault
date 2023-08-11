@@ -27,6 +27,9 @@ Tudo só acontece quando você está na mesma frequência.
 432Hz é uma frequência de cura. É inteligente utilizá-la quando você estiver precisando se curar de alguma dor.
 
 **PENSADORES:**
+- [[Heráclito]]: Ninguém banha-se no mesmo rio duas vezes.
+	- Tudo vibra, tudo se modifica. Tudo está em constante movimento e vibração. Nada está parado; tudo se move e vibra em diferentes frequências. Isso se aplica tanto ao mundo físico quanto ao mundo metafísico. Nada no universo é estático. Tudo está em constante movimento, mudança e fluxo.
+	- Quando você entra em um rio, a água que flui passa por você e continua seu caminho. Se você sair e entrar novamente, a água que agora toca você é diferente da que tocou antes. O rio, embora pareça o mesmo, está em constante mudança.
 
 **FRASES:**
 
@@ -63,3 +66,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Se doeu, pega que é seu]]
 - [[Se você não está milionário ainda, é porque você está se divertindo pouco]]
 - [[Toda frustração é uma desconexão do coração]]
+- [[Evoluir é elevar o seu plano vibracional]]
