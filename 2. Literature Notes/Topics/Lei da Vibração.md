@@ -68,3 +68,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Toda frustração é uma desconexão do coração]]
 - [[Evoluir é elevar o seu plano vibracional]]
 - [[Você não vibra impunemente]]
+- [[Conhece-te a ti mesmo e domina-te a ti mesmo]]
