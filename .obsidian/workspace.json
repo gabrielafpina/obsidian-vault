@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5064a19b17f442c",
+        "id": "ef61f2553453ef91",
         "type": "tabs",
         "children": [
           {
-            "id": "1625c65df213affa",
+            "id": "8d381b763bc9eff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce2df6688c78fc73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Polaridade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e30fe808739de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O caminho do meio é o caminho do equilíbrio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89fdd45349d35235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c0ae06aa134d83a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Pedidos não são exigências.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f81c4055248c726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você se justifica porque quer ser aprovado pelo outro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a4e0bf4c9cc439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed40938d73cc9ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19984c0efde857c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb6ee793c0b6465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d9ac2bf9f5211a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f4f64a601fdccfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "justifica",
+                "query": "lei da vibr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md"
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
               }
             }
           },
@@ -332,24 +198,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89fdd45349d35235",
+  "active": "8d381b763bc9eff2",
   "lastOpenFiles": [
-    "O caminho do meio é o caminho do equilíbrio.md",
-    "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
-    "2. Literature Notes/Topics/Lei da Polaridade.md",
-    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-    "Você se justifica porque quer ser aprovado pelo outro.md",
-    "2. Literature Notes/Topics/Pedidos não são exigências.md",
-    "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
+    "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
+    "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
     "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
+    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+    "Você se justifica porque quer ser aprovado pelo outro.md",
+    "2. Literature Notes/Topics/Pedidos não são exigências.md",
+    "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
+    "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
+    "O caminho do meio é o caminho do equilíbrio.md",
+    "2. Literature Notes/Topics/Lei da Polaridade.md",
+    "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/People/Buda.md",
-    "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
-    "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",
     "7. Creator/Reels/Pare de pedir desculpa.md",
-    "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
     "2. Literature Notes/Topics/Observar sem avaliar é a mais elevada forma de inteligência humana.md",
