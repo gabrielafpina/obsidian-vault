@@ -69,3 +69,4 @@ Tudo só acontece quando você está na mesma frequência.
 - [[Evoluir é elevar o seu plano vibracional]]
 - [[Você não vibra impunemente]]
 - [[Conhece-te a ti mesmo e domina-te a ti mesmo]]
+- [[Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas]]

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c14ba805563f760f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "21641f81aad1cbb7",
             "type": "leaf",
             "state": {
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conhece-te a ti mesmo e domina-te a ti mesmo.md",
+                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conhece-te a ti mesmo e domina-te a ti mesmo.md",
+                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conhece-te a ti mesmo e domina-te a ti mesmo.md"
+                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md"
               }
             }
           },
@@ -247,9 +259,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21641f81aad1cbb7",
+  "active": "c14ba805563f760f",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei da Vibração.md",
+    "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
     "Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "Você não vibra impunemente.md",
     "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
@@ -274,7 +287,6 @@
     "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
     "2. Literature Notes/Topics/Observar sem avaliar é a mais elevada forma de inteligência humana.md",
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
-    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
