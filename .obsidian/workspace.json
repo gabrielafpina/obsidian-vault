@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d381b763bc9eff2",
+            "id": "a4def0cf75389ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c14ba805563f760f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
+                "file": "As 7 Leis Espirituais do Sucesso.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhece-te a ti mesmo e domina-te a ti mesmo.md",
+                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Você não vibra impunemente.md",
+                "file": "2. Literature Notes/Topics/Você não vibra impunemente.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evoluir é elevar o seu plano vibracional.md",
+                "file": "2. Literature Notes/Topics/Evoluir é elevar o seu plano vibracional.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
+                "file": "2. Literature Notes/Topics/Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lei da vibr",
+                "query": "destino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
+                "file": "As 7 Leis Espirituais do Sucesso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
+                "file": "As 7 Leis Espirituais do Sucesso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md"
+                "file": "As 7 Leis Espirituais do Sucesso.md"
               }
             }
           },
@@ -259,25 +246,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c14ba805563f760f",
+  "active": "a4def0cf75389ace",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
+    "As 7 Leis Espirituais do Sucesso.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
-    "Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
-    "Conhece-te a ti mesmo e domina-te a ti mesmo.md",
-    "Você não vibra impunemente.md",
-    "Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
-    "Evoluir é elevar o seu plano vibracional.md",
+    "2. Literature Notes/Topics/Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
+    "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
+    "2. Literature Notes/Topics/Você não vibra impunemente.md",
+    "2. Literature Notes/Topics/Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
+    "2. Literature Notes/Topics/Evoluir é elevar o seu plano vibracional.md",
     "2. Literature Notes/Topics/Tudo que acontece na sua vida é um evento.md",
     "2. Literature Notes/Topics/todas as percepções carregam em si alguma verdade.md",
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
     "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-    "Você se justifica porque quer ser aprovado pelo outro.md",
+    "2. Literature Notes/Topics/Você se justifica porque quer ser aprovado pelo outro.md",
     "2. Literature Notes/Topics/Pedidos não são exigências.md",
     "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
     "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
-    "O caminho do meio é o caminho do equilíbrio.md",
+    "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
     "2. Literature Notes/Topics/Lei da Polaridade.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
@@ -285,8 +274,6 @@
     "7. Creator/Reels/Pare de pedir desculpa.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
-    "2. Literature Notes/Topics/Observar sem avaliar é a mais elevada forma de inteligência humana.md",
-    "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
