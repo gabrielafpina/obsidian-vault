@@ -21,6 +21,7 @@ Quanto mais profunda eu sou, mais a minha vida dá certo. O poder do autoconheci
 ---------
 
 **Oeste: similar**
+- [[Suas crenças se tornam o seu destino]]
 
 **Leste: oposto**
 

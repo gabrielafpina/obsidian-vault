@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4def0cf75389ace",
+            "id": "24a3b9a2ddf6485b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "As 7 Leis Espirituais do Sucesso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21641f81aad1cbb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7256535f0e086e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você não vibra impunemente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5c136fab377f716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Evoluir é elevar o seu plano vibracional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26c1fa2b9021d803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
+                "file": "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As 7 Leis Espirituais do Sucesso.md",
+                "file": "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As 7 Leis Espirituais do Sucesso.md",
+                "file": "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As 7 Leis Espirituais do Sucesso.md"
+                "file": "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md"
               }
             }
           },
@@ -223,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,10 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4def0cf75389ace",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
-    "As 7 Leis Espirituais do Sucesso.md",
+    "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
+    "2. Literature Notes/Readwise/As 7 Leis Espirituais do Sucesso.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
@@ -273,7 +226,6 @@
     "2. Literature Notes/People/Buda.md",
     "7. Creator/Reels/Pare de pedir desculpa.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-    "2. Literature Notes/Topics/Nunca peça desculpa por estar falando o que o seu coração está pedindo para celebrar.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
