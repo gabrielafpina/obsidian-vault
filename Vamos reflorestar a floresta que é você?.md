@@ -32,6 +32,8 @@ A questão é: Você está pronto para reflorestar a floresta que é você? A jo
 **Materiais Necessários:** Papel e caneta para anotações, música suave de fundo (opcional).
 
 **PENSADORES:**
+- [[Teal Swan]] em [[How to Love Yourself]]: 
+	'Esta é a coisa mais difícil que já fiz na minha vida. Tive que mudar tudo, quero dizer tudo, e estou começando a perceber que nem sei quem eu sou. É uma reação normal de se ter. A princípio, é bom finalmente se honrar depois de anos de autonegligência. Mas então, honrar a si mesmo significa mergulhar em um mundo de incerteza e descartar quase tudo o que você pensou que queria, trocando-o por uma vida totalmente nova. Recomeçar não é fácil. Pode ser uma verdadeira tortura. Mas, como Linda descobriu, a dor de reescrever sua vida em nome do amor próprio nunca se compara a viver a meia-vida de estar desconectado de seu verdadeiro eu.'
 
 **FRASES:**
 
