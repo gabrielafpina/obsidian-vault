@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "018d84a2f7ba66fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a relação entre amor-próprio e autoconhecimento?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baccfd25192a6e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe1cfc177d0dfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amor próprio",
+                "query": "autoconhecimento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md"
+                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md"
               }
             }
           },
@@ -211,10 +247,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "baccfd25192a6e6f",
   "lastOpenFiles": [
-    "5. Templates/Template Resumo de Livro.md",
+    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
+    "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+    "5. Templates/Template Resumo de Livro.md",
     "5. Templates/Podcasts e Aulas.md",
     "5. Templates/Literature Note Template.md",
     "5. Templates/Distilled Note Template.md",
@@ -237,8 +275,6 @@
     "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Você se justifica porque quer ser aprovado pelo outro.md",
-    "2. Literature Notes/Topics/Pedidos não são exigências.md",
-    "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

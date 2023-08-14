@@ -42,3 +42,4 @@ Amor próprio não é apenas um conceito abstrato; tem aplicações práticas e 
 - [[É interessante que eu acolha a minha criança interior, porque um dia, alguém não acolheu]]
 - [[O meu único poder é fazer por mim]]
 - [[Não existe nada rápido ou devagar]]
+- [[Qual é a relação entre amor-próprio e autoconhecimento?]]
