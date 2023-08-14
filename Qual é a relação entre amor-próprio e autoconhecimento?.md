@@ -39,3 +39,4 @@
 **Sul: para onde vai**
 - [[Conhecer, saber, é o caminho para o sujeito vir a Ser]]
 - [[Conhece-te a ti mesmo e domina-te a ti mesmo]]
+- [[Vamos reflorestar a floresta que é você?]]
