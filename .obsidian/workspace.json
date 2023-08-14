@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9945944adaf3451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "destino",
+                "query": "amor próprio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Templates/Template Resumo de Livro.md",
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Templates/Template Resumo de Livro.md",
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Templates/Template Resumo de Livro.md"
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md"
               }
             }
           },
@@ -176,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24a3b9a2ddf6485b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "5. Templates/Template Resumo de Livro.md",
+    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "5. Templates/Podcasts e Aulas.md",
     "5. Templates/Literature Note Template.md",
     "5. Templates/Distilled Note Template.md",
@@ -224,8 +239,6 @@
     "2. Literature Notes/Topics/Você se justifica porque quer ser aprovado pelo outro.md",
     "2. Literature Notes/Topics/Pedidos não são exigências.md",
     "2. Literature Notes/Topics/O outro é apenas extensão de mim mesmo.md",
-    "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
-    "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
