@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8f0454c598bf6363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "018d84a2f7ba66fe",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vamos reflorestar a floresta que é você?.md",
+                "file": "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vamos reflorestar a floresta que é você?.md",
+                "file": "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vamos reflorestar a floresta que é você?.md"
+                "file": "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md"
               }
             }
           },
@@ -259,13 +271,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b7d265ba0471c4d",
+  "active": "8f0454c598bf6363",
   "lastOpenFiles": [
-    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
+    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+    "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "Vamos reflorestar a floresta que é você?.md",
+    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
-    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "5. Templates/Template Resumo de Livro.md",
     "5. Templates/Podcasts e Aulas.md",
     "5. Templates/Literature Note Template.md",
@@ -286,7 +299,6 @@
     "2. Literature Notes/Topics/Violência é não saber escutar o outro também.md",
     "2. Literature Notes/Topics/Não existe culpa, existe responsabilidade.md",
     "2. Literature Notes/Topics/É muito inteligente socorrer o outro se você especificou os horários para se socorrer.md",
-    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

@@ -43,3 +43,4 @@ Amor próprio não é apenas um conceito abstrato; tem aplicações práticas e 
 - [[O meu único poder é fazer por mim]]
 - [[Não existe nada rápido ou devagar]]
 - [[Qual é a relação entre amor-próprio e autoconhecimento?]]
+- [[O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento]]
