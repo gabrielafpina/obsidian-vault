@@ -31,6 +31,7 @@
 ---------
 
 **Oeste: similar**
+- [[O que é a intuição?]]
 
 **Leste: oposto**
 
