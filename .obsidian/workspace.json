@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "O que é a intuição?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "O que é a intuição?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md"
+                "file": "O que é a intuição?.md"
               }
             }
           },
@@ -295,8 +295,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9945944adaf3451",
+  "active": "6434dcf9dbc27787",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
     "O que significa se odiar?.md",
@@ -304,7 +305,6 @@
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "Vamos reflorestar a floresta que é você?.md",
-    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "5. Templates/Template Resumo de Livro.md",
     "5. Templates/Podcasts e Aulas.md",
