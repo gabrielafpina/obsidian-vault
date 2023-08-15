@@ -24,6 +24,7 @@ Este mundo não estaria completo sem você. Você é inestimável não por causa
 ---------
 
 **Oeste: similar**
+- [[O que significa se odiar?]]
 
 **Leste: oposto**
 
