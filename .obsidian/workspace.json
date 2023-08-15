@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a intuição?.md",
+                "file": "Vamos reflorestar a floresta que é você?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a intuição?.md",
+                "file": "Vamos reflorestar a floresta que é você?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a intuição?.md"
+                "file": "Vamos reflorestar a floresta que é você?.md"
               }
             }
           },
@@ -295,13 +295,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6434dcf9dbc27787",
+  "active": "7b7d265ba0471c4d",
   "lastOpenFiles": [
+    "O que é a intuição?.md",
     "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
     "O que significa se odiar?.md",
-    "O que é a intuição?.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "Vamos reflorestar a floresta que é você?.md",
