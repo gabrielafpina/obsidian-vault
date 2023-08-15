@@ -28,3 +28,4 @@ Ao praticar a escuta e honrar sua intuição, você ficará melhor em reconhecer
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que significa ser autêntico? Quais são os desafios e recompensas?]]
