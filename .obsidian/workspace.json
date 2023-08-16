@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "ab70220175138558",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,26 +200,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "ab70220175138558",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-    "Como fazer uma meta SMART?.md",
-    "Vamos reflorestar a floresta que é você?.md",
+    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
+    "2. Literature Notes/Topics/Vamos reflorestar a floresta que é você?.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-    "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
-    "De que forma a água pode me ajudar a me amar mais?.md",
+    "2. Literature Notes/Topics/O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
+    "2. Literature Notes/Topics/De que forma a água pode me ajudar a me amar mais?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "7. Creator/Untitled",
     "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
-    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
-    "O que significa se odiar?.md",
-    "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
-    "O que é a intuição?.md",
+    "2. Literature Notes/Topics/Qual é a relação entre amor-próprio e autoconhecimento?.md",
+    "2. Literature Notes/Topics/O que significa se odiar?.md",
+    "2. Literature Notes/Topics/O que significa ser autêntico? Quais são os desafios e recompensas?.md",
+    "2. Literature Notes/Topics/O que é a intuição?.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
