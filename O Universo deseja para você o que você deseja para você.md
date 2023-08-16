@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Então, o que você deseja para você? Quais são as suas [[crenças]]?
 
 **COMO:**
 
@@ -21,4 +22,3 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[O Universo deseja para você o que você deseja para você]]

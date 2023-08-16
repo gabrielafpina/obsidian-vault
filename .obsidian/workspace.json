@@ -22,9 +22,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cb619389cd3f3f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47c32c2867bc512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Universo deseja para você o que você deseja para você.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -43,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "necessidade",
+                "query": "universo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "O Universo deseja para você o que você deseja para você.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "O Universo deseja para você o que você deseja para você.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "O Universo deseja para você o que você deseja para você.md"
+              }
             }
           },
           {
@@ -200,8 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab70220175138558",
+  "active": "e47c32c2867bc512",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
+    "O Universo deseja para você o que você deseja para você.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
@@ -228,8 +257,6 @@
     "5. Templates/Literature Note Template.md",
     "5. Templates/Distilled Note Template.md",
     "5. Templates/Content Creation Template.md",
-    "5. Templates/Brainstorming Checklist Output Template.md",
-    "5. Templates/Anotação Atômica X Template.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
