@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b5ce4720a91504e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f0454c598bf6363",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "âncora",
+                "query": "funciona",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -214,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md"
+                "file": "2. Literature Notes/Topics/Como você funciona?.md"
               }
             }
           },
@@ -294,8 +307,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9945944adaf3451",
+  "active": "b5ce4720a91504e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "De que forma a água pode me ajudar a me amar mais?.md",
     "O que significa se odiar?.md",
@@ -304,7 +318,6 @@
     "O que é a intuição?.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
-    "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "5. Templates/Template Resumo de Livro.md",
