@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ef61f2553453ef91",
+        "id": "3cd49cae121f3e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "c9945944adaf3451",
+            "id": "680770e24c86ad23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a8b1e77abd62909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d542841224b4b6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8cf499c0dbbf307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9586247dbd272bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b1dd20d1f1bd801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5d1867c04c4e632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como fazer uma meta SMART?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7d265ba0471c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vamos reflorestar a floresta que é você?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7854030d8c9b460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -295,13 +191,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7854030d8c9b460",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "Vamos reflorestar a floresta que é você?.md",
-    "Como fazer uma meta SMART?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
+    "Como fazer uma meta SMART?.md",
+    "Vamos reflorestar a floresta que é você?.md",
+    "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "De que forma a água pode me ajudar a me amar mais?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
@@ -324,7 +221,6 @@
     "5. Templates/Content Creation Template.md",
     "5. Templates/Brainstorming Checklist Output Template.md",
     "5. Templates/Anotação Atômica X Template.md",
-    "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
