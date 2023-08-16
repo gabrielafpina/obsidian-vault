@@ -29,7 +29,7 @@
     - Exemplo: "Quero aprender a tocar violão em 6 meses" (define uma linha do tempo).
         
 7. **Exercício Prático**:
-    - Peça que identifiquem uma área da Roda da Vida que desejam melhorar e guiem-nos na criação de uma meta SMART relacionada a essa área.
+    - Peça que identifiquem uma área da Roda da Vida que desejam melhorar e guiem-nos na criação de uma meta SMART relacionada a essa área. [[Como fazer uma meta SMART?]]
 
 **COMO:**
 
