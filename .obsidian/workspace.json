@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+                "file": "De que forma a água pode me ajudar a me amar mais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+                "file": "De que forma a água pode me ajudar a me amar mais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md"
+                "file": "De que forma a água pode me ajudar a me amar mais?.md"
               }
             }
           },
@@ -319,10 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d163cf332d453cc",
+  "active": "02ee5c517d06a6bb",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
+    "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
@@ -334,7 +335,6 @@
     "Vamos reflorestar a floresta que é você?.md",
     "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
     "O que é a intuição?.md",
-    "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "2. Literature Notes/Topics/Como instalar uma âncora?.md",
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
