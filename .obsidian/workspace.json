@@ -227,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7f0480c584097b69",
@@ -297,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,7 +319,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d542841224b4b6af",
+  "active": "2d163cf332d453cc",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",

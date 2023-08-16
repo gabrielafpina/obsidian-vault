@@ -1,0 +1,15 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Chat, eu quero que você analise a minha nota [[Roda da Vida]]  e quero que procure outras notas que possam ser complementares a essa e que tenham um conteúdo que possa agregar na aula que eu vou dar sobre esse tema, por favor.\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "Claro! Vou analisar a sua nota sobre a \"Roda da Vida\" e procurar outras notas complementares que possam agregar ao conteúdo da sua aula. Por favor, aguarde um momento enquanto faço essa pesquisa.",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Roda da Vida]]---\n**TAGS:**\n\n**FONTE:**\n\n**BIG IDEA:** \n\n**DEFINIÇÃO:**\n1. **Introdução à Roda da Vida**:\n    - Explique o que é a Roda da Vida e por que ela é útil.\n    - Destaque que a Roda da Vida ajuda a identificar áreas da vida que precisam de mais atenção e equilíbrio.\n        \n2. **Identificando as Áreas da Vida**:\n    - Instrua os alunos a dividir a roda em segmentos, geralmente 8, cada um representando uma área da vida (por exemplo, Carreira, Relacionamentos, Saúde, Finanças, etc.).\n    - Permita que eles personalizem as áreas de acordo com o que é relevante para eles.\n        \n3. **Avaliação Atual**:\n    - Peça que avaliem o nível de satisfação atual em cada área, numa escala de 1 a 10.\n    - Instrua-os a marcar esse ponto em cada segmento da roda.\n        \n4. **Conectando os Pontos**:\n    - Mostre como conectar os pontos para formar uma nova borda interna na roda.\n    - Explique que a roda ideal seria um círculo perfeito, e qualquer irregularidade mostra onde o equilíbrio está faltando.\n        \n5. **Definindo Metas e Ações**:\n    - Incentive-os a refletir sobre o que precisam fazer para aumentar a satisfação em cada área.\n    - Auxilie na definição de metas e ações concretas para alcançá-las.\n        \n6. **Revisão Regular**:\n    - Enfatize a importância de revisar e atualizar a Roda da Vida regularmente, pois as prioridades e satisfações podem mudar ao longo do tempo.\n\n**COMO:**\n\n**PENSADORES:**\n\n**FRASES:**\n\n---------\n\n**Oeste: similar**\n\n**Leste: oposto**\n\n**Norte: ideia/pergunta**\n\n**Sul: para onde vai**---END NOTE---\n"
+    }
+  ]
+]
