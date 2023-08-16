@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "b5ce4720a91504e3",
+            "id": "3a8b1e77abd62909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d542841224b4b6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md"
               }
             }
           },
@@ -307,8 +320,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5ce4720a91504e3",
+  "active": "d542841224b4b6af",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "2. Literature Notes/Topics/Como você funciona?.md",
+    "7. Creator/Untitled",
     "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "De que forma a água pode me ajudar a me amar mais?.md",
@@ -331,10 +350,6 @@
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
     "2. Literature Notes/Readwise/As 7 Leis Espirituais do Sucesso.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
-    "2. Literature Notes/Topics/Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas.md",
-    "2. Literature Notes/Topics/Você não vibra impunemente.md",
-    "2. Literature Notes/Topics/Me comprometo com tudo o que sou hoje, mas me comprometo a ser mais amanhã.md",
-    "2. Literature Notes/Topics/Evoluir é elevar o seu plano vibracional.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
@@ -353,8 +368,6 @@
     "6. Shots, Images & PDFs/como-voce-funciona.pdf",
     "2. Literature Notes/Topics/Untitled",
     "7. Creator/Products",
-    "Kindle Highlights/Books",
-    "Kindle Highlights",
     "Untitled.canvas"
   ]
 }
