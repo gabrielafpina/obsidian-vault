@@ -92,54 +92,6 @@
             }
           },
           {
-            "id": "e5c81353420b354e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que significa se odiar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018d84a2f7ba66fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a relação entre amor-próprio e autoconhecimento?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6434dcf9dbc27787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a intuição?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2e646267147cf4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b7d265ba0471c4d",
             "type": "leaf",
             "state": {
@@ -150,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "baccfd25192a6e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -264,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como fazer uma meta SMART?.md",
+                "file": "Vamos reflorestar a floresta que é você?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como fazer uma meta SMART?.md",
+                "file": "Vamos reflorestar a floresta que é você?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como fazer uma meta SMART?.md"
+                "file": "Vamos reflorestar a floresta que é você?.md"
               }
             }
           },
@@ -321,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,10 +284,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5d1867c04c4e632",
+  "active": "7b7d265ba0471c4d",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "Como fazer uma meta SMART?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
