@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "a8cf499c0dbbf307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9586247dbd272bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e5c81353420b354e",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md"
               }
             }
           },
@@ -295,11 +319,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d542841224b4b6af",
+  "active": "9586247dbd272bc3",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
     "De que forma a água pode me ajudar a me amar mais?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
@@ -323,8 +349,6 @@
     "5. Templates/Anotação Atômica X Template.md",
     "2. Literature Notes/Topics/Suas crenças se tornam o seu destino.md",
     "2. Literature Notes/Topics/O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso..md",
-    "2. Literature Notes/Readwise/As 7 Leis Espirituais do Sucesso.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
