@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a relação entre amor-próprio e autoconhecimento?.md",
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a relação entre amor-próprio e autoconhecimento?.md",
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a relação entre amor-próprio e autoconhecimento?.md"
+                "file": "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md"
               }
             }
           },
@@ -295,11 +294,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "018d84a2f7ba66fe",
+  "active": "c9945944adaf3451",
   "lastOpenFiles": [
+    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "De que forma a água pode me ajudar a me amar mais?.md",
     "O que significa se odiar?.md",
-    "Qual é a relação entre amor-próprio e autoconhecimento?.md",
     "Vamos reflorestar a floresta que é você?.md",
     "O que significa ser autêntico? Quais são os desafios e recompensas?.md",
     "O que é a intuição?.md",
