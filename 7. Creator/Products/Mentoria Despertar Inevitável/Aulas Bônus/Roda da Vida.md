@@ -28,7 +28,7 @@ A Roda da Vida é uma ferramenta poderosa de autoconhecimento e planejamento pes
     - Auxilie na definição de metas e ações concretas para alcançá-las.
         
 6. **Revisão Regular**:
-    - Enfatize a importância de revisar e atualizar a Roda da Vida regularmente, pois as prioridades e satisfações podem mudar ao longo do tempo.
+    - Enfatize a importância de revisar e atualizar a Roda da Vida regularmente, pois as prioridades e satisfações podem mudar ao longo do tempo. Por isso, é importante reavaliar periodicamente as áreas e ajustando suas metas conforme necessário.
 
 **COMO:**
 
