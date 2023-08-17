@@ -11,6 +11,8 @@ A ambição te nutre. Você começa a ser ambicioso para cuidar mais do seu corp
 
 A frequência da ganância te drena. Porque não tem um [[Golden Circle]], não tem uma *intenção, um porquê*. Pergunta pro seu coração se ele está feliz com essa resposta. Você quer ganhar dinheiro para que? [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]].
 
+O dinheiro exige respeito e humildade. Não é um lugar de vaidade, soberba, petulância. [[3 coisas que paralisam a vida - vaidade, medo e preguiça]].
+
 **COMO:**
 
 **PENSADORES:**
