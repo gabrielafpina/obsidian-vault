@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "680770e24c86ad23",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "51c486c834705cc2",
             "type": "leaf",
             "state": {
@@ -76,24 +68,12 @@
             }
           },
           {
-            "id": "2d06b204f49d2ddb",
+            "id": "822a5c71e20c57dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc6cb121b420f975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "É necessário aprender a desobedecer os pais com respeito.md",
+                "file": "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,18 +92,6 @@
             }
           },
           {
-            "id": "12c623d155e7c8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Só existe evolução na imperfeição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2ad62b8d112b403",
             "type": "leaf",
             "state": {
@@ -136,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -155,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ganância",
+                "query": "equilíb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -235,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -315,21 +283,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf294d951d61d2ea",
+  "active": "c2ad62b8d112b403",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "É necessário aprender a desobedecer os pais com respeito.md",
     "Distorção cognitiva da realidade infantil.md",
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "Só existe evolução na imperfeição.md",
+    "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
+    "É necessário aprender a desobedecer os pais com respeito.md",
+    "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
+    "2. Literature Notes/Topics/transgeracionalidade.md",
+    "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O Universo deseja para você o que você deseja para você.md",
     "2. Literature Notes/Topics/O qu é o ponto cego?.md",
-    "2. Literature Notes/Topics/transgeracionalidade.md",
     "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
-    "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
     "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
@@ -343,7 +312,6 @@
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 3 - Amor-Próprio e Autenticidade.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
-    "2. Literature Notes/Topics/Como você funciona?.md",
     "7. Creator/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
