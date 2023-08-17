@@ -29,7 +29,7 @@ Quando você dobra a sua cabeça em honra aos seus pais, você está se curvando
 
 Se você está vivo, deu certo. Na imperfeição do jeito que eles te criaram, deu certo. [[Só existe evolução na imperfeição]].
 
-Quando você tem os pais dentro de você, incluído, você não precisa ter perto. Perto é diferente de dentro.
+Quando você tem os pais dentro de você, incluído, você não precisa ter perto. Perto é diferente de dentro. Quando você não olha para eles, a sua alma dá um jeito de trazer o jeito deles para perto de você, principalmente, tudo aquilo que você não gosta neles.
 
 **COMO:**
 
@@ -46,3 +46,4 @@ Quando você tem os pais dentro de você, incluído, você não precisa ter pert
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Tudo que é excluído, volta]]
