@@ -9,7 +9,7 @@ Para aquilo que é incluído e para aquilo que é excluído do sistema.
 
 [[Existem 3 leis sistêmicas]].
 
-Quem é a pessoa tripartida?
+[[Quem é a pessoa tripartida?]]
 
 **COMO:**
 
