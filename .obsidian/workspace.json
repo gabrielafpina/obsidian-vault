@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "2d06b204f49d2ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc6cb121b420f975",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curvar",
+                "query": "ganância",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
+                "file": "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md"
               }
             }
           },
@@ -303,10 +315,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf294d951d61d2ea",
+  "active": "2d06b204f49d2ddb",
   "lastOpenFiles": [
-    "É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+    "É necessário aprender a desobedecer os pais com respeito.md",
     "Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "Só existe evolução na imperfeição.md",
