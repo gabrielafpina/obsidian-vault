@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "12ae126c57ee356d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distorção cognitiva da realidade infantil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "12c623d155e7c8d3",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "Distorção cognitiva da realidade infantil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "Distorção cognitiva da realidade infantil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
+                "file": "Distorção cognitiva da realidade infantil.md"
               }
             }
           },
@@ -328,10 +340,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf294d951d61d2ea",
+  "active": "12ae126c57ee356d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+    "Distorção cognitiva da realidade infantil.md",
+    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "Só existe evolução na imperfeição.md",
     "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
     "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
@@ -357,7 +370,6 @@
     "7. Creator/Untitled",
     "2. Literature Notes/Topics/A importância do amor-próprio na vida diária.md",
     "2. Literature Notes/Topics/Qual é a relação entre amor-próprio e autoconhecimento?.md",
-    "2. Literature Notes/Topics/O que significa se odiar?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",

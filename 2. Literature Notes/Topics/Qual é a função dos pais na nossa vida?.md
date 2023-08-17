@@ -47,3 +47,4 @@ Quando você tem os pais dentro de você, incluído, você não precisa ter pert
 
 **Sul: para onde vai**
 - [[Tudo que é excluído, volta]]
+- [[Distorção cognitiva da realidade infantil]]
