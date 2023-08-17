@@ -13,8 +13,7 @@
             "state": {
               "type": "empty",
               "state": {}
-            },
-            "group": "f7697e3f0a29764f"
+            }
           },
           {
             "id": "26db58863b6a9920",
@@ -36,70 +35,16 @@
             "id": "ea26aae076f662bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e28c494ebd3cb30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "d4bb42aa78e04ca3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f6212b4aae56711",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "f7697e3f0a29764f"
-          },
-          {
-            "id": "586c5478612b4e7d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md"
+          }
         }
       }
     ],
@@ -214,7 +163,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0e28c494ebd3cb30",
+  "active": "ea26aae076f662bc",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/A Prateleira Do Amor.md",
     "2. Literature Notes/Topics/SuperEgo.md",
