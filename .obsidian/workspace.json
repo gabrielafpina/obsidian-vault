@@ -68,43 +68,15 @@
             }
           },
           {
-            "id": "822a5c71e20c57dc",
+            "id": "a51f62c4416c4ca0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12ae126c57ee356d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distorção cognitiva da realidade infantil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2ad62b8d112b403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,7 +176,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +192,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +213,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -283,19 +252,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2ad62b8d112b403",
+  "active": "a51f62c4416c4ca0",
   "lastOpenFiles": [
-    "Distorção cognitiva da realidade infantil.md",
-    "Só existe evolução na imperfeição.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
-    "É necessário aprender a desobedecer os pais com respeito.md",
+    "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+    "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
+    "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "2. Literature Notes/Topics/transgeracionalidade.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O Universo deseja para você o que você deseja para você.md",
     "2. Literature Notes/Topics/O qu é o ponto cego?.md",
     "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
