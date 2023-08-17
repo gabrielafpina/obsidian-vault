@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existem 3 leis sistêmicas.md",
+                "file": "A constelação olha a vida e a morte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existem 3 leis sistêmicas.md",
+                "file": "A constelação olha a vida e a morte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existem 3 leis sistêmicas.md"
+                "file": "A constelação olha a vida e a morte.md"
               }
             }
           },
@@ -255,10 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2ad62b8d112b403",
+  "active": "c27b7490fabfd506",
   "lastOpenFiles": [
-    "A constelação olha a vida e a morte.md",
     "Existem 3 leis sistêmicas.md",
+    "A constelação olha a vida e a morte.md",
     "transgeracionalidade.md",
     "O qu é o ponto cego?.md",
     "O Universo deseja para você o que você deseja para você.md",
