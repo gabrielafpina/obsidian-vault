@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "c27b7490fabfd506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A constelação olha a vida e a morte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2ad62b8d112b403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existem 3 leis sistêmicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "452fd173778b89a3",
             "type": "leaf",
             "state": {
@@ -52,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transgeracionalidade.md",
+                "file": "Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transgeracionalidade.md",
+                "file": "Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transgeracionalidade.md"
+                "file": "Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -231,10 +255,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51c486c834705cc2",
+  "active": "c2ad62b8d112b403",
   "lastOpenFiles": [
-    "O qu é o ponto cego?.md",
+    "A constelação olha a vida e a morte.md",
+    "Existem 3 leis sistêmicas.md",
     "transgeracionalidade.md",
+    "O qu é o ponto cego?.md",
     "O Universo deseja para você o que você deseja para você.md",
     "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
@@ -259,8 +285,6 @@
     "2. Literature Notes/Topics/Conhece-te a ti mesmo e domina-te a ti mesmo.md",
     "2. Literature Notes/Topics/Conhecer, saber, é o caminho para o sujeito vir a Ser.md",
     "5. Templates/Template Resumo de Livro.md",
-    "5. Templates/Podcasts e Aulas.md",
-    "5. Templates/Literature Note Template.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
