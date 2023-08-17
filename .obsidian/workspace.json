@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
+                "file": "Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
+                "file": "Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando mudamos a forma como olhamos para o sistema, você se liberta.md"
+                "file": "Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -315,12 +315,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "677f683b8d9fbb16",
+  "active": "cf294d951d61d2ea",
   "lastOpenFiles": [
-    "A constelação olha a vida e a morte.md",
-    "transgeracionalidade.md",
     "Tudo que é excluído, volta.md",
     "Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
+    "A constelação olha a vida e a morte.md",
+    "transgeracionalidade.md",
     "Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "Qual é a função dos pais na nossa vida?.md",
     "Quem é a pessoa tripartida?.md",
