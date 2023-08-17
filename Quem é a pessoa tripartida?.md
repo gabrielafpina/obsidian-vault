@@ -16,7 +16,11 @@ A informação está gravada no seu sangue e DNA. [[A Biologia da Crença]].
 
 O que você pode fazer com a criança então? Negociar. Quando o medo vem, é a criança falando com você. A sua criança não dorme nunca. Ela nunca vai te deixar em paz.
 
-Somente quando o adulto acordar para a vida e ganhar força, vai poder dialogar com a criança e negociar com ela. É mostrar para ela que a partir de agora você cuida dela, você olha para as dores d
+Somente quando o adulto acordar para a vida e ganhar força, vai poder conversar com a criança e negociar com ela. É mostrar para ela que a partir de agora você cuida dela, você olha para as dores dela. A partir de hoje eu sou o seu pai e a sua mãe ao mesmo tempo, eu te dou tudo o que você queria antes e não conseguiu ter. Você negocia com a sua criança.
+
+Quem é mais forte, a alma ou a criança? A alma é o mais forte de todos. A alma e a criança te forçam a olhar para a sua estrutura familiar, à desordem, aos excluídos. Eles querem que você olhe para eles e se unam com eles. O ego luta contra isso fortemente. Só que a alma sempre ganha.
+
+É sobre fazer um acordo com a alma e com a criança para que eles te liberem para que você faça o que quer fazer. O sistema te AUTORIZA. Se você abrir o seu negócio sem a autorização, vai ser só no esforço. [[Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar]].
 
 **COMO:**
 
