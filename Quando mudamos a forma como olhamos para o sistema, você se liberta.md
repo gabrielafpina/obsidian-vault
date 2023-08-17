@@ -1,0 +1,25 @@
+**TAGS:**
+
+**FONTE:**
+
+**BIG IDEA:** 
+
+**DEFINIÇÃO:**
+Quando você olha para o sistema com respeito, humildade, reverencia, amor, você cura a si mesmo, assim como, 7 gerações para trás e 7 gerações para a frente.
+
+**COMO:**
+
+**PENSADORES:**
+
+**FRASES:**
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+- [[A constelação olha a vida e a morte]]
+
+**Sul: para onde vai**
