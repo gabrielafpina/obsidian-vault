@@ -33,6 +33,10 @@ Quando você tem os pais dentro de você, incluído, você não precisa ter pert
 
 [[É necessário aprender a desobedecer os pais com respeito]]
 
+Existem casamentos que nascem para dar errado. E dando errado, dão certo. Até o que deu errado precisa ser reverenciado.
+
+Um aborto provocado é quando a mulher assassina dentro dela a função mãe, em primeiro lugar, através da criança. Ela mata a função dela de ser mãe e mata a mãe dela dentro dela.
+
 **COMO:**
 
 **PENSADORES:**

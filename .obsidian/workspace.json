@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "É necessário aprender a desobedecer os pais com respeito.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "É necessário aprender a desobedecer os pais com respeito.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "É necessário aprender a desobedecer os pais com respeito.md"
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -303,10 +303,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc6cb121b420f975",
+  "active": "cf294d951d61d2ea",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "É necessário aprender a desobedecer os pais com respeito.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "Só existe evolução na imperfeição.md",
