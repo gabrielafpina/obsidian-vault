@@ -31,6 +31,8 @@ Se você está vivo, deu certo. Na imperfeição do jeito que eles te criaram, d
 
 Quando você tem os pais dentro de você, incluído, você não precisa ter perto. Perto é diferente de dentro. Quando você não olha para eles, a sua alma dá um jeito de trazer o jeito deles para perto de você, principalmente, tudo aquilo que você não gosta neles.
 
+[[É necessário aprender a desobedecer os pais com respeito]]
+
 **COMO:**
 
 **PENSADORES:**
