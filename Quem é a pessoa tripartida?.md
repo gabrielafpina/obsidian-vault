@@ -10,7 +10,13 @@ Existem 3 personagens:
 2. [[Criança Interior]]: quem você era no passado, ela só olha para uma única coisa, para os pais. Ela não olha para mais nada. Essa criança fica ocupada com um radar 24/7 ligado, sempre olhando para os pais, ou se metendo na vida dos pais, sentindo pena deles, querendo salvá-los, mostrar que ela é boa, querendo atenção, se fazendo de vítima - [[Existem 4 lugares proibidos]].
 3. Alma da pessoa: olha para o núcleo familiar, para as pessoas do nosso sistema, o nosso clã, a nossa história e para tudo o que veio antes. A nossa alma olha incansavelmente para o sistema ancestral. Ela olha para a bagunça do sistema, o que está fora de ordem e olha, principalmente, para os excluídos do sistema. A alma se ocupa o tempo inteiro disso.
 
-Entre a criança e o adulto, qu
+Entre a criança e o adulto, quem é mais forte? A criança é muito mais forte do que nós. E quando entramos em briga com ela, ela te puxa para o colo do papai e da mamãe, te afastando dos seus objetivos. A criança é muito poderosa. Ela é um gângster e com gângster não se bate de frente. Ela é mais forte porque ela é mais antiga. Ela tá a sua vida inteira na sua frente + 9 meses.
+
+A informação está gravada no seu sangue e DNA. [[A Biologia da Crença]].
+
+O que você pode fazer com a criança então? Negociar. Quando o medo vem, é a criança falando com você. A sua criança não dorme nunca. Ela nunca vai te deixar em paz.
+
+Somente quando o adulto acordar para a vida e ganhar força, vai poder dialogar com a criança e negociar com ela. É mostrar para ela que a partir de agora você cuida dela, você olha para as dores d
 
 **COMO:**
 
