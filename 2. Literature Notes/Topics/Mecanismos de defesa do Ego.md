@@ -51,7 +51,12 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	3. Embora você não esteja negando que o evento aconteceu, você não pensa sobre as consequências emocionais. [[Tudo é uma escolha]]. É importante conversar sobre o que está acontecendo com você.
 8. **Racionalização**
 	1. você se acha afastado de uma reação de emoção ou sentimento que você não gosta em si mesmo. Quando você racionaliza algo, você tenta explicá-lo.
-	2. ´É uma forma de redefinir a realidade através de uma explicação coerente do ponto de vista lógico e tornando as atitudes moralmente aceitáveis. Busca-se 'boas razões', ainda que falsas, para suas atitudes e fracassos.
+	2. É uma forma de redefinir a realidade através de uma explicação coerente do ponto de vista lógico e tornando as atitudes moralmente aceitáveis. Busca-se 'boas razões', ainda que falsas, para suas atitudes e fracassos.
+		1. Ao invés de encarar a dor, tende a ser 'forte', porque não pode ser frágil, de acordo com os preceitos da sociedade.
+	3. Como um mecanismo de defesa, é um pouco parecida com a intelectualização, mas envolve lidar com um mau comportamento de sua parte em vez de converter uma emoção dolorosa ou negativa em um conjunto mais neutro de pensamentos.
+		1. As pessoas frequentemente usam racionalização para escorar suas inseguranças ou remorso depois de fazer algo que eles se arrependem.
+	4. O processo de achar motivos lógicos e racionais aceitáveis para pensamentos e ações inaceitáveis; arrumar desculpas que justifiquem o comportamento.
+		1. Ex: não consegui o trabalho, mas não é um emprego bom. É chato e rotineiro. - Ao invés de assumir que ficou com raiva da empresa, ou dela mesma, fala ma
 
 **PENSADORES:**
 
