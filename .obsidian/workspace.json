@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0cb719621ee5fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90bb493a9451bfd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Newsletter/02 - A grande decisão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85bc170b1b58ae81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Newsletter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
+                "file": "5. Templates/Newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
+                "file": "5. Templates/Newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md"
+                "file": "5. Templates/Newsletter.md"
               }
             }
           },
@@ -199,9 +236,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ddda05f20aeac337",
+  "active": "85bc170b1b58ae81",
   "lastOpenFiles": [
+    "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
+    "7. Creator/Newsletter/02 - A grande decisão.md",
     "7. Creator/Newsletter/01 - Seja bem-vindo.md",
+    "5. Templates/Newsletter.md",
     "7. Creator/Newsletter",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
@@ -226,9 +266,6 @@
     "2. Literature Notes/Topics/O Universo deseja para você o que você deseja para você.md",
     "2. Literature Notes/Topics/O qu é o ponto cego?.md",
     "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
-    "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
-    "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
