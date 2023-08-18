@@ -56,7 +56,11 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	3. Como um mecanismo de defesa, é um pouco parecida com a intelectualização, mas envolve lidar com um mau comportamento de sua parte em vez de converter uma emoção dolorosa ou negativa em um conjunto mais neutro de pensamentos.
 		1. As pessoas frequentemente usam racionalização para escorar suas inseguranças ou remorso depois de fazer algo que eles se arrependem.
 	4. O processo de achar motivos lógicos e racionais aceitáveis para pensamentos e ações inaceitáveis; arrumar desculpas que justifiquem o comportamento.
-		1. Ex: não consegui o trabalho, mas não é um emprego bom. É chato e rotineiro. - Ao invés de assumir que ficou com raiva da empresa, ou dela mesma, fala ma
+		1. Ex: não consegui o trabalho, mas não é um emprego bom. É chato e rotineiro. - Ao invés de assumir que ficou com raiva da empresa, ou dela mesma, inventa desculpas racionais, explicando, mas por dentro está com vários sentimentos ruins e negativos. Mas não quer falar isso por outro, porque quer manter a imagem dela.
+9. **Sublimação**
+	1. Intelectualização tende a ocorrer no curto prazo, mas a sublimação se desenvolve durante um longo período de tempo, talvez até mesmo durante todo o curso da vida.
+	2. É o Mecanismo de defesa mais saudável que o Ego utiliza, canalizando ou dirigindo para atividades socialmente aceitas, impulsos libidinais e agressivos considerados indesejáveis e perigosos. 
+		1. Um clássico exemplo de sublimação é o de um homem que se tornou cirurgião que leva impulsos hostis dentro de si e os converte em "cortes" em outras pessoas de uma forma que é perfeitamente aceitável na sociedade.
 
 **PENSADORES:**
 
