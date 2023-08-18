@@ -44,12 +44,36 @@
             }
           },
           {
-            "id": "85bc170b1b58ae81",
+            "id": "481b120ad83693c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Templates/Newsletter.md",
+                "file": "7. Creator/Newsletter/04 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "614303e63e3c38e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a05bbd95e863c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,6 +81,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "c2b05a8da7d38bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13919c328df4c8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "culpa",
+                "query": "valores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Templates/Newsletter.md",
+                "file": "7. Creator/Newsletter/04 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Templates/Newsletter.md",
+                "file": "7. Creator/Newsletter/04 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Templates/Newsletter.md"
+                "file": "7. Creator/Newsletter/04 -.md"
               }
             }
           },
@@ -236,12 +277,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85bc170b1b58ae81",
+  "active": "481b120ad83693c5",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+    "7. Creator/Newsletter/04 -.md",
     "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
+    "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+    "5. Templates/Newsletter.md",
     "7. Creator/Newsletter/02 - A grande decisão.md",
     "7. Creator/Newsletter/01 - Seja bem-vindo.md",
-    "5. Templates/Newsletter.md",
     "7. Creator/Newsletter",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
@@ -263,9 +307,6 @@
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-    "2. Literature Notes/Topics/O Universo deseja para você o que você deseja para você.md",
-    "2. Literature Notes/Topics/O qu é o ponto cego?.md",
-    "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
