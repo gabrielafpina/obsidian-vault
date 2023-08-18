@@ -1,4 +1,4 @@
-**ASSUNTO:**
+**ASSUNTO:** Hoje é o dia que você para de ser corrupto
 
 **PRÉ-HEADER:** É hora de acordar e viver a sua vida.
 
@@ -26,8 +26,22 @@ Doeu perceber que eu estava sendo corrompida. Doeu perceber que eu fui comprada 
 
 Então esse e-mail é um alerta. Um sinal para te direcionar a acordar para a vida. Porque se você não pensa, você pode ter certeza que você está sendo pensado. Isso significa que alguém está pensando a sua vida por você.
 
-Por isso, eu separei 5 perguntas que vão te ajudar a compreender melhor os seus valores
+Por isso, eu separei 5 perguntas que vão te ajudar a compreender melhor os seus valores. Ao fazer esses questionamentos e obter as respostas, você poderá, enfim, agir de acordo com o que é importante para você.
 
+1. **Como você preenche o seu espaço?** Os itens que você mantém ao seu redor geralmente refletem o que é importante para você. Por exemplo, se o seu espaço está cheio de livros, pode ser que o progresso ou a sabedoria seja um valor importante para você.
+2. **Como você gasta o seu tempo?** As atividades e tarefas para as quais você dedica mais tempo são um indicativo dos seus valores. As coisas que você valoriza tendem a receber a maior parte de sua atenção e energia.
+3. **Como você gasta sua energia e onde você é mais disciplinado?** Nós tendemos a ter disciplina e foco nas áreas da vida que estão alinhadas com nossos valores mais altos.
+4. **Onde você investe seu dinheiro?** Seu padrão de consumo e investimento pode revelar muito sobre seus valores! As coisas nas quais você está disposto a investir dinheiro provavelmente têm um alto valor para você.
+5. **O que domina os seus pensamentos?** Os pensamentos que ocupam sua mente a maior parte do tempo também podem apontar para seus valores.
+
+Esse e-mail ficou mais longo do que eu esperava. Só que aqui contém a pepita de ouro sagrada de consciência que você merece para viver a vida dos seus sonhos.
+
+E só pra te dar um gostinho do que veremos no próximo e-mail, iremos falar sobre **pensamentos** e como, quando não observados, podem destruir a sua realidade.
+
+Me diga o que achou desse e-mail! Escrevi com muito carinho ❤️‍🔥
+
+Eu te amo,
+**GABRIELA PINA**
 
 **LINKS IMPORTANTES:**
 - [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
