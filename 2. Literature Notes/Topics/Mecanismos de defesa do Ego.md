@@ -40,7 +40,12 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 		1. Você não quer admitir esses sentimentos, e sim expressar o oposto desses sentimentos. Você acaba evitando essa pessoa ou a persegui-la, culpá-la. É uma [[Transferências]] também, a pessoa começa a mandar para o outro o que está dentro dela também.
 	2. Este processo acontece quando existe repressão dos próprios impulsos, acompanhada com uma tendência contrária. assim, mantém o impulso indesejado e oculot longe do consciente, super-enfatizando o impulso oposto, ainda que 'falso'.
 		1. Ex: o sujeito possui uma postura e atitude extremamente rígidas com relação à sexualidade, pode estar ocultando seu lado sexual mais libertino e o que a sociedade consideraria imoral. Relacionado a [[crenças]]. E a pessoa se culpa e se condena, reprimindo o que ela tinha muita vontade de fazer. Está muito ligado a repressão de algumas religiões.
-
+		2. O objeto de cobiça torna-se objeto de ódio amargo.
+	3. Este mecanismo de defesa poderia ser exemplificado como a obsessão com a pornografia, se revertendo em desprezo extremo para todas as coisas sexuais boas.
+	4. Em suma, significa expressar o oposto de seus sentimentos internos em seu comportamento exterior.
+7. **Intelectualização**
+	1. Você pode neutralizar os seus sentimentos de raiva, insegurança, ansiedade, ou de uma forma que seja menos provável de levar a momentos embaraçosos.
+	2. Aqui, você se 
 
 **PENSADORES:**
 
