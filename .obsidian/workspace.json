@@ -40,17 +40,19 @@
             }
           },
           {
-            "id": "fecc0a5f037553a0",
+            "id": "414ab3ade7aaf2f6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Qual é a grande missão da alma?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +115,15 @@
         "dimension": 81.04265402843602,
         "children": [
           {
-            "id": "d26de7e0f938a340",
+            "id": "f86c735e844ed812",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb4c653c36acff1d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -121,23 +131,15 @@
             }
           },
           {
-            "id": "2d163cf332d453cc",
+            "id": "258ca8570c35d3d5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "f86c735e844ed812",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7f0480c584097b69",
@@ -230,10 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fecc0a5f037553a0",
+  "active": "c6c99fc97dd0d890",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
+    "Qual é a grande missão da alma?.md",
     "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
@@ -258,7 +261,6 @@
     "2. Literature Notes/Topics/Vamos reflorestar a floresta que é você?.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/O amor-próprio, então, não é um destino pelo qual precisamos lutar, mas sim um estado de ser que está disponível para nós em cada novo momento.md",
-    "2. Literature Notes/Topics/De que forma a água pode me ajudar a me amar mais?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "7. Creator/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
