@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b745144b368a119e",
+        "id": "cb00693ca01bb674",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa6ef7cd20efbf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a41c31b92269875f",
+            "id": "ddda05f20aeac337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6c99fc97dd0d890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83bcee5070e40d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ego Inconsciente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10dcca1d0dcbf63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad4333edcc8d7106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "414ab3ade7aaf2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
+                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
+                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
+                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md"
+                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md"
               }
             }
           },
@@ -267,13 +199,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "ddda05f20aeac337",
   "lastOpenFiles": [
+    "7. Creator/Newsletter/01 - Seja bem-vindo.md",
+    "7. Creator/Newsletter",
+    "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
+    "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
+    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Ego Inconsciente.md",
     "4. Me, Myself and I/Terapias/Leis Biológicas.md",
     "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
-    "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
-    "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
@@ -294,10 +229,7 @@
     "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
     "2. Literature Notes/Topics/Se você não consegue reconhecer bençãos que já chegaram, não existe motivo pelo qual o Universo vá te dar mais.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
-    "7. Creator/Untitled",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
