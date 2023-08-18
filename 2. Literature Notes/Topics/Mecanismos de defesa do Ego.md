@@ -61,6 +61,9 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	1. Intelectualização tende a ocorrer no curto prazo, mas a sublimação se desenvolve durante um longo período de tempo, talvez até mesmo durante todo o curso da vida.
 	2. É o Mecanismo de defesa mais saudável que o Ego utiliza, canalizando ou dirigindo para atividades socialmente aceitas, impulsos libidinais e agressivos considerados indesejáveis e perigosos. 
 		1. Um clássico exemplo de sublimação é o de um homem que se tornou cirurgião que leva impulsos hostis dentro de si e os converte em "cortes" em outras pessoas de uma forma que é perfeitamente aceitável na sociedade.
+	3. Na impossibilidade de realização de um desejo, encontra um substituto aceitável por meio do qual pode se contentar. É uma forma de deslocamento e um recalque bem sucedido. A frustração de um relacionamento afetivo e sexual mal resolvido, por exemplo, é sublimado na paixão pela leitura ou pela arte. O chupar o dedo ou a chupeta para o bebê o faz se sentir como se estivesse mamando no seio da mãe.
+	4. Mais realisticamente, sublimação ocorre quando as pessoas transformam suas emoções conflitantes em estabelecimentos produtivos.
+		1. Profissionais que cuidam de pessoas é possível que atuem em áreas de serviços humanos para ajudar os outros porque estão tentando compensar dificuldades experimentadas no início de suas vidas com outros seres humanos, ex.: pai e mãe.
 
 **PENSADORES:**
 
