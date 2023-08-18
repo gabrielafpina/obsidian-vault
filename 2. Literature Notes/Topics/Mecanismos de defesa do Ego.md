@@ -28,6 +28,8 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	1. Você transfere os seus sentimentos originais perigosos (geralmente raiva) para longe da pessoa que é o verdadeiro responsável pelo mal que possa ter feito a você, e desloca toda a sua energia para outro alvo: uma vítima mais infeliz e inofensiva do que você.
 	2. É o mecanismo psicológico de defesa em que a pessoa substitui a finalidade inicial de uma pulsão por outra diferente e socialmente mais aceita.
 	3. Toda vez que você mudar os seus verdadeiros sentimentos da sua fonte provocadora de ansiedade original para quem você percebe como menos provável de causar-lhe mal, você está muito possivelmente usando deslocamento como mecanismo de defesa.
+5. **Projeção**
+	1. É importante começar com a suposição de que o reconhecimento de uma qualidade particular em si mesmo pode causar-lhe dor psíquica.
 
 **PENSADORES:**
 

@@ -28,7 +28,7 @@ Destra - energia feminina nas mulheres
 - Qual tamanho eu nasci? 47cm. 3,215g
 quando uma mulher engravida, ela vive inconscientemente a gravidez dela com a mãe 
 memória que minha me tinha de maternidade + aborto fez ela ser muito prática na vida e estava casada com uma pessoa que ela não confiava (eu tenho que dar conta, porque ele escreve pra mim que ele não era capaz). isso reforçava o vinculo da mãe com o arquétipo maternal.
-me senti sozinha no mundo, por isso fui pro superfuncional, por isso é difícil me reconciliar com o feminino pra mim (que era frágil). para o meu cérebro, vir pro feminino é me afastar do masculino, que garante a minha sobrevivência 
+me senti sozinha no mundo, por isso fui pro superfuncional ([[Como você funciona?]]), por isso é difícil me reconciliar com o feminino pra mim (que era frágil). para o meu cérebro, vir pro feminino é me afastar do masculino, que garante a minha sobrevivência 
 atrai um homem mais feminino para me reconciliar com o feminino.
 hiperfuncional vem de hiperperformance. necessidade de agradar o pai para ter proteção e isso começa na desconexão com a mãe. o pai ganha a importância maior do que o normal, como uma compensação de desconexão com a mãe (meu primeiro conflito)
 hitler uma pessoa que mais utilizou a energia masculina de forma distorcida.
@@ -38,17 +38,14 @@ opção sexual do meu pai - o masculino não protege. meu pai se sentia muito in
 pisciano vem em história familiar dos pais ausentes, de um masculino fragilizado (não assume responsabilidades ou coloca em perigo).
 para a minha criança foi muito difícil viver a ruptura de vinculo com a minha mãe e ela não entendia isso.
 conflitos: gemelar (aborto) e os medos que a minha mãe sentiu ao ser mãe, por mais que eu fosse desejada (não se sentia protegida pelo macho)
-vantagem que eu tenho de cuidar da minha mãe - se eu cuido da minha mãe, ela esta mais apta a cuidar da minha criança . necessidade de cuidar dela é para garantir a minha sobrevivência 
+vantagem que eu tenho de cuidar da minha mãe - se eu cuido da minha mãe, ela esta mais apta a cuidar da minha [[Criança Interior]]. necessidade de cuidar dela é para garantir a minha sobrevivência 
 as vezes é não fazer nada, permita que a vida te traga
-eu sou uma pessoa que sempre vou ter redes das coisas, mas não precisa ser a ferro e fogo
-talvez tudo que eu vvi tenha sido para eu achar o meu lugar na família. nau sou a primeira filha, mas me coloco no lugar de primeira, porque eu fui a criança que não tive lugar, tava sempre sozinha, com as avós. a criança vive isso como perda de referencia existencial, ops grandes abandonos e cresço e fico querendo viver o problema de todo mundo
-eu não preciso brigar pelo meu lugar no mundo e eu não preciso mais precisar da minha mãe para garantir a minha sobrevivência.
+eu sou uma pessoa que sempre vou ter as rédeas das coisas, mas não precisa ser a ferro e fogo
+talvez tudo que eu vivi tenha sido para eu achar o meu lugar na família. não sou a primeira filha, mas me coloco no lugar de primeira, porque eu fui a criança que não tive lugar, tava sempre sozinha, com as avós. a criança vive isso como perda de referencia existencial, após grandes abandonos e cresço e fico querendo viver o problema de todo mundo
+***eu não preciso brigar pelo meu lugar no mundo e eu não preciso mais da minha mãe para garantir a minha sobrevivência.***
 não é perigoso eu me reconciliar com o meu feminino.
 a gente não faz memória quando a gente ta nos conflitos de separação e no medo. por isso não lembro da minha mãe e sempre lembro do meu pai (era a referencia que eu tinha, porque a mãe não estava presente).
 necessidade de me reconciliar com a figura da minha mãe
-
 - mãe, eu só queria te agradecer pela vida que você me deu, sem justificativas. colocar a mãe no lugar de mãe sem julgamento. se eu to aqui hoje é porque você me deu a vida.
-
 - escrever carta
-
-eu posso fazer e criar, mas não por uma noção de sobrevivencia, é por escolha
+eu posso fazer e criar, mas não por uma noção de sobrevivência, é por escolha
