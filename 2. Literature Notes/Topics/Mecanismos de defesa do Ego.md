@@ -30,9 +30,14 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	3. Toda vez que você mudar os seus verdadeiros sentimentos da sua fonte provocadora de ansiedade original para quem você percebe como menos provável de causar-lhe mal, você está muito possivelmente usando deslocamento como mecanismo de defesa.
 5. **Projeção**
 	1. É importante começar com a suposição de que o reconhecimento de uma qualidade particular em si mesmo pode causar-lhe dor psíquica.
-		1. É uma espécie de [[Transferências]], porque você joga culpa no outro de algo que é uma frustração sua; você projeta em cima do outro a sua própria insatisfação, desconforto. Sua insegurança e angústia podem te levar a projetar os seus sentimentos nos outros. No entanto, os sentimentos são seus. E você transfere a responsabilidade para o outro.
+		1. É uma espécie de [[Transferências]], porque você joga culpa no outro de algo que é uma frustração sua; você projeta em cima do outro a sua própria insatisfação, desconforto. Sua insegurança e angústia podem te levar a projetar os seus sentimentos nos outros. No entanto, os sentimentos são seus. O que você projeta são os seus sentimentos. E você transfere a responsabilidade para o outro. [[Não existe culpa, existe responsabilidade]]
 		2. É uma forma de colocar sentimentos internos no mundo externo, consistindo no fato de atribuir a uma pessoa, animal ou objeto as qualidades, sentimentos ou intenções que se originam em si próprio.
 			1. Ex: acusar veementemente alguém de desonesto, quando na verdade, aquele que acusa tem uma postura desonesta, ou pela pessoa estar tendo uma atitude que, na verdade, ele também tem.
+		3. Em um caso menos bobo, você pode projetar seus sentimentos mais gerais de culpa ou insegurança nos seus amigos, com todas as suas falhas projetadas.
+		4. 'O rótulo mostra os ingredientes de um produto. Já quem põe rótulos nas pessoas, mostra os ingredientes de si mesmo.' [[Todo julgamento é uma confissão]]
+6. **Formação Reativa**
+	1. Vamos dizer que você secretamente abriga sentimentos lascivos (desejos ardentes, tesão) em relação a alguém que você provavelmente deveria ficar longe e você guarda isso. A pessoa é proibi
+
 
 **PENSADORES:**
 
