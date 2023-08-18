@@ -30,11 +30,11 @@ livro Cartas de Cristo
 karma não existe. a alma veio aqui para aprender. grande missão da alma: curar medos e resgatar amor próprio. se você não aprende algo, aquilo se repete. [[Qual é a grande missão da alma?]]
 função da criança interior: encher a gente de medo, culpa, abandono, porque é ai que a alma experimenta.
 são 8 bilhões de almas em uma jornada individual de aprendizado.
-o verdadeiro egoismo é você se abandonar para cuidar dos outros que se abandonaram.
+[[O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram]].
 é você em primeiro lugar SEMPRE.
 estudar kryon.
-muito medo do descontrole do meu pai. criação de personagem de que eu era identificada com o meu pai. o personagem agradava o pai com o objetivo de agradar o papai. meu pai era super instável, então como homem ideal de vida, eu tinha o instável. e eu trago a instabilidade para mim, por medo. 
-raiva é reflexo do medo. 
+muito medo do descontrole do meu pai. criação de personagem de que eu era identificada com o meu pai. o personagem agradava o pai por medo. meu pai era super instável, então como homem ideal de vida, eu tinha o instável. e eu trago a instabilidade para mim, por medo. 
+A raiva é reflexo do medo. 
 familia não é destino, é aprendizado. família não é pra sempre. tem gente que é insuportável, corta da sua vida. mas aprende, porque se não você vai atrair outra pessoa igual.
 para de olhar como castigo, começa a olhar como aprendizado.
 não queira interferir no aprendizado de outra alma.
