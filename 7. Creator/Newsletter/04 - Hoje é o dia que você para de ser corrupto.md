@@ -1,6 +1,6 @@
 **ASSUNTO:** Hoje é o dia que você para de ser corrupto
 
-**PRÉ-HEADER:** É hora de acordar e viver a sua vida.
+**PRÉ-HEADER:** C
 
 **CONTEÚDO:**
 Olá, [FNAME]! Voltei pra sua caixa de entrada trazendo **mensagens de consciência**.
