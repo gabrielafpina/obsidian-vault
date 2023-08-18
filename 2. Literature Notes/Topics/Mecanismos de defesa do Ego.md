@@ -45,7 +45,13 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	4. Em suma, significa expressar o oposto de seus sentimentos internos em seu comportamento exterior.
 7. **Intelectualização**
 	1. Você pode neutralizar os seus sentimentos de raiva, insegurança, ansiedade, ou de uma forma que seja menos provável de levar a momentos embaraçosos.
-	2. Aqui, você se 
+	2. Aqui, você se acha afastado de uma reação ou emoção de sentimento que você não gosta. Impede o reconhecimento claro e não-distorcido de um impulso por meio de excessivas explicações, muitas vezes desvirtuadas. [[A justificativa perpetua a mediocridade]]
+		1. Ex: uma pessoa gulosa pode fornecer varias razões: preciso de muitas vitaminas para lidar com o estresse; sempre engordo no inverno...
+		2. Ex2: Em vez de enfrentar o intenso sofrimento e rejeição que se sente depois que a esposa decide se mudar, começa a se realizar uma análise financeira detalhada de quanto se pode gastar agora que mora sozinho. É abafar a informação e começar a usar informação mais intelectual para justificar o que está acontecendo com ela.
+	3. Embora você não esteja negando que o evento aconteceu, você não pensa sobre as consequências emocionais. [[Tudo é uma escolha]]. É importante conversar sobre o que está acontecendo com você.
+8. **Racionalização**
+	1. você se acha afastado de uma reação de emoção ou sentimento que você não gosta em si mesmo. Quando você racionaliza algo, você tenta explicá-lo.
+	2. ´É uma forma de redefinir a realidade através de uma explicação coerente do ponto de vista lógico e tornando as atitudes moralmente aceitáveis. Busca-se 'boas razões', ainda que falsas, para suas atitudes e fracassos.
 
 **PENSADORES:**
 
