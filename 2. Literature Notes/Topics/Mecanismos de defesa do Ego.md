@@ -36,7 +36,10 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 		3. Em um caso menos bobo, você pode projetar seus sentimentos mais gerais de culpa ou insegurança nos seus amigos, com todas as suas falhas projetadas.
 		4. 'O rótulo mostra os ingredientes de um produto. Já quem põe rótulos nas pessoas, mostra os ingredientes de si mesmo.' [[Todo julgamento é uma confissão]]
 6. **Formação Reativa**
-	1. Vamos dizer que você secretamente abriga sentimentos lascivos (desejos ardentes, tesão) em relação a alguém que você provavelmente deveria ficar longe e você guarda isso. A pessoa é proibi
+	1. Vamos dizer que você secretamente abriga sentimentos lascivos (desejos ardentes, tesão) em relação a alguém que você provavelmente deveria ficar longe e você guarda isso. A pessoa é proibida por alguma razão. Quando ela se aproxima você fica mal, porque bate o tesão, e você sabe que é melhor ficar no seu canto.
+		1. Você não quer admitir esses sentimentos, e sim expressar o oposto desses sentimentos. Você acaba evitando essa pessoa ou a persegui-la, culpá-la. É uma [[Transferências]] também, a pessoa começa a mandar para o outro o que está dentro dela também.
+	2. Este processo acontece quando existe repressão dos próprios impulsos, acompanhada com uma tendência contrária. assim, mantém o impulso indesejado e oculot longe do consciente, super-enfatizando o impulso oposto, ainda que 'falso'.
+		1. Ex: o sujeito possui uma postura e atitude extremamente rígidas com relação à sexualidade, pode estar ocultando seu lado sexual mais libertino e o que a sociedade consideraria imoral. Relacionado a [[crenças]]. E a pessoa se culpa e se condena, reprimindo o que ela tinha muita vontade de fazer. Está muito ligado a repressão de algumas religiões.
 
 
 **PENSADORES:**
