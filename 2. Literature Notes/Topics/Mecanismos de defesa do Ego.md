@@ -30,6 +30,9 @@ Os mecanismos de defesa não são apenas uma proteção de medida [[Inconsciente
 	3. Toda vez que você mudar os seus verdadeiros sentimentos da sua fonte provocadora de ansiedade original para quem você percebe como menos provável de causar-lhe mal, você está muito possivelmente usando deslocamento como mecanismo de defesa.
 5. **Projeção**
 	1. É importante começar com a suposição de que o reconhecimento de uma qualidade particular em si mesmo pode causar-lhe dor psíquica.
+		1. É uma espécie de [[Transferências]], porque você joga culpa no outro de algo que é uma frustração sua; você projeta em cima do outro a sua própria insatisfação, desconforto. Sua insegurança e angústia podem te levar a projetar os seus sentimentos nos outros. No entanto, os sentimentos são seus. E você transfere a responsabilidade para o outro.
+		2. É uma forma de colocar sentimentos internos no mundo externo, consistindo no fato de atribuir a uma pessoa, animal ou objeto as qualidades, sentimentos ou intenções que se originam em si próprio.
+			1. Ex: acusar veementemente alguém de desonesto, quando na verdade, aquele que acusa tem uma postura desonesta, ou pela pessoa estar tendo uma atitude que, na verdade, ele também tem.
 
 **PENSADORES:**
 
