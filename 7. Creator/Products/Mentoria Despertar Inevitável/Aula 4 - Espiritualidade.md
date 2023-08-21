@@ -19,3 +19,4 @@
 	-  Introduzir o conceito do Eu Superior.
 	- Explicar como conectar-se com a própria essência.
 	- Exercício do [[Eu-Paralelo-Preferido]]
+	- [[Lei da Vibração]]
