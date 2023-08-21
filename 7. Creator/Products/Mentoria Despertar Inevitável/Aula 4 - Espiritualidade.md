@@ -24,16 +24,17 @@
 		- Exercício de Gratidão (CCM)
 			- **Descrição**: Peça aos participantes para anotarem três coisas pelas quais são gratos todos os dias durante uma semana.
 			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
-1. **Autorresponsabilidade radical**
+4. **Autorresponsabilidade radical**
 	- Somos responsáveis por todas as ações, boas ou más
 	- [[Lei da Causa e Efeito]]
 	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
 	- A responsabilidade pelas nossas ações também está ligada à ética e à integridade. Significa viver de acordo com nossos valores e princípios, agindo com honestidade e autenticidade. Isso cria uma vida de significado e propósito, onde nossas ações estão alinhadas com nossas crenças mais profundas. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 	- Finalmente, assumir a responsabilidade por nossas ações é uma forma de empoderamento. Significa que temos o poder de escolher como agimos e reagimos, e que somos capazes de criar a vida que desejamos. Isso nos dá uma sensação de controle e agência, permitindo-nos viver de forma mais intencional e consciente.
-2. **A ilusão do tempo**
+5. **A ilusão do tempo**
 	- [[O tempo é uma ilusão]]
 		- [[O tempo de acordo com Einstein]]
 		- [[Escolha estar presente nesse evento, que é o aqui e o agora]]
-	- Exercício do [[Eu-Paralelo-Preferido]]
 	- [[Lei da Vibração]] [[A gente atrai o que a gente vibra]] [[Você não vibra impunemente]]
+	- Exercício do [[Eu-Paralelo-Preferido]]
 	- Explicar como conectar-se com a própria essência.
+	- CCM: [[Meu Destino Preferido]]
