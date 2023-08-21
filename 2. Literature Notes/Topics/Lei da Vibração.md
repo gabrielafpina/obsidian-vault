@@ -17,7 +17,7 @@ O movimento é manifestado em tudo no universo. Matéria e energia são a mesma 
 
 Toda manifestação do pensamento, emoção, vontade, raciocínio ou desejo ou qualquer condição ou estado mental são acompanhadas por vibrações (é energia vibrando), uma parte é descartada e tende a afetar a mente de outras pessoas por 'indução'.
 
-Aquele que compreende o princípio da vibração está de posse do cetro de poder. Ou seja, se você começou a fazer um trabalho sobre si e reconhece que esse é o sue único poder, você começa a refletir sobre a vibração que você quer para a sua vida e, consequentemente, assume o seu lugar de adulta no mundo, se empoderando e sintonizando a vibração que você quer.
+Aquele que compreende o princípio da vibração está de posse do cetro de poder. Ou seja, se você começou a fazer um trabalho sobre si e reconhece que esse é o seu único poder, você começa a refletir sobre a vibração que você quer para a sua vida e, consequentemente, assume o seu lugar de adulta no mundo, se empoderando e sintonizando a vibração que você quer.
 
 Você é o responsável por criar as suas referências de [[crenças]] e se você não faz isso, você passa a fazer parte do campo vibracional de pessoas que não são despertas.
 
