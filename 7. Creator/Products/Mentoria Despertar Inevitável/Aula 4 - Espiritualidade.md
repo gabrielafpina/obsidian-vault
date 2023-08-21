@@ -19,9 +19,14 @@
 	- Exercício de Meditação
 4. **Autorresponsabilidade radical**
 	- Somos responsáveis por todas as ações, boas ou más
+	- [[Lei da Causa e Efeito]]
+	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
+	- A responsabilidade pelas nossas ações também está ligada à ética e à integridade. Significa viver de acordo com nossos valores e princípios, agindo com honestidade e autenticidade. Isso cria uma vida de significado e propósito, onde nossas ações estão alinhadas com nossas crenças mais profundas. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
+	- Finalmente, assumir a responsabilidade por nossas ações é uma forma de empoderamento. Significa que temos o poder de escolher como agimos e reagimos, e que somos capazes de criar a vida que desejamos. Isso nos dá uma sensação de controle e agência, permitindo-nos viver de forma mais intencional e consciente.
 1. **Eu-superior**
 	-  Introduzir o conceito do Eu Superior.
 	- Explicar como conectar-se com a própria essência.
+	- [[O tempo é uma ilusão]]
 	- Exercício do [[Eu-Paralelo-Preferido]]
 	- [[Lei da Vibração]]
 2. **O que é a vida e a morte?**

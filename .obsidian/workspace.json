@@ -68,6 +68,42 @@
             }
           },
           {
+            "id": "148643fbc34a2d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "564a2df72185c0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93646321bdea4403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O tempo de acordo com Einstein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2df8a8965f8f60ae",
             "type": "leaf",
             "state": {
@@ -104,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -204,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "O tempo de acordo com Einstein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "O tempo de acordo com Einstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
+                "file": "O tempo de acordo com Einstein.md"
               }
             }
           },
@@ -283,10 +319,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09974f1349323221",
+  "active": "93646321bdea4403",
   "lastOpenFiles": [
-    "O que é a morte?.md",
+    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+    "O tempo de acordo com Einstein.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
+    "O que é a morte?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
@@ -303,7 +342,6 @@
     "2. Literature Notes/Topics/Ego Inconsciente.md",
     "4. Me, Myself and I/Terapias/Leis Biológicas.md",
     "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Roda da Vida.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
@@ -311,8 +349,6 @@
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
-    "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
-    "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",

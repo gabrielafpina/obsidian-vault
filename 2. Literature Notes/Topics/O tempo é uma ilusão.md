@@ -29,3 +29,4 @@ Para a existência não existe um antes, durante e depois. Existe um eterno mome
 
 **Sul: para onde vai**
 - [[Tudo acontece no momento divino]]
+- [[O tempo de acordo com Einstein]]
