@@ -9,27 +9,31 @@
 	- O papel da espiritualidade na compreensão desta conexão.
 2. **Uma nova visão de Deus**
 	- Como essa nova visão afeta a vida diária.
+		- A reencarnação é apresentada como um processo de amadurecimento da alma, onde cada vida é uma oportunidade de crescimento e aprendizado.
+		- Já a morte não é um fim, mas uma transição. Ela é um momento de passagem entre uma vida e outra, um ponto de reflexão e entendimento antes de embarcar em uma nova jornada de aprendizado e crescimento. [[O que é a morte?]]
 	- A importância de ver a divindade em si mesmo e nos outros.
 	- O impacto na compaixão, empatia e amor-próprio.
 3. **Como a minha espiritualidade decolou**
 	- [[Mindfulness]]
+		- Exercício de Meditação
 	- Ayahuasca
 	- Compreensão de [[Ego]]
 	- Prática de orações matinais
-	- Exercício de Meditação
-4. **Autorresponsabilidade radical**
+	- Prática de gratidão diária
+		- Agradecer por tudo o que acontece comigo, seja 'bom' ou 'ruim'
+		- Exercício de Gratidão (CCM)
+			- **Descrição**: Peça aos participantes para anotarem três coisas pelas quais são gratos todos os dias durante uma semana.
+			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
+1. **Autorresponsabilidade radical**
 	- Somos responsáveis por todas as ações, boas ou más
 	- [[Lei da Causa e Efeito]]
 	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
 	- A responsabilidade pelas nossas ações também está ligada à ética e à integridade. Significa viver de acordo com nossos valores e princípios, agindo com honestidade e autenticidade. Isso cria uma vida de significado e propósito, onde nossas ações estão alinhadas com nossas crenças mais profundas. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 	- Finalmente, assumir a responsabilidade por nossas ações é uma forma de empoderamento. Significa que temos o poder de escolher como agimos e reagimos, e que somos capazes de criar a vida que desejamos. Isso nos dá uma sensação de controle e agência, permitindo-nos viver de forma mais intencional e consciente.
-5. **A ilusão do tempo**
+2. **A ilusão do tempo**
 	- [[O tempo é uma ilusão]]
 		- [[O tempo de acordo com Einstein]]
 		- [[Escolha estar presente nesse evento, que é o aqui e o agora]]
 	- Exercício do [[Eu-Paralelo-Preferido]]
-	- [[Lei da Vibração]]
+	- [[Lei da Vibração]] [[A gente atrai o que a gente vibra]] [[Você não vibra impunemente]]
 	- Explicar como conectar-se com a própria essência.
-6. **O que é a vida e a morte?**
-	- A reencarnação é apresentada como um processo de amadurecimento da alma, onde cada vida é uma oportunidade de crescimento e aprendizado.
-	- Já a morte não é um fim, mas uma transição. Ela é um momento de passagem entre uma vida e outra, um ponto de reflexão e entendimento antes de embarcar em uma nova jornada de aprendizado e crescimento. [[O que é a morte?]]
