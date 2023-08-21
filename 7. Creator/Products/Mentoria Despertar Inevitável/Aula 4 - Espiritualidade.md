@@ -4,7 +4,7 @@
 	- Como essa visão mudou e se expandiu.
 		- Explicar o conceito de Deus como uma força universal e amorosa.
 		- Deus é retratado como um ser que criou o universo para o amadurecimento da alma
-	- A ideia de que todos somos Um e todos estamos conectados.
+	- A ideia de que todos somos Um e todos estamos conectados. [[todos somos um]]
 		- pode levar a uma maior compaixão e amor pelos outros. Isso pode ser uma lição poderosa em como a espiritualidade pode nos ajudar a viver de maneira mais amorosa e conectada.
 	- O papel da espiritualidade na compreensão desta conexão.
 2. **Uma nova visão de Deus**
@@ -25,12 +25,13 @@
 			- **Descrição**: Peça aos participantes para anotarem três coisas pelas quais são gratos todos os dias durante uma semana.
 			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
 4. **Autorresponsabilidade radical**
+	- [[Tudo é uma escolha]]. Você escolhe se comprometer com a sua jornada espiritual? Somos todos seres espirituais vivendo uma vida material
 	- Somos responsáveis por todas as ações, boas ou más
 	- [[Lei da Causa e Efeito]]
 	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
 	- A responsabilidade pelas nossas ações também está ligada à ética e à integridade. Significa viver de acordo com nossos valores e princípios, agindo com honestidade e autenticidade. Isso cria uma vida de significado e propósito, onde nossas ações estão alinhadas com nossas crenças mais profundas. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 	- Finalmente, assumir a responsabilidade por nossas ações é uma forma de empoderamento. Significa que temos o poder de escolher como agimos e reagimos, e que somos capazes de criar a vida que desejamos. Isso nos dá uma sensação de controle e agência, permitindo-nos viver de forma mais intencional e consciente.
-5. **A ilusão do tempo**
+6. **A ilusão do tempo**
 	- [[O tempo é uma ilusão]]
 		- [[O tempo de acordo com Einstein]]
 		- [[Escolha estar presente nesse evento, que é o aqui e o agora]]
