@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "09974f1349323221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "614303e63e3c38e0",
             "type": "leaf",
             "state": {
@@ -80,25 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "c2b05a8da7d38bf0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "13919c328df4c8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Processo de determinação de Valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,7 +163,7 @@
             }
           },
           {
-            "id": "eb4c653c36acff1d",
+            "id": "763b8638a2d096fc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -176,7 +171,7 @@
             }
           },
           {
-            "id": "258ca8570c35d3d5",
+            "id": "9c4e61932cba04e3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -197,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -254,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,10 +271,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "481b120ad83693c5",
+  "active": "09974f1349323221",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Processo de determinação de Valores.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+    "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
@@ -305,8 +301,6 @@
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Intenção sem coração é ganância. Intenção com coração é ambição..md",
     "2. Literature Notes/Topics/transgeracionalidade.md",
-    "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
-    "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
