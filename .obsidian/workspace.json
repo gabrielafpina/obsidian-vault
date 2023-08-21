@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0406c6784b06c38f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como é o Deus de Spinoza?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "509b128de6ffe57a",
             "type": "leaf",
             "state": {
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -325,16 +337,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65c8d0d9341ee1cb",
+  "active": "09974f1349323221",
   "lastOpenFiles": [
+    "Como é o Deus de Spinoza?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/todos somos um.md",
-    "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "O que é a morte?.md",
     "O tempo de acordo com Einstein.md",
@@ -353,7 +366,6 @@
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Ego Inconsciente.md",
     "4. Me, Myself and I/Terapias/Leis Biológicas.md",
-    "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",

@@ -9,13 +9,14 @@
 		- CCM: fazer uma prática meditativa em contato com a natureza, sentindo uma profunda conexão com tudo ao seu redor
 	- O papel da espiritualidade na compreensão desta conexão.
 2. **Uma nova visão de Deus**
+	- [[Como é o Deus de Spinoza?]]
 	- Como essa nova visão afeta a vida diária.
 		- A reencarnação é apresentada como um processo de amadurecimento da alma, onde cada vida é uma oportunidade de crescimento e aprendizado.
 		- Já a morte não é um fim, mas uma transição. Ela é um momento de passagem entre uma vida e outra, um ponto de reflexão e entendimento antes de embarcar em uma nova jornada de aprendizado e crescimento. [[O que é a morte?]]
 	- A importância de ver a divindade em si mesmo e nos outros.
 		- CCM: Vídeo do ovo https://www.youtube.com/watch?v=oshTaLqjuCA
 	- O impacto na compaixão, empatia e amor-próprio.
-3. **Como a minha espiritualidade decolou**
+4. **Como a minha espiritualidade decolou**
 	- [[Mindfulness]]
 		- Exercício de Meditação
 	- Ayahuasca
@@ -26,7 +27,7 @@
 		- Exercício de Gratidão (CCM)
 			- **Descrição**: Peça aos participantes para anotarem três coisas pelas quais são gratos todos os dias durante uma semana.
 			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
-4. **Autorresponsabilidade radical**
+5. **Autorresponsabilidade radical**
 	- [[Tudo é uma escolha]]. Você escolhe se comprometer com a sua jornada espiritual? Somos todos seres espirituais vivendo uma vida material
 		- [[O meu nível de ser atrai a minha vida]]
 	- Somos responsáveis por todas as ações, boas ou más
