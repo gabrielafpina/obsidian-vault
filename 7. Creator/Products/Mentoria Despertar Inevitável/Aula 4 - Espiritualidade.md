@@ -6,12 +6,14 @@
 		- Deus é retratado como um ser que criou o universo para o amadurecimento da alma
 	- A ideia de que todos somos Um e todos estamos conectados. [[todos somos um]]
 		- pode levar a uma maior compaixão e amor pelos outros. Isso pode ser uma lição poderosa em como a espiritualidade pode nos ajudar a viver de maneira mais amorosa e conectada.
+		- CCM: fazer uma prática meditativa em contato com a natureza, sentindo uma profunda conexão com tudo ao seu redor
 	- O papel da espiritualidade na compreensão desta conexão.
 2. **Uma nova visão de Deus**
 	- Como essa nova visão afeta a vida diária.
 		- A reencarnação é apresentada como um processo de amadurecimento da alma, onde cada vida é uma oportunidade de crescimento e aprendizado.
 		- Já a morte não é um fim, mas uma transição. Ela é um momento de passagem entre uma vida e outra, um ponto de reflexão e entendimento antes de embarcar em uma nova jornada de aprendizado e crescimento. [[O que é a morte?]]
 	- A importância de ver a divindade em si mesmo e nos outros.
+		- CCM: Vídeo do ovo https://www.youtube.com/watch?v=oshTaLqjuCA
 	- O impacto na compaixão, empatia e amor-próprio.
 3. **Como a minha espiritualidade decolou**
 	- [[Mindfulness]]
@@ -26,6 +28,7 @@
 			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
 4. **Autorresponsabilidade radical**
 	- [[Tudo é uma escolha]]. Você escolhe se comprometer com a sua jornada espiritual? Somos todos seres espirituais vivendo uma vida material
+		- [[O meu nível de ser atrai a minha vida]]
 	- Somos responsáveis por todas as ações, boas ou más
 	- [[Lei da Causa e Efeito]]
 	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
