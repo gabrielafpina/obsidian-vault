@@ -28,7 +28,7 @@
 			- **Descrição**: Peça aos participantes para anotarem três coisas pelas quais são gratos todos os dias durante uma semana.
 			- **Objetivo**: Desenvolver uma atitude de gratidão e reconhecimento das bênçãos diárias.
 5. **Autorresponsabilidade radical**
-	- [[Tudo é uma escolha]]. Você escolhe se comprometer com a sua jornada espiritual? Somos todos seres espirituais vivendo uma vida material
+	- [[Tudo é uma escolha]]. Você escolhe se comprometer com a sua jornada espiritual? [[Somos todos seres espirituais vivendo uma vida material]]
 		- [[O meu nível de ser atrai a minha vida]]
 	- Somos responsáveis por todas as ações, boas ou más
 	- [[Lei da Causa e Efeito]]
