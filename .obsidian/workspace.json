@@ -8,60 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddda05f20aeac337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0cb719621ee5fec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Newsletter/01 - Seja bem-vindo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90bb493a9451bfd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Newsletter/02 - A grande decisão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "481b120ad83693c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "09974f1349323221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db0e67e8f3ba7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,18 +56,6 @@
             }
           },
           {
-            "id": "93646321bdea4403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O tempo de acordo com Einstein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2df8a8965f8f60ae",
             "type": "leaf",
             "state": {
@@ -114,33 +66,27 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bcbf19da1554e22d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "614303e63e3c38e0",
+            "id": "93646321bdea4403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a05bbd95e863c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
+                "file": "O tempo de acordo com Einstein.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O tempo de acordo com Einstein.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O tempo de acordo com Einstein.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O tempo de acordo com Einstein.md"
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md"
               }
             }
           },
@@ -297,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,13 +266,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93646321bdea4403",
+  "active": "7db0e67e8f3ba7a2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
-    "O tempo de acordo com Einstein.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
+    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "O que é a morte?.md",
+    "O tempo de acordo com Einstein.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
@@ -348,7 +296,6 @@
     "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-    "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",

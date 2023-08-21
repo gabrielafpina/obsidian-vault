@@ -23,12 +23,13 @@
 	- Assumir a responsabilidade por nossas ações é também um caminho para o crescimento e o aprendizado. Ao reconhecer que somos os autores de nossas vidas, podemos aprender com nossos erros e sucessos. Isso nos permite crescer, mudar e evoluir, tornando-nos mais sábios e conscientes.
 	- A responsabilidade pelas nossas ações também está ligada à ética e à integridade. Significa viver de acordo com nossos valores e princípios, agindo com honestidade e autenticidade. Isso cria uma vida de significado e propósito, onde nossas ações estão alinhadas com nossas crenças mais profundas. [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 	- Finalmente, assumir a responsabilidade por nossas ações é uma forma de empoderamento. Significa que temos o poder de escolher como agimos e reagimos, e que somos capazes de criar a vida que desejamos. Isso nos dá uma sensação de controle e agência, permitindo-nos viver de forma mais intencional e consciente.
-1. **Eu-superior**
-	-  Introduzir o conceito do Eu Superior.
-	- Explicar como conectar-se com a própria essência.
+5. **A ilusão do tempo**
 	- [[O tempo é uma ilusão]]
+		- [[O tempo de acordo com Einstein]]
+		- [[Escolha estar presente nesse evento, que é o aqui e o agora]]
 	- Exercício do [[Eu-Paralelo-Preferido]]
 	- [[Lei da Vibração]]
-2. **O que é a vida e a morte?**
+	- Explicar como conectar-se com a própria essência.
+6. **O que é a vida e a morte?**
 	- A reencarnação é apresentada como um processo de amadurecimento da alma, onde cada vida é uma oportunidade de crescimento e aprendizado.
 	- Já a morte não é um fim, mas uma transição. Ela é um momento de passagem entre uma vida e outra, um ponto de reflexão e entendimento antes de embarcar em uma nova jornada de aprendizado e crescimento. [[O que é a morte?]]
