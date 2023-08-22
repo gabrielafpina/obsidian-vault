@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f48fb3038bd799f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7c83fc757f0ae2ec",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o método LCA?.md",
+                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o método LCA?.md",
+                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é o método LCA?.md"
+                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md"
               }
             }
           },
@@ -307,10 +319,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "f48fb3038bd799f7",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "O que é o método LCA?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",

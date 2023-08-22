@@ -23,10 +23,14 @@ O método te ajuda a ter uma maior clareza sobre o que você verdadeiramente que
 **PENSADORES:**
 
 **FRASES:**
+- [[Thauã Morlin]]
+	- 'meus pensamentos e minhas emoções, juntamente com minha intenção e minha atenção, que são aspectos um pouco mais sutis da minha consciência, eles são, na verdade, comportamentos internos, são escolhas internas. [[Tudo é uma escolha]]'
+	- 'as ações não são a causa realmente direta para algo se manifestar, para algo se realizar, para você obter determinado resultado. Mas as ações em uma realidade física ainda são relevantes e importantes.'
 
 ---------
 
 **Oeste: similar**
+- [[O ser humano busca o prazer ou foge da dor]]
 
 **Leste: oposto**
 
