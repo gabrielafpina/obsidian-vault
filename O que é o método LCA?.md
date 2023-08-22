@@ -37,3 +37,4 @@ O método te ajuda a ter uma maior clareza sobre o que você verdadeiramente que
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Você é o observador]]

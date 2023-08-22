@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "551dcf911e2c409f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você é o observador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9207a4207bec9ec0",
             "type": "leaf",
             "state": {
@@ -49,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "existem dois tipos de autoconhecimento.md",
+                "file": "existem 2 tipos de autoconhecimento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "existem dois tipos de autoconhecimento.md",
+                "file": "existem 2 tipos de autoconhecimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "existem dois tipos de autoconhecimento.md",
+                "file": "existem 2 tipos de autoconhecimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "existem dois tipos de autoconhecimento.md"
+                "file": "existem 2 tipos de autoconhecimento.md"
               }
             }
           },
@@ -237,9 +249,10 @@
   },
   "active": "6af979396bf93ced",
   "lastOpenFiles": [
-    "Quais são todos os seus desejos?.md",
-    "existem dois tipos de autoconhecimento.md",
+    "Você é o observador.md",
     "O que é o método LCA?.md",
+    "existem 2 tipos de autoconhecimento.md",
+    "Quais são todos os seus desejos?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
@@ -262,7 +275,6 @@
     "2. Literature Notes/Topics/Processo de determinação de Valores.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
-    "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",

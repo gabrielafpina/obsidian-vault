@@ -10,8 +10,10 @@ Há o autoconhecimento verdadeiro e há o autoconhecimento da persona. Persona e
 - **Autoconhecimento da persona:** o autoconhecimento no sentido de tomar maior consciência sobre a pessoa que você é, sobre a sua personalidade. Queiramos ou não queiramos, a gente tem um [[Ego]], a gente trabalha com essa máscara pra lidar com outras pessoas, pra lidar com o nosso ambiente de trabalho.
 	- A pessoa que você acredita ser não necessariamente é a pessoa que, por exemplo, seus pais acreditam que você é, percebem que você é, não necessariamente é a pessoa que seu amigo percebe que você é. Então há diferentes egos, há diferentes máscaras e identidades ilusórias que nós podemos ser, há diferentes versões de nós mesmos.
 	- Há uma versão que acreditamos que somos, há uma versão que o outro acredita que somos, há uma versão que nós acreditamos que o outro acredita que nós somos e assim por diante. E qual é o verdadeiro? Todos são verdadeiros [[todas as percepções carregam em si alguma verdade]]. Porque cada um tá tendo a experiência real daquela crença, daquela ideia do outro ou ideia de mim mesmo ser real.
+	- A pessoa que você acredita ser, a versão de ser que você acredita ser é uma máscara. No entanto, o ego não é seu inimigo, o ego é só uma máscara para você lidar neste mundo, para você viver neste mundo, para você se expressar neste mundo
 
 - **Autoconhecimento verdadeiro:** O autoconhecimento verdadeiro é perceber que você é a essência ou a consciência ou o observador da máscara do ego, dessa pessoa que você acredita ser. Você existe, ponto. Você é, ponto.
+	- Essa essência continua a mesma. A sua personalidade pode ser diferente, mas a sua vibração é única. [[Lei da Vibração]]
 
 **COMO:**
 
