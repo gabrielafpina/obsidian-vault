@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5956cf24b3c44c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ho oponop",
+                "query": "metapro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
               }
             }
           },
@@ -198,12 +211,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "402b3423181cbf0b",
+  "active": "5956cf24b3c44c18",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "7. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
     "2. Literature Notes/Topics/Você não é os seus pensamentos.md",
     "2. Literature Notes/Topics/Consciência.md",
