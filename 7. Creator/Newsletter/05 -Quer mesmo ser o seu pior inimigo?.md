@@ -36,8 +36,21 @@ Isso é autossabotagem. Você não ter compreensão dos seus pensamentos, do que
 
 Nesse vídeo eu te explico mais sobre pensamentos, crenças e autossabotagem: [link do vídeo]
 
+Mas mais do que isso, nesse Correio da Consciência eu quero te fazer um convite. Para que você, como eu, possa quebrar o hábito da autossabotagem na sua vida e passar a viver de acordo com as suas próprias regras e investindo no seu sonho, não no sonho do outro.
+
+Para que você passe a ter mais resultados na sua jornada e compreenda que você está longe de ser o seu inimigo. Na verdade, você é o seu maior mestre.
+
+Após ter direcionado centenas de pessoas em suas jornadas de transformação, chegou a hora de você ser direcionado por mim.
+
+O que você acha de darmos um salto em direção aos seus sonhos e objetivos? Eu sei que você tem capacidade de alcançar o que você quer, porque eu estou alcançando tudo o que eu quero. 
+
+Se uma pessoa consegue, você também consegue.
+
+
+
 **LINKS IMPORTANTES:**
 - [[Você não é os seus pensamentos]]
 - [[Consciência]]
 - [[Você é o observador]]
 - [[Tudo é uma escolha]]
+- [[s]]
