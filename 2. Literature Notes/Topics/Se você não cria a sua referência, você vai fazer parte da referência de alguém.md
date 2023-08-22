@@ -32,7 +32,7 @@ Você escolhe o que você coloca para dentro. Quanto mais você cria as suas ref
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Eu-Paralelo-Preferido]]
+- [[Eu-Paralelo-Preferido (EPP)]]
 - [[Quais são as áreas que mais existem crenças?]]
 - [[O que for a profundeza do meu ser, assim será o meu destino. Se eu sou uma pessoa rasa, o meu destino é raso.]]
 - [[Qualquer coisa que você experimenta internamente é a sua energia, de mais ninguém]]

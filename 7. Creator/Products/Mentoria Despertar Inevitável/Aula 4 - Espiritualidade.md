@@ -40,7 +40,7 @@
 		- [[O tempo de acordo com Einstein]]
 		- [[Escolha estar presente nesse evento, que é o aqui e o agora]]
 	- [[Lei da Vibração]] [[A gente atrai o que a gente vibra]] [[Você não vibra impunemente]]
-	- Exercício do [[Eu-Paralelo-Preferido]]
+	- Exercício do [[Eu-Paralelo-Preferido (EPP)]]
 	- Explicar como conectar-se com a própria essência.
 	- CCM: [[Meu Destino Preferido]]
 

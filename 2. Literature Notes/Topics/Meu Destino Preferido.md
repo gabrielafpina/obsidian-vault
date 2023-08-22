@@ -28,7 +28,7 @@ Escreva em uma folha de papel, em termos presentes tudo aquilo que você vai alc
 - [[Só eu sou eu]]
 - [[Só de ter nascido eu já sou capaz]]
 - [[Tudo é energia]]
-- [[Eu-Paralelo-Preferido]]
+- [[Eu-Paralelo-Preferido (EPP)]]
 - [[Fórmula do Entusiasmo]]
 
 **Sul: para onde vai**

@@ -23,7 +23,7 @@ Praticar a Lei da doação é muito simples. Se você quer alegria, dê alegria 
 
 Quanto mais dá, mais cresce a sua confiança nos efeitos milagrosos dessa lei. Quanto mais você recebe, mais cresce a capacidade de dar. A nossa verdadeira natureza é da riqueza e abundância. Nós somos naturalmente ricos porque a natureza supre todas as nossas necessidades e sustenta todos os nossos desejos. Nada nos falta porque nossa natureza essencial é da potencialidade pura e das possibilidades infinitas. [[Não me falta nada]]. 
 
-Portanto, você precisa saber que já é inerentemente rico. Pouco importa quanto dinheiro tenha, porque a fonte da riqueza é o campo da potencialidade pura. [[Eu-Paralelo-Preferido]].
+Portanto, você precisa saber que já é inerentemente rico. Pouco importa quanto dinheiro tenha, porque a fonte da riqueza é o campo da potencialidade pura. [[Eu-Paralelo-Preferido (EPP)]].
 
 **COMO:**
 Você pode colocar a lei da doação em movimento assumindo o compromisso de dar os seguintes passos:
