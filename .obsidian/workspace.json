@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "5acb91862e20363d",
+            "id": "c17d177fef8b2378",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,115 +32,31 @@
             }
           },
           {
-            "id": "f48fb3038bd799f7",
+            "id": "9207a4207bec9ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
+                "file": "Quais são todos os seus desejos?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c83fc757f0ae2ec",
+            "id": "6af979396bf93ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b204d388629d2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cdcbc6e3ae5c095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52eab444c2c6a561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O tempo de acordo com Einstein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bff0b96d54e8793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17ea1eb8b4318ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Somos todos seres espirituais vivendo uma vida material.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0406c6784b06c38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como é o Deus de Spinoza?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "708896e319432f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
+                "file": "existem dois tipos de autoconhecimento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
+                "file": "existem dois tipos de autoconhecimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
+                "file": "existem dois tipos de autoconhecimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md"
+                "file": "existem dois tipos de autoconhecimento.md"
               }
             }
           },
@@ -319,10 +235,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f48fb3038bd799f7",
+  "active": "6af979396bf93ced",
   "lastOpenFiles": [
+    "Quais são todos os seus desejos?.md",
+    "existem dois tipos de autoconhecimento.md",
     "O que é o método LCA?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
+    "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
@@ -333,7 +253,6 @@
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
-    "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/todos somos um.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
@@ -344,9 +263,6 @@
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Mapa do Eu Autêntico.md",
     "7. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-    "5. Templates/Newsletter.md",
-    "7. Creator/Newsletter/02 - A grande decisão.md",
-    "7. Creator/Newsletter/01 - Seja bem-vindo.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",

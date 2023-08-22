@@ -11,7 +11,7 @@ O método te ajuda a ter uma maior clareza sobre o que você verdadeiramente que
 3. O “A” é a Ação Alinhada, onde você age no presente como esse Eu-Paralelo agiria.
 
 **COMO:**
-1. Escrever todos os seus desejos
+1. [[Quais são todos os seus desejos?]]
 2. Filtrar os desejos genuínos dos desejos egoístas
 	1. 3 porquês
 	2. [[5 Perguntas Fundamentais de Permissão]]
