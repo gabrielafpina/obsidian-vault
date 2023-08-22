@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -235,8 +234,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31246f5384c399c2",
+  "active": "402b3423181cbf0b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
@@ -264,7 +264,6 @@
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "2. Literature Notes/Topics/Nunca diga não.md",
-    "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
