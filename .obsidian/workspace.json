@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/todos somos um.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/todos somos um.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/todos somos um.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -224,8 +223,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "663b56d1aeed5e9e",
+  "active": "402b3423181cbf0b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/todos somos um.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
@@ -253,7 +253,6 @@
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/Você é o observador.md",
     "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
-    "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
