@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ff79f50db97e0099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8df18ada720909f4",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilização da ferramenta dos 3 porquês.md"
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md"
               }
             }
           },
@@ -271,11 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f12665e379c1683f",
+  "active": "ff79f50db97e0099",
   "lastOpenFiles": [
+    "O que é o método LCA?.md",
     "Os seus desejos são reais ou ilusórios?.md",
     "Utilização da ferramenta dos 3 porquês.md",
-    "O que é o método LCA?.md",
     "Quais são todos os seus desejos?.md",
     "Você é o observador.md",
     "existem 2 tipos de autoconhecimento.md",

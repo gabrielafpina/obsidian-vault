@@ -16,7 +16,9 @@ Ex: 'Eu quero ser uma escritora best-seller'
 Objetivo e desejo verdadeiro: Transformar a vida de várias pessoas.
 Você pode continuar a fazer as perguntas dos porquês, caso sinta a necessidade. No entanto, 3 porquês é um bom número também.
 4. Você vai se questionar: a minha conclusão, que foi, ______, essa resposta é baseada em termos positivos? Isso te traz alegria no coração?
-	1. Se sim: você encontrou um desejo genuíno [[desejos]]
+	1. Se sim: você encontrou um desejo genuíno, real [[Os seus desejos são reais ou ilusórios?]]
+	2. Se não: deixe de lado, porque é um desejo do [[Ego]].
+		1. Ex de resposta baseada em termos negativos: eu quero isso porque eu quero evitar ser pobre, eu quero isso porque eu quero evitar tal coisa. É quando a resposta é baseado em termos negativos, é fuga da dor. Quando você foca no negativo, naquilo que você deseja evitar, é aquilo que você dá força, é aquilo que você realmente cria, então por isso que é muito importante, perceber e entender as motivações por trás dos seus desejos.
 
 **PENSADORES:**
 

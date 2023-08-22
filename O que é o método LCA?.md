@@ -13,7 +13,7 @@ O método te ajuda a ter uma maior clareza sobre o que você verdadeiramente que
 **COMO:**
 1. [[Quais são todos os seus desejos?]]
 2. [[Os seus desejos são reais ou ilusórios?]]
-	1. 3 porquês
+	1. [[Utilização da ferramenta dos 3 porquês]]
 	2. [[5 Perguntas Fundamentais de Permissão]]
 3. Escolha do 'Desejo Mestre' e visualização do [[Eu-Paralelo-Preferido]] que o conquistou
 4. Compreensão de que seu “eu atual” é o passado desse Eu Preferido.
