@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -212,8 +211,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5956cf24b3c44c18",
+  "active": "402b3423181cbf0b",
   "lastOpenFiles": [
+    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
@@ -224,7 +224,6 @@
     "2. Literature Notes/Topics/Consciência.md",
     "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/crenças.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
