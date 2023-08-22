@@ -26,7 +26,15 @@ Nesse sentido, podemos compreender que temos a capacidade de escolher quais são
 
 Eu mesma sou um exemplo perfeito disso! Por muito tempo eu realmente acreditei que era a minha pior inimiga. Ouvia as vozes da minha cabeça falando todo o tipo de absurdos possíveis e imagináveis.
 
-Cheguei, inclusive, ao ponto de me autossabotar da forma mais curiosa possível.
+Cheguei, inclusive, ao ponto de me ***autossabotar*** da forma mais curiosa possível.
+
+Um dos pensamentos que eu ouvia na minha cabeça antigamente, era que eu era incapaz de tocar uma empresa sozinha. Nessa época, eu tinha 21 anos e tinha um negócio que faturava em torno de 10 a 15 mil reais por mês. Minha sócia resolveu sair do negócio para focar na carreira dela dentro da indústria farmacêutica e quando ela me trouxe isso, eu falei: 'Então eu vou fechar a empresa'.
+
+Eu era apaixonada por aquele negócio. De verdade, foi uma das coisas mais lindas que eu já criei. Só que eu fechei ele e foquei todas as minhas energias na outra empresa que eu também era sócia, mas que não me trazia nem metade da felicidade que eu tinha com e empresa que resolvi fechar.
+
+Isso é autossabotagem. Você não ter compreensão dos seus pensamentos, do que eles querem te dizer e viver a sua vida, não de acordo com o que você quer construir, com os seus sonhos. Mas é viver a sua vida de acordo com o que as pessoas querem para você. E esse lugar é muito perigoso, porque você desiste dos seus sonhos por medo e começa a investir no sonho de outras pessoas, que podem não ter nada a ver com o que você quer para a sua vida.
+
+Nesse vídeo eu te explico mais sobre pensamentos, crenças e autossabotagem: [link do vídeo]
 
 **LINKS IMPORTANTES:**
 - [[Você não é os seus pensamentos]]
