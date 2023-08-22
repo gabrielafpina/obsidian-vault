@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7c83fc757f0ae2ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b204d388629d2db",
             "type": "leaf",
             "state": {
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md"
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md"
               }
             }
           },
@@ -283,19 +295,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b204d388629d2db",
+  "active": "7c83fc757f0ae2ec",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-    "Como é o Deus de Spinoza?.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "Como é o Deus de Spinoza?.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
     "O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/Data calls data.md",
     "2. Literature Notes/Topics/todos somos um.md",
