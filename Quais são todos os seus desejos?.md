@@ -10,6 +10,9 @@
 Então a ideia aqui é ter uma maior clareza do que você verdadeiramente deseja e começar a peneirar, a filtrar os seus desejos genuínos e seus desejos do [[Ego]]. Pra mim, [[existem 2 tipos de autoconhecimento]].
 
 **COMO:**
+1. Escreva todos os seus desejos, em todas as áreas da sua vida ( crie um círculo com 4 quadrantes, que são corpo, casa, trabalho, relacionamento). Não se limite. Não se apegue a se algo é possível, não é possível, se está longe, se está perto, etc.
+2. Descreva exatamente o que você quer em cada uma dessas 4 áreas da vida, com o maior detalhamento possível.
+3. [[Os seus desejos são reais ou ilusórios?]]
 
 **PENSADORES:**
 

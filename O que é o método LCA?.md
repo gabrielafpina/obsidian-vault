@@ -12,7 +12,7 @@ O método te ajuda a ter uma maior clareza sobre o que você verdadeiramente que
 
 **COMO:**
 1. [[Quais são todos os seus desejos?]]
-2. Filtrar os desejos genuínos dos desejos egoístas
+2. [[Os seus desejos são reais ou ilusórios?]]
 	1. 3 porquês
 	2. [[5 Perguntas Fundamentais de Permissão]]
 3. Escolha do 'Desejo Mestre' e visualização do [[Eu-Paralelo-Preferido]] que o conquistou
