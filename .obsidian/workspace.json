@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0533c88b242c09a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você não é os seus pensamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cb00693ca01bb674",
@@ -71,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "não ",
+                "query": "pensamentos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,8 +246,10 @@
   },
   "active": "36e0882a4086c048",
   "lastOpenFiles": [
-    "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+    "2. Literature Notes/Topics/Você não é os seus pensamentos.md",
+    "2. Literature Notes/Topics/Consciência.md",
     "7. Creator/Newsletter/05 -.md",
+    "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
@@ -260,8 +274,6 @@
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-    "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
