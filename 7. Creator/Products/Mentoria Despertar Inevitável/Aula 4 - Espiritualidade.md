@@ -22,6 +22,8 @@
 	- Ayahuasca
 	- Compreensão de [[Ego]]
 	- Prática de orações matinais
+		- [[O Ho'oponopono é uma conversa com o divino]]
+		- CCM: ouvir áudio de oração do Ho'oponopono todos os dias de manhã durante 21 dias
 	- Prática de gratidão diária
 		- Agradecer por tudo o que acontece comigo, seja 'bom' ou 'ruim'
 		- Exercício de Gratidão (CCM)
