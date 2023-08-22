@@ -22,7 +22,7 @@ Caso você se depare com um 'não', existe um trabalho de [[crenças]] que preci
 		- 'Eu não acredito que sou digno porque se não a minha família poderia se sentir inferior a mim.' 
 			- 'Será que é justo, comigo mesmo, com as pessoas ao meu redor, até mesmo com a minha família, eu continuar me sentindo indigno, de ter esse resultado, de ter essa realização? Será que é justo?'
 			- 'Será que eu não contribuiria muito com a minha família, ajudando eles a se elevarem, sendo exemplo, do potencial que eles podem alcançar, do potencial que os filhos, meus netos, etc., podem alcançar? Sim, realmente, não faz nenhum sentido eu continuar com essa, essa ideia, de que eu não sou digno.'
-			- [[Você é o universo]]
+			- [[Você é o universo]] [[Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno]]
 
 **PENSADORES:**
 
