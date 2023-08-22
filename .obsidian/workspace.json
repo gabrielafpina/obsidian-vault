@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7bff0b96d54e8793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "17ea1eb8b4318ab7",
             "type": "leaf",
             "state": {
@@ -128,50 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "bcbf19da1554e22d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93646321bdea4403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O tempo de acordo com Einstein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "148643fbc34a2d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65c8d0d9341ee1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Somos todos seres espirituais vivendo uma vida material.md",
+                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Somos todos seres espirituais vivendo uma vida material.md",
+                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Somos todos seres espirituais vivendo uma vida material.md"
+                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md"
               }
             }
           },
@@ -350,11 +319,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17ea1eb8b4318ab7",
+  "active": "78f8562de1f1821a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei do Mentalismo.md",
-    "Somos todos seres espirituais vivendo uma vida material.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "Somos todos seres espirituais vivendo uma vida material.md",
+    "2. Literature Notes/Topics/Lei do Mentalismo.md",
     "Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido.md",
@@ -378,7 +348,6 @@
     "7. Creator/Newsletter",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram.md",
-    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
