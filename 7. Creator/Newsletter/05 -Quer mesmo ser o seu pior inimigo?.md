@@ -15,6 +15,8 @@ O grande ponto é que eu não tinha noção desse conhecimento muito profundo qu
 
 *Você não é os seus pensamentos.* 
 
+[GIF cabeça explodindo]
+
 'Ih, essa mulher está louca. Quer dizer, então, que eu não sou esses pensamentos que eu ouço na minha própria cabeça e com a minha própria voz?'
 
 É isso aí. E eu sei que pode parecer meio esquisito. Talvez você já tenha me ouvido falar sobre isso em outros canais, como talvez esse seja o seu primeiro contato com essa informação.
@@ -46,11 +48,15 @@ O que você acha de darmos um salto em direção aos seus sonhos e objetivos? Eu
 
 Se uma pessoa consegue, você também consegue.
 
+[Botão: Quero ter mais resultados]
 
+Você sabe que eu te amo!
+Beijos,
+GABRIELA PINA
 
 **LINKS IMPORTANTES:**
 - [[Você não é os seus pensamentos]]
 - [[Consciência]]
 - [[Você é o observador]]
 - [[Tudo é uma escolha]]
-- [[s]]
+- [[Se alguns podem, todos podem]]
