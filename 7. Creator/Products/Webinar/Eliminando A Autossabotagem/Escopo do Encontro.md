@@ -6,7 +6,7 @@
 	1. [[Metáfora do cinema]]
 	2. Meditação - 1° passo oficial para o despertar
 4. Pitch de Vendas MPA
-	1. Valor: R $297,00
+	1. Valor: R $253,00
 	2. Pausa para beber água
 6. Observação interna
 7. Parts Work
