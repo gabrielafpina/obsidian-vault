@@ -43,3 +43,14 @@
 	- Exercício do [[Eu-Paralelo-Preferido]]
 	- Explicar como conectar-se com a própria essência.
 	- CCM: [[Meu Destino Preferido]]
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+- [[O que é o método LCA?]]
+
+**Sul: para onde vai**
