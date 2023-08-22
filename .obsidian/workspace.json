@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "7e542949c4a8fb8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d01f661eccf878b1",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -275,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md"
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md"
               }
             }
           },
@@ -355,8 +368,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8509261710dd0909",
+  "active": "7e542949c4a8fb8d",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+    "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
+    "7. Creator/Products/Webinar",
     "O que é o método LCA?.md",
     "Utilização da ferramenta dos 3 porquês.md",
     "Os seus desejos são reais ou ilusórios?.md",
@@ -369,11 +387,9 @@
     "Quais são todos os seus desejos?.md",
     "Você é o observador.md",
     "existem 2 tipos de autoconhecimento.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "Como é o Deus de Spinoza?.md",
@@ -382,7 +398,6 @@
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Lei do Mentalismo.md",
-    "2. Literature Notes/Topics/Data calls data.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
@@ -401,8 +416,6 @@
     "6. Shots, Images & PDFs/MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
-    "6. Shots, Images & PDFs/como-voce-funciona.pdf",
-    "2. Literature Notes/Topics/Untitled",
     "Untitled.canvas"
   ]
 }
