@@ -16,7 +16,13 @@ Nossas crenças moldam a nossa realidade. Tudo que está dentro, está fora ([[O
 	5. Isso é realmente algo que me entusiasma?
 OBS: quando não é um sim óbvio, é um não óbvio.
 
-Caso você 
+Caso você se depare com um 'não', existe um trabalho de [[crenças]] que precisa ser realizado. Assim, você vai se questionar:
+- O que provavelmente eu estou acreditando, para acreditar que X,  para pensar que X, para sentir que X.
+	- Ex: O que eu provavelmente estou acreditando para acreditar, ou pensar, ou sentir que eu não sou digno, que eu não sou merecedor, eu não tenho poder para Y?
+		- 'Eu não acredito que sou digno porque se não a minha família poderia se sentir inferior a mim.' 
+			- 'Será que é justo, comigo mesmo, com as pessoas ao meu redor, até mesmo com a minha família, eu continuar me sentindo indigno, de ter esse resultado, de ter essa realização? Será que é justo?'
+			- 'Será que eu não contribuiria muito com a minha família, ajudando eles a se elevarem, sendo exemplo, do potencial que eles podem alcançar, do potencial que os filhos, meus netos, etc., podem alcançar? Sim, realmente, não faz nenhum sentido eu continuar com essa, essa ideia, de que eu não sou digno.'
+			- [[Você é o universo]]
 
 **PENSADORES:**
 
