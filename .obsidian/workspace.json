@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "663b56d1aeed5e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/todos somos um.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5956cf24b3c44c18",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/todos somos um.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/todos somos um.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
+                "file": "2. Literature Notes/Topics/todos somos um.md"
               }
             }
           },
@@ -211,11 +224,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "402b3423181cbf0b",
+  "active": "663b56d1aeed5e9e",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
