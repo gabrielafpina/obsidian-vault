@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "01f07db0b2c7fc8e",
+        "type": "tabs",
+        "dimension": 32.4582338902148,
+        "children": [
+          {
+            "id": "432a2a5ac061a2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "cb00693ca01bb674",
         "type": "tabs",
+        "dimension": 67.5417661097852,
         "children": [
           {
             "id": "09974f1349323221",
@@ -20,175 +40,19 @@
             }
           },
           {
-            "id": "c17d177fef8b2378",
+            "id": "36e0882a4086c048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é o método LCA?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8509261710dd0909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e542949c4a8fb8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d01f661eccf878b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os seus desejos são reais ou ilusórios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b7ce004b01df9b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilização da ferramenta dos 3 porquês.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff79f50db97e0099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "919a16b5f75db58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fe4137aee5aa953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deus só entende 'sim'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21bb8d4d34b69168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é o universo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df18ada720909f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os seus desejos são reais ou ilusórios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12665e379c1683f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilização da ferramenta dos 3 porquês.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "551dcf911e2c409f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é o observador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9207a4207bec9ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são todos os seus desejos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6af979396bf93ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "existem 2 tipos de autoconhecimento.md",
+                "file": "7. Creator/Newsletter/05 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "file": "7. Creator/Newsletter/05 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "file": "7. Creator/Newsletter/05 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md"
+                "file": "7. Creator/Newsletter/05 -.md"
               }
             }
           },
@@ -368,36 +232,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e542949c4a8fb8d",
+  "active": "36e0882a4086c048",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/crenças.md",
-    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
+    "7. Creator/Newsletter/05 -.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+    "2. Literature Notes/Topics/crenças.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
-    "O que é o método LCA?.md",
-    "Utilização da ferramenta dos 3 porquês.md",
-    "Os seus desejos são reais ou ilusórios?.md",
+    "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
-    "Deus só entende 'sim'.md",
+    "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "2. Literature Notes/Topics/Nunca diga não.md",
-    "Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "Você é o universo.md",
-    "Quais são todos os seus desejos?.md",
-    "Você é o observador.md",
-    "existem 2 tipos de autoconhecimento.md",
+    "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
+    "2. Literature Notes/Topics/Você é o universo.md",
+    "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+    "2. Literature Notes/Topics/Você é o observador.md",
+    "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
     "2. Literature Notes/Topics/Para quê o universo trouxe isso para mim?.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-    "Como é o Deus de Spinoza?.md",
+    "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
-    "O tempo de acordo com Einstein.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
