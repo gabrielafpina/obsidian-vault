@@ -17,7 +17,7 @@ Se você diz que não é merecedor, você é merecedor de acreditar que não é 
 
 Só que esse pensamento de que 'eu não sou digna' é muito egocêntrico e mesquinho. Oque te faz tão especial, de não ser digno, de algo, quando uma pessoa, entre 8 bilhões de pessoas aqui, já conseguiu essa coisa que você quer, já realizou esse desejo? [[Se alguns podem, todos podem]].
 
-O que te faz menos digno, que outras pessoas? Que [[Ego]] é esse que você tem? Você acha que você é tão especial assim? Você acha que a criação vai realmente falar, 'esse é mais digno, do que esse. Esse pode, esse não pode'? Não. Tudo é questão de vibração. Tudo é questão deexpandir sua vibração
+O que te faz menos digno, que outras pessoas? Que [[Ego]] é esse que você tem? Você acha que você é tão especial assim? Você acha que a criação vai realmente falar, 'esse é mais digno, do que esse. Esse pode, esse não pode'? Não. Tudo é questão de vibração. Tudo é questão de expandir sua vibração. [[A gente atrai o que a gente vibra]].
 
 **COMO:**
 
