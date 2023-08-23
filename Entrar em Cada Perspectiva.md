@@ -16,7 +16,8 @@ Esse é um passo do [[Parts Work]] um passo que envolve uma imersão profunda e 
     
 4. **Exploração Profunda**: Dentro dessa perspectiva, você explora profundamente a parte, fazendo perguntas e observando como ela vê o mundo. Você pode perguntar por que ela existe, o que ela quer, como ela se sente em relação a outras partes, etc.
 	1. **Perguntas fundamentais:**
-		1. Como essa parte 
+		1. Como essa parte se sente sobre a personalidade central (sobre você)?
+		2. Como essa parte se sente com relação às partes do lado oposto, ou outro lado dela?
     
 5. **Conexão com Experiências Passadas**: Muitas vezes, essa imersão pode revelar conexões com experiências passadas, traumas ou memórias que deram origem à parte. Isso pode incluir detalhes muito específicos e pessoais.
     
