@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teal",
+                "query": "culpa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,7 +207,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "768542c3e48782b8",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
