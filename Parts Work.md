@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 O "parts work" (trabalho com partes) é um processo terapêutico que envolve a identificação e integração de diferentes partes ou aspectos do eu. Essa é uma forma de Shadow Work. 
 
+Você tem a opção de fazer isso em um formato escrito. Você também tem a opção de gravar a si mesmo e fazer isso em formato falado. O que você está assistindo não será diferente do escrito. Apenas vai estar escrito. A sugestão de Teal é que, se você escolher fazer escrito, você trabalha primeiro, se tiver dificuldade, com a mão que não é a dominante. Porque sua mão não dominante está mais intimamente ligado à sua mente subconsciente.
+
 1. **Identificar as Partes**: Reconhecer as diferentes partes ou aspectos do eu que podem estar em conflito ou desalinhados.
 	1. Pegar duas cadeiras e colocá-las uma ao lado da outra, para que você inicie o processo.
     
