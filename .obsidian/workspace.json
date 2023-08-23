@@ -32,210 +32,6 @@
             }
           },
           {
-            "id": "6e2192532420381f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c1974cbf42aa23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0986fae0bfacd32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6ae3f01e9f3da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21a1b1a2d4a3aad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69f45f5fc1dd910e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3813983939d8b871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e91706f6fe2ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e7acb1dcbb6a203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c87ef6318d058d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é o universo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d4a92b6de8fb8d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23edc410ccee956b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "886b9577d296fb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60258dcaa05bf3ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d927f40cde8bc1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37af92f6b0c31165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30dbe2a3dbf80c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f12ce45b193ff9d8",
             "type": "leaf",
             "state": {
@@ -308,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -407,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
+                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
+                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -447,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o método LCA?.md"
+                "file": "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md"
               }
             }
           },
@@ -487,17 +283,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c1974cbf42aa23f",
+  "active": "31246f5384c399c2",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Você não vibra impunemente.md",
-    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
