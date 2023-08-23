@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=EeUlPO2iXb4&t=784s
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Trauma, por definição, é uma experiência que provoca angústia que não pode ser resolvido. Agora, trauma vai muito além do que normalmente consideramos trauma.
+Trauma, por definição, é uma experiência que provoca angústia que não pode ser resolvido. Agora, trauma vai muito além do que normalmente consideramos trauma. O trauma é a principal experiência na vida humana e isso causa fragmentação da psique.
 
 Coisas como guerras e abuso sexual. Trauma inclui coisas que consideraríamos mundanos. É um trauma nascer na maioria das instituições médicas de hoje. Desmamar é um trauma. É um trauma sentir extrema inveja sem maneira de resolver a situação quando você tem seis ou sete anos. Q
 
@@ -36,3 +36,5 @@ No momento do trauma, há uma divisão entre o eu vulnerável e o eu que lidou c
 
 **Sul: para onde vai**
 - [[O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos]]
+- [[Parts Work]]
+- [[Qual é a definição para paz interna?]]
