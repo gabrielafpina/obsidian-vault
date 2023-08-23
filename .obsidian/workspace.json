@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8b5414ed025124fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c1974cbf42aa23f",
             "type": "leaf",
             "state": {
@@ -236,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -335,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +387,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md"
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
               }
             }
           },
@@ -415,17 +427,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e7acb1dcbb6a203",
+  "active": "8b5414ed025124fd",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "2. Literature Notes/Topics/Você é o universo.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
@@ -442,7 +455,6 @@
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
-    "2. Literature Notes/Topics/Ho'oponopono.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
