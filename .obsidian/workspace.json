@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d8d3ea7b4444facc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como fazer uma posse consciente?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ab28d32320e4025",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como lidar com os meus fragmentos?.md",
+                "file": "Como fazer uma posse consciente?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como lidar com os meus fragmentos?.md",
+                "file": "Como fazer uma posse consciente?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como lidar com os meus fragmentos?.md"
+                "file": "Como fazer uma posse consciente?.md"
               }
             }
           },
@@ -344,11 +356,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1d0ba4349adc144",
+  "active": "d8d3ea7b4444facc",
   "lastOpenFiles": [
+    "Como lidar com os meus fragmentos?.md",
+    "Como fazer uma posse consciente?.md",
     "Tudo tem e é feito de consciência.md",
     "Parts Work.md",
-    "Como lidar com os meus fragmentos?.md",
     "É isso que significa ser sequestrado por uma de suas personalidades.md",
     "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
     "Fragmentação é uma função da consciência.md",
@@ -371,7 +384,6 @@
     "2. Literature Notes/Topics/Você não vibra impunemente.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",

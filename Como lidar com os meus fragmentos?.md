@@ -28,3 +28,4 @@ Isso é na verdade a estratégia usada por métodos como trabalho com a [[Crian�
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como fazer uma posse consciente?]]
