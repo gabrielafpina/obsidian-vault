@@ -34,6 +34,7 @@ Em resumo, a fragmentação do [[Ego]] é como um espelho quebrado, com cada ped
 **Norte: ideia/pergunta**
 - [[todos somos um]]
 - [[Consciência]]
+- [[Fragmentação é uma função da consciência]]
 
 **Sul: para onde vai**
 - [[Você é um gêmeo siamês]]
