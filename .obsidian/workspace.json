@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "37af92f6b0c31165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30dbe2a3dbf80c66",
             "type": "leaf",
             "state": {
@@ -103,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
               }
             }
           },
@@ -283,9 +294,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30dbe2a3dbf80c66",
+  "active": "402b3423181cbf0b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
     "2. Literature Notes/Topics/Tudo é energia.md",
@@ -311,8 +324,6 @@
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
-    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
-    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
