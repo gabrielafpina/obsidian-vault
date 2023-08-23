@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "005184419cdb38d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e2192532420381f",
             "type": "leaf",
             "state": {
@@ -347,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo de acordo com Einstein.md"
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md"
               }
             }
           },
@@ -427,9 +439,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e2192532420381f",
+  "active": "005184419cdb38d0",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Você não vibra impunemente.md",
+    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
@@ -453,8 +467,6 @@
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
-    "2. Literature Notes/Topics/todos somos um.md",
-    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
