@@ -33,3 +33,4 @@ Nós sempre nos identificamos com o aspecto protetor da personalidade. Então, i
 - [[Lei da Causa e Efeito]]
 
 **Sul: para onde vai**
+- [[É isso que significa ser sequestrado por uma de suas personalidades]]
