@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d0986fae0bfacd32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3b6ae3f01e9f3da6",
             "type": "leaf",
             "state": {
@@ -296,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -395,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +424,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +447,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md"
+                "file": "2. Literature Notes/Topics/O que é o método LCA?.md"
               }
             }
           },
@@ -475,9 +487,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b6ae3f01e9f3da6",
+  "active": "1c1974cbf42aa23f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
@@ -490,7 +504,6 @@
     "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "2. Literature Notes/Topics/Você é o universo.md",
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
@@ -502,7 +515,6 @@
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "2. Literature Notes/Topics/A constelação olha a vida e a morte.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
