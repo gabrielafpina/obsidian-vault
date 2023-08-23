@@ -22,6 +22,7 @@ O exercício que Teal Swan descreve envolve uma forma de posse consciente e inte
 	2. "OK. Agora eu re-possuo minha personalidade como Teal Swan " "É 2017. Ou seja lá que ano for" "Estou neste lugar. Tenho tantos anos. Faço tal coisa da vida ". Recalibrando a sua personalidade.
     
 7. **Compaixão e Compreensão**: É importante abordar esse exercício com uma atitude de compreensão e compaixão, sem julgamento ou resistência às informações que surgem.
+	1. [[Nenhuma parte de você é ruim e tem que mudar]]
     
 
 Este exercício é uma forma poderosa de se conectar com partes ocultas de si mesmo e trazer à tona informações que podem estar escondidas em seu subconsciente. É uma técnica avançada e pode ser útil ter o apoio de um terapeuta ou profissional experiente ao explorá-la.
