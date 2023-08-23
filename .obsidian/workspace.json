@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "30dbe2a3dbf80c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f12ce45b193ff9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6273f970ab3e07a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
+                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md"
               }
             }
           },
@@ -259,11 +283,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f12ce45b193ff9d8",
+  "active": "30dbe2a3dbf80c66",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo é energia.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "2. Literature Notes/Topics/Tudo é energia.md",
     "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
@@ -288,7 +313,6 @@
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-    "2. Literature Notes/Topics/Só eu sou eu.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
