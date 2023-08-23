@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[As 7 Leis Espirituais do Sucesso]] [[Deepak Chopra]]
+**FONTE:** [[As 7 Leis Espirituais do Sucesso]] [[Deepak Chopra]] [[Merielly Lima]] [[João Yida]]
 
 **BIG IDEA:** 
 
@@ -25,7 +25,7 @@ Para eu viver essa energia, é importante ter consciência de 3 energias:
 	1. É muito inteligente dissipar a energia da culpa do seu coração, porque essa energia é como se fosse uma energia eterna. Não da para fazer nada com a culpa. Ela é uma energia catastrófica. Ai você entra em um looping de culpa, que te leva para o esgoto. [[Cadeia Emocional]].
 	2. Cancela a culpa dentro de você 3x em estado de presença e com o seu coração. [[Todo pensamento sabotador tá cancelado]].
 	3. Não se permita conectar com a frequência vibracional da culpa. Porque quando você se sente culpado por uma coisa, aquilo traz vários outros motivos para você se sentir culpado também. A culpa não te leva a nada, por isso, cancele-a.
-	4. Substitua a culpa por responsabilidade. [[Não existe culpa, existe responsabilidade]]
+	4. Substitua a culpa por responsabilidade. [[Não existe culpa, existe responsabilidade]].
 
 **COMO:**
 

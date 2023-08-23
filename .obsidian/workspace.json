@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei do Mínimo Esforço.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "culpa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei do Mínimo Esforço.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei do Mínimo Esforço.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei do Mínimo Esforço.md"
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
               }
             }
           },
@@ -207,9 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "768542c3e48782b8",
   "lastOpenFiles": [
-    "Lei do Mínimo Esforço.md",
+    "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
+    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
     "2. Literature Notes/Topics/Parts Work.md",
     "2. Literature Notes/Topics/Como fazer uma posse consciente?.md",
@@ -234,7 +236,6 @@
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-    "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
