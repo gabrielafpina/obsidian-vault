@@ -8,72 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "402b3423181cbf0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "005184419cdb38d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12ce45b193ff9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6273f970ab3e07a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e62e8791ea948cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31246f5384c399c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/O que é o trauma?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1d796cfdae3f253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a14f28c4d0841736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não há uma única pessoa na face deste planeta que não tem múltiplas personalidades.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,31 +68,19 @@
             }
           },
           {
-            "id": "663b56d1aeed5e9e",
+            "id": "6920b299de992732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/todos somos um.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5956cf24b3c44c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+                "file": "Você é um gêmeo siamês.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o trauma?.md",
+                "file": "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o trauma?.md",
+                "file": "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o trauma?.md"
+                "file": "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md"
               }
             }
           },
@@ -308,11 +260,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31246f5384c399c2",
+  "active": "a1d796cfdae3f253",
   "lastOpenFiles": [
-    "A consciência funciona como água.md",
-    "Como compreender a fragmentação do ego?.md",
     "2. Literature Notes/Topics/O que é o trauma?.md",
+    "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
+    "Você é um gêmeo siamês.md",
+    "Como compreender a fragmentação do ego?.md",
+    "Não há uma única pessoa na face deste planeta que não tem múltiplas personalidades.md",
+    "A consciência funciona como água.md",
     "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
@@ -333,9 +288,6 @@
     "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
-    "2. Literature Notes/Topics/Tudo é energia.md",
-    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",

@@ -18,6 +18,8 @@ O problema é que se não temos uma maneira de resolver e assim integrar um trau
 
 No momento do trauma, há uma divisão entre o eu vulnerável e o eu que lidou com essa vulnerabilidade para preservar-se. [[Como compreender a fragmentação do ego?]]
 
+[[Não há uma única pessoa na face deste planeta que não tem múltiplas personalidades]]
+
 **COMO:**
 
 **PENSADORES:**
@@ -33,3 +35,4 @@ No momento do trauma, há uma divisão entre o eu vulnerável e o eu que lidou c
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos]]

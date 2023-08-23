@@ -36,3 +36,4 @@ Em resumo, a fragmentação do [[Ego]] é como um espelho quebrado, com cada ped
 - [[Consciência]]
 
 **Sul: para onde vai**
+- [[Você é um gêmeo siamês]]
