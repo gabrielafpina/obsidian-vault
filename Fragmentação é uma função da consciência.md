@@ -16,7 +16,7 @@ Então a consciência de seus ovários é diferente da consciência de suas trom
 
 Então vamos imaginar que ela é infértil mas os médicos não conseguem achar uma razão física para isso. Se imaginarmos que os ovários dela são como mini-eus que falam poderiam dizer "Eu não quero um bebê. Tudo precioso pode ser tirado de mim ". Isso pode ser o bastante para o corpo não produzir ovos viáveis.
 
-[[Tudo tem consciência]]
+[[Tudo tem e é feito de consciência]]
 
 **PENSADORES:**
 

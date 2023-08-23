@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 Tudo tem [[Consciência]], então se pode conversar com tudo como se fosse um eu individual. Para entender, conhecer, sentir, e atender suas necessidades e fazer o possivel para que se torne parte do todo, de forma mais harmoniosa.
 
+Tudo neste Universo é feito de consciência e consciência não pode ser destruída.
+
 **COMO:**
 
 **PENSADORES:**

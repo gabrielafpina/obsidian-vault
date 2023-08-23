@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo tem consciência.md",
+                "file": "Tudo tem e é feito de consciência.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parts Work.md",
+                "file": "Como lidar com os meus fragmentos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parts Work.md",
+                "file": "Como lidar com os meus fragmentos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parts Work.md"
+                "file": "Como lidar com os meus fragmentos?.md"
               }
             }
           },
@@ -344,13 +344,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ab28d32320e4025",
+  "active": "c1d0ba4349adc144",
   "lastOpenFiles": [
-    "Como lidar com os meus fragmentos?.md",
+    "Tudo tem e é feito de consciência.md",
     "Parts Work.md",
+    "Como lidar com os meus fragmentos?.md",
     "É isso que significa ser sequestrado por uma de suas personalidades.md",
     "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
-    "Tudo tem consciência.md",
     "Fragmentação é uma função da consciência.md",
     "Como compreender a fragmentação do ego?.md",
     "A consciência funciona como água.md",
