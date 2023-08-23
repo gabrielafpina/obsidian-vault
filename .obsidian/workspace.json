@@ -20,6 +20,114 @@
             }
           },
           {
+            "id": "1c1974cbf42aa23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3813983939d8b871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e91706f6fe2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e7acb1dcbb6a203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c87ef6318d058d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é o universo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4a92b6de8fb8d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23edc410ccee956b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "886b9577d296fb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60258dcaa05bf3ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d927f40cde8bc1cb",
             "type": "leaf",
             "state": {
@@ -128,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md"
+                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md"
               }
             }
           },
@@ -307,9 +415,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d927f40cde8bc1cb",
+  "active": "8e7acb1dcbb6a203",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
+    "2. Literature Notes/Topics/Você é o universo.md",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+    "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
@@ -326,17 +443,8 @@
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
-    "7. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
-    "2. Literature Notes/Topics/Você não é os seus pensamentos.md",
-    "2. Literature Notes/Topics/Consciência.md",
-    "7. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/crenças.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
-    "2. Literature Notes/Topics/O que é o método LCA?.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
