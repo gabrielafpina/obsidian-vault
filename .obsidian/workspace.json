@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d927f40cde8bc1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "37af92f6b0c31165",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md"
+                "file": "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md"
               }
             }
           },
@@ -294,10 +307,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "402b3423181cbf0b",
+  "active": "d927f40cde8bc1cb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O meu nível de ser atrai a minha vida.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
