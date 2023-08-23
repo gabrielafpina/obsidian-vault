@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cb00693ca01bb674",
+        "id": "4f07f723c4c09821",
         "type": "tabs",
         "children": [
           {
-            "id": "8b2ff99648c9ad50",
+            "id": "58e5251d48de337b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é um gêmeo siamês.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "1caae2d0ba493865",
+            "id": "768542c3e48782b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o trauma?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be28248fca21a7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a definição para paz interna?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be94195c5a403388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parts Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8eec2c3eb00efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entrar em Cada Perspectiva.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entrar em Cada Perspectiva.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entrar em Cada Perspectiva.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entrar em Cada Perspectiva.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -247,25 +208,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb8eec2c3eb00efd",
+  "active": "768542c3e48782b8",
   "lastOpenFiles": [
-    "Parts Work.md",
-    "Entrar em Cada Perspectiva.md",
-    "Como fazer uma posse consciente?.md",
-    "Qual é a definição para paz interna?.md",
+    "Untitled.md",
+    "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+    "2. Literature Notes/Topics/Parts Work.md",
+    "2. Literature Notes/Topics/Como fazer uma posse consciente?.md",
+    "2. Literature Notes/Topics/Qual é a definição para paz interna?.md",
     "2. Literature Notes/Topics/O que é o trauma?.md",
-    "Você é um gêmeo siamês.md",
-    "Nenhuma parte de você é ruim e tem que mudar.md",
-    "Como lidar com os meus fragmentos?.md",
-    "Tudo tem e é feito de consciência.md",
-    "É isso que significa ser sequestrado por uma de suas personalidades.md",
-    "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
-    "Fragmentação é uma função da consciência.md",
-    "Como compreender a fragmentação do ego?.md",
-    "A consciência funciona como água.md",
-    "Qual é o problema de negar, rejeitar e desonrar as coisas?.md",
-    "A sua personalidade é completamente falsa.md",
-    "Não há uma única pessoa na face deste planeta que não tem múltiplas personalidades.md",
+    "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
+    "2. Literature Notes/Topics/Nenhuma parte de você é ruim e tem que mudar.md",
+    "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
+    "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
+    "2. Literature Notes/Topics/É isso que significa ser sequestrado por uma de suas personalidades.md",
+    "2. Literature Notes/Topics/O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
+    "2. Literature Notes/Topics/Fragmentação é uma função da consciência.md",
+    "2. Literature Notes/Topics/Como compreender a fragmentação do ego?.md",
+    "2. Literature Notes/Topics/A consciência funciona como água.md",
+    "2. Literature Notes/Topics/Qual é o problema de negar, rejeitar e desonrar as coisas?.md",
+    "2. Literature Notes/Topics/A sua personalidade é completamente falsa.md",
+    "2. Literature Notes/Topics/Não há uma única pessoa na face deste planeta que não tem múltiplas personalidades.md",
     "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
@@ -274,7 +236,6 @@
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
