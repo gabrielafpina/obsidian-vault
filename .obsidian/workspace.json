@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "c1d0ba4349adc144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como lidar com os meus fragmentos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ab28d32320e4025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parts Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8cb44b51a79a575e",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "É isso que significa ser sequestrado por uma de suas personalidades.md",
+                "file": "Parts Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "É isso que significa ser sequestrado por uma de suas personalidades.md",
+                "file": "Parts Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "É isso que significa ser sequestrado por uma de suas personalidades.md"
+                "file": "Parts Work.md"
               }
             }
           },
@@ -320,10 +344,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "893cbc6887952126",
+  "active": "1ab28d32320e4025",
   "lastOpenFiles": [
-    "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
+    "Como lidar com os meus fragmentos?.md",
+    "Parts Work.md",
     "É isso que significa ser sequestrado por uma de suas personalidades.md",
+    "O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
     "Tudo tem consciência.md",
     "Fragmentação é uma função da consciência.md",
     "Como compreender a fragmentação do ego?.md",
@@ -346,8 +372,6 @@
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
-    "2. Literature Notes/Topics/Deus só entende 'sim'.md",
-    "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
