@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3b6ae3f01e9f3da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "21a1b1a2d4a3aad5",
             "type": "leaf",
             "state": {
@@ -383,7 +395,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +412,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -423,7 +435,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md"
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md"
               }
             }
           },
@@ -463,9 +475,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21a1b1a2d4a3aad5",
+  "active": "3b6ae3f01e9f3da6",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
@@ -478,7 +491,6 @@
     "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "2. Literature Notes/Topics/Você é o universo.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro.md",
     "2. Literature Notes/Topics/Somos todos seres espirituais vivendo uma vida material.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
