@@ -11,7 +11,7 @@ Se você olha para um rio de cima pode ver que o rio maior muitas vezes se ramif
 
 No momento do trauma quando dissociamos, parte da nossa consciência ramifica para fora de nossa consciência principal como este rio. Nossa consciência se divide, assim como o rio faz. É um ato de autopreservação.
 
-É mais fácil compreender como esse processo de nossa consciência se dividindo nos afeta quando imaginamos em termos de como isso afeta nossa personalidade. Ao dividir fragmentamos nosso ego.
+É mais fácil compreender como esse processo de nossa consciência se dividindo nos afeta quando imaginamos em termos de como isso afeta nossa personalidade. Ao dividir a nossa consciência, fragmentamos nosso ego.
 
 **COMO:**
 
@@ -28,5 +28,6 @@ No momento do trauma quando dissociamos, parte da nossa consciência ramifica pa
 **Norte: ideia/pergunta**
 - [[Consciência]]
 - [[todos somos um]]
+- [[Como compreender a fragmentação do ego?]]
 
 **Sul: para onde vai**
