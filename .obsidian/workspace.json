@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f12ce45b193ff9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6624dc14696d6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo é energia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e62e8791ea948cb",
             "type": "leaf",
             "state": {
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+                "file": "2. Literature Notes/Topics/Tudo é energia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
+                "file": "2. Literature Notes/Topics/Tudo é energia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md"
+                "file": "2. Literature Notes/Topics/Tudo é energia.md"
               }
             }
           },
@@ -247,9 +271,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e62e8791ea948cb",
+  "active": "f6624dc14696d6d2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Vibração.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como é o Deus de Spinoza?.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
@@ -258,7 +284,6 @@
     "2. Literature Notes/Topics/todos somos um.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
-    "2. Literature Notes/Topics/O Ho'oponopono é uma conversa com o divino.md",
     "2. Literature Notes/Topics/Como usar o Ho'oponopono para a Cura de Traumas e Relacionamentos?.md",
     "2. Literature Notes/Topics/Ho'oponopono.md",
     "7. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
@@ -276,7 +301,6 @@
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Deus só entende 'sim'.md",
-    "2. Literature Notes/Topics/Nunca diga não.md",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
