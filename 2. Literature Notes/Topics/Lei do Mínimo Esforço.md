@@ -18,14 +18,15 @@ Onde está a minha fé quando eu tento controlar uma coisa? Não está em Deus. 
 Para que essa lei flua, a minha energia não pode ir para me preocupar com o que o outro está pensando de mim ou de uma situação. Eu não posso controlar isso. Quando faço isso, gasto energia e vou contra essa lei. Ou seja, as coisas não vão acontecer no mínimo esforço na minha vida.
 
 Para eu viver essa energia, é importante ter consciência de 3 energias: 
-1. aceitação: aceitar que tudo é o que é naquele momento;
+1. **Aceitação**: aceitar que tudo é o que é naquele momento;
 	1. Não significa conformidade, aceitar que tudo vai ser daquele jeito para sempre. É aceitar como aquilo se apresente e compreender qual é a minha  responsabilidade dentro daquilo, qual é o aprendizado daquela situação na minha vida.
 	2. O que é importante para que eu aprenda com isso?
-2. Responsabilidade: ter consciência de que não existem culpados. A culpa não existe.
+2. **Responsabilidade**: ter consciência de que não existem culpados. A culpa não existe.
 	1. É muito inteligente dissipar a energia da culpa do seu coração, porque essa energia é como se fosse uma energia eterna. Não da para fazer nada com a culpa. Ela é uma energia catastrófica. Ai você entra em um looping de culpa, que te leva para o esgoto. [[Cadeia Emocional]].
 	2. Cancela a culpa dentro de você 3x em estado de presença e com o seu coração. [[Todo pensamento sabotador tá cancelado]].
 	3. Não se permita conectar com a frequência vibracional da culpa. Porque quando você se sente culpado por uma coisa, aquilo traz vários outros motivos para você se sentir culpado também. A culpa não te leva a nada, por isso, cancele-a.
 	4. Substitua a culpa por responsabilidade. [[Não existe culpa, existe responsabilidade]].
+3. 
 
 **COMO:**
 
