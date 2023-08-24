@@ -20,7 +20,7 @@
 7. **Avaliação e Ajuste Contínuo:** Avaliar o progresso e fazer ajustes conforme necessário para continuar crescendo.
 
 **PARA QUEM É?**
-- Para qualquer pessoa que sinta que está se sabotando em qualquer área da vida.
+- Para toda pessoa que sinta que está se sabotando nas áreas da vida.
 - Para aqueles que desejam uma compreensão mais profunda de si mesmos e uma abordagem prática para a transformação pessoal.
 
 **FRASES:**
