@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tudo comunica.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tudo comunica.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tudo comunica.md"
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
               }
             }
           },
@@ -219,7 +219,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6386a3e1697ebb69",
+  "active": "768542c3e48782b8",
   "lastOpenFiles": [
     "Tudo comunica.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",

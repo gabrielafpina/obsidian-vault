@@ -37,6 +37,8 @@ Para eu viver essa energia, é importante ter consciência de 3 energias. Quando
 
 A inteligência da natureza opera pela lei do mínimo esforço. O peixe nada, o pássaro voa. A natureza não tem ansiedade, ela é harmoniosa, ela é abundante.
 
+Eu não vim para essa vida me esforçar, eu vim para me dedicar, que vem com a frequência do amor, da alegria, da maturidade, da consci~encia.
+
 **COMO:**
 
 **PENSADORES:**
