@@ -67,6 +67,12 @@
 - Eu não sou a minha personalidade
 - Eu não sou as vozes que escuto na minha cabeça
 - Eu não sou o que me falaram que sou, ou o que pensam sobre mim
+- Eu não sou o que eu sinto
+- Eu não sou o que eu faço
+
+**Slide 6: Quem eu sou, então?**
+- [[Você é o observador]]
+- [[Consciência]]
 
 **Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.
@@ -75,11 +81,6 @@
 **Slide 5: A Autossabotagem não existe**
 - Explicação de que as partes internas podem ter interesses conflitantes
 - Não existe um "sabotador interno"; todas as partes têm nossos melhores interesses em mente [[Como lidar com os meus fragmentos?]]
-
-**Slide 6: Compreensão de quem eu não sou**
-- [[existem 2 tipos de autoconhecimento]]
-	- Conhecimento do [[Ego]] (quem não sou)
-	- Conhecimento da [[Consciência]] (quem eu sou)
 
 **Slide 7: Imagine que você está em um cinema* [[Metáfora do cinema]]
 - Somos os diretores, atores e espectadores de nossa própria vida
