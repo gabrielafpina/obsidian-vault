@@ -63,8 +63,13 @@
 - É o primeiro passo para superá-la e alcançar o sucesso pessoal e profissional.
 - Entender esse conceito permite que você reconheça e enfrente seus comportamentos autodestrutivos, abrindo caminho para a mudança positiva.
 
+**Slide 5: Compreensão de quem eu não sou**
+- Eu não sou a minha personalidade
+- Eu não sou as vozes que escuto na minha cabeça
+- Eu
+
 **Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
-- Conceito de partes, selves internos e [[Ego]]
+- Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.
 - A ideia de que somos uma amalgamação de partes [[Você é um gêmeo siamês]]
 
 **Slide 5: A Autossabotagem não existe**
