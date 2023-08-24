@@ -122,15 +122,22 @@ Imagem de um rio com muitas ramificações
 
 [Pausa para beber água]
 
-**Slide 11: Vamos entender as suas partes?**
-- O que é [[Parts Work]]
+**Slide 15: [[Parts Work]]
+- O objetivo é promover a integração e a harmonia entre suas partes
+- É uma parte essencial do Método de Integração da Autossabotagem (MIA), ajudando a entender e resolver a autossabotagem
+- Exemplo: Algumas partes podem ser protetoras, outras críticas, algumas podem ser feridas e precisam de cuidado e compreensão.
 - Como o parts work sozinhas
 
-**Slide 12: Como compreender melhor os meus fragmentos?**
-- Exercício dos 3 eus
+**Slide 16: Como fazer o Parts Work sozinho?**
+- **Autoconsciência**: Começa com a consciência e o reconhecimento das diferentes partes dentro de você.
+- **Comunicação com as Partes**: Aprender a dialogar com essas partes, entendendo suas necessidades, medos e desejos.
+- **Visualização e Meditação**: Utilizar técnicas de visualização e meditação para se conectar com as partes internas.
+- **Empatia e Compaixão**: Abordar cada parte com empatia e compaixão, reconhecendo que cada uma tem uma função e está tentando ajudar de alguma forma.
+- **Integração**: Trabalhar para integrar as partes, encontrando soluções que atendam às necessidades de todas elas.
+- **Suporte Profissional**: Embora possa ser feito sozinho, o suporte de um profissional treinado pode ser útil, especialmente se houver partes particularmente desafiadoras ou traumáticas.
 
-**Slide 13: As suas crenças te seguram ou te elevam?**
-- O que são crenças limitantes
+**Slide 13: O que as suas crenças tem te falado?**
+- Crenças limitantes são convicções ou pensamentos arraigados que restringem nosso potencial e capacidade de alcançar objetivos.
 - De que forma as suas crenças podem te autossabotar
 
 **Slide 14: Criação de crençário**
