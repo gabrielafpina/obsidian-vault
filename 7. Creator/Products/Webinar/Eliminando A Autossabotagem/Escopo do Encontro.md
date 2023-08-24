@@ -126,7 +126,6 @@ Imagem de um rio com muitas ramificações
 - O objetivo é promover a integração e a harmonia entre suas partes
 - É uma parte essencial do Método de Integração da Autossabotagem (MIA), ajudando a entender e resolver a autossabotagem
 - Exemplo: Algumas partes podem ser protetoras, outras críticas, algumas podem ser feridas e precisam de cuidado e compreensão.
-- Como o parts work sozinhas
 
 **Slide 16: Como fazer o Parts Work sozinho?**
 - **Autoconsciência**: Começa com a consciência e o reconhecimento das diferentes partes dentro de você.
@@ -183,3 +182,12 @@ Imagem de um rio com muitas ramificações
 	- Encorajamento para tomar medidas concretas em direção aos objetivos, usando o conhecimento adquirido na aula.
 
 [Perguntas e respostas]
+
+
+**MATERIAIS:**
+- Aula gravada sobre Desejos genuínos x do Ego
+	- [[Eu-Paralelo-Preferido (EPP)]]
+	- [[Meu Destino Preferido]]
+- Workbook de criação de crençário
+- Meditação Guiada de Parts Work
+- Vídeo Parts Work Teal Swan
