@@ -11,6 +11,15 @@ Esse exercício nos ajuda a acumular energia para ter cada vez mais consciência
 
 Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciência mais facilmente.
 
+1. **Mentira**: 
+2. **Justificações**:
+3. **Fantasia**:
+4. **Charlatanismo**:
+5. **Identificação**:
+6. **Consideração interna**:
+7. **Emoções negativas**:
+8. **Movimento desnecessário**:
+
 **COMO:**
 
 **PENSADORES:**
