@@ -202,5 +202,5 @@ Imagem de um rio com muitas ramificações
 - Workbook de Compreensão de Crenças
 - Workbook de Afirmações
 - Meditação Guiada de Parts Work
-- 7 dias de suporte no grupo do WhatsApp comigo (só para essa turnma)
+- 7 dias de suporte no grupo do WhatsApp comigo (só para essa primeira turma)
 - Vídeo Parts Work Teal Swan
