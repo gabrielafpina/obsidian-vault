@@ -17,6 +17,8 @@ Pode ser compreendido pela necessidade de uma compensação. Ou seja, toda açã
 
 O ritmo acontece em todos os estados de manifestação, do físico, até o mental. 
 
+Faça o básico, aqui e agora. Tá querendo compensar a sua pressa 
+
 **COMO:**
 
 **PENSADORES:**
