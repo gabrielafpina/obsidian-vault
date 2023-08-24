@@ -13,9 +13,9 @@ O planeta gira em torno do sol durante 365 dias, ele gira em torno de si mesmo e
 
 E essa lei está muito ligada à [[Lei da Vibração]] e a [[Lei da Polaridade]].
 
-Pode ser compreendido pela necessidade de uma compensação. Ou seja, toda ação tem uma reação no mesmo ritmo, não necessariamente no mesmo lugar em que estava. [[Lei da Causa e Efeito]].
+Pode ser compreendido pela necessidade de uma compensação. Ou seja, toda ação tem uma reação no mesmo ritmo, não necessariamente no mesmo lugar em que estava. [[Lei da Causa e Efeito]]. Por isso, o ideal é o caminho do meio. [[O caminho do meio é o caminho do equilíbrio]].
 
-O ritmo acontece em todos os estados de manifestação, do físico, até o mental.
+O ritmo acontece em todos os estados de manifestação, do físico, até o mental. 
 
 **COMO:**
 
@@ -32,3 +32,4 @@ O ritmo acontece em todos os estados de manifestação, do físico, até o menta
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A pressa te leva para a morte]]
