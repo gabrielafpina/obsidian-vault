@@ -9,6 +9,8 @@ A pressa não te leva a lugar nenhum, porque se você está com pressa, não com
 
 Tudo que é inteligente você saber está dentro do seu coração aqui e agora.
 
+A pressa vem para compensar o que você não está fazendo e você é o único responsável por fazer.
+
 **COMO:**
 
 **PENSADORES:**
