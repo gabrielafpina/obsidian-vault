@@ -108,10 +108,17 @@ Imagem de um rio com muitas ramificações
 	- Incorporar a meditação na rotina diária pode levar a uma maior clareza mental e emocional.
 	- A meditação é um componente essencial do Método de Integração da Autossabotagem, ajudando a integrar e harmonizar as partes internas.
 
-**Slide 12: **
-- Como o MIA e o MPA se complementam
+**Slide 12: MIA e MPA**
+- MIA: Compreensão e integração das partes internas para reduzir a autossabotagem.
+- Meditação: Método que enfatiza a meditação como uma ferramenta prática para aplicar o autoconhecimento no dia a dia.
+- Utilizar ambos os métodos pode acelerar o processo de crescimento e desenvolvimento pessoal, levando a uma vida mais autêntica e satisfatória.
+
+**Slide 13: É isso que falam do MPA**
 - Feedbacks dos alunos
-- Investimento 
+
+**Slide 14: Quanto vale essa transformação?**
+- R $297,00
+	- Por R $253,00
 
 [Pausa para beber água]
 
