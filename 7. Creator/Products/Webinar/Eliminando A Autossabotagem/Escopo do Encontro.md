@@ -148,8 +148,10 @@ Imagem de um rio com muitas ramificações
 - Podem te impedir de tomar ações necessárias para alcançar seus objetivos.
 - Podem ser ligadas a partes específicas dentro de nós que têm medo ou resistência a mudanças.
 
-**Slide 14: Criação de crençário**
-- Exercício prático para ressignificar crenças
+**Slide 19: Criação de crençário**
+1. Priorização da área da vida a ser trabalhada (Profissional, Pessoal, Relacionamentos, Prosperidade)
+2. Exploração de crenças
+3. Análise de origens e evidências
 
 **Slide 15: Qual é a melhor forma de mudar essas crenças?**
 - Meditação
