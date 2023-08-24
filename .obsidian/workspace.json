@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caminho do meio",
+                "query": "realidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +244,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "486d2da6df6eeb81",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Lei do Ritmo.md",
