@@ -83,7 +83,7 @@ Imagem de um rio com muitas ramificações
 - Somos uma amalgamação de partes/fragmentos
 	- Cada parte é como um gêmeo siamês, conectado, mas com sua própria identidade. [[Você é um gêmeo siamês]]
 
-**Slide 5: A Autossabotagem não existe**
+**Slide 9: A Autossabotagem não existe**
 - Não existe um "sabotador interno"; todas as partes têm nossos melhores interesses em mente [[Como lidar com os meus fragmentos?]]
 - As partes internas podem discordar sobre o que é melhor, mas todas têm boas intenções.
 - [[Cada parte está tentando nos proteger ou beneficiar de alguma forma]].
@@ -92,12 +92,23 @@ Imagem de um rio com muitas ramificações
 - Exercícios para visualizar e entender as partes internas
 - Entrevistar as partes com amor e compaixão
 
-**Slide 9: Observação interna é Fundamental**
-- Observação de pensamentos e emoções sem julgamento
+**Slide 10: Observação interna é Fundamental**
+- Observação de pensamentos e emoções
+	- Aceitação
+	- Não julgamento
+	- Curiosidade
+	- Compreensão
 - A atenção plena nos ajuda a entender e transformar nossas vidas
 
-**Slide 10: Pitch de Vendas MPA**
-- Como meditar nos ajuda a compreender melhor os nossos pensamentos e nos autossabotar menos
+**Slide 11: Meu primeiro passo para me autossabotar menos**
+- Meditação
+	- Promove a calma, reduz o estresse, e permite uma resposta mais equilibrada às situações.
+	- Faz com que eu esteja presente e consciente dos pensamentos e emoções, sem se apegar ou resistir a eles.
+	- Através da meditação, podemos observar nossas partes internas sem julgamento, o que nos ajuda a entender e reduzir a autossabotagem.
+	- Incorporar a meditação na rotina diária pode levar a uma maior clareza mental e emocional.
+	- A meditação é um componente essencial do Método de Integração da Autossabotagem, ajudando a integrar e harmonizar as partes internas.
+
+**Slide 12: **
 - Como o MIA e o MPA se complementam
 - Feedbacks dos alunos
 - Investimento 
