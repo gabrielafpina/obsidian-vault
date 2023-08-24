@@ -136,9 +136,17 @@ Imagem de um rio com muitas ramificações
 - **Integração**: Trabalhar para integrar as partes, encontrando soluções que atendam às necessidades de todas elas.
 - **Suporte Profissional**: Embora possa ser feito sozinho, o suporte de um profissional treinado pode ser útil, especialmente se houver partes particularmente desafiadoras ou traumáticas.
 
-**Slide 13: O que as suas crenças tem te falado?**
-- Crenças limitantes são convicções ou pensamentos arraigados que restringem nosso potencial e capacidade de alcançar objetivos.
-- De que forma as suas crenças podem te autossabotar
+**Slide 17: O que as suas crenças tem te falado?**
+- [[Crenças]] limitantes são convicções ou pensamentos arraigados que restringem nosso potencial e capacidade de alcançar objetivos.
+	- Muitas vezes, essas crenças são formadas na infância ou através de experiências negativas.
+- (Assim como as partes internas, as crenças limitantes) São aspectos do nosso ser que podem estar tentando nos proteger, mas que acabam nos restringindo. [[Qual é a relação entre crenças limitantes e fragmentos?]]
+	- "Eu não sou bom o suficiente", 
+	- "Eu nunca vou conseguir isso", 
+	- "Isso é muito difícil para mim".
+
+**Slide 18: De que forma as suas crenças podem te autossabotar**
+- Podem te impedir de tomar ações necessárias para alcançar seus objetivos.
+- Podem ser ligadas a partes específicas dentro de nós que têm medo ou resistência a mudanças.
 
 **Slide 14: Criação de crençário**
 - Exercício prático para ressignificar crenças
