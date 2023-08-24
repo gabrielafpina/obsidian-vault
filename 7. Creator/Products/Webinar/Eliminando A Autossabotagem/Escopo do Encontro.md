@@ -44,7 +44,7 @@
 **Slide 0: O Método MIA**
 Ferramentas práticas e exercícios para explorar e transformar a autossabotagem em autoconhecimento e ação alinhada.
 
-**Slide 1: Como funciona o [[Método MIA]]?**
+**Slide 1: Como funciona o [[Método MIA - Método de Integração da Autossabotagem]]?**
 1. Reconhecimento e Compreensão
 2. Exploração da Fragmentação da Consciência
 3. Comunicação com as Partes Interna
