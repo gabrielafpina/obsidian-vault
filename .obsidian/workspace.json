@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7e6b586575c7a108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "13973ac8cbd0866f",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o observador.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o observador.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o observador.md"
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
               }
             }
           },
@@ -260,8 +272,9 @@
       }
     ]
   },
-  "active": "1109a33033408f81",
+  "active": "7e6b586575c7a108",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Você é o observador.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "Método MIA - Método de Integração da Autossabotagem.md",
     "A consciência é um rio.md",
@@ -288,7 +301,6 @@
     "2. Literature Notes/Topics/Nenhuma parte de você é ruim e tem que mudar.md",
     "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
     "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
-    "2. Literature Notes/Topics/É isso que significa ser sequestrado por uma de suas personalidades.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
