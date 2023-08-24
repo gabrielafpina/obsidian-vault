@@ -164,15 +164,22 @@ Imagem de um rio com muitas ramificações
 
 **Slide 20: Qual é a melhor forma de mudar essas crenças?**
 - Meditação
+	- Exploração e compreensão de partes e crenças
 - Afirmações
+	- Declarações positivas e poderosas que são usadas para substituir crenças limitantes.
+	- Devem ser formuladas no tempo presente e de forma positiva (por exemplo, "Eu sou capaz" em vez de "Eu não sou incapaz").
+	- A repetição diária de afirmações ajuda a reprogramar a mente e substituir crenças limitantes por crenças fortalecedoras.
 
-**Slide 16: Como obter resultados?**
-- Compreensão das suas partes
+**Slide 21: Como obter resultados?**
+- Compreensão das suas partes e crenças
 - Alteração de rotina - meditação e afirmações
 - Compreensão dos seus desejos
 	- Aula gravada sobre Desejos genuínos x do Ego
 	- [[Eu-Paralelo-Preferido (EPP)]]
 	- [[Meu Destino Preferido]]
 - Ação
+	- A importância de colocar o aprendizado em prática.
+	- Como a ação alinhada com a compreensão de si mesmo leva a resultados significativos.
+	- Encorajamento para tomar medidas concretas em direção aos objetivos, usando o conhecimento adquirido na aula.
 
 [Perguntas e respostas]
