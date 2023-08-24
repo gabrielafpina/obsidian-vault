@@ -60,10 +60,6 @@
 - Explicação de que as partes internas podem ter interesses conflitantes
 - Não existe um "sabotador interno"; todas as partes têm nossos melhores interesses em mente [[Como lidar com os meus fragmentos?]]
 
-**Slide 7: Criando Alinhamento Interno**
-- Encontrando uma solução win-win para as partes internas
-- Restaurando a paz interna e a integração
-
 **Slide 8: Compreensão de quem eu não sou**
 - [[existem 2 tipos de autoconhecimento]]
 	- Conhecimento do [[Ego]] (quem não sou)
@@ -75,3 +71,32 @@
 **Slide 10: Vamos compreender suas partes?**
 - Exercícios para visualizar e entender as partes internas
 - Como entrevistar as partes com amor e compaixão
+
+**Slide 11: Observação interna é Fundamental**
+- Como observar pensamentos e emoções sem julgamento?
+- A atenção plena nos ajuda a entender e transformar nossas vidas
+
+**Slide 12: Pitch de Vendas MPA**
+- Como meditar nos ajuda a compreender melhor os nossos pensamentos e nos autossabotar menos
+- Feedbacks dos alunos
+- Investimento 
+
+[Pausa para beber água]
+
+**Slide 13: Parts Work**
+- Explicar como a meditação e o exercício que fizemos está relacionado ao Parts Work
+- Como as pessoas podem fazer o parts work sozinhas
+
+**Slide 14: Como compreender melhor os meus fragmentos?**
+- Exercício dos 3 eus
+
+**Slide 15: As suas crenças te seguram ou te elevam?**
+- O que são crenças limitantes
+- De que forma as suas crenças podem te autossabotar
+
+**Slide 16: Criação de crençário**
+- Exercício prático para ressignificar crenças
+
+**Slide 17: Qual é a melhor forma de mudar essas crenças?**
+- Meditação
+- Afirmações
