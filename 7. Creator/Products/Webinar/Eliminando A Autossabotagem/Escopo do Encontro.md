@@ -66,7 +66,7 @@
 **Slide 5: Compreensão de quem eu não sou**
 - Eu não sou a minha personalidade
 - Eu não sou as vozes que escuto na minha cabeça
-- Eu
+- Eu não sou o que me falaram que sou, ou o que pensam sobre mim
 
 **Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.
