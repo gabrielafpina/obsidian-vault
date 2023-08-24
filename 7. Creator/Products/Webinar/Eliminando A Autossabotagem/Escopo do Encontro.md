@@ -149,11 +149,20 @@ Imagem de um rio com muitas ramificações
 - Podem ser ligadas a partes específicas dentro de nós que têm medo ou resistência a mudanças.
 
 **Slide 19: Criação de crençário**
-1. Priorização da área da vida a ser trabalhada (Profissional, Pessoal, Relacionamentos, Prosperidade)
-2. Exploração de crenças
-3. Análise de origens e evidências
+- Identificação e ressignificação de crenças
+	- O que você frequentemente diz a si mesmo que pode estar limitando seu progresso?
+	- Quais são as frases ou pensamentos negativos que você frequentemente repete para si mesmo?
+	- Quando você enfrenta um desafio ou fracasso, o que você tende a pensar sobre suas próprias habilidades ou valor?
+	- O que você acredita ser verdade sobre si mesmo que pode estar impedindo você de alcançar seus objetivos?
+	- Existem áreas em sua vida onde você sente que "nunca" terá sucesso? O que você diz a si mesmo sobre essas áreas?
+	- Quais são as crenças sobre dinheiro, sucesso ou amor que você herdou de sua família ou cultura e que podem estar limitando você?
+	- Você tem medos específicos que parecem irracionais ou desproporcionais? O que você diz a si mesmo sobre esses medos?
+	- Quais são as coisas que você acredita que "não pode" fazer, e o que você diz a si mesmo para justificar essa crença?
+	- Existem pessoas em sua vida cujas opiniões ou julgamentos você internalizou como verdades sobre si mesmo? O que são essas "verdades"?
+	- Quando você pensa em seus sonhos e aspirações, quais são as primeiras dúvidas ou pensamentos limitantes que vêm à mente?
+	- O que você acredita ser impossível para você, e o que você diz a si mesmo para reforçar essa crença?
 
-**Slide 15: Qual é a melhor forma de mudar essas crenças?**
+**Slide 20: Qual é a melhor forma de mudar essas crenças?**
 - Meditação
 - Afirmações
 
