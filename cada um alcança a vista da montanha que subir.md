@@ -11,6 +11,8 @@ Quando você começa a investir o seu dinheiro em [[Consciência]], você sobe m
 
 Cada pessoa tem um nível de consciência diferente do outro ser humano. [[Diferente não é melhor e não é pior, é diferente]].
 
+Cada um sabe a montanha que subiu.
+
 **COMO:**
 
 **PENSADORES:**

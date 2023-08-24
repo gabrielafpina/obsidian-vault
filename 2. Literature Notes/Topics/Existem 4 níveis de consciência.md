@@ -17,7 +17,7 @@
 
 Para chegarmos a altos níveis de consciência, é importante guardarmos energia, porque quando pensamos muito, perdemos muita energia.
 
-[[cada um alcança a vista da montanha que subir]].
+[[Cada um alcança a vista da montanha que subir]].
 
 **COMO:**
 
