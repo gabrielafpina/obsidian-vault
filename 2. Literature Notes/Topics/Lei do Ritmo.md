@@ -21,11 +21,13 @@ Faça o básico, aqui e agora. Tá querendo compensar a sua pressa fazendo coisa
 
 [[Tudo acontece no aqui e agora]].
 
-Essa lei existe para manter o equilíbrio. Tudo deriva do Uno e desce, como um triângulo, formando as polaridades. Eu só sei que existe o bem, porque eu sei que existe o mal. Por isso, eu preciso tomar cuidado.
+Essa lei existe para manter o equilíbrio. Tudo deriva do Uno e desce, como um triângulo, formando as polaridades (lembrar do pêndulo). Eu só sei que existe o bem, porque eu sei que existe o mal. Por isso, eu preciso tomar cuidado com as pendula
 
 Existem duas formas possíveis de anular a pendulação:
 1. Elevar o nível de [[Consciência]], em que eu anulo as polaridades e não estarei mais suscetível às oscilações. 
 2. 
+
+Se eu não compreendo a Verdade, é só mais uma historinha de vítima que eu conto pra mim mesma. [[Existem 4 lugares proibidos]].
 
 **COMO:**
 
