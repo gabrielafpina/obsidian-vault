@@ -38,3 +38,32 @@
     - Como aplicar o aprendizado para mudar a vida
 
 10. **Conclusão e Q&A**
+
+---
+**SLIDES**:
+**Slide 1: Introdução à Autossabotagem**
+- Definição comum de autossabotagem
+- Importância de entender o conceito
+
+**Slide 2: Exemplos de Autossabotagem**
+- Procrastinação
+- Vícios como compulsão alimentar ou consumo excessivo de álcool
+- Sabotar relacionamentos ou entrevistas de emprego
+
+**Slide 3: A Verdade sobre a Autossabotagem**
+
+**Slide 4: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
+- Conceito de partes, selves internos e [[Ego]]
+- A ideia de que somos uma amalgamação de partes [[Você é um gêmeo siamês]]
+
+**Slide 5: A Autossabotagem não existe**
+- Explicação de que as partes internas podem ter interesses conflitantes
+- Não existe um "sabotador interno"; todas as partes têm nossos melhores interesses em mente [[Como lidar com os meus fragmentos?]]
+
+**Slide 6: Explorando as Partes Internas**
+- Exercícios para visualizar e entender as partes internas
+- Como entrevistar as partes com amor e compaixão
+
+**Slide 7: Criando Alinhamento Interno**
+- Encontrando uma solução win-win para as partes internas
+- Restaurando a paz interna e a integração
