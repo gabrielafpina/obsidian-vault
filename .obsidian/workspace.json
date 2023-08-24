@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md"
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md"
               }
             }
           },
@@ -320,8 +319,9 @@
       }
     ]
   },
-  "active": "8d944887c3269621",
+  "active": "58e5251d48de337b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "Cada parte está tentando nos proteger ou beneficiar de alguma forma.md",
     "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
@@ -348,7 +348,6 @@
     "2. Literature Notes/Topics/Qual é a definição para paz interna?.md",
     "2. Literature Notes/Topics/O que é o trauma?.md",
     "2. Literature Notes/Topics/Nenhuma parte de você é ruim e tem que mudar.md",
-    "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
