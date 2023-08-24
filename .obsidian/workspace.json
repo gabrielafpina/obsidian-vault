@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Parts Work.md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Parts Work.md",
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Parts Work.md"
+                "file": "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md"
               }
             }
           },
@@ -284,8 +283,9 @@
       }
     ]
   },
-  "active": "1808b2a90900eb6c",
+  "active": "58e5251d48de337b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Parts Work.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
     "Cada parte está tentando nos proteger ou beneficiar de alguma forma.md",
@@ -308,7 +308,6 @@
     "Tudo comunica.md",
     "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
-    "2. Literature Notes/Topics/Parts Work.md",
     "2. Literature Notes/Topics/Como fazer uma posse consciente?.md",
     "2. Literature Notes/Topics/Qual é a definição para paz interna?.md",
     "2. Literature Notes/Topics/O que é o trauma?.md",
