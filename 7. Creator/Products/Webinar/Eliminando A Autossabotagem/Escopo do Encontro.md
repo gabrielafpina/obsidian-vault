@@ -59,6 +59,8 @@
 - Vícios como compulsão alimentar ou consumo excessivo de álcool
 - Sabotar relacionamentos ou oportunidades de emprego/ascensão na carreira profissional
 
+[Pedir para escreverem no chat a maior autossabotagem que estão vivendo no momento]
+
 **Slide 4: Porquê entender o conceito?**
 - É o primeiro passo para superá-la e alcançar o sucesso pessoal e profissional.
 - Entender esse conceito permite que você reconheça e enfrente seus comportamentos autodestrutivos, abrindo caminho para a mudança positiva.
@@ -71,13 +73,15 @@
 - Eu não sou o que eu faço
 
 **Slide 6: Quem eu sou, então?**
-- Você é u
 - [[Você é o observador]], a [[Consciência]]
-- [[A consciência é um rio]]
 
-**Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
+**Slide 7: [[A consciência é um rio]]**
+Imagem de um rio com muitas ramificações
+
+**Slide 7: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.
-- A ideia de que somos uma amalgamação de partes [[Você é um gêmeo siamês]]
+- Somos uma amalgamação de partes 
+	- Cada parte é como um gêmeo siamês, conectado, mas com sua própria identidade. [[Você é um gêmeo siamês]]
 
 **Slide 5: A Autossabotagem não existe**
 - Explicação de que as partes internas podem ter interesses conflitantes
