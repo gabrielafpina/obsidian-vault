@@ -41,11 +41,20 @@
 
 ---
 **SLIDES**:
-**Slide 1: Introdução à Autossabotagem**
+**Slide 1: Método MIA**
+1. Reconhecimento e Compreensão
+2. Exploração da Fragmentação da Consciência
+3. Comunicação com as Partes Interna
+4. Integração e Harmonização
+5. Ressignificação de Crenças Limitantes
+6. Implementação de Novos Hábitos
+7. Avaliação e Ajuste Contínuo
+
+**Slide 2: Introdução à Autossabotagem**
 - Refere-se a pensamentos, palavras e ações que vão contra os próprios objetivos e desejos de uma pessoa.
 - Cria problemas e dificulta o alcance de resultados e metas. Pode ser um obstáculo silencioso que impede o crescimento e a realização.
 
-**Slide 2: Exemplos de Autossabotagem**
+**Slide 3: Exemplos de Autossabotagem**
 - Procrastinação
 - Vícios como compulsão alimentar ou consumo excessivo de álcool
 - Sabotar relacionamentos ou oportunidades de emprego/ascensão na carreira profissional
