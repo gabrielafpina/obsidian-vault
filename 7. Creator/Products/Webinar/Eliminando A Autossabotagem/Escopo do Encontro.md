@@ -78,24 +78,22 @@
 **Slide 7: [[A consciência é um rio]]**
 Imagem de um rio com muitas ramificações
 
-**Slide 7: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
+**Slide 8: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.
-- Somos uma amalgamação de partes 
+- Somos uma amalgamação de partes/fragmentos
 	- Cada parte é como um gêmeo siamês, conectado, mas com sua própria identidade. [[Você é um gêmeo siamês]]
 
 **Slide 5: A Autossabotagem não existe**
-- Explicação de que as partes internas podem ter interesses conflitantes
 - Não existe um "sabotador interno"; todas as partes têm nossos melhores interesses em mente [[Como lidar com os meus fragmentos?]]
-
-**Slide 7: Imagine que você está em um cinema* [[Metáfora do cinema]]
-- Somos os diretores, atores e espectadores de nossa própria vida
+- As partes internas podem discordar sobre o que é melhor, mas todas têm boas intenções.
+- [[Cada parte está tentando nos proteger ou beneficiar de alguma forma]].
 
 [Compreensão das partes]
 - Exercícios para visualizar e entender as partes internas
-- Como entrevistar as partes com amor e compaixão
+- Entrevistar as partes com amor e compaixão
 
 **Slide 9: Observação interna é Fundamental**
-- Como observar pensamentos e emoções sem julgamento?
+- Observação de pensamentos e emoções sem julgamento
 - A atenção plena nos ajuda a entender e transformar nossas vidas
 
 **Slide 10: Pitch de Vendas MPA**
