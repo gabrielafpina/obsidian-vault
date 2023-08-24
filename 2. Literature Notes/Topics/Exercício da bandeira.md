@@ -15,6 +15,8 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	1. A mentira é tão perigosa, porque ela te envenena e para aquilo se manter, você tem que fazer outras coisas também. Ela faz você se remoer. Ela traz uma energia para a mente que faz com que você se apegue com a situação.
 	2. Se você mente no pouco, você mente no muito. [[Se eu sou verdadeira no pouco, eu sou verdadeira no muito]].
 2. **Justificações**: 'que o seu falar seja sim, sim, não, não'. [[A justificativa perpetua a mediocridade]]. Agradeça e fale a Verdade quando você já sabe que você não vai e quando você não quer. Você tem todas as certezas dentro de você, não busque elas fora.
+	1. Você não precisa justificar nada. Se for justificar, justifique o mínimo. [[Você se justifica porque quer ser aprovado pelo outro]]. Pare de perder o seu tempo e energia se justificando.
+	2. Quem te conhece profundamente e quem te respeita, acredita em você de primeira e não precisa das suas justificativas. Quem não te conhece e não te respeita, não te enxerga de igual para igual, não acredita em você e mesmo com toda a sua justificativa, nada vai mudar.
 3. **Fantasia**:
 4. **Charlatanismo**:
 5. **Identificação**:
