@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "6386a3e1697ebb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo comunica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "768542c3e48782b8",
             "type": "leaf",
             "state": {
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "Tudo comunica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "Tudo comunica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
+                "file": "Tudo comunica.md"
               }
             }
           },
@@ -207,10 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "6386a3e1697ebb69",
   "lastOpenFiles": [
-    "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
+    "Tudo comunica.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+    "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
     "2. Literature Notes/Topics/Parts Work.md",
     "2. Literature Notes/Topics/Como fazer uma posse consciente?.md",
@@ -234,7 +247,6 @@
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
-    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
