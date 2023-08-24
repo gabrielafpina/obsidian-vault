@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "6386a3e1697ebb69",
+            "id": "486d2da6df6eeb81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo comunica.md",
+                "file": "Lei do Ritmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deus",
+                "query": "lei do ritmo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "Lei do Ritmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "Lei do Ritmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
+                "file": "Lei do Ritmo.md"
               }
             }
           },
@@ -219,10 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "768542c3e48782b8",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Tudo comunica.md",
+    "Lei do Ritmo.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+    "Tudo comunica.md",
     "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
     "2. Literature Notes/Topics/Parts Work.md",
@@ -246,7 +247,6 @@
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
