@@ -11,6 +11,8 @@ Tudo que é inteligente você saber está dentro do seu coração aqui e agora.
 
 A pressa vem para compensar o que você não está fazendo e você é o único responsável por fazer.
 
+Toda pressa é uma compensação de uma coisa que você não está fazendo bem feito.
+
 **COMO:**
 
 **PENSADORES:**
