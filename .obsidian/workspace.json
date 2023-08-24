@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercício da bandeira.md",
+                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercício da bandeira.md",
+                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercício da bandeira.md"
+                "file": "2. Literature Notes/Topics/Existem 4 níveis de consciência.md"
               }
             }
           },
@@ -267,10 +267,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bfc7b66d2c4089b",
+  "active": "af682a0360d003aa",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "Exercício da bandeira.md",
+    "Captura de Tela 2023-08-23 às 23.22.45.png",
+    "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Lei do Ritmo.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "Tudo acontece no aqui e agora.md",
@@ -294,7 +295,6 @@
     "2. Literature Notes/Topics/Como compreender a fragmentação do ego?.md",
     "2. Literature Notes/Topics/A consciência funciona como água.md",
     "2. Literature Notes/Topics/Qual é o problema de negar, rejeitar e desonrar as coisas?.md",
-    "2. Literature Notes/Topics/A sua personalidade é completamente falsa.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
@@ -314,7 +314,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.06.01.png",
     "6. Shots, Images & PDFs/MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 21.06.16.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
     "Untitled.canvas"
   ]
 }
