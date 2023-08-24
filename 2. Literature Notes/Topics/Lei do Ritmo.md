@@ -20,6 +20,12 @@ O ritmo acontece em todos os estados de manifestação, do físico, até o menta
 Faça o básico, aqui e agora. Tá querendo compensar a sua pressa fazendo coisas, quando o básico não está sendo feito. Está fazendo o seu financeiro?
 
 [[Tudo acontece no aqui e agora]].
+
+Essa lei existe para manter o equilíbrio. Tudo deriva do Uno e desce, como um triângulo, formando as polaridades. Eu só sei que existe o bem, porque eu sei que existe o mal. Por isso, eu preciso tomar cuidado.
+
+Existem duas formas possíveis de anular a pendulaç~:
+1. Elevar o nãível de consciEncia 
+
 **COMO:**
 
 **PENSADORES:**
