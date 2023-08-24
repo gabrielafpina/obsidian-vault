@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ea77af40f3d1a81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc93d0dd39113674",
             "type": "leaf",
             "state": {
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A consciência é um rio.md",
+                "file": "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A consciência é um rio.md",
+                "file": "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A consciência é um rio.md"
+                "file": "2. Literature Notes/Topics/Você é um gêmeo siamês.md"
               }
             }
           },
@@ -284,13 +296,13 @@
       }
     ]
   },
-  "active": "fc93d0dd39113674",
+  "active": "ea77af40f3d1a81e",
   "lastOpenFiles": [
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+    "A consciência é um rio.md",
     "2. Literature Notes/Topics/Você é o observador.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "Método MIA - Método de Integração da Autossabotagem.md",
-    "A consciência é um rio.md",
     "Qual é a relação entre crenças limitantes e fragmentos?.md",
     "Cada parte está tentando nos proteger ou beneficiar de alguma forma.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
