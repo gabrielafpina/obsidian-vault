@@ -14,7 +14,7 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 1. **Mentira**: ela mata a alma. Quando você mente, você muito provavelmente vai fazer todos os outros itens da bandeira.
 	1. A mentira é tão perigosa, porque ela te envenena e para aquilo se manter, você tem que fazer outras coisas também. Ela faz você se remoer. Ela traz uma energia para a mente que faz com que você se apegue com a situação.
 	2. Se você mente no pouco, você mente no muito. [[Se eu sou verdadeira no pouco, eu sou verdadeira no muito]].
-2. **Justificações**: que o seu falar seja sim, sim, não, não'.
+2. **Justificações**: 'que o seu falar seja sim, sim, não, não'. [[A justificativa perpetua a mediocridade]]. Agradeça e fale a Verdade quando você já sabe que você não vai e quando você não quer. Você tem todas as certezas dentro de você, não busque elas fora.
 3. **Fantasia**:
 4. **Charlatanismo**:
 5. **Identificação**:
