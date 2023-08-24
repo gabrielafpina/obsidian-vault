@@ -59,13 +59,11 @@
 - Vícios como compulsão alimentar ou consumo excessivo de álcool
 - Sabotar relacionamentos ou oportunidades de emprego/ascensão na carreira profissional
 
-**Slide 3: Porquê entender o conceito?**
+**Slide 4: Porquê entender o conceito?**
 - É o primeiro passo para superá-la e alcançar o sucesso pessoal e profissional.
 - Entender esse conceito permite que você reconheça e enfrente seus comportamentos autodestrutivos, abrindo caminho para a mudança positiva.
 
-**Slide 3: A Verdade sobre a Autossabotagem**
-
-**Slide 4: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
+**Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Conceito de partes, selves internos e [[Ego]]
 - A ideia de que somos uma amalgamação de partes [[Você é um gêmeo siamês]]
 
@@ -81,7 +79,7 @@
 **Slide 7: Imagine que você está em um cinema* [[Metáfora do cinema]]
 - Somos os diretores, atores e espectadores de nossa própria vida
 
-**Slide 8: Vamos compreender suas partes?**
+[Compreensão das partes]
 - Exercícios para visualizar e entender as partes internas
 - Como entrevistar as partes com amor e compaixão
 
@@ -91,14 +89,15 @@
 
 **Slide 10: Pitch de Vendas MPA**
 - Como meditar nos ajuda a compreender melhor os nossos pensamentos e nos autossabotar menos
+- Como o MIA e o MPA se complementam
 - Feedbacks dos alunos
 - Investimento 
 
 [Pausa para beber água]
 
-**Slide 11: Parts Work**
-- Explicar como a meditação e o exercício que fizemos está relacionado ao Parts Work
-- Como as pessoas podem fazer o parts work sozinhas
+**Slide 11: Vamos entender as suas partes?**
+- O que é [[Parts Work]]
+- Como o parts work sozinhas
 
 **Slide 12: Como compreender melhor os meus fragmentos?**
 - Exercício dos 3 eus
