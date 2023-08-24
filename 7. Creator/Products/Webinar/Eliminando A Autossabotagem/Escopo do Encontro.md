@@ -71,8 +71,9 @@
 - Eu não sou o que eu faço
 
 **Slide 6: Quem eu sou, então?**
-- [[Você é o observador]]
-- [[Consciência]]
+- Você é u
+- [[Você é o observador]], a [[Consciência]]
+- [[A consciência é um rio]]
 
 **Slide 5: A Fragmentação da Consciência** [[Como compreender a fragmentação do ego?]]
 - Somos compostos por várias partes que têm diferentes desejos, medos e necessidades.

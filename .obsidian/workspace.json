@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e08466f6ca454298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'A vida é como um rio'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -38,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conhece",
+                "query": "FRAGMENT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,14 +210,53 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "82ed838666c45dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "33d5b4b1b79fbd81",
+        "type": "window",
+        "children": [
+          {
+            "id": "b1a41db84a36c823",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aff4575a14affa30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A consciência é um rio.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 96,
+        "y": 25,
+        "width": 1344,
+        "height": 875,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "58e5251d48de337b",
   "lastOpenFiles": [
+    "A consciência é um rio.md",
+    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
+    "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Cada um alcança a vista da montanha que subir.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "2. Literature Notes/Topics/Lei do Ritmo.md",
-    "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Tudo acontece no aqui e agora.md",
     "2. Literature Notes/Topics/A pressa te leva para a morte.md",
     "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
@@ -226,8 +276,6 @@
     "2. Literature Notes/Topics/O nosso grau de sofrimento interno tem a ver com o grau de harmonia ou a falta dele entre os nossos eus internos.md",
     "2. Literature Notes/Topics/Fragmentação é uma função da consciência.md",
     "2. Literature Notes/Topics/Como compreender a fragmentação do ego?.md",
-    "2. Literature Notes/Topics/A consciência funciona como água.md",
-    "2. Literature Notes/Topics/Qual é o problema de negar, rejeitar e desonrar as coisas?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
