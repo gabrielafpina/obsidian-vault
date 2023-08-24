@@ -41,7 +41,10 @@
 
 ---
 **SLIDES**:
-**Slide 1: Método MIA**
+**Slide 0: O Método MIA**
+
+
+**Slide 1: Como funciona o [[Método MIA]]?**
 1. Reconhecimento e Compreensão
 2. Exploração da Fragmentação da Consciência
 3. Comunicação com as Partes Interna
@@ -189,5 +192,6 @@ Imagem de um rio com muitas ramificações
 	- [[Eu-Paralelo-Preferido (EPP)]]
 	- [[Meu Destino Preferido]]
 - Workbook de criação de crençário
+- Workbook de Afirmações
 - Meditação Guiada de Parts Work
 - Vídeo Parts Work Teal Swan
