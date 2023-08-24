@@ -42,13 +42,17 @@
 ---
 **SLIDES**:
 **Slide 1: Introdução à Autossabotagem**
-- Definição comum de autossabotagem
-- Importância de entender o conceito
+- Refere-se a pensamentos, palavras e ações que vão contra os próprios objetivos e desejos de uma pessoa.
+- Cria problemas e dificulta o alcance de resultados e metas. Pode ser um obstáculo silencioso que impede o crescimento e a realização.
 
 **Slide 2: Exemplos de Autossabotagem**
 - Procrastinação
 - Vícios como compulsão alimentar ou consumo excessivo de álcool
-- Sabotar relacionamentos ou entrevistas de emprego
+- Sabotar relacionamentos ou oportunidades de emprego/ascensão na carreira profissional
+
+**Slide 3: Porquê entender o conceito?**
+- É o primeiro passo para superá-la e alcançar o sucesso pessoal e profissional.
+- Entender esse conceito permite que você reconheça e enfrente seus comportamentos autodestrutivos, abrindo caminho para a mudança positiva.
 
 **Slide 3: A Verdade sobre a Autossabotagem**
 
