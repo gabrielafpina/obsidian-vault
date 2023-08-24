@@ -11,7 +11,8 @@ Esse exercício nos ajuda a acumular energia para ter cada vez mais consciência
 
 Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciência mais facilmente.
 
-1. **Mentira**: 
+1. **Mentira**: ela mata a alma. Quando você mente, você muito provavelmente vai fazer todos os outros itens da bandeira.
+	1. A mentira é tão perigosa, porque quando
 2. **Justificações**:
 3. **Fantasia**:
 4. **Charlatanismo**:
