@@ -39,6 +39,9 @@ A inteligência da natureza opera pela lei do mínimo esforço. O peixe nada, o 
 
 Eu não vim para essa vida me esforçar, eu vim para me dedicar, que vem com a frequência do amor, da alegria, da maturidade, da consciência.
 
+Tudo que está acontecendo no aqui e agora tem o objetivo de te ensinar a crescer. Se você não quiser, tá tudo bem também.
+
+
 **COMO:**
 
 **PENSADORES:**
