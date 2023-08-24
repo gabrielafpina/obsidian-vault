@@ -1,20 +1,38 @@
 **TÓPICOS ABORDADOS:**
-2. [[Ego]] - Compreensão de quem eu não sou
-	1. [[existem 2 tipos de autoconhecimento]]
-	2. [[Existem 4 lugares proibidos]]
-3. Consciência - Compreensão de quem eu sou
-	1. [[Metáfora do cinema]]
-	2. Meditação - 1° passo oficial para o despertar
-4. Pitch de Vendas MPA
-	1. Valor: R $253,00
-	2. Pausa para beber água
-5. O que é a autossabotagem?
-6. Observação interna
-7. Parts Work
-	7. Exercício dos 3 eus
-8. [[crenças]] limitantes e ressignificação
-	1. Criação de crençário
-9. Mudança de hábitos
-	1. Afirmações
-	2. Meditação
-10. Alteração de resultados
+1. **Introdução à Autossabotagem**
+    - Definição e importância
+    - Como ela se manifesta na vida das pessoas
+
+2. **Compreensão de Quem Eu Não Sou ([[Ego]])**
+    - [[existem 2 tipos de autoconhecimento]]
+    - [[Existem 4 lugares proibidos]]
+
+3. **[[Consciência]] - Compreensão de Quem Eu Sou**
+    - [[Metáfora do cinema]]
+    - Meditação - 1° passo oficial para o despertar
+
+4. **Observação Interna**
+    - Como observar pensamentos e emoções
+    - A importância da atenção plena
+
+5. **Pitch de Vendas MPA**
+	- Valor: R$253,00
+	- Pausa para beber água
+	- Como o MPA se encaixa no que foi discutido até agora
+
+6. **[[Parts Work]]**
+    - Introdução ao conceito
+    - Exercício dos 3 eus
+
+7. **[[Crenças]] Limitantes e Ressignificação**
+    - O que são e como afetam a autossabotagem
+    - Criação de crençário
+
+8. **Mudança de Hábitos**
+      - Afirmações
+      - Meditação
+
+9. **Alteração de Resultados**
+    - Como aplicar o aprendizado para mudar a vida
+
+10. **Conclusão e Q&A**
