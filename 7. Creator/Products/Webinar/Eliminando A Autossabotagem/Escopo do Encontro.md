@@ -195,10 +195,12 @@ Imagem de um rio com muitas ramificações
 
 
 **MATERIAIS:**
-- Aula gravada sobre Desejos genuínos x do Ego
+- 3 meses de acesso à gravação da aula
+- Aula gravada sobre Compreensão de Desejos Genuínos x do Ego
 	- [[Eu-Paralelo-Preferido (EPP)]]
 	- [[Meu Destino Preferido]]
-- Workbook de criação de crençário
+- Workbook de Compreensão de Crenças
 - Workbook de Afirmações
 - Meditação Guiada de Parts Work
+- 7 dias de suporte no grupo do WhatsApp comigo (só para essa turnma)
 - Vídeo Parts Work Teal Swan
