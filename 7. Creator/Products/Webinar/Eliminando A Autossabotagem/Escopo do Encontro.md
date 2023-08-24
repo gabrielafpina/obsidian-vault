@@ -42,7 +42,7 @@
 ---
 **SLIDES**:
 **Slide 0: O Método MIA**
-
+Ferramentas práticas e exercícios para explorar e transformar a autossabotagem em autoconhecimento e ação alinhada.
 
 **Slide 1: Como funciona o [[Método MIA]]?**
 1. Reconhecimento e Compreensão
@@ -183,6 +183,13 @@ Imagem de um rio com muitas ramificações
 	- A importância de colocar o aprendizado em prática.
 	- Como a ação alinhada com a compreensão de si mesmo leva a resultados significativos.
 	- Encorajamento para tomar medidas concretas em direção aos objetivos, usando o conhecimento adquirido na aula.
+- Avaliar o progresso e identificar áreas de crescimento e oportunidades para ajustes.
+	- **Diário de Reflexão:** Manter um diário para registrar pensamentos, sentimentos e realizações.
+	- **Feedback de Confiança:** Buscar feedback de amigos, familiares ou profissionais que entendam sua jornada.
+	- **Meditação e Mindfulness:** Usar a meditação para se conectar com as partes internas e avaliar o alinhamento com os objetivos.
+	- **Revisão Regular de Metas e Objetivos:** Definir momentos regulares para revisar e ajustar metas e objetivos.
+
+**Slide 22: Cada pessoa é capaz de crescimento e transformação contínuos, e que a jornada é tão importante quanto o destino.**
 
 [Perguntas e respostas]
 

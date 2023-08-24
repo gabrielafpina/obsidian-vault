@@ -8,6 +8,7 @@
 - Baseia-se na compreensão de que somos compostos por várias partes internas, cada uma com seus próprios desejos, medos e necessidades.
 - Ao invés de lutar contra essas partes, o MIA ensina a comunicar-se com elas, integrá-las e harmonizá-las.
 - A autossabotagem pode ser um obstáculo silencioso e poderoso para o crescimento pessoal e profissional. O MIA oferece ferramentas práticas e exercícios para explorar e transformar a autossabotagem em autoconhecimento e ação alinhada.
+- O Método MIA é uma ferramenta para a vida, não apenas para um momento.
 
 **OS 7 PASSOS DO MÉTODO:**
 1. **Reconhecimento e Compreensão:** Identificar e entender as partes internas e como elas contribuem para a autossabotagem.
