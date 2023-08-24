@@ -19,6 +19,8 @@ O ritmo acontece em todos os estados de manifestação, do físico, até o menta
 
 Faça o básico, aqui e agora. Tá querendo compensar a sua pressa fazendo coisas, quando o básico não está sendo feito. Está fazendo o seu financeiro?
 
+Tudo acontece aqui e agora. [[Escolha estar presente nesse evento, que é o aqui e o agora]]. Tudo acontece aqui e agora quando eu sei o que eu quero da vida.
+
 **COMO:**
 
 **PENSADORES:**
