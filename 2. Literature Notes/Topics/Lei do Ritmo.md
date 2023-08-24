@@ -25,8 +25,8 @@ Essa lei existe para manter o equilíbrio. Tudo deriva do Uno e desce, como um t
 
 Existem duas formas possíveis de anular a pendulação (neutralização):
 1. Elevar o nível de [[Consciência]], em que eu anulo as polaridades e não estarei mais suscetível às oscilações. 
-2. Buscar não pendular muito, porque ai você consegue assimilar o que vce almeja, transformando ele para o seu estado normal, deslocando o eixo para o estado que você deseja. Assim você vai pendulando pouco a pouco, transformando a sua vida, deslocando o eixo, para que aquilo que você quer se torne 'normal', o seu estado natural.
-	1. Assim, o que importa é a percepção. O que importa, não é o que está acontecendo com o pêndulo, porque aí você se identifica com o pêndulo (ou com a situação), o que importa é a observação da percepçã
+2. Buscar não pendular muito, porque ai você consegue assimilar o que você almeja, transformando ele para o seu estado normal, deslocando o eixo para o estado que você deseja. Assim você vai pendulando pouco a pouco, transformando a sua vida, deslocando o eixo (percepção da realidade), para que aquilo que você quer se torne 'normal', o seu estado natural.
+	1. O que não dá é você se identificar com o pêndulo (ou com a situação). É sobre mudar o eixo e  passar a ter uma observação mais elevada da percepção da realidade. Comece a observar o seu ponto de vista da realidade, que é o seu eixo. Quando você muda a sua percepção, tudo muda. [[Percepção é o que controla a sua biologia]]. Estar no eixo me dá a possibilidade de observar 360º. Tudo é uma questão de percepção.
 
 Se eu não compreendo a Verdade, é só mais uma historinha de vítima que eu conto pra mim mesma. [[Existem 4 lugares proibidos]].
 
