@@ -32,7 +32,18 @@ Quero que você conheça o Workshop que eu criei '**Quebrando o Hábito da Autos
 Além disso, você também tem acesso a:
 - Workbook sobre Crenças
 - Workbook sobre Afirmações
-- Aula gravada sobre Desejos Genuínos + Ferramenta para se alinhar com 
+- Aula gravada sobre Desejos Genuínos + Ferramenta para se alinhar com o seu Futuro-Eu
+- Workbook de Alinhamento com seu Futuro
+- Meditação Guiada de Conversa com suas Partes
+- Meditação Guiada de Alinhamento com seu Futuro-Eu
+
+Tudo que eu criei está **muito poderoso**. E o valor também está *super acessível*. Você tem acesso a isso tudo por apenas R $97,00! Fala sério, tá muito barato.
+
+[Vem, você vai se agradecer depois]
+
+Eu te espero desse lado!
+Você sabe que eu te amo,
+**GABRIELA PINA**
 
 **LINKS IMPORTANTES:**
 - [[Você está pensando ou você está sendo pensado?]]
