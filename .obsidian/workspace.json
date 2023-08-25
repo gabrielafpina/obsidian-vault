@@ -4,119 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c22a9f58f18756e7",
+        "id": "6b59d7314c26ac60",
         "type": "tabs",
         "children": [
           {
-            "id": "8b451c658b9aa194",
+            "id": "9c4721ee4baf06cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "4b00ecf79855d08b",
+            "id": "20e71a6fa21a8a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o método LCA?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd6dff8de7df4f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "037714a9f8065da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f3827e359720d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4cc0df39c42f0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e037ecb43db0ba15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "350c335128ca5710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aa80dcfd3e2ec66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
+                "file": "7. Creator/Newsletter/06 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -217,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
+                "file": "7. Creator/Newsletter/06 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
+                "file": "7. Creator/Newsletter/06 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md"
+                "file": "7. Creator/Newsletter/06 -.md"
               }
             }
           },
@@ -297,21 +208,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "037714a9f8065da1",
+  "active": "20e71a6fa21a8a86",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-    "2. Literature Notes/Topics/O que é o método LCA?.md",
-    "2. Literature Notes/Topics/Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "7. Creator/Newsletter/06 -.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
-    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+    "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+    "2. Literature Notes/Topics/Meu Destino Preferido.md",
+    "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
     "2. Literature Notes/Topics/Parts Work.md",
-    "Consciente.md",
+    "2. Literature Notes/Topics/Consciente.md",
     "2. Literature Notes/Topics/A consciência é um rio.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Inconsciente.md",
@@ -325,7 +237,6 @@
     "2. Literature Notes/Topics/Você é o observador.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
