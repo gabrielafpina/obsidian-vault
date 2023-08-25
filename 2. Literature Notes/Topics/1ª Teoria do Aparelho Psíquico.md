@@ -30,7 +30,7 @@
 - [[Psicologia Positiva]]: foca menos no inconsciente e mais no potencial e bem-estar consciente dos indivíduos.
 
 **Norte: ideia/pergunta**
-- Teoria da evolução de Darwmin na concepção do inconsciente
+- Teoria da evolução de Darwin na concepção do inconsciente
 
 **Sul: para onde vai**
 - [[necessidades emocionais]]
