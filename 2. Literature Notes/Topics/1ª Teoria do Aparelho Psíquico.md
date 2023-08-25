@@ -9,6 +9,7 @@
 
 - **Consciente**
     - Mente receptora. Você capta as informações do mundo externo e interno e manda para o pré-consciente.
+	    - Tem a função de recepcionar as informações provenientes dos instintos, necessidades ou motivações vindas do exterior e do interior do indivíduo.
     - Fato fugaz. É muito rápida a informação que passa por aqui. É o que acontece no momento presente.
 - **Pré-consciente**
     - É o mesmo que o _subconsciente_.

@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teori",
+                "query": "sono",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,7 +272,7 @@
       }
     ]
   },
-  "active": "53aebfab6d5179a1",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
