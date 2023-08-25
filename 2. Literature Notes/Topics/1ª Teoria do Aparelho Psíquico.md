@@ -35,3 +35,4 @@
 **Sul: para onde vai**
 - [[necessidades emocionais]]
 - [[Feridas emocionais]]
+- [[2ª Teoria do Aparelho Psíquico]]
