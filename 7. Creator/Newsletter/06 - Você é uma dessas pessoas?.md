@@ -27,7 +27,12 @@ Por isso, eu estudei profundamente o que faz uma pessoa se autossabotar, procras
 
 Eu encontrei a solução e quero compartilhá-la com você. Na verdade, eu e mais de 40 pessoas já embarcamos nessa jornada para Eliminar a Autossabotagem. É uma honra ter você aqui no meu Correio. Agora, seria uma honra ainda maior ter você no nosso grupo.
 
-Quero que você conheça o Workshop que eu criei '**Quebrando o Hábito da Autossabotagem**'. Eu coloquei toda a dedicação e amor que habitam dentro de mim para criar uma aula *poderosíssima*
+Quero que você conheça o Workshop que eu criei '**Quebrando o Hábito da Autossabotagem**'. Eu coloquei toda a dedicação e amor que habitam dentro de mim para criar uma aula *poderosíssima* de mais de 2 horas e meia, falando sobre como você pode ter resultados nas áreas da sua vida, através do meu método que consiste em 7 simples passos.
+
+Além disso, você também tem acesso a:
+- Workbook sobre Crenças
+- Workbook sobre Afirmações
+- Aula gravada sobre Desejos Genuínos + Ferramenta para se alinhar com 
 
 **LINKS IMPORTANTES:**
 - [[Você está pensando ou você está sendo pensado?]]
