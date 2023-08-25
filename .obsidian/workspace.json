@@ -271,45 +271,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "82ed838666c45dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "33d5b4b1b79fbd81",
-        "type": "window",
-        "children": [
-          {
-            "id": "b1a41db84a36c823",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aff4575a14affa30",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. Literature Notes/Topics/A consciência é um rio.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 96,
-        "y": 25,
-        "width": 1344,
-        "height": 875,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "50fe9fd6074839d7",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A consciência é um rio.md",
+    "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
     "2. Literature Notes/Topics/Parts Work.md",
     "Consciente.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
@@ -324,7 +289,6 @@
     "2. Literature Notes/Topics/Como lidar com os meus fragmentos?.md",
     "2. Literature Notes/Topics/Cada parte está tentando nos proteger ou beneficiar de alguma forma.md",
     "2. Literature Notes/Topics/Você é um gêmeo siamês.md",
-    "2. Literature Notes/Topics/A consciência é um rio.md",
     "2. Literature Notes/Topics/Você é o observador.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
@@ -337,7 +301,6 @@
     "2. Literature Notes/Topics/Lei do Ritmo.md",
     "2. Literature Notes/Topics/Tudo acontece no aqui e agora.md",
     "2. Literature Notes/Topics/A pressa te leva para a morte.md",
-    "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
