@@ -17,9 +17,12 @@ A maior parte das suas funções são: pensamento, juízo crítico, evocação (
 
 Usamos apenas 10% da mente consciente
 - Capacidade de raciocínio
+	- Raciocínio é pensar de forma eficaz
+	- Planejamento: planos, análises, estratégias, organização e método
+	- Tomada de decisões
 - Capacidade de juízo crítico
 - Memória de curto prazo
-Somos formados 90
+Somos formados 90% da nossa mente subconsciente e inconsciente.
 
 **COMO:**
 
