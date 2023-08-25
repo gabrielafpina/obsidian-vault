@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md"
+                "file": "2. Literature Notes/Topics/Meu Destino Preferido.md"
               }
             }
           },
@@ -297,11 +297,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dd6dff8de7df4f1",
+  "active": "037714a9f8065da1",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
-    "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
