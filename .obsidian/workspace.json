@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md"
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md"
               }
             }
           },
@@ -273,10 +273,12 @@
       }
     ]
   },
-  "active": "44d0b0c1d5c2a5dc",
+  "active": "53aebfab6d5179a1",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Teorias sobre o Aparelho Psíquico.md",
+    "2. Literature Notes/Topics/2ª Teoria do Aparelho Psíquico.md",
     "Untitled.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
     "7. Creator/Métodos",
@@ -301,8 +303,6 @@
     "2. Literature Notes/Topics/O caminho do meio é o caminho do equilíbrio.md",
     "Tudo comunica.md",
     "7. Creator/Reels/Eu tirei essa palavra do meu vocabulário.md",
-    "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
-    "2. Literature Notes/Topics/Como fazer uma posse consciente?.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",

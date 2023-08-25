@@ -9,7 +9,7 @@
 **COMO:**
 
 **PENSADORES:**
-- [[sigm]]
+- [[Sigmund Freud]]
 
 **FRASES:**
 

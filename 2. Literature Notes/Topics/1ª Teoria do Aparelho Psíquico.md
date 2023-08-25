@@ -13,7 +13,7 @@
 - **Pré-consciente**
     - É o mesmo que o _subconsciente_.
     - Mente que detém a memória de curto, médio e longo prazo. Memória = conhecimento armazenado.
-- **Inconsciente**
+- **[[Inconsciente]]**
     - Algo mais profundo. Temos apenas as informações do recalcado, do reprimido, de muitos traumas e coisas que estão la que eu bloqueei e eu não quero pensar. É um sistema de defesa.
     - No inconsciente não tem nada de bom, só coisas negativas. As coisas boas estão no subconsciente.
 
@@ -31,6 +31,7 @@
 
 **Norte: ideia/pergunta**
 - Teoria da evolução de Darwin na concepção do inconsciente
+- [[Senso Comum]]
 
 **Sul: para onde vai**
 - [[necessidades emocionais]]
