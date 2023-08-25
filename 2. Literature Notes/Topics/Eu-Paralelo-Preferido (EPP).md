@@ -61,6 +61,7 @@ Quando acessar tudo o que o seu eu-paralelo preferido já fez e que você quer s
 - [[O micro é igual ao macro]]
 - [[Tudo é uma escolha]]
 - [[Lei da Vibração]]
+- [[O que é o método LCA?]]
 
 **Sul: para onde vai**
 - [[Como eu descubro a frequência de algo?]]
