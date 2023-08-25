@@ -13,7 +13,13 @@ Fato fugaz. É muito rápida a informação que passa por aqui. É o que acontec
 
 Se destaca o fenômeno da percepção e, principalmente, da percepção do mundo exterior, que você acaba internalizando, muitas vezes.
 
-A maior parte das suas funções são: pensamento, juízo crítico, evocação (fazer pedidos e desejar algo), atividade motora, etc. Embora esteja intimamente ligada com o [[Inconsciente]], está também sempre em oposição a ele.
+A maior parte das suas funções são: pensamento, juízo crítico, evocação (fazer pedidos e desejar algo), atividade motora, etc. Embora esteja intimamente ligada com o [[Inconsciente]] (parte recalcada e reprimida), está também sempre em oposição a ele.
+
+Usamos apenas 10% da mente consciente
+- Capacidade de raciocínio
+- Capacidade de juízo crítico
+- Memória de curto prazo
+Somos formados 90
 
 **COMO:**
 

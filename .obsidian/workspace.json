@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "cb501a0725073cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Parts Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50fe9fd6074839d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7aa80dcfd3e2ec66",
             "type": "leaf",
             "state": {
@@ -92,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+                "file": "Consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+                "file": "Consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md"
+                "file": "Consciente.md"
               }
             }
           },
@@ -271,10 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50fe9fd6074839d7",
+  "active": "fe691add9e958ad8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A consciência é um rio.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+    "2. Literature Notes/Topics/A consciência é um rio.md",
     "2. Literature Notes/Topics/Parts Work.md",
     "Consciente.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
