@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "350c335128ca5710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc46d3b06cc21c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2997a9c06947e29",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -228,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md"
+                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md"
               }
             }
           },
@@ -308,8 +333,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e037ecb43db0ba15",
+  "active": "fc46d3b06cc21c0c",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+    "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
@@ -335,9 +362,7 @@
     "2. Literature Notes/Topics/'A vida é como um rio'.md",
     "2. Literature Notes/Topics/Existem 4 níveis de consciência.md",
     "2. Literature Notes/Topics/Cada um alcança a vista da montanha que subir.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
-    "2. Literature Notes/Topics/Lei do Ritmo.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
