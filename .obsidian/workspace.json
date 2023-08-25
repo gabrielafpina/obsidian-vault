@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8b451c658b9aa194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2997a9c06947e29",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md"
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md"
               }
             }
           },
@@ -272,12 +284,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd984d83a5e8e3a3",
+  "active": "8b451c658b9aa194",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Parts Work.md",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem/Escopo do Encontro.md",
-    "Consciente.md",
     "2. Literature Notes/Topics/Entrar em Cada Perspectiva.md",
+    "2. Literature Notes/Topics/Parts Work.md",
+    "Consciente.md",
     "2. Literature Notes/Topics/A consciência é um rio.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
