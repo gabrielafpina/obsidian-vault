@@ -10,7 +10,10 @@
 - **Consciente**
     - Mente receptora. Você capta as informações do mundo externo e interno e manda para o pré-consciente.
 	    - Tem a função de recepcionar as informações provenientes dos instintos, necessidades ou motivações vindas do exterior e do interior do indivíduo.
+	    - Recepciona as informações de acordo com o prazer ou desprazer que elas causam [[Princípio do Prazer e Princípio da Realidade]]
     - Fato fugaz. É muito rápida a informação que passa por aqui. É o que acontece no momento presente.
+	    - Não é responsável pelos registros de informações, apenas passam as impressões. Ela é responsável pelo momento presente.
+	- Se destaca o fenômeno da percepção e, principalmente, da percepção do mundo exterior.
 - **Pré-consciente**
     - É o mesmo que o _subconsciente_.
     - Mente que detém a memória de curto, médio e longo prazo. Memória = conhecimento armazenado.
