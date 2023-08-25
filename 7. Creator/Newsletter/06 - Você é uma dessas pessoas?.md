@@ -23,7 +23,11 @@ Não. Não tinha consciência e acabou vivendo a vida do outro. Não tinha consc
 
 Eu conheço um pouco sobre você, porque eu conheço muito sobre mim. E se você está aqui, agora, comigo, na minha newsletter, eu sei que você *está longe de querer viver essa vida* completamente fadada ao fracasso. Eu vou falar por mim. Me dá **pânico** só de pensar que esse poderia ser o meu futuro. Tô fora!
 
+Por isso, eu estudei profundamente o que faz uma pessoa se autossabotar, procrastinar e colocar as necessidades do outro acima das suas. Como eu já fiz muito isso, era do meu melhor interesse **aprender como viver uma vida diferente**.
 
+Eu encontrei a solução e quero compartilhá-la com você. Na verdade, eu e mais de 40 pessoas já embarcamos nessa jornada para Eliminar a Autossabotagem. É uma honra ter você aqui no meu Correio. Agora, seria uma honra ainda maior ter você no nosso grupo.
+
+Quero que você conheça o Workshop que eu criei '**Quebrando o Hábito da Autossabotagem**'. Eu coloquei toda a dedicação e amor que habitam dentro de mim para criar uma aula *poderosíssima*
 
 **LINKS IMPORTANTES:**
 - [[Você está pensando ou você está sendo pensado?]]
