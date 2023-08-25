@@ -1,6 +1,6 @@
-**ASSUNTO:**
+**ASSUNTO:** Você é uma dessas pessoas?
 
-**PRÉ-HEADER:**
+**PRÉ-HEADER:** Eu espero que não, ou o futuro que te aguarda é sombrio...
 
 **CONTEÚDO:**
 Oi, [FNAME]! Cheguei com mais uma **mensagem de consciência para você**!
@@ -19,7 +19,11 @@ E é justamente por isso que **o autoconhecimento é tão importante**! Porque s
 
 Também acho muito triste. Fico triste ao ver que tantas pessoas estão desperdiçando os seus sonhos e a sua *vida inteira*, ao deixar de lado aquilo que **lá dentro** importa para elas. É triste pensar que grande parte do mundo vai chegar no último dia de suas vidas e vai se arrepender de não ter investido mais em si mesmo, de não ter se conhecido mais e de não ter vivido **a sua própria Verdade**. 
 
-Não. Não tinha consciência e acabou vivendo a vida do outro. Não tinha consciência e quando olha para trás vê tudo que poderia ter feito de diferente, mas não fez. Não tinha consciência 
+Não. Não tinha consciência e acabou vivendo a vida do outro. Não tinha consciência e quando olha para trás vê tudo que poderia ter feito de diferente, mas não fez. Não tinha consciência e se perdeu completamente querendo agradar todos ao seu redor, enquanto se sentia completamente infeliz.
+
+Eu conheço um pouco sobre você, porque eu conheço muito sobre mim. E se você está aqui, agora, comigo, na minha newsletter, eu sei que você *está longe de querer viver essa vida* completamente fadada ao fracasso. Eu vou falar por mim. Me dá **pânico** só de pensar que esse poderia ser o meu futuro. Tô fora!
+
+
 
 **LINKS IMPORTANTES:**
 - [[Você está pensando ou você está sendo pensado?]]
