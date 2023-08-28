@@ -20,7 +20,7 @@ Essa ferramenta é o que me garante se determinada pessoa está no cargo certo e
 
 Muitas vezes, a pessoa tem a possibilidade de fazer algo, mas foi uma adaptação que ela fez para sobreviver. Eu me vejo muito nesse lugar.
 
-Testes importantes como esse: [[Eneagrama]], [[MBTI]], preferência cerebral.
+Testes importantes como esse: [[Resultado Ga Eneagrama]], [[MBTI]], preferência cerebral.
 
 **COMO:**
 

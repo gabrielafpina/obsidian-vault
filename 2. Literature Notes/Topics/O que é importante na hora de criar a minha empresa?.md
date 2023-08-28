@@ -11,7 +11,7 @@
 	3. A forma como você vive
 **2. Descrição de cargos e atividades**
 	1. O que a pessoa faz; se a pessoa sair, como deve ser a pessoa que deve entrar?; como deve ser o perfil dessa pessoa;
-	2. Testes: [[Eneagrama]], [[MBTI]], preferência cerebral, [[Âncoras de Carreira]].
+	2. Testes: [[Resultado Ga Eneagrama]], [[MBTI]], preferência cerebral, [[Âncoras de Carreira]].
 **3. Indicadores de desempenho** 
 
 **COMO:**
