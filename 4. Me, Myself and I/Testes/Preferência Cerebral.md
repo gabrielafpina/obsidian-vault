@@ -7,7 +7,7 @@ Esse é um teste que tem bastante possibilidade de alteração de acordo com o s
 - 1B - Lobo - organizador - fazer certo
 
 **ÁGUIA:**
-Hemisfério direito idealizador do cérebro. *Emocional*
+Hemisfério direito idealizador do cérebro. *Emocional*. Ideias.
 - Pessoas que tem muitas ideias.
 - **Lema**: fazer diferente. Gosta de fazer coisas muito diferentes. Quanto maior a pontuação na letra A, mais a pessoa gosta de fazer coisas diferentes, com todas as pessoas e em todas as áreas da vida.
 - **O que as move?** Criatividade e liberdade.
@@ -17,7 +17,7 @@ Hemisfério direito idealizador do cérebro. *Emocional*
 - **Como motivar essa pessoa?** Liberdade de expressão - ouvir o que essa pessoa tem para falar, porque ela geralmente tem muito a acrescentar, já leu muitos livros, fez muitos cursos, tem muitas experiências de vida, fez muitos cursos. Essa pessoa se expressar; ausência de controles rígidos; ambiente de trabalho descentralizado; oportunidade para delegar tarefas e detalhes - essas pessoas pegam as atividades para fazerem e quando delegam, delegam com leveza.
 
 **GOLFINHO:**
-Hemisfério direito comunicador do cérebro. *Emocional*
+Hemisfério direito comunicador do cérebro. *Emocional*. Comunicação.
 - **Lema:** fazer junto com o outro. tem prazer e engajamento em fazer tudo com todos.
 - **O que move?** felicidade e igualdade (pensa nos outros). em um baixo nível de consciência faz, não porque quer ajudar o outro, mas porque quer agradar. tem a tendência de esquecer de si e fazendo pelos outros, colocando a felicidade do outro antes da sua.
 - **Quais são os comportamentos?** sensível; bons relacionamentos; equipe; tradicionalismo - segue tradições; contribuição onde quer que esteja - até mesmo com doações; busca harmonia; delega com autoridade inspiracional.
@@ -26,7 +26,7 @@ Hemisfério direito comunicador do cérebro. *Emocional*
 - **Como motivar essa pessoa?** passando segurança; aceitação social - gosta de se sentir aceito; construir o consenso; reconhecimento da equipe; supervisão compreensiva- ele precisa dessa compreensão e se sente bem a ter essa supervisão compreensiva com os seus funcionários também; ambiente harmônico; trabalho em grupo.
 
 **TUBARÃO:**
-Hemisfério esquerdo executor do cérebro. *Racional*. 
+Hemisfério esquerdo executor do cérebro. *Racional*. Execução.
 - **Lema:** Fazer rápido
 - **O que move?** Ação e resultados. Age de acordo com o resultado que obter.
 - **Quais são os comportamentos?** Senso de urgência; ação e iniciativa; impulsivos e práticos; vencer desafios - colocam desafios para eles mesmos se vencerem; foco no futuro; auto suficiente; não gosta de delegar poder - deixa que eu faço, eu faço bem e faço mais rápido do que qualquer pessoa.
@@ -36,7 +36,7 @@ Hemisfério esquerdo executor do cérebro. *Racional*.
 - **Como motivar essa pessoa?** Liberdade para agir individualmente; controle das próprias atividades; resolver os problemas do seu jeito; competição individual; não ter que repetir tarefas - operacional é a morte, ele é muito autônomo, eficiente.
 
 **LOBO:**
-Hemisfério esquerdo organizador do cérebro. *Racional*
+Hemisfério esquerdo organizador do cérebro. *Racional*. Planejamento.
 - **Lema:** fazer certo. Tem muita questão com a organização e com a conclusão das coisas. Grande padrão de terminar tudo o que começa.
 - **O que move?** ordem; controle; segurança.
 - **Quais são os comportamentos?** detalhista; organizado; planejado; busca conhecimento; pontual; conservador; metódico; previsível. Muito responsável, profissional e dedicado. Tem um alto senso de responsabilidade e auto cobrança.
