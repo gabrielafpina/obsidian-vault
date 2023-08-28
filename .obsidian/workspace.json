@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md"
+                "file": "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md"
               }
             }
           },
@@ -307,19 +307,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7d03f0cb24d6c15",
+  "active": "0a9212df3b33c9cf",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é o método LCA?.md",
+    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
-    "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
-    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "7. Creator/Newsletter/06 - Você é uma dessas pessoas?.md",
