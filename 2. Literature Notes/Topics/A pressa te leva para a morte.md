@@ -13,6 +13,8 @@ A pressa vem para compensar o que você não está fazendo e você é o único r
 
 Toda pressa é uma compensação de uma coisa que você não está fazendo bem feito.
 
+Se eu tenho pressa de viver, eu tenho pressa de morrer. Por isso, escolho viver no presente. [[Tudo acontece no aqui e agora]].
+
 **COMO:**
 
 **PENSADORES:**
