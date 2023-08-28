@@ -26,14 +26,14 @@ Hemisfério direito comunicador do cérebro. *Emocional*
 - **Como motivar essa pessoa?** passando segurança; aceitação social - gosta de se sentir aceito; construir o consenso; reconhecimento da equipe; supervisão compreensiva- ele precisa dessa compreensão e se sente bem a ter essa supervisão compreensiva com os seus funcionários também; ambiente harmônico; trabalho em grupo.
 
 **TUBARÃO:**
-Hemisfério esquerdo executor do cérebro.
+Hemisfério esquerdo executor do cérebro. *Racional*. 
 - **Lema:** Fazer rápido
 - **O que move?** Ação e resultados. Age de acordo com o resultado que obter.
 - **Quais são os comportamentos?** Senso de urgência; ação e iniciativa; impulsivos e práticos; vencer desafios - colocam desafios para eles mesmos se vencerem; foco no futuro; auto suficiente; não gosta de delegar poder - deixa que eu faço, eu faço bem e faço mais rápido do que qualquer pessoa.
-	- Quanto mais baixo o nível de consciência, mas eles tem uma grande necessidade de centralização.
+	- Quanto mais baixo o nível de consciência, mas eles tem uma grande necessidade de centralização. É muito racional. 
 - **Quais são as qualidades e pontos fortes?** Fazer acontecer; parar com a burocracia; fácil motivação - eles se auto motivam; foco no futuro; centralização única; fazer o que é necessário para chegar ao objetivo final.
-- **Quais são os pontos a desenvolver?** 
-- **Como motivar essa pessoa?** 
+- **Quais são os pontos a desenvolver?** Socialmente difícil; Faz tudo do modo mais fácil; relacionamento complicado; age e depois pensa; impaciência; ansioso; inquietos.
+- **Como motivar essa pessoa?** Liberdade para agir individualmente; controle das próprias atividades; resolver os problemas do seu jeito; competição individual; não ter que repetir tarefas - operacional é a morte, ele é muito autônomo, eficiente.
 
 **LOBO:**
 Hemisfério esquerdo organizador do cérebro. *Racional*
