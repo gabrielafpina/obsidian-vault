@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c6001c6cef29ac26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4702a4f26fbb79da",
             "type": "leaf",
             "state": {
@@ -140,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md"
+                "file": "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md"
               }
             }
           },
@@ -319,10 +307,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97947f4fd6fe1084",
+  "active": "4702a4f26fbb79da",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
+    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
+    "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
@@ -331,7 +320,6 @@
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
-    "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "7. Creator/Newsletter/06 - Você é uma dessas pessoas?.md",
