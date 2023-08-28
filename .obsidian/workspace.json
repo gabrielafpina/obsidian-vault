@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
+                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
+                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md"
+                "file": "2. Literature Notes/Topics/Quais são todos os seus desejos?.md"
               }
             }
           },
@@ -319,8 +319,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6001c6cef29ac26",
+  "active": "97947f4fd6fe1084",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
@@ -331,7 +332,6 @@
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-    "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "7. Creator/Newsletter/06 - Você é uma dessas pessoas?.md",
