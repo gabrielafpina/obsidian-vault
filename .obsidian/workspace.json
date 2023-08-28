@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md",
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O tempo é uma ilusão.md"
+                "file": "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md"
               }
             }
           },
@@ -319,8 +319,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5888f02cc75c2753",
+  "active": "bd508f491f331226",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
+    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
@@ -329,8 +331,6 @@
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
     "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "2. Literature Notes/Topics/existem 2 tipos de autoconhecimento.md",
-    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/O ser humano busca o prazer ou foge da dor.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
