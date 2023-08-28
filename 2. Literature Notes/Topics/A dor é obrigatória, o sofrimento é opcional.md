@@ -27,3 +27,4 @@ A dor é natural de todo ser humano. O sofrimento, não. O sofrimento é uma esc
 - [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
+[[Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso.]]
