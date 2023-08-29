@@ -41,7 +41,10 @@ A forma como você enxergava a figura materna e paterna pode estar atrelada ao s
 [[O que te incomoda é o que falta em você, ou é um espelho]].
 
 **INSTINTOS:**
-Se você não sabe qual é a ordem dos seus instintos, você provavelmente está mal identificado. O instinto bem antes do seu tipo, ele é visceral.
+Se você não sabe qual é a ordem dos seus instintos, você provavelmente está mal identificado. O instinto vem antes do seu tipo, ele é visceral.
+
+Estão relacionados às forças da natureza.
+1. 
 
 **FRASES:**
 
