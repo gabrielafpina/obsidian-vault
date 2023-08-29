@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+![[eneagrama_02-1024x786.png]]
 O eneagrama é um manual de funcionamento e instrução da nossa alma, que me ajuda a identificar quem eu sou.
 
 Ele deriva do [[O Quarto Caminho]], que explica que somos essência pura. Nascemos Essência, uma alma. E na jornada de desenvolvimento e crescimento da máquina, do corpo, vão se criando cascas. A essência por si só não conseguiria viver no mundo onde vivemos naturalmente. Ela é muito pura para experienciar. Por isso, o [[Ego]] é necessário para a sobrevivência, para o desenvolvimento da essência.
@@ -62,6 +63,7 @@ Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, 
 	Pode ser que você troque o dominante pelo intermediário em determinada hora da sua vida. O reprimido tende a ser sempre o reprimido.
 ![[Captura de Tela 2023-08-28 às 22.36.50.png]]
 ==**Aprofundar estudando sobre contratipo de cada eneagrama.**==
+**Aprofundar em flechas e contraflechas.**
 
 **TIPOS E INSTINTOS:**
 Tipos e seus instintos dominantes.
@@ -69,6 +71,8 @@ Tipos e seus instintos dominantes.
 ![[Captura de Tela 2023-08-28 às 22.41.27.png]]
 ![[Captura de Tela 2023-08-28 às 22.43.23.png]]
 
+**FLECHAS:**
+As flechas tem muito poder dentro de nós. Esses movimentos são muito sutis.
 
 ---------
 
