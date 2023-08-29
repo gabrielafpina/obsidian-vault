@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1ff9efdf8871f64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 perguntas para encontrar seus valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ebb657f61c33c6af",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "file": "13 perguntas para encontrar seus valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "file": "13 perguntas para encontrar seus valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md"
+                "file": "13 perguntas para encontrar seus valores.md"
               }
             }
           },
@@ -295,16 +307,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f69d6252e399fa5c",
+  "active": "1ff9efdf8871f64e",
   "lastOpenFiles": [
-    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Exercício Jogo dos Porquês.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Lista de possíveis valores.md",
     "Qual a diferença entre valores pessoais e características?.md",
     "13 perguntas para encontrar seus valores.md",
-    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "Meditação guiada para compreensão de valores.md",
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
