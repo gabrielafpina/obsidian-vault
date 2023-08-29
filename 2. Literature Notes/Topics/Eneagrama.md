@@ -26,8 +26,8 @@ A forma como você enxergava a figura materna e paterna pode estar atrelada ao s
 
 **TIPOS:**
 8, 9 e 1 são a tríade corporal, físico. Energia central desses tipos é sobre o valor como pessoa, o quanto eu me sinto valorizado.
-2, 3 e 4 são os emocionais, da imagem - busca reconhecimento, afeto e identidade nos outros, porque . Aqui, a questão central é sobre o amor. O quanto eu me senti amado e o quanto a energia fluía dos meus pais para mim.
-5, 6 e 7 são mentais. Aqui, a questão central é sobre proteção.
+2, 3 e 4 são os emocionais, da imagem - busca reconhecimento, afeto e identidade nos outros, porque sente uma dor muito forte de amor-próprio e baixa autoestima, porque tem muito medo de entrar em contato com a sensação do abandono e da rejeição. Aqui, a questão central é sobre o amor. O quanto eu me senti amado e o quanto a energia fluía dos meus pais para mim.
+5, 6 e 7 são mentais. Aqui, a questão central é sobre proteção. Medo é a energia de base e se distorce em muita ansiedade.
 1. **Tipo 1**: falta de valor da figura paterna.
 2. **Tipo 2:** sentiu a falta do amor paterno.
 3. **Tipo 3:** sentiu a falta de amor da figura materna.
@@ -40,7 +40,8 @@ A forma como você enxergava a figura materna e paterna pode estar atrelada ao s
 
 [[O que te incomoda é o que falta em você, ou é um espelho]].
 
-**PENSADORES:**
+**INSTINTOS:**
+Se você não sabe qual é a ordem dos seus instintos, você provavelmente está mal identificado. O instinto bem antes do seu tipo, ele é visceral.
 
 **FRASES:**
 
