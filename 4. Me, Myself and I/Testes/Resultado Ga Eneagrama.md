@@ -3,5 +3,5 @@
 
 **INSTINTOS**
 - Dominante: Sexual
-- Intermediário: Auto preservação
-- Reprimido: Social
+- Intermediário: Auto preservação (dúvida)
+- Reprimido: Social (dúvida)
