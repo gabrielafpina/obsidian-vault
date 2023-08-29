@@ -15,6 +15,15 @@ Você é um único eneagrama ao longo de toda a sua vida. Talvez, você descubra
 
 A melhor forma de identificar qual é o seu eneatipo é através da **motivação**, o que me motiva a agir dessa forma. A sombra é algo muito importante de se observar também. Porque transitamos dentro dos comportamentos dos 9 eneatipos ao longo da vida.
 
+Existem duas vertentes:
+1. Você vai desenvolver o seu eneatipo na infância, de acordo com as situações que a sua [[Criança Interior]] vai experienciar;
+2. Você já vem com a programação de fábrica. Ou seja, antes de descer você já sabe qual eneatipo você ´é, quais situações você vai encarar durante a sua experiencia corporal.
+Ambas falam da revelação do tipo na infância, que é onde está a grande chave de transformação - o que aconteceu com essa criança, como ela encarou os desafios, o que ela fez para sobreviver na primeira infância, onde estão os traumas, onde estão eles, como identificar e ressignificá-los agora.
+
+A forma como você enxergava a figura materna e paterna pode estar atrelada ao seu eneatipo.
+- Figura paterna: tem a ver com proteção, segurança e regras;
+- Figura materna: amor, carinho, afeto e atenção.
+
 **COMO:**
 
 **PENSADORES:**
