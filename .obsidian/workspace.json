@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "8eedc9ac7ec2d341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como alinhar seus valores reais e ideais?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e2b90859c4334fc6",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pessoas curadas",
+                "query": "SYSTEM TRASH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priorização de Valores.md",
+                "file": "Como alinhar seus valores reais e ideais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Priorização de Valores.md",
+                "file": "Como alinhar seus valores reais e ideais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Priorização de Valores.md"
+                "file": "Como alinhar seus valores reais e ideais?.md"
               }
             }
           },
@@ -260,11 +272,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2234748800fcdabc",
+  "active": "8eedc9ac7ec2d341",
   "lastOpenFiles": [
-    "13 perguntas para encontrar seus valores.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Como alinhar seus valores reais e ideais?.md",
     "Priorização de Valores.md",
+    "13 perguntas para encontrar seus valores.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
@@ -293,7 +306,6 @@
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
-    "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
