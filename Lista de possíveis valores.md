@@ -85,6 +85,7 @@
 78. Nostalgia
 79. Sensação de Superioridade
 80. Evitação de Responsabilidade
+81. Independência financeira
 
 **COMO:**
 

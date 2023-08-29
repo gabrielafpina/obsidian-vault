@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "13 perguntas para encontrar seus valores.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Lista de possíveis valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Lista de possíveis valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
+                "file": "Lista de possíveis valores.md"
               }
             }
           },
@@ -272,10 +272,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa60fea06389fc9d",
+  "active": "d4e779839bc442d3",
   "lastOpenFiles": [
-    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "13 perguntas para encontrar seus valores.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "Lista de possíveis valores.md",
     "2. Literature Notes/People/Jay Shetty.md",
@@ -305,7 +306,6 @@
     "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "2. Literature Notes/Topics/Os seus desejos são reais ou ilusórios?.md",
-    "2. Literature Notes/Topics/Quais são todos os seus desejos?.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",

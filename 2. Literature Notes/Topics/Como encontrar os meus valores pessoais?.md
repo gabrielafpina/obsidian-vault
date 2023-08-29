@@ -37,7 +37,7 @@
 ---------
 
 **Oeste: similar**
-- [[12 perguntas para enco]]
+- [[13 perguntas para encontrar seus valores]]
 
 **Leste: oposto**
 
