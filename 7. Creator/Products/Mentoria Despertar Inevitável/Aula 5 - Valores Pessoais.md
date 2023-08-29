@@ -11,6 +11,7 @@
 5. [[Como alcançar um maior estado de engajamento e satisfação na vida?]]
 6. [[O que são Metas SMART?]]
 	1. [[Como fazer uma meta SMART?]]
+7. [[Meditação guiada para compreensão de valores]]
 
 **CCM:**
 1. Fazer MBTI
