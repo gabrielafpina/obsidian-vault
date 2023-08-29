@@ -57,6 +57,8 @@
 **Explicação**: Os temas que você busca para aprender mais também são indicadores de seus valores. 
 **Exemplo**: Se você adora ler sobre psicologia, é provável que valorize o entendimento humano.
 
+Ao final desse exercício: [[Priorização de Valores]].
+
 **COMO:**
 
 **PENSADORES:**
