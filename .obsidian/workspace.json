@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa60fea06389fc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Eneagrama.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Eneagrama.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Eneagrama.md"
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
               }
             }
           },
@@ -200,8 +212,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29fe7ea67f18d253",
+  "active": "fa60fea06389fc9d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Eneagrama.md",
+    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Captura de Tela 2023-08-28 às 23.00.23.png",
     "eneagrama_02-1024x786.png",
     "Captura de Tela 2023-08-28 às 22.43.23.png",
@@ -209,7 +223,6 @@
     "Captura de Tela 2023-08-28 às 22.39.39.png",
     "Captura de Tela 2023-08-28 às 22.36.50.png",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
-    "2. Literature Notes/Topics/Eneagrama.md",
     "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "2. Literature Notes/Topics/Pessoas curadas curam pessoas. Pessoas feridas sangram em cima de quem não as feriu.md",
@@ -243,7 +256,6 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
-    "6. Shots, Images & PDFs/WhatsApp Image 2023-07-26 at 23.39.45.jpeg",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "7. Creator/Products/E-book Como Começar a Se Conhecer",
