@@ -46,15 +46,20 @@ Se você não sabe qual é a ordem dos seus instintos, você provavelmente está
 Estão relacionados às forças da natureza.
 1. **Auto-Preservação:** é um instinto que tem como principal função me manter vivo. Perpetuar a vida. Se preocupa de eu comigo mesmo. Relacionado ao cérebro reptiliano.
 	1. Ligado à força de manutenção, seja do meu corpo, da minha casa, da minha vida e da minha integridade física. A energia contida se preserva, economiza. Ela age com a ideia de manutenção da vida. Ex: quando em excesso, muita preocupação com dinheiro, deixa dinheiro guardado e pode se tornar um escravo do dinheiro.
-	2. Ansiedade; preocupação com segurança material; cuidado com dinheiro, saúde, roupas.
+	2. Dominante: Ansiedade; preocupação com segurança material; cuidado com dinheiro, saúde, roupas.
+	3. Reprimido: falta de regras, nada de conforto, nada de bem-estar, as coisas sem limite, nada de estabilidade.
 2. **Procriação/Sexual:** é o instinto que vai fazer com que os seres se reproduzam e perpetuem a espécie. Se preocupa com o outro. Relacionado ao cérebro límbico.
 	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário.
-	2. Força de materialização muito potente. Forte energia de intensidade.
+	2. Dominante: Força de materialização muito potente. Forte energia de intensidade. Busca conexão com as pessoas, parceiro, experiências com muita intensidade
+	3. Reprimido: falta de entusiasmo, intensidade, vigor, tesão pela vida, atração, criação.
 3. **Social:** está relacionado à vida em comunidade. Se preocupa com todos. Relacionado ao neocórtex.
 	1. Tem a ver com a força da união do grupo, de compartilhar, de irmandade. Energia da criação de uma comunidade. Quando existe a percepção de que um grupo é Um. [[todos somos um]]. Tem a ver com dedicação a uma causa.
 	2. Tem uma tendência a se auto anular/abandonar para o outro.
+	3. Dominante: Preocupação em ser aceita em um grupo; se sentir necessária ao mundo, ser importante; reconhecimento; fazer parte de algo maior. 
+	4. Reprimido: falta ao hábito de olhar e cuidar do outro, falta de comunicação, falta de interação, falta de doação, de compromisso comunitário.
 Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, porque se não eu sou refém de dois, do dominante e do reprimido. Eles exercem uma influência muito grande na minha forma de viver a vida.
 	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário, fazendo ele de escravo, para materializar uma necessidade do dominante, para se auto satisfazer.
+	Pode ser que você troque o dominante pelo intermediário em determinada hora da sua vida.
 
 **FRASES:**
 
