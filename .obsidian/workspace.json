@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "Qual a diferença entre valores pessoais e características?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "Qual a diferença entre valores pessoais e características?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md"
+                "file": "Qual a diferença entre valores pessoais e características?.md"
               }
             }
           },
@@ -270,10 +271,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dc42c14aa11b55e",
+  "active": "887a76d2fefb3b6c",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "13 perguntas para encontrar seus valores.md",
     "Qual a diferença entre valores pessoais e características?.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
