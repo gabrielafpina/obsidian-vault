@@ -73,6 +73,7 @@ Tipos e seus instintos dominantes.
 
 **FLECHAS:**
 As flechas tem muito poder dentro de nós. Esses movimentos são muito sutis.
+A contraflecha normalmente é o caminho de cura.
 
 ---------
 
