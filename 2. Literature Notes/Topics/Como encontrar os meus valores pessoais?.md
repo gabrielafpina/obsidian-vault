@@ -5,13 +5,28 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-De acordo com Jay Shetty, para compreender nossos valores, que muitas vezes podem ser intangíveis e complexos, podemos nos fazer duas perguntas principais:
+==**Etapa 1: Identificação de Valores Reais**==
+**Pergunta 1**: Como você gasta seu dinheiro?  
+**Ação**: Examine seus extratos bancários para identificar onde seu dinheiro está sendo gasto.
 
-1. **Como você gasta seu dinheiro?** Jay sugere que a forma mais dolorosa, mas eficaz, de descobrir o que você valoriza é examinar seus extratos bancários e ver onde seu dinheiro está sendo gasto.
-    
-2. **Como você gasta seu tempo?** Assim como o dinheiro, o tempo é um recurso que gastamos, e a forma como o gastamos revela muito sobre o que valorizamos.
-    
-O conceito de valores de Jay Shetty é bastante prático. Ele afirma que o que você valoriza não está necessariamente no que você pensa, sente ou acredita, mas sim em como você gasta seu dinheiro e seu tempo. Ele sugere que essas são as duas maneiras mais perfeitas de ver o que você realmente valoriza na vida.
+**Pergunta 2**: Como você gasta seu tempo?  
+**Ação**: Mantenha um registro do seu tempo durante uma semana, anotando todas as atividades e quanto tempo você gasta nelas.
+
+
+**==Etapa 2: Identificação de Objetivos Atuais==**
+**Pergunta 3**: Quais são as três coisas que você está atualmente buscando na vida?  
+**Ação**: Escreva três objetivos ou aspirações que você está atualmente buscando, como uma promoção, uma nova casa, etc.
+
+**Pergunta 4**: Esse desejo ou sonho vem de você ou de algo externo?  
+**Ação**: Reflita sobre se esses objetivos são realmente seus ou se são influenciados por pressões externas, como expectativas familiares ou comparações sociais.
+
+**==Etapa 3: Reavaliação e Alinhamento==**
+**Pergunta 5**: Você ainda quer seguir esse objetivo?  
+**Ação**: Pergunte a si mesmo se você ainda quer seguir esses objetivos, se quer mudar a forma como os persegue, ou se não quer persegui-los de todo.
+
+**Pergunta 6**: Seus objetivos e valores estão alinhados?  
+**Ação**: Compare seus objetivos atuais com os valores identificados na Etapa 1. Se houver um desalinhamento, considere ajustar seus objetivos para que eles estejam mais alinhados com seus valores reais e ideais.
+
 
 **COMO:**
 
@@ -29,3 +44,4 @@ O conceito de valores de Jay Shetty é bastante prático. Ele afirma que o que v
 
 **Sul: para onde vai**
 - [[Identificando valores reais e ideais]]
+- [[Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento]]
