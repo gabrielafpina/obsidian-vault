@@ -11,7 +11,7 @@ Ele deriva do [[O Quarto Caminho]], que explica que somos essência pura. Nascem
 
 O caminho é fazer o caminho de volta para a essência, para Deus. E o eneagrama nos ajuda a descascar as capas que criamos ao longo da vida.
 
-
+Você é um único eneagrama ao longo de toda a sua vida. Talvez, você descubra que você é um eneagrama que você não sabia que era.
 
 **COMO:**
 
