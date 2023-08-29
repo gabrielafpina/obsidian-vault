@@ -20,19 +20,78 @@
             }
           },
           {
-            "id": "f940856c261ea730",
+            "id": "96c9dd1eefcd51e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "13 perguntas para encontrar seus valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "887a76d2fefb3b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f69d6252e399fa5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03348950f5e8521f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47105dde3240e978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercício Jogo dos Porquês.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ede475224f65f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md"
               }
             }
           },
@@ -211,25 +270,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f940856c261ea730",
+  "active": "9dc42c14aa11b55e",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
-    "Meditação guiada para compreensão de valores.md",
-    "Exercício Jogo dos Porquês.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "13 perguntas para encontrar seus valores.md",
+    "Qual a diferença entre valores pessoais e características?.md",
+    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
+    "Exercício Jogo dos Porquês.md",
+    "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
+    "Meditação guiada para compreensão de valores.md",
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-    "Qual a diferença entre valores pessoais e características?.md",
     "Como alinhar seus valores reais e ideais?.md",
     "Priorização de Valores.md",
-    "13 perguntas para encontrar seus valores.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
-    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "Lista de possíveis valores.md",
     "2. Literature Notes/People/Jay Shetty.md",
     "2. Literature Notes/Topics/Eneagrama.md",
@@ -244,7 +304,6 @@
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "2. Literature Notes/Topics/Pessoas curadas curam pessoas. Pessoas feridas sangram em cima de quem não as feriu.md",
     "2. Literature Notes/Topics/A pressa te leva para a morte.md",
-    "2. Literature Notes/Topics/A dor é obrigatória, o sofrimento é opcional.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
