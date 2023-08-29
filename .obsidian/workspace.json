@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa60fea06389fc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beb8827250ce55da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "701f6927a0a63b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9dc42c14aa11b55e",
             "type": "leaf",
             "state": {
@@ -56,115 +20,19 @@
             }
           },
           {
-            "id": "4ffee2e3ed6f5378",
+            "id": "f940856c261ea730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meditação guiada para compreensão de valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a4c1769bcf9139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercício Jogo dos Porquês.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb570e543fb9d0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e5c2b4f78546b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ab28484ea304ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como alinhar seus valores reais e ideais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e33daa584afd3873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8eedc9ac7ec2d341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como alinhar seus valores reais e ideais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2b90859c4334fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2234748800fcdabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Priorização de Valores.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SYSTEM TRASH",
+                "query": "metap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md"
               }
             }
           },
@@ -344,10 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dc42c14aa11b55e",
+  "active": "f940856c261ea730",
   "lastOpenFiles": [
-    "Meditação guiada para compreensão de valores.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Meditação guiada para compreensão de valores.md",
     "Exercício Jogo dos Porquês.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
