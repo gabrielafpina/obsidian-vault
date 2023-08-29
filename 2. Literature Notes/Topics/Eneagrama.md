@@ -4,8 +4,8 @@
 
 **BIG IDEA:** 
 
-**DEFINIÇÃO:**
-![[eneagrama_02-1024x786.png]]
+**DEFINIÇÃO:**![[Captura de Tela 2023-08-28 às 23.00.23.png]]
+
 O eneagrama é um manual de funcionamento e instrução da nossa alma, que me ajuda a identificar quem eu sou.
 
 Ele deriva do [[O Quarto Caminho]], que explica que somos essência pura. Nascemos Essência, uma alma. E na jornada de desenvolvimento e crescimento da máquina, do corpo, vão se criando cascas. A essência por si só não conseguiria viver no mundo onde vivemos naturalmente. Ela é muito pura para experienciar. Por isso, o [[Ego]] é necessário para a sobrevivência, para o desenvolvimento da essência.
