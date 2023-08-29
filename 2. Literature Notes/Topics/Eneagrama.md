@@ -46,6 +46,7 @@ Se você não sabe qual é a ordem dos seus instintos, você provavelmente está
 Estão relacionados às forças da natureza.
 1. **Auto-Preservação:** é um instinto que tem como principal função me manter vivo. Perpetuar a vida. Se preocupa de eu comigo mesmo. Relacionado ao cérebro reptiliano.
 	1. Ligado à força de manutenção, seja do meu corpo, da minha casa, da minha vida e da minha integridade física. A energia contida se preserva, economiza. Ela age com a ideia de manutenção da vida. Ex: quando em excesso, muita preocupação com dinheiro, deixa dinheiro guardado e pode se tornar um escravo do dinheiro.
+	2. Ansiedade; preocupação com segurança material; cuidado com dinheiro, saúde, roupas.
 2. **Procriação/Sexual:** é o instinto que vai fazer com que os seres se reproduzam e perpetuem a espécie. Se preocupa com o outro. Relacionado ao cérebro límbico.
 	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário.
 	2. Força de materialização muito potente. Forte energia de intensidade.
