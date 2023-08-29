@@ -66,6 +66,8 @@ Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, 
 **TIPOS E INSTINTOS:**
 Tipos e seus instintos dominantes.
 ![[Captura de Tela 2023-08-28 às 22.39.39.png]]
+![[Captura de Tela 2023-08-28 às 22.41.27.png]]
+![[Captura de Tela 2023-08-28 às 22.43.23.png]]
 
 
 ---------
