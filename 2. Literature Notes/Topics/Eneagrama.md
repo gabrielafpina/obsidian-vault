@@ -59,9 +59,14 @@ Estão relacionados às forças da natureza.
 	4. Reprimido: falta ao hábito de olhar e cuidar do outro, falta de comunicação, falta de interação, falta de doação, de compromisso comunitário.
 Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, porque se não eu sou refém de dois, do dominante e do reprimido. Eles exercem uma influência muito grande na minha forma de viver a vida.
 	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário, fazendo ele de escravo, para materializar uma necessidade do dominante, para se auto satisfazer.
-	Pode ser que você troque o dominante pelo intermediário em determinada hora da sua vida.
+	Pode ser que você troque o dominante pelo intermediário em determinada hora da sua vida. O reprimido tende a ser sempre o reprimido.
+![[Captura de Tela 2023-08-28 às 22.36.50.png]]
 
-**FRASES:**
+
+**TIPOS E INSTINTOS:**
+Tipos e seus instintos dominantes.
+![[Captura de Tela 2023-08-28 às 22.39.39.png]]
+
 
 ---------
 
