@@ -24,7 +24,19 @@ A forma como você enxergava a figura materna e paterna pode estar atrelada ao s
 - Figura paterna: tem a ver com proteção, segurança e regras;
 - Figura materna: amor, carinho, afeto e atenção.
 
-**COMO:**
+**TIPOS:**
+8, 9 e 1 são a tríade corporal, físico. Energia central desses tipos é sobre o valor como pessoa, o quanto eu me sinto valorizado.
+2, 3 e 4 são emocionais. Aqui, a questão central é sobre o amor. O quanto eu me senti amado e o quanto a energia fluía dos meus pais para mim.
+5, 6 e 7 são mentais. Aqui, a questão central é sobre proteção.
+1. **Tipo 1**: falta de valor da figura paterna.
+2. **Tipo 2:** sentiu a falta do amor paterno.
+3. **Tipo 3:** sentiu a falta de amor da figura materna.
+4. **Tipo 4:** sentiu a falta de amor de ambas as figuras.
+5. **Tipo 5:** sentiu falta da energia da proteção de ambas as figuras.
+6. **Tipo 6:** sentiu falta da energia da proteção da figura paterna
+7. **Tipo 7:** sentiu falta da energia da proteção da figura materna
+8. **Tipo 8:** quando a pessoa se identifica aqui, provavelmente ele teve ma distorção, uma falta de valor da figura materna.
+9. **Tipo 9:** falta de valor de ambas as figuras.
 
 **PENSADORES:**
 
