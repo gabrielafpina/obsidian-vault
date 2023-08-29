@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md"
               }
             }
           },
@@ -295,10 +294,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ff9efdf8871f64e",
+  "active": "9dc42c14aa11b55e",
   "lastOpenFiles": [
-    "Lista de possíveis valores.md",
     "13 perguntas para encontrar seus valores.md",
+    "Lista de possíveis valores.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
