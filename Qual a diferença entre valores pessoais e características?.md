@@ -17,6 +17,8 @@ Por exemplo, se um dos seus valores centrais é a "família", você pode prioriz
 **A CONEXÃO E A DIFERENÇA:**
 Agora, é verdade que características e valores podem estar relacionados. Usando o exemplo da pontualidade: se um dos seus valores é o respeito pelos outros, então ser pontual é uma maneira de expressar esse valor. No entanto, a pontualidade em si é uma característica, enquanto o desejo subjacente de respeitar o tempo dos outros é um valor.
 
+==As características são como os sintomas visíveis, enquanto os valores são a causa raiz.==
+
 **FRASES:**
 
 ---------

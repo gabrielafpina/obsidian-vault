@@ -16,7 +16,6 @@ Divida a meta em etapas menores e mais gerenciáveis.
     - Definir um horário para meditar todos os dias.
     - Monitorar o progresso e ajustar conforme necessário.
         
-
 3. **Definir Prazos para Cada Etapa:**
 Estabeleça prazos realistas para cada etapa.
 **Etapa 1**: Concluir a pesquisa até o final da primeira semana.

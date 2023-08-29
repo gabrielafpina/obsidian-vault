@@ -3,7 +3,8 @@
 
 **FONTE:**
 
-**VALORES REAIS X IDE:** 
+**VALORES REAIS X IDEAIS:** 
+É crucial entender que valores ideais são aqueles que gostaríamos de ter ou que a sociedade nos diz que deveríamos ter. Valores reais são aqueles que realmente guiam nossas decisões diárias e comportamentos, mesmo que não sejam socialmente ideais ou mesmo conscientemente reconhecidos.
 
 **ALINHANDO VALORES REAIS E IDEAIS:**
 1. **Comparação Lado a Lado**: Depois de identificar ambos os conjuntos de valores, coloque-os lado a lado e observe onde há desalinhamentos.
