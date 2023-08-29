@@ -48,9 +48,10 @@ Estão relacionados às forças da natureza.
 	1. Ligado à força de manutenção, seja do meu corpo, da minha casa, da minha vida e da minha integridade física. A energia contida se preserva, economiza. Ela age com a ideia de manutenção da vida. Ex: quando em excesso, muita preocupação com dinheiro, deixa dinheiro guardado e pode se tornar um escravo do dinheiro.
 2. **Procriação/Sexual:** é o instinto que vai fazer com que os seres se reproduzam e perpetuem a espécie. Se preocupa com o outro. Relacionado ao cérebro límbico.
 	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário.
+	2. Força de materialização muito potente. Forte energia de intensidade.
 3. **Social:** está relacionado à vida em comunidade. Se preocupa com todos. Relacionado ao neocórtex.
 Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, porque se não eu sou refém de dois, do dominante e do reprimido. Eles exercem uma influência muito grande na minha forma de viver a vida.
-	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário para se auto satisfazer.
+	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário, fazendo ele de escravo, para materializar uma necessidade do dominante, para se auto satisfazer.
 
 **FRASES:**
 
