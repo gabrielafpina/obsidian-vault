@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md"
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
               }
             }
           },
@@ -272,10 +272,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "beb8827250ce55da",
+  "active": "fa60fea06389fc9d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "Lista de possíveis valores.md",
     "2. Literature Notes/People/Jay Shetty.md",
