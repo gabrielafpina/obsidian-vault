@@ -13,6 +13,8 @@ O caminho é fazer o caminho de volta para a essência, para Deus. E o eneagrama
 
 Você é um único eneagrama ao longo de toda a sua vida. Talvez, você descubra que você é um eneagrama que você não sabia que era.
 
+A melhor forma de identificar qual é o seu eneatipo é através da **motivação**, o que me motiva a agir dessa forma. Porque transitamos dentro dos comportamentos dos 9 eneatipos ao longo da vida.
+
 **COMO:**
 
 **PENSADORES:**
