@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "9dc42c14aa11b55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93b8f7caeed8bfb7",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md"
               }
             }
           },
@@ -308,10 +320,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "701f6927a0a63b0e",
+  "active": "9dc42c14aa11b55e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 5 - Valores Pessoais.md",
     "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "13 perguntas para encontrar seus valores.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
@@ -341,7 +354,6 @@
     "2. Literature Notes/Topics/O tempo é uma ilusão.md",
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
-    "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
