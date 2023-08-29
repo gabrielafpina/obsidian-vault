@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "701f6927a0a63b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "93b8f7caeed8bfb7",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md"
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md"
               }
             }
           },
@@ -296,14 +308,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa60fea06389fc9d",
+  "active": "701f6927a0a63b0e",
   "lastOpenFiles": [
-    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+    "13 perguntas para encontrar seus valores.md",
+    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "Lista de possíveis valores.md",
-    "13 perguntas para encontrar seus valores.md",
     "2. Literature Notes/People/Jay Shetty.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
@@ -329,7 +342,6 @@
     "2. Literature Notes/Topics/O que é o método LCA?.md",
     "2. Literature Notes/Topics/5 Perguntas Fundamentais de Permissão.md",
     "2. Literature Notes/Topics/Você é tão digno, que se desejar, é capaz de criar a experiência para si de não ser digno.md",
-    "2. Literature Notes/Topics/Utilização da ferramenta dos 3 porquês.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
