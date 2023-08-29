@@ -3,7 +3,7 @@
 
 **FONTE:**
 
-**BIG IDEA:** 
+**VALORES REAIS X IDE:** 
 
 **ALINHANDO VALORES REAIS E IDEAIS:**
 1. **Comparação Lado a Lado**: Depois de identificar ambos os conjuntos de valores, coloque-os lado a lado e observe onde há desalinhamentos.

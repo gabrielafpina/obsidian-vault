@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "1ab28484ea304ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como alinhar seus valores reais e ideais?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e33daa584afd3873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8eedc9ac7ec2d341",
             "type": "leaf",
             "state": {
@@ -272,9 +296,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8eedc9ac7ec2d341",
+  "active": "1ab28484ea304ce3",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Qual a diferença entre valores pessoais e características?.md",
     "Como alinhar seus valores reais e ideais?.md",
     "Priorização de Valores.md",
     "13 perguntas para encontrar seus valores.md",
@@ -305,7 +330,6 @@
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
     "2. Literature Notes/Topics/Meu Destino Preferido.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
-    "2. Literature Notes/Topics/O tempo de acordo com Einstein.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
