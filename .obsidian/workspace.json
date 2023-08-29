@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "c21425a4b8c18133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditação guiada para compreensão de valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "777576ef4cb7f6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Priorização de Valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ff9efdf8871f64e",
             "type": "leaf",
             "state": {
@@ -115,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "Meditação guiada para compreensão de valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+                "file": "Meditação guiada para compreensão de valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md"
+                "file": "Meditação guiada para compreensão de valores.md"
               }
             }
           },
@@ -294,11 +319,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dc42c14aa11b55e",
+  "active": "c21425a4b8c18133",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Priorização de Valores.md",
     "13 perguntas para encontrar seus valores.md",
     "Lista de possíveis valores.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Exercício Jogo dos Porquês.md",
@@ -309,7 +335,6 @@
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "Como alinhar seus valores reais e ideais?.md",
-    "Priorização de Valores.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
     "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
