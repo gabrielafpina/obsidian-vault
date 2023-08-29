@@ -49,7 +49,7 @@ Estão relacionados às forças da natureza.
 	2. Dominante: Ansiedade; preocupação com segurança material; cuidado com dinheiro, saúde, roupas.
 	3. Reprimido: falta de regras, nada de conforto, nada de bem-estar, as coisas sem limite, nada de estabilidade.
 2. **Procriação/Sexual:** é o instinto que vai fazer com que os seres se reproduzam e perpetuem a espécie. Se preocupa com o outro. Relacionado ao cérebro límbico.
-	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário.
+	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário. Tem a ver com a competição e comparação.
 	2. Dominante: Força de materialização muito potente. Forte energia de intensidade. Busca conexão com as pessoas, parceiro, experiências com muita intensidade
 	3. Reprimido: falta de entusiasmo, intensidade, vigor, tesão pela vida, atração, criação.
 3. **Social:** está relacionado à vida em comunidade. Se preocupa com todos. Relacionado ao neocórtex.
@@ -61,7 +61,7 @@ Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, 
 	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário, fazendo ele de escravo, para materializar uma necessidade do dominante, para se auto satisfazer.
 	Pode ser que você troque o dominante pelo intermediário em determinada hora da sua vida. O reprimido tende a ser sempre o reprimido.
 ![[Captura de Tela 2023-08-28 às 22.36.50.png]]
-
+==**Aprofundar estudando sobre contratipo de cada eneagrama.**==
 
 **TIPOS E INSTINTOS:**
 Tipos e seus instintos dominantes.
