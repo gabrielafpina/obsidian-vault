@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "af3e71a4a507e1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de possíveis valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96c9dd1eefcd51e9",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Lista de possíveis valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Lista de possíveis valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
+                "file": "Lista de possíveis valores.md"
               }
             }
           },
@@ -271,11 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ede475224f65f6c",
+  "active": "af3e71a4a507e1c8",
   "lastOpenFiles": [
-    "Qual a diferença entre valores pessoais e características?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "Qual a diferença entre valores pessoais e características?.md",
     "13 perguntas para encontrar seus valores.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
