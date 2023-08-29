@@ -11,7 +11,6 @@ De acordo com Jay Shetty, para compreender nossos valores, que muitas vezes pode
     
 2. **Como você gasta seu tempo?** Assim como o dinheiro, o tempo é um recurso que gastamos, e a forma como o gastamos revela muito sobre o que valorizamos.
     
-
 O conceito de valores de Jay Shetty é bastante prático. Ele afirma que o que você valoriza não está necessariamente no que você pensa, sente ou acredita, mas sim em como você gasta seu dinheiro e seu tempo. Ele sugere que essas são as duas maneiras mais perfeitas de ver o que você realmente valoriza na vida.
 
 **COMO:**
@@ -29,3 +28,4 @@ O conceito de valores de Jay Shetty é bastante prático. Ele afirma que o que v
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Identificando valores reais e ideais]]

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "761a96a00d8bce8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identificando valores reais e ideais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Identificando valores reais e ideais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+                "file": "Identificando valores reais e ideais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
+                "file": "Identificando valores reais e ideais.md"
               }
             }
           },
@@ -212,10 +224,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa60fea06389fc9d",
+  "active": "761a96a00d8bce8d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eneagrama.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
+    "Identificando valores reais e ideais.md",
+    "2. Literature Notes/Topics/Eneagrama.md",
     "Captura de Tela 2023-08-28 às 23.00.23.png",
     "eneagrama_02-1024x786.png",
     "Captura de Tela 2023-08-28 às 22.43.23.png",
@@ -245,7 +258,6 @@
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "7. Creator/Newsletter/06 - Você é uma dessas pessoas?.md",
-    "2. Literature Notes/Topics/Quem dorme pouco, perde a memória.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
