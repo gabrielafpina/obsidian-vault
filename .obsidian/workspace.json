@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md"
+                "file": "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md"
               }
             }
           },
@@ -271,12 +271,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "887a76d2fefb3b6c",
+  "active": "7ede475224f65f6c",
   "lastOpenFiles": [
+    "Qual a diferença entre valores pessoais e características?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "13 perguntas para encontrar seus valores.md",
-    "Qual a diferença entre valores pessoais e características?.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "Exercício Jogo dos Porquês.md",
