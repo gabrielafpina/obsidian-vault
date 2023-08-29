@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "45aa9968b60ff800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23db3e27c3179fc3",
             "type": "leaf",
             "state": {
@@ -107,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -238,10 +251,10 @@
   },
   "active": "29fe7ea67f18d253",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
-    "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
     "2. Literature Notes/Topics/Eneagrama.md",
+    "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+    "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "2. Literature Notes/Topics/Pessoas curadas curam pessoas. Pessoas feridas sangram em cima de quem não as feriu.md",
     "2. Literature Notes/Topics/A pressa te leva para a morte.md",
     "2. Literature Notes/Topics/A dor é obrigatória, o sofrimento é opcional.md",
