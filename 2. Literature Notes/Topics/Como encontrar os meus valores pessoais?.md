@@ -45,3 +45,4 @@
 **Sul: para onde vai**
 - [[Identificando valores reais e ideais]]
 - [[Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento]]
+- [[Lista de possíveis valores]]
