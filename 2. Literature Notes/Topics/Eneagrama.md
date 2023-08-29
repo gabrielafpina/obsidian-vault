@@ -50,6 +50,7 @@ Estão relacionados às forças da natureza.
 	1. Instinto da criação, atração, fusão, competição, dominação. Tem uma coisa de falar alto, falar tocando, se vestir de forma a se mostrar, roupa agarrada, gosta do 1:1. Tem muito uma energia pra cima, pra frente, de conflito, as vezes. Intensidade. O reprimido é isso tudo ao contrário.
 	2. Força de materialização muito potente. Forte energia de intensidade.
 3. **Social:** está relacionado à vida em comunidade. Se preocupa com todos. Relacionado ao neocórtex.
+	1. Tem a ver com a força da união do grupo, de compartilhar, de irmandade. Energia da criação de uma comunidade. Quando existe a percepção de que um grupo é Um. [[todos somos um]]. Tem a ver com dedicação a uma causa.
 Tenho um dominante, um reprimido e um intermediário. O ideal é o equilíbrio, porque se não eu sou refém de dois, do dominante e do reprimido. Eles exercem uma influência muito grande na minha forma de viver a vida.
 	O instinto dominante pode ser confundido com o intermediário, porque o dominante sequestra o intermediário, fazendo ele de escravo, para materializar uma necessidade do dominante, para se auto satisfazer.
 
