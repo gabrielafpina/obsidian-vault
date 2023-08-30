@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
+                "file": "Lista de possíveis valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
+                "file": "Lista de possíveis valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma meta SMART?.md"
+                "file": "Lista de possíveis valores.md"
               }
             }
           },
@@ -355,8 +355,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "455bb7789a3032df",
+  "active": "af3e71a4a507e1c8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Como alinhar seus valores reais e ideais?.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
@@ -370,7 +371,6 @@
     "Exercício Jogo dos Porquês.md",
     "Qual a diferença entre valores pessoais e características?.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
-    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
