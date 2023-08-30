@@ -67,3 +67,5 @@
 4. "O corpo não mente; ele é o espelho da nossa alma. Quando começamos a prestar atenção às suas mensagens, abrimos um novo canal de comunicação com nosso verdadeiro eu."
     
 5. "Acreditar em um pensamento sem questioná-lo é como seguir um mapa antigo em um mundo que já mudou. É hora de atualizar nossa bússola interna."
+
+
