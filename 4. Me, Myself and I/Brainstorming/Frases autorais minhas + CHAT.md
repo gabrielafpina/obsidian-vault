@@ -69,3 +69,12 @@
 5. "Acreditar em um pensamento sem questioná-lo é como seguir um mapa antigo em um mundo que já mudou. É hora de atualizar nossa bússola interna."
 
 
+1. "Meditar não é apenas um ato de silêncio; é um diálogo profundo com a sua essência, um encontro diário que você não vai querer faltar."
+    
+2. "O corpo é mais do que um recipiente; é uma biblioteca de sensações, memórias e sabedoria. Quando você se conecta com ele, você lê as páginas mais autênticas da sua vida."
+    
+3. "A dança, o yoga, a meditação — são mais do que práticas; são linguagens que seu corpo usa para contar a história mais verdadeira sobre você."
+    
+4. "A realidade não é algo que você pensa; é algo que você sente. E cada sensação é um convite para sair do labirinto da mente e entrar no agora."
+    
+5. "Imagine que sua mente é uma canoa e seus pensamentos o rio. Você pode escolher remar contra a correnteza ou deixar a consciência ser o vento que guia sua vela."
