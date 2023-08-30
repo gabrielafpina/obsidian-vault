@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 perguntas para encontrar seus valores.md"
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md"
               }
             }
           },
@@ -331,15 +331,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ff9efdf8871f64e",
+  "active": "c1ed879ec73514d8",
   "lastOpenFiles": [
-    "Qual a diferença entre valores pessoais e características?.md",
-    "13 perguntas para encontrar seus valores.md",
-    "Exercício Jogo dos Porquês.md",
-    "Lista de possíveis valores.md",
-    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Como alinhar seus valores reais e ideais?.md",
+    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
+    "Lista de possíveis valores.md",
+    "13 perguntas para encontrar seus valores.md",
+    "Qual a diferença entre valores pessoais e características?.md",
+    "Exercício Jogo dos Porquês.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
     "Meditação guiada para compreensão de valores.md",

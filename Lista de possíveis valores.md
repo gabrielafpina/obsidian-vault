@@ -5,8 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
--   
-    Amor-Próprio
+-  Amor-Próprio
 - Consciência
 - Autenticidade
 - Prosperidade Financeira
