@@ -17,3 +17,23 @@
 4. "O que não te mata não apenas te fortalece; ele te transforma em uma versão de você que pode enfrentar qualquer coisa."
     
 5. "Pedir ajuda não é um sinal de fraqueza; é o primeiro passo corajoso para se tornar a pessoa que você nasceu para ser."
+
+1. "A dor não é uma sentença, é um ponto de partida. A questão é: para onde você quer ir a partir dela?"
+    
+2. "Ignorar a dor é como tentar afogar um problema; ele sempre vai encontrar uma forma de voltar à superfície."
+    
+3. "Não medimos a dor em escalas ou comparações; cada um sabe o peso que carrega."
+    
+4. "O inconsciente é o oceano onde nadam nossas dores não resolvidas; mergulhar lá é o primeiro passo para a cura."
+    
+5. "Não é sobre ter uma vida perfeita, é sobre o que você faz com as imperfeições que a tornam única."
+
+1. "Autoconhecimento não é um luxo, é uma necessidade; como você pode navegar pela vida sem um mapa de si mesmo?"
+    
+2. "Resistir ao autoconhecimento é como tentar dirigir no escuro; você pode até avançar, mas os riscos são muito maiores."
+    
+3. "O autoconhecimento não é só para quem está 'quebrado'; é para quem quer ser inteiro em todas as suas partes."
+    
+4. "Quando você se conhece, não apenas decifra o seu próprio manual de instruções, mas também aprende a ler as entrelinhas da vida."
+    
+5. "O autoconhecimento é a chave que destranca todas as portas; da compaixão à liberdade emocional, do amor-próprio à prosperidade."
