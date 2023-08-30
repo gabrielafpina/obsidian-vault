@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "13 perguntas para encontrar seus valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "13 perguntas para encontrar seus valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md"
+                "file": "13 perguntas para encontrar seus valores.md"
               }
             }
           },
@@ -331,8 +331,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "887a76d2fefb3b6c",
+  "active": "1ff9efdf8871f64e",
   "lastOpenFiles": [
+    "Qual a diferença entre valores pessoais e características?.md",
     "13 perguntas para encontrar seus valores.md",
     "Exercício Jogo dos Porquês.md",
     "Lista de possíveis valores.md",
@@ -345,7 +346,6 @@
     "Priorização de Valores.md",
     "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
-    "Qual a diferença entre valores pessoais e características?.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
