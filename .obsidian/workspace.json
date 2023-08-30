@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c1ed879ec73514d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c21425a4b8c18133",
             "type": "leaf",
             "state": {
@@ -239,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meditação guiada para compreensão de valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meditação guiada para compreensão de valores.md",
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meditação guiada para compreensão de valores.md"
+                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md"
               }
             }
           },
@@ -319,7 +331,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c21425a4b8c18133",
+  "active": "c1ed879ec73514d8",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Meditação guiada para compreensão de valores.md",
