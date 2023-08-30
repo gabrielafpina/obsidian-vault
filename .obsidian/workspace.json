@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e12f49c110114fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80b1968ae85ececb",
             "type": "leaf",
             "state": {
@@ -44,108 +32,12 @@
             }
           },
           {
-            "id": "17ee07f30f30c337",
+            "id": "f6359736f544accf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "455bb7789a3032df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14fb3cfb7141ef62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como alinhar seus valores reais e ideais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1ed879ec73514d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c21425a4b8c18133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meditação guiada para compreensão de valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff9efdf8871f64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 perguntas para encontrar seus valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af3e71a4a507e1c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de possíveis valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "887a76d2fefb3b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f69d6252e399fa5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+                "file": "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cura",
+                "query": "mia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md",
+                "file": "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md",
+                "file": "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md"
+                "file": "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md"
               }
             }
           },
@@ -368,10 +259,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b1968ae85ececb",
+  "active": "f6359736f544accf",
   "lastOpenFiles": [
-    "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md",
+    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "Qual a diferença entre valores pessoais e características?.md",
     "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
@@ -383,7 +275,6 @@
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Meditação guiada para compreensão de valores.md",
     "Priorização de Valores.md",
-    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
     "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
