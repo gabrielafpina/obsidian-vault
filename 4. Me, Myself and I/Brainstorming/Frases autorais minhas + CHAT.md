@@ -57,3 +57,13 @@
 4. "A meditação não é uma fuga da realidade, mas um encontro mais íntimo com ela."
     
 5. "Não medite para ser melhor; medite para ser você, em toda a sua complexidade e beleza."
+
+1. "Questionar nossos pensamentos não é um ato de fraqueza, mas um passo corajoso em direção à autenticidade e à liberdade interior."
+    
+2. "O poder da pergunta certa é como uma chave que destranca as portas do nosso inconsciente, revelando verdades escondidas que podem transformar nossa vida."
+    
+3. "Não é o pensamento em si que nos limita, mas a crença inquestionável de que ele é uma verdade absoluta."
+    
+4. "O corpo não mente; ele é o espelho da nossa alma. Quando começamos a prestar atenção às suas mensagens, abrimos um novo canal de comunicação com nosso verdadeiro eu."
+    
+5. "Acreditar em um pensamento sem questioná-lo é como seguir um mapa antigo em um mundo que já mudou. É hora de atualizar nossa bússola interna."
