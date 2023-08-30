@@ -78,3 +78,13 @@
 4. "A realidade não é algo que você pensa; é algo que você sente. E cada sensação é um convite para sair do labirinto da mente e entrar no agora."
     
 5. "Imagine que sua mente é uma canoa e seus pensamentos o rio. Você pode escolher remar contra a correnteza ou deixar a consciência ser o vento que guia sua vela."
+
+1. "Deus não é um destino a ser alcançado, mas uma verdade a ser vivida. E essa verdade começa dentro de você, não fora."
+    
+2. "A palavra 'deveria' é uma prisão disfarçada de conselho. Liberte-se dela e descubra o poder da escolha consciente."
+    
+3. "Não confunda dever com destino. Um é imposto, o outro é escolhido. E a vida é feita de escolhas, não de imposições."
+    
+4. "As crianças não são páginas em branco esperando ser escritas; são livros inteiros, cheios de sabedoria e curiosidade. A questão é: estamos dispostos a ler?"
+    
+5. "A verdadeira espiritualidade não é sobre se encaixar em moldes, mas sobre quebrá-los para descobrir a forma única e irrepetível que é você."
