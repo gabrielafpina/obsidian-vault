@@ -37,3 +37,23 @@
 4. "Quando você se conhece, não apenas decifra o seu próprio manual de instruções, mas também aprende a ler as entrelinhas da vida."
     
 5. "O autoconhecimento é a chave que destranca todas as portas; da compaixão à liberdade emocional, do amor-próprio à prosperidade."
+
+1. "O primeiro passo para o autoconhecimento é o desejo de se conhecer; se você está aqui, já está no caminho certo."
+    
+2. "Não subestime os pequenos passos; são eles que compõem a jornada inteira."
+    
+3. "Paralisar não é falhar; é um convite para reavaliar o que realmente importa."
+    
+4. "Quando você se sente perdido, não é um sinal de fraqueza; é o universo te dando espaço para encontrar um novo caminho."
+    
+5. "Crises não são o fim, mas sim o começo de uma nova compreensão de quem você é e do que você precisa."
+
+1. "Meditar não é sobre silenciar a mente, mas sim sobre ouvir o que ela tem a dizer sem julgamento."
+    
+2. "A verdadeira liberdade começa quando você se liberta dos seus próprios medos e limitações."
+    
+3. "Às vezes, o maior ato de amor é deixar ir; seja um relacionamento, um medo ou uma versão antiga de você mesmo."
+    
+4. "A meditação não é uma fuga da realidade, mas um encontro mais íntimo com ela."
+    
+5. "Não medite para ser melhor; medite para ser você, em toda a sua complexidade e beleza."
