@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e12f49c110114fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "17ee07f30f30c337",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md",
+                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual a diferença entre valores pessoais e características?.md"
+                "file": "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md"
               }
             }
           },
@@ -343,16 +355,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "887a76d2fefb3b6c",
+  "active": "e12f49c110114fd4",
   "lastOpenFiles": [
-    "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "Qual a diferença entre valores pessoais e características?.md",
+    "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
     "Como alinhar seus valores reais e ideais?.md",
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
     "Lista de possíveis valores.md",
     "13 perguntas para encontrar seus valores.md",
-    "Qual a diferença entre valores pessoais e características?.md",
     "Exercício Jogo dos Porquês.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Meditação guiada para compreensão de valores.md",
