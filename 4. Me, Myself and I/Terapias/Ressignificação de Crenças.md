@@ -44,3 +44,4 @@ eu sou deus na minha matrix, soberana na minha matrix, assume o meu lugar na min
 #### Sessão 3
 **DATA:** **31/08/2023**
 4 nívris de crenças no thetahealing
+livro: o poder do discurso materno
