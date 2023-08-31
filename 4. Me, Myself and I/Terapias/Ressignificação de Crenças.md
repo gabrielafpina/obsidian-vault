@@ -41,3 +41,5 @@ não queira interferir no aprendizado de outra alma.
 a gente é um poço de crença, sombra e drama.
 nada importa.
 eu sou deus na minha matrix, soberana na minha matrix, assume o meu lugar na minha matrix.
+#### Sessão 3
+**DATA:** **01/09/2023**
