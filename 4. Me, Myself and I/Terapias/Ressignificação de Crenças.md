@@ -46,3 +46,4 @@ eu sou deus na minha matrix, soberana na minha matrix, assume o meu lugar na min
 4 níveis de crenças no thetahealing
 livro: o poder do discurso materno
 Instituto de Ciências Noéticas - Edgar
+Eu não sou o homem da casa
