@@ -47,3 +47,5 @@ eu sou deus na minha matrix, soberana na minha matrix, assume o meu lugar na min
 livro: o poder do discurso materno
 Instituto de Ciências Noéticas - Edgar
 Eu não sou o homem da casa
+Eu sou tão irritada porque eu percebio o autoabandono em todo mundo ao meu redor
+Eu só não saio de casa por conta de um compromisso com a familia
