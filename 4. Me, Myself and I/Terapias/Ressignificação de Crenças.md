@@ -49,3 +49,4 @@ Instituto de Ciências Noéticas - Edgar
 Eu não sou o homem da casa
 Eu sou tão irritada porque eu percebio o autoabandono em todo mundo ao meu redor
 Eu só não saio de casa por conta de um compromisso com a familia
+Me aproprio da energia masculina, por iso não tenho libido. tenho todos os femininos fragilizados e o masculino ainda mais, porque o meu pai tira a propria vida. então, quem sou eu nesse rolê?
