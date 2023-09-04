@@ -1,4 +1,4 @@
-No ano de 2023, a numerologia indica que você estará sob a influência dos números 7 e 5. Vamos entender o que isso pode significar para você, levando em consideração as características da sua personalidade reveladas pelo seu [[Mapa Astral]].
+No ano de 2023, a [[Numerologia]] indica que você estará sob a influência dos números 7 e 5. Vamos entender o que isso pode significar para você, levando em consideração as características da sua personalidade reveladas pelo seu [[Mapa Astral]].
 
 **Primeiro e Segundo Semestres - Número 7**:
 
