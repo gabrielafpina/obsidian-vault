@@ -20,6 +20,7 @@ Ele é responsável pelas funções essenciais da vida e movimentos involuntári
 Quando você pergunta, a resposta vem. [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]]. Assim, sempre que acordar de mau humor, questione-se: porque eu estou me sentindo dessa forma? Qual é o pensamento que está me fazendo sentir assim? [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]. Você pode escolher resolver tudo com o bom humor. [[Tudo é uma escolha]]. O mau humor é um autossabotador.
 - Recomendação: Inteligência Positiva
 
+A mente subconsciente também administra os nossos hábitos. [[Aula 6 - Ansiedade, Procrastinação e Rotina]]. [[Tudo é treino, baseado em repetição]].
 
 **COMO:**
 
