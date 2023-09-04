@@ -15,6 +15,8 @@ Eu entendo, a vida é corrida e às vezes nossas prioridades mudam. Mas eu quero
 
 Agora, imagine por um momento como seria a sua vida se você pudesse eliminar os padrões de autossabotagem que têm te segurado. Imagine a liberdade, a autoconfiança e a paz interior que você sentiria. Isso é o que o Método MIA tem o poder de fazer por você.
 
+**Importante: Para acompanhar seu progresso, não se esqueça de marcar cada aula como 'Concluído' na plataforma da Hotmart. Você faz isso clicando na barra lateral, onde estão listadas as aulas do curso. Ao lado de cada aula, você verá uma bolinha. Clique nela quando tiver assistido à aula ou baixado o material. Isso vai te ajudar a visualizar o quanto você já avançou!**
+
 Eu sei que dar o primeiro passo pode ser o mais difícil, mas também é o mais crucial. E eu estou aqui para te apoiar em cada etapa dessa jornada.
 
 Então, que tal reservar um momento hoje mesmo para começar? O workshop está todo lá, esperando por você. E eu prometo, uma vez que você começar, você vai se perguntar por que não começou antes.
