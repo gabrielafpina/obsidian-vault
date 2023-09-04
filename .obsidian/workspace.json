@@ -8,120 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2afcde517990f099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/Como encontrar o produto? Acesso Hotmart + Grupo Wpp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34563fff597ad8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/Materiais Liberados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c90e6406a77f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/Vi que você ainda não acessou o produto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d042d2b9aa0335f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/25% de progresso no Workshop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4baed7392459460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/25% de progresso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b82944e10093b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Numerologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f850a836d3e5ee6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Templates/Newsletter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5809af85a5f6d0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c58f635df9a0112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3475ae103b512323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Numerologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Numerologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Numerologia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,11 +204,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b82944e10093b5a",
+  "active": "a3bdd033d12b3431",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Numerologia.md",
+    "Pitágoras.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/25% de progresso.md",
     "4. Me, Myself and I/Numerologia.md",
-    "2. Literature Notes/Topics/Numerologia.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/25% de progresso no Workshop.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/Vi que você ainda não acessou o produto.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails/Materiais Liberados.md",
@@ -345,7 +234,6 @@
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
-    "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
