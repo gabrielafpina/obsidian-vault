@@ -24,7 +24,7 @@ A mente subconsciente também administra os nossos hábitos. [[Aula 6 - Ansiedad
 
 Detém as memórias e os conhecimentos. O autoconhecimento também está aqui.
 
-Pensamentos, sentimentos inspirações, intuições, sensações, emoções, todos estão na mente subconsciente.
+Pensamentos, sentimentos inspirações, intuições, sensações, emoções, todos estão na mente subconsciente. A vida é um grande espelho. Tudo o que você manda, é o que você recebe de volta. [[Lei da Correspondência]].
 
 **COMO:**
 

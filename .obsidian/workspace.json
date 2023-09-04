@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aparelho",
+                "query": "corres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             }
           },
           {
-            "id": "f66c1224513b7771",
+            "id": "b82423042b9896ad",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -143,7 +142,7 @@
             }
           },
           {
-            "id": "66623ab607ae8cd9",
+            "id": "c32e953fc54af1e2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -246,10 +245,11 @@
   },
   "active": "30782597a3905ea4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Correspondência.md",
+    "2. Literature Notes/Topics/Pré-consciente.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "Tudo é treino, baseado em repetição.md",
-    "2. Literature Notes/Topics/Pré-consciente.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
@@ -271,7 +271,6 @@
     "2. Literature Notes/Topics/Priorização de Valores.md",
     "2. Literature Notes/Topics/As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
