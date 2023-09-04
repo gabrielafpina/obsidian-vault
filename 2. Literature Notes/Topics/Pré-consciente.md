@@ -15,7 +15,7 @@ A administração e organização da memória está aqui, no subconsciente.
 
 Porque escutamos a história de uma pessoa na análise? Porque isso ajuda a trabalhar a mente oculta no inconsciente, que vão sendo trazidos para a memória consciente, através do subconsciente.
 
-Ele é responsável pelas funções essenciais da vida e movimentos involuntários do nosso corpo físico - coração, pulmão, estômago, etc.
+Ele é responsável pelas funções essenciais da vida e movimentos involuntários do nosso corpo físico - coração, pulmão, estômago, etc. Também detém a imaginação e a criatividade - se apropriam do conhecimento que você tem dentro de você. Inspiração e intuição também estão dentro da mente subconsciente. ==A vida funciona dentro da mente subconsciente==. É muito importante preencher a minha mente subconsciente de informações que vão ajudá-la a prosperar mais, ao mesmo tempo em que eu tiro os conteúdos e as [[crenças]] negativas, que me impedem de viver uma vida leve.
 
 
 **COMO:**
