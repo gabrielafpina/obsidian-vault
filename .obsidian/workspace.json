@@ -4,31 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6b59d7314c26ac60",
+        "id": "f19c6c6bf312d3ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f6359736f544accf",
+            "id": "2afcde517990f099",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
+                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73621976204fc9c6",
+            "id": "30782597a3905ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+                "file": "2. Literature Notes/Topics/Pré-consciente.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a3bdd033d12b3431",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -51,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maior dor",
+                "query": "aparelho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+                "file": "2. Literature Notes/Topics/Pré-consciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+                "file": "2. Literature Notes/Topics/Pré-consciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md"
+                "file": "2. Literature Notes/Topics/Pré-consciente.md"
               }
             }
           },
@@ -211,40 +220,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73621976204fc9c6",
+  "active": "30782597a3905ea4",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+    "2. Literature Notes/Topics/Pré-consciente.md",
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
+    "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+    "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "4. Me, Myself and I/Brainstorming/Frases autorais minhas + CHAT.md",
-    "Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
-    "Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
+    "2. Literature Notes/Topics/Hábitos negativos são apenas comportamentos condicionados e não definem quem você é.md",
+    "2. Literature Notes/Topics/Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
-    "Qual a diferença entre valores pessoais e características?.md",
-    "Como alcançar um maior estado de engajamento e satisfação na vida?.md",
-    "Como alinhar seus valores reais e ideais?.md",
+    "2. Literature Notes/Topics/Qual a diferença entre valores pessoais e características?.md",
+    "2. Literature Notes/Topics/Como alcançar um maior estado de engajamento e satisfação na vida?.md",
+    "2. Literature Notes/Topics/Como alinhar seus valores reais e ideais?.md",
     "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
-    "Lista de possíveis valores.md",
-    "13 perguntas para encontrar seus valores.md",
-    "Exercício Jogo dos Porquês.md",
+    "2. Literature Notes/Topics/Lista de possíveis valores.md",
+    "2. Literature Notes/Topics/13 perguntas para encontrar seus valores.md",
+    "2. Literature Notes/Topics/Exercício Jogo dos Porquês.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
-    "Meditação guiada para compreensão de valores.md",
-    "Priorização de Valores.md",
-    "As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
+    "2. Literature Notes/Topics/Meditação guiada para compreensão de valores.md",
+    "2. Literature Notes/Topics/Priorização de Valores.md",
+    "2. Literature Notes/Topics/As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "2. Literature Notes/Topics/Quais são os principais metaprogramas?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/O que são Metas SMART?.md",
     "2. Literature Notes/Topics/Identificando valores reais e ideais.md",
     "2. Literature Notes/Topics/Pessoas que tem vidas mais significativas, com propósito e que são mais saudáveis, mais ricas e mais sábias, investem seu tempo em educação em vez de entretenimento.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "2. Literature Notes/People/Jay Shetty.md",
-    "2. Literature Notes/Topics/Eneagrama.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.39.39.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
-    "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
-    "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "7. Creator/Products/Webinar/Eliminando A Autossabotagem",

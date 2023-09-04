@@ -9,7 +9,7 @@
 
 - **[[Consciente]]**
     - Mente receptora. Você capta as informações do mundo externo e interno e manda para o pré-consciente.
-- **Pré-consciente**
+- **[[Pré-consciente]]**
     - É o mesmo que o _subconsciente_.
     - Mente que detém a memória de curto, médio e longo prazo. Memória = conhecimento armazenado.
 - **[[Inconsciente]]**
