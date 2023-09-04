@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
+                "file": "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/Como encontrar o produto? Acesso Hotmart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4502086e921b2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Template Mensagens Wpp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2164992fa9138d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Podcasts e Aulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f850a836d3e5ee6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Newsletter.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
+                "file": "5. Templates/Newsletter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
+                "file": "5. Templates/Newsletter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md"
+                "file": "5. Templates/Newsletter.md"
               }
             }
           },
@@ -243,8 +280,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "f850a836d3e5ee6e",
   "lastOpenFiles": [
+    "5. Templates/Podcasts e Aulas.md",
+    "5. Templates/Template Mensagens Wpp.md",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/Como encontrar o produto? Acesso Hotmart.md",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Escopo do Encontro.md",
+    "5. Templates/Templates E-mail.md",
+    "5. Templates/Newsletter.md",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Untitled.md",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
     "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Pré-consciente.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
@@ -264,13 +310,6 @@
     "2. Literature Notes/Topics/Qual a diferença entre valores pessoais e características?.md",
     "2. Literature Notes/Topics/Como alcançar um maior estado de engajamento e satisfação na vida?.md",
     "2. Literature Notes/Topics/Como alinhar seus valores reais e ideais?.md",
-    "2. Literature Notes/Topics/Como fazer uma meta SMART?.md",
-    "2. Literature Notes/Topics/Lista de possíveis valores.md",
-    "2. Literature Notes/Topics/13 perguntas para encontrar seus valores.md",
-    "2. Literature Notes/Topics/Exercício Jogo dos Porquês.md",
-    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
-    "2. Literature Notes/Topics/Meditação guiada para compreensão de valores.md",
-    "2. Literature Notes/Topics/Priorização de Valores.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
@@ -279,8 +318,8 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
-    "7. Creator/Products/Webinar/Quebrando A Autossabotagem",
-    "7. Creator/Products/Webinar",
+    "7. Creator/Products/Workshop/Quebrando A Autossabotagem",
+    "7. Creator/Products/Workshop",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
@@ -289,8 +328,6 @@
     "6. Shots, Images & PDFs/WhatsApp Image 2023-07-27 at 00.03.42.jpeg",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
-    "7. Creator/Products/E-book Como Começar a Se Conhecer",
-    "7. Creator/Products/Mentoria Despertar Inevitável",
     "Untitled.canvas"
   ]
 }
