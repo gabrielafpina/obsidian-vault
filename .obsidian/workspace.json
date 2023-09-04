@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5809af85a5f6d0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0c58f635df9a0112",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buscar praz",
+                "query": "mapa da consc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Pré-consciente.md",
+                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Pré-consciente.md",
+                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Pré-consciente.md"
+                "file": "2. Literature Notes/Topics/Mapa da Consciência.md"
               }
             }
           },
@@ -243,11 +255,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30782597a3905ea4",
+  "active": "5809af85a5f6d0e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Pré-consciente.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "2. Literature Notes/Topics/Pré-consciente.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "Tudo é treino, baseado em repetição.md",
