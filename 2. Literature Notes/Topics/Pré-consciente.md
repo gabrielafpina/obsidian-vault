@@ -26,6 +26,10 @@ Detém as memórias e os conhecimentos. O autoconhecimento também está aqui.
 
 Pensamentos, sentimentos inspirações, intuições, sensações, emoções, todos estão na mente subconsciente. A vida é um grande espelho. Tudo o que você manda, é o que você recebe de volta. [[Lei da Correspondência]].
 
+A característica do subconsciente é que seus *conteúdos podem ser recuperados* por um ato de vontade do indivíduo. Por outro lado, quando não é possível recuperar um determinado conteúdo pelo ato da vontade do indivíduo, significa que *esse conteúdo está no inconsciente*, reprimido ou recalcado por alguma descarga de energia psíquica de resistência.
+
+O pré-consciente é regido pelo processo secundário ( Princí[[Princípio do Prazer e Princípio da Realidade]]) e responsável por: elaboração de um sentido cronológico nas representações, já que o inconsciente é atemporal.
+
 **COMO:**
 
 **PENSADORES:**
