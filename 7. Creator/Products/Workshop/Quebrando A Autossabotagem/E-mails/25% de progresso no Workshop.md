@@ -1,10 +1,10 @@
 **DATA DE ENVIO**: 
 
-**PÚBLICO**: alunos do workshop que concluíram 25% d
+**PÚBLICO**: alunos do workshop que concluíram 25% de progresso
 
-**ASSUNTO:**
+**ASSUNTO:** Você Acabou de Cruzar um Marco Importante! 🌟
 
-**PRÉ-HEADER:**
+**PRÉ-HEADER:** 25% Concluído: Você não vai acreditar no que vem a seguir!
 
 **CONTEÚDO:**
 Oi, [FNAME],
