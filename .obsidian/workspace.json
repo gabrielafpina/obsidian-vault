@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30782597a3905ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Pré-consciente.md",
+                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
+                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Mapa da Consciência.md",
+                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Mapa da Consciência.md"
+                "file": "7. Creator/Products/Webinar/Quebrando A Autossabotagem/Escopo do Encontro.md"
               }
             }
           },
@@ -255,16 +243,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5809af85a5f6d0e3",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "2. Literature Notes/Topics/Pré-consciente.md",
+    "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-    "Tudo é treino, baseado em repetição.md",
+    "2. Literature Notes/Topics/Tudo é treino, baseado em repetição.md",
     "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
     "7. Creator/Métodos/Método MIA - Método de Integração da Autossabotagem.md",
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
@@ -282,7 +271,6 @@
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "2. Literature Notes/Topics/Meditação guiada para compreensão de valores.md",
     "2. Literature Notes/Topics/Priorização de Valores.md",
-    "2. Literature Notes/Topics/As áreas em que somos mais organizados e ordenados revelam o que verdadeiramente valorizamos.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
@@ -291,7 +279,7 @@
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
     "7. Creator/Métodos",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
-    "7. Creator/Products/Webinar/Eliminando A Autossabotagem",
+    "7. Creator/Products/Webinar/Quebrando A Autossabotagem",
     "7. Creator/Products/Webinar",
     "7. Creator/Newsletter",
     "4. Me, Myself and I/Terapias",
