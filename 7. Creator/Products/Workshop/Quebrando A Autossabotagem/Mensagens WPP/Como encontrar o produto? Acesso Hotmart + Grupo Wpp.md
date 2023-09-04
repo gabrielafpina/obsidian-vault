@@ -12,6 +12,6 @@ Sugiro que você _favorite_ o e-mail que a Hotmart te enviou, para que fique de 
 
 ----
 
-Outra mensagem, logo após a de cima:
+Outra mensagem, logo após a de cima e para o mesmo público:
 
 Ah, também quero te relembrar de entrar no nosso grupo de WhatsApp! Lá eu trago novidades e abro espaço para conversarmos. Clique nesse link e venha fazer parte dessa comunidade de pessoas que estão se libertando da Autossabotagem, como você: [LINK WPP]
