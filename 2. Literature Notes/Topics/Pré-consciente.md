@@ -13,7 +13,10 @@ A administração e organização da memória está aqui, no subconsciente.
 
 É, também, um *mediador* entre o consciente e o inconsciente, que estão conjugados, mas tudo passa pelo subconsciente.
 
-Porque escutamos a história de uma pessoa na análise? Porque isso ajuda a trabalhar a mente oculta no inconsciente, que vão sendo t
+Porque escutamos a história de uma pessoa na análise? Porque isso ajuda a trabalhar a mente oculta no inconsciente, que vão sendo trazidos para a memória consciente, através do subconsciente.
+
+Ele é responsável pelas funções essenciais da vida e movimentos involuntários do nosso corpo físico - coração, pulmão, estômago, etc.
+
 
 **COMO:**
 
