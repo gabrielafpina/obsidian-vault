@@ -22,6 +22,10 @@ Quando você pergunta, a resposta vem. [[Quando você começa a fazer perguntas 
 
 A mente subconsciente também administra os nossos hábitos. [[Aula 6 - Ansiedade, Procrastinação e Rotina]]. [[Tudo é treino, baseado em repetição]].
 
+Detém as memórias e os conhecimentos. O autoconhecimento também está aqui.
+
+Pensamentos, sentimentos inspirações, intuições, sensações, emoções, todos estão na mente subconsciente.
+
 **COMO:**
 
 **PENSADORES:**
