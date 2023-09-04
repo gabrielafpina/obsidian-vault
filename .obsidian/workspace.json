@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corres",
+                "query": "buscar praz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -243,7 +243,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30782597a3905ea4",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/Pré-consciente.md",

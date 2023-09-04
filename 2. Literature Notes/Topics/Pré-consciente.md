@@ -28,7 +28,9 @@ Pensamentos, sentimentos inspirações, intuições, sensações, emoções, tod
 
 A característica do subconsciente é que seus *conteúdos podem ser recuperados* por um ato de vontade do indivíduo. Por outro lado, quando não é possível recuperar um determinado conteúdo pelo ato da vontade do indivíduo, significa que *esse conteúdo está no inconsciente*, reprimido ou recalcado por alguma descarga de energia psíquica de resistência.
 
-O pré-consciente é regido pelo processo secundário ( Princí[[Princípio do Prazer e Princípio da Realidade]]) e responsável por: elaboração de um sentido cronológico nas representações, já que o inconsciente é atemporal.
+O pré-consciente é regido pelo processo secundário ( Princípio da Realidade - [[Princípio do Prazer e Princípio da Realidade]]) e responsável por: elaboração de um sentido cronológico nas representações - já que o inconsciente é atemporal. E também vai fazendo a descoberta de correlações lógicas. Ele é movido pela necessidade de autoconservação. Tudo em nós é regido por um instinto de proteção ([[teoria dos mecanismos de defesa]]). Freud dizia que nascemos com dois instintos: instinto de prazer e instinto de agressividade (relacionado ao instinto de sobrevivência). [[O ser humano busca o prazer ou foge da dor]]. Tudo em nos é preservação, é manutenção da vida.
+
+Também desenvolve as funções: tomar consciência das coisas, atenção, memória, aproximação da realidade (sair das fantasias e entender a realidade da sua vida)
 
 **COMO:**
 
