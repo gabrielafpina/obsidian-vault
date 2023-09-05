@@ -116,3 +116,4 @@ Reduz a procrastinação
 - Podcast procrastinação Vida Lendária
 - Utilizar a técnica 5, 4, 3, 2, 1
 - Fazer teste de Cronotipo
+- Adicionar aula bônus Alan
