@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
+                "file": "Como a Ansiedade e Procrastinação te atrasam?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
+                "file": "Como a Ansiedade e Procrastinação te atrasam?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Cadeia Emocional.md"
+                "file": "Como a Ansiedade e Procrastinação te atrasam?.md"
               }
             }
           },
@@ -223,45 +223,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "d566341473cbac16",
-    "type": "floating",
-    "children": [
-      {
-        "id": "93aefc7e022fac6a",
-        "type": "window",
-        "children": [
-          {
-            "id": "352e277b50e7ccbc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "20f70443089dcb0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. Literature Notes/Topics/Cadeia Emocional.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1447,
-        "y": 49,
-        "width": 1913,
-        "height": 1026,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "20f70443089dcb0b",
+  "active": "f29dea465a7d4efb",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "Como a Ansiedade e Procrastinação te atrasam?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Qual é a diferença entre a ansiedade e o medo?.md",
@@ -288,7 +252,6 @@
     "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
     "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
-    "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
