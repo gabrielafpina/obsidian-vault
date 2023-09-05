@@ -10,7 +10,8 @@
 9. [[O que é a mente macaca?]]
 10. [[Qual é a chave para lidar com a ansiedade e procrastinação?]]
 11. [[O que é a técnica 5, 4, 3, 2, 1?]]
-12. [[Quais são os 5R's para fortalecer a mente?]]
+12. [[O que são ciclos e porque compreender os meus?]]
+13. [[Quais são os 5R's para fortalecer a mente?]]
 
 - Estratégias para quebrar o ciclo da ansiedade e procrastinação
 
@@ -81,7 +82,7 @@ Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interrom
 	- Rotina
 	- Reflexão
 
-
+- Slide 14: 
 
 **CCM:**
 - [[Exercício de Autoconhecimento "Comparar, Reclamar e Criticar"]]
