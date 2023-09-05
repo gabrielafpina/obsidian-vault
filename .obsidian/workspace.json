@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md"
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md"
               }
             }
           },
@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +256,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96bff0c39d150d0f",
+  "active": "db692b260683a441",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
     "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+    "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
