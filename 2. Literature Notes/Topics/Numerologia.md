@@ -15,7 +15,7 @@ Feito com a data de nascimento e com o nome completo, nos permite identificar as
 
 Quais mapas fazer?
 1. Mapa do ano
-2. Mapa numerológico de nascimento (natal) - não tem alteração
+2. Mapa numerológico de nascimento (natal) - não tem alteração, você faz 1 vez na vida
 3. Mapa de carreira
 
 Existem várias numerologias: cabalística, pitagórica, etc.
@@ -25,7 +25,8 @@ Existem várias numerologias: cabalística, pitagórica, etc.
 - 7: Ano de mudanças revolucionárias, seja dentro ou fora. Mergulhe na transformação, porque uma hora você se encontra. Se algo está mais ou menos, não queira levar para o seu ano 8.
 - 8: Ano da abundância. Você pisca, tá ganhando dinheiro. Tudo o que você faz traz muito dinheiro para você. Por isso, é inegociável que você se reestruture no ano 7.
 
-**PENSADORES:**
+**NOME COMPLETO:**
+Energia de exprtessão, d
 
 **FRASES:**
 - [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
