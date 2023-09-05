@@ -10,4 +10,4 @@ Alma (somatório de todas as vogais) relacionada ao Eu, ou seja, ao que está no
 
 **NÚMERO DE IMAGEM (consoantes):**
 Imagem (somatória de todas as consoantes) representa a imagem, ou seja, tudo o que é demonstrado aos outros, principalmente para pessoas que não estão em meu convívio diário.
-- 9
+- 9: 

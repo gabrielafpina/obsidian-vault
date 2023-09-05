@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c90fb105fa7e67c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f575a9c2186ca517",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md"
+                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md"
               }
             }
           },
@@ -209,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db692b260683a441",
+  "active": "c90fb105fa7e67c7",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Numerologia.md",
     "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+    "4. Me, Myself and I/Testes/Mapa Astral.md",
+    "4. Me, Myself and I/Testes/DISC.md",
+    "2. Literature Notes/Topics/Numerologia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "4. Me, Myself and I/Testes/Numerologia 2023.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
@@ -262,7 +275,6 @@
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/Tudo é treino, baseado em repetição.md",
-    "2. Literature Notes/Topics/Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
