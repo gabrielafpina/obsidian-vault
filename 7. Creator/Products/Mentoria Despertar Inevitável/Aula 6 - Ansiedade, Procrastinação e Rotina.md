@@ -13,7 +13,7 @@
 12. [[O que são ciclos e porque compreender os meus?]]
 13. [[Quais são os 5R's para fortalecer a mente?]]
 14. [[Qual é a importância de fazer promessas e mantê-las?]]
-15. [[O que é a Ro]]
+15. [[O que é a Rotina da Consciência Elevada (RCE)?]]
 16. [[Por que eu deveria ser minha maior defensora?]]
 
 - Estratégias para quebrar o ciclo da ansiedade e procrastinação
@@ -89,8 +89,11 @@ Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interrom
 Cada promessa que você faz a si mesmo é como um contrato.
 Se você não cumprir, pode devastar a sua autoestima a longo prazo.
 
-- Slide 15: Rotina da Consciência Elevada
+- Slide 15: Rotina da Consciência Elevada (RCE)
+Pilares e suas fases
+#### Pilar 1: Intenção Consciente
 
+- **Fase Correspondente**: Definição da Intenção do Dia
 
 
 - Slide : Seja o seu maior defensor
