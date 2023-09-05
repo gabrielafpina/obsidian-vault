@@ -6,12 +6,12 @@
 5. O que é a Procrastinação?
 6. [[Como a Ansiedade e Procrastinação te atrasam?]]
 7. [[Quais são as principais causas da procrastinação?]]
-
-- [[O que é a mente macaca?]]
+8. [[Quais são consequências da procrastinação?]]
+9. [[O que é a mente macaca?]]
 - Qual é a melhor forma que eu aprendi a lidar com a ansiedade?
-- Como a ansiedade afeta a rotina e a produtividade.
+- Estratégias para quebrar o ciclo da ansiedade e procrastinação
 
-8. **Entendendo a Procrastinação**
+9. **Entendendo a Procrastinação**
 - As raízes emocionais e psicológicas da procrastinação.
 - O ciclo da procrastinação e como quebrá-lo.
 
@@ -62,6 +62,9 @@ Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Ag
 - Slide 9: Consequências da procrastinação
 - Curto Prazo: Estresse e queda da qualidade do trabalho
 - Longo Prazo: Depressão, redução da autoestima, insônia, problemas cardíacos
+
+- Slide 10: A Mente Macaca
+Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a ansiedade e a consequência pode ser a procrastinação.
 
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
