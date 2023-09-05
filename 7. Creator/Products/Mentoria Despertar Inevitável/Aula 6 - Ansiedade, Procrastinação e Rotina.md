@@ -69,6 +69,7 @@ Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a an
 - Auto-observação e Meditação
 - Identificação de gatilhos
 - Criação de metas realistas
+- Compreensão dos seus ciclos
 
 - Slide 12: Técnica 5, 4, 3, 2, 1
 Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interromper o ciclo.
@@ -86,3 +87,4 @@ Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interrom
 - [[Exercício de Autoconhecimento "Comparar, Reclamar e Criticar"]]
 - Podcast procrastinação Vida Lendária
 - Utilizar a técnica 5, 4, 3, 2, 1
+- Fazer teste de Cronotipo
