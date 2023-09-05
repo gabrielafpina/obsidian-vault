@@ -40,7 +40,8 @@ Nos mostra o que é possível vivenciar e enfrentar na jornada terrestre, na vid
 
 **NÚMERO DE EXPRESSÃO:**
 - 1: É o início. Tem uma facilidade com iniciar as coisas. É do 1 que surge o 2 e que depois se manifesta depois no 3 ponto, que depois se manifesta no triângulo, trazendo a tridimensionalidade. A pessoa que tem expressão 1, tem uma grande questão com liderança, uma ambição, busca por algo único dela. São pessoas que tem uma energia de independência, individualidade. Tem uma questão forte com obstinação - fazer acontecer, ir atrás. Elas conduzem o seu propósito, tomando posse do domínio da sua vida. Tem uma questão de defender as suas ideias, de acreditar muito fortemente nas suas conquistas, mas pode cair em uma questão de egoísmo, ambição desenfreada e pode ter uma personalidade meio dominadora em uma relação - principalmente, íntima, mas pode ser de trabalho, etc. Importante colocar atenção nas coisas que vai manifestar com relação à maturação disso, porque pode ser que inicie as coisas e elas não amadureçam.
-- 3: pessoa extrovertida, que gosta de se comunicar. É criativa, dinâmica.
+- 3: pessoa extrovertida, que gosta de se comunicar. É criativa, dinâmica. Relacionada à arte, cultura, jornalismo. Muito relacionado à materialização. Cuidados: pode ser que durante a vida tenha dificuldade em lidar com a solidão, ou desenvolver um trabalho que não tenha uma dinâmica em grupo. tomar cuidado na hora de falar, para que a fala saia do coração, e não da impulsividade. Pessoas com dificuldade de foco e concentração.
+- 4: questão com a racionalidade, com a parte mental da vida. E são pessoas que tem uma grande capacidade prática da vida. Tem uma questão muito forte com a estabilidade.
 
 **FRASES:**
 - [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
