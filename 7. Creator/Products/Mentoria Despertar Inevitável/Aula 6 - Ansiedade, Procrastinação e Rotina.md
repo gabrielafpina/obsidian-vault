@@ -13,7 +13,8 @@
 12. [[O que são ciclos e porque compreender os meus?]]
 13. [[Quais são os 5R's para fortalecer a mente?]]
 14. [[Qual é a importância de fazer promessas e mantê-las?]]
-15. [[Por que eu deveria ser minha maior defensora?]]
+15. [[O que é a Ro]]
+16. [[Por que eu deveria ser minha maior defensora?]]
 
 - Estratégias para quebrar o ciclo da ansiedade e procrastinação
 
@@ -88,7 +89,8 @@ Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interrom
 Cada promessa que você faz a si mesmo é como um contrato.
 Se você não cumprir, pode devastar a sua autoestima a longo prazo.
 
-- Slide 15: A Rotina 
+- Slide 15: Rotina da Consciência Elevada
+
 
 
 - Slide : Seja o seu maior defensor
