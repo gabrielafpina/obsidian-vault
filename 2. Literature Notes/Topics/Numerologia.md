@@ -26,7 +26,17 @@ Existem várias numerologias: cabalística, pitagórica, etc.
 - 8: Ano da abundância. Você pisca, tá ganhando dinheiro. Tudo o que você faz traz muito dinheiro para você. Por isso, é inegociável que você se reestruture no ano 7.
 
 **NOME COMPLETO:**
-Energia de exprtessão, d
+Energia de expressão, de alma e imagem.
+
+Expressão (somatória de todas as letras) relacionada a personalidade diante da jornada terrena. Expressa grande parte da missão de vida da pessoa.
+
+Alma (somatório de todas as vogais) relacionada ao Eu, ou seja, ao que está no meu mundo interno.
+
+Imagem (somatória de todas as consoantes) representa a imagem, ou seja, tudo o que é demonstrado aos outros, principalmente para pessoas que não estão em meu convívio diário.
+
+**DATA DE NASCIMENTO:**
+Nos mostra o que é possível vivenciar e enfrentar na jornada terrestre, na vida, ela revela muito sobre o destino e situações a serem vivenciadas a partir do nascimento.
+![[Captura de Tela 2023-09-04 às 21.20.57.png]]
 
 **FRASES:**
 - [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
