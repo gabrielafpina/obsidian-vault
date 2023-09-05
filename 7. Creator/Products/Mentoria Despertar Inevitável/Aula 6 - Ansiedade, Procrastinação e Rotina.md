@@ -29,4 +29,15 @@
 - Slide 4: O que é a Ansiedade?
 A ansiedade é uma emoção normal e natural que sentimos em uma situação estressante.
 
+- Slide 5: Ansiedade x Medo
+**Medo**
+- **O que é**: Resposta a uma ameaça imediata e real.
+- **Sintomas Físicos**: Batimentos cardíacos acelerados, respiração rápida.
+- **Exemplo**: Ver um cachorro raivoso na sua frente.
+
+**Ansiedade**
+- **O que é**: Preocupação ou tensão em relação a algo futuro ou incerto.
+- **Sintomas Físicos**: Inquietação, fadiga, problemas de concentração.
+- **Exemplo**: Preocupação com um exame que acontecerá daqui a uma semana.
+
 **CCM:**
