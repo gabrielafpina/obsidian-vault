@@ -5,6 +5,8 @@
 3. **O Que é Ansiedade?**
 - Sintomas comuns da ansiedade
 - [[Qual é a diferença entre a ansiedade e o medo?]]
+- [[O que é a mente macaca?]]
+- Qual é a melhor forma que eu aprendi a lidar com a ansiedade?
 - Como a ansiedade afeta a rotina e a produtividade.
 
 5. **Entendendo a Procrastinação**
@@ -39,5 +41,14 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 - **O que é**: Preocupação ou tensão em relação a algo futuro ou incerto.
 - **Sintomas Físicos**: Inquietação, fadiga, problemas de concentração.
 - **Exemplo**: Preocupação com um exame que acontecerá daqui a uma semana.
+
+- Slide 6: Como eu aprendi a lidar com a minha ansiedade?
+***Meditação***
+- Reduz o estresse
+- Melhora a concentração
+- Encoraja um estilo de vida saudável
+
+
+
 
 **CCM:**
