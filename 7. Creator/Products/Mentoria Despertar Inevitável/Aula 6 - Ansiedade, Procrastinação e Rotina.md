@@ -42,6 +42,8 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 - **Sintomas Físicos**: Inquietação, fadiga, problemas de concentração.
 - **Exemplo**: Preocupação com um exame que acontecerá daqui a uma semana.
 
+- Slide 6:
+
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
 - Reduz o estresse
@@ -52,3 +54,5 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 
 
 **CCM:**
+- [[Exercício de Autoconhecimento "Comparar, Reclamar e Criticar"]]
+- Podcast procrastinação Vida Lendária
