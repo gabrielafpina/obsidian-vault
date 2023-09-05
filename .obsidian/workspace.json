@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "20ee2fc5a4cc68cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são as principais causas da procrastinação?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f29dea465a7d4efb",
             "type": "leaf",
             "state": {
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como a Ansiedade e Procrastinação te atrasam?.md",
+                "file": "Quais são as principais causas da procrastinação?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como a Ansiedade e Procrastinação te atrasam?.md",
+                "file": "Quais são as principais causas da procrastinação?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como a Ansiedade e Procrastinação te atrasam?.md"
+                "file": "Quais são as principais causas da procrastinação?.md"
               }
             }
           },
@@ -223,11 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f29dea465a7d4efb",
+  "active": "20ee2fc5a4cc68cd",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Cadeia Emocional.md",
-    "Como a Ansiedade e Procrastinação te atrasam?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "Como a Ansiedade e Procrastinação te atrasam?.md",
+    "2. Literature Notes/Topics/Cadeia Emocional.md",
     "Qual é a diferença entre a ansiedade e o medo?.md",
     "Quais são as principais causas da procrastinação?.md",
     "Quais são os 5R's para fortalecer a mente?.md",
