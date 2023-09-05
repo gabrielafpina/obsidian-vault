@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b82944e10093b5a",
+            "id": "16892453be130236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Numerologia.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "db692b260683a441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96bff0c39d150d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb39619d0b1eb4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f575a9c2186ca517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3bdd033d12b3431",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -256,16 +199,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db692b260683a441",
+  "active": "16892453be130236",
   "lastOpenFiles": [
-    "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
+    "2. Literature Notes/Topics/Numerologia.md",
+    "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+    "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
     "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
     "4. Me, Myself and I/Testes/DISC.md",
-    "2. Literature Notes/Topics/Numerologia.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "4. Me, Myself and I/Testes/Numerologia 2023.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
@@ -284,10 +231,6 @@
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Untitled.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
-    "2. Literature Notes/Topics/1ª Teoria do Aparelho Psíquico.md",
-    "2. Literature Notes/Topics/Pré-consciente.md",
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
-    "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
@@ -302,7 +245,6 @@
     "4. Me, Myself and I/Terapias",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus",
     "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
-    "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "2. Literature Notes/Readwise/Articles",
     "Untitled.canvas"
   ]
