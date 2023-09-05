@@ -59,6 +59,10 @@ Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Ag
 	- Autossabotagem
 	- Carga Emocional
 
+- Slide 9: Consequências da procrastinação
+- Curto Prazo: Estresse e queda da qualidade do trabalho
+- Longo Prazo: Depressão, redução da autoestima, insônia, problemas cardíacos
+
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
 - Reduz o estresse
