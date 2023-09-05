@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c90fb105fa7e67c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f575a9c2186ca517",
             "type": "leaf",
             "state": {
@@ -64,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md",
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Preferência Cerebral.md"
+                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md"
               }
             }
           },
@@ -243,8 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c90fb105fa7e67c7",
+  "active": "db692b260683a441",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
+    "4. Me, Myself and I/Testes/Preferência Cerebral.md",
     "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
     "4. Me, Myself and I/Testes/DISC.md",
@@ -273,8 +263,6 @@
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-    "2. Literature Notes/Topics/Tudo é treino, baseado em repetição.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
