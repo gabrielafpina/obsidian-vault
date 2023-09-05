@@ -88,6 +88,9 @@ Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interrom
 Cada promessa que você faz a si mesmo é como um contrato.
 Se você não cumprir, pode devastar a sua autoestima a longo prazo.
 
+- Slide 15: A Rotina 
+
+
 - Slide : Seja o seu maior defensor
 Acredite em seus Sonhos
 Ambiente mental mais positivo
