@@ -4,7 +4,7 @@
 3. Sintomas comuns da ansiedade
 4. [[Qual é a diferença entre a ansiedade e o medo?]]
 5. O que é a Procrastinação?
-6. Como a Ansiedade e Procrastinação te atrasam
+6. [[Como a Ansiedade e Procrastinação te atrasam?]]
 7. [[Quais são as principais causas da procrastinação?]]
 
 - [[O que é a mente macaca?]]
@@ -50,6 +50,7 @@ Procrastinação não é apenas a arte de adiar tarefas; é um comportamento com
 - Slide 7: Como a Ansiedade e Procrastinação te atrasam
 A consequência da ansiedade pode ser a procrastinação.
 A ansiedade faz com que nossa mente enxergue determinada tarefa como uma 'ameaça', levando à procrastinação como um mecanismo de defesa.
+Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Agravamento da Ansiedade → Procrastinação...
 
 - Slide 8: As principais causas da procrastinação
 	- Medo do Fracasso
