@@ -1,15 +1,17 @@
 **TÓPICOS ABORDADOS:**
 1. Check-in emocional
 2. 3AP
+3. Sintomas comuns da ansiedade
+4. [[Qual é a diferença entre a ansiedade e o medo?]]
+5. O que é a Procrastinação?
+6. Como a Ansiedade e Procrastinação te atrasam
+7. [[Quais são as principais causas da procrastinação?]]
 
-3. **O Que é Ansiedade?**
-- Sintomas comuns da ansiedade
-- [[Qual é a diferença entre a ansiedade e o medo?]]
 - [[O que é a mente macaca?]]
 - Qual é a melhor forma que eu aprendi a lidar com a ansiedade?
 - Como a ansiedade afeta a rotina e a produtividade.
 
-5. **Entendendo a Procrastinação**
+8. **Entendendo a Procrastinação**
 - As raízes emocionais e psicológicas da procrastinação.
 - O ciclo da procrastinação e como quebrá-lo.
 
@@ -45,7 +47,16 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 - Slide 6: O que é a Procrastinação?
 Procrastinação não é apenas a arte de adiar tarefas; é um comportamento complexo que envolve evitar fazer o que nos causa desconforto emocional.
 
-- Slide 7:
+- Slide 7: Como a Ansiedade e Procrastinação te atrasam
+A consequência da ansiedade pode ser a procrastinação.
+A ansiedade faz com que nossa mente enxergue determinada tarefa como uma 'ameaça', levando à procrastinação como um mecanismo de defesa.
+
+- Slide 8: As principais causas da procrastinação
+	- Medo do Fracasso
+	- Perfeccionismo
+	- Incerteza
+	- Autossabotagem
+	- Carga Emocional
 
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
