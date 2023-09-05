@@ -51,6 +51,8 @@ O nome é endereço energético. Então, quando você troca o nome de solteira p
 - **9**: pessoas que tem sensibilidade forte com energia do campo, do ambiente. Ligados à arte, cultura, coisas humanitárias (propósito muito forte), pessoas que vão ter facilidade com questões financeiras e vida longa, com muita saúde. Buscam contribuir com o todo, com o mundo ao redor deles. Importância trazer presença para o aqui e agora. Grande questão com aprofundamento, expansão de consciência e busca da felicidade. Cuidado com ingenuidade. Pode ter uma tendência de resolver problema dos outros.
 - **11**: número mestre. Mestras do saber. Tem facilidade de alcançar tudo o que deseja e quer. Pessoas intuitivas, fortes e estão sempre prontas pra superar desafios. Pessoas pacíficas, mediadoras. Propensão a questões humanitárias.
 
+![[Captura de Tela 2023-09-04 às 22.30.53.png]]
+
 **FRASES:**
 - [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
 
