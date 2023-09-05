@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -236,10 +235,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7401a40f18ad1b8b",
+  "active": "16892453be130236",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Por que eu deveria ser minha maior defensora?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que são ciclos e porque compreender os meus?.md",
     "O que é a mente macaca?.md",
@@ -266,7 +266,6 @@
     "4. Me, Myself and I/Testes/Numerologia 2023.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
     "2. Literature Notes/People/Pitágoras.md",
-    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP/25% de progresso.md",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
     "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
