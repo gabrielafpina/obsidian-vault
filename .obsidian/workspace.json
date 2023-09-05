@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são os 5R's para fortalecer a mente?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são os 5R's para fortalecer a mente?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são os 5R's para fortalecer a mente?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -296,8 +295,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f271e253e6e9d888",
+  "active": "16892453be130236",
   "lastOpenFiles": [
+    "Quais são os 5R's para fortalecer a mente?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "Exercício de reflexão sobre a procrastinação.md",
@@ -308,7 +308,6 @@
     "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que são ciclos e porque compreender os meus?.md",
     "O que é a mente macaca?.md",
-    "Quais são os 5R's para fortalecer a mente?.md",
     "O que é a técnica 5, 4, 3, 2, 1?.md",
     "O que é um 'interruptor de padrão'?.md",
     "Qual é a chave para lidar com a ansiedade e procrastinação?.md",

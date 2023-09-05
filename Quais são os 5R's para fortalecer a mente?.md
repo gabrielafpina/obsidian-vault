@@ -21,7 +21,26 @@ Jay Shetty apresenta a técnica dos "5 Rs" como um meio para fortalecer a "Monk 
 
 O objetivo dessa técnica é ajudá-lo a desenvolver uma mente mais focada e disciplinada, permitindo que você maneje melhor as pressões e os desafios que levam à ansiedade e à procrastinação. Ao aplicar os "5 Rs" de Jay Shetty, você está mais apto a adotar uma abordagem consciente e deliberada para sua vida, o que pode ser extremamente útil para minimizar a procrastinação e a ansiedade.
 
-**COMO:**
+**EXEMPLO:**
+- **Razão**
+    - "O primeiro 'R' é Razão. Aqui, a sua razão pode ser querer se sentir mais saudável, melhorar sua autoestima ou até mesmo preparar-se para um evento específico."
+    - **Aplicação**: "Sua 'Razão' para emagrecer 5 kg pode ser se sentir mais confiante nas suas roupas de verão."
+
+- **Revisão** 
+    - "O segundo 'R' é Revisão. Este é o processo de verificar o progresso."
+    - **Aplicação**: "Para emagrecer 5 kg, você pode planejar se pesar toda semana no mesmo dia e horário, para monitorar seu progresso."
+
+- **Rumo**  
+    - "O terceiro 'R' é Rumo, que é basicamente o seu plano de ação."
+    - **Aplicação**: "Seu 'Rumo' pode ser uma dieta balanceada e um programa de exercícios aprovado pelo seu médico ou nutricionista."
+
+- **Rotina**    
+    - "O quarto 'R' é Rotina, e isso é onde a consistência entra em jogo."
+    - **Aplicação**: "Sua 'Rotina' pode incluir fazer exercícios aeróbicos 3 vezes por semana e comer uma dieta rica em proteínas e vegetais."
+
+- **Reflexão**    
+    - "O último 'R' é Reflexão, que é sobre analisar o que está funcionando e o que não está."
+    - **Aplicação**: "Ao final de cada semana, você pode refletir sobre o que funcionou bem (talvez você tenha realmente gostado de um determinado treino) e o que precisa ser ajustado (talvez você tenha comido mais doces do que deveria)."
 
 **PENSADORES:**
 
