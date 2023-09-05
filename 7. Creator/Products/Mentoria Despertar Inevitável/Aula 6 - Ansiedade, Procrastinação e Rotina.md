@@ -6,6 +6,7 @@
 5. O que é a Procrastinação?
 6. [[Como a Ansiedade e Procrastinação te atrasam?]]
 7. [[Quais são as principais causas da procrastinação?]]
+	1. [[Exercício de reflexão sobre a procrastinação]]
 8. [[Quais são consequências da procrastinação?]]
 9. [[O que é a mente macaca?]]
 10. [[Qual é a chave para lidar com a ansiedade e procrastinação?]]
