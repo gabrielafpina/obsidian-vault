@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "96bff0c39d150d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb39619d0b1eb4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f575a9c2186ca517",
             "type": "leaf",
             "state": {
@@ -52,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
+                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md"
+                "file": "4. Me, Myself and I/Brainstorming/Compilado de testes.md"
               }
             }
           },
@@ -231,11 +255,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db692b260683a441",
+  "active": "96bff0c39d150d0f",
   "lastOpenFiles": [
+    "4. Me, Myself and I/Testes/Âncora de Carreira Gá.md",
+    "4. Me, Myself and I/Brainstorming/Compilado de testes.md",
+    "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
     "4. Me, Myself and I/Testes/Resultado Ga Eneagrama.md",
     "4. Me, Myself and I/Testes/Preferência Cerebral.md",
-    "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
     "4. Me, Myself and I/Testes/Mapa Astral.md",
     "4. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/Numerologia.md",
@@ -261,8 +287,6 @@
     "2. Literature Notes/Topics/Pré-consciente.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
-    "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aulas Bônus/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
