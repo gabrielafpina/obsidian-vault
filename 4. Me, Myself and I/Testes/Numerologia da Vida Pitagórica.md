@@ -10,4 +10,4 @@ Alma (somatório de todas as vogais) relacionada ao Eu, ou seja, ao que está no
 
 **NÚMERO DE IMAGEM (consoantes):**
 Imagem (somatória de todas as consoantes) representa a imagem, ou seja, tudo o que é demonstrado aos outros, principalmente para pessoas que não estão em meu convívio diário.
-- 9: 
+- 9: pessoas com aparência respeitosa, sábios (arquétipo do sábio), digno, justo. Pessoas visualizam nela o quanto ela faz o bem. São vistas com certeza, decididas. Conversam sobre assuntos variados, repertório de assuntos e vivências. Vistas como pessoas que transitam muito bem entre tribos, grupos, pessoas, sociedades. Vistas como tendo profundidade e sendo fáceis de lidar. Vistas com mente aberta do mundo - aceitam, não julgadoras. Cuidado com o quanto você pode ser influenciado pelas outras pessoas, que podem estar tendo controle sobre você, sua vida e as atitudes que você toma. 
