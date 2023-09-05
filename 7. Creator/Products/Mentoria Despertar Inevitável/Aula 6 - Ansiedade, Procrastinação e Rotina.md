@@ -8,13 +8,9 @@
 7. [[Quais são as principais causas da procrastinação?]]
 8. [[Quais são consequências da procrastinação?]]
 9. [[O que é a mente macaca?]]
-- Qual é a melhor forma que eu aprendi a lidar com a ansiedade?
+10. [[Qual é a chave para lidar com a ansiedade e procrastinação?]]
+
 - Estratégias para quebrar o ciclo da ansiedade e procrastinação
-
-9. **Entendendo a Procrastinação**
-- As raízes emocionais e psicológicas da procrastinação.
-- O ciclo da procrastinação e como quebrá-lo.
-
 
 ----
 **SLIDES:**
@@ -67,7 +63,10 @@ Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Ag
 Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a ansiedade e a consequência pode ser a procrastinação.
 
 - Slide 11: Chave para lidar com a ansiedade e procrastinação
-
+É necessário entender melhor a nossa mente
+- Auto-observação e Meditação
+- Identificação de gatilhos
+- Criação de metas realistas
 
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
