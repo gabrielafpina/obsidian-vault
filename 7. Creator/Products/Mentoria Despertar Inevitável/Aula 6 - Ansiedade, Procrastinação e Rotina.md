@@ -4,7 +4,7 @@
 
 3. **O Que é Ansiedade?**
 - Sintomas comuns da ansiedade
-- Diferença entre ansiedade normal e desordem de ansiedade.
+- [[Qual é a diferença entre a ansiedade e o medo?]]
 - Como a ansiedade afeta a rotina e a produtividade.
 
 5. **Entendendo a Procrastinação**

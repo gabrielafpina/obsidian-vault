@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d3fed49dd4a83b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a diferença entre a ansiedade e o medo?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+                "file": "Qual é a diferença entre a ansiedade e o medo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+                "file": "Qual é a diferença entre a ansiedade e o medo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
+                "file": "Qual é a diferença entre a ansiedade e o medo?.md"
               }
             }
           },
@@ -199,11 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16892453be130236",
+  "active": "3d3fed49dd4a83b5",
   "lastOpenFiles": [
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "Qual é a diferença entre a ansiedade e o medo?.md",
     "2. Literature Notes/Topics/Numerologia.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "4. Me, Myself and I/Testes/Numerologia da Vida Pitagórica.md",
