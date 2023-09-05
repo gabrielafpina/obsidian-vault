@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um 'interruptor de padrão'?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um 'interruptor de padrão'?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um 'interruptor de padrão'?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -308,7 +307,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a7626f7171b4d10",
+  "active": "16892453be130236",
   "lastOpenFiles": [
     "O que é a técnica 5, 4, 3, 2, 1?.md",
     "O que é um 'interruptor de padrão'?.md",
