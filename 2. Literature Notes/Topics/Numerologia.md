@@ -28,6 +28,7 @@ Existem várias numerologias: cabalística, pitagórica, etc.
 **PENSADORES:**
 
 **FRASES:**
+- [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
 
 ---------
 
