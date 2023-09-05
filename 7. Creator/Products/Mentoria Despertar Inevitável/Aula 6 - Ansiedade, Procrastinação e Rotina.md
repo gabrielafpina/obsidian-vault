@@ -66,6 +66,9 @@ Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Ag
 - Slide 10: A Mente Macaca
 Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a ansiedade e a consequência pode ser a procrastinação.
 
+- Slide 11: Chave para lidar com a ansiedade e procrastinação
+
+
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
 - Reduz o estresse

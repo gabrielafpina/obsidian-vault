@@ -21,6 +21,8 @@ A Mente Macaca é impulsiva, inquieta e facilmente distraída. Ela se concentra 
 **COMO CONTRIBUI PARA A ANSIEDADE?**
 A Mente Macaca contribui para a ansiedade, pois está *constantemente preocupada com o que pode dar errado ou com o que ainda precisa ser alcançado*. A incapacidade de se concentrar no presente pode alimentar ansiedade sobre o futuro e remorso sobre o passado.
 
+A ansiedade pode ser vista como o combustível que alimenta a mente macaca. Quando estamos ansiosos, nossa mente se torna ainda mais inquieta, tornando mais difícil focar em uma tarefa.
+
 **PROCRASTINAÇÃO:**
 A *busca de gratificação instantânea *é um dos principais motores da procrastinação. Em vez de focar em tarefas que são importantes mas talvez não tão emocionantes, a Mente Macaca nos leva a escolher atividades que oferecem prazer imediato mas pouco valor a longo prazo.
 

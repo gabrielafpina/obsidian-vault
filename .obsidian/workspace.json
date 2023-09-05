@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a mente macaca?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a mente macaca?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a mente macaca?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -272,10 +271,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ec147061e810998",
+  "active": "16892453be130236",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "O que é a mente macaca?.md",
+    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Quais são consequências da procrastinação?.md",
     "Como a Ansiedade e Procrastinação te atrasam?.md",
     "Quais são as principais causas da procrastinação?.md",
