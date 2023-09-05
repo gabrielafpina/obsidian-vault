@@ -27,15 +27,13 @@
 - Slide 2: Método 3AP
 
 - Slide 3: Entendendo a ansiedade
+A ansiedade é uma emoção normal e natural que sentimos em uma situação estressante.
 	- Preocupação constante
 	- Problemas de sono
 	- Músculos tensos
 	- Dificuldade de concentração
 
-- Slide 4: O que é a Ansiedade?
-A ansiedade é uma emoção normal e natural que sentimos em uma situação estressante.
-
-- Slide 5: Ansiedade x Medo
+- Slide 4: Ansiedade x Medo
 **Medo**
 - **O que é**: Resposta a uma ameaça imediata e real.
 - **Sintomas Físicos**: Batimentos cardíacos acelerados, respiração rápida.
@@ -46,10 +44,10 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 - **Sintomas Físicos**: Inquietação, fadiga, problemas de concentração.
 - **Exemplo**: Preocupação com um exame que acontecerá daqui a uma semana.
 
-- Slide 6: O que é a Procrastinação?
+- Slide 5: O que é a Procrastinação?
 Procrastinação não é apenas a arte de adiar tarefas; é um comportamento complexo que envolve evitar fazer o que nos causa desconforto emocional.
 
-- Slide 7: Como a Ansiedade e Procrastinação te atrasam
+- Slide 6: Como a Ansiedade e Procrastinação te atrasam
 A consequência da ansiedade pode ser a procrastinação.
 A ansiedade faz com que nossa mente enxergue determinada tarefa como uma 'ameaça', levando à procrastinação como um mecanismo de defesa.
 Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Agravamento da Ansiedade → Procrastinação...
@@ -91,12 +89,20 @@ Se você não cumprir, pode devastar a sua autoestima a longo prazo.
 
 - Slide 15: Rotina da Consciência Elevada (RCE)
 Pilares e suas fases
-#### Pilar 1: Intenção Consciente
+- Pilar 1: Intenção Consciente
+	- Definição da Intenção do Dia
+- Pilar 2: Conexão Espiritual
+	- Orações do Dia e Leitura Espiritual
+- Pilar 3: Autenticidade e Autoconhecimento
+	- Ativação de Arquétipo
+- Pilar 4: Presença e Consciência
+	- Meditação
+- Pilar 5: Positividade e Gratidão
+	- Afirmações
+- Pilar 6: Vitalidade Física e Mental
+	- Exercícios
 
-- **Fase Correspondente**: Definição da Intenção do Dia
-
-
-- Slide : Seja o seu maior defensor
+- Slide 16: Seja o seu maior defensor
 Acredite em seus Sonhos
 Ambiente mental mais positivo
 Facilita a ação
