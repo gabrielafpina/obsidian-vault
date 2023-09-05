@@ -10,6 +10,7 @@
 8. [[Quais são consequências da procrastinação?]]
 9. [[O que é a mente macaca?]]
 10. [[Qual é a chave para lidar com a ansiedade e procrastinação?]]
+	1. [[Meditação Guiada Jornada pelo Labirinto da Mente]]
 11. [[O que é a técnica 5, 4, 3, 2, 1?]]
 12. [[O que são ciclos e porque compreender os meus?]]
 13. [[Quais são os 5R's para fortalecer a mente?]]
@@ -53,21 +54,21 @@ A consequência da ansiedade pode ser a procrastinação.
 A ansiedade faz com que nossa mente enxergue determinada tarefa como uma 'ameaça', levando à procrastinação como um mecanismo de defesa.
 Procrastinação → Aumento da Ansiedade → Aumento da Procrastinação → Agravamento da Ansiedade → Procrastinação...
 
-- Slide 8: As principais causas da procrastinação
+- Slide 7: As principais causas da procrastinação
 	- Medo do Fracasso
 	- Perfeccionismo
 	- Incerteza
 	- Autossabotagem
 	- Carga Emocional
 
-- Slide 9: Consequências da procrastinação
+- Slide 8: Consequências da procrastinação
 - Curto Prazo: Estresse e queda da qualidade do trabalho
 - Longo Prazo: Depressão, redução da autoestima, insônia, problemas cardíacos
 
-- Slide 10: A Mente Macaca
+- Slide 9: A Mente Macaca
 Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a ansiedade e a consequência pode ser a procrastinação.
 
-- Slide 11: Chave para lidar com a ansiedade e procrastinação
+- Slide 10: Chave para lidar com a ansiedade e procrastinação
 É necessário entender melhor a nossa mente
 - Auto-observação e Meditação
 - Identificação de gatilhos
