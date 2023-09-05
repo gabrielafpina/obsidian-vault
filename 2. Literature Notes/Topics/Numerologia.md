@@ -38,6 +38,10 @@ Imagem (somatória de todas as consoantes) representa a imagem, ou seja, tudo o 
 Nos mostra o que é possível vivenciar e enfrentar na jornada terrestre, na vida, ela revela muito sobre o destino e situações a serem vivenciadas a partir do nascimento.
 ![[Captura de Tela 2023-09-04 às 21.20.57.png]]
 
+**NÚMERO DE EXPRESSÃO:**
+- 1: É o início. Tem uma facilidade com iniciar as coisas. É do 1 que surge o 2 e que depois se manifesta depois no 3 ponto, que depois se manifesta no triângulo, trazendo a tridimensionalidade. A pessoa que tem expressão 1, tem uma grande questão com liderança, uma ambição, busca por algo único dela. São pessoas que tem uma energia de independência, individualidade. Tem uma questão forte com obstinação - fazer acontecer, ir atrás. Elas conduzem o seu propósito, tomando posse do domínio da sua vida. Tem uma questão de defender as suas ideias, de acreditar muito fortemente nas suas conquistas, mas pode cair em uma questão de egoísmo, ambição desenfreada e pode ter uma personalidade meio dominadora em uma relação - principalmente, íntima, mas pode ser de trabalho, etc. Importante colocar atenção nas coisas que vai manifestar com relação à maturação disso, porque pode ser que inicie as coisas e elas não amadureçam.
+- 3: pessoa extrovertida, que gosta de se comunicar. É criativa, dinâmica.
+
 **FRASES:**
 - [[João Yida]]: 'Se você quer ser milionário, saiba o seu mapa astrológico. Se você quer ser bilionário, tenha consciência do seu mapa numerológico.'
 
