@@ -72,7 +72,7 @@ Sabe quando a sua mente pula de pensamento em pensamento? O combustível é a an
 - Slide 12: Técnica 5, 4, 3, 2, 1
 Contagem regressiva mental de 5 até 1 e tomada de ação imediata para interromper o ciclo.
 
-
+- Slide 13:
 
 
 
