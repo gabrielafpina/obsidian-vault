@@ -42,7 +42,10 @@ A ansiedade é uma emoção normal e natural que sentimos em uma situação estr
 - **Sintomas Físicos**: Inquietação, fadiga, problemas de concentração.
 - **Exemplo**: Preocupação com um exame que acontecerá daqui a uma semana.
 
-- Slide 6:
+- Slide 6: O que é a Procrastinação?
+Procrastinação não é apenas a arte de adiar tarefas; é um comportamento complexo que envolve evitar fazer o que nos causa desconforto emocional.
+
+- Slide 7:
 
 - Slide 6: Como eu aprendi a lidar com a minha ansiedade?
 ***Meditação***
