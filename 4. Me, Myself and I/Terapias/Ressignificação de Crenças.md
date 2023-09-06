@@ -52,5 +52,8 @@ Eu só não saio de casa por conta de um compromisso com a familia
 Me aproprio da energia masculina, por iso não tenho libido. tenho todos os femininos fragilizados e o masculino ainda mais, porque o meu pai tira a propria vida. então, quem sou eu nesse rolê?
 
 #### Sessão 4
+**DATA:** 06/09/2023
 Ego intelectual muito forte, porque eu me sinto uma bosta, tendo o tempo todo provando o meu valor
 está na hora de parar
+xingo como minha avó silvina.
+Dirk Gently's Holistic Detective Agency
