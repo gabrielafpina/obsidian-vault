@@ -62,4 +62,8 @@ Deus criou esse universo unicamente para mim.
 eu reprimi a minha espontaneidade
 Aprendo abuso e agressividade ela minha avó.
 Preciso provar que não sou uma idiota. Queria ser perfeita para agradar a vovó.
-Se as avós batem nos neos, não confiam no potencial dos filhos que criaram. posso não reconhecer nem meus pai, nem minha mãe. e ai eu coloco a mim ocmo maior. mas se ees são inuteis, eu também sou. ai eu quero ser melhor 
+Se as avós batem nos neos, não confiam no potencial dos filhos que criaram. posso não reconhecer nem meus pai, nem minha mãe. e ai eu coloco a mim ocmo maior. mas se ees são inuteis, eu também sou. ai eu quero ser melhor do que minhas avos, me sentindo miserável e inutil.
+a alma do suicida era tocar a alma das pessoas ao redor de algum jeito.
+dentro de 50 trilhoes de celulas que compoem você, como pode ter miséria
+
+'você é uma idiota' - todo julgamento é uma confissão
