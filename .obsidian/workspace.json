@@ -13,139 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93b39fc4f1ea7d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62cb1841d3288de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed9fa7fdfef0157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac7c9881630242d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a técnica 5, 4, 3, 2, 1?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f72b1468e21707dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meditação Guiada Jornada pelo Labirinto da Mente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dff6646bd54cf54e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a chave para lidar com a ansiedade e procrastinação?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e10e86f066494889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a mente macaca?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3de28e798bde52e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são consequências da procrastinação?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69bd3f9de612285e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56240653a1a9bbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercício de reflexão sobre a procrastinação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af6453afb9be7905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como procrastinar menos?.md",
+                "file": "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -287,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md",
+                "file": "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md",
+                "file": "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por que eu deveria ser minha maior defensora?.md"
+                "file": "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md"
               }
             }
           },
@@ -367,12 +235,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93b39fc4f1ea7d54",
+  "active": "16892453be130236",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "O que é a técnica 5, 4, 3, 2, 1?.md",
+    "Por que eu deveria ser minha maior defensora?.md",
     "O que é a Rotina da Consciência Elevada (RCE)?.md",
     "Qual é a importância de fazer promessas e mantê-las?.md",
-    "O que é a técnica 5, 4, 3, 2, 1?.md",
     "Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "Qual é a chave para lidar com a ansiedade e procrastinação?.md",
     "O que é a mente macaca?.md",
@@ -385,7 +254,6 @@
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "Qual é a diferença entre a ansiedade e o medo?.md",
     "Quais são os 5R's para fortalecer a mente?.md",
-    "Por que eu deveria ser minha maior defensora?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "O que são ciclos e porque compreender os meus?.md",
     "O que é um 'interruptor de padrão'?.md",
