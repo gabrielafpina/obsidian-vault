@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "e2e47c0c3f128c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Deus só entende 'sim'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d487af63a1d80403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deus só diz SIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rotina",
+                "query": "deus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deus só diz SIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deus só diz SIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deus só diz SIM.md"
+              }
             }
           },
           {
@@ -190,8 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "d487af63a1d80403",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Deus só entende 'sim'.md",
+    "Deus só diz SIM.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
@@ -221,7 +251,6 @@
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Qual é a diferença entre a ansiedade e o medo?.md",
     "2. Literature Notes/Topics/Quais são os 5R's para fortalecer a mente?.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",

@@ -19,6 +19,8 @@ Só que esse pensamento de que 'eu não sou digna' é muito egocêntrico e mesqu
 
 O que te faz menos digno, que outras pessoas? Que [[Ego]] é esse que você tem? Você acha que você é tão especial assim? Você acha que a criação vai realmente falar, 'esse é mais digno, do que esse. Esse pode, esse não pode'? Não. Tudo é questão de vibração. Tudo é questão de expandir sua vibração. [[A gente atrai o que a gente vibra]].
 
+[[Deus só diz SIM]]
+
 **COMO:**
 
 **PENSADORES:**
