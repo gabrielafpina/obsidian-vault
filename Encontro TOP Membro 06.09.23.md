@@ -5,6 +5,8 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+- Criar zona de curiosidade
+- Definir quais são as crenças do meu movimento
 
 **COMO:**
 
