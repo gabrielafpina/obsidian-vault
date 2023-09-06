@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6ed9fa7fdfef0157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ac7c9881630242d2",
             "type": "leaf",
             "state": {
@@ -251,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a técnica 5, 4, 3, 2, 1?.md",
+                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a técnica 5, 4, 3, 2, 1?.md",
+                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a técnica 5, 4, 3, 2, 1?.md"
+                "file": "Qual é a importância de fazer promessas e mantê-las?.md"
               }
             }
           },
@@ -331,9 +343,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac7c9881630242d2",
+  "active": "6ed9fa7fdfef0157",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "O que é a técnica 5, 4, 3, 2, 1?.md",
     "Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "Qual é a chave para lidar com a ansiedade e procrastinação?.md",
     "O que é a mente macaca?.md",
@@ -351,7 +364,6 @@
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que são ciclos e porque compreender os meus?.md",
-    "O que é a técnica 5, 4, 3, 2, 1?.md",
     "O que é um 'interruptor de padrão'?.md",
     "2. Literature Notes/Topics/Numerologia.md",
     "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
