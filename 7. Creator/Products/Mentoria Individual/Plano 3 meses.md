@@ -25,11 +25,22 @@
 	- **Ferramentas**: Meditação guiada para encontrar a criança interior
 	- **Exercícios**: Diálogo interno
 
+**Semana 4**: Feridas Emocionais
+	- **Objetivo**: Identificar e começar a curar feridas emocionais.
+	- **Ferramentas**: Técnicas de psicanálise
+	- **Exercícios**: Jornal terapêutico
+
 ---
 
-#### Módulo 2: Rotina e Hábitos
+#### Módulo 2: Autossabotagem e Hábitos
 
-- **Semana 4**: Construção de Rotina
+
+- **Semana 5**: Autossabotagem
+    - **Objetivo**: Identificar e combater a autossabotagem.
+    - **Ferramentas**: Parts Work
+    - **Exercícios**: Reenquadramento de crenças limitantes
+
+- **Semana 6**: Construção de Rotina
     - **Objetivo**: Estabelecer uma rotina saudável.eu 
     - **Ferramentas**: Planejador de rotina
     - **Exercícios**: Implementação de meditação e afirmações na rotina
@@ -38,12 +49,12 @@
 
 #### Módulo 3: Emoções e Comunicação
 
-- **Semana 5**: Gerenciando Ansiedade e Depressão
+- **Semana 7**: Gerenciando Ansiedade e Depressão
 	- **Objetivo**: Adquirir ferramentas para lidar com estados emocionais desafiadores.
 	- **Ferramentas**: Técnicas de PNL (exercício de sistemas representacionais) e meditação
 	- **Exercícios**: Jornal emocional
 
-**Semana 6**: Como viver de acordo com a CNV
+**Semana 8**: Como viver de acordo com a CNV
 	- **Objetivo**: Estabelecer uma comunicação que seja a partir do coração, se conectando com o outro de forma mais profunda.
 	- **Ferramentas**: CNV
 	- **Exercícios**: Role-playing para prática de CNV
@@ -52,37 +63,19 @@
 
 #### Módulo 4: Carreira e Propósito
 
-**Semana 7**: Âncora de Carreira
+**Semana 9**: Âncora de Carreira
 	- **Objetivo**: Entender as motivações e interesses na carreira.
 	- **Ferramentas**: Teste de Âncora de Carreira
 	- **Exercícios**: Análise de resultados
 
-**Semana 8**: Propósito
+**Semana 10**: Propósito
 	- **Objetivo**: Compreender o seu propósito nessa vida.
 	- **Ferramentas**: Exercícios de visualização, Mapa dos Sonhos
 	- **Exercícios**: Criação de um manifesto pessoal
 
-- **Semana 7**: Autossabotagem
-    - **Objetivo**: Identificar e combater a autossabotagem.
-    - **Ferramentas**: Parts Work
-    - **Exercícios**: Reenquadramento de crenças limitantes
-
-----
-#### Módulo 5: Autossabotagem e Feridas Emocionais
-
-- **Semana 9**: Autossabotagem
-    - **Objetivo**: Identificar e combater a autossabotagem.
-    - **Ferramentas**: Parts Work
-    - **Exercícios**: Reenquadramento de crenças limitantes
-
-**Semana 10**: Feridas Emocionais
-	- **Objetivo**: Identificar e começar a curar feridas emocionais.
-	- **Ferramentas**: Técnicas de psicanálise
-	- **Exercícios**: Jornal terapêutico
-
 ---
 
-#### Módulo 6: Revisão e Planejamento Futuro
+#### Módulo 5: Revisão e Planejamento Futuro
 
 - **Semana 11-12**: Revisão e Implementação
     - **Objetivo**: Revisar o progresso e planejar os próximos passos.
