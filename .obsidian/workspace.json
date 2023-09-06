@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Me, Myself and I/Testes/Cronotipo.md",
+                "file": "3. Me, Myself and I/Testes/Cronotipo.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Products/Mentoria Individual/Plano 3 meses.md",
+                "file": "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Creator/Products/Mentoria Individual/Método TransformAção.md",
+                "file": "6. Creator/Products/Mentoria Individual/Método TransformAção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c20fe4d0a3d0ac21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b0e9612c5a6ad98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encontro TOP Membros 06/09.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rotina ",
+                "query": "alan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +187,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 81.04265402843602,
+        "dimension": 47.014218009478675,
         "children": [
           {
             "id": "f86c735e844ed812",
@@ -196,7 +219,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 18.95734597156398,
+        "dimension": 52.98578199052133,
         "children": [
           {
             "id": "34bc9bc63f694fbd",
@@ -204,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Creator/Products/Mentoria Individual/Método TransformAção.md",
+                "file": "Encontro TOP Membros 06/09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Creator/Products/Mentoria Individual/Método TransformAção.md",
+                "file": "Encontro TOP Membros 06/09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Creator/Products/Mentoria Individual/Método TransformAção.md"
+                "file": "Encontro TOP Membros 06/09.md"
               }
             }
           },
@@ -256,13 +279,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,17 +305,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd2192091fa641e9",
+  "active": "9b0e9612c5a6ad98",
   "lastOpenFiles": [
-    "7. Creator/Products/Mentoria Individual/Plano 3 meses.md",
-    "7. Creator/Products/Mentoria Individual/Método TransformAção.md",
+    "2. Literature Notes/People/Alan Nicolas.md",
+    "Encontro TOP Membros 06/09.md",
+    "Encontro TOP Membros 06",
+    "6. Creator/Products/Mentoria Individual/Método TransformAção.md",
+    "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
-    "7. Creator/Products/Mentoria Individual",
+    "6. Creator/Products/Mentoria Individual",
     "2. Literature Notes/Meditações Guiadas",
-    "4. Me, Myself and I/Testes/Cronotipo.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "3. Me, Myself and I/Testes/Cronotipo.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "2. Literature Notes/Topics/Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-    "4. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+    "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "2. Literature Notes/Topics/O que é a técnica 5, 4, 3, 2, 1?.md",
     "2. Literature Notes/Topics/Por que eu deveria ser minha maior defensora?.md",
     "2. Literature Notes/Topics/Qual é a importância de fazer promessas e mantê-las?.md",
@@ -309,29 +333,26 @@
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Qual é a diferença entre a ansiedade e o medo?.md",
     "2. Literature Notes/Topics/Quais são os 5R's para fortalecer a mente?.md",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/O que são ciclos e porque compreender os meus?.md",
     "2. Literature Notes/Topics/O que é um 'interruptor de padrão'?.md",
-    "2. Literature Notes/Topics/Numerologia.md",
-    "6. Shots, Images & PDFs/ancora-de-carreira.pdf",
-    "7. Creator/Products/Mentoria Despertar Inevitável/Aula 5 - Valores Pessoais.md",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
-    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
-    "7. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
-    "6. Shots, Images & PDFs/eneagrama_02-1024x786.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.39.39.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
-    "7. Creator/Métodos",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
-    "7. Creator/Products/Workshop/Quebrando A Autossabotagem",
-    "7. Creator/Products/Workshop",
-    "7. Creator/Newsletter",
-    "4. Me, Myself and I/Terapias",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
+    "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
+    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
+    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
+    "5. Shots, Images & PDFs/eneagrama_02-1024x786.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.39.39.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
+    "6. Creator/Métodos",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
+    "6. Creator/Products/Workshop/Quebrando A Autossabotagem",
+    "6. Creator/Products/Workshop",
+    "6. Creator/Newsletter",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
     "Untitled.canvas"
   ]
 }
