@@ -10,7 +10,12 @@
 
 #### Módulo 1: Autoconhecimento e Valores Pessoais
 
-- **Semana 1**:  Valores Pessoais
+- **Semana 1**:  Ego e Consciência
+	- **Objetivo**: Entender o papel do ego e da consciência.
+	- **Ferramentas**: Exercício dos 3 eus
+	- **Exercícios**: Reflexão e discussão
+
+- **Semana 2**:  Valores Pessoais
     - **Objetivo**: Identificar e entender os valores pessoais.
     - **Ferramentas**: Lista de valores
     - **Exercícios**: Priorização de valores
@@ -26,51 +31,37 @@
 
 ---
 
-#### Módulo 3: Carreira e Comunicação
+#### Módulo 3: Carreira e Propósito
 
-- **Semana 4**: Âncora de Carreira
+- **Semana 4**: Propósito
+    - **Objetivo**: Compreender o seu propósito nessa vida.
+    - **Ferramentas**: ?
+    - **Exercícios**: ?
+
+- **Semana 5**: Âncora de Carreira
     - **Objetivo**: Entender as motivações e interesses na carreira.
     - **Ferramentas**: Teste de Âncora de Carreira
     - **Exercícios**: Análise de resultados
-
-- **Semana 5**: Melhorando a Comunicação
-    
-    - **Objetivo**: Aprender técnicas de comunicação eficaz.
-    - **Ferramentas**: Role-playing
-    - **Exercícios**: Simulações de situações de comunicação
 
 ---
 
 #### Módulo 4: Gerenciamento de Estresse e Emoções
 
-- **Semana 6**: Utilizando Âncoras (PNL)
-    
-    - **Objetivo**: Aprender a utilizar âncoras emocionais.
-    - **Ferramentas**: Técnicas de PNL
-    - **Exercícios**: Prática de ancoragem
-- **Semana 7**: Sistemas Representacionais
-    
-    - **Objetivo**: Compreender os diferentes sistemas representacionais.
-    - **Ferramentas**: Teste de sistemas representacionais
-    - **Exercícios**: Análise de resultados
-- **Semana 8**: Ego e Consciência
-    
-    - **Objetivo**: Entender o papel do ego e da consciência.
-    - **Ferramentas**: Exercício dos 3 eus
-    - **Exercícios**: Reflexão e discussão
+- **Semana 6**: Gerenciando Ansiedade e Depressão
+	- **Objetivo**: Adquirir ferramentas para lidar com estados emocionais desafiadores.
+	- **Ferramentas**: Técnicas de PNL (exercício de sistemas representacionais) e meditação
+	- **Exercícios**: Jornal emocional
 
----
-
-#### Módulo 5: Autossabotagem e Espiritualidade
-
-- **Semana 9**: Autossabotagem
-    
+- **Semana 7**: Autossabotagem
     - **Objetivo**: Identificar e combater a autossabotagem.
-    - **Ferramentas**: Técnicas de PNL para reenquadramento
+    - **Ferramentas**: Parts Work
     - **Exercícios**: Reenquadramento de crenças limitantes
-- **Semana 10**: Conexão Espiritual
-    
-    - **Objetivo**: Estabelecer uma conexão espiritual mais profunda.
+
+----
+#### Módulo 5: Comunicação Não-Violenta
+
+- **Semana 8**: Como viver de acordo com a CNV
+    - **Objetivo**: Estabelecer uma comunicação que seja a partir do cor
     - **Ferramentas**: Meditação guiada
     - **Exercícios**: Diário espiritual
 
