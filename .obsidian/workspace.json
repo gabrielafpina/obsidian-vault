@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "9b0e9612c5a6ad98",
+            "id": "0c0fa37ce84bc61f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encontro TOP Membros 06/09.md",
+                "file": "Encontro TOP Membro 06.09.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -227,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encontro TOP Membros 06/09.md",
+                "file": "Encontro TOP Membro 06.09.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encontro TOP Membros 06/09.md",
+                "file": "Encontro TOP Membro 06.09.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encontro TOP Membros 06/09.md"
+                "file": "Encontro TOP Membro 06.09.23.md"
               }
             }
           },
@@ -305,9 +306,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b0e9612c5a6ad98",
+  "active": "0c0fa37ce84bc61f",
   "lastOpenFiles": [
     "2. Literature Notes/People/Alan Nicolas.md",
+    "Encontro TOP Membro 06.09.23.md",
     "Encontro TOP Membros 06/09.md",
     "Encontro TOP Membros 06",
     "6. Creator/Products/Mentoria Individual/Método TransformAção.md",
@@ -335,7 +337,6 @@
     "2. Literature Notes/Topics/Quais são os 5R's para fortalecer a mente?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "2. Literature Notes/Topics/O que são ciclos e porque compreender os meus?.md",
-    "2. Literature Notes/Topics/O que é um 'interruptor de padrão'?.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
