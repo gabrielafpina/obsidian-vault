@@ -175,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md"
+                "file": "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md"
               }
             }
           },
@@ -355,8 +354,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62cb1841d3288de2",
+  "active": "16892453be130236",
   "lastOpenFiles": [
+    "O que é a Rotina da Consciência Elevada (RCE)?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que é a técnica 5, 4, 3, 2, 1?.md",
@@ -372,7 +372,6 @@
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "Qual é a diferença entre a ansiedade e o medo?.md",
     "Quais são os 5R's para fortalecer a mente?.md",
-    "O que é a Rotina da Consciência Elevada (RCE)?.md",
     "Por que eu deveria ser minha maior defensora?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
     "O que são ciclos e porque compreender os meus?.md",
