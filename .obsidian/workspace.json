@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "62cb1841d3288de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ed9fa7fdfef0157",
             "type": "leaf",
             "state": {
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
+                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a importância de fazer promessas e mantê-las?.md",
+                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a importância de fazer promessas e mantê-las?.md"
+                "file": "O que é a Rotina da Consciência Elevada (RCE)?.md"
               }
             }
           },
@@ -343,9 +355,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ed9fa7fdfef0157",
+  "active": "62cb1841d3288de2",
   "lastOpenFiles": [
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
+    "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que é a técnica 5, 4, 3, 2, 1?.md",
     "Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "Qual é a chave para lidar com a ansiedade e procrastinação?.md",
@@ -362,7 +375,6 @@
     "O que é a Rotina da Consciência Elevada (RCE)?.md",
     "Por que eu deveria ser minha maior defensora?.md",
     "7. Creator/Products/Mentoria Despertar Inevitável/Aula 4 - Espiritualidade.md",
-    "Qual é a importância de fazer promessas e mantê-las?.md",
     "O que são ciclos e porque compreender os meus?.md",
     "O que é um 'interruptor de padrão'?.md",
     "2. Literature Notes/Topics/Numerologia.md",
