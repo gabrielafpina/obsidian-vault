@@ -25,7 +25,7 @@
 #### Módulo 2: Rotina e Hábitos
 
 - **Semana 3**: Construção de Rotina
-    - **Objetivo**: Estabelecer uma rotina saudável.
+    - **Objetivo**: Estabelecer uma rotina saudável.eu 
     - **Ferramentas**: Planejador de rotina
     - **Exercícios**: Implementação de meditação e afirmações na rotina
 
@@ -61,10 +61,9 @@
 #### Módulo 5: Comunicação Não-Violenta
 
 - **Semana 8**: Como viver de acordo com a CNV
-    - **Objetivo**: Estabelecer uma comunicação que seja a partir do cor
-    - **Ferramentas**: Meditação guiada
-    - **Exercícios**: Diário espiritual
-
+    - **Objetivo**: Estabelecer uma comunicação que seja a partir do coração, se conectando com o outro de forma mais profunda
+    - **Ferramentas**: CNV
+    - **Exercícios**: ?
 ---
 
 #### Módulo 6: Revisão e Planejamento Futuro
