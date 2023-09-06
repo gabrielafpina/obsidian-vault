@@ -57,4 +57,7 @@ Ego intelectual muito forte, porque eu me sinto uma bosta, tendo o tempo todo pr
 está na hora de parar
 xingo como minha avó silvina.
 Dirk Gently's Holistic Detective Agency
-Deus criou esse universo unicamente para mimm.
+Matrix 1
+Deus criou esse universo unicamente para mim.
+eu reprimi a minha espontaneidade
+Aprendo 
