@@ -19,9 +19,14 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	1. Você não precisa justificar nada. Se for justificar, justifique o mínimo. [[Você se justifica porque quer ser aprovado pelo outro]]. Pare de perder o seu tempo e energia se justificando.
 	2. Quem te conhece profundamente e quem te respeita, acredita em você de primeira e não precisa das suas justificativas. Quem não te conhece e não te respeita, não te enxerga de igual para igual, não acredita em você e mesmo com toda a sua justificativa, nada vai mudar. [[Você é o maior especialista em ensinar aos outros como você quer ser tratado]].
 	3. Se uma pessoa vem se justificar para você, é porque você está nessa frequência e o universo traz um justificador para te mostrar que você está nessa frequência. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. [[Tá com problema? Ajoelha e reza]].
-3. **Fantasia**: 
+3. **Fantasia**: quando as pessoas ficam fantasiando as coisas, imaginando como vai ser, quando tal coisa acontecer, como teria sido se eu tivesse feito tal coisa. É fantasia, não é realidade. Estou perdendo minha energia e pensamento com coisas e suposições que não são reais. 'Se eu tivesse feito tal coisa', já era, você não fez. 
+	1. Te tira do estado de presença.
+	2. Fantasia sobre um relacionamento, sobre uma pessoa, situação. Só perde energia, nada muda.
+	3. Quando estou cocriando algo, quando tenho uma intenção e um propósito envolvido, é diferente.
+	4. Existe uma grande possibilidade da fantasia decorrer de outras partes da bandeira. Ex: mentira - mentir para uma pessoa e começar a fantasiar sobre o que o outro poderia pensar.
 4. **Charlatanismo**: pessoas que não falam nada com nada, não fala nada que presta. Coisas que não levam ninguém a lugar nenhum, que não muda a sua vida em nada.
 	1. A ideia é não nutrir, não participar, não construir e não contribuir com assuntos que não vão levar ninguém a lugar nenhum.
+	2. Observa qual roda você senta. Se ela contribui com assuntos elevados, ou não. E observe o seu comportamento, se você faz algo que dá paz para a sua alma ou se você fica querendo salvar e mudar o outro.
 5. **Identificação**: quando você esquece quem você é e começa a se identificar com alguma outra coisa. Coloca a sua atenção em outra coisa e, pode ser que você leve esse lunatismo para as pessoas que estão ao seu redor.
 	1. Com o que você tem se identificado diariamente?
 	2. A pessoa se identifica e ainda traz uma emoção para aquilo, se esquecendo de quem é.
