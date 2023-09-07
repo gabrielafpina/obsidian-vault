@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A alma quer paz, a alma quer felicidade.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A alma quer paz, a alma quer felicidade.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A alma quer paz, a alma quer felicidade.md"
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
               }
             }
           },
@@ -258,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd70d852934f3ecb",
+  "active": "6defafd088be2fbd",
   "lastOpenFiles": [
-    "Autoestima produz prosperidade.md",
     "A alma quer paz, a alma quer felicidade.md",
+    "Autoestima produz prosperidade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Aprenda a responder somente o que foi perguntado.md",
     "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
