@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existem 3 tipos de alimento para o nosso corpo.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existem 3 tipos de alimento para o nosso corpo.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existem 3 tipos de alimento para o nosso corpo.md"
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
               }
             }
           },
@@ -270,10 +270,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f46bcb5f93c1feab",
+  "active": "6defafd088be2fbd",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Existem 3 tipos de alimento para o nosso corpo.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "A alma quer paz, a alma quer felicidade.md",
     "Autoestima produz prosperidade.md",
     "Aprenda a responder somente o que foi perguntado.md",
