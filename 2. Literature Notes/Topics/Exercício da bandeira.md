@@ -21,11 +21,13 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	3. Se uma pessoa vem se justificar para você, é porque você está nessa frequência e o universo traz um justificador para te mostrar que você está nessa frequência. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. [[Tá com problema? Ajoelha e reza]].
 3. **Fantasia**: 
 4. **Charlatanismo**:
-5. **Identificação**:
+5. **Identificação**: quando você esquece quem você é e começa a se identificar com alguma outra coisa. Coloca a sua atenção em outra coisa e, pode ser que você leve esse lunatismo para as pessoas que estão ao seu redor.
+	1. Com o que você tem se identificado diariamente?
+	2. A pessoa se identifica e ainda traz uma emoção para aquilo, se esquecendo de quem é.
 6. **Consideração interna**: é para você lembrar que ninguém te deve nada. Se alguém passar por você e te der oi, ótimo. Se alguém passar por você e não te der oi, ótimo. Pare de ficar criando historinhas na sua cabeça, achando que você é o centro do mundo dos outros, querendo obrigar o outro a fazer uma coisa que não é o momento dele fazer.
 	1. Isso é uma maldição.
 	2. 'Você pra mim é problema seu'.
-	3. É aprender a cagar para o que as pessoas façam ou deixam de fazer.
+	3. É aprender a cagar para o que as pessoas fazem ou deixam de fazer. Porque eu não sei o que está acontecendo na vida do outro para ele reagir de determinada forma. [[Todo julgamento é uma confissão]].
 7. **Emoções negativas**: elas estão a todo momento e em todo lugar. É inteligente começarmos a lidar com as nossas emoções e não se conectar com emoções negativas do externo. A gente já tem que aprender a lidar com a nossa [[Criança Interior]], lidar com a raiva, culpa, vergonha. Já tem muita coisa, para que eu vou querer digerir e absorver emoções negativas do mundo externo, ouvindo o problema dos outros?
 	1. [[Existem 3 tipos de alimento para o nosso corpo]] e alguns deles são temporários, são um estímulo.
 	2. Observe, porque a auto observação te mostra o tipo de energias e emoções você está se conectando. [[Você é o observador]]. Cancela as energias negativas. [[Todo pensamento sabotador tá cancelado]]. Se você não cancela nos primeiros segundos, você vai entrando em um vórtex de pensamentos. [[Cadeia Emocional]].
