@@ -20,10 +20,12 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	2. Quem te conhece profundamente e quem te respeita, acredita em você de primeira e não precisa das suas justificativas. Quem não te conhece e não te respeita, não te enxerga de igual para igual, não acredita em você e mesmo com toda a sua justificativa, nada vai mudar. [[Você é o maior especialista em ensinar aos outros como você quer ser tratado]].
 	3. Se uma pessoa vem se justificar para você, é porque você está nessa frequência e o universo traz um justificador para te mostrar que você está nessa frequência. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. [[Tá com problema? Ajoelha e reza]].
 3. **Fantasia**: 
-4. **Charlatanismo**:
+4. **Charlatanismo**: 
 5. **Identificação**: quando você esquece quem você é e começa a se identificar com alguma outra coisa. Coloca a sua atenção em outra coisa e, pode ser que você leve esse lunatismo para as pessoas que estão ao seu redor.
 	1. Com o que você tem se identificado diariamente?
 	2. A pessoa se identifica e ainda traz uma emoção para aquilo, se esquecendo de quem é.
+		1. Ex: quando você está vendo um filme e começa a ficar ansioso ou com medo por conta do que está vendo no filme, já que você se identificou com a história do filme.
+		2. Como seria assistir um filme com total 0 identificação? Como se você fosse apenas o observador. 'Eu sou eu, eu não sou a pessoa que está chorando. Eu sou eu'. Assista o filme observando o que está acontecendo com você. O quanto você consegue estar em estado de presença para se observar? Identifique o que acontece com você enquanto você assiste a isso. Não se identifique com o que está acontecendo do lado externo. Você é uma outra coisa. Não acredite que você é aquilo que você está vendo.
 6. **Consideração interna**: é para você lembrar que ninguém te deve nada. Se alguém passar por você e te der oi, ótimo. Se alguém passar por você e não te der oi, ótimo. Pare de ficar criando historinhas na sua cabeça, achando que você é o centro do mundo dos outros, querendo obrigar o outro a fazer uma coisa que não é o momento dele fazer.
 	1. Isso é uma maldição.
 	2. 'Você pra mim é problema seu'.
