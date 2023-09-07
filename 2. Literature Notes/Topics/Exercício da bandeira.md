@@ -20,7 +20,8 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	2. Quem te conhece profundamente e quem te respeita, acredita em você de primeira e não precisa das suas justificativas. Quem não te conhece e não te respeita, não te enxerga de igual para igual, não acredita em você e mesmo com toda a sua justificativa, nada vai mudar. [[Você é o maior especialista em ensinar aos outros como você quer ser tratado]].
 	3. Se uma pessoa vem se justificar para você, é porque você está nessa frequência e o universo traz um justificador para te mostrar que você está nessa frequência. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. [[Tá com problema? Ajoelha e reza]].
 3. **Fantasia**: 
-4. **Charlatanismo**: 
+4. **Charlatanismo**: pessoas que não falam nada com nada, não fala nada que presta. Coisas que não levam ninguém a lugar nenhum, que não muda a sua vida em nada.
+	1. A ideia é não nutrir, não participar, não construir e não contribuir com assuntos que não vão levar ninguém a lugar nenhum.
 5. **Identificação**: quando você esquece quem você é e começa a se identificar com alguma outra coisa. Coloca a sua atenção em outra coisa e, pode ser que você leve esse lunatismo para as pessoas que estão ao seu redor.
 	1. Com o que você tem se identificado diariamente?
 	2. A pessoa se identifica e ainda traz uma emoção para aquilo, se esquecendo de quem é.
