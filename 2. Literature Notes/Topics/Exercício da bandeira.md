@@ -23,7 +23,7 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	1. Te tira do estado de presença.
 	2. Fantasia sobre um relacionamento, sobre uma pessoa, situação. Só perde energia, nada muda.
 	3. Quando estou cocriando algo, quando tenho uma intenção e um propósito envolvido, é diferente.
-	4. Existe uma grande possibilidade da fantasia decorrer de outras partes da bandeira. Ex: mentira - mentir para uma pessoa e começar a fantasiar sobre o que o outro poderia pensar.
+	4. Existe uma grande possibilidade da fantasia decorrer de outras partes da bandeira. Ex: mentira - mentir para uma pessoa e começar a fantasiar sobre o que o outro poderia pensar e ai ela começa a gerar emoções negativas, que vira considerações internas, etc.
 4. **Charlatanismo**: pessoas que não falam nada com nada, não fala nada que presta. Coisas que não levam ninguém a lugar nenhum, que não muda a sua vida em nada.
 	1. A ideia é não nutrir, não participar, não construir e não contribuir com assuntos que não vão levar ninguém a lugar nenhum.
 	2. Observa qual roda você senta. Se ela contribui com assuntos elevados, ou não. E observe o seu comportamento, se você faz algo que dá paz para a sua alma ou se você fica querendo salvar e mudar o outro.
@@ -36,6 +36,8 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	1. Isso é uma maldição.
 	2. 'Você pra mim é problema seu'.
 	3. É aprender a cagar para o que as pessoas fazem ou deixam de fazer. Porque eu não sei o que está acontecendo na vida do outro para ele reagir de determinada forma. [[Todo julgamento é uma confissão]].
+	4. 'O outro é um ser humano e ele tem o livre arbitrio de fazer o que ele quer.'
+	5. Sou eu me achar importante o suficiente para não achar que alguém faça comigo algo que eu não queria/não faria comigo. É criar expectativas 
 7. **Emoções negativas**: elas estão a todo momento e em todo lugar. É inteligente começarmos a lidar com as nossas emoções e não se conectar com emoções negativas do externo. A gente já tem que aprender a lidar com a nossa [[Criança Interior]], lidar com a raiva, culpa, vergonha. Já tem muita coisa, para que eu vou querer digerir e absorver emoções negativas do mundo externo, ouvindo o problema dos outros?
 	1. [[Existem 3 tipos de alimento para o nosso corpo]] e alguns deles são temporários, são um estímulo.
 	2. Observe, porque a auto observação te mostra o tipo de energias e emoções você está se conectando. [[Você é o observador]]. Cancela as energias negativas. [[Todo pensamento sabotador tá cancelado]]. Se você não cancela nos primeiros segundos, você vai entrando em um vórtex de pensamentos. [[Cadeia Emocional]].
