@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandei",
+                "query": "zona de geni?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,13 +78,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -212,9 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "6defafd088be2fbd",
   "lastOpenFiles": [
     "Deus só diz SIM.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "2. Literature Notes/People/Alan Nicolas.md",
@@ -244,7 +243,6 @@
     "2. Literature Notes/Topics/Como a Ansiedade e Procrastinação te atrasam?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "2. Literature Notes/Topics/Qual é a diferença entre a ansiedade e o medo?.md",
-    "2. Literature Notes/Topics/Quais são os 5R's para fortalecer a mente?.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
