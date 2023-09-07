@@ -17,6 +17,7 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 2. **Justificações**: 'que o seu falar seja sim, sim, não, não'. [[A justificativa perpetua a mediocridade]]. Agradeça e fale a Verdade quando você já sabe que você não vai e quando você não quer. Você tem todas as certezas dentro de você, não busque elas fora.
 	1. Você não precisa justificar nada. Se for justificar, justifique o mínimo. [[Você se justifica porque quer ser aprovado pelo outro]]. Pare de perder o seu tempo e energia se justificando.
 	2. Quem te conhece profundamente e quem te respeita, acredita em você de primeira e não precisa das suas justificativas. Quem não te conhece e não te respeita, não te enxerga de igual para igual, não acredita em você e mesmo com toda a sua justificativa, nada vai mudar. [[Você é o maior especialista em ensinar aos outros como você quer ser tratado]].
+	3. Se uma pessoa vem se justificar para você, é porque você está nessa frequência e o universo traz um justificador para te mostrar que você está nessa frequência. [[Todo mundo é seu mestre e todo mundo está aqui para te ensinar]]. [[Tá com problema? Ajoelha e reza]].
 3. **Fantasia**: 
 4. **Charlatanismo**:
 5. **Identificação**:
