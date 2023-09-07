@@ -45,3 +45,4 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A alma quer paz, a alma quer felicidade]]
