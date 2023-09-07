@@ -32,12 +32,13 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 	2. A pessoa se identifica e ainda traz uma emoção para aquilo, se esquecendo de quem é.
 		1. Ex: quando você está vendo um filme e começa a ficar ansioso ou com medo por conta do que está vendo no filme, já que você se identificou com a história do filme.
 		2. Como seria assistir um filme com total 0 identificação? Como se você fosse apenas o observador. 'Eu sou eu, eu não sou a pessoa que está chorando. Eu sou eu'. Assista o filme observando o que está acontecendo com você. O quanto você consegue estar em estado de presença para se observar? Identifique o que acontece com você enquanto você assiste a isso. Não se identifique com o que está acontecendo do lado externo. Você é uma outra coisa. Não acredite que você é aquilo que você está vendo.
+		3. Ou a pessoa se identificar tanto com algum papel social, que se esquece de quem é. Ex: sou a maior médica do mundo e se comete um erro e perde a credibilidade, quer se matar, porque se identificou com esse papel.
 6. **Consideração interna**: é para você lembrar que ninguém te deve nada. Se alguém passar por você e te der oi, ótimo. Se alguém passar por você e não te der oi, ótimo. Pare de ficar criando historinhas na sua cabeça, achando que você é o centro do mundo dos outros, querendo obrigar o outro a fazer uma coisa que não é o momento dele fazer.
 	1. Isso é uma maldição.
 	2. 'Você pra mim é problema seu'.
 	3. É aprender a cagar para o que as pessoas fazem ou deixam de fazer. Porque eu não sei o que está acontecendo na vida do outro para ele reagir de determinada forma. [[Todo julgamento é uma confissão]].
-	4. 'O outro é um ser humano e ele tem o livre arbitrio de fazer o que ele quer.'
-	5. Sou eu me achar importante o suficiente para não achar que alguém faça comigo algo que eu não queria/não faria comigo. É criar expectativas 
+	4. 'O outro é um ser humano e ele tem o livre arbítrio de fazer o que ele quer.'
+	5. Sou eu me achar importante o suficiente para não achar que alguém faça comigo algo que eu não queria/não faria comigo. É criar expectativas do que eu queria que o outro fizesse na minha mente, mas não fez. É esperar que s outros vão me tratar como a rainha que eu acho que eu sou.
 7. **Emoções negativas**: elas estão a todo momento e em todo lugar. É inteligente começarmos a lidar com as nossas emoções e não se conectar com emoções negativas do externo. A gente já tem que aprender a lidar com a nossa [[Criança Interior]], lidar com a raiva, culpa, vergonha. Já tem muita coisa, para que eu vou querer digerir e absorver emoções negativas do mundo externo, ouvindo o problema dos outros?
 	1. [[Existem 3 tipos de alimento para o nosso corpo]] e alguns deles são temporários, são um estímulo.
 	2. Observe, porque a auto observação te mostra o tipo de energias e emoções você está se conectando. [[Você é o observador]]. Cancela as energias negativas. [[Todo pensamento sabotador tá cancelado]]. Se você não cancela nos primeiros segundos, você vai entrando em um vórtex de pensamentos. [[Cadeia Emocional]].
