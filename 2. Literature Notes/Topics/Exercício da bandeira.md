@@ -23,7 +23,10 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 5. **Identificação**:
 6. **Consideração interna**:
 7. **Emoções negativas**:
-8. **Movimento desnecessário**: tudo pode ser um movimento desnecessário e ele é uma catástrofe, porque eu estou gastando energia dos meus centros de inteligência (hidrogênios) que pode fazer falta em algum outro momento. [[Tudo é energia]].
+8. **Movimento desnecessário**: tudo pode ser um movimento desnecessário e ele é uma catástrofe, porque eu estou gastando energia dos meus centros de inteligência (hidrogênios) que pode fazer falta em algum outro momento. [[Tudo é energia]]. 
+	1. Se você faz movimentos desnecessários, você está jogando a sua energia no ralo. se eu estou fazendo algo que não vai me levar a lugar nenhum, é inteligente parar na hora.
+	2. Centros de inteligência: instintivo, intelectual, emocional, motor e sexual.
+	3. 
 
 **COMO:**
 
