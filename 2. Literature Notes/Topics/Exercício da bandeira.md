@@ -23,7 +23,7 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 5. **Identificação**:
 6. **Consideração interna**:
 7. **Emoções negativas**:
-8. **Movimento desnecessário**:
+8. **Movimento desnecessário**: tudo pode ser um movimento desnecessário e ele é uma catástrofe, porque eu estou gastando energia dos meus centros de inteligência (hidrogênios) que pode fazer falta em algum outro momento. [[Tudo é energia]].
 
 **COMO:**
 
