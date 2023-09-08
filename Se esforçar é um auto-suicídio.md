@@ -57,9 +57,9 @@ O esforço pode ser um tipo de auto-suicídio da alma. Você se desgasta, coloca
 
 Por outro lado, quando você _segue sua curiosidade_ através da dedicação e da lei do mínimo esforço, você se torna verdadeiramente **próspero**. Não estou falando apenas de riqueza material (o que, com certeza, irá acontecer ao criar projetos a partir desse lugar), mas de uma prosperidade que é medida em _felicidade_, _consciência_, _leveza_ e _bem-estar_. Você se torna um **bilionário de felicidade**, um _magnata da consciência_, um _titã da leveza e da alegria_. Fala sério. Eu quero isso pra minha vida, não sei você.
 
-Quando vivemos a partir desse lugar, não apenas enriquecemos nossas próprias vidas, mas também _irradiamos essa riqueza para o mundo ao nosso redor_. Você se torna um farol de possibilidade, mostrando que a verdadeira prosperidade vem de **alinhar sua ação com sua alma**. [[amor]]
+Quando vivemos a partir desse lugar, não apenas enriquecemos nossas próprias vidas, mas também _irradiamos essa riqueza para o mundo ao nosso redor_. Você se torna um farol de possibilidade, mostrando que a verdadeira prosperidade vem de **alinhar sua ação com sua alma**. [[A alma quer paz, a alma quer felicidade]].
 
-Assim, é um movimento muito inteligente seguir a sua curiosidade. Viver a partir da dedicação e da ação que vem do coração. Eu quero viver, não sobreviver. Para isso, tomo a **decisão de me escolher**. 
+Assim, é um movimento muito inteligente seguir a sua curiosidade. Viver a partir da dedicação e da ação que vem do coração. Eu quero viver, não sobreviver. Para isso, tomo a **decisão de me escolher**. [[Tudo é uma escolha]].
 
 **COMO:**
 
