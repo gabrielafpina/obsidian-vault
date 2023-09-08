@@ -44,9 +44,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3515be36084b4b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalhar não dá dinheiro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live 03.09.23.md",
+                "file": "Trabalhar não dá dinheiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live 03.09.23.md",
+                "file": "Trabalhar não dá dinheiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live 03.09.23.md"
+                "file": "Trabalhar não dá dinheiro.md"
               }
             }
           },
@@ -224,10 +236,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ad0d0dd40df197b",
+  "active": "3515be36084b4b93",
   "lastOpenFiles": [
-    "2. Literature Notes/People/Alan Nicolas.md",
     "Live 03.09.23.md",
+    "Trabalhar não dá dinheiro.md",
+    "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
     "2. Literature Notes/Topics/Deus só diz SIM.md",
     "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
@@ -256,7 +269,6 @@
     "6. Creator/Products/Mentoria Individual",
     "2. Literature Notes/Meditações Guiadas",
     "2. Literature Notes/Topics/Exercício de Autoconhecimento \"Comparar, Reclamar e Criticar\".md",
-    "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",

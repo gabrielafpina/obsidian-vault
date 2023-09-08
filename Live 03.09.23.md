@@ -10,7 +10,7 @@
 	- as minhas crenças 
 	- os meus rituais
 
-Você n
+[[Trabalhar não dá dinheiro]].
 
 **COMO:**
 
