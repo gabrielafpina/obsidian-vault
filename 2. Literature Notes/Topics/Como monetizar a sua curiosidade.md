@@ -38,6 +38,8 @@ Os meses que mais faturou, foram os que menos trabalhou e os meses que não tinh
 [[Lei do 80.20]]: ele fica mais tempo estudando onde vai alocar a energia dele do que, de fato, executando, porque não faz sentido ficar colocando energia em um lugar que não vai gerar recurso. No mundo em que vivemos, temos que aprender a fazer as perguntas certas. [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]]. Nesse caso, a pergunta certa é:
 	***Como eu utilizo a minha preguiça para fazer muito dinheiro?***
 
+O processo não é aprender mais. O processo é desaprender aquilo que você não deveria ter aprendido em primeiro lugar.
+
 **COMO:**
 
 **PENSADORES:**
