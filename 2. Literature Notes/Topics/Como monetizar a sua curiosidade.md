@@ -14,6 +14,8 @@
 	- Ouvir audio ´Eu sou um essencialista´ do Alan
 - Estudar
 	- 80/20
+- Livros
+	- Jogo infinito
 
 **DEFINIÇÃO:**
 [[Trabalhar não dá dinheiro]].
@@ -34,7 +36,9 @@ O marketing corrompe.
 
 Como ganhou dinheiro? Vender produto pra gente burra.
 
-Os meses que mais faturou, foram os que menos trabalhou e os meses que não tinha meta. É sobre saber quais alavancas puxar. Esforço não da resultado. [[Lei do Mínimo Esforço]]. Quando você força algo que não era para estar ali, você quebra. O que é natural flui, só acontece. Quando você começa a se jogar na sua curiosidade, você se torna natural e quando você é natural, você começa, sem esforço, gerar resultado. É inteligente ter pessoas preguiçosas ao seu lado, porque elas pensam antes de fazer, ao invés de gastar energia de forma desnecessária. [[Exercício da bandeira]]. Você vai ganhar dinheiro com muito menos esforço quando você segue aquilo que é natural da sua curiosidade.
+Os meses que mais faturou, foram os que menos trabalhou e os meses que não tinha meta. É sobre saber quais alavancas puxar. Esforço não da resultado. [[Lei do Mínimo Esforço]]. Quando você força algo que não era para estar ali, você quebra. O que é natural flui, só acontece. Quando você começa a se jogar na sua curiosidade, você se torna natural e quando você é natural, você começa, sem esforço, gerar resultado. É inteligente ter pessoas preguiçosas ao seu lado, porque elas pensam antes de fazer, ao invés de gastar energia de forma desnecessária. [[Exercício da bandeira]]. 
+
+Você vai ganhar dinheiro com muito menos esforço quando você segue aquilo que é natural da sua curiosidade. Tem louco pra tudo, por isso, não importa a sua loucura.
 
 [[Lei do 80.20]]: ele fica mais tempo estudando onde vai alocar a energia dele do que, de fato, executando, porque não faz sentido ficar colocando energia em um lugar que não vai gerar recurso. No mundo em que vivemos, temos que aprender a fazer as perguntas certas. [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]]. Nesse caso, a pergunta certa é:
 	***Como eu utilizo a minha preguiça para fazer muito dinheiro?***
