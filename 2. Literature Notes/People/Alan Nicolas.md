@@ -410,7 +410,7 @@ Contas no Twitter que acompanho e entregam muito valor:
 **FALA SOBRE:**
 - [[Obsidian]]
 - [[Encontro TOP Membro 06.09.23]]
-- [[Live 03.09.23 - Como monetizar a sua curiosidade]]
+- [[Como monetizar a sua curiosidade]]
 
 
 **FRASES:**
