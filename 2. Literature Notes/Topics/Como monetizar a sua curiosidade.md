@@ -11,6 +11,7 @@
 	- O que é único em mim?
 - Assistir
 	- Podcast Alan Zona de Genialidade: https://open.spotify.com/episode/4EaB0UqYj3EZoLsUSniDv1?si=ff04022882aa4ef9
+	- Ouvir audio ´Eu sou um essencialista´ do Alan
 - Estudar
 	- 80/20
 
@@ -38,7 +39,9 @@ Os meses que mais faturou, foram os que menos trabalhou e os meses que não tinh
 [[Lei do 80.20]]: ele fica mais tempo estudando onde vai alocar a energia dele do que, de fato, executando, porque não faz sentido ficar colocando energia em um lugar que não vai gerar recurso. No mundo em que vivemos, temos que aprender a fazer as perguntas certas. [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]]. Nesse caso, a pergunta certa é:
 	***Como eu utilizo a minha preguiça para fazer muito dinheiro?***
 
-O processo não é aprender mais. O processo é desaprender aquilo que você não deveria ter aprendido em primeiro lugar.
+O processo não é aprender mais. O processo é desaprender aquilo que você não deveria ter aprendido em primeiro lugar. Ou seja, não é sobre aprender, é sobre desaprender. [[Aprender a desaprender é uma qualidade poderosa]]. 
+
+O alan não lê livros até o final, porque ele afirma que você não precisa de tudo que tem no livro. Ele fala para ler apenas os capítulos que façam sentido para você. Ele prefere ler livros que tem alguma conexão com o que ele está fazendo no momento - tem uma conexão emocional com o momento em que ele está vivendo e isso faz com que ele consiga se lembrar mais do que tinha no livro.
 
 **COMO:**
 
