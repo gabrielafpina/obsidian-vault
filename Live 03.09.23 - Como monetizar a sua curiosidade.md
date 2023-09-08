@@ -19,6 +19,11 @@
 
 Vivemos em um mundo de pessoas artificiais. A inteligência artificial tem sido mais autêntica e humana do que muitos humanos. As pessoas não tem repertório. Por outro lado, a inteligência artificial tem mais repertório. Se você não nutrir a sua curiosidade, você se torna mais um. Se você questionar tudo, você terá mais repertório. As pessoas param de criar repertório porque elas param de questionar, porque a escola pune quem questiona. A Igreja pune quem questiona. Os pais punem quem questiona. Todo o sistema foi construído para limitar o questionamento, porque é mais fácil lidar com pessoas dóceis, que não pensam e segue o que é falado para elas. [[Você está pensando ou você está sendo pensado?]]. [[Se você não cria a sua referência, você vai fazer parte da referência de alguém]].
 
+A gente busca um pai fora, enquanto só temos como encontrar o pai dentro. Você é a pessoa que vai te salvar e orientar. Enquanto você ficar buscando alguém fora para te salvar, você não vai ter repertório.
+
+Como parar de ser uma cópia? 
+- Parar de seguir as pessoas que todos estão seguindo
+
 **COMO:**
 
 **PENSADORES:**
