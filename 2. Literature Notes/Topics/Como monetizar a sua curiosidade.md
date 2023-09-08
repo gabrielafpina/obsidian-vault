@@ -47,6 +47,8 @@ O processo não é aprender mais. O processo é desaprender aquilo que você nã
 
 O alan não lê livros até o final, porque ele afirma que você não precisa de tudo que tem no livro. Ele fala para ler apenas os capítulos que façam sentido para você. Ele prefere ler livros que tem alguma conexão com o que ele está fazendo no momento - tem uma conexão emocional com o momento em que ele está vivendo e isso faz com que ele consiga se lembrar mais do que tinha no livro.
 
+[[A depressão é uma dádiva]].
+
 **COMO:**
 
 **PENSADORES:**
