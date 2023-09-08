@@ -5,7 +5,12 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-- Criar a minha zona de curiosidade
+- Criar 
+	- a minha zona de curiosidade
+	- as minhas crenças 
+	- os meus rituais
+
+Você n
 
 **COMO:**
 
