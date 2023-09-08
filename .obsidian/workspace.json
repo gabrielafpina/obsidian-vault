@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ad0d0dd40df197b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Trabalhar não dá dinheiro.md",
     "Live 03.09.23 - Como monetizar a sua curiosidade.md",
