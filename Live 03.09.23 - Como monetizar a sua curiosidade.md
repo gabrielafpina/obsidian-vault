@@ -23,6 +23,8 @@ A gente busca um pai fora, enquanto só temos como encontrar o pai dentro. Você
 
 Como parar de ser uma cópia? 
 - Parar de seguir as pessoas que todos estão seguindo
+- Pare de ler livros best-sellers
+	- Se você lê best-sellers, você lê o que todo mundo está lendo e em sua maioria, não são livros bons.
 
 **COMO:**
 
