@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deus só diz SIM.md",
+                "file": "2. Literature Notes/Topics/Deus só diz SIM.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existem 3 tipos de alimento para o nosso corpo.md",
+                "file": "2. Literature Notes/Topics/Existem 3 tipos de alimento para o nosso corpo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A alma quer paz, a alma quer felicidade.md",
+                "file": "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autoestima produz prosperidade.md",
+                "file": "2. Literature Notes/Topics/Autoestima produz prosperidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprenda a responder somente o que foi perguntado.md",
+                "file": "2. Literature Notes/Topics/Aprenda a responder somente o que foi perguntado.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tá com problema? Ajoelha e reza.md",
+                "file": "2. Literature Notes/Topics/Tá com problema? Ajoelha e reza.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md"
+                "file": "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md"
               }
             }
           },
@@ -284,19 +285,20 @@
   },
   "active": "439147e676189dff",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+    "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "Existem 3 tipos de alimento para o nosso corpo.md",
-    "A alma quer paz, a alma quer felicidade.md",
-    "Autoestima produz prosperidade.md",
-    "Aprenda a responder somente o que foi perguntado.md",
+    "2. Literature Notes/Topics/Existem 3 tipos de alimento para o nosso corpo.md",
+    "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
+    "2. Literature Notes/Topics/Autoestima produz prosperidade.md",
+    "2. Literature Notes/Topics/Aprenda a responder somente o que foi perguntado.md",
     "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
     "2. Literature Notes/Topics/Ao tomar consciência de algo que você faz, esse algo perde o seu poder.md",
-    "Tá com problema? Ajoelha e reza.md",
-    "Deus só diz SIM.md",
+    "2. Literature Notes/Topics/Tá com problema? Ajoelha e reza.md",
+    "2. Literature Notes/Topics/Deus só diz SIM.md",
     "2. Literature Notes/Topics/Deus só entende 'sim'.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "2. Literature Notes/People/Alan Nicolas.md",
-    "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "6. Creator/Lives",
     "3. Me, Myself and I/Testes/Cronotipo.md",
     "2. Literature Notes/Topics/Encontro TOP Membro 06.09.23.md",
@@ -314,7 +316,6 @@
     "2. Literature Notes/Topics/Qual é a importância de fazer promessas e mantê-las?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "2. Literature Notes/Topics/Qual é a chave para lidar com a ansiedade e procrastinação?.md",
-    "2. Literature Notes/Topics/O que é a mente macaca?.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
