@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "292d90dc846d1c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f46bcb5f93c1feab",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
+                "file": "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
+                "file": "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ter uma vida formol?.md"
+                "file": "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md"
               }
             }
           },
@@ -295,10 +307,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "063a5a38dfae8d68",
+  "active": "292d90dc846d1c11",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
     "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
+    "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
+    "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
     "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
@@ -327,7 +340,6 @@
     "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "2. Literature Notes/Topics/O que é a técnica 5, 4, 3, 2, 1?.md",
     "2. Literature Notes/Topics/Por que eu deveria ser minha maior defensora?.md",
-    "2. Literature Notes/Topics/Qual é a importância de fazer promessas e mantê-las?.md",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
