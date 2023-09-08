@@ -25,6 +25,7 @@ Como parar de ser uma cópia?
 - Parar de seguir as pessoas que todos estão seguindo
 - Pare de ler livros best-sellers
 	- Se você lê best-sellers, você lê o que todo mundo está lendo e em sua maioria, não são livros bons.
+	- Regra do Alan: ler livros com mais de 100 anos durante X período de tempo.
 
 **COMO:**
 
