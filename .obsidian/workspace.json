@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ff2615cd3a22f689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Deus só diz SIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7851ed2f0162b179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd0d6c9aa69a2b65",
             "type": "leaf",
             "state": {
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dedicação",
+                "query": "lei do mín",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md"
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
               }
             }
           },
@@ -246,18 +270,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ad0d0dd40df197b",
+  "active": "7851ed2f0162b179",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Deus só diz SIM.md",
+    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
     "A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "Lei do 80/20.md",
     "Lei do 80",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
-    "2. Literature Notes/Topics/Deus só diz SIM.md",
     "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
     "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
     "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
