@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "esforço",
+                "query": "dedicação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A depressão é uma dádiva.md",
+                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A depressão é uma dádiva.md",
+                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A depressão é uma dádiva.md"
+                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md"
               }
             }
           },
@@ -247,12 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd0d6c9aa69a2b65",
+  "active": "5ad0d0dd40df197b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
-    "A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
+    "A depressão é uma dádiva.md",
+    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
+    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "Lei do 80/20.md",
     "Lei do 80",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",

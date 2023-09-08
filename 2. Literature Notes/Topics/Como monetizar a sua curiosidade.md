@@ -49,6 +49,8 @@ O alan não lê livros até o final, porque ele afirma que você não precisa de
 
 [[A depressão é uma dádiva]].
 
+´Por perseguir a minha curiosidade eu estou fazendo dinheiro de uma forma orgânica, natural, sem usar gatilhos mentais, porque eu estou na minha essência, estou sendo eu mesmo. Então eu dou a real.´
+
 **COMO:**
 
 **PENSADORES:**
