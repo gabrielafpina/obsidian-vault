@@ -35,8 +35,12 @@
             "id": "ea26aae076f662bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
+          }
         }
       }
     ],
