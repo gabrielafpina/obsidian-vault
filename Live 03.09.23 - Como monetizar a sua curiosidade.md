@@ -11,6 +11,8 @@
 	- O que é único em mim?
 - Assistir
 	- Podcast Alan Zona de Genialidade: https://open.spotify.com/episode/4EaB0UqYj3EZoLsUSniDv1?si=ff04022882aa4ef9
+- Estudar
+	- 80/20
 
 **DEFINIÇÃO:**
 [[Trabalhar não dá dinheiro]].
@@ -30,6 +32,8 @@ Como parar de ser uma cópia?
 O marketing corrompe.
 
 Como ganhou dinheiro? Vender produto pra gente burra.
+
+Os meses que mais faturou, foram os que menos trabalhou e os meses que não tinha meta. É sobre saber quais alavancas puxar. Esforço não da resultado. [[Lei do Mínimo Esforço]]. Quando você força algo que não era para estar ali, você quebra. O que é natural flui, só acontece. Quando você começa a se jogar na sua curiosidade, você se torna natural e quando você é natural, você começa, s
 
 **COMO:**
 

@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "esforço",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
