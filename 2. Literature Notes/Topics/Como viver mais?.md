@@ -27,6 +27,7 @@ Ikigai
 	Ter uma razão para levantar da cama.
 	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
 Idosos são cuidados pela família
+Vol
 
 Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
 
@@ -35,6 +36,7 @@ Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Inves
 **PENSADORES:**
 
 **FRASES:**
+- ´A longevidade é exercício e comunidade´
 
 ---------
 
