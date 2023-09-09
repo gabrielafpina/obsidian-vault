@@ -53,7 +53,8 @@
 - **O que você ama e é bom fazendo**? O que você é muito bom? nesse exercício, conversar com amigos e pedir feedback e sobre o que eles acham que você é muito bom fazendo. Essa é a sua **paixao.** 
 	- Ensinar de forma didática, divertida e energética
 	- Passar emoção e entusiasmo em tudo o que eu amo fazer
-	- Estudar e cria
+	- Estudar e criar produtos inovadores no mercado brasileiro
+	- 
 
 - **E o que você não ama mas é bom fazendo?**
 	- Normalmente, essas são as coisas que a gente faz com objetivo de pagar as contas. São coisas que nos dar um dinheiro, trabalhos, profissões, carreiras, que não necessariamente a gente gosta, mas é o que paga as nossas contas.
