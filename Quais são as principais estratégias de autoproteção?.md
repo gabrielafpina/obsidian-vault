@@ -12,6 +12,14 @@
 	1. Projeção é um termo da psicologia que significa *perceber outras pessoas pelo prisma das minhas necessidades e dos meus sentimentos*. Se me sinto inseguro e inferior, são grandes as chances de que eu projete nos outros uma força e uma dominância superiores. Também é comum projetarmos no parceiro as experiências que tivemos com nosso pai ou nossa mãe. [[Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças]].
 	2. Também podemos projetar sentimentos e desejos positivos. Se você foi criado numa família de propaganda de margarina, pode, ingenuamente, achar que as outras pessoas são tão confiáveis e tão boas quanto seus pais.
 	3. A repressão e a projeção atuam na função mental da percepção.
+	4. [[Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra]]
+3. **Perfeccionismo**
+	1. [[Crenças]] típicas: “Não sou bom o bastante”, “Não posso cometer erros”, “Sou uma pessoa ruim”, “Sou feio”, “Não presto para nada”, “Sou um fracasso”. 
+	2. . A maioria das pessoas que não reconhecem o próprio valor levam a vida na defensiva. Não se permitem baixar a guarda de maneira alguma. Ser perfeito é não ter falhas, e os perfeccionistas correm o risco de se empenhar demais.
+	3. Há sempre algo maior ou melhor a alcançar. Essas pessoas estão sempre correndo atrás das próprias exigências. Tão logo conquistam um troféu, precisam conquistar o próximo.
+	4. ***Variantes***
+		1. **Obsessão pela beleza**: muitas pessoas projetam seus medos na aparência, pois é algo que pode ser manipulado com medidas concretas. Os sucessos alcançados com a beleza exterior, no entanto, também geram apenas alívio, sem oferecer nenhuma cura a longo prazo. O que ambas as estratégias (perfeccionismo e obsessão pela beleza) têm em comum é que são um tremendo esforço para obter reconhecimento. 
+		2. Ânsia pelo reconhecimento: 
 ###### **COMO:**
 
 ###### **PENSADORES:**
