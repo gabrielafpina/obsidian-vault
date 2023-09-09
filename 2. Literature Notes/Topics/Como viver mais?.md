@@ -35,7 +35,7 @@ Voluntariado
 Estar na tribo certa
 	Uma vida saudável contagia.
 	Alguns estudos mostram que se seus 3 melhores amigos são obesos, ha uma chance maior de você ficar acima do peso.
-	
+	Fumar e até a solidão podem ser contagiosos.
 
 
 
