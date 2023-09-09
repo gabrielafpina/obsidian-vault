@@ -1,9 +1,10 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Acolhendo Sua Criança Interior]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+
 
 ###### **COMO:**
 
@@ -20,3 +21,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Qual é a diferença entre a criança-sol e a criança sombra?]]

@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57b9019c4ff54d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a criança-sombra?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md",
+                "file": "O que é a criança-sombra?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md",
+                "file": "O que é a criança-sombra?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md"
+                "file": "O que é a criança-sombra?.md"
               }
             }
           },
@@ -253,9 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df4a54122dc322aa",
+  "active": "57b9019c4ff54d51",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Criança Interior.md",
+    "O que é a criança-sombra?.md",
+    "4. Templates/Anotação Atômica X Template.md",
     "Qual é a diferença entre a criança-sol e a criança sombra?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
@@ -280,8 +294,6 @@
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/Existem 3 tipos de alimento para o nosso corpo.md",
     "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
-    "2. Literature Notes/Topics/Autoestima produz prosperidade.md",
-    "2. Literature Notes/Topics/Aprenda a responder somente o que foi perguntado.md",
     "6. Creator/Lives",
     "Untitled.canvas",
     "Encontro TOP Membros 06",
