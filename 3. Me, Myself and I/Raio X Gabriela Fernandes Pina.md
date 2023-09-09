@@ -116,7 +116,12 @@
 	- Eu não mereço ser feliz
 
 - **CRENÇAS ELEVADORAS**
-	- 
+	- Eu tenho valor por simplesmente existir
+	- Se eu me dedicar, eu posso conseguir o que eu quiser
+	- O dinheiro é uma ferramenta espiritual muito abençoada, que vai me permitir mudar a minha vida e a de milhões de pessoas
+	- Eu sou um fragmento divino e, por isso, tenho tanto valor quanto qualquer outra pessoa
+	- Eu não sou maior, menor, melhor, ou pior do que ninguém, sou diferente [[Diferente não é melhor e não é pior, é diferente]]
+	- Eu sou muito inteligente nos assuntos que amo estudar e isso está longe 
 ###### Mapa Astral
 
 ###### Mapa Numerológico
