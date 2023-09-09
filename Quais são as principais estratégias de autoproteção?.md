@@ -41,6 +41,7 @@
 	6. *Primeiros socorros*: O problema com sua estratégia é que você tem propensão para se entregar demais a causas impossíveis. Por isso, conscientize sua criança-sombra de que você é bom o bastante e tem seu valor mesmo que não ajude todo mundo. Faça-a entender que muitas vezes você não vai conseguir ajudar. E explique a ela que não só vocês (sua criança-sombra e seu adulto interior) são responsáveis pela sua felicidade, mas ela depende também de outras pessoas.
 6. **Exercer poder**
 	1. Crenças típicas: “Estou à sua mercê”, “Sou impotente”, “Não sei me defender”, “Não sou bom o bastante”, “Não posso cometer erros”, “Não devo confiar em ninguém”, “Preciso ter controle sobre tudo”, “Nunca sou atendido”.
+	2. A criança-sombra de pessoas que se valem dessa estratégia tem um medo exagerado de se ver em posição de inferioridade e de fraqueza e de ser atacada. Quando crianças, ficavam à mercê do poder excessivo dos pais. Assim como no caso de pessoas obcecadas por harmonia, a criança-sombra de pessoas dominadoras pode projetar superioridade e dominância sobre aqueles a seu redor. Só que ela consegue isso ==se rebelando contra os demais==, não se adequando. Pessoas com esse padrão querem ter o *controle nas relações interpessoais*. Nesse caso, elas podem escolher (inconscientemente) entre duas estratégias: resistência ativa ou passiva. A maioria emprega ambas.  [[Qual é a diferença entre a resistência ativa e passiva?]]
 
 
 

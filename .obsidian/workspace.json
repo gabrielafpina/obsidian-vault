@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "a17e6a44989c1345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a diferença entre a resistência ativa e passiva?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4f07927408aae363",
             "type": "leaf",
             "state": {
@@ -134,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+                "file": "Qual é a diferença entre a resistência ativa e passiva?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+                "file": "Qual é a diferença entre a resistência ativa e passiva?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md"
+                "file": "Qual é a diferença entre a resistência ativa e passiva?.md"
               }
             }
           },
@@ -312,10 +324,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3b29bcd7b5fafbc",
+  "active": "a17e6a44989c1345",
   "lastOpenFiles": [
     "Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "Qual é a diferença entre a resistência ativa e passiva?.md",
     "O que é a inversão vítima-agressor?.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
     "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
@@ -339,7 +352,6 @@
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Sequestro da Amígdala.md",
     "2. Literature Notes/Topics/Nossas crenças profundas e inconscientes são os filtros da nossa percepção.md",
-    "2. Literature Notes/Topics/pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",
