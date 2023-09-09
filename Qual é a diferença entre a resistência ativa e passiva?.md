@@ -20,7 +20,6 @@ A diferença é que *o agressor ativo ao menos reconhece o que faz*, assumindo a
 
 No jargão da psicologia, tais pessoas são chamadas de ==“pacientes identificados”==. Em outras palavras, o indivíduo que evidencia os sintomas (neste caso, raiva e agressão) é tomado como o “problemático”, mas o passivo-agressivo, que boicota qualquer interação frutífera com sua manipulação indireta, sai incólume.
 
-Aqui também se observa a inversão vítima-agre [[O que é a inversão vítima-agressor?]]
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a diferença entre a resistência ativa e passiva?.md",
+                "file": "Quais são as principais estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a diferença entre a resistência ativa e passiva?.md",
+                "file": "Quais são as principais estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a diferença entre a resistência ativa e passiva?.md"
+                "file": "Quais são as principais estratégias de autoproteção?.md"
               }
             }
           },
@@ -324,10 +324,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a17e6a44989c1345",
+  "active": "ec5a029a7597589d",
   "lastOpenFiles": [
-    "Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "Quais são as principais estratégias de autoproteção?.md",
     "Qual é a diferença entre a resistência ativa e passiva?.md",
     "O que é a inversão vítima-agressor?.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
