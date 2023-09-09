@@ -74,6 +74,42 @@
             }
           },
           {
+            "id": "f32074066ff10d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando a criança começa a sentir que é errada?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22718d0d9e92564e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a criança-sombra?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81ccda8168715fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As crenças são precursoras das emoções.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "571acebccc3862aa",
             "type": "leaf",
             "state": {
@@ -110,30 +146,6 @@
             }
           },
           {
-            "id": "fa87f85592e76037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47ee983d1e8c2bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a confiança básica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f838adc17e52eb98",
             "type": "leaf",
             "state": {
@@ -146,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prazer",
+                "query": "sombra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
+                "file": "As crenças são precursoras das emoções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
+                "file": "As crenças são precursoras das emoções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md"
+                "file": "As crenças são precursoras das emoções.md"
               }
             }
           },
@@ -324,18 +336,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86776b3f1625ce51",
+  "active": "81ccda8168715fd0",
   "lastOpenFiles": [
-    "Quais são as 4 necessidades emocionais básicas?.md",
-    "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "As crenças são precursoras das emoções.md",
+    "O que é a criança-sombra?.md",
+    "Quando a criança começa a sentir que é errada?.md",
+    "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
+    "Quais são as 4 necessidades emocionais básicas?.md",
     "O que é a autoestima espelhada?.md",
     "É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
     "O que pode significar ter medo de compromisso.md",
     "Autonomia equivale a controle, e controle equivale a segurança.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
     "O autoconhecimento é o caminho ideal não apenas para se libertar dos problemas, mas também para se tornar uma pessoa melhor.md",
-    "O que é a criança-sombra?.md",
     "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
     "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
@@ -350,8 +364,6 @@
     "2. Literature Notes/Topics/Lei do 80.20.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
-    "2. Literature Notes/Topics/Deus só diz SIM.md",
-    "2. Literature Notes/Topics/Como viver mais?.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",

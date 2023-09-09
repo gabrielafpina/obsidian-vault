@@ -14,6 +14,7 @@ A criança-sombra é a parte da nossa psique que nos traz problemas, sobretudo q
 
 Uma pessoa que se identifica com sua criança-sombra está mais sujeita a percepções distorcidas. Para a criança-sombra, o outro é sempre maior, por isso ela atribui más intenções a esse outro.
 
+A criança-sombra é como uma criança real: ==quanto menos atenção recebe, mais atenção quer==; se lhe damos a atenção devida, ela fica satisfeita e vai brincar sozinha por um tempo. Com a criança-sombra é parecido: quando não deixamos o medo, a vergonha ou a raiva falarem, eles continuam agindo em nosso subconsciente. E lá causam estragos sem que o [[Ego]] adulto perceba.
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -30,3 +31,4 @@ Uma pessoa que se identifica com sua criança-sombra está mais sujeita a percep
 
 **Sul: para onde vai**
 - [[Qual é a diferença entre a criança-sol e a criança sombra?]]
+- [[As crenças são precursoras das emoções]]
