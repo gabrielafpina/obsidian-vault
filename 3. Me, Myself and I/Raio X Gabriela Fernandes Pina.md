@@ -27,6 +27,8 @@
 		5. Relacionamentos amorosos
 		6. Meditação
 		7. Comunicação não-violenta
+		8. PNL
+		9. Psicanálise
 	2. Ensinar
 		1. O que eu faço para ser mais eficiente e produtiva
 		2. Espiritualidade
@@ -61,7 +63,8 @@
 	- 
 
 - **E o que você não ama mas é bom fazendo?**
-	- Normalmente, essas são as coisas que a gente faz com objetivo de pagar as contas. São coisas que nos dar um dinheiro, trabalhos, profissões, carreiras, que não necessariamente a gente gosta, mas é o que paga as nossas contas.
+	- Gestão de projetos
+	- Design
 
 - **O que você ama fazer mas não é bom fazendo?**
 	- O que você é uma aprender, o que você é curioso para saber mais sobre? Você não se chamaria um expert nisso, ou até mesmo um semi profissional, você ainda seria um amador aqui. Mas é uma habilidade que você tem potencial de desenvolver. É algo que se você tivesse tempo e ferramentas para aprender sobre, você se debruçaria completamente sobre isso. Isso te daria energia, te daria tesão.
