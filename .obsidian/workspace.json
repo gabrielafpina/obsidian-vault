@@ -26,6 +26,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3db23ef7449782c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad31a0ddd4a3e271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e60380f337dccc6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desde o nascimento você é uma estrela brilhante!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f2d2a852b7d27848",
             "type": "leaf",
             "state": {
@@ -93,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lentes",
+                "query": "autoprot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md"
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md"
               }
             }
           },
@@ -252,9 +288,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2824a3b83bd0ae16",
+  "active": "ad31a0ddd4a3e271",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+    "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
+    "Desde o nascimento você é uma estrela brilhante!.md",
     "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
     "A raiva aparece quando uma necessidade física ou emocional não é atendida.md",
     "2. Literature Notes/Topics/Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
@@ -277,9 +316,6 @@
     "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
     "2. Literature Notes/Topics/O autoconhecimento é o caminho ideal não apenas para se libertar dos problemas, mas também para se tornar uma pessoa melhor.md",
-    "2. Literature Notes/Topics/O que é a confiança básica?.md",
-    "2. Literature Notes/Topics/por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
-    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",

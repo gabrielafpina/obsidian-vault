@@ -8,7 +8,8 @@
 
 Nossas [[crenças]] são quase como nosso sistema operacional das emoções.
 
-É inteligente compreender que as suas crenças negativas não são a realidade, e sim sua realidade subjetiva, moldada (ao menos em parte) pelas falhas da sua criação. Você enxerga as pessoas e a si mesmo pelas lentes de suas crenças, que projetam uma imagem distorcida puramente pessoal
+É inteligente compreender que as suas crenças negativas não são a realidade, e sim sua realidade subjetiva, moldada (ao menos em parte) pelas falhas da sua criação. Você enxerga as pessoas e a si mesmo pelas lentes de suas crenças, que projetam uma imagem distorcida puramente pessoal.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
