@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-[[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
+ Quase tudo que se faz na infância tem o propósito de **agradar aos pais**. Se eles se mostram insuficientes em sua capacidade de amar e de entender os sentimentos e desejos da criança, esta assume a responsabilidade, na tentativa de fazer a relação funcionar.
 
 ###### **COMO:**
 
@@ -19,7 +19,5 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
- -  [[Princípio do Prazer e Princípio da Realidade]]
- - [[O ser humano busca o prazer ou foge da dor]]
 
 **Sul: para onde vai**
