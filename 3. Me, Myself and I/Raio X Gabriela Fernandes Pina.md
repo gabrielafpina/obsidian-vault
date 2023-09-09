@@ -71,10 +71,46 @@
 	- No passado, inclusive, você poderia ter coisas nesse quadrante que hoje você já domina.
 
 - **O que você não ama e não é bom fazendo?**
-	- Essas são tarefas diárias que todos nós temos que fazer.
+	- Financeiro e contábil
+	- Gestão da empresa
 
-###### Crençário
+###### Crençário (Crenças Limitantes)
+- **CRENÇAS FUNDAMENTAIS**
+	- Eu não tenho valor
+	- Eu não sou boa o suficiente
 
+- **CRENÇAS DOMINÓ**
+	- Se não tenho dinheiro, não tenho valor
+	- Se não sou inteligente, não tenho valor e sou o suficiente
+	- Quando estou estressada e ansiosa, preciso de alguém para me confortar
+	- Eu preciso me provar, porque não sou o suficiente
+		- Não posso ser amada por simplesmente ser, tenho que ter e fazer
+	- Eu não tenho tempo pra me desenvolver
+	- Eu tenho dependência emocional
+	- Quanto mais eu faço, mais eu sou
+	- Eu tenho que ser a melhor sempre 
+	- Eu tenho que ficar rica o mais rápido possível para prover para a minha família e eles não terem mais problemas com dinheiro
+	- Deixa pra dormir quando morrer 
+		- Não posso descansar 
+	- Receber é incomodar o outro. não posso fazer receber porque se não vou incomodar.
+	- ‘Ele só quer me comer e me largar’
+	- Eu não aguento altos níveis de prazer
+	- depois do prazer vem a dor
+	- eu não posso ser quem eu sou
+	- dinheiro não nasce em árvore
+	- o que vem fácil, vai fácil
+		- Dinheiro não vem fácil 
+	- Eu não sou ninguém pra ajudar outras pessoas e não tem motivos pelos quais elas iriam querer aprender comigo 
+	- Sou responsável pela felicidade do outro
+	- Não posso te abandonar
+	- Eu não posso errar
+	- Sou uma pessoa ruim
+	- Sou um fracasso
+	- Não presto para nada útil
+	- Tenho que ajudar/salvar para ser amado
+	- Não posso confiar nas outras pessoas
+	- Não sou capaz de fazer nada sozinha
+	- Eu não consigo
 ###### Mapa Astral
 
 ###### Mapa Numerológico
