@@ -39,9 +39,13 @@
 	7. Ver o mundo de forma disruptiva e compreendendo de que maneira eu posso viver uma vida em que eu me sinto mais VIVA e FELIZ
 2. **O que você faz muito bem?**
 	1. Criação de conteúdo
+		1. Vídeos que conectam
+		2. Textos que engajam
 	2. Explicação didática, simples e objetiva
 	3. Conexão com as pessoas (consigo pegar na ferida delas e falar com elas de forma a serem compreendidas)
 	4. Ressignifico situações dolorosas em aprendizado
+	5. Motivar e influenciar pessoas
+	6. 
 3. **O que o mundo precisa?**
 	1. Já vivi algumas situações dolorosas e desenvolvi sabedoria desde cedo. Esse é o tipo de conteúdo que o mundo precisa para diminuir a mediocridade
 	2. O mundo precisa de pessoas que pensem e que não sejam pensadas. Eu sou uma dessas pessoas. Aprendi a pensar sozinha e desenvolvi a minha própria autonomia
