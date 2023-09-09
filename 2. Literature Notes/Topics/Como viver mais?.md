@@ -17,6 +17,11 @@ Movimento corporal
 	Todos eles tem jardins e ficam de 1 a 2h por dia no jardim deles.
 Sair com pessoas
 	A população nos EUA está cada vez mais sofrendo de isolamento. A solidão pode custar 15 anos da sua expectativa de vida.
+Viver o presente
+Ikigai
+	Ter um propósito que contribua para o mundo, ajude a sua vida e a vida de outras pessoas.
+	Ter uma razão para levantar da cama.
+	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]]
 
 Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
 
