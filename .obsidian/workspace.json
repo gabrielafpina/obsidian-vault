@@ -4,127 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "48e950df8ac30547",
+        "id": "00da5bad14c903d3",
         "type": "tabs",
         "children": [
           {
-            "id": "306c94eb0c7054e8",
+            "id": "b3b29bcd7b5fafbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/People/Alan Nicolas.md",
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d99daaad71c91192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d47ee983d1e8c2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a confiança básica?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ad0d0dd40df197b",
+            "id": "fdaa8017eb63be0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea0143cc75ef0dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se esforçar é um auto-suicídio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80954b8af04a72ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como viver mais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2615cd3a22f689",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Deus só diz SIM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7851ed2f0162b179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f18f488f239160c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd0d6c9aa69a2b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781fada91ff7d56d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do 80.20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3515be36084b4b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
+                "file": "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como viver mais?.md",
+                "file": "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como viver mais?.md",
+                "file": "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como viver mais?.md"
+                "file": "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md"
               }
             }
           },
@@ -303,18 +229,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "fdaa8017eb63be0d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Se esforçar é um auto-suicídio.md",
-    "2. Literature Notes/Topics/Como viver mais?.md",
-    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
-    "2. Literature Notes/Topics/Deus só diz SIM.md",
+    "2. Literature Notes/Topics/O que é a confiança básica?.md",
+    "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
+    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
+    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+    "2. Literature Notes/Topics/Deus só diz SIM.md",
+    "2. Literature Notes/Topics/Como viver mais?.md",
+    "2. Literature Notes/Topics/Se esforçar é um auto-suicídio.md",
+    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
     "Lei do 80/20.md",
     "Lei do 80",
-    "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "2. Literature Notes/Topics/A única coisa que vai mudar a sua vida é falar o que você quer.md",
     "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
@@ -329,9 +258,6 @@
     "2. Literature Notes/Topics/Aprenda a responder somente o que foi perguntado.md",
     "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
     "2. Literature Notes/Topics/Ao tomar consciência de algo que você faz, esse algo perde o seu poder.md",
-    "2. Literature Notes/Topics/Tá com problema? Ajoelha e reza.md",
-    "2. Literature Notes/Topics/Deus só entende 'sim'.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "6. Creator/Lives",
     "Untitled.canvas",
     "Encontro TOP Membros 06",
