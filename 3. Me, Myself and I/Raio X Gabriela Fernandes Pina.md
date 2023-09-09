@@ -2,9 +2,27 @@
 1. O que você ama fazer?
 	1. Estudar
 		1. Autoconhecimento
+			1. Feridas emocionais
+			2. Criança interior
+			3. Autossabotagem
+			4. Amor-próprio e autoconfiança
+				1. Como falar comigo mesma
+			5. Ego e Consciência
+			6. Crenças
+			7. Valores
+			8. 
 		2. Espiritualidade
 			1. Leis espirituais
+			2. Propósito
 		3. Mentalidade
+		4. Como performar melhor e ser mais eficiente
+			1. Como otimizar minha mente
+			2. Como funciona a mente
+			3. Hábitos
+		5. Prosperidade
+		6. Relacionamentos amorosos
+		7. Meditação
+		8. Comunicação não-violenta
 	2. Ensinar
 	3. Fazer aulas ao vivo e lives
 	4. 
