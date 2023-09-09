@@ -4,6 +4,9 @@
 
 **BIG IDEA:** Necessidades emocionais são aqueles desejos mais profundos a nível emocional que precisamos que sejam supridos, para que tenhamos uma vida mais plena e cheia de propósito.
 
+###### **DEFINIÇÃO:**
+[[Acolhendo Sua Criança Interior]]: Todo bem-estar ou mal-estar que sentimos é um indício de que uma ou mais de nossas necessidades emocionais ou físicas básicas estão sendo afetadas. Se sentimos que nossas necessidades básicas foram satisfeitas, então nos sentimos bem. Ou então, se sentimos mal-estar, percebemos que algo nos falta.
+
 **PRINCIPAIS NECESSIDADES:**
 1. **Amor e Afeição**: A necessidade de sentir-se amado e de dar amor é universal. Isso envolve expressões de carinho, palavras gentis e cuidados amorosos.
     
@@ -64,3 +67,4 @@
 - Criação de A.Is que atendam às necessidades emocionais
 - Aumento do mercado de desenvolvimento humano
 - [[Sustentabilidade emocional]]
+- [[Quais são as 4 necessidades emocionais básicas?]]

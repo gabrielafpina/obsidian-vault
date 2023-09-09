@@ -12,6 +12,8 @@ Algumas dessas estratégias mais comuns são o perfeccionismo, a obsessão por h
 
 A criança-sombra é a parte da nossa psique que nos traz problemas, sobretudo quando não temos consciência de sua existência e, por consequência, não refletimos sobre ela. [[Você está pensando ou você está sendo pensado?]]
 
+Uma pessoa que se identifica com sua criança-sombra está mais sujeita a percepções distorcidas. Para a criança-sombra, o outro é sempre maior, por isso ela atribui más intenções a esse outro.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
