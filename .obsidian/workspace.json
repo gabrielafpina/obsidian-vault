@@ -26,6 +26,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bc729774ee792e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9498eadc41476520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fa87f85592e76037",
             "type": "leaf",
             "state": {
@@ -121,7 +145,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "file": "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "file": "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md"
+                "file": "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md"
               }
             }
           },
@@ -300,9 +325,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa87f85592e76037",
+  "active": "9498eadc41476520",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
+    "2. Literature Notes/Topics/O que é a confiança básica?.md",
+    "por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
     "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "O que é a criança-sombra?.md",
     "O que é a criança-sol?.md",
@@ -311,7 +339,6 @@
     "4. Templates/Anotação Atômica X Template.md",
     "Qual é a diferença entre a criança-sol e a criança sombra?.md",
     "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
-    "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
@@ -327,8 +354,6 @@
     "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
     "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
     "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
-    "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
-    "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "6. Creator/Lives",
     "Untitled.canvas",
     "Encontro TOP Membros 06",
