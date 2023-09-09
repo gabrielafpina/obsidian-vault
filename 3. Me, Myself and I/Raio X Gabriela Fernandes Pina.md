@@ -74,18 +74,19 @@
 	- Financeiro e contábil
 	- Gestão da empresa
 
-###### Crençário (Crenças Limitantes)
-- **CRENÇAS FUNDAMENTAIS**
+###### Crençário
+- **CRENÇAS LIMITANTES FUNDAMENTAIS**
 	- Eu não tenho valor
 	- Eu não sou boa o suficiente
 
-- **CRENÇAS DOMINÓ**
+- **CRENÇAS LIMITANTES DOMINÓ**
 	- Se não tenho dinheiro, não tenho valor
 	- Se não sou inteligente, não tenho valor e sou o suficiente
 	- Quando estou estressada e ansiosa, preciso de alguém para me confortar
 	- Eu preciso me provar, porque não sou o suficiente
 		- Não posso ser amada por simplesmente ser, tenho que ter e fazer
 	- Eu não tenho tempo pra me desenvolver
+	- Eu não sou boa o suficiente para ter sucesso.
 	- Eu tenho dependência emocional
 	- Quanto mais eu faço, mais eu sou
 	- Eu tenho que ser a melhor sempre 
@@ -111,6 +112,11 @@
 	- Não posso confiar nas outras pessoas
 	- Não sou capaz de fazer nada sozinha
 	- Eu não consigo
+		- Eu não sou capaz de lidar com situações difíceis.
+	- Eu não mereço ser feliz
+
+- **CRENÇAS ELEVADORAS**
+	- 
 ###### Mapa Astral
 
 ###### Mapa Numerológico
@@ -196,3 +202,5 @@
 ###### Funcionalidades
 
 ###### Histórico com feminino
+
+###### Estratégias de autoproteção
