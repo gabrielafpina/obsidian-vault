@@ -26,6 +26,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "4f09530353eec63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b973cf523200e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nossas crenças profundas e inconscientes são os filtros da nossa percepção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9165dead1197927d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Sequestro da Amígdala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b17577e314f4f9c9",
             "type": "leaf",
             "state": {
@@ -200,7 +236,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sombra",
+                "query": "sequestro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -280,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
+                "file": "pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
+                "file": "pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md"
+                "file": "pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md"
               }
             }
           },
@@ -359,9 +395,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b17577e314f4f9c9",
+  "active": "4f09530353eec63a",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
+    "2. Literature Notes/Topics/Sequestro da Amígdala.md",
+    "Nossas crenças profundas e inconscientes são os filtros da nossa percepção.md",
     "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "É necessário que as crianças idealizem os pais, porque senão sentiriam o medo avassalador de estarem à mercê de cuidadores imperfeitos ou até mesmo maus.md",
     "Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
@@ -384,9 +423,6 @@
     "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "O que é a criança-sol?.md",
     "2. Literature Notes/Topics/Criança Interior.md",
-    "Quais são as principais estratégias de autoproteção?.md",
-    "4. Templates/Anotação Atômica X Template.md",
-    "Qual é a diferença entre a criança-sol e a criança sombra?.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",

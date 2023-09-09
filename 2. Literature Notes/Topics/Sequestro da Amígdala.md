@@ -18,6 +18,7 @@ A ausência da amígdala impede a experiência do medo em humanos. [[O medo nos 
 **PENSADORES:**
 
 **FRASES:**
+- [[Acolhendo Sua Criança Interior]]: determinadas situações e interações podem, num piscar de olhos, desencadear sentimentos que praticamente nos “sequestram” e controlam nossos pensamentos e nossas ações. Esses sentimentos incluem raiva, tristeza, solidão, medo, inveja, mas também alegria, felicidade e amor. A ausência de sentimentos, isto é, a sensação de um vazio interior que surge em determinadas situações, também pode ser consequência desse mecanismo. Sobretudo sentimentos negativos, como raiva, medo, tristeza ou inveja, podem se tornar um grande peso para nós e para nossos relacionamentos.
 
 ---------
 
