@@ -12,6 +12,7 @@
 			7. Valores
 			8. Ancestralidade
 			9. Mentalidade
+			10. Carreira
 		2. Espiritualidade
 			1. Leis espirituais
 			2. Propósito
@@ -45,12 +46,14 @@
 	1. Já vivi algumas situações dolorosas e desenvolvi sabedoria desde cedo. Esse é o tipo de conteúdo que o mundo precisa para diminuir a mediocridade
 	2. O mundo precisa de pessoas que pensem e que não sejam pensadas. Eu sou uma dessas pessoas. Aprendi a pensar sozinha e desenvolvi a minha própria autonomia
 4. **O que você poderia receber dinheiro por estar fazendo?**
-	1. Dando mais au
+	1. Dando mais aula e compartilhando de forma mais aprofundada o que eu estudo
+	2. Comunidade Fly
 
 ###### Quadrantes do Sucesso
 - **O que você ama e é bom fazendo**? O que você é muito bom? nesse exercício, conversar com amigos e pedir feedback e sobre o que eles acham que você é muito bom fazendo. Essa é a sua **paixao.** 
-	- Perguntas para fazer: O que você acha que eu sou muito bom fazendo? Que diferença eu faço na sua vida? Por que você gosta de me ter como amigo? Por que você acha que nos conectamos? Qual é o valor que eu adiciono a sua vida?
-	- Se você for muito bom em muitas coisas, não tem problema. Escreva tudo nesse quadrante.
+	- Ensinar de forma didática, divertida e energética
+	- Passar emoção e entusiasmo em tudo o que eu amo fazer
+	- Estudar e cria
 
 - **E o que você não ama mas é bom fazendo?**
 	- Normalmente, essas são as coisas que a gente faz com objetivo de pagar as contas. São coisas que nos dar um dinheiro, trabalhos, profissões, carreiras, que não necessariamente a gente gosta, mas é o que paga as nossas contas.
