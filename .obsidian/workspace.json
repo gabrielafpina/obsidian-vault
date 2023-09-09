@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "afc6a75347679726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ad31a0ddd4a3e271",
             "type": "leaf",
             "state": {
@@ -56,6 +68,18 @@
               "type": "markdown",
               "state": {
                 "file": "Quais são as principais estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07e7b9795a23d2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +216,7 @@
             }
           },
           {
-            "id": "2cfdd2644a740a0b",
+            "id": "2a413299d99d9ea4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -200,7 +224,7 @@
             }
           },
           {
-            "id": "9c976dc03257dd65",
+            "id": "ff0c93de8c22b3f1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -221,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são as principais estratégias de autoproteção?.md",
+                "file": "Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são as principais estratégias de autoproteção?.md",
+                "file": "Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são as principais estratégias de autoproteção?.md"
+                "file": "Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md"
               }
             }
           },
@@ -300,10 +324,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec5a029a7597589d",
+  "active": "afc6a75347679726",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md",
     "Quais são as principais estratégias de autoproteção?.md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
     "Quais são os principais estilos de enfrentamento?.md",
     "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
@@ -326,8 +352,6 @@
     "2. Literature Notes/Topics/Nossas crenças profundas e inconscientes são os filtros da nossa percepção.md",
     "2. Literature Notes/Topics/pessoas inseguras carregam feridas abertas, que ao menor dos toques já começam a arder.md",
     "2. Literature Notes/Topics/As crenças negativas são as causas de todos os seus problemas, exceto aqueles provocados por algum golpe do destino.md",
-    "2. Literature Notes/Topics/As crenças são precursoras das emoções.md",
-    "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",
