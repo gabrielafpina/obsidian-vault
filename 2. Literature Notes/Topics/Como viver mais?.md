@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Não sinta raiva.
+Não sinta raiva. Baixo estresse crônico.
 Divirta-se sempre.
 Divirta-se com todos.
 Faça todo mundo feliz.
