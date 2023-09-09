@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df4a54122dc322aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Criança Interior.md",
+                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Criança Interior.md",
+                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Criança Interior.md"
+                "file": "Qual é a diferença entre a criança-sol e a criança sombra?.md"
               }
             }
           },
@@ -241,10 +253,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7ba6a7a5fdf6dc8",
+  "active": "df4a54122dc322aa",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/Criança Interior.md",
+    "Qual é a diferença entre a criança-sol e a criança sombra?.md",
+    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
     "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
@@ -269,7 +282,6 @@
     "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
     "2. Literature Notes/Topics/Autoestima produz prosperidade.md",
     "2. Literature Notes/Topics/Aprenda a responder somente o que foi perguntado.md",
-    "2. Literature Notes/Topics/Tudo tem e é feito de consciência.md",
     "6. Creator/Lives",
     "Untitled.canvas",
     "Encontro TOP Membros 06",

@@ -15,7 +15,9 @@ Os medos e os desejos atuam ativamente nas profundezas da nossa [[Consciência]]
 
 Existe também o [[Ego]] adulto, ou o “adulto interior”. Essa instância psíquica abrange a parte sensata e racional da nossa mente, isto é, nossos pensamentos. Quando funcionamos no modo adulto, assumimos responsabilidades, planejamos, agimos com antecedência, percebemos e compreendemos conexões, avaliamos riscos e também controlamos o ego criança, isto é, nossa criança interior. O ego adulto age de forma consciente e proposital. 
 
-[[Sigmund Freud]] foi o primeiro a dividir a personalidade humana em instâncias diferentes [[2ª Teoria do Aparelho Psíquico]]. O que na psicologia moderna é chamado de criança interior ou ego criança, ele chamou de “[[ID]]”. O ego adulto, ele chamou simplesmente de “ego”. Freud descreveu ainda o chamado “[[SuperEgo]]”, que seria uma espécie de instância moral dentro de nós que a psicologia moderna chama de “ego pai” ou “crítico interior”. Quando agimos no modo pai, nos dirigimos a nós mesmos no seguinte tom: “Deixa de ser burro
+[[Sigmund Freud]] foi o primeiro a dividir a personalidade humana em instâncias diferentes [[2ª Teoria do Aparelho Psíquico]]. O que na psicologia moderna é chamado de criança interior ou ego criança, ele chamou de “[[ID]]”. O ego adulto, ele chamou simplesmente de “ego”. Freud descreveu ainda o chamado “[[SuperEgo]]”, que seria uma espécie de instância moral dentro de nós que a psicologia moderna chama de “ego pai” ou “crítico interior”. Quando agimos no modo pai, nos dirigimos a nós mesmos no seguinte tom: “Deixa de ser burro! Você não passa de um inútil, não faz nada direito! Nunca vai conseguir fazer isso!”. 
+
+[[Qual é a diferença entre a criança-sol e a criança sombra?]]
 
 **COMO:**
 
