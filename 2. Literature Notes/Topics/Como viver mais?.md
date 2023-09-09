@@ -12,6 +12,8 @@ Faça todo mundo feliz.
 A risada dá longevidade.
 Espiritualidade
 	Fé e perseverança.
+	´Segundo uma análise, um serviço religioso 2 ou + vezes por semana pode aumentar a expectativa de vida em 7 anos.´
+	Não importa a sua religião, o que importa é  fazer parte de uma comunidade de fé e ser ativo nela.
 Alimentação consciente.
 	Comidas de qualidade e uma regra: eles param de comer quando o estômago está 80% cheio. Eles comem menos e a consequência é que a população sofre com menos obesidade.
 	Okinawa: Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
@@ -30,6 +32,10 @@ Ikigai
 	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
 Idosos são cuidados pela família
 Voluntariado
+Estar na tribo certa
+	Uma vida saudável contagia.
+	Alguns estudos mostram que se seus 3 melhores amigos são obesos, ha uma chance maior de você ficar acima do peso.
+	
 
 
 
