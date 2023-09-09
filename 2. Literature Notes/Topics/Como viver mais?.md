@@ -14,6 +14,8 @@ Espiritualidade
 	Fé e perseverança.
 Alimentação consciente.
 	Comidas de qualidade e uma regra: eles param de comer quando o estômago está 80% cheio. Eles comem menos e a consequência é que a população sofre com menos obesidade.
+	Okinawa: Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
+	Loma Linda: frutas, vegetais, castanhas, legumes e cereais. Sem carne. Isso melhoraria a saúde e facilitaria a conexão com o divino.
 Movimento corporal
 	Agachamentos são bons para fortalecer o corpo e desenvolver equilíbrio.
 	Okinawa: Todos eles tem jardins e ficam de 1 a 2h por dia no jardim deles.
@@ -27,9 +29,9 @@ Ikigai
 	Ter uma razão para levantar da cama.
 	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
 Idosos são cuidados pela família
-Vol
+Voluntariado
 
-Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
+
 
 **COMO:**
 
