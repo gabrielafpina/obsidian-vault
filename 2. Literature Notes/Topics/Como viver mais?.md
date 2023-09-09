@@ -42,6 +42,8 @@ Estar na tribo certa
 	Alguns estudos mostram que se seus 3 melhores amigos são obesos, ha uma chance maior de você ficar acima do peso.
 	Fumar e até a solidão podem ser contagiosos.
 Relacionamentos amorosos felizes
+Vivem de forma mais lenta
+	para dar tempo às coisas que realmente importam, como o lazer e estar com a família e amigos
 
 
 **COMO:**
