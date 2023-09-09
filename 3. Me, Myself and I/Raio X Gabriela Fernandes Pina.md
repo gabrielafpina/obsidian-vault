@@ -10,24 +10,33 @@
 			5. Ego e Consciência
 			6. Crenças
 			7. Valores
-			8. 
+			8. Ancestralidade
+			9. Mentalidade
 		2. Espiritualidade
 			1. Leis espirituais
 			2. Propósito
-		3. Mentalidade
-		4. Como performar melhor e ser mais eficiente
+		3. Como performar melhor e ser mais eficiente
 			1. Como otimizar minha mente
 			2. Como funciona a mente
 			3. Hábitos
-		5. Prosperidade
-		6. Relacionamentos amorosos
-		7. Meditação
-		8. Comunicação não-violenta
+			4. Inteligência artificial
+			5. Segundo cérebro
+		4. Prosperidade
+		5. Relacionamentos amorosos
+		6. Meditação
+		7. Comunicação não-violenta
 	2. Ensinar
+		1. O que eu faço para ser mais eficiente e produtiva
+		2. Espiritualidade
+		3. Autoconhecimento
 	3. Fazer aulas ao vivo e lives
-	4. 
+	4. Viajar e conhecer novas culturas
+	5. Ir para eventos e fazer networking
+		1. Me conectar com pessoas inteligentes e profundas, que gostem de assuntos semelhantes aos meus
+	6. Criar produtos (escopo, conteúdo)
 2. O que você faz muito bem?
-	1. O que as pessoas normalmente falam que você é bom fazendo? Qual é um tipo de reconhecimento que as pessoas te dar um quando você faz algo que elas consideram bom?
+	1. Criação de conteúdo
+	2. Explicação didática, simples e objetiva
 3. O que o mundo precisa?
 	1. O que você tem que você pode contribuir para fazer uma diferença no mundo?
 4. O que você poderia receber dinheiro por estar fazendo?
