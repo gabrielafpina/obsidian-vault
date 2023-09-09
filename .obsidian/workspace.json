@@ -26,6 +26,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b17577e314f4f9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a02d1ae53b3e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "É necessário que as crianças idealizem os pais, porque senão sentiriam o medo avassalador de estarem à mercê de cuidadores imperfeitos ou até mesmo maus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5efbdd09b3084505",
             "type": "leaf",
             "state": {
@@ -74,6 +98,18 @@
             }
           },
           {
+            "id": "95c5ce9781e9a475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f32074066ff10d85",
             "type": "leaf",
             "state": {
@@ -92,30 +128,6 @@
               "type": "markdown",
               "state": {
                 "file": "O que é a criança-sombra?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ccda8168715fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As crenças são precursoras das emoções.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e29fa04f49d85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,18 +158,6 @@
             }
           },
           {
-            "id": "f105a537afc7ca7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autonomia equivale a controle, e controle equivale a segurança.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9498eadc41476520",
             "type": "leaf",
             "state": {
@@ -181,8 +181,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que acontece com crianças mimadas?.md",
+                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que acontece com crianças mimadas?.md",
+                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que acontece com crianças mimadas?.md"
+                "file": "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md"
               }
             }
           },
@@ -360,17 +359,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26f6cf4eff0388e1",
+  "active": "b17577e314f4f9c9",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
+    "É necessário que as crianças idealizem os pais, porque senão sentiriam o medo avassalador de estarem à mercê de cuidadores imperfeitos ou até mesmo maus.md",
+    "Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
+    "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
+    "O que é a autoestima espelhada?.md",
     "O que acontece com crianças mimadas?.md",
     "Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
     "As crenças são precursoras das emoções.md",
     "O que é a criança-sombra?.md",
     "Quando a criança começa a sentir que é errada?.md",
-    "Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
     "Quais são as 4 necessidades emocionais básicas?.md",
-    "O que é a autoestima espelhada?.md",
     "É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
     "O que pode significar ter medo de compromisso.md",
     "Autonomia equivale a controle, e controle equivale a segurança.md",
@@ -385,9 +387,6 @@
     "Quais são as principais estratégias de autoproteção?.md",
     "4. Templates/Anotação Atômica X Template.md",
     "Qual é a diferença entre a criança-sol e a criança sombra?.md",
-    "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
-    "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
-    "2. Literature Notes/Topics/Lei do 80.20.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",

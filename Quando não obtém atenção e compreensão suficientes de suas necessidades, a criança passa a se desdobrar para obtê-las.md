@@ -23,3 +23,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam]]
