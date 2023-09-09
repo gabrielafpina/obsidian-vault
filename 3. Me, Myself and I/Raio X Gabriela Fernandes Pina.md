@@ -60,4 +60,30 @@
 
 ###### Metaprogramas
 
-###### Ferr
+###### Ferramentas de Vida que mais me modificaram
+
+###### Mapa de trabalho
+
+###### Principais aprendizados de vida
+
+###### Métodos criados
+
+###### Histórico médico
+
+###### Cursos para terminar
+
+###### Cursos para fazer
+
+###### Valores pessoais
+
+###### História Família
+
+###### Principais Mentores
+
+###### Linguagens do amor
+
+###### Golden circle
+
+###### Funcionalidades
+
+###### Histórico com feminino
