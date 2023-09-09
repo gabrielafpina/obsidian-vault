@@ -12,7 +12,13 @@ Muitas dessas estratégias apresentam diversos pontos em comum. Perfeccionismo e
 
 Não são as [[crenças]] negativas em si que pesam sobre nossas relações e sobre nosso modo de viver, mas as estratégias de autoproteção que adotamos em reação a essas crenças. Assim, em última análise, a maioria dos nossos problemas resulta da tentativa de nos protegermos. 
 
-É muito importante que você valorize e respeite suas estratégias de autoproteção, pois foram muito úteis e pertinentes na sua infância. [[presente]] Quando criança, você se adequou a seus pais da melhor forma possível. Ou se rebelou – com certeza você teve boas razões para isso. Até hoje você se esforça para lidar consigo mesmo e com
+É muito importante que você valorize e respeite suas estratégias de autoproteção, pois foram muito úteis e pertinentes na sua infância. [[Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma]]. Quando criança, você se adequou a seus pais da melhor forma possível. Ou se rebelou – com certeza você teve boas razões para isso. 
+
+Até hoje você se esforça para lidar consigo mesmo e com outras pessoas usando suas estratégias de autoproteção. E esses esforços merecem todo o seu reconhecimento. 
+
+Só tem um problema nisso: sua criança-sombra [[O que é a criança-sombra?]] ainda não compreendeu que vocês – ela e seu [[Ego]] adulto – cresceram. Ela ainda vive na realidade de antigamente. Vocês hoje são livres e capazes de cuidar de si mesmos. Você não depende mais dos seus pais. O adulto conta com recursos muito melhores para se proteger e se afirmar. 
+
+[[Quais são as principais estratégias de autoproteção?]]
 
 ###### **COMO:**
 

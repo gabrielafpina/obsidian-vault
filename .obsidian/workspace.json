@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "997f8e7452972f35",
+            "id": "ec5a029a7597589d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são os principais estilos de enfrentamento?.md",
+                "file": "Quais são as principais estratégias de autoproteção?.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
+                "file": "Quais são as principais estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
+                "file": "Quais são as principais estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md"
+                "file": "Quais são as principais estratégias de autoproteção?.md"
               }
             }
           },
@@ -300,9 +300,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad31a0ddd4a3e271",
+  "active": "ec5a029a7597589d",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
     "Quais são os principais estilos de enfrentamento?.md",
     "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
@@ -327,7 +328,6 @@
     "2. Literature Notes/Topics/As crenças negativas são as causas de todos os seus problemas, exceto aqueles provocados por algum golpe do destino.md",
     "2. Literature Notes/Topics/As crenças são precursoras das emoções.md",
     "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
-    "2. Literature Notes/Topics/necessidades emocionais.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",
