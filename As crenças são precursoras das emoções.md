@@ -8,7 +8,7 @@ Segundo minha experiência, a [[Criança Interior]] (ambas as suas partes) tamb�
 
 ==***CRENÇAS -> EMOÇÕES -> COMPORTAMENTOS -> RESULTADOS***==
 
-
+[[Nossas crenças são as lentes pelas quais enxergamos a realidade]].
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -110,6 +110,30 @@
             }
           },
           {
+            "id": "34e29fa04f49d85c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26f6cf4eff0388e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que acontece com crianças mimadas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "571acebccc3862aa",
             "type": "leaf",
             "state": {
@@ -158,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,7 +241,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 47.01421800947867,
+        "dimension": 47.01421800947866,
         "children": [
           {
             "id": "f86c735e844ed812",
@@ -228,7 +252,7 @@
             }
           },
           {
-            "id": "267b7c8ff2df67db",
+            "id": "dec6562726fdc908",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -236,7 +260,7 @@
             }
           },
           {
-            "id": "e12d9f148dd3e9b5",
+            "id": "e590c4efca906aa3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -249,7 +273,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 52.98578199052133,
+        "dimension": 52.98578199052134,
         "children": [
           {
             "id": "34bc9bc63f694fbd",
@@ -257,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As crenças são precursoras das emoções.md",
+                "file": "O que acontece com crianças mimadas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As crenças são precursoras das emoções.md",
+                "file": "O que acontece com crianças mimadas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As crenças são precursoras das emoções.md"
+                "file": "O que acontece com crianças mimadas?.md"
               }
             }
           },
@@ -336,9 +360,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81ccda8168715fd0",
+  "active": "26f6cf4eff0388e1",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "O que acontece com crianças mimadas?.md",
+    "Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
     "As crenças são precursoras das emoções.md",
     "O que é a criança-sombra?.md",
     "Quando a criança começa a sentir que é errada?.md",
@@ -362,8 +388,6 @@
     "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
-    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",
