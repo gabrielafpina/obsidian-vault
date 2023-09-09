@@ -121,7 +121,10 @@
 	- O dinheiro é uma ferramenta espiritual muito abençoada, que vai me permitir mudar a minha vida e a de milhões de pessoas
 	- Eu sou um fragmento divino e, por isso, tenho tanto valor quanto qualquer outra pessoa
 	- Eu não sou maior, menor, melhor, ou pior do que ninguém, sou diferente [[Diferente não é melhor e não é pior, é diferente]]
-	- Eu sou muito inteligente nos assuntos que amo estudar e isso está longe 
+	- Eu sou muito inteligente nos assuntos que amo estudar e isso está longe de demonstrar o meu valor. Eu sou muito mais do que o meu intelecto
+	- Eu consigo gerenciar os meus pensamentos e emoções com maestria. Eu me conheço o suficiente para fazer isso com leveza
+	- Eu escolho ser 1% melhor todos os dias
+	- Eu escolho parar de competir e escolho começar a ver o mundo e os indivíduos como forma de cooperação comigo mesma
 ###### Mapa Astral
 
 ###### Mapa Numerológico
