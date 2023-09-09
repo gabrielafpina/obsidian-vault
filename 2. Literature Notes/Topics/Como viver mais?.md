@@ -19,6 +19,7 @@ Alimentação consciente.
 	Comidas de qualidade e uma regra: eles param de comer quando o estômago está 80% cheio. Eles comem menos e a consequência é que a população sofre com menos obesidade.
 	Okinawa: Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
 	Loma Linda: frutas, vegetais, castanhas, legumes e cereais. Sem carne. Isso melhoraria a saúde e facilitaria a conexão com o divino.
+	Costa rica: feijão, abóbora e milho
 Movimento corporal
 	Agachamentos são bons para fortalecer o corpo e desenvolver equilíbrio.
 	Okinawa: Todos eles tem jardins e ficam de 1 a 2h por dia no jardim deles.
