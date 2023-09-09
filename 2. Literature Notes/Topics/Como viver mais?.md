@@ -23,6 +23,7 @@ Movimento corporal
 	Okinawa: Todos eles tem jardins e ficam de 1 a 2h por dia no jardim deles.
 	Sardenha: inclinação na vila e as pessoas andam bastante para cima e para baixo. Sem contar que as casas costumam ter 2, 3 ou 4 andares.
 		Interessante usar menos o elevador e andar mais de escada. Ao longo do tempo isso faz uma grande diferença.
+	Ikaria: chá de ervas. Utilização do mel natural, puro e verdadeiro.
 Sair com pessoas
 	A população nos EUA está cada vez mais sofrendo de isolamento. A solidão pode custar 15 anos da sua expectativa de vida.
 Viver o presente
@@ -36,7 +37,7 @@ Estar na tribo certa
 	Uma vida saudável contagia.
 	Alguns estudos mostram que se seus 3 melhores amigos são obesos, ha uma chance maior de você ficar acima do peso.
 	Fumar e até a solidão podem ser contagiosos.
-
+Relacionamentos amorosos felizes
 
 
 **COMO:**
