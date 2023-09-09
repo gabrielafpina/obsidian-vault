@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,37 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d99daaad71c91192",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad31a0ddd4a3e271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dec6985b06e29174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -241,10 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dec6985b06e29174",
+  "active": "b3b29bcd7b5fafbc",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
+    "Untitled.canvas",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Topics/o vício não é uma doença, mas uma “dependência como escolha.md",
     "2. Literature Notes/Topics/quando projetamos e distorcemos a realidade, por vezes vemos inimigos onde eles não existem.md",
@@ -267,11 +238,8 @@
     "2. Literature Notes/Topics/Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
     "2. Literature Notes/Topics/Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
-    "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
-    "2. Literature Notes/Topics/É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
     "Lei do 80",
     "6. Creator/Lives",
-    "Untitled.canvas",
     "Encontro TOP Membros 06",
     "6. Creator/Products/Mentoria Individual",
     "2. Literature Notes/Meditações Guiadas",
