@@ -28,10 +28,13 @@ Movimento corporal
 Sair com pessoas
 	A população nos EUA está cada vez mais sofrendo de isolamento. A solidão pode custar 15 anos da sua expectativa de vida.
 Viver o presente
-Propósito
-	Ter um propósito que contribua para o mundo, ajude a sua vida e a vida de outras pessoas.
-	Ter uma razão para levantar da cama.
-	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
+Propósito claro
+	Ikigai (Okinawa)
+		Ter um propósito que contribua para o mundo, ajude a sua vida e a vida de outras pessoas.
+		Ter uma razão para levantar da cama.
+		Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
+	Plan de Vida (Costa Rica)
+		Esses centenários tem um propósito claro. Eles sabem seu objetivo na vida, por que acordam de manha. É isso que os motiva nas dificuldades e os mantém trabalhando.
 Idosos são cuidados pela família
 Voluntariado
 Estar na tribo certa
