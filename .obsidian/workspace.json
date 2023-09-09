@@ -26,6 +26,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fa87f85592e76037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d47ee983d1e8c2bf",
             "type": "leaf",
             "state": {
@@ -84,9 +96,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e92f1ddb88560992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a criança-sol?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f838adc17e52eb98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são as principais estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a criança-sombra?.md",
+                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a criança-sombra?.md",
+                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a criança-sombra?.md"
+                "file": "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md"
               }
             }
           },
@@ -265,13 +300,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57b9019c4ff54d51",
+  "active": "fa87f85592e76037",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Criança Interior.md",
+    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "O que é a criança-sombra?.md",
+    "O que é a criança-sol?.md",
+    "2. Literature Notes/Topics/Criança Interior.md",
+    "Quais são as principais estratégias de autoproteção?.md",
     "4. Templates/Anotação Atômica X Template.md",
     "Qual é a diferença entre a criança-sol e a criança sombra?.md",
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior..md",
     "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
@@ -291,9 +329,6 @@
     "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
     "2. Literature Notes/Topics/Os 5V´s para combater a Autossabotagem.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "2. Literature Notes/Topics/Existem 3 tipos de alimento para o nosso corpo.md",
-    "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
     "6. Creator/Lives",
     "Untitled.canvas",
     "Encontro TOP Membros 06",
