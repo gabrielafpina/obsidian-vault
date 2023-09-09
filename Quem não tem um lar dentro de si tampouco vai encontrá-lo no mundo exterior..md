@@ -20,6 +20,7 @@
 
 **Norte: ideia/pergunta**
 - [[Criança Interior]]
-- [[amorp]]
+- [[A importância do amor-próprio na vida diária]]
+- [[O verdadeiro egoísmo é você se abandonar para cuidar dos outros que se abandonaram]]
 
 **Sul: para onde vai**
