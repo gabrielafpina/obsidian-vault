@@ -66,3 +66,4 @@ O alan não lê livros até o final, porque ele afirma que você não precisa de
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Se esforçar é um auto-suicídio]]

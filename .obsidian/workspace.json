@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ea0143cc75ef0dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se esforçar é um auto-suicídio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ff2615cd3a22f689",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verdadeiro",
+                "query": "esforço",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -199,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Se esforçar é um auto-suicídio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Se esforçar é um auto-suicídio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Se esforçar é um auto-suicídio.md"
+              }
             }
           },
           {
@@ -274,12 +290,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f18f488f239160c5",
+  "active": "ea0143cc75ef0dc3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
     "Se esforçar é um auto-suicídio.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Deus só diz SIM.md",
-    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
     "2. Literature Notes/Topics/Lei do 80.20.md",
     "A depressão é uma dádiva.md",
     "Lei do 80/20.md",
