@@ -10,7 +10,7 @@ Sua criança-sombra estará convencida de que não pode confiar (plenamente) no 
 
 Na prática, não entram em relacionamentos ou então não permitem que o parceiro fique íntimo delas, ou até desenvolvem intimidade mas logo depois se distanciam novamente.  
 
-Essa é uma estratégia de auto-proteção. [[Quais são as principais estratégias de autoproteção?]]
+Essa é uma estratégia de auto-proteção. [[O que são estratégias de autoproteção?]]
 
 ###### **COMO:**
 

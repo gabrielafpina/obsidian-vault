@@ -43,7 +43,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997f8e7452972f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são os principais estilos de enfrentamento?.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +192,7 @@
             }
           },
           {
-            "id": "dec6562726fdc908",
+            "id": "2cfdd2644a740a0b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -188,7 +200,7 @@
             }
           },
           {
-            "id": "e590c4efca906aa3",
+            "id": "9c976dc03257dd65",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md"
+                "file": "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md"
               }
             }
           },
@@ -291,7 +303,8 @@
   "active": "ad31a0ddd4a3e271",
   "lastOpenFiles": [
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
-    "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+    "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
+    "Quais são os principais estilos de enfrentamento?.md",
     "Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
     "Desde o nascimento você é uma estrela brilhante!.md",
     "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
@@ -315,7 +328,6 @@
     "2. Literature Notes/Topics/As crenças são precursoras das emoções.md",
     "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
     "2. Literature Notes/Topics/necessidades emocionais.md",
-    "2. Literature Notes/Topics/O autoconhecimento é o caminho ideal não apenas para se libertar dos problemas, mas também para se tornar uma pessoa melhor.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Untitled.canvas",

@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-As [[crenças]] negativas não se originam somente da privação, da negligência ou da superproteção. Pais que deixam a criança fazer tudo que quer e a mimam demais podem levá-la a acreditar que tudo tem que acontecer segundo sua vontade e que ela mesma não precisa se esforçar. [[Quais são as principais estratégias de autoproteção?]]
+As [[crenças]] negativas não se originam somente da privação, da negligência ou da superproteção. Pais que deixam a criança fazer tudo que quer e a mimam demais podem levá-la a acreditar que tudo tem que acontecer segundo sua vontade e que ela mesma não precisa se esforçar. [[O que são estratégias de autoproteção?]]
 
 Em vez de se subestimar, ela superestima a própria importância. Ela ==parte do princípio de que merece obter tudo que quer e, quando isso não acontece, reage com irritação e mágoa extremas==. 
 
