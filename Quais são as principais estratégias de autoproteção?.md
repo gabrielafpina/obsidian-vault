@@ -49,7 +49,15 @@
 7. **Obsessão por controle**
 	1. Crenças típicas: “Preciso ter controle de tudo”, “Estou perdido”, “Estou à sua mercê”, “Não posso confiar em você”, “Não sou bom o bastante”, “Não tenho valor”.
 	2. Pessoas controladoras tendem a monitorar não só a si mesmas como também o parceiro e familiares. O controlador quer estar bem informado sobre as ações deles, pois, confiando tão pouco em si mesmo, tem problemas em confiar nos outros.
-	3. A chamada ruminação é outra forma de controle. [[O que é a ruminaçaõ?]]Muitas pessoas reclamam de não conseguir desligar os pensamentos, que trilham sempre os mesmos caminhos quase de modo compulsivo. A ruminação pode ser considerada uma tentativa vã de encontrar uma solução: o cérebro simplesmente não dá sossego até que o bloqueio seja contornado. No entanto, esses ciclos intermináveis de pensamentos em torno do problema, na maioria das vezes, mais atrapalham do que levam a uma solução. 
+	3. A chamada ruminação é outra forma de controle. [[O que é a ruminação?]]
+	4. *Méritos dessa estratégia*: Você tem uma autoconfiança e uma disciplina incríveis. A disciplina é um recurso valioso. Orgulhe-se de sua força de vontade. 
+	5. *Primeiros socorros*: Seu problema é que, para proteger sua criança-sombra de ser agredida e ferida, você muitas vezes passa do ponto. Sua busca por controle gera estresses frequentes, não só em você mas também nas pessoas à sua volta. É muito importante que sua criança-sombra ganhe mais autoconfiança, mas também um pouco mais de “fé” de que as coisas estão se encaminhando. Tente trabalhar mais a alegria de viver e a serenidade. Com a ajuda de seu adulto interior, explique a sua criança-sombra que ela é boa o suficiente do jeito dela e que não precisa se esforçar tanto o tempo todo. Descanse com mais frequência e se recompense por suas realizações. 
+8. **Agressão-ataque**
+	1. Crenças típicas: “Sou inferior”, “Não posso confiar em você”, “Não devo impor limites”, “O mundo é mau”, “Nunca sou atendido”, “Não sou importante”. 
+	2. [[quando projetamos e distorcemos a realidade, por vezes vemos inimigos onde eles não existem]]
+	3. Pessoas com tendência à impulsividade muitas vezes também padecem com ela. Momentos após a raiva ter passado e elas terem retornado a seu ego adulto, essas pessoas sabem que passaram dos limites. [[A raiva aparece quando uma necessidade física ou emocional não é atendida]]. O problema é que a raiva impulsiva é muito difícil de domar. Se uma pessoa deseja controlar a impulsividade, as intervenções devem ter como prioridade impedir que a raiva venha à tona.
+	4. *Méritos dessa estratégia*: Você não é de levar desaforo para casa, é muito forte e sabe se defender. É um guerreiro nato. Sua impulsividade também faz de você uma pessoa muito vivaz – os outros não se entediam tão rápido com você. 
+	5. *Primeiros socorros*: Sua criança-sombra se ofende com muita facilidade. É por isso que ela logo tem a sensação de que está sendo desrespeitada e agredida. Tente permanecer o máximo possível junto de seu ego adulto e, com isso, em pé de igualdade com as outras pessoas.
 
 
 
