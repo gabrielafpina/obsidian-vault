@@ -25,7 +25,8 @@ Viver o presente
 Ikigai
 	Ter um propósito que contribua para o mundo, ajude a sua vida e a vida de outras pessoas.
 	Ter uma razão para levantar da cama.
-	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]]
+	Eles sabem o seu valor e isso faz com que as decisões do dia a dia sejam muito fáceis, porque eles sabem qual é a sua essência. [[Como monetizar a sua curiosidade]].
+Idosos são cuidados pela família
 
 Comer pouca carne, ovos, laticínios, peixe e comer mais batata doce roxa. Investir em um conjunto de alimentos com potencial medicinal.
 
