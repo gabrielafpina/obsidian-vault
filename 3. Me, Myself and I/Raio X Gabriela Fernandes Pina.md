@@ -1,5 +1,5 @@
 ###### Objetivo de Vida - Ikigai
-1. O que você ama fazer?
+1. **O que você ama fazer?**
 	1. Estudar
 		1. Autoconhecimento
 			1. Feridas emocionais
@@ -21,6 +21,7 @@
 			3. Hábitos
 			4. Inteligência artificial
 			5. Segundo cérebro
+			6. Como estudar de forma mais eficiente
 		4. Prosperidade
 		5. Relacionamentos amorosos
 		6. Meditação
@@ -34,12 +35,17 @@
 	5. Ir para eventos e fazer networking
 		1. Me conectar com pessoas inteligentes e profundas, que gostem de assuntos semelhantes aos meus
 	6. Criar produtos (escopo, conteúdo)
-2. O que você faz muito bem?
+	7. Ver o mundo de forma disruptiva e compreendendo de que maneira eu posso viver uma vida em que eu me sinto mais VIVA e FELIZ
+2. **O que você faz muito bem?**
 	1. Criação de conteúdo
 	2. Explicação didática, simples e objetiva
-3. O que o mundo precisa?
-	1. O que você tem que você pode contribuir para fazer uma diferença no mundo?
-4. O que você poderia receber dinheiro por estar fazendo?
+	3. Conexão com as pessoas (consigo pegar na ferida delas e falar com elas de forma a serem compreendidas)
+	4. Ressignifico situações dolorosas em aprendizado
+3. **O que o mundo precisa?**
+	1. Já vivi algumas situações dolorosas e desenvolvi sabedoria desde cedo. Esse é o tipo de conteúdo que o mundo precisa para diminuir a mediocridade
+	2. O mundo precisa de pessoas que pensem e que não sejam pensadas. Eu sou uma dessas pessoas. Aprendi a pensar sozinha e desenvolvi a minha própria autonomia
+4. **O que você poderia receber dinheiro por estar fazendo?**
+	1. Dando mais au
 
 ###### Quadrantes do Sucesso
 - **O que você ama e é bom fazendo**? O que você é muito bom? nesse exercício, conversar com amigos e pedir feedback e sobre o que eles acham que você é muito bom fazendo. Essa é a sua **paixao.** 
