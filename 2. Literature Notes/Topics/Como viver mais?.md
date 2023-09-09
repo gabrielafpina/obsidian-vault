@@ -10,6 +10,7 @@ Divirta-se sempre.
 Divirta-se com todos.
 Faça todo mundo feliz.
 A risada dá longevidade.
+	Dançar e rir.
 Espiritualidade
 	Fé e perseverança.
 	´Segundo uma análise, um serviço religioso 2 ou + vezes por semana pode aumentar a expectativa de vida em 7 anos.´
