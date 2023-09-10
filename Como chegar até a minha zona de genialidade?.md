@@ -16,13 +16,15 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 	1. Você sente que está explorando o seu potencial e sendo muito bem recompensado por isso. Você é muito bom no que faz, mas você ainda sente que você pode gerar mais valor. Aqui, a recompensa extrínseca já não faz mais sentido para você, porque você já gerou resultados e dinheiro, o que importa é a ==recompensa intrínseca==, a sua satisfação consigo mesmo.
 	2. Quando você toma a coragem de sair desse lugar e ir para a sua zona de genialidade, você tem a possibilidade de fazer algo fantástico e que te traga alegria. É difícil dar esse salto, porque requer muita coragem.
 4. **Zona de genialidade**
-	1. É o que é natural e simples para mim. É onde eu brinco e, por isso, me torno imparável.
-	2. A zona de genialidade não é uma coisa específica, não é só uma habilidade.
+	1. É o que é natural e simples para mim. É onde eu brinco e, por isso, me torno imparável. Você não fica nem querendo fazer outras coisas, porque isso te dá tanta satisfação, que você vai querer fazer isso todos os dias.
+	2. A zona de genialidade não é uma coisa específica, não é só uma habilidade. Ela é composta por vários elementos diferentes.
 	3. ==A sua zona de genialidade está muito ligada a algo que você está evitando fazer a muito tempo.== 
+	4. O conhecimento vem com uma grande responsabilidade. Conhecimento é liberdade, mas é também responsabilidade. E quando você tiver conhecimento sobre a sua zona de genialidade, o seu corpo te avisa quando você está fora da sua zona.
+		1. Depressão é quando você não corresponde ao seu chamado, ao seu combinado com Deus. [[A depressão é uma dádiva]]. Depressão é um chamado da alma para que você possa estar atuando naquilo que você veio fazer no planeta.
+		2. Quando você não ouve o sue chamado e o recusa, você é cobrado. Você já sabe o que é para fazer e não se sente preparado para atingir aquilo.
+	5. Estar na sua zona de genialidade, isso te dá energia.
 
-Depressão é quando você não corresponde ao seu chamado.
 
-O conhecimento vem com uma grande responsabilidade. C
 
 Livro recomendado: The big Leap
 

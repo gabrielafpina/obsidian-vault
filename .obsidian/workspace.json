@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -244,10 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "358878a2b013820b",
+  "active": "50249fd954cc9a6f",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Como chegar até a minha zona de genialidade?.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding",
