@@ -78,6 +78,7 @@
 	- ´Eu estou desse planeta, mas não me sinto aqui´.
 	- Alto poder de manipulação.
 	- O planeta mais ==perfeccionista== do mapa não é virgem, é peixes, regido por Netuno.
+	- No meu mapa, a família é a prisão. Olhar para projeções e idealizações.
 	- Eu tenho os 3 planetas transpessoais fortes no meu mapa: netuno forte, energia de plutão forte e urano.
 		- Pensamento muito no futuro, alta mediunidade (trabalhar a minha mediunidade), alto poder de cura energética
 		- A energia netuniana pode atrair questões psicológicas
@@ -89,3 +90,5 @@
 ###### Características
 - Eu sou uma esponja, por isso, trabalhar diretamente com pessoas no 1:1 me cansa muito, porque absorvo muito as pessoas
 - Eu não estou no momento de viajar e chutar o balde. Estou no momento de focar no meu profissional.
+- O seu maior potencial é o que você mais nega. E, sim, está atrelado às questões familiares, à prisão. Necessário se libertar da questão familiar para dar outros passos.
+- Desenvolver o 3o olho.
