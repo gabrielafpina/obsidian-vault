@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "08f663e8d6eb9968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "50249fd954cc9a6f",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md"
+                "file": "2. Literature Notes/Topics/Pirâmide da Frustração.md"
               }
             }
           },
@@ -244,10 +256,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "358878a2b013820b",
+  "active": "08f663e8d6eb9968",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Consciência.md",
     "Como chegar até a minha zona de genialidade?.md",
+    "2. Literature Notes/Topics/Consciência.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "6. Creator/Branding/Comunidade.md",

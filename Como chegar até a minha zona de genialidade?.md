@@ -33,6 +33,7 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 Livro recomendado: The big Leap, rápido e devagar
 
 ´Eu preciso ajudar outras pessoas a verem isso que eu estou vendo´
+´Eu to mais preocupado em criar e fazer, do que vender´
 ###### **COMO:**
 
 ###### **PENSADORES:**
