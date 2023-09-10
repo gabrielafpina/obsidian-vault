@@ -21,11 +21,12 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 	3. ==A sua zona de genialidade está muito ligada a algo que você está evitando fazer a muito tempo.== Você pode estar fugindo da sua genialidade, porque ela exige um esforço para você compreendê-la. O seu [[Inconsciente]] já sabe a sua zona de genialidade, é o seu [[Consciente]] que não sabe. Você precisa trazer a inconsciência para a [[Consciência]].
 		1. Como? 
 			1. Através da **intuição** (está acima da mente, é sutil)
-			2. Fazer uma pergunta para as pessoas mais próximas: no que você acha que eu sou naturalmente bom? Que eu faço com mais facilidade que as outras pessoas? O que eu faço que te chama a atenção? Isso te ajuda a descobrir o que os outros pensam sobre você.
-	4. O conhecimento vem com uma grande responsabilidade. Conhecimento é liberdade, mas é também responsabilidade. E quando você tiver conhecimento sobre a sua zona de genialidade, o seu corpo te avisa quando você está fora da sua zona.
+			2. Fazer uma pergunta para as pessoas mais próximas: no que você acha que eu sou naturalmente bom? O que eu faço com mais facilidade que as outras pessoas? O que eu faço que te chama a atenção? Isso te ajuda a descobrir o que os outros pensam sobre você.
+				1. O que você acha que eu deveria melhorar? O que eu faço que eu não sou bom? O que eu faço com mais dificuldade que as outras pessoas? Aqui, você descobre a sua zona de merda e você DELEGA. Não foque em desenvolver os seus pontos fracos. Coloque foco sobre aquilo que você é muito bom e naturalmente isso vai gerar sombra. E quando você tem luz sobre a sua genialidade, você vai precisar de pessoas para administrar as suas sombras. Quanto mais genial você for em algo, mais você vai precisar da ajudsa de outras pessoas. Assim, é
+	4. O conhecimento vem com grande responsabilidade. Conhecimento é liberdade, mas é também responsabilidade. E quando você tiver conhecimento sobre a sua zona de genialidade, o seu corpo te avisa quando você está fora da sua zona.
 		1. Depressão é quando você não corresponde ao seu chamado, ao seu combinado com Deus. [[A depressão é uma dádiva]]. Depressão é um chamado da alma para que você possa estar atuando naquilo que você veio fazer no planeta.
 		2. Quando você não ouve o sue chamado e o recusa, você é cobrado. Você já sabe o que é para fazer e não se sente preparado para atingir aquilo.
-	5. Estar na sua zona de genialidade, isso te dá energia e você gera muito valor, é recompensado por isso (intrins)
+	5. Estar na sua zona de genialidade, isso te dá energia e você gera muito valor, é recompensado por isso (intrínseca e extrinsicamente)
 
 
 
