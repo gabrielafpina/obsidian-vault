@@ -72,3 +72,9 @@
 3. **Carreiras que Ignoram as Emoções**: Com o Sol e a Lua em Peixes na Casa 5, você pode se sentir insatisfeita em carreiras que ignoram as emoções e a empatia. Você é uma pessoa sensível e intuitiva e pode se sentir frustrada em ambientes que são muito racionais ou despersonalizados.
 
 ------
+##### Mapa Astral com Mari
+- Netuno focal: você nunca vai estar satisfeita. Alta mediunidade. O planeta mais forte do seu mapa fala do que é totalmente abstrata. A energia mais forte dentro de você é algo que você não consegue alcançar. E é isso que te tira do aqui e te permite ir além. Quando você chega naquilo, você sempre vai achar que falta algo. E isso é normal.
+	- Essa energia me faz sentir muito, tenho mediunidade aflorada, criatividade, sou inventiva. Consigo fantasiar, imaginar e criar, porque o meu saturno também é forte.
+
+###### Características
+- Eu sou uma esponja, por isso, trabalhar diretamente com pessoas no 1:1 me cansa muito, porque absorvo muito as pessoas
