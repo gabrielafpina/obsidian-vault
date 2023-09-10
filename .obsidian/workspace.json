@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alan",
+                "query": "zona de genial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +244,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "358878a2b013820b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Zona de Genialidade.md",
