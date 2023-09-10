@@ -106,6 +106,7 @@
 - Todos os problemas e qualidades voltam para o mesmo lugar no meu mapa: netuno.
 - 28 anos: quando eu vou ter toda a colheita com tudo de horrível que aconteceu comigo. Vai ser uma colheita muito grande, por conta das minhas escolhas. [[Tudo é uma escolha]].
 - A pessoa que eu sou hoje, comecei a criar ela com 14 anos, quando eu quebrei os meus dois pés.
-- O que mais me dói: não ter controle.
+- O que mais me dói: não ter controle. É sobre confiar plenamente em Deus e colocar toda a minha vida nas mãos dele. Eu não controlo nada. O que eu posso fazer, na verdade, é parar de carregar pesos e soltar o controle. Viver de acordo com o fluxo da vida.
+- Eu tenho uma energia da fênix no meu mapa. Em que eu já morri muitas vezes e, então, renasci.
 
 [[A sua independência e liberdade moram nas suas escolhas]]
