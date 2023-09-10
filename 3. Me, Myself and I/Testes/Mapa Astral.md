@@ -101,3 +101,5 @@
 - Necessário aprender a impor limites. 
 - Eu tenho o dom da escrita e da fala. Escrita fictícia é legal, porque a minha imaginação flui mais e eu ativo o lado netuniano - posso escrever durante horas, entrando na história.
 - Eu aprendo muito ao falar - característica netuniana.
+- Mentoria individual é muito forte para mim, porque eu absorvo muito a energia das pessoas. Em uma mentoria em grupo, eu não me responsabilizo pela transformação do outro e absorvo menos energias. Mentoria individual foi um ciclo. Está na hora de fechar esse ciclo e focar apenas em mentorias em grupo.
+- Eu tenho uma tendência a querer fazer tudo de uma vez, tendo 18493 ideias ao mesmo tempo, o que me sobrecarrega. É importante aprender a priorizar.
