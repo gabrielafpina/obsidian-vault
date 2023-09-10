@@ -411,6 +411,7 @@ Contas no Twitter que acompanho e entregam muito valor:
 - [[Obsidian]]
 - [[Encontro TOP Membro 06.09.23]]
 - [[Como monetizar a sua curiosidade]]
+- [[Zona de Genialidade]]
 
 
 **FRASES:**

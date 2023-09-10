@@ -13,7 +13,31 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "6. Creator/Branding/Untitled Kanban.md"
+                "file": "6. Creator/Branding/Comunidade.md"
+              }
+            }
+          },
+          {
+            "id": "3de5c913e70d762d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "358878a2b013820b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zona de Genialidade.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distorção",
+                "query": "alan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "Zona de Genialidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "Zona de Genialidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "Zona de Genialidade.md"
               }
             }
           },
@@ -221,9 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50249fd954cc9a6f",
+  "active": "358878a2b013820b",
   "lastOpenFiles": [
-    "6. Creator/Branding/Untitled Kanban.md",
+    "2. Literature Notes/People/Alan Nicolas.md",
+    "Zona de Genialidade.md",
+    "6. Creator/Branding/Comunidade.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Branding",
     "Untitled.canvas",
@@ -249,8 +274,6 @@
     "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
     "2. Literature Notes/Topics/Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
-    "2. Literature Notes/Topics/Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las.md",
-    "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
