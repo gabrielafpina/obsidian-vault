@@ -34,11 +34,12 @@
 		2. Espiritualidade
 		3. Autoconhecimento
 	3. Fazer aulas ao vivo e lives
-	4. Viajar e conhecer novas culturas
-	5. Ir para eventos e fazer networking
+	4. Ler livros
+	5. Viajar e conhecer novas culturas
+	6. Ir para eventos e fazer networking
 		1. Me conectar com pessoas inteligentes e profundas, que gostem de assuntos semelhantes aos meus
-	6. Criar produtos (escopo, conteúdo)
-	7. Ver o mundo de forma disruptiva e compreendendo de que maneira eu posso viver uma vida em que eu me sinto mais VIVA e FELIZ
+	7. Criar produtos (escopo, conteúdo)
+	8. Ver o mundo de forma disruptiva e compreendendo de que maneira eu posso viver uma vida em que eu me sinto mais VIVA e FELIZ
 2. **O que você faz muito bem?**
 	1. Criação de conteúdo
 		1. Vídeos que conectam
