@@ -77,6 +77,7 @@
 	- Essa energia me faz sentir muito, tenho mediunidade aflorada, criatividade, sou inventiva. Consigo fantasiar, imaginar e criar, porque o meu saturno também é forte.
 	- ´Eu estou desse planeta, mas não me sinto aqui´.
 	- Alto poder de manipulação.
+	- O planeta mais ==perfeccionista== do mapa não é virgem, é peixes, regido por Netuno.
 	- Eu tenho os 3 planetas transpessoais fortes no meu mapa: netuno forte, energia de plutão forte e urano.
 		- Pensamento muito no futuro, alta mediunidade (trabalhar a minha mediunidade), alto poder de cura energética
 		- A energia netuniana pode atrair questões psicológicas
