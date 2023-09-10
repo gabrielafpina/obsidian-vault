@@ -37,6 +37,7 @@
 		1. Transmitir sabedoria e conhecimento
 		2. Comunicar ideias complexas e profundas, de formas simples e didática
 		3. NECESSIDADE de compartilhar
+		4. Amo provocar as pessoas a pensarem de forma diferente
 	4. Ler livros
 	5. Viajar e conhecer novas culturas
 	6. Ir para eventos e fazer networking

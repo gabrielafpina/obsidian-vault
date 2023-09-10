@@ -28,7 +28,7 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 		2. Quando você não ouve o sue chamado e o recusa, você é cobrado. Você já sabe o que é para fazer e não se sente preparado para atingir aquilo.
 	5. Estar na sua zona de genialidade, isso te dá energia e você gera muito valor, é recompensado por isso (intrínseca e extrinsicamente)
 
-
+As pessoas que mais sabem, são as que menos acham que sabem.
 
 Livro recomendado: The big Leap, rápido e devagar
 
