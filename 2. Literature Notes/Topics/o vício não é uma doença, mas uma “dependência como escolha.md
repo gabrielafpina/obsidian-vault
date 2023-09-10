@@ -21,5 +21,6 @@ Um argumento plausível para isso é que, segundo alguns estudos epidemiológico
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo é uma escolha]]
 
 **Sul: para onde vai**
