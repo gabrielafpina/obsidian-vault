@@ -98,3 +98,4 @@
 - É importante lembrar que você vai dar um caminho para as pessoas se encontrarem, mas as pessoas não são como você e não vão sentir como você.
 - Eu tenho a síndrome do ET e do salvador.
 - Necessário aprender a impor limites. 
+- Eu tenho o dom da escrita e da fala. Escrita fictícia é legal, porque a minha imaginação flui mais e eu ativo o lado netuniano - posso escrever durante horas, entrando na história.
