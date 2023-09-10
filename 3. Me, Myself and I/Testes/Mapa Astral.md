@@ -94,7 +94,7 @@
 - O seu maior potencial é o que você mais nega. E, sim, está atrelado às questões familiares, à prisão. Necessário se libertar da questão familiar para dar outros passos.
 - Desenvolver o 3o olho.
 - Alta necessidade de ficar sozinha e ter o meu espaço.
-- Morar perto do mar é ESSENCIAL. Vai prejudicar muito a sua saúde morar longe do mar. A conexão com a espiritualidade aumenta muito perto do mar.
+- Morar perto do mar é ESSENCIAL. Vai prejudicar muito a sua saúde morar longe do mar. A conexão com a espiritualidade aumenta muito perto do mar. Recarrego as energias com o mar.
 - É importante lembrar que você vai dar um caminho para as pessoas se encontrarem, mas as pessoas não são como você e não vão sentir como você.
 - Eu tenho a síndrome do ET e do salvador.
-- Necessário aprender a impor limites.
+- Necessário aprender a impor limites. 
