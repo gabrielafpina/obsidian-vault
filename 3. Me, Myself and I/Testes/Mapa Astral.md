@@ -82,11 +82,10 @@
 		- Pensamento muito no futuro, alta mediunidade (trabalhar a minha mediunidade), alto poder de cura energética
 		- A energia netuniana pode atrair questões psicológicas
 - Leão na casa 5: quer reconhecimento e aplauso, mas não consigo me sentir incluída e quando consigo me sentir incluída, eu vou contra a minha natureza.
+	- É o palco. Palestras.
 
 > [!important] Gabi, você consegue compreender todo mundo, mas você não consegue fazer parte.
 
-
-
-
 ###### Características
 - Eu sou uma esponja, por isso, trabalhar diretamente com pessoas no 1:1 me cansa muito, porque absorvo muito as pessoas
+- Eu não estou no momento de viajar e chutar o balde. Estou no momento de focar no meu profissional.
