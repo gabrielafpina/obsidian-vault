@@ -87,8 +87,13 @@
 
 > [!important] Gabi, você consegue compreender todo mundo, mas você não consegue fazer parte.
 
+> [!note] As pessoas se sentem como você, mas elas não conseguem ser você.
 ###### Características
 - Eu sou uma esponja, por isso, trabalhar diretamente com pessoas no 1:1 me cansa muito, porque absorvo muito as pessoas
 - Eu não estou no momento de viajar e chutar o balde. Estou no momento de focar no meu profissional.
 - O seu maior potencial é o que você mais nega. E, sim, está atrelado às questões familiares, à prisão. Necessário se libertar da questão familiar para dar outros passos.
 - Desenvolver o 3o olho.
+- Alta necessidade de ficar sozinha e ter o meu espaço.
+- Morar perto do mar é ESSENCIAL. Vai prejudicar muito a sua saúde morar longe do mar. A conexão com a espiritualidade aumenta muito perto do mar.
+- É importante lembrar que você vai dar um caminho para as pessoas se encontrarem, mas as pessoas não são como você e não vão sentir como você.
+- Eu tenho a síndrome do ET e do salvador.
