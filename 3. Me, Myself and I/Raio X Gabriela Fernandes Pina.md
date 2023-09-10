@@ -34,6 +34,9 @@
 		2. Espiritualidade
 		3. Autoconhecimento
 	3. Fazer aulas ao vivo e lives
+		1. Transmitir sabedoria e conhecimento
+		2. Comunicar ideias complexas e profundas, de formas simples e didática
+		3. NECESSIDADE de compartilhar
 	4. Ler livros
 	5. Viajar e conhecer novas culturas
 	6. Ir para eventos e fazer networking
@@ -48,7 +51,6 @@
 	3. Conexão com as pessoas (consigo pegar na ferida delas e falar com elas de forma a serem compreendidas)
 	4. Ressignifico situações dolorosas em aprendizado
 	5. Motivar e influenciar pessoas
-	6. 
 3. **O que o mundo precisa?**
 	1. Já vivi algumas situações dolorosas e desenvolvi sabedoria desde cedo. Esse é o tipo de conteúdo que o mundo precisa para diminuir a mediocridade
 	2. O mundo precisa de pessoas que pensem e que não sejam pensadas. Eu sou uma dessas pessoas. Aprendi a pensar sozinha e desenvolvi a minha própria autonomia
