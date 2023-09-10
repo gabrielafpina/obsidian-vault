@@ -97,3 +97,4 @@
 - Morar perto do mar é ESSENCIAL. Vai prejudicar muito a sua saúde morar longe do mar. A conexão com a espiritualidade aumenta muito perto do mar.
 - É importante lembrar que você vai dar um caminho para as pessoas se encontrarem, mas as pessoas não são como você e não vão sentir como você.
 - Eu tenho a síndrome do ET e do salvador.
+- Necessário aprender a impor limites.
