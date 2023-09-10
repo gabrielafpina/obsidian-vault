@@ -75,6 +75,11 @@
 ##### Mapa Astral com Mari
 - Netuno focal: você nunca vai estar satisfeita. Alta mediunidade. O planeta mais forte do seu mapa fala do que é totalmente abstrata. A energia mais forte dentro de você é algo que você não consegue alcançar. E é isso que te tira do aqui e te permite ir além. Quando você chega naquilo, você sempre vai achar que falta algo. E isso é normal.
 	- Essa energia me faz sentir muito, tenho mediunidade aflorada, criatividade, sou inventiva. Consigo fantasiar, imaginar e criar, porque o meu saturno também é forte.
+	- ´Eu estou desse planeta, mas não me sinto aqui´.
+	- Eu tenho os 3 planetas transpessoais fortes no meu mapa: netuno forte, energia de plutão forte e urano.
+		- Pensamento muito no futuro, alta mediunidade (trabalhar a minha mediunidade), alto poder de cura energética
+		- A energia netuniana pode atrair questões psicológicas
+- Leão na casa 5: quer reconhecimento e aplauso, mas não consigo me sentir incluída e quando consigo me sentir incluída, eu vou 
 
 ###### Características
 - Eu sou uma esponja, por isso, trabalhar diretamente com pessoas no 1:1 me cansa muito, porque absorvo muito as pessoas
