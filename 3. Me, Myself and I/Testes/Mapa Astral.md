@@ -82,6 +82,7 @@
 	- Eu tenho os 3 planetas transpessoais fortes no meu mapa: netuno forte, energia de plutão forte e urano.
 		- Pensamento muito no futuro, alta mediunidade (trabalhar a minha mediunidade), alto poder de cura energética
 		- A energia netuniana pode atrair questões psicológicas
+		- Jupiter, o segundo mapa mais forte do meu mapa é sobre transmitir os processos desafiadores que eu passo, para que outras pessoas tenham esse caminho. Eu sou muito boa transmitindo qualquer tipo de conteúdo.
 - Leão na casa 5: quer reconhecimento e aplauso, mas não consigo me sentir incluída e quando consigo me sentir incluída, eu vou contra a minha natureza.
 	- É o palco. Palestras.
 
@@ -99,3 +100,4 @@
 - Eu tenho a síndrome do ET e do salvador.
 - Necessário aprender a impor limites. 
 - Eu tenho o dom da escrita e da fala. Escrita fictícia é legal, porque a minha imaginação flui mais e eu ativo o lado netuniano - posso escrever durante horas, entrando na história.
+- Eu aprendo muito ao falar - característica netuniana.
