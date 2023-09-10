@@ -70,3 +70,5 @@
 2. **Carreiras que Limitam a Sua Liberdade**: Com Urano e Netuno em Aquário na Casa 4, você pode se sentir insatisfeita em carreiras que limitam a sua liberdade e independência. Você valoriza a inovação e pode se sentir frustrada em ambientes que são muito rígidos ou conservadores.
     
 3. **Carreiras que Ignoram as Emoções**: Com o Sol e a Lua em Peixes na Casa 5, você pode se sentir insatisfeita em carreiras que ignoram as emoções e a empatia. Você é uma pessoa sensível e intuitiva e pode se sentir frustrada em ambientes que são muito racionais ou despersonalizados.
+
+------

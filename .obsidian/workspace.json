@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "4a4c44e52b0a6c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08f663e8d6eb9968",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como chegar até a minha zona de genialidade?.md"
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md"
               }
             }
           },
@@ -252,10 +265,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "358878a2b013820b",
+  "active": "4a4c44e52b0a6c86",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Como chegar até a minha zona de genialidade?.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/Consciência.md",
     "2. Literature Notes/People/Alan Nicolas.md",
