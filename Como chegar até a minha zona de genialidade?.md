@@ -18,11 +18,14 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 4. **Zona de genialidade**
 	1. É o que é natural e simples para mim. É onde eu brinco e, por isso, me torno imparável. Você não fica nem querendo fazer outras coisas, porque isso te dá tanta satisfação, que você vai querer fazer isso todos os dias.
 	2. A zona de genialidade não é uma coisa específica, não é só uma habilidade. Ela é composta por vários elementos diferentes.
-	3. ==A sua zona de genialidade está muito ligada a algo que você está evitando fazer a muito tempo.== Você pode estar fugindo da sua genialidade, porque ela exige um esforço para você compreendê-la. O seu [[Inconsciente]] já sabe a sua zona de genialidade, é o seu [[Consciente]]que não sabe
+	3. ==A sua zona de genialidade está muito ligada a algo que você está evitando fazer a muito tempo.== Você pode estar fugindo da sua genialidade, porque ela exige um esforço para você compreendê-la. O seu [[Inconsciente]] já sabe a sua zona de genialidade, é o seu [[Consciente]] que não sabe. Você precisa trazer a inconsciência para a [[Consciência]].
+		1. Como? 
+			1. Através da **intuição** (está acima da mente, é sutil)
+			2. Fazer uma pergunta para as pessoas mais próximas: no que você acha que eu sou naturalmente bom? Que eu faço com mais facilidade que as outras pessoas? O que eu faço que te chama a atenção? Isso te ajuda a descobrir o que os outros pensam sobre você.
 	4. O conhecimento vem com uma grande responsabilidade. Conhecimento é liberdade, mas é também responsabilidade. E quando você tiver conhecimento sobre a sua zona de genialidade, o seu corpo te avisa quando você está fora da sua zona.
 		1. Depressão é quando você não corresponde ao seu chamado, ao seu combinado com Deus. [[A depressão é uma dádiva]]. Depressão é um chamado da alma para que você possa estar atuando naquilo que você veio fazer no planeta.
 		2. Quando você não ouve o sue chamado e o recusa, você é cobrado. Você já sabe o que é para fazer e não se sente preparado para atingir aquilo.
-	5. Estar na sua zona de genialidade, isso te dá energia.
+	5. Estar na sua zona de genialidade, isso te dá energia e você gera muito valor, é recompensado por isso (intrins)
 
 
 
