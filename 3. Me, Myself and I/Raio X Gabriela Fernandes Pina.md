@@ -271,10 +271,14 @@
 2. É boa em tudo o que se propõe a fazer
 3. Raciocínio rápido (é inteligente)
 	1. Entende algo e realmente coloca em prática
+	2. Entende como funciona e experimenta na prática o que funciona
 4. Boa expressão em público
 5. Comunicação clara, firme e com autoconfiança
 6. Alta capacidade de aprender muita coisa ao mesmo tempo
 7. Preocupação com a aceleração
+8. Expressão intensa que eu experimento no viver, sem filtro, pura
+	1. Permito que minha criança interior viva e se expresse
+	2. Sei brincar sem duvidar, limitar, inibir. Brinco e me mostro para o mundo, tudo ao mesmo tempo
 
 ###### Quais são as principais síndromes?
 1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende
