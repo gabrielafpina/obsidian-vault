@@ -135,6 +135,10 @@
 	- Eu escolho ter momentos de descanso, porque eu sou uma humana e não uma máquina
 	- Eu adoro receber e estou aprendendo a receber todos os dias da minha vida
 	- Eu sinto muito prazer em transar e me abro com quem sei que vai me honrar
+	- Eu aguento altos níveis de prazer, porque Deus fez o ser humano para sentir as melhores sensações da vida!
+	- Depois do prazer, continuo sentindo prazer, porque se melhorar, melhora. E a vida é uma eterna orgia de prazer
+	- Dinheiro é papel, portanto, nasce em árvore. Eu crio todo o dinheiro que quero com a minha mente, através da [[Lei do Mentalismo]].
+	- O que vem fácil, fica fácil, porque eu sou abençoada por Deus e tudo o que eu recebo, fica na minha vida, com muito conforto, carinho e amor.
 ###### Mapa Astral
 
 ###### Mapa Numerológico
@@ -225,3 +229,8 @@
 
 ###### O que as pessoas acham de mim?
 1. Sabedoria e generosidade em ajudar o próximo.
+2. É boa em tudo o que se propõe a fazer
+3. Raciocínio rápido (é inteligente)
+4. Boa expressão em público
+5. Alta capacidade de aprender muita coisa ao mesmo tempo
+6. Preocupação com a aceleração
