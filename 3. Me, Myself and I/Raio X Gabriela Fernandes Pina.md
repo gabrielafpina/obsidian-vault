@@ -264,6 +264,7 @@
 ###### Estratégias de autoproteção
 [[Quais são as principais estratégias de autoproteção?]]
 1. Narcisismo
+2. A eterna criança
 
 ###### O que as pessoas acham de mim?
 1. Sabedoria e generosidade em ajudar o próximo.
@@ -272,3 +273,7 @@
 4. Boa expressão em público
 5. Alta capacidade de aprender muita coisa ao mesmo tempo
 6. Preocupação com a aceleração
+
+###### Quais são as principais síndromes?
+1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende
+2. Síndrome da salvadora: acha que tem que salvar todo mundo [[Existem 4 lugares proibidos]]
