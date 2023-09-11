@@ -1,5 +1,6 @@
 **Sol - Peixes - casa 5 - 24°57'**: Você é uma pessoa sensível, intuitiva e criativa. Sua expressão pessoal é marcada por uma forte imaginação e uma tendência a se envolver profundamente em suas paixões. Você tem uma conexão natural com as artes e pode ser atraída por carreiras criativas.
 	Quando você nasceu, gabriela, o Sol ocupava a quinta casa astrológica, da criatividade. A sua consciência se desenvolve quando você sente que conquista o mundo por desempenho e mérito próprio, daí a necessidade de se diferenciar, de fazer as coisas de uma forma criativa e inusitada. Para você, **a realização própria brota da autoafirmação de seu valor singular**, daí uma afinidade com criações artísticas (ou, em alguns casos, de filhos, que passam a ser vistos como “obras de arte”).
+	Vale tomar um certo cuidado com a ideia de que temos obrigatoriamente que ser originalíssimos e diferentes de tudo.
 
 **Lua- Peixes - casa 5 - 1°18'**: Sua vida emocional é intensa e você tem uma conexão profunda com suas emoções. Você é intuitiva e tem uma forte empatia pelos outros. Você pode ser atraída por atividades criativas como uma forma de expressar suas emoções.
 
@@ -122,3 +123,29 @@ Pode sentir uma **forte atração pelos mistérios da vida**, o que termina des
 Um cuidado especial precisa ser tomado, no seu caso, no que diz respeito a medos sem sentido, apreensões sem razão alguma, em suma: paranoias.
 
 Procure utilizar esta sua **sensibilidade especial para ajudar as pessoas**. Não tenha medo de se meter. Claro, vale esperar a ajuda ser pedida, caso contrário você estará apenas invadindo o espaço alheio, e as pessoas já ficam muito assustadas com a sua capacidade de entrar na alma delas e “adivinhar” o que está se passando.
+
+De acordo com as suas posições planetárias, gabriela, o **Fogo** é um elemento muito forte em seu mapa. Apenas numa simples observação, podemos compreender o Fogo como o elemento que resiste a qualquer forma de aprisionamento. Sempre **mudando de forma**, assim como a Água e o Ar, não pode, entretanto, “ser contido” como estes outros dois elementos.
+
+Qualquer tentativa de “conter” o Fogo incorrerá em sua extinção ou na destruição do que o tenta aprisionar. Dotado de uma **qualidade contagiante**, o Fogo se alastra até onde puder, consumindo tudo em seu caminho. É como se quisesse “eliminar as formas das coisas”, deixando apenas a essência.
+
+Deste modo, podemos compreender o seu temperamento fogoso, gabriela, como o de alguém que se recusa terminantemente a aceitar limites, contenções ou aprisionamentos. Não apreciando “formas predefinidas”, a pessoa fogosa tenta destruir todos os modelos estabelecidos em torno de si.
+
+**Brilhante e chamativo**, o elemento Fogo sempre está no centro de todas as coisas. Em nosso planeta, o Fogo se encontra no núcleo. De Fogo também é o centro do nosso sistema solar.
+
+**Egocentrismo** é uma característica marcante neste elemento, em contraposição a “serviço”, que é uma característica terrestre. Não devemos, entretanto, confundir “egocentrismo” com “egoísmo”, pois são duas coisas distintas, e uma coisa que o Fogo não tem é egoísmo.
+
+Considerando que a personalidade fogosa está em busca de atenção e de admiração, a **generosidade** e o **calor humano** faz parte do processo. Assim sendo, a pessoa não pode ser egoísta, mas tão somente generosa, muito embora não seja uma generosidade altruísta e desprendida.
+
+Há, no Fogo, um **sentimento de ser especial**; e isso não deixa de ser verdade, em geral as pessoas deste elemento chamam muito a atenção e são extremamente brilhantes, mas precisam aprender a enxergar que as outras pessoas também são, todas elas, originais e peculiares.
+
+Para você, gabriela, que veio do Fogo, **viver é criar e irradiar calor**. E criar sempre, não importa se a coisa é ou não é prática, se é ou não é viável, se é ou não é convencional. O Fogo não liga pra essas coisas, que chama de “meros detalhes”.
+
+Por mais carismáticas e cativantes que sejam as pessoas deste elemento, terminam atraindo inimigos devido a uma característica irrefletida e autoritária. São pessoas centralizadoras demais, e dadas a exageros em todos os sentidos. Justamente por isso, precisam tomar um cuidado especial com álcool, afinal álcool e fogo são uma combinação no mínimo explosiva!
+
+Ainda no que concerne aos problemas dos exageros do Fogo, três possibilidades são marcantes, muito embora a maioria das pessoas não viva as três concomitantemente, mas se atrele a uma ou duas, no máximo:
+
+Muitas vezes, quando a pessoa é do Fogo, temos o tradicional caso do indivíduo incrivelmente criativo, um gênio das luzes e das mil e uma possibilidades, mas indisciplinado, desorganizado e estabanado, precisando assimilar senso de limites; num outro sentido, o indivíduo com muito Fogo revela-se pouco empático e mesmo grosseiro, rude.
+
+Resiste a assumir relacionamentos íntimos, e teme a entrega emocional, defendendo-se dela o quanto puder; por fim, há também a possibilidade de destempero e pouca diplomacia. Sincera demais, pouco civilizada e extremamente centrada no significado distorcido da palavra “espontaneidade”, uma pessoa assim corre o risco de se envolver em encrencas, até aprender a refletir melhor e a meditar.
+
+Uma pessoa fogosa saudável é **inteligente e dinâmica**, e reflete o exato significado do termo **entusiasmo** (_“en theos” = “Deus dentro”_). Absolutamente descrentes da palavra “impossível”, vivem em busca de seus sonhos e animam o mundo em torno de si. São a alegria da vida.
