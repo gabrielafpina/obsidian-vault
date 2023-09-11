@@ -15,9 +15,21 @@ As pessoas se conectam comigo quando eu vou me despindo o que eu não sou e come
 As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem as sensações que você causa. ==Quais são as sensações que eu quero provocar?== O que eu quero que as pessoas, pensem, sintam e conectem a mim? O que eu quero que as pessoas digam de mim quando eu sair da sala?
 
 
-###### **COMO:**
+###### **ATMOSFERA DE MARCA PESSOAL:**
+1. Valores e causa
+2. 5 sentidos
+3. Emoções
+4. Imagem pessoal
+5. Linha editorial e narrativas
+6. Arquétipos
+7. Storytelling
+8. Postura
 
-###### **PENSADORES:**
+
+###### **3 REGRAS BÁSICAS PARA CONSTRUÇÃO DE POSICIONAMENTO**
+1. Repetição: quanto mais se vê, mais se gosta
+2. Personalidade
+3. Intencionalidade
 
 ###### **FRASES:**
 
