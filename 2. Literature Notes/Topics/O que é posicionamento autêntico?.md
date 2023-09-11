@@ -32,7 +32,8 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 	1. Quais são as percepções que você quer que o outro tenha?
 	2. Isso traz clareza e confiança para as suas ações
 	3. Qual é uma única história que eu vou contar para os meus seguidores? Qual é uma única solução que eu vou oferecer para o meu cliente? Qual é a solução prática que eu ofereço para os meus clientes? Como ele sai depois do processo comigo?
-		1. É uma presunção muito grande achar que você vai solucionar todos os problemas da vida da pessoa.
+		1. É uma presunção muito grande achar que você vai solucionar todos os problemas da vida da pessoa. É aí que eu me perco.
+		2. O que eu, quando comecei a minha jornada, pensava sobre isso? Qual é o pontapé que faz as pessoas desejarem uma transformação? As pessoas não tem onsciência de que elas precisam de autoconhecimento.
 3. Personalidade
 ###### **FRASES:**
 
