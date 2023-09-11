@@ -219,3 +219,19 @@ Particularmente, gabriela, acredito que atribuir à vida familiar as razões par
 
 Primeiramente, gabriela, cabe salientar que **você muito provavelmente progredirá mais quando se afastar da família**, não num sentido de “romper relações”, mas de sair do esteio dos pequenos dramas e novelas da mãe e do pai. Dramas estes que você tende a repetir, inconscientemente, por ser peculiarmente sensível a dramalhões (por mais fria que seja a máscara que criou para sua própria defesa).
 
+É você que sente rejeição, não necessariamente os outros que lhe rejeitam!
+
+O simples, o fácil, o fluido, não lhe atrai. “Amor”, em sua alma, está atrelado com a palavra “sacrifício” e desta forma você cria, na realidade, os tipos de relação que terá.
+
+V**ocê se foca demais naquilo que _perde_**, e não naquilo que tem ou ganha. As perdas são muito mais marcantes que os triunfos e as disponibilidades, de modo que não importa o quanto você possa receber amor, seu foco de interesse recairá sobre aquilo que se perdeu.
+
+Por detrás de tudo isso há algo muito bonito, gabriela, não podemos deixar de esquecer, que é a **sua compulsão para mover céus e terras por conta de um amor**. De certa forma, você só sente que ama quando está passando por terríveis problemas devido à razão do seu afeto. Aquilo que não causa problemas não é interpretado como “interessante” nesta sua alma disposta ao desafio.
+
+Não podemos deixar de inferir que há algo de masoquista neste comportamento e de fato há, sobretudo se observarmos que, quando eventualmente ocorre de você conseguir ultrapassar céus e terras em nome de um amor, quando tudo se resolve, eis que a coisa se torna subitamente “desinteressante”.
+
+A a **música** é parte essencial do processo desenvolvimento do poder do amor em sua alma, gabriela. Quando aprender a tocar algum instrumento ou a cantar, você se tornará não apenas uma pessoa mais harmoniosa no que concerne à fluência de seus sentimentos, como também se tornará alguém poderosamente sedutor. É como se aprender a tocar notas afinadas permitisse que você afinasse sua própria alma, seu próprio coração.
+
+[[Sempre teremos uma segunda chance, contanto que saibamos viver com aquilo que é novo, olhando para adiante e, sobretudo, confiando]].
+No que diz respeito às questões sexuais, gabriela, o aspecto Vênus-Saturno está muitas vezes associado a um **comportamento defensivo**, que nunca se entrega “pra valer”, ou que custa a soltar-se. Também é comum o comportamento exatamente oposto, que poderíamos chamar de “compensatório”: uma excessiva sofisticação sexual, uma fixação no desempenho perfeito, algo mais teatral do que capaz de proporcionar um genuíno prazer.
+
+Compensações e máscaras, aliás, são o carro-mestre da personalidade Vênus-Saturno: **uma extrema sensibilidade emocional é revestida por uma máscara congelada de total indiferença pelo sofrimento alheio**, ou mesmo problemas e sentimentos de solidão são acobertados por uma personalidade falsamente despreocupada e divertida. Via de regra, quanto mais fria e impiedosa parece a pessoa, mais sensível ela está na prática.

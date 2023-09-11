@@ -246,6 +246,7 @@
 ###### Cursos para terminar
 
 ###### Cursos para fazer
+1. Violino
 
 ###### Valores pessoais
 
