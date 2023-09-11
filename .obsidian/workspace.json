@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "a215d712e3634675",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "50249fd954cc9a6f",
             "type": "leaf",
             "state": {
@@ -43,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Inconsciente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Inconsciente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Inconsciente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "a215d712e3634675",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Inconsciente.md",
+    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
     "Captura de Tela 2023-09-11 às 10.27.34.png",
     "6. Creator/Branding/Comunidade.md",

@@ -29,7 +29,7 @@ Esses pequenos erros são uma forma de exprimir opiniões ou verdades que a raz�
 
 O inconsciente não possui capacidade cronológica, não tem senso de tempo. O que significa que algo que aconteceu no passado, pode ainda estar muito presente dentro de você.
 
-Predomínio do **princípio do prazer** ([[Princípio do Prazer e Princípio da Realidade]]). Na [[2ª Teoria do Aparelho Psíquico]], o [[ID]] é o único que está no inconsciente. Ele é o que muitos chamam de [[Criança Interior]]. Temos muito ID dentro do nosso inconsciente, que é uma pulsão. A procura pela satisfação se faz pelo caminho mais curto (tentativa de satisfação através de fantasias imaginativas). [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
+Predomínio do **princípio do prazer** ([[Princípio do Prazer e Princípio da Realidade]]). Na [[2ª Teoria do Aparelho Psíquico]], o [[ID]] é o único que está apenas no inconsciente. Ele é o que muitos chamam de [[Criança Interior]]. Temos muito ID dentro do nosso inconsciente, que é uma pulsão. A procura pela satisfação se faz pelo caminho mais curto (tentativa de satisfação através de fantasias imaginativas). [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
 
 **COMO:**
 
