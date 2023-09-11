@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e82099040a8de6cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ocupe o seu lugar e seja a referência que você sempre procurou.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md"
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md"
               }
             }
           },
@@ -209,7 +222,8 @@
   },
   "active": "50d527ff18a6007a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Untitled.md",
+    "Ocupe o seu lugar e seja a referência que você sempre procurou.md",
+    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "2. Literature Notes/Topics/O que significa um alto nível de Inteligência Positiva?.md",
     "2. Literature Notes/Topics/Inconsciente.md",
@@ -240,7 +254,6 @@
     "6. Creator/Branding",
     "Untitled.canvas",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
-    "2. Literature Notes/Topics/você é livre para moldar sua percepção, seus pensamentos e seus sentimentos.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
