@@ -194,6 +194,7 @@
 
 ###### Maiores Sabotadores e o que falam
 
+
 ###### Âncora de Carreira
 
 ###### DISC
@@ -261,6 +262,8 @@
 ###### Histórico com feminino
 
 ###### Estratégias de autoproteção
+[[Quais são as principais estratégias de autoproteção?]]
+1. Narcisismo
 
 ###### O que as pessoas acham de mim?
 1. Sabedoria e generosidade em ajudar o próximo.
