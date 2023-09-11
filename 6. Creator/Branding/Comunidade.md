@@ -12,6 +12,8 @@ kanban-plugin: basic
 
 ## Ritos / Rituais
 
+- [ ] Mantra: Me servindo, para servir (reestruturar essa frase)
+- [ ] Mostrar RCE
 
 
 ## Ritos / Culto

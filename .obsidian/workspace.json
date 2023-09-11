@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daff46e6ff924cb8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "50d527ff18a6007a",
             "type": "leaf",
             "state": {
@@ -24,6 +16,16 @@
                 "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "df37c51082787a8b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "6. Creator/Branding/Comunidade.md"
               }
             }
           },
@@ -39,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -222,12 +222,12 @@
   },
   "active": "50d527ff18a6007a",
   "lastOpenFiles": [
-    "Ocupe o seu lugar e seja a referência que você sempre procurou.md",
+    "6. Creator/Branding/Comunidade.md",
     "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
+    "Ocupe o seu lugar e seja a referência que você sempre procurou.md",
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "2. Literature Notes/Topics/O que significa um alto nível de Inteligência Positiva?.md",
     "2. Literature Notes/Topics/Inconsciente.md",
-    "6. Creator/Branding/Comunidade.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
