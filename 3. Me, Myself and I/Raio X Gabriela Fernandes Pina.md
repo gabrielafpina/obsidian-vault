@@ -266,6 +266,8 @@
 [[Quais são as principais estratégias de autoproteção?]]
 1. Narcisismo
 2. A eterna criança
+3. Projeção e Vitimização
+4. Perfeccionismo
 
 ###### O que as pessoas acham de mim?
 1. Sabedoria e generosidade em ajudar o próximo.
