@@ -276,10 +276,13 @@
 	1. Entende algo e realmente coloca em prática
 	2. Entende como funciona e experimenta na prática o que funciona
 4. Boa expressão em público
-5. Comunicação clara, firme e com autoconfiança
-6. Alta capacidade de aprender muita coisa ao mesmo tempo
-7. Preocupação com a aceleração
-8. Expressão intensa que eu experimento no viver, sem filtro, pura
+5. Se comunicar e se expressar
+	1. Você é muito autêntica e comunica o que você deseja e quem você é muito bem
+6. Muito carisma. Quase que um imã de pessoas: aquela que você olha e pensa que queria ser amiga
+7. Comunicação clara, firme e com autoconfiança
+8. Alta capacidade de aprender muita coisa ao mesmo tempo
+9. Preocupação com a aceleração
+10. Expressão intensa que eu experimento no viver, sem filtro, pura
 	1. Permito que minha criança interior viva e se expresse
 	2. Sei brincar sem duvidar, limitar, inibir. Brinco e me mostro para o mundo, tudo ao mesmo tempo
 
