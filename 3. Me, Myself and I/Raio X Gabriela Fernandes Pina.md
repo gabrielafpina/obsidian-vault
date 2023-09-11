@@ -147,6 +147,34 @@
 	- Eu sou capaz de lidar com frustrações e situações desafiadoras
 	- Eu mereço ser feliz todos os dias da minha abençoada vida
 ###### Mapa Astral
+**Sol - Peixes - casa 5 - 24°57'**: Você é uma pessoa sensível, intuitiva e criativa. Sua expressão pessoal é marcada por uma forte imaginação e uma tendência a se envolver profundamente em suas paixões. Você tem uma conexão natural com as artes e pode ser atraída por carreiras criativas.
+
+**Lua- Peixes - casa 5 - 1°18'**: Sua vida emocional é intensa e você tem uma conexão profunda com suas emoções. Você é intuitiva e tem uma forte empatia pelos outros. Você pode ser atraída por atividades criativas como uma forma de expressar suas emoções.
+
+**Mercúrio - Áries - casa 6 - 1°55'**: Você tem uma mente rápida e assertiva. Você é direta em sua comunicação e gosta de resolver problemas de maneira eficiente. No trabalho, você é motivada e gosta de assumir a liderança em projetos.
+
+**Vênus - Áries - casa 6 - 27°4'**: Você valoriza a independência e a assertividade em seus relacionamentos. No trabalho, você é motivada e gosta de assumir a liderança em projetos. Você pode ser atraída por carreiras que envolvam ação e iniciativa.
+
+**Marte - Escorpião - casa 1 - 12°10'**: Você é uma pessoa intensa e apaixonada, com uma forte vontade e determinação. Você é corajosa e não tem medo de enfrentar desafios. Você tem uma presença magnética e pode ser bastante assertiva.
+
+**Júpiter - Áries - casa 6 - 7°9'**: Você tem uma abordagem entusiasmada e otimista do trabalho e da saúde. Você gosta de assumir a liderança e pode ser bastante aventureira em sua abordagem para alcançar seus objetivos.
+
+**Saturno - Touro - casa 6 - 1°34'**: Você é uma pessoa prática e responsável, com uma abordagem séria para o trabalho e a saúde. Você valoriza a estabilidade e a segurança e pode ser bastante persistente em seus esforços para alcançar seus objetivos.
+
+**Urano - Aquário - casa 4 - 15°4'**: Você é uma pessoa independente e original, com uma abordagem única para a família e o lar. Você valoriza a liberdade e pode ser bastante inovadora em sua abordagem para a vida doméstica.
+
+**Netuno - Aquário - casa 4 - 3°39'**: Você é uma pessoa intuitiva e idealista, com uma abordagem única para a família e o lar. Você tem uma forte conexão com o coletivo e pode ser atraída por ideias e conceitos inovadores.
+
+**Plutão - Sagitário - casa 2 - 10°30'**: Você é uma pessoa intensa e apaixonada, com uma forte vontade e determinação. Você tem uma abordagem transformadora para os valores e recursos pessoais.
+
+**Ascendente - Escorpião - casa 1 - 16°10'**: Você é uma pessoa intensa e apaixonada, com uma forte vontade e determinação. Você tem uma presença magnética e pode ser bastante assertiva.
+
+**Meio do Céu - Leão - casa 10 - 4°6'**: Você é uma pessoa confiante e generosa, com uma forte necessidade de expressão criativa. Você tem uma abordagem firme para a carreira e pode ser atraída por posições de liderança.
+
+**Descendente - Touro - casa 7 - 16°10'**: Você busca estabilidade em seus relacionamentos. Boa aparência e independência material também são características importantes nas suas relações. Assim como estabilidade emocional e material.
+
+**Fundo do Céu - Aquário - casa 4 - 4°6'**: Você tem uma abordagem única para a família e o lar. Você valoriza a liberdade e pode ser bastante inovadora em sua abordagem para a vida doméstica.
+
 
 ###### Mapa Numerológico
 

@@ -1,4 +1,5 @@
 **Sol - Peixes - casa 5 - 24°57'**: Você é uma pessoa sensível, intuitiva e criativa. Sua expressão pessoal é marcada por uma forte imaginação e uma tendência a se envolver profundamente em suas paixões. Você tem uma conexão natural com as artes e pode ser atraída por carreiras criativas.
+	Quando você nasceu, gabriela, o Sol ocupava a quinta casa astrológica, da criatividade. A sua consciência se desenvolve quando você sente que conquista o mundo por desempenho e mérito próprio, daí a necessidade de se diferenciar, de fazer as coisas de uma forma criativa e inusitada. Para você, **a realização própria brota da autoafirmação de seu valor singular**, daí uma afinidade com criações artísticas (ou, em alguns casos, de filhos, que passam a ser vistos como “obras de arte”).
 
 **Lua- Peixes - casa 5 - 1°18'**: Sua vida emocional é intensa e você tem uma conexão profunda com suas emoções. Você é intuitiva e tem uma forte empatia pelos outros. Você pode ser atraída por atividades criativas como uma forma de expressar suas emoções.
 
@@ -111,3 +112,13 @@
 - Importante aprender a se mover sem o desconforto
 
 [[A sua independência e liberdade moram nas suas escolhas]]
+
+-----
+##### Mapa Astral Personare
+A Água é um elemento muito poderoso em seu mapa, gabriela, por conta da combinação do seu signo solar – Peixes – com o seu signo ascendente – Escorpião. Você tem uma qualidade psíquica muito pronunciada, uma empatia natural que lhe permite sentir o que os outros estão sentindo, mergulhando fundo na alma alheia.
+
+Pode sentir uma **forte atração pelos mistérios da vida**, o que termina desencadeando habilidades para a psicologia e para o ocultismo. Em alguns casos, observam-se também talentos artísticos.
+
+Um cuidado especial precisa ser tomado, no seu caso, no que diz respeito a medos sem sentido, apreensões sem razão alguma, em suma: paranoias.
+
+Procure utilizar esta sua **sensibilidade especial para ajudar as pessoas**. Não tenha medo de se meter. Claro, vale esperar a ajuda ser pedida, caso contrário você estará apenas invadindo o espaço alheio, e as pessoas já ficam muito assustadas com a sua capacidade de entrar na alma delas e “adivinhar” o que está se passando.
