@@ -285,6 +285,7 @@
 10. Expressão intensa que eu experimento no viver, sem filtro, pura
 	1. Permito que minha criança interior viva e se expresse
 	2. Sei brincar sem duvidar, limitar, inibir. Brinco e me mostro para o mundo, tudo ao mesmo tempo
+11. Todas as memórias que eu tenho de você, você tá sorrindo ou gargalhando. É como se eu associasse a sua imagem ao riso e à felicidade
 
 ###### Quais são as principais síndromes?
 1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende
