@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Untitled.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Untitled.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Untitled.canvas"
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md"
               }
             }
           },
@@ -286,10 +286,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50249fd954cc9a6f",
+  "active": "8e640e5c26390a8f",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Products/Untitled.canvas",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "Sempre teremos uma segunda chance, contanto que saibamos viver com aquilo que é novo, olhando para adiante e, sobretudo, confiando.md",
