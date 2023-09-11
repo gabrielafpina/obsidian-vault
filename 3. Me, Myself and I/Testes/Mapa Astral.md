@@ -15,6 +15,7 @@
 
 **Vênus - Áries - casa 6 - 27°4'**: Você valoriza a independência e a assertividade em seus relacionamentos. No trabalho, você é motivada e gosta de assumir a liderança em projetos. Você pode ser atraída por carreiras que envolvam ação e iniciativa.
 	Você, gabriela, com Vênus em Áries, não sente afinidade com as rotinas no amor. Relações muito calmas e presas à rotina casa-cinema-trabalho simplesmente não lhe satisfazem e podem lhe jogar rapidamente num tédio infinito. _Amar_, para Vênus em Áries, significa sair da rotina, atirar-se em situações de risco.
+	A afetividade ariana é sincera e direta, um pouco ingênua, e você, com este aspecto, **ama tudo aquilo que é independente, aventureiro, dinâmico**. O estilo que melhor combina contigo, gabriela, é o esportivo, sem muitos artifícios, e tende a apreciar pessoas francas e donas de si mesmas. Sobretudo, você gosta de sentir que _você_ está conquistando a pessoa, e não o contrário.
 
 **Marte - Escorpião - casa 1 - 12°10'**: Você é uma pessoa intensa e apaixonada, com uma forte vontade e determinação. Você é corajosa e não tem medo de enfrentar desafios. Você tem uma presença magnética e pode ser bastante assertiva.
 
@@ -207,3 +208,14 @@ Outra característica dita “negativa” deste aspecto é a **tendência a se 
 Com esse aspecto, você possui um canal aberto para outras dimensões existenciais, e pode vir realmente a se tornar um canal de comunicação com os reinos invisíveis, mas precisa de disciplina e seriedade para fazer isso de uma forma a manter os pés bem fincados no chão!
 
 Possui notável talento psicológico, e provavelmente encontrará grande satisfação no estudo da psicologia e de temas correlatos. Por ter um talento especial para envolver as pessoas em suas fantasias, gabriela, pode vir a se dar bem trabalhando com mídia e publicidade.
+
+É provável que você venha a seguir atividades relativas à saúde, terapias, ou mesmo à arte. Em geral, ama trabalhos que exijam a atenção a detalhes e trabalha melhor em ambientes esteticamente agradáveis. Num sentido negativo, isso pode sugerir uma dependência excessiva da harmonia para fazer as mínimas coisas do dia a dia, de modo que você corre o risco de simplesmente “travar” quando o ambiente não está suficientemente belo ou harmônico. E é óbvio que nem sempre o meio ambiente estará ao seu gosto! É preciso, portanto, cultivar uma maior “resistência”.
+
+No que diz respeito à saúde, gabriela, cuidado com o excesso de ingestão de açúcar. Problemas afetivos e desapontamentos amorosos se refletem imediatamente no seu corpo. No que tange ao amor, você tende a apreciar as coisas simples e a tratar as pessoas simples e os animais com muita educação e afetividade.
+
+Como você tem esse posicionamento astrológico, gabriela, o tema **propósito de vida** pode ser muito marcante para você.
+
+Particularmente, gabriela, acredito que atribuir à vida familiar as razões para a insegurança afetiva e o sentimento de rejeição que lhe acometem é um ato reducionista. Pois, por mais que de fato um dos pais não tenha sido um primor de afeto, verifica-se na prática que é simplesmente **você, com sua defensividade mórbida e suas desconfianças constantes, que bloqueia mais ainda o afeto alheio**.
+
+Primeiramente, gabriela, cabe salientar que **você muito provavelmente progredirá mais quando se afastar da família**, não num sentido de “romper relações”, mas de sair do esteio dos pequenos dramas e novelas da mãe e do pai. Dramas estes que você tende a repetir, inconscientemente, por ser peculiarmente sensível a dramalhões (por mais fria que seja a máscara que criou para sua própria defesa).
+
