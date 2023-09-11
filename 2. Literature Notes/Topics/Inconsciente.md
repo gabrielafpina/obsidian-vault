@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+É um sistema de defesa com a intenção principal nobre de nos proteger daquilo que pode ser difícil e doloroso manter na mente [[Consciente]].
 
 **COMO:**
 
