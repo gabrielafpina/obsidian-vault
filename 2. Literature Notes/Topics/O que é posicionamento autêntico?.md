@@ -33,8 +33,10 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 	2. Isso traz clareza e confiança para as suas ações
 	3. Qual é uma única história que eu vou contar para os meus seguidores? Qual é uma única solução que eu vou oferecer para o meu cliente? Qual é a solução prática que eu ofereço para os meus clientes? Como ele sai depois do processo comigo?
 		1. É uma presunção muito grande achar que você vai solucionar todos os problemas da vida da pessoa. É aí que eu me perco.
-		2. O que eu, quando comecei a minha jornada, pensava sobre isso? Qual é o pontapé que faz as pessoas desejarem uma transformação? As pessoas não tem onsciência de que elas precisam de autoconhecimento.
-3. Personalidade
+		2. O que eu, quando comecei a minha jornada, pensava sobre isso? Qual é o pontapé que faz as pessoas desejarem uma transformação? ==As pessoas não tem consciência de que elas precisam de autoconhecimento.== Como mostrar para elas a importância?
+		3. Anota o que as pessoas falam quando vem te procurar pelo seu trabalho.
+3. Personalidade: a energia chega antes das suas palavras..
+	1. Personalidade é um misto de atitude com energia.
 ###### **FRASES:**
 
 ---------
