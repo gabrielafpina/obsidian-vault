@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3b29bcd7b5fafbc",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "6. Creator/Branding/Comunidade.md"
-              }
-            }
-          },
-          {
             "id": "358878a2b013820b",
             "type": "leaf",
             "state": {
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -234,6 +224,9 @@
   },
   "active": "358878a2b013820b",
   "lastOpenFiles": [
+    "Captura de Tela 2023-09-11 às 10.27.34.png",
+    "6. Creator/Branding/Comunidade.md",
+    "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A sua independência e liberdade moram nas suas escolhas.md",
@@ -243,7 +236,6 @@
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/Consciência.md",
     "2. Literature Notes/People/Alan Nicolas.md",
-    "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding",
     "Untitled.canvas",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
@@ -260,8 +252,6 @@
     "2. Literature Notes/Topics/Quais são os principais estilos de enfrentamento?.md",
     "2. Literature Notes/Topics/Desde o nascimento você é uma estrela brilhante!.md",
     "2. Literature Notes/Topics/Nossas crenças são as lentes pelas quais enxergamos a realidade.md",
-    "2. Literature Notes/Topics/A raiva aparece quando uma necessidade física ou emocional não é atendida.md",
-    "2. Literature Notes/Topics/Por meio de carinho, olhares amorosos e o tom de voz da pessoa cuidadora, a criança consegue deduzir se é bem-vinda ou não neste mundo.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
