@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "a215d712e3634675",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "50249fd954cc9a6f",
             "type": "leaf",
             "state": {
@@ -151,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+              }
             }
           },
           {
@@ -226,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a215d712e3634675",
+  "active": "50249fd954cc9a6f",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",

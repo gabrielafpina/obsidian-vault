@@ -56,15 +56,17 @@
 	1. Já vivi algumas situações dolorosas e desenvolvi sabedoria desde cedo. Esse é o tipo de conteúdo que o mundo precisa para diminuir a mediocridade
 	2. O mundo precisa de pessoas que pensem e que não sejam pensadas. Eu sou uma dessas pessoas. Aprendi a pensar sozinha e desenvolvi a minha própria autonomia
 4. **O que você poderia receber dinheiro por estar fazendo?**
-	1. Dando mais aula e compartilhando de forma mais aprofundada o que eu estudo
+	1. Dando mais aula e compartilhando de forma mais aprofundada o que eu estudo, vivo e sei
 	2. Comunidade Fly
+	3. Conectar pessoas com propósit
 
 ###### Quadrantes do Sucesso
 - **O que você ama e é bom fazendo**? O que você é muito bom? nesse exercício, conversar com amigos e pedir feedback e sobre o que eles acham que você é muito bom fazendo. Essa é a sua **paixao.** 
 	- Ensinar de forma didática, divertida e energética
 	- Passar emoção e entusiasmo em tudo o que eu amo fazer
 	- Estudar e criar produtos inovadores no mercado brasileiro
-	- 
+	- Gravar vídeos
+	- Escrever textos, e-mails, conteúdos
 
 - **E o que você não ama mas é bom fazendo?**
 	- Gestão de projetos
