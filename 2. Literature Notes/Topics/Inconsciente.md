@@ -19,12 +19,13 @@ Na [[Psicanálise]], usamos a *metáfora do iceberg* para compreender o princíp
 
 Desejos ou memórias reprimidas, emoções banidas do nosso consciente. Por serem dolorosas ou de difícil controle, se encontram no inconsciente, quase sem acesso para a razão. O inconsciente não tem capacidade racional.
 
-Muitas vezes, Freud utiliza o termo ´inconsciente´ para se referir a qualquer conteúdo que se encontre fora da [[Consciência]]. Outras vezes, refere-se ao inconsciente em sua função enquanto estado mental: é nele que se encontram as forças sublimadas ([[Mecanismos de defesa do Ego]]) por algum ´agente repressor´([[SuperEgo]] na vida adulta) que as impede e chegar ao nível da consciência.
+Muitas vezes, Freud utiliza o termo ´inconsciente´ para se referir a qualquer conteúdo que se encontre fora da [[Consciência]]. Outras vezes, refere-se ao inconsciente em sua função enquanto estado mental: é nele que se encontram as forças sublimadas ([[Mecanismos de defesa do Ego]]) por algum ´agente repressor´([[SuperEgo]] na vida adulta, quando a cri) que as impede e chegar ao nível da consciência.
 
 Para Freud, é nos pequenos erros cometidos no dia a dia que expressamos o inconsciente, tais como:
 - Confusões
 - Esquecimentos
 - Omissões
+Esses pequenos erros são uma forma de exprimir opiniões ou verdades que a razão consciente não permite.
 
 **COMO:**
 
