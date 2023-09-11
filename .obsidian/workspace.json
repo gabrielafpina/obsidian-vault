@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "d2160bc095fab45d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-11 17.32.08.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8e640e5c26390a8f",
             "type": "leaf",
             "state": {
@@ -207,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "Excalidraw/Drawing 2023-09-11 17.32.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "file": "Excalidraw/Drawing 2023-09-11 17.32.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md"
+                "file": "Excalidraw/Drawing 2023-09-11 17.32.08.excalidraw.md"
               }
             }
           },
@@ -286,11 +296,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e640e5c26390a8f",
+  "active": "d2160bc095fab45d",
   "lastOpenFiles": [
     "6. Creator/Products/Untitled.canvas",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+    "Excalidraw/Drawing 2023-09-11 17.32.08.excalidraw.md",
+    "Excalidraw",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "Sempre teremos uma segunda chance, contanto que saibamos viver com aquilo que é novo, olhando para adiante e, sobretudo, confiando.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
@@ -317,7 +329,6 @@
     "2. Literature Notes/Topics/Projetamos na mente de outras pessoas uma imagem nossa que é basicamente ditada por nossas crenças.md",
     "2. Literature Notes/Topics/Em sua maioria, as pessoas que se esquivam do autoconhecimento têm um medo atroz de entrar em contato com sua criança-sombra.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/Quais são os principais estilos de enfrentamento?.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
@@ -333,7 +344,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.39.39.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png",
-    "6. Creator/Métodos"
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.36.50.png"
   ]
 }
