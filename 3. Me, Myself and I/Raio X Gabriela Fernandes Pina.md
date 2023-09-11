@@ -238,6 +238,7 @@
 ###### Mapa de trabalho
 
 ###### Principais aprendizados de vida
+1. Eu não preciso gastar a minha energia salvando quem não quer ser salvado e quem não pediu a minha ajuda
 
 ###### Métodos criados
 
@@ -272,20 +273,29 @@
 ###### O que as pessoas acham de mim?
 1. Sabedoria e generosidade em ajudar o próximo.
 2. É boa em tudo o que se propõe a fazer
-3. Raciocínio rápido (é inteligente)
+3. Boa em aprender rápido e criar em cima do que aprende e observa
+4. Boa ouvinte
+5. Super dedicada e determinada dentro do meu propósito
+6. Boa comunicadora (fora os palavrões)
+7. Alto poder de síntese das informações (tanto falando, quanto escrevendo)
+8. Agilidade em lidar com as coisas que se apresentam
+9. Raciocínio rápido (é inteligente)
 	1. Entende algo e realmente coloca em prática
 	2. Entende como funciona e experimenta na prática o que funciona
-4. Boa expressão em público
-5. Se comunicar e se expressar
+10. Boa expressão em público
+11. Se comunicar e se expressar
 	1. Você é muito autêntica e comunica o que você deseja e quem você é muito bem
-6. Muito carisma. Quase que um imã de pessoas: aquela que você olha e pensa que queria ser amiga
-7. Comunicação clara, firme e com autoconfiança
-8. Alta capacidade de aprender muita coisa ao mesmo tempo
-9. Preocupação com a aceleração
-10. Expressão intensa que eu experimento no viver, sem filtro, pura
+12. Muito carisma. Quase que um imã de pessoas: aquela que você olha e pensa que queria ser amiga
+13. Comunicação clara, firme e com autoconfiança
+14. Alta capacidade de aprender muita coisa ao mesmo tempo
+15. Preocupação com a aceleração
+16. Expressão intensa que eu experimento no viver, sem filtro, pura
 	1. Permito que minha criança interior viva e se expresse
 	2. Sei brincar sem duvidar, limitar, inibir. Brinco e me mostro para o mundo, tudo ao mesmo tempo
-11. Todas as memórias que eu tenho de você, você tá sorrindo ou gargalhando. É como se eu associasse a sua imagem ao riso e à felicidade
+17. Todas as memórias que eu tenho de você, você tá sorrindo ou gargalhando. É como se eu associasse a sua imagem ao riso e à felicidade
+18. Talento para ver coisas que as pessoas em geral não veem
+19. Chama atenção o meu entusiasmo e o quanto eu quero ajudar as pessoas
+20. Não vê limites no que pode desenvolver
 
 ###### Quais são as principais síndromes?
 1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende

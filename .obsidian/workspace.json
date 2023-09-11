@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -282,11 +282,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "467d30373a15aa2c",
+  "active": "50249fd954cc9a6f",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+    "3. Me, Myself and I/Testes/Mapa Astral.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Sempre teremos uma segunda chance, contanto que saibamos viver com aquilo que é novo, olhando para adiante e, sobretudo, confiando.md",
     "2. Literature Notes/Topics/O que são estratégias de autoproteção?.md",
     "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
