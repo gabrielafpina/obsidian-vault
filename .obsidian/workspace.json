@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inconsciente",
+                "query": "2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "358878a2b013820b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Inconsciente.md",
