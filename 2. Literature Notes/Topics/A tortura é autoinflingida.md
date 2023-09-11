@@ -10,7 +10,7 @@ Sua mente é sua melhor amiga. Mas também é sua pior inimiga. Sem que você pe
 
 A não ser que você detenha e enfraqueça seus próprios inimigos internos (vamos chamá-los de Sabotadores), eles farão o melhor que puderem para roubar de você qualquer melhoria. Ignorar seus Sabotadores é como plantar um belo e novo jardim e deixar lesmas vorazes soltas nele. É aí que a Inteligência Positiva pode ajudar. [[O que significa um alto nível de Inteligência Positiva?]]
 
-[[Qual é a diferença entre o Sábio e os Sabotadores?]]
+[[O que são os sabotadores?]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
