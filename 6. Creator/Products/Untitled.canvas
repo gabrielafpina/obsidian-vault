@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a56eddf2d95d013f","x":-195,"y":31,"width":250,"height":60,"type":"text","text":"E-book Queimando Pontes\n"},
+		{"id":"e395222bf7586167","x":220,"y":31,"width":250,"height":60,"type":"text","text":"Workshop Quebrando a Autossabotagem"}
+	],
+	"edges":[
+		{"id":"155237891cb29f63","fromNode":"a56eddf2d95d013f","fromSide":"right","toNode":"e395222bf7586167","toSide":"left","label":"upsell"}
+	]
+}
