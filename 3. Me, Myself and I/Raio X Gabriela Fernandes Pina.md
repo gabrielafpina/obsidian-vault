@@ -58,7 +58,7 @@
 4. **O que você poderia receber dinheiro por estar fazendo?**
 	1. Dando mais aula e compartilhando de forma mais aprofundada o que eu estudo, vivo e sei
 	2. Comunidade Fly
-	3. Conectar pessoas com propósit
+	3. Conectar pessoas com propósitos semelhantes
 
 ###### Quadrantes do Sucesso
 - **O que você ama e é bom fazendo**? O que você é muito bom? nesse exercício, conversar com amigos e pedir feedback e sobre o que eles acham que você é muito bom fazendo. Essa é a sua **paixao.** 

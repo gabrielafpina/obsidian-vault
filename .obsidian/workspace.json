@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ff05be77f0b5f596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/People/Alan Nicolas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0bae3ac0a7c144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d21db974abfa5047",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2",
+                "query": "alan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md"
               }
             }
           },
@@ -222,8 +246,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50249fd954cc9a6f",
+  "active": "ae0bae3ac0a7c144",
   "lastOpenFiles": [
+    "2. Literature Notes/People/Alan Nicolas.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Inconsciente.md",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
@@ -234,10 +260,8 @@
     "2. Literature Notes/Topics/A sua independência e liberdade moram nas suas escolhas.md",
     "2. Literature Notes/Topics/o vício não é uma doença, mas uma “dependência como escolha.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
     "2. Literature Notes/Topics/Consciência.md",
-    "2. Literature Notes/People/Alan Nicolas.md",
     "6. Creator/Branding",
     "Untitled.canvas",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
