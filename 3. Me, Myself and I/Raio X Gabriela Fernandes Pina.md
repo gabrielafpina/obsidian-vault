@@ -139,6 +139,13 @@
 	- Depois do prazer, continuo sentindo prazer, porque se melhorar, melhora. E a vida é uma eterna orgia de prazer
 	- Dinheiro é papel, portanto, nasce em árvore. Eu crio todo o dinheiro que quero com a minha mente, através da [[Lei do Mentalismo]].
 	- O que vem fácil, fica fácil, porque eu sou abençoada por Deus e tudo o que eu recebo, fica na minha vida, com muito conforto, carinho e amor.
+	- Ao longo da minha vida eu já aprendi muitas lições abençoadas, que podem ser passadas para outras pessoas que ainda não tem o conhecimento que eu tenho. Existe muita gente que pagaria para aprender comigo.
+	- Sou responsável apenas pela maneira como eu me sinto
+	- Se me machuca, posso escolher deixar ir e focar no que é melhor para a pessoa mais importante da minha vida, eu
+	- Eu sou amada por simplesmente existir
+	- Eu sou capaz de fazer o que eu quiser e, com a ajuda de pessoas capacitadas, vou ainda mais longe
+	- Eu sou capaz de lidar com frustrações e situações desafiadoras
+	- Eu mereço ser feliz todos os dias da minha abençoada vida
 ###### Mapa Astral
 
 ###### Mapa Numerológico
