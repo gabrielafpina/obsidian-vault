@@ -29,8 +29,10 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 ###### **3 REGRAS BÁSICAS PARA CONSTRUÇÃO DE POSICIONAMENTO**
 1. Repetição: quanto mais se vê, mais se gosta
 2. Intencionalidade: ser intencional é pensar porquê você vai compartilhar, fazer, algo
-	1. Quais são as percpeções que vpoce quer que o outro tenha?
+	1. Quais são as percepções que você quer que o outro tenha?
 	2. Isso traz clareza e confiança para as suas ações
+	3. Qual é uma única história que eu vou contar para os meus seguidores? Qual é uma única solução que eu vou oferecer para o meu cliente? Qual é a solução prática que eu ofereço para os meus clientes? Como ele sai depois do processo comigo?
+		1. É uma presunção muito grande achar que você vai solucionar todos os problemas da vida da pessoa.
 3. Personalidade
 ###### **FRASES:**
 
