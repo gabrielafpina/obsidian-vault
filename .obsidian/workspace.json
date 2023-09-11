@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -246,8 +246,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae0bae3ac0a7c144",
+  "active": "50249fd954cc9a6f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
     "2. Literature Notes/People/Alan Nicolas.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Inconsciente.md",
@@ -255,7 +256,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
     "Captura de Tela 2023-09-11 às 10.27.34.png",
     "6. Creator/Branding/Comunidade.md",
-    "2. Literature Notes/Topics/Como chegar até a minha zona de genialidade?.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A sua independência e liberdade moram nas suas escolhas.md",
     "2. Literature Notes/Topics/o vício não é uma doença, mas uma “dependência como escolha.md",

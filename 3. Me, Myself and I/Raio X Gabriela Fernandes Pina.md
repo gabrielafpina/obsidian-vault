@@ -131,6 +131,10 @@
 	- Eu consigo gerenciar os meus pensamentos e emoções com maestria. Eu me conheço o suficiente para fazer isso com leveza
 	- Eu escolho ser 1% melhor todos os dias
 	- Eu escolho parar de competir e escolho começar a ver o mundo e os indivíduos como forma de cooperação comigo mesma
+	- Eu me liberto da responsabilidade de ter que carregar a minha família nas minhas costas. Cada um é responsável por si mesmo.
+	- Eu escolho ter momentos de descanso, porque eu sou uma humana e não uma máquina
+	- Eu adoro receber e estou aprendendo a receber todos os dias da minha vida
+	- Eu sinto muito prazer em transar e me abro com quem sei que vai me honrar
 ###### Mapa Astral
 
 ###### Mapa Numerológico
@@ -218,3 +222,6 @@
 ###### Histórico com feminino
 
 ###### Estratégias de autoproteção
+
+###### O que as pessoas acham de mim?
+1. Sabedoria e generosidade em ajudar o próximo.
