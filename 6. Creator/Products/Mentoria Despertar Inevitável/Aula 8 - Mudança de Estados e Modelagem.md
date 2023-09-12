@@ -17,6 +17,9 @@
 			1. [[A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura]]. Um influencia o outro
 				1. [[Quais são algumas posturas de poder?]]
 				2. [[Como usar a congruência a seu favor?]]
+			2. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
+				1. Exercício de respiração para eles levarem para a vida - [[Como respirar e limpar o meu sistema?]]
+			3. Exercícios
 - Congruência 
 - Alteração de postura
 - Tom de voz
