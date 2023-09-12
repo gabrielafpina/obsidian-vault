@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8a38ed1aa1e6a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mantra  Meu dia começa em mim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "Mantra  Meu dia começa em mim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+                "file": "Mantra  Meu dia começa em mim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md"
+                "file": "Mantra  Meu dia começa em mim.md"
               }
             }
           },
@@ -232,10 +244,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cb1605cded647eec",
+  "active": "e8a38ed1aa1e6a89",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "6. Creator/Branding/Comunidade.md",
+    "Mantra  Meu dia começa em mim.md",
+    "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
+    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "Ocupe o seu lugar e seja a referência que você sempre procurou.md",
     "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "2. Literature Notes/Topics/O que significa um alto nível de Inteligência Positiva?.md",
@@ -262,10 +276,8 @@
     "2. Literature Notes/Topics/o vício não é uma doença, mas uma “dependência como escolha.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Pirâmide da Frustração.md",
-    "2. Literature Notes/Topics/Consciência.md",
     "6. Creator/Branding",
     "Untitled.canvas",
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
