@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Branding/Comunidade.md",
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Branding/Comunidade.md",
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Branding/Comunidade.md"
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
               }
             }
           },
@@ -279,13 +279,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df37c51082787a8b",
+  "active": "fd1bca0fbe1c1bd1",
   "lastOpenFiles": [
+    "6. Creator/Branding/Comunidade.md",
     "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
     "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
-    "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
