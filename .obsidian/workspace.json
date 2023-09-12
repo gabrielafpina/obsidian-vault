@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Branding/Mantra - Meu dia começa em mim.md"
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md"
               }
             }
           },
@@ -245,10 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "50d527ff18a6007a",
   "lastOpenFiles": [
-    "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
+    "6. Creator/Branding/Comunidade.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "Ocupe o seu lugar e seja a referência que você sempre procurou.md",

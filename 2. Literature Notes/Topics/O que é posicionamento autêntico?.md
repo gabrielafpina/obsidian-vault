@@ -37,6 +37,7 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 		3. Anota o que as pessoas falam quando vem te procurar pelo seu trabalho.
 3. Personalidade: a energia chega antes das suas palavras..
 	1. Personalidade é um misto de atitude com energia.
+	2. Quais são as informações relevantes que eu deveria compartilhar para que as pessoas tomem a decisão agora?
 ###### **FRASES:**
 
 ---------
