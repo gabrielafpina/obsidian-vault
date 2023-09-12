@@ -44,7 +44,10 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 ###### **DIRECIONAMENTO:**
 1. Mudar bio
 2. Compreender como eu quero e vou me posicionar
-3. Como mostrar para as pessoas a importância do autoconhecimento?
+3. Meditar sobre como mostrar para as pessoas a importância do autoconhecimento? O que eu, quando comecei a minha jornada, pensava sobre isso? 
+4. Meditar sobre quais são as percepções que eu quero que as pessoas tenham sobre mim (o que a Marina falou)
+5. Quais são os arquétipos que eu vou encarnar?
+6. Definir linha editorial e narrativa
 
 ---------
 
