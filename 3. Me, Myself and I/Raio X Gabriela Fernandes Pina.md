@@ -283,19 +283,24 @@
 	1. Entende algo e realmente coloca em prática
 	2. Entende como funciona e experimenta na prática o que funciona
 10. Boa expressão em público
-11. Se comunicar e se expressar
+11. Comunicadora: você fala e dá vontade de te ouvir
+12. Você tem energia e fogo na garganta. Queima as ideias secas e quando quer, sabe colocar a mansidão dentro do incêndio e mostra que sempre tem água para onde quer que olhamos
+13. Se comunicar e se expressar
 	1. Você é muito autêntica e comunica o que você deseja e quem você é muito bem
-12. Muito carisma. Quase que um imã de pessoas: aquela que você olha e pensa que queria ser amiga
-13. Comunicação clara, firme e com autoconfiança
-14. Alta capacidade de aprender muita coisa ao mesmo tempo
-15. Preocupação com a aceleração
-16. Expressão intensa que eu experimento no viver, sem filtro, pura
+14. Muito carisma. Quase que um imã de pessoas: aquela que você olha e pensa que queria ser amiga
+15. Comunicação clara, firme e com autoconfiança
+16. Alta capacidade de aprender muita coisa ao mesmo tempo
+17. Preocupação com a aceleração
+18. Expressão intensa que eu experimento no viver, sem filtro, pura
 	1. Permito que minha criança interior viva e se expresse
 	2. Sei brincar sem duvidar, limitar, inibir. Brinco e me mostro para o mundo, tudo ao mesmo tempo
-17. Todas as memórias que eu tenho de você, você tá sorrindo ou gargalhando. É como se eu associasse a sua imagem ao riso e à felicidade
-18. Talento para ver coisas que as pessoas em geral não veem
-19. Chama atenção o meu entusiasmo e o quanto eu quero ajudar as pessoas
-20. Não vê limites no que pode desenvolver
+19. Todas as memórias que eu tenho de você, você tá sorrindo ou gargalhando. É como se eu associasse a sua imagem ao riso e à felicidade
+20. Talento para ver coisas que as pessoas em geral não veem
+21. Chama atenção o meu entusiasmo e o quanto eu quero ajudar as pessoas
+22. Não vê limites no que pode desenvolver
+23. Aprendiz declarada: grande abertura para aprender. Sempre se mostra disposta a aprender com absolutamente qualquer pessoa
+24. Facilidade de ensinar o que aprendeu usando a comunicação
+25. Fala com sinceridade o que pensa, se expres
 
 ###### Quais são as principais síndromes?
 1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende
