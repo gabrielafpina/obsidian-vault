@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Ritos / Rituais
 
-- [ ] [[Mantra  Meu dia começa em mim]]
+- [ ] [[Mantra - Meu dia começa em mim]]
 - [ ] Mostrar RCE
 
 
