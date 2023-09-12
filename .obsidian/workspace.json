@@ -8,72 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50d527ff18a6007a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd1bca0fbe1c1bd1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
-              }
-            }
-          },
-          {
-            "id": "cf71457230772955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70bbf3c95a52e811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como criar um estado emocional?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8284a2e084f5fd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e13f7729763dcf69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -120,6 +60,30 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d967766e24545123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somos um veículo de aprendizado para nossas almas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec6525f5a931fc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somos um veículo de aprendizado para nossas almas.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
+                "file": "Qual é a relação entre as sombras e a vibração?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
+                "file": "Qual é a relação entre as sombras e a vibração?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md"
+                "file": "Qual é a relação entre as sombras e a vibração?.md"
               }
             }
           },
@@ -353,15 +317,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f56763a1868f42c",
+  "active": "8ba98e92061546ee",
   "lastOpenFiles": [
+    "Somos um veículo de aprendizado para nossas almas.md",
+    "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "Como identificar as sombras na minha vida?.md",
     "Qual é a relação entre as sombras e a vibração?.md",
     "2. Literature Notes/Topics/sombra.md",
     "O que a criança-interior quer?.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
-    "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
@@ -383,7 +348,6 @@
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 6 - Ansiedade, Procrastinação e Rotina.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "Excalidraw/Esteira de Produtos Gabriela Pina.md",
-    "6. Creator/Branding/Comunidade.md",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
