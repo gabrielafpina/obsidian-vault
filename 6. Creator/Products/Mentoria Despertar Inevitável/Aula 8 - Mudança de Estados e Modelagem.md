@@ -16,6 +16,7 @@
 		2. [[Fisiologia]]
 			1. A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura. Um influencia o outro
 				1. [[Quais são algumas posturas de poder?]]
+				2. [[Como usar a congruência a seu favor?]]
 - Congruência 
 - Alteração de postura
 - Tom de voz

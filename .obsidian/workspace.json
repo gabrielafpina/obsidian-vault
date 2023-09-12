@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "a07063350f6bd79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como usar a congruência a seu favor?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "405f8718f896d261",
             "type": "leaf",
             "state": {
@@ -103,6 +115,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Representação interna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d898e5856362db66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são algumas posturas de poder?.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são algumas posturas de poder?.md",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são algumas posturas de poder?.md"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -323,11 +347,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "405f8718f896d261",
+  "active": "d898e5856362db66",
   "lastOpenFiles": [
-    "image-asset.jpeg",
+    "Como usar a congruência a seu favor?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "Quais são algumas posturas de poder?.md",
+    "image-asset.jpeg",
     "2. Literature Notes/Topics/Fisiologia.md",
     "Captura de Tela 2023-09-12 às 17.56.43.png",
     "2. Literature Notes/Topics/Representação interna.md",
@@ -371,7 +396,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "5. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.39.39.png"
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.41.27.png"
   ]
 }
