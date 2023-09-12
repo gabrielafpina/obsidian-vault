@@ -28,6 +28,10 @@ kanban-plugin: basic
 
 
 
+## Inimigo em Comum
+
+
+
 
 
 %% kanban:settings

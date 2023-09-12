@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
+                "file": "6. Creator/Branding/Comunidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
+                "file": "6. Creator/Branding/Comunidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
+                "file": "6. Creator/Branding/Comunidade.md"
               }
             }
           },
@@ -279,8 +279,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd1bca0fbe1c1bd1",
+  "active": "df37c51082787a8b",
   "lastOpenFiles": [
+    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
     "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
@@ -298,7 +299,6 @@
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/A tortura é autoinflingida.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
