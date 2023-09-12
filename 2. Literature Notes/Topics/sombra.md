@@ -34,6 +34,8 @@ Depressão é a negação de quem a gente vem se tornando. [[A depressão é uma
 
 [[Qual é a relação entre as sombras e a vibração?]]
 
+E o que falar sobre aquelas pessoas que idealizam os pais completamente e acham que tiveram a infância perfeita, sem problemas, e quando tinha problemas, era porque a culpa era sua?
+
 **COMO:**
 
 **PENSADORES:**
