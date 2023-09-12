@@ -14,7 +14,8 @@
 						- [[Hélio Couto]]: O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
 			2. Exercício de sistemas representacionais ao vivo [[Teste+do+sistema+representacional+preferencial.pdf]]
 		2. [[Fisiologia]]
-			1. A sua postura dita a forma como você se sente
+			1. A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura. Um influencia o outro
+				1. [[Quais são algumas posturas de poder?]]
 - Congruência 
 - Alteração de postura
 - Tom de voz
