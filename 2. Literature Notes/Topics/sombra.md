@@ -32,6 +32,8 @@ até os 7 anos de idade, controla totalmente o nosso [[Inconsciente]], e nosso s
 
 Depressão é a negação de quem a gente vem se tornando. [[A depressão é uma dádiva]].
 
+[[Qual é a relação entre as sombras e a vibração?]]
+
 **COMO:**
 
 **PENSADORES:**
