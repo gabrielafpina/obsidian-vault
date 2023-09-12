@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a relação entre as sombras e a vibração?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a relação entre as sombras e a vibração?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a relação entre as sombras e a vibração?.md"
+                "file": "2. Literature Notes/Topics/sombra.md"
               }
             }
           },
@@ -317,12 +317,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ba98e92061546ee",
+  "active": "ba7ee2889a795712",
   "lastOpenFiles": [
+    "Qual é a relação entre as sombras e a vibração?.md",
     "Somos um veículo de aprendizado para nossas almas.md",
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "Como identificar as sombras na minha vida?.md",
-    "Qual é a relação entre as sombras e a vibração?.md",
     "2. Literature Notes/Topics/sombra.md",
     "O que a criança-interior quer?.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",

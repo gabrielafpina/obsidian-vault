@@ -14,8 +14,6 @@ As sombras também são criadas a partir de costumes de nossa família de origem
 
 Nossa vibração é resultado de tudo o que acontece no nosso subconsciente, e ela é criada a partir das nossas [[crenças]], sombras e dramas.
 
-No medo atraímos e cria
-
 ###### **COMO:**
 
 ###### **PENSADORES:**
