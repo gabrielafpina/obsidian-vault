@@ -23,11 +23,9 @@
             "id": "fd1bca0fbe1c1bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
               }
             }
           },
@@ -202,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md"
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
               }
             }
           },
@@ -281,10 +279,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "fd1bca0fbe1c1bd1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Dádivas são erros vestidos com a elegância da perspectiva.md",
+    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
     "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
