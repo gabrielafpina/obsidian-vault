@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Fisiologia.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Fisiologia.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Fisiologia.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
               }
             }
           },
@@ -311,8 +311,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5368b84a438c12ba",
+  "active": "aba5e120da8d86f0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Fisiologia.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",

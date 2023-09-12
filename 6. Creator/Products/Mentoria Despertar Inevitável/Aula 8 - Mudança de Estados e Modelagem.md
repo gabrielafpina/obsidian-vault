@@ -13,7 +13,8 @@
 						- [[Albert Einstein]]: “Aquele que tenta se pôr como juiz no campo da verdade e do conhecimento é soterrado pela risada dos deuses.”
 						- [[Hélio Couto]]: O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
 			2. Exercício de sistemas representacionais ao vivo [[Teste+do+sistema+representacional+preferencial.pdf]]
-		1. [[Fisiologia]]
+		2. [[Fisiologia]]
+			1. A sua postura dita a forma como você se sente
 - Congruência 
 - Alteração de postura
 - Tom de voz
@@ -38,3 +39,4 @@ we only struggle when we stay stagnant in a current Identity or a current situat
 **CCM:**
 - Escolher pessoa que vai modelar. Pegar vídeo dessa pessoa e fazer uma análise: como essa pessoa se comporta? Como ela fala? Qual tom de voz ela usa? O que ela fala não-verbal? Como é o sistema de crenças dessa pessoa? Quais são os hábitos dela?
 - Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer trocar o seu estado emocional, ou seja, a forma como você se sente. Quando você está se sentindo mal, o que você costuma fazer para se sentir melhor?
+- Assistir vídeo: https://www.youtube.com/watch?v=UC7sqzWJWSY
