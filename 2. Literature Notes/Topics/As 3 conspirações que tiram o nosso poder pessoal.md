@@ -9,7 +9,7 @@
 2. Política
 3. Medicina
 
-Nada disso vai te salvar. O que salva é olhar para dentro e se curar.
+Nada disso vai te salvar. O que salva é olhar para dentro e se curar. O grande salvador da gente está dentro de nós.
 
 **COMO:**
 
