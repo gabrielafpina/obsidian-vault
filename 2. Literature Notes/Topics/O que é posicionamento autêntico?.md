@@ -39,8 +39,12 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 3. Personalidade: a energia chega antes das suas palavras..
 	1. Personalidade é um misto de atitude com energia.
 	2. Quais são as informações relevantes que eu deveria compartilhar para que as pessoas tomem a decisão agora?
+	3. Como eu quero me posicionar?
 
-###### **FRASES:**
+###### **DIRECIONAMENTO:**
+1. Mudar bio
+2. Compreender como eu quero e vou me posicionar
+3. Como mostrar para as pessoas a importância do autoconhecimento?
 
 ---------
 
