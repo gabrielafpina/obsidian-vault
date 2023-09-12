@@ -30,42 +30,6 @@
             }
           },
           {
-            "id": "aba5e120da8d86f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a07063350f6bd79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "405f8718f896d261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são algumas posturas de poder?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf71457230772955",
             "type": "leaf",
             "state": {
@@ -90,6 +54,42 @@
             }
           },
           {
+            "id": "8284a2e084f5fd30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e13f7729763dcf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba7ee2889a795712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/sombra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f957dda3f59ecc84",
             "type": "leaf",
             "state": {
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "represent",
+                "query": "sombra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,8 +148,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md"
+                "file": "2. Literature Notes/Topics/sombra.md"
               }
             }
           },
@@ -281,14 +280,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "ba7ee2889a795712",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração.md",
     "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
     "2. Literature Notes/Topics/A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura.md",
-    "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "2. Literature Notes/Topics/Quais são algumas posturas de poder?.md",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "2. Literature Notes/Topics/Fisiologia.md",
@@ -310,8 +311,6 @@
     "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
-    "2. Literature Notes/Topics/Ocupe o seu lugar e seja a referência que você sempre procurou.md",
-    "2. Literature Notes/Topics/Sucesso alimenta sucesso. Fracasso alimenta fracasso..md",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
