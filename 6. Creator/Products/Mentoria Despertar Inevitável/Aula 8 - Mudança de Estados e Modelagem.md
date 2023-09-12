@@ -19,14 +19,9 @@
 				2. [[Como usar a congruência a seu favor?]]
 			2. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
 				1. Exercício de respiração para eles levarem para a vida - [[Como respirar e limpar o meu sistema?]]
-			3. Exercícios
-- Congruência 
-- Alteração de postura
-- Tom de voz
-- Respiração 
-- Expressão facial
+		3. Fake it till you make it
 
-- Representação interior 
+
 
 - MODELAGEM
 
@@ -45,3 +40,4 @@ we only struggle when we stay stagnant in a current Identity or a current situat
 - Escolher pessoa que vai modelar. Pegar vídeo dessa pessoa e fazer uma análise: como essa pessoa se comporta? Como ela fala? Qual tom de voz ela usa? O que ela fala não-verbal? Como é o sistema de crenças dessa pessoa? Quais são os hábitos dela?
 - Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer trocar o seu estado emocional, ou seja, a forma como você se sente. Quando você está se sentindo mal, o que você costuma fazer para se sentir melhor?
 - Assistir vídeo: https://www.youtube.com/watch?v=UC7sqzWJWSY
+- Fazer respiração de limpeza do sistema, no mínimo, 1x ao dia, por 7 dias
