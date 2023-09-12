@@ -51,6 +51,8 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 
 Muitas vezes, as pessoas que chegam para você já tentaram muita coisa. Se você chega pra ela e fala o que não é e pergunta se ela está disposta a usar uma nova abordagem, preferencialmente, que seja única, ela pode querer se abrir.
 
+Como vender sem parecer que está vendendo? Mostrar todos os dias o trabalho, porque você vende de forma inconsciente. Falta compartilhar mais o meu dia a dia de trabalho.
+
 ---------
 
 **Oeste: similar**
