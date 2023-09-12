@@ -53,6 +53,10 @@ Muitas vezes, as pessoas que chegam para você já tentaram muita coisa. Se voc�
 
 Como vender sem parecer que está vendendo? Mostrar todos os dias o trabalho, porque você vende de forma inconsciente. Falta compartilhar mais o meu dia a dia de trabalho.
 
+Como se tornar um tirano
+Como se tornar um líder de seita
+Estudar sobre primal branding (dar uma olhada no livro)
+
 ---------
 
 **Oeste: similar**
