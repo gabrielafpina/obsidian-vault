@@ -49,7 +49,7 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 5. Quais são os arquétipos que eu vou encarnar?
 6. Definir linha editorial e narrativa
 
-Muitas vezes, as pessoas que chegam para você já tentaram muita coisa. Se você chega pra ela e fala o que não é e pergunta se ela está d
+Muitas vezes, as pessoas que chegam para você já tentaram muita coisa. Se você chega pra ela e fala o que não é e pergunta se ela está disposta a usar uma nova abordagem, preferencialmente, que seja única, ela pode querer se abrir.
 
 ---------
 
