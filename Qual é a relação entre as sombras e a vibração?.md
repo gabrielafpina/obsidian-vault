@@ -10,6 +10,8 @@ As sombras são parte do nosso sistema de [[crenças]] subconsciente, pois estã
 
 As sombras também são criadas a partir de costumes de nossa família de origem ([[Transferências]]) e ancestrais, pelas crenças de nível genético, principalmente de até 7 gerações anteriores nossas. [[Quais são os níveis de crenças existentes?]]
 
+[[Como identificar as sombras na minha vida?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

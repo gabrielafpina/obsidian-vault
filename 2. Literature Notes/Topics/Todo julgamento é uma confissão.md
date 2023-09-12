@@ -11,6 +11,8 @@ Não é nunca sobre o outro. É sempre com você.
 
 Se você não cura esse padrão, ele irá se repetir em outra relação.
 
+O [[Ego]] protege a [[Criança Interior]] de suas feridas criando o julgamento ou a crítica, mas a real função disso é tomar [[Consciência]] do que vibra dentro de nós negativamente. [[Lei da Vibração]]
+
 **COMO:**
 
 **PENSADORES:**
