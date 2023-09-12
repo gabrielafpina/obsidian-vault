@@ -300,7 +300,12 @@
 22. Não vê limites no que pode desenvolver
 23. Aprendiz declarada: grande abertura para aprender. Sempre se mostra disposta a aprender com absolutamente qualquer pessoa
 24. Facilidade de ensinar o que aprendeu usando a comunicação
-25. Fala com sinceridade o que pensa, se expres
+25. Fala com sinceridade o que pensa, se expressa e inspira pessoas
+26. Ama a vida como ninguém
+27. Você é autêntica e tem uma boa comunicação. Consegue organizar as ideias e ser direta ao ponto
+28. Você é papo reto, fala o que precisa ser dito
+29. Você tem o dom de encantar, da comunicação e do empreender
+30. Determinação, coragem, carisma, beleza, encantamento, inteligência e força
 
 ###### Quais são as principais síndromes?
 1. Síndrome do ET: acha que não pertence a esse mundo e que ninguém a compreende
