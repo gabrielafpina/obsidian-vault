@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a criança-interior quer?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a criança-interior quer?.md",
+                "file": "2. Literature Notes/Topics/sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que a criança-interior quer?.md"
+                "file": "2. Literature Notes/Topics/sombra.md"
               }
             }
           },
@@ -317,10 +317,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cf2f054d2de7e4f",
+  "active": "ba7ee2889a795712",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/sombra.md",
     "O que a criança-interior quer?.md",
+    "2. Literature Notes/Topics/sombra.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",

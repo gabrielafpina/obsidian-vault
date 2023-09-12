@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-A razão de existir da nossa [[Criança Interior]] é a busca por amor, ela vai rejeitar tudo o que é rejeitado pelas [[crenças]], sombras ([[sombra]]) e dramas dos pais familiares para se sentir aceita e 'amada'. [[pais]]
+A razão de existir da nossa [[Criança Interior]] é a busca por amor, ela vai rejeitar tudo o que é rejeitado pelas [[crenças]], sombras ([[sombra]]) e dramas dos pais familiares para se sentir aceita e 'amada'. [[Quando não obtém atenção e compreensão suficientes de suas necessidades, a criança passa a se desdobrar para obtê-las]].
 
 ###### **COMO:**
 

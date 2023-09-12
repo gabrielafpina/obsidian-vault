@@ -23,7 +23,7 @@ Sombra é a palavra que [[Carl Jung]] usou para se referir aquelas partes de nos
 
 >[!important] Sombra não é defeito. É culpa, vergonha e arrependimento.
 
-A cura está em a gente se permitir olhar para os nossos medos.
+**A cura está em a gente se permitir olhar para os nossos medos.**
 
 Todas as vezes em nossa infância que fomos reprimidos por comportamentos meramente infantis, criamos culpa e vergonha desses comportamentos e passamos a vibrar isso internamente.
 
