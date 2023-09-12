@@ -6,7 +6,7 @@
 A conclusão é que não sabemos como as coisas são de verdade. Apenas sabemos como representamos algo para nós mesmos.
 Você pode pegar qualquer mapa ou globo e por mais bem feito que seja, ele não é o território. Ele é apenas uma representação da realidade. É apenas uma representação daquilo que a gente vive sobre.
 	Ou seja, todas as vezes em que você pensa que sabe algo sobre o mundo, todas as experiências, tudo aquilo que você viveu, passou, acredita, tudo aquilo que você tem certeza absoluta que é a realidade, não é.
-Isso ajuda a gente a julgar menos as pessoas que observam a vida de uma forma diferente da nossa, pois podemos pensar que [[O mapa não é o território]] e que aquela pessoa pensa daquela maneira, não porque a nossa maneira é errada, mas porque o que ela aprendeu a vida toda foi aquilo - e moldou a maneira como ela pensa na vida.
+Isso ajuda a gente a julgar menos as pessoas que observam a vida de uma forma diferente da nossa, pois podemos pensar que [[O mapa não é o território]] e que aquela pessoa pensa daquela maneira, não porque a nossa maneira é errada, mas porque o que ela aprendeu a vida toda foi aquilo - e moldou a maneira como ela pensa na vida. [[todas as percepções carregam em si alguma verdade]]
 	- Passamos a respeitar mais as outras pessoas e como seus mapas funcionam.
 
 💡 Toda vez que você encontrar discrepância entre o território e o mapa, você acredita mais no *território*.

@@ -97,6 +97,18 @@
             }
           },
           {
+            "id": "dd617cf3a33cf313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Técnica de Sobreposição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30982d6a6620042f",
             "type": "leaf",
             "state": {
@@ -108,8 +120,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raio",
+                "query": "represent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,9 +300,10 @@
   },
   "active": "aba5e120da8d86f0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Representação interna.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Topics/Técnica de Sobreposição.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/estados emocionais.md",
@@ -315,7 +326,6 @@
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/A tortura é autoinflingida.md",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
