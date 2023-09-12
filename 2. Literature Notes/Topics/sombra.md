@@ -19,6 +19,10 @@ As nossas relações são pautadas sobre sombras.
 
 Os nossos desejos são criados a partir das nossas [[crenças]] e [[sombra]]. Quando você libera as sombras e as crenças, você libera os seus desejos.
 
+Sombra é a palavra que [[Carl Jung]] usou para se referir aquelas partes de nossa personalidade que foram rejeitadas por medo, ignorância, vergonha ou falta de amor. As sombras são aspectos 'negativos' rejeitados, criados a partir da nossa educação em repressão e condenação.
+
+>[!important] Sombra não é defeito. É culpa, vergonha e arrependimento.
+
 **COMO:**
 
 **PENSADORES:**
@@ -39,4 +43,5 @@ Os nossos desejos são criados a partir das nossas [[crenças]] e [[sombra]]. Qu
 
 **Sul: para onde vai**
 - [[Toda pessoa que para na sua frente é seu espelho]]
-- [[criança]]
+- [[O que é a criança-sol?]]
+- [[O que é a criança-sombra?]]
