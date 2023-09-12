@@ -97,6 +97,18 @@
             }
           },
           {
+            "id": "5368b84a438c12ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Fisiologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd617cf3a33cf313",
             "type": "leaf",
             "state": {
@@ -120,7 +132,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Topics/Fisiologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Topics/Fisiologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "2. Literature Notes/Topics/Fisiologia.md"
               }
             }
           },
@@ -298,12 +311,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aba5e120da8d86f0",
+  "active": "5368b84a438c12ba",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Representação interna.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Topics/Técnica de Sobreposição.md",
-    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/Tríade dos estados emocionais.md",
     "2. Literature Notes/Topics/estados emocionais.md",
@@ -325,7 +339,6 @@
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "2. Literature Notes/Topics/A tortura é autoinflingida.md",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
@@ -341,7 +354,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
     "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
-    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/E-mails",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
     "5. Shots, Images & PDFs/eneagrama_02-1024x786.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 22.43.23.png",

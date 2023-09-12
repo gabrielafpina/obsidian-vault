@@ -12,7 +12,7 @@
 						- Ou seja, todas as vezes em que você pensa que sabe algo sobre o mundo, todas as experiências, tudo aquilo que você viveu, passou, acredita, tudo aquilo que você tem certeza absoluta que é a realidade, não é.
 						- [[Albert Einstein]]: “Aquele que tenta se pôr como juiz no campo da verdade e do conhecimento é soterrado pela risada dos deuses.”
 						- [[Hélio Couto]]: O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
-			2. Exercício de sistemas representacionais [[Teste+do+sistema+representacional+preferencial.pdf]]
+			2. Exercício de sistemas representacionais ao vivo [[Teste+do+sistema+representacional+preferencial.pdf]]
 		1. [[Fisiologia]]
 - Congruência 
 - Alteração de postura
