@@ -40,8 +40,10 @@ Sombra é a palavra que [[Carl Jung]] usou para se referir aquelas partes de nos
 - [[Criança Interior]]
 - [[crenças]]
 - [[Consciente e Inconsciente]]
+- [[A gente atrai o que a gente vibra]]
 
 **Sul: para onde vai**
 - [[Toda pessoa que para na sua frente é seu espelho]]
 - [[O que é a criança-sol?]]
 - [[O que é a criança-sombra?]]
+- [[Quais são as principais estratégias de autoproteção?]]
