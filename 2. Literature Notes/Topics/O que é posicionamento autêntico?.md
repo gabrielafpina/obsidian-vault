@@ -35,9 +35,11 @@ As pessoas esquecem o que você faz, esquecem quem você é, mas não esquecem a
 		1. É uma presunção muito grande achar que você vai solucionar todos os problemas da vida da pessoa. É aí que eu me perco.
 		2. O que eu, quando comecei a minha jornada, pensava sobre isso? Qual é o pontapé que faz as pessoas desejarem uma transformação? ==As pessoas não tem consciência de que elas precisam de autoconhecimento.== Como mostrar para elas a importância?
 		3. Anota o que as pessoas falam quando vem te procurar pelo seu trabalho.
+	4. Quando você escolhe, você prospera.
 3. Personalidade: a energia chega antes das suas palavras..
 	1. Personalidade é um misto de atitude com energia.
 	2. Quais são as informações relevantes que eu deveria compartilhar para que as pessoas tomem a decisão agora?
+
 ###### **FRASES:**
 
 ---------
