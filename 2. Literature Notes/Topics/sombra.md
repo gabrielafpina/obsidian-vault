@@ -27,7 +27,10 @@ A cura está em a gente se permitir olhar para os nossos medos.
 
 Todas as vezes em nossa infância que fomos reprimidos por comportamentos meramente infantis, criamos culpa e vergonha desses comportamentos e passamos a vibrar isso internamente.
 
+Nossa criança interior, o registro de nossa primeira infância, desde a concepção
+até os 7 anos de idade, controla totalmente o nosso [[Inconsciente]], e nosso subconsciente controla 95% de nossa vida e existência. [[O que a criança-interior quer?]]
 
+Depressão é a negação de quem a gente vem se tornando. [[A depressão é uma dádiva]].
 
 **COMO:**
 
