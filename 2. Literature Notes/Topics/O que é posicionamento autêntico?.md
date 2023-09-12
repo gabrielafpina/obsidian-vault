@@ -56,6 +56,9 @@ Como vender sem parecer que está vendendo? Mostrar todos os dias o trabalho, po
 Como se tornar um tirano
 Como se tornar um líder de seita
 Estudar sobre primal branding (dar uma olhada no livro)
+Postura de auto valor
+se eu não me colocar como uma mentora, ninguém vai me colocar
+quem eu vou modelar?
 
 ---------
 

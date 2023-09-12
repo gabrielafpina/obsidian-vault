@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md"
+                "file": "2. Literature Notes/Topics/O que é posicionamento autêntico?.md"
               }
             }
           },
@@ -269,10 +268,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5adc6461a5fd2f6d",
+  "active": "50d527ff18a6007a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
+    "2. Literature Notes/Topics/O que é posicionamento autêntico?.md",
     "6. Creator/Branding/Comunidade.md",
     "6. Creator/Branding/Mantra - Meu dia começa em mim.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
