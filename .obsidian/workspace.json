@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+                "file": "Como fazer uma mudança de identidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+                "file": "Como fazer uma mudança de identidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md"
+                "file": "Como fazer uma mudança de identidade?.md"
               }
             }
           },
@@ -294,10 +294,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3986966bf40752d8",
+  "active": "5fbc8e92fbfe9a80",
   "lastOpenFiles": [
-    "Como fazer uma mudança de identidade?.md",
     "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+    "Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
