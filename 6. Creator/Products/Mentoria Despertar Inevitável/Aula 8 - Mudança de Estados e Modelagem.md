@@ -27,6 +27,7 @@
 	2. Modelagem é o processo de identificar e copiar as estratégias que fizeram outras pessoas bem-sucedidas.
 	3. [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]
 	4. [[Fórmula do Sucesso Definitivo]]
+	5. 
 
 
 - MODELAGEM
@@ -41,7 +42,7 @@ we only struggle when we stay stagnant in a current Identity or a current situat
 
 ---- 
 **CCM:**
-- Escolher pessoa que vai modelar. Pegar vídeo dessa pessoa e fazer uma análise: como essa pessoa se comporta? Como ela fala? Qual tom de voz ela usa? O que ela fala não-verbal? Como é o sistema de crenças dessa pessoa? Quais são os hábitos dela?
+- [[Exercício de modelagem]]
 - Fazer uma lista de 5 coisas que você costuma fazer/consumir quando você quer trocar o seu estado emocional, ou seja, a forma como você se sente. Quando você está se sentindo mal, o que você costuma fazer para se sentir melhor?
 - Assistir vídeo: https://www.youtube.com/watch?v=UC7sqzWJWSY
 - Fazer respiração de limpeza do sistema, no mínimo, 1x ao dia, por 7 dias
