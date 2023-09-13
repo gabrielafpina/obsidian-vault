@@ -54,3 +54,4 @@ Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve
 - [[Como reproduzir a excelência humana?]]
 - [[Como ter uma vida plena?]]
 - [[Como fazer hipnose?]]
+- [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]

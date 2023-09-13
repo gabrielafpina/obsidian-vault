@@ -23,6 +23,10 @@
 			4. [[Fake it till you make it]]
 				1. [[O que é o efeito pigmalião?]]
 2. [[Modelagem]]
+	1. [[Se alguns podem, todos podem]]
+	2. Modelagem é o processo de identificar e copiar as estratégias que fizeram outras pessoas bem-sucedidas.
+	3. [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]
+	4. [[Fórmula do Sucesso Definitivo]]
 
 
 - MODELAGEM
