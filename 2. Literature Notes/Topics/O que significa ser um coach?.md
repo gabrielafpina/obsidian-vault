@@ -33,3 +33,4 @@ Você só precisa estar 1 passo ou outro acima da jornada da pessoa. Você não 
 - [[É um desserviço não vender o que você é bom fazendo]]
 - [[Educação sem implementação é inútil]]
 - [[Como funciona o funil do coach?]]
+- [[Quais são os medos que mais seguram as pessoas?]]
