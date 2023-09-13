@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "7634343c5c84dcac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e4e085a2b0145ebf",
             "type": "leaf",
             "state": {
@@ -150,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/sombra.md",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/sombra.md",
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/sombra.md"
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md"
               }
             }
           },
@@ -328,12 +340,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba7ee2889a795712",
+  "active": "7634343c5c84dcac",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/sombra.md",
     "2. Literature Notes/Topics/Toda crença tem uma função que quando compreendida se torna o aprendizado da nossa alma.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação 2.md",
-    "2. Literature Notes/Topics/sombra.md",
     "Untitled.canvas",
     "2. Literature Notes/Topics/Qual é a relação entre as sombras e a vibração?.md",
     "2. Literature Notes/Topics/Somos um veículo de aprendizado para nossas almas.md",
