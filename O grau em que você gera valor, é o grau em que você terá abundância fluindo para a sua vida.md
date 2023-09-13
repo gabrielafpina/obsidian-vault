@@ -21,5 +21,6 @@ Quando a pessoa tem uma expressão autêntica de ajudar, todos conseguem sentir.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Lei da Vibração]]
 
 **Sul: para onde vai**
