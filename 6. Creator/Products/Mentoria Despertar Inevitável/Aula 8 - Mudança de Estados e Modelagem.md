@@ -14,19 +14,18 @@
 						- [[Hélio Couto]]: O mapa é todas as informações que nos passaram desde criança pelos nossos pais [[Transferências]], [[Senso Comum]], etc. O mapa de como funciona a vida nos foi passado. No entanto, o território é a realidade. O que foi passado não tem praticamente quase nada a ver com o território.
 			2. Exercício de sistemas representacionais ao vivo [[Teste+do+sistema+representacional+preferencial.pdf]]
 		2. [[Fisiologia]]
-			1. [[A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura]]. Um influencia o outro
-				1. [[Quais são algumas posturas de poder?]]
-				2. [[Como usar a congruência a seu favor?]]
-			2. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
+			1. Perguntar como eles estão sentados nesse momento
+			2. [[A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura]]. Um influencia o outro
+				2. [[Quais são algumas posturas de poder?]]
+				3. [[Como usar a congruência a seu favor?]]
+			3. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
 				1. Exercício de respiração para eles levarem para a vida - [[Como respirar e limpar o meu sistema?]]
-		3. [[Fake it till you make it]]
-			1. [[O que é o efeito pigmalião?]]
-
+			4. [[Fake it till you make it]]
+				1. [[O que é o efeito pigmalião?]]
+2. [[Modelagem]]
 
 
 - MODELAGEM
-
-- Sistema de crenças, sintaxe mental e fisiologia
 
 - What would my 2.0 self look like?
 

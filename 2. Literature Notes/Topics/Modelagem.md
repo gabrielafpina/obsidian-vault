@@ -4,7 +4,10 @@
 
 **BIG IDEA:** Torne-se um detetive do sucesso e trilhe o seu caminho para a excelência. 
 
-**DEFINIÇÃO:** Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve surgir é: “Como ele criou esse resultado?”. Se alguém fez algo, você também pode. Apenas precisa hackear o passo a passo do que aquela pessoa fez para alcançar o resultado desejado.
+**DEFINIÇÃO:** 
+Modelagem é o processo de identificar e copiar as estratégias que fizeram outras pessoas bem-sucedidas. Não é sobre copiar superficialmente, mas de mergulhar profundamente nas crenças, nos hábitos, nas estratégias mentais e emocionais que tornam essa pessoa bem-sucedida em uma área específica.
+
+Se alguém é capaz de fazer alguma coisa notável, a questão imediata que deve surgir é: “Como ele criou esse resultado?”. Se alguém fez algo, você também pode. Apenas precisa hackear o passo a passo do que aquela pessoa fez para alcançar o resultado desejado.
 
 [[Hélio Couto]]: É pegar um modelo e colocá-lo dentro de você. Hélio usa o termo Arquétipo (só que as pessoas tem problemas com [[Carl Jung]]), afirma que é a mesma coisa. Você modela uma pessoa mentalmente usando hipnose.
 
@@ -13,7 +16,7 @@
 	1. Acho importante entender o porquê quer chegar nesse lugar
 2. Entender quem são as pessoas que você tem como referência e que já chegaram nesse lugar
 	1. Quais são os comportamentos que essas pessoas tem?
-	6. Quais são as crenças dessas pessoas?
+	6. Quais são as [[crenças]] dessas pessoas?
 	2. O que essas pessoas fizeram? Qual foi o caminho que percorreram? (estratégia)
 	3. Quais habilidades tiveram que aprender para chegar nesse lugar?
 	4. Quais são os recursos internos (emoções, estados mentais, foco) que sua referência utiliza para obter sucesso?
