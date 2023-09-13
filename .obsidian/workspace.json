@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "5fbc8e92fbfe9a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como fazer uma mudança de identidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ac879455ea4ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f866519ba5fe701a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d62913bac2bf678",
             "type": "leaf",
             "state": {
@@ -67,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "identidade",
+                "query": "coach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -166,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "Como fazer uma mudança de identidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "Como fazer uma mudança de identidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "Como fazer uma mudança de identidade?.md"
               }
             }
           },
@@ -245,10 +282,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0145509e5dee834",
+  "active": "5fbc8e92fbfe9a80",
   "lastOpenFiles": [
-    "Exercício de modelagem.md",
+    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
+    "2. Literature Notes/Topics/O que significa ser um coach?.md",
+    "Como fazer uma mudança de identidade?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "Exercício de modelagem.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
@@ -259,12 +299,10 @@
     "2. Literature Notes/Topics/Ilusão da Competência.md",
     "2. Literature Notes/Topics/Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
-    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/Action is the highest form of prayer.md",
     "2. Literature Notes/Topics/You can only experience your mastery, by giving yourself the chance.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "2. Literature Notes/Topics/O medo nos protege.md",
-    "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Como funciona o funil do coach?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "2. Literature Notes/Topics/Educação sem implementação é inútil.md",
@@ -273,7 +311,6 @@
     "2. Literature Notes/People/Mat Shaffer.md",
     "2. Literature Notes/People/Victor Oddo.md",
     "Excalidraw/Esteira de Produtos Gabriela Pina.md",
-    "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",

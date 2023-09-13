@@ -27,7 +27,7 @@
 	2. Modelagem é o processo de identificar e copiar as estratégias que fizeram outras pessoas bem-sucedidas.
 	3. [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]
 	4. [[Fórmula do Sucesso Definitivo]]
-	5. 
+3. [[Como fazer uma mudança de identidade?]]
 
 
 - MODELAGEM
