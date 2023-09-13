@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2d9e0b09bd122e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "É um desserviço não vender o que você é bom fazendo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9584661f4c49ac3e",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md",
+                "file": "É um desserviço não vender o que você é bom fazendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md",
+                "file": "É um desserviço não vender o que você é bom fazendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md"
+                "file": "É um desserviço não vender o que você é bom fazendo.md"
               }
             }
           },
@@ -210,10 +223,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd1bca0fbe1c1bd1",
+  "active": "2d9e0b09bd122e25",
   "lastOpenFiles": [
-    "O grau em que você gera valor, é o grau em que você terá abundância fluindo para a sua vida.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
+    "É um desserviço não vender o que você é bom fazendo.md",
+    "O grau em que você gera valor, é o grau em que você terá abundância fluindo para a sua vida.md",
     "Mat Shaffer.md",
     "Victor Oddo.md",
     "Excalidraw/Esteira de Produtos Gabriela Pina.md",
@@ -240,7 +254,6 @@
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "2. Literature Notes/Topics/Fisiologia.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",
-    "2. Literature Notes/Topics/Representação interna.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Untitled.canvas",
     "Excalidraw",

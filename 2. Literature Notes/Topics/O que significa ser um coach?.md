@@ -30,3 +30,4 @@ Você só precisa estar 1 passo ou outro acima da jornada da pessoa. Você não 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[É um desserviço não vender o que você é bom fazendo]]
