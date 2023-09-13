@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3a07984bcc23aea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0145509e5dee834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a0accddedff7efd5",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consistente",
+                "query": "palavra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Action is the highest form of prayer.md",
+                "file": "Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Action is the highest form of prayer.md",
+                "file": "Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Action is the highest form of prayer.md"
+                "file": "Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md"
               }
             }
           },
@@ -306,8 +330,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0accddedff7efd5",
+  "active": "b0145509e5dee834",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
+    "Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
     "Quais são os medos que mais seguram as pessoas?.md",
     "Action is the highest form of prayer.md",
     "You can only experience your mastery, by giving yourself the chance.md",
@@ -334,8 +360,6 @@
     "2. Literature Notes/Topics/Todo julgamento é uma confissão.md",
     "2. Literature Notes/Topics/Como identificar as sombras na minha vida?.md",
     "2. Literature Notes/Topics/O que a criança-interior quer?.md",
-    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/As 3 conspirações que tiram o nosso poder pessoal.md",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",

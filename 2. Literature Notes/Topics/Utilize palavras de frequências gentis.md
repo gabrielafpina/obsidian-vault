@@ -23,3 +23,4 @@ Escute o que você diz primeiro em total estado de presença. As suas palavras t
 - [[O amor é a cura]]
 
 **Sul: para onde vai**
+- [[Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças]]
