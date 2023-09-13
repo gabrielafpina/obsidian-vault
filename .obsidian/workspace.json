@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,11 +89,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o efeito pigmalião?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o efeito pigmalião?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é o efeito pigmalião?.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
               }
             }
           },
@@ -222,11 +223,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "b0145509e5dee834",
   "lastOpenFiles": [
     "Fake it till you make it.md",
-    "O que é o efeito pigmalião?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "O que é o efeito pigmalião?.md",
     "2. Literature Notes/Topics/Ilusão da Competência.md",
     "2. Literature Notes/Topics/Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",

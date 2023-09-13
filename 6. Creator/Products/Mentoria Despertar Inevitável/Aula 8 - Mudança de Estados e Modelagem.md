@@ -20,6 +20,7 @@
 			2. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
 				1. Exercício de respiração para eles levarem para a vida - [[Como respirar e limpar o meu sistema?]]
 		3. [[Fake it till you make it]]
+			1. [[O que é o efeito pigmalião?]]
 
 
 
