@@ -9,6 +9,8 @@ O medo é uma emoção necessária na nossa vida. Se você não reconhece o medo
 
 O excesso do medo é que nos causa transtornos.
 
+O rgande problema é o que definimos como 'safe'.
+
 **COMO:**
 
 **PENSADORES:**
