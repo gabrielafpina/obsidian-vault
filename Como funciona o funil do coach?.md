@@ -16,7 +16,7 @@
 	1. Esse processo precisa acontecer
 	2. As pessoas tem medo e essa call irá mostrar para eles que você está do lado deles
 
-Não vender pacotes, porque isso não da um resultado profundo para o cliente, e para você, como coach, não te dá recorrência.
+Não vender pacotes, porque isso não da um resultado profundo para o cliente, e para você, como coach, não te dá recorrência. É importante ter um compromisso de longo prazo para ambos dentro da relação.
 
 
 ###### **COMO:**
