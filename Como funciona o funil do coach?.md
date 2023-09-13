@@ -11,6 +11,12 @@
 	2. Isso ajuda as pessoas a gostarem de você e confiarem em você, porque você as ajudou
 2. Aplicação
 	1. Você não precisa de um site para isso, você precisa de um formulário
+	2. Mesmo que você não tenha credenciais, isso te coloca como um especialista no assunto e isso faz com que as pessoas fiquem pensando se serão aprovadas
+3. Ligação
+	1. Esse processo precisa acontecer
+	2. As pessoas tem medo e essa call irá mostrar para eles que você está do lado deles
+
+Não vender pacotes, porque isso não da um resultado profundo para o cliente, e para você, como coach, não te dá recorrência.
 
 
 ###### **COMO:**
