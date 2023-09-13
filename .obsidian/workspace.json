@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "97a5c6124bb1a3c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5fbc8e92fbfe9a80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como fazer uma mudança de identidade?.md",
+                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+                "file": "2. Literature Notes/Topics/Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+                "file": "2. Literature Notes/Topics/Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fake it till you make it.md",
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,13 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é o efeito pigmalião?.md",
+                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md"
               }
             }
           },
@@ -257,21 +271,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0145509e5dee834",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "Como fazer uma mudança de identidade?.md",
-    "Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
+    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
+    "2. Literature Notes/Topics/Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-    "Exercício de modelagem.md",
+    "2. Literature Notes/Topics/Exercício de modelagem.md",
     "2. Literature Notes/Topics/Modelagem.md",
-    "Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
+    "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
     "2. Literature Notes/Topics/7 Mecanismos Acionadores Básicos.md",
     "2. Literature Notes/Topics/Como reproduzir a excelência humana?.md",
-    "Fake it till you make it.md",
-    "O que é o efeito pigmalião?.md",
+    "2. Literature Notes/Topics/Fake it till you make it.md",
+    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "2. Literature Notes/Topics/Ilusão da Competência.md",
     "2. Literature Notes/Topics/Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
@@ -285,7 +300,6 @@
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "2. Literature Notes/Topics/O grau em que você gera valor, é o grau em que você terá abundância fluindo para a sua vida.md",
     "2. Literature Notes/People/Mat Shaffer.md",
-    "2. Literature Notes/People/Victor Oddo.md",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",

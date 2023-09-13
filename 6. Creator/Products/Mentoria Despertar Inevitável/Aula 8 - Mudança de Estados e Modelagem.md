@@ -28,6 +28,7 @@
 	3. [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]
 	4. [[Fórmula do Sucesso Definitivo]]
 3. [[Como fazer uma mudança de identidade?]]
+	1. [[Meditação guiada de mudança de identidade]]
 
 
 - MODELAGEM
