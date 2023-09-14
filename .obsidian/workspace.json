@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "e6f7473ab3ab08f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bd7411f462a8a653",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confiança",
+                "query": "raio x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -247,10 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "e6f7473ab3ab08f3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei do Desapego.md",
     "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
+    "2. Literature Notes/Topics/Lei do Desapego.md",
     "2. Literature Notes/Topics/Como gerar desejo de compra falando a Verdade?.md",
     "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "2. Literature Notes/People/Brené Brown.md",
