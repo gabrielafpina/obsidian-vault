@@ -4,16 +4,13 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Porque ter um programa?
+Porque ter um programa com um passo a passo definido?
 - Aumenta o resultado do seu cliente
-- 
+- Te amadurece, motiva e dá confiança como profissional
+- Você não precisa ser um guru, você é o guia, o mentor
 
-O programa é baseado em 3 pilares:
-1. **Experiência**
-2. **Segurança**
-3. **Fluidez**
+###### **COMO FUNCIONA?**
 
-###### **COMO:**
 
 ###### **PENSADORES:**
 
@@ -26,5 +23,7 @@ O programa é baseado em 3 pilares:
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O que significa ser um coach?]]
+- [[Como funciona o funil do coach?]]
 
 **Sul: para onde vai**
