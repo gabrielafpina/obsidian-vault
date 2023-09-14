@@ -28,3 +28,4 @@ As pessoas buscam expressão autêntica e genuína. A vilnerabilidade faz com qu
 
 **Sul: para onde vai**
 - [[O que significa ser um coach?]]
+- [[O que significa ser corajosa?]]

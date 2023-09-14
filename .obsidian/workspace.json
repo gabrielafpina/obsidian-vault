@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2b21ec92ca757db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que significa ser corajosa?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "749f91facb23ed5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
+                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
+                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a vulnerabilidade?.md"
+                "file": "Se viver corajosamente, você vai conhecer o fracasso.md"
               }
             }
           },
@@ -220,11 +244,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "749f91facb23ed5e",
   "lastOpenFiles": [
+    "O que significa ser corajosa?.md",
+    "Se viver corajosamente, você vai conhecer o fracasso.md",
+    "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
-    "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
     "2. Literature Notes/Topics/Lei do Desapego.md",
@@ -246,8 +272,6 @@
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
-    "2. Literature Notes/Topics/O que significa ser um coach?.md",
-    "2. Literature Notes/Topics/Exercício de modelagem.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
