@@ -12,6 +12,8 @@ Eles são universais (existem em todas as culturas, faixas etárias e nos dois g
 
 O pior dano é causado pelos que convenceram você, por meio de mentiras, de que trabalham a seu favor e não contra você. Eles foram aceitos e vistos com confiança por sua cúpula e você não os vê mais como intrusos. 
 
+Os Sabotadores ficam mais fortes e mais ativos com aumento de estresse. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -28,3 +30,6 @@ O pior dano é causado pelos que convenceram você, por meio de mentiras, de que
 
 **Sul: para onde vai**
 - [[Quais são os principais sabotadores?]]
+- [[Todo pensamento sabotador tá cancelado]]
+- [[O pensamento autossabotar pode ser seu personal trainer]]
+- [[O quanto a minha mente é capaz de me sabotar?]]
