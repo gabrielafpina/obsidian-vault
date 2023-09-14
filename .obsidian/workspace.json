@@ -4,83 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc951de715d073d",
+        "id": "ec4f88b53fbe2a53",
         "type": "tabs",
         "children": [
           {
-            "id": "b0145509e5dee834",
+            "id": "a14a4456c6321cf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "969e39c2b6d548c2",
+            "id": "3448f6da82252e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como gerar desejo de compra falando a Verdade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a98fbb4373141e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6f7473ab3ab08f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7411f462a8a653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95ed1a89b52e7b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -258,12 +207,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6f7473ab3ab08f3",
+  "active": "3448f6da82252e22",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
+    "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
     "2. Literature Notes/Topics/Lei do Desapego.md",
     "2. Literature Notes/Topics/Como gerar desejo de compra falando a Verdade?.md",
-    "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "2. Literature Notes/People/Brené Brown.md",
     "2. Literature Notes/People/Davi Ribas.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
@@ -283,9 +235,6 @@
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Exercício de modelagem.md",
-    "2. Literature Notes/Topics/Modelagem.md",
-    "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
-    "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
