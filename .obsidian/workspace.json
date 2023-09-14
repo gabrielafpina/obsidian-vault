@@ -109,8 +109,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99344de3df092247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o Sábio que habita dentro de você?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "O que é o Sábio que habita dentro de você?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "O que é o Sábio que habita dentro de você?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
+                "file": "O que é o Sábio que habita dentro de você?.md"
               }
             }
           },
@@ -288,10 +301,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cb0e600ade62bdd",
+  "active": "99344de3df092247",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+    "O que é o Sábio que habita dentro de você?.md",
+    "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
@@ -316,7 +330,6 @@
     "2. Literature Notes/Topics/O medo nos protege.md",
     "2. Literature Notes/Topics/Como funciona o funil do coach?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
-    "2. Literature Notes/Topics/Educação sem implementação é inútil.md",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",
