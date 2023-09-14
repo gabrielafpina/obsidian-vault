@@ -24,6 +24,8 @@ O programa é baseado em 3 pilares:
 	2. inspira, segura, começa a socar o ar 3x
 	3. comece a criar
 2. **Comece pelo fim**: O QUE. quais são os resultados que você quer que ele alcance? Como você quer que eles se sintam? Qual é a sua visão para os seus clientes?
+	1. Quais são os passos que as pessoas precisam chegar para alcançar esse resultado?
+	2. Se você for a persona transformada, quais foram os passos que você passou e que mais te trouxeram resultados? Ensine isso.
 3. **Ground it in**: COMO. você faz isso adicionando o 'so that'. É como tangibilizar o resultado. Ser específico sobre o que ele vai receber, pegando na dor e desejo visceral deles.
 
 ###### **FRASES:**
