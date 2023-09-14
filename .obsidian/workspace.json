@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acolhendo  positiva a sua",
+                "query": "confiança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,9 +222,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "969e39c2b6d548c2",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Davi Ribas.md",
+    "2. Literature Notes/People/Davi Ribas.md",
     "2. Literature Notes/Topics/Como gerar desejo de compra falando a Verdade?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
