@@ -93,14 +93,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Somos programados biologicamente para ligar pra opinião alheia.md",
+                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f14d76ecea67eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porque ter um programa de coaching?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mat sha",
+                "query": "coach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -199,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
+                "file": "Porque ter um programa de coaching?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
+                "file": "Porque ter um programa de coaching?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md"
+                "file": "Porque ter um programa de coaching?.md"
               }
             }
           },
@@ -278,14 +290,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94f5b9af7e5e2938",
+  "active": "3f14d76ecea67eec",
   "lastOpenFiles": [
-    "2. Literature Notes/People/Mat Shaffer.md",
+    "2. Literature Notes/Topics/O que significa ser um coach?.md",
+    "Porque ter um programa de coaching?.md",
+    "Somos programados biologicamente para ligar pra opinião alheia.md",
     "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
+    "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
+    "2. Literature Notes/People/Mat Shaffer.md",
     "Caminha que o caminho se abre.md",
     "Cadu Cassaú.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
-    "Somos programados biologicamente para ligar pra opinião alheia.md",
     "Se viver corajosamente, você vai conhecer o fracasso.md",
     "O que significa ser corajosa?.md",
     "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
@@ -303,9 +318,6 @@
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/O pensamento autossabotar pode ser seu personal trainer.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "2. Literature Notes/Topics/Quais são as 3 estratégias para melhorar seu QP?.md",
-    "2. Literature Notes/Topics/O que significa um alto nível de Inteligência Positiva?.md",
-    "2. Literature Notes/Topics/Quais são os 5 grandes poderes do seu Sábio?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
