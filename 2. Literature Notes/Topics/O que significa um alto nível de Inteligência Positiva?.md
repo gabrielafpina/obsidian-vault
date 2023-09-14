@@ -31,3 +31,4 @@ Uma pontuação QP de 75 é um ponto de virada crítico. Acima dele, você costu
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quais são as 3 estratégias para melhorar seu QP?]]
