@@ -20,7 +20,10 @@ O programa é baseado em 3 pilares:
 
 ###### **COMO CRIAR O MEU?**
 1. **Get in 'state'**: esteja no seu melhor, em uma boa energia e vibração
-2. Start at the end
+	1. Respiração profunda 3x
+	2. inspira, segura, começa a socar o ar 3x
+	3. comece a criar
+2. **Start at the end**: quais são os resultados que você quer que ele alcance? Como você quer que eles se sintam?
 3. Ground it in
 
 ###### **FRASES:**
