@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Victor Oddo]]
+**FONTE:** [[Victor Oddo]] [[Mat Shaffer]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
@@ -15,11 +15,13 @@ O programa é baseado em 3 pilares:
 2. **Segurança**: ser um bom ouvinte. Apenas quando as pessoas se sentem seguras com você, elas vão se abrir e ter resultados extraordinários.
 	1. Como criar segurança? Presença, ouvir 100% presente, compaixão, vulnerabiliade autêntica nas suas comunicações (conteúdo também)
 	2. [[Exercício de presença]]
-3. **Fluidez**: é uma estrutura flexível 
+3. **Fluidez**: é uma estrutura flexível, não rígida. Porque clientes diferentes passam por questões diferentes. Você tem a estrutura, só que ela é maleável.
 	1. MVC: minimum viable course. você só precisa de algo para trazer as pessoas. nunca será perfeito, será sempre algo em criação, você nunca tem algo fixo. tudo o que você precisa é de algo para começar a jornada e ir aprimorando ao longo do tempo.
 
-
-###### **PENSADORES:**
+###### **COMO CRIAR O MEU?**
+1. **Get in 'state'**: esteja no seu melhor, em uma boa energia e vibração
+2. Start at the end
+3. Ground it in
 
 ###### **FRASES:**
 

@@ -34,4 +34,4 @@ Você só precisa estar 1 passo ou outro acima da jornada da pessoa. Você não 
 - [[Educação sem implementação é inútil]]
 - [[Como funciona o funil do coach?]]
 - [[Quais são os medos que mais seguram as pessoas?]]
-- [[Porque ter um programa de coaching?]]
+- [[Porque e como funciona um programa de coaching?]]
