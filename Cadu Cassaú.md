@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Cadu Cassaú]]
+**FONTE:**
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**

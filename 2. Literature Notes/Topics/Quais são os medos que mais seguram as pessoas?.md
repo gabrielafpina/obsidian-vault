@@ -18,7 +18,7 @@
 	6. Nos sentimos impostores quando nos comparamos com outras pessoas que estão muito à nossa frente. 'Quem eu acho que sou, quando tem gente com muito mais seguidores fazendo muito mais e melhor do que eu?' Isso é normal de se sentir. Esse é o ego, desesperadamente querendo negociar com você para não evoluir para a sua nova versão, porque se não ele morre. Ele está querendo sobreviver.
 		1. A grande questão é que você pode falar igual a qualquer pessoa, mas ninguém tem a sua história, ninguém tem a sua energia. Tem pessoas ai que só vão ouvir se você falar, eles só vão ouvir a sua frequência. [[Eu não sou mais, nem menos do que ninguém]].
 	7. [[You can only experience your mastery, by giving yourself the chance]].
-		1. [[Action is the highest form of prayer]]
+		1. [[A ação é a forma mais elevada de oração]]
 
 ###### **COMO:**
 
