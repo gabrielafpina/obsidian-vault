@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df6e250e961c104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caminha que o caminho se abre.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af70e5e85cef6087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somos programados biologicamente para ligar pra opinião alheia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vulnerabilidade",
+                "query": "ação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,13 +134,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -165,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
+                "file": "Caminha que o caminho se abre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
+                "file": "Caminha que o caminho se abre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se viver corajosamente, você vai conhecer o fracasso.md"
+                "file": "Caminha que o caminho se abre.md"
               }
             }
           },
@@ -244,12 +266,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "749f91facb23ed5e",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "O que significa ser corajosa?.md",
+    "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
+    "Caminha que o caminho se abre.md",
+    "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
+    "Somos programados biologicamente para ligar pra opinião alheia.md",
     "Se viver corajosamente, você vai conhecer o fracasso.md",
+    "O que significa ser corajosa?.md",
     "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
-    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
@@ -269,9 +294,6 @@
     "2. Literature Notes/Topics/Quais são os 5 grandes poderes do seu Sábio?.md",
     "2. Literature Notes/Topics/O que é o Sábio que habita dentro de você?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
-    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-    "2. Literature Notes/Topics/Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos.md",
-    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
