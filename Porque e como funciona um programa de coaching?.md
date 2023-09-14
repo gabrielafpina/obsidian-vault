@@ -23,8 +23,8 @@ O programa é baseado em 3 pilares:
 	1. Respiração profunda 3x
 	2. inspira, segura, começa a socar o ar 3x
 	3. comece a criar
-2. **Comece pelo fim**: quais são os resultados que você quer que ele alcance? Como você quer que eles se sintam? Qual é a sua visão para os seus clientes?
-3. **Ground it in**: você faz isso adicionando o 
+2. **Comece pelo fim**: O QUE. quais são os resultados que você quer que ele alcance? Como você quer que eles se sintam? Qual é a sua visão para os seus clientes?
+3. **Ground it in**: COMO. você faz isso adicionando o 'so that'. É como tangibilizar o resultado. Ser específico sobre o que ele vai receber, pegando na dor e desejo visceral deles.
 
 ###### **FRASES:**
 
