@@ -23,7 +23,10 @@ Por isso, eu preciso aprender a estar bem com a minha intimidade, que não impor
 
 É mais inteligente atrair pelas suas crenças e valores. Mas antes, você tem que dominar a possibilidade de ficar nú, se você não for livre na intimidade e não estiver acostumado com a vulnerabilidade.
 
+[[O que é a vulnerabilidade?]]
 ==Vulnerabilidade é estar em paz.== É simples quanto parar de se identificar com o ego.
+
+[[Qual é o segredo para vender mais?]]
 
 ###### **COMO:**
 
