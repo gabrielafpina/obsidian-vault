@@ -11,6 +11,15 @@
 - Está insatisfeita com o seu relacionamento E/OU tem dependência emocional
 - Possui alguns hábitos que não são muito saudáveis
 - Se preocupa muito com a opinião dos outros (muitas vezes não tem nem consciência disso)
+- Baixa autoestima: Sente-se inadequada ou menos capaz do que realmente é, o que afeta todas as áreas da sua vida.
+- Ansiedade e estresse crônicos: Vive em um estado constante de preocupação, o que afeta sua saúde mental e física.
+- Falta de clareza emocional: Tem dificuldade em entender suas próprias emoções, o que a leva a tomar decisões impulsivas ou a evitar decisões importantes.
+- Sentimento de vazio ou falta de significado: Mesmo quando alcança metas ou tem sucesso em algum aspecto, sente que algo ainda está faltando.
+- Dificuldade em estabelecer limites: Tende a se sacrificar pelos outros, muitas vezes em detrimento de suas próprias necessidades e desejos.
+- Medo do julgamento: Evita se expressar ou tomar atitudes por medo de como será percebida pelos outros.
+- Resistência à mudança: Sente-se presa em sua zona de conforto, mesmo que isso signifique manter-se em situações ou relacionamentos tóxicos.
+- Falta de conexão espiritual: Sente-se desconectada de algo maior, o que pode levar a uma sensação de desespero ou falta de direção.
+- Comunicação ineficaz: Tem dificuldade em expressar suas necessidades e desejos, o que leva a mal-entendidos e conflitos em seus relacionamentos.
 ###### **Resultados alcançados** 
 - Desenvolvimento de inteligência emocional: aprender como lidar com os pensamentos e emoções que antes atormentavam a vida da pessoa e faziam com que ela se sentisse uma priosioneira dos próprios pensamentos. Ela vai aprender a lidar com o seu ego e compreender que é uma consciência que tem a capacidade de observar tudo, sem se identificar. Ela passa a compreender que a vida é uma eterna mudança, nada é estático, portanto, passa a não querer mais controlar o que aparece em sua vida. Ela passa a fluir mais com a vida, aceitando que a mudança é uma eterna constante. Isso faz com que ela se sinta mais leve.
 - Ressignificação de crenças limitantes: a cliente vai compreender que os resultados que tem em sua vida hoje são um reflexo do que ela acredita ser verdade. uma vez que ressignificamos as crenças que a ancoravam em pensamentos negativos, podemos começar a criar uma nova realidade para ela, mais positiva, leve e feliz.
