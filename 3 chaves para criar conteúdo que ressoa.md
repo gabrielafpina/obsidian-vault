@@ -5,13 +5,15 @@
 
 ###### **DEFINIÇÃO:**
 As pessoas sentem o que você sente. Fale sobre as suas paixões.
+1. Foque em gerar valor. Quanto mais você gera valor, mais você cresce. Q
+
 1. Escolha um tipo de conteúdo e se comprometa com ele
 	1. Vídeos curtos (TikTok, Reels, YT Shorts)
 	2. Vídeos longos (vídeo de YT)
 	3. Blog & Newsletter
 	4. Podcast
 	5. Facebook
-
+2. 
 
 Seja o guia. Não queira parecer que você já chegou lá, que você não tem defeitos e dificuldades. As pessoas se conectam com a sua vulnerabilidade. [[O que é a vulnerabilidade?]]
 
