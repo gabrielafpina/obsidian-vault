@@ -16,12 +16,34 @@
             }
           },
           {
+            "id": "2251a05dd6d3df8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "b789394a1420d6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como atrair clientes certos?.md",
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c85d95a99a5a3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você não está vendendo, é porque você não tem personalidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -127,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como atrair clientes certos?.md",
+                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como atrair clientes certos?.md",
+                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como atrair clientes certos?.md"
+                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md"
               }
             }
           },
@@ -206,9 +229,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "2251a05dd6d3df8d",
   "lastOpenFiles": [
-    "Como atrair clientes certos?.md",
+    "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
+    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+    "Se você não está vendendo, é porque você não tem personalidade.md",
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
@@ -232,8 +257,6 @@
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
-    "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
