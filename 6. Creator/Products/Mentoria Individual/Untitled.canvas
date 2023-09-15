@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cab020cbbb303d13","x":-180,"y":-20,"width":250,"height":60,"type":"text","text":"Mentoria com Gabriela Pina"},
+		{"id":"bef18498da41043c","x":197,"y":-260,"width":250,"height":240,"type":"text","text":"o meu nome é Gabriela Pina e eu direciono mulheres a se conhecerem profundamente, desenvolvendo autoconfiança e amor-próprio para que se sintam leves, felizes e em paz em suas vidas."}
+	],
+	"edges":[
+		{"id":"ce5f3187701df5f8","fromNode":"cab020cbbb303d13","fromSide":"right","toNode":"bef18498da41043c","toSide":"left"}
+	]
+}

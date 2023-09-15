@@ -8,32 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a14a4456c6321cf2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2251a05dd6d3df8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "b789394a1420d6d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
-                "mode": "source",
-                "source": false
+                "file": "6. Creator/Products/Mentoria Individual/Untitled.canvas",
+                "viewState": {
+                  "x": -37.203365875401104,
+                  "y": -105.38767466483776,
+                  "zoom": -0.24666666666666665
+                }
               }
             }
           },
@@ -49,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 39.64334705075446,
+        "dimension": 69.96996996996997,
         "children": [
           {
             "id": "f86c735e844ed812",
@@ -142,7 +126,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 60.356652949245536,
+        "dimension": 30.03003003003003,
         "children": [
           {
             "id": "34bc9bc63f694fbd",
@@ -150,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
+                "file": "6. Creator/Products/Mentoria Individual/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
+                "file": "6. Creator/Products/Mentoria Individual/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md"
+                "file": "6. Creator/Products/Mentoria Individual/Untitled.canvas"
               }
             }
           },
@@ -229,9 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2251a05dd6d3df8d",
+  "active": "b789394a1420d6d6",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
+    "6. Creator/Products/Mentoria Individual/Untitled.canvas",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "Se você não está vendendo, é porque você não tem personalidade.md",
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
@@ -256,7 +241,6 @@
     "2. Literature Notes/People/Davi Ribas.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
-    "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
