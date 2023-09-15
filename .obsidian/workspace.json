@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Você só não é bom porque não fez por tempo o suficiente.md",
+                "file": "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "761edc992026e18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo tem um propósito.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ação",
+                "query": "universo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Você só não é bom porque não fez por tempo o suficiente.md",
+                "file": "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Você só não é bom porque não fez por tempo o suficiente.md",
+                "file": "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Você só não é bom porque não fez por tempo o suficiente.md"
+                "file": "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md"
               }
             }
           },
@@ -256,10 +269,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "204bdf00ca7c9a55",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo tem um propósito.md",
+    "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
     "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
-    "Você só não é bom porque não fez por tempo o suficiente.md",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Seja o guia, não o guru.md",
     "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
@@ -284,7 +298,6 @@
     "2. Literature Notes/People/Cadu Cassaú.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
     "2. Literature Notes/Topics/O que significa ser corajosa?.md",
-    "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",

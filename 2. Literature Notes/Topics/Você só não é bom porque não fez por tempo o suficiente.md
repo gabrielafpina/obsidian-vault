@@ -23,5 +23,6 @@ Você não se torna bom em algo apenas estudando sobre aquilo. É importante FAZ
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo tem um propósito]]
 
 **Sul: para onde vai**
