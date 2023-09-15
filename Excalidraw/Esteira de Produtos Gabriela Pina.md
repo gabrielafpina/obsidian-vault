@@ -306,8 +306,8 @@ FB Ads ^WJFJD56Q
 		},
 		{
 			"type": "rectangle",
-			"version": 376,
-			"versionNonce": 1461426435,
+			"version": 378,
+			"versionNonce": 188493145,
 			"isDeleted": false,
 			"id": "p65x6KZsSRPQe3NMj5shd",
 			"fillStyle": "cross-hatch",
@@ -316,8 +316,8 @@ FB Ads ^WJFJD56Q
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -207.9231063103885,
-			"y": 491.2373377281018,
+			"x": -207.6374617791385,
+			"y": 491.5230585532971,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 128.0913012762894,
@@ -327,8 +327,13 @@ FB Ads ^WJFJD56Q
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": [],
-			"updated": 1694465263445,
+			"boundElements": [
+				{
+					"id": "uf__8vU6RSBcZeJq15vLX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1694806243009,
 			"link": null,
 			"locked": false
 		},
@@ -739,8 +744,8 @@ FB Ads ^WJFJD56Q
 		},
 		{
 			"type": "text",
-			"version": 145,
-			"versionNonce": 160208675,
+			"version": 146,
+			"versionNonce": 1440684601,
 			"isDeleted": false,
 			"id": "wSkiPSdL",
 			"fillStyle": "hachure",
@@ -770,9 +775,13 @@ FB Ads ^WJFJD56Q
 				{
 					"id": "jo1D1B_RSxnW24VeDoGFc",
 					"type": "arrow"
+				},
+				{
+					"id": "uf__8vU6RSBcZeJq15vLX",
+					"type": "arrow"
 				}
 			],
-			"updated": 1694465263445,
+			"updated": 1694806243009,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1913,12 +1922,63 @@ FB Ads ^WJFJD56Q
 			"baseline": 18
 		},
 		{
-			"id": "FS1VAbJ10TrdSJnI8meXR",
 			"type": "arrow",
+			"version": 58,
+			"versionNonce": 543369283,
+			"isDeleted": false,
+			"id": "FS1VAbJ10TrdSJnI8meXR",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 374.42422350965,
 			"y": 91.29156179890845,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 145.40341513390712,
 			"height": 0.43617243958965446,
+			"seed": 1594038051,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1694537569689,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "WJFJD56Q",
+				"focus": 0.09562314173088184,
+				"gap": 12.810440481149158
+			},
+			"endBinding": {
+				"elementId": "7f5vraMA",
+				"focus": -0.29971291872929995,
+				"gap": 13.91780490719458
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-145.40341513390712,
+					-0.43617243958965446
+				]
+			]
+		},
+		{
+			"id": "uf__8vU6RSBcZeJq15vLX",
+			"type": "arrow",
+			"x": -125.45173064479832,
+			"y": 489.1003040041478,
+			"width": 238.114013671875,
+			"height": 120.6585693359375,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1931,12 +1991,12 @@ FB Ads ^WJFJD56Q
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1594038051,
-			"version": 58,
-			"versionNonce": 543369283,
+			"seed": 946311127,
+			"version": 30,
+			"versionNonce": 2011869367,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1694537569689,
+			"updated": 1694806243009,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1945,20 +2005,20 @@ FB Ads ^WJFJD56Q
 					0
 				],
 				[
-					-145.40341513390712,
-					-0.43617243958965446
+					238.114013671875,
+					-120.6585693359375
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "WJFJD56Q",
-				"focus": 0.09562314173088184,
-				"gap": 12.810440481149158
+				"elementId": "p65x6KZsSRPQe3NMj5shd",
+				"focus": -0.32759743670929514,
+				"gap": 2.4227545491493174
 			},
 			"endBinding": {
-				"elementId": "7f5vraMA",
-				"focus": -0.29971291872929995,
-				"gap": 13.91780490719458
+				"elementId": "wSkiPSdL",
+				"focus": -0.41665494200956527,
+				"gap": 12.909694926600821
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1979,10 +2039,10 @@ FB Ads ^WJFJD56Q
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 271.10825666326264,
-		"scrollY": 56.17388572618385,
+		"scrollX": 1142.4433077932358,
+		"scrollY": 281.01543391089126,
 		"zoom": {
-			"value": 0.9444464870542288
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
