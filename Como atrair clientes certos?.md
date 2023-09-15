@@ -43,6 +43,8 @@ Como crescer audiência? As pessoas te seguem pelo que você acredita, não pelo
 
 Se você não produz conteúdo como um revolucionário, você é um câncer para essa sociedade, porque a imbecilidade já tomou conta do Brasil. Acorde como um líder de movimento todos os dias. SE NÃO VOCÊ, QUEM?
 
+Se você está tendo pouco engajamento, é porque você está falando muito sobre produto e pouco sobre crença.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
