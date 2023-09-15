@@ -16,115 +16,19 @@
             }
           },
           {
-            "id": "3448f6da82252e22",
+            "id": "b789394a1420d6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7fc4a0c171b0798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Mat Shaffer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f5b9af7e5e2938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b95d2aa710c43f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2b21ec92ca757db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que significa ser corajosa?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "749f91facb23ed5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Se viver corajosamente, você vai conhecer o fracasso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af70e5e85cef6087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que significa ser um coach?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f14d76ecea67eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Porque e como funciona um programa de coaching?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17f4780de2d293cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercício de presença.md",
+                "file": "Como atrair clientes certos?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coach",
+                "query": "davi r",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -223,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porque e como funciona um programa de coaching?.md",
+                "file": "Como atrair clientes certos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porque e como funciona um programa de coaching?.md",
+                "file": "Como atrair clientes certos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Porque e como funciona um programa de coaching?.md"
+                "file": "Como atrair clientes certos?.md"
               }
             }
           },
@@ -302,20 +206,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f14d76ecea67eec",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Exercício de presença.md",
-    "Porque e como funciona um programa de coaching?.md",
+    "Como atrair clientes certos?.md",
+    "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
-    "Somos programados biologicamente para ligar pra opinião alheia.md",
+    "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
+    "2. Literature Notes/Topics/Exercício de presença.md",
+    "2. Literature Notes/Topics/Somos programados biologicamente para ligar pra opinião alheia.md",
     "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
     "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
     "2. Literature Notes/People/Mat Shaffer.md",
-    "Caminha que o caminho se abre.md",
-    "Cadu Cassaú.md",
+    "2. Literature Notes/Topics/Caminha que o caminho se abre.md",
+    "2. Literature Notes/People/Cadu Cassaú.md",
     "2. Literature Notes/Topics/Aprendizado sem ação é só mais uma informação.md",
-    "Se viver corajosamente, você vai conhecer o fracasso.md",
-    "O que significa ser corajosa?.md",
+    "2. Literature Notes/Topics/O que significa ser corajosa?.md",
     "2. Literature Notes/Topics/O que é a vulnerabilidade?.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
@@ -329,7 +234,6 @@
     "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
-    "2. Literature Notes/Topics/O pensamento autossabotar pode ser seu personal trainer.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
