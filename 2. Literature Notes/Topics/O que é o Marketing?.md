@@ -31,3 +31,4 @@ Tudo está online. Se você não começa a criar conteúdo online, você ficará
 - [[Como gerar desejo de compra falando a Verdade?]]
 
 **Sul: para onde vai**
+- [[3 chaves para criar conteúdo que ressoa]]
