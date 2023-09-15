@@ -1,16 +1,14 @@
 **Público:**
- Mulheres
+ - Mulheres
 - Empresárias
 - 25 - 55 anos
-- Buscando se sentir mais felizes e leves consigo mesmas
-- Querendo redescobrir o que amam fazer
 
 **Dores:**
- - Trabalha com algo que não ama e sente que não tem propósito
-- Quer começar a se conhecer, mas não sabe por onde começar e o que fazer
-- Está insatisfeita com o seu relacionamento E/OU tem dependência emocional
-- Possui alguns hábitos que não são muito saudáveis
-- Se preocupa muito com a opinião dos outros (muitas vezes não tem nem consciência disso)
+ - Trabalha com uma carreira desalinhada com o seu verdadeiro Eu: se sente presa em um trabalho que não ressoa com seus interesses ou paixões. Isso leva a uma sensação persistente de vazio e falta de propósito, afetando não apenas sua satisfação profissional, mas também sua saúde emocional e bem-estar geral.
+- Deseja autoconhecimento, mas está perdida de por onde começar: tem o desejo de se entender melhor, mas se sente sobrecarregada com a quantidade de informações e opções disponíveis. Isso a deixa paralisada, sem saber qual o primeiro passo a dar em sua jornada de autoconhecimento.
+- Insatisfação e/ou dependência emocional em relacionamentos: está em um relacionamento que não a faz feliz ou, pior, em que ela se sente emocionalmente dependente do parceiro. Isso afeta sua autoestima e a impede de buscar relações mais saudáveis e gratificantes.
+- Mantém hábitos não saudáveis: tem hábitos que sabe que não são bons para ela, seja alimentação inadequada, sedentarismo ou até mesmo vícios como fumar ou beber em excesso. Esses hábitos afetam negativamente sua saúde física e mental, mas ela tem dificuldade em mudá-los.
+- Preocupação excessiva com a opinião alheia: está tão focada no que os outros pensam que muitas vezes nem se dá conta disso. Essa preocupação a impede de tomar decisões que estão alinhadas com seus próprios desejos e necessidades, levando-a a viver uma vida que não é verdadeiramente sua.
 - Baixa autoestima: Sente-se inadequada ou menos capaz do que realmente é, o que afeta todas as áreas da sua vida.
 - Ansiedade e estresse crônicos: Vive em um estado constante de preocupação, o que afeta sua saúde mental e física.
 - Falta de clareza emocional: Tem dificuldade em entender suas próprias emoções, o que a leva a tomar decisões impulsivas ou a evitar decisões importantes.
