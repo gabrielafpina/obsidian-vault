@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 chaves para criar conteúdo que ressoa.md",
+                "file": "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ece84d508f4b4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,86 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seja o guia, não o guru. Não queira parecer que você já chegou lá.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d69fc9d93aa6eee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como criar conteúdo viral?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b893bddc55e55dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona a jornada do herói?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e594f992ed318cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comece a se ver como um criador de conteúdo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c6a4c2e6dc44a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As pessoas se lembram de histórias mais do que de conteúdo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a41a3c86c4ed954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quanto mais você gera valor, mais o Universo te dá ideias para fazer mais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c85d95a99a5a3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você não está vendendo, é porque você não tem personalidade.md",
+                "file": "2. Literature Notes/Topics/Seja o guia, não o guru.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 chaves para criar conteúdo que ressoa.md",
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 chaves para criar conteúdo que ressoa.md",
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 chaves para criar conteúdo que ressoa.md"
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md"
               }
             }
           },
@@ -305,15 +245,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f64ce26719c352b8",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "Seja o guia, não o guru. Não queira parecer que você já chegou lá.md",
-    "3 chaves para criar conteúdo que ressoa.md",
-    "Como funciona a jornada do herói?.md",
-    "Como criar conteúdo viral?.md",
-    "Comece a se ver como um criador de conteúdo.md",
+    "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
+    "2. Literature Notes/Topics/Seja o guia, não o guru.md",
+    "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
+    "2. Literature Notes/Topics/Como criar conteúdo viral?.md",
+    "2. Literature Notes/Topics/Comece a se ver como um criador de conteúdo.md",
     "2. Literature Notes/Topics/O que é o Marketing?.md",
-    "As pessoas se lembram de histórias mais do que de conteúdo.md",
+    "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
