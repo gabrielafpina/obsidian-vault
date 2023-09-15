@@ -10,7 +10,7 @@ Negócios é muito simples. Você tem pessoas olhando para você, porque você c
 
 [[Quanto mais você gera valor, mais o Universo te dá ideias para fazer mais]]. [[Comece a se ver como um criador de conteúdo]]. Conteúdo é a melhor forma de ter as pessoas se atraindo para você.
 
-Seja você mesmo e compartilhe isso com o mundo. A Verdade vende. 
+Seja você mesmo e compartilhe isso com o mundo. A Verdade vende.
 
 ###### **COMO:**
 
