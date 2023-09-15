@@ -15,6 +15,8 @@ Olhe para as coisas que você gosta na sua vida e simplesmente comece a criar co
 
 [[Como criar conteúdo viral?]]
 
+[[Você só não é bom porque não fez por tempo o suficiente]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
