@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"cab020cbbb303d13","type":"text","text":"Mentoria com Gabriela Pina","x":-180,"y":-20,"width":250,"height":60},
 		{"id":"bef18498da41043c","type":"text","text":"o meu nome é Gabriela Pina e eu direciono mulheres a se conhecerem profundamente, desenvolvendo autoconfiança e amor-próprio para que se sintam leves, felizes e em paz em suas vidas.","x":197,"y":-260,"width":250,"height":240},
-		{"id":"4d4795d6aaa8906b","x":203,"y":133,"width":250,"height":277,"type":"text","text":"**Público**\n- Mulheres\n- Empresárias\n- 25 - 55 anos\n- Buscando se sentir mais felizes e leves consigo mesmas\n- Querendo redescobrir o que amam fazer"},
-		{"id":"63a467d09b26a2b7","x":592,"y":133,"width":337,"height":383,"type":"text","text":"**Maiores dores**\n- Trabalha com algo que não ama e sente que não tem propósito\n- Quer começar a se conhecer, mas não sabe por onde começar e o que fazer\n- Está insatisfeita com o seu relacionamento E/OU tem dependência emocional\n- Possui alguns hábitos que não são muito saudáveis\n- Se preocupa muito com a opinião dos outros (muitas vezes não tem nem consciência disso)\n  "},
-		{"id":"19c27e8f752d4524","x":1034,"y":133,"width":250,"height":383,"type":"text","text":"**Pontos a serem trabalhados**\n- Autoconfiança\n- Amor-Próprio\n- Propósito\n- Relacionamentos\n- Comunicação\n- Hábitos e rotina\n- Espiritualidade\n- Crenças\n- Criança interior\n- Feridas emocionais\n- Ego e Consciência"}
+		{"id":"4d4795d6aaa8906b","type":"text","text":"**Público**\n- Mulheres\n- Empresárias\n- 25 - 55 anos\n- Buscando se sentir mais felizes e leves consigo mesmas\n- Querendo redescobrir o que amam fazer","x":203,"y":133,"width":250,"height":277},
+		{"id":"63a467d09b26a2b7","type":"text","text":"**Maiores dores**\n- Trabalha com algo que não ama e sente que não tem propósito\n- Quer começar a se conhecer, mas não sabe por onde começar e o que fazer\n- Está insatisfeita com o seu relacionamento E/OU tem dependência emocional\n- Possui alguns hábitos que não são muito saudáveis\n- Se preocupa muito com a opinião dos outros (muitas vezes não tem nem consciência disso)\n  ","x":592,"y":133,"width":337,"height":383},
+		{"id":"19c27e8f752d4524","type":"text","text":"**Pontos a serem trabalhados**\n- Autoconfiança\n- Amor-Próprio\n- Propósito\n- Relacionamentos\n- Comunicação\n- Hábitos e rotina\n- Espiritualidade\n- Crenças\n- Criança interior\n- Feridas emocionais\n- Ego e Consciência","x":1034,"y":133,"width":250,"height":383},
+		{"id":"1a6e8682e67726d4","x":1392,"y":295,"width":250,"height":60,"type":"text","text":"**Resulta**"}
 	],
 	"edges":[
 		{"id":"ce5f3187701df5f8","fromNode":"cab020cbbb303d13","fromSide":"right","toNode":"bef18498da41043c","toSide":"left"},
 		{"id":"a0bdda7a0a2e5461","fromNode":"cab020cbbb303d13","fromSide":"right","toNode":"4d4795d6aaa8906b","toSide":"left"},
 		{"id":"5f5996557f3e0cad","fromNode":"4d4795d6aaa8906b","fromSide":"right","toNode":"63a467d09b26a2b7","toSide":"left"},
-		{"id":"ec4109165a3e24e2","fromNode":"63a467d09b26a2b7","fromSide":"right","toNode":"19c27e8f752d4524","toSide":"left"}
+		{"id":"ec4109165a3e24e2","fromNode":"63a467d09b26a2b7","fromSide":"right","toNode":"19c27e8f752d4524","toSide":"left"},
+		{"id":"1d327b65d6ffd1ff","fromNode":"19c27e8f752d4524","fromSide":"right","toNode":"1a6e8682e67726d4","toSide":"left"}
 	]
 }

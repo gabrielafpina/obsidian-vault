@@ -11,9 +11,24 @@
             "id": "b789394a1420d6d6",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
+                "viewState": {
+                  "x": 731,
+                  "y": 128,
+                  "zoom": -1.330374853561514
+                }
+              }
+            }
+          },
+          {
+            "id": "08ea94b712620a18",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
+                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
+                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
+                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md"
+                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md"
               }
             }
           },
@@ -218,15 +235,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b789394a1420d6d6",
+  "active": "08ea94b712620a18",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
+    "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
+    "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
     "Se você não está vendendo, é porque você não tem personalidade.md",
     "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
-    "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
     "2. Literature Notes/Topics/Exercício de presença.md",
     "2. Literature Notes/Topics/Somos programados biologicamente para ligar pra opinião alheia.md",
     "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
@@ -245,7 +263,6 @@
     "2. Literature Notes/People/Brené Brown.md",
     "2. Literature Notes/People/Davi Ribas.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-    "2. Literature Notes/Readwise/Books/Inteligência Positiva.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
