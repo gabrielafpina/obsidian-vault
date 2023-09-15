@@ -15,6 +15,8 @@ As pessoas sentem o que você sente. Fale sobre as suas paixões.
 
 Seja o guia. Não queira parecer que você já chegou lá, que você não tem defeitos e dificuldades. As pessoas se conectam com a sua vulnerabilidade. [[O que é a vulnerabilidade?]]
 
+Olhe para as coisas que você gosta na sua vida e simplesmente comece a criar conteúdo sobre isso.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
