@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "72b4946c4613ae99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c85d95a99a5a3d9",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
+                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
+                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Programa de Coaching.md"
+                "file": "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md"
               }
             }
           },
@@ -235,10 +246,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08ea94b712620a18",
+  "active": "72b4946c4613ae99",
   "lastOpenFiles": [
-    "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
+    "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
     "Se você não está vendendo, é porque você não tem personalidade.md",
     "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
