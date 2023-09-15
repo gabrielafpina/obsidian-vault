@@ -13,7 +13,12 @@
 	3. As pessoas que vão vir, vão ser aquelas que se conectam com o que você se conecta
 	4. ==O sistema de crenças é o ponto mais profundo de identificação==.
 	5. Toda crença tem que ter a ver com o seu nicho, o que você faz, com a sua visão de mundo, com a sua audiência.
-	6. A roupa que você usa é só um detalhe. O que importa de verdade é a sua maneira de perceber a realidade. Entçao, você precisa imbutir crença no seu conteúdo técnico, no seu serviço, no seu produto. Você precisa colocar uma ca
+	6. A roupa que você usa é só um detalhe. O que importa de verdade é a sua maneira de perceber a realidade. Então, você precisa embutir crença no seu conteúdo técnico, no seu serviço, no seu produto. Você precisa colocar uma causa por trás do que você faz, colocar personalidade de frente no seu negócio. Criar um movimento.
+	7. A crença serve como um muro, uma barreira primeira antes do seu conteúdo
+		1. Você tem crença, narrativa e produto. A primeira coisa que a pessoa tem que ver quando te conhece é suas crenças, tem que se conectar com quem você é, com as suas visões de mundo. Se a pessoa se identifica com isso, ela entra já te amando mesmo antes de te conhecer.
+		2. Então, você traz uma narrativa que eleva o nível de consciência dessas pessoas, pra só depois oferecer o que você faz.
+		3. Você repele quem não se conecta e atrai quem se identifica.
+			1. Quanto mais extremo for o seu posicionamento, mais engajado você se torna.
 
 ==Para vender caro, você só precisa de uma coisa: resolver problema mais rápido.== É entregar uma transformação verdadeiramente significativa na vida das pessoas. Seja bom. E comece cobrando barato, se for o caso. Entregue um nível de resultado que a coisa fica completamente impossível de ser ignorada.
 	Experiência
