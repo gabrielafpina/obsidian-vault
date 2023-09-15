@@ -12,6 +12,8 @@ As pessoas sentem o que você sente. Fale sobre as suas paixões.
 	4. Podcast
 	5. Facebook
 
+
+Seja o guia. Não queira parecer que você já chegou lá, que você não tem defeitos e dificuldades. As pes
 ###### **COMO:**
 
 ###### **PENSADORES:**
