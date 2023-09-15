@@ -13,7 +13,8 @@ As pessoas sentem o que você sente. Fale sobre as suas paixões.
 	5. Facebook
 
 
-Seja o guia. Não queira parecer que você já chegou lá, que você não tem defeitos e dificuldades. As pes
+Seja o guia. Não queira parecer que você já chegou lá, que você não tem defeitos e dificuldades. As pessoas se conectam com a sua vulnerabilidade. [[O que é a vulnerabilidade?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
