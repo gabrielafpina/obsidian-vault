@@ -15,8 +15,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Individual/Untitled.canvas",
                 "viewState": {
-                  "x": -37.203365875401104,
-                  "y": -105.38767466483776,
+                  "x": 396.044229165611,
+                  "y": 248.51924640595624,
                   "zoom": -0.24666666666666665
                 }
               }
@@ -105,7 +105,17 @@
             }
           },
           {
-            "id": "2a413299d99d9ea4",
+            "id": "2bc191d3a396d930",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "05358ad0e20ffb68",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -113,7 +123,7 @@
             }
           },
           {
-            "id": "ff0c93de8c22b3f1",
+            "id": "87a82ea43f79adcb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -121,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7f0480c584097b69",
@@ -190,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +224,10 @@
   },
   "active": "b789394a1420d6d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
-    "6. Creator/Products/Mentoria Individual/Untitled.canvas",
-    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "Se você não está vendendo, é porque você não tem personalidade.md",
+    "6. Creator/Products/Mentoria Individual/Untitled.canvas",
+    "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
+    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
