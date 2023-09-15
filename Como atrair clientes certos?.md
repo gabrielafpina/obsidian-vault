@@ -12,6 +12,7 @@
 	2. Fale menos sobre produto e mais sobre você 
 	3. As pessoas que vão vir, vão ser aquelas que se conectam com o que você se conecta
 	4. ==O sistema de crenças é o ponto mais profundo de identificação==.
+	5. Toda crença tem que ter a ver com o seu nicho, o que você faz, com a sua visão de mundo, com a sua audiência.
 
 ==Para vender caro, você só precisa de uma coisa: resolver problema mais rápido.== É entregar uma transformação verdadeiramente significativa na vida das pessoas. Seja bom. E comece cobrando barato, se for o caso. Entregue um nível de resultado que a coisa fica completamente impossível de ser ignorada.
 	Experiência
@@ -19,7 +20,7 @@
 	Conexão com a identidade
 	Resultado
 
-As marcas que mais dominam o mercado e força de escala, tem crença na vitrine. Ou seja, quando você bate o olho em mim, você consegue ver as minhas percepções sobre o mundo e você se conecta e acredita em mim.
+As marcas que mais dominam o mercado e força de escala, tem **crença na vitrine**. Ou seja, quando você bate o olho em mim, você consegue ver as minhas percepções sobre o mundo e você se conecta e acredita em mim.
 
 Como crescer audiência? As pessoas te seguem pelo que você acredita, não pelo que você faz. O que você faz é secundário. Não é só pelo conteúdo, é pela personalidade. Se você não está vendendo, é porque você não tem personalidade. 
 	Personalidade é um ato de se apropriar de si mesmo.
@@ -29,7 +30,9 @@ Como crescer audiência? As pessoas te seguem pelo que você acredita, não pelo
 	==Olhe para o seu perfil e questione-se: cadê eu aqui? Cadê os meus princípios e valores? Cadê a minha causa?==
 	Quanto mais você colocar você, mais você vai atrair pessoas que você gosta, porque são pessoas que conectam com o que você acredita.
 	O que você faz, outra pessoa faz. Mas o que você acredita é só seu. Isso é só seu. Isso cria exclusividade, necessidade. O que é mais caro? O que é mais único.
-		O que é mais caro é o que tem menos, é a jóia mais rara. Quer cobrar mais caro, quer que as pessoas te valorizem? O caro é o que é único, exclusivo. A sua personalidade é exclusiva. Não tem ninguém igual a você na terra. Assim, quanto mais você for você e entregar conteúdo com total personalidade, mais caro você fica, porque você fica diferente. p
+		O que é mais caro é o que tem menos, é a jóia mais rara. Quer cobrar mais caro, quer que as pessoas te valorizem? O caro é o que é único, exclusivo. A sua personalidade é exclusiva. Não tem ninguém igual a você na terra. Assim, quanto mais você for você e entregar conteúdo com total personalidade, mais caro você fica, porque você fica diferente. PERSONALIDADE É SISTEMA DE CRENÇAS. Quanto mais único e individual, quanto mais conectado com a sua história, mais raro e quanto mais raro, mais caro. Quando você se apropria da sua própria história, de você, você se torna mais raro, porque é muito raro quem se apropria da própria personalidade.
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -44,5 +47,6 @@ Como crescer audiência? As pessoas te seguem pelo que você acredita, não pelo
 
 **Norte: ideia/pergunta**
 - [[Como gerar desejo de compra falando a Verdade?]]
+- [[Só eu sou eu]]
 
 **Sul: para onde vai**
