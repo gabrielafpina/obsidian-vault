@@ -8,6 +8,10 @@
 
 [[Como fazer uma mudança de identidade?]]
 
+[[As pessoas se lembram de histórias mais do que de conteúdo]].
+
+As pessoas descobrem que você existe quando você cria conteúdo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

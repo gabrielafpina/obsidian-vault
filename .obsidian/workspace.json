@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5c6a4c2e6dc44a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As pessoas se lembram de histórias mais do que de conteúdo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a41a3c86c4ed954",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o Marketing?.md",
+                "file": "Comece a se ver como um criador de conteúdo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o Marketing?.md",
+                "file": "Comece a se ver como um criador de conteúdo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o Marketing?.md"
+                "file": "Comece a se ver como um criador de conteúdo.md"
               }
             }
           },
@@ -243,10 +257,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6b78e538ea0aad2",
+  "active": "e594f992ed318cba",
   "lastOpenFiles": [
-    "Comece a se ver como um criador de conteúdo.md",
     "2. Literature Notes/Topics/O que é o Marketing?.md",
+    "As pessoas se lembram de histórias mais do que de conteúdo.md",
+    "Comece a se ver como um criador de conteúdo.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
@@ -271,7 +286,6 @@
     "2. Literature Notes/Topics/Qual é o segredo para vender mais?.md",
     "2. Literature Notes/Topics/Lei do Desapego.md",
     "2. Literature Notes/Topics/Como gerar desejo de compra falando a Verdade?.md",
-    "2. Literature Notes/People/Brené Brown.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",

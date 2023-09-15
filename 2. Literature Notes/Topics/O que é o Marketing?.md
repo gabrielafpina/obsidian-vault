@@ -12,6 +12,8 @@ Negócios é muito simples. Você tem pessoas olhando para você, porque você c
 
 Seja você mesmo e compartilhe isso com o mundo. A Verdade vende.
 
+Tudo está online. Se você não começa a criar conteúdo online, você ficará atrasado e vai morrer em alguns momentos.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
