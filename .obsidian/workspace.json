@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md",
+                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md",
+                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md"
+                "file": "O que eu faço para reter a atenção? Senoide emocional.md"
               }
             }
           },
@@ -291,11 +291,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30355c350038c8ba",
+  "active": "afe03e5879b198c8",
   "lastOpenFiles": [
+    "Liderar é sobre acender uma chama no outro.md",
     "O que faz uma música ser interessante?.md",
     "Quais são os tipos de comunicação existentes?.md",
-    "Liderar é sobre acender uma chama no outro.md",
     "Porque variar o tom de voz?.md",
     "O que eu faço para reter a atenção? Senoide emocional.md",
     "Energia arquetípica - Use-a a seu favor.md",
