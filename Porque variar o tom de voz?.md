@@ -24,7 +24,7 @@ Energia arquetípica
 	2. A energia que eu dou é a emoção que o meu lead vai sentir. Se eu sentir a emoção, a pessoa sente também. Quando eu faço a montanha russa de emoções, você retém a atenção das pessoas. Isso também conta uma história. Por isso que quem é monótono não prende a atenção, porque não gera senoide emocional. [[O que eu faço para reter a atenção? Senoide emocional]]
 É sobre a sua linguagem verbal, não verbal, paraverbal (é quem dita o tom), ser a trilha sonora do que você está dizendo. 
 
-Em todo culto espiritual a música está associada, nos filmes, nos cultos. Porque quando você vai na Igreja
+Em todo culto espiritual a música está associada, nos filmes, nos cultos. Porque quando você vai na Igreja e tem uma música de fundo, aquela música dita o tom do que você está assistindo. O segredo é manter as pessoas engajadas no auditivo, visual e cinestésico ao mesmo tempo. [[VACOG]]
 
 ###### **COMO:**
 
