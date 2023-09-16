@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md",
+                "file": "Porque variar o tom de voz?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md",
+                "file": "Porque variar o tom de voz?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md"
+                "file": "Porque variar o tom de voz?.md"
               }
             }
           },
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30355c350038c8ba",
+  "active": "a6cc69c55a235d98",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "Liderar é sobre acender uma chama no outro.md",
+    "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "Porque variar o tom de voz?.md",
     "O que eu faço para reter a atenção? Senoide emocional.md",
     "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
