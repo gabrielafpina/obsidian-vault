@@ -1,0 +1,39 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Chat, de acordo com o que tem escrito dentro da nota [[Porque e como funciona um programa de coaching?]] , eu quero que você compreenda como se escreve a proposta de valor para o meu programa de mentoria e coaching e quero que utilize as informações abaixo para montar a minha promessa."
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "Com base nas informações fornecidas na nota \"Porque e como funciona um programa de coaching?\", podemos criar uma proposta de valor para o seu programa de mentoria e coaching. Aqui está uma sugestão de como você pode escrever sua promessa:\n\n\"Meu programa de mentoria e coaching é projetado para ajudar você a alcançar resultados extraordinários, desenvolver-se como profissional e obter confiança em si mesmo. Através de uma abordagem baseada em experiência, segurança e fluidez, você será guiado em uma jornada de transformação pessoal e profissional.\n\nAo participar do programa, você terá a oportunidade de vivenciar experiências significativas e realizar tarefas práticas entre as sessões, o que resultará em um progresso real e duradouro. Além disso, você se sentirá seguro e apoiado, pois serei um ouvinte atento e compassivo, criando um ambiente propício para o seu crescimento.\n\nMinha abordagem flexível e adaptável permitirá que atendamos às suas necessidades individuais, garantindo que você receba o",
+      "context": "Imagine the following notes were written by the user and contain the necessary information to synthesize a useful answer the user's query:\n---BEGIN NOTE: [[Porque e como funciona um programa de coaching?]]---\n**TAGS:**\n\n**FONTE:** [[Victor Oddo]] [[Mat Shaffer]]\n###### **BIG IDEA:** \n\n###### **DEFINIÇÃO:**\nPorque ter um programa com um passo a passo definido?\n- Aumenta o resultado do seu cliente\n- Te amadurece, motiva e dá confiança como profissional\n- Você não precisa ser um guru, você é o guia, o mentor\n\n###### **COMO FUNCIONA?**\nO programa é baseado em 3 pilares:\n1. **Experiência**: é mais poderoso ajudar as pessoas a ter uma experiência, ao invés de ensinar algo a eles. Quanto mais você envolve eles nas sessões, mais eles tem resultado. Dar tarefas para casa é importante. O ensinamento mais importante é nas vivências que eles tem e nas tarefas que eles fazem entre as sessões.\n2. **Segurança**: ser um bom ouvinte. Apenas quando as pessoas se sentem seguras com você, elas vão se abrir e ter resultados extraordinários.\n\t1. Como criar segurança? Presença, ouvir 100% presente, compaixão, vulnerabiliade autêntica nas suas comunicações (conteúdo também)\n\t2. [[Exercício de presença]]\n3. **Fluidez**: é uma estrutura flexível, não rígida. Porque clientes diferentes passam por questões diferentes. Você tem a estrutura, só que ela é maleável.\n\t1. MVC: minimum viable course. você só precisa de algo para trazer as pessoas. nunca será perfeito, será sempre algo em criação, você nunca tem algo fixo. tudo o que você precisa é de algo para começar a jornada e ir aprimorando ao longo do tempo.\n\n###### **COMO CRIAR O MEU?**\n1. **Get in 'state'**: esteja no seu melhor, em uma boa energia e vibração\n\t1. Respiração profunda 3x\n\t2. inspira, segura, começa a socar o ar 3x\n\t3. comece a criar\n2. **Comece pelo fim**: O QUE. quais são os resultados que você quer que ele alcance? Como você quer que eles se sintam? Qual é a sua visão para os seus clientes?\n\t1. Quais são os passos que as pessoas precisam chegar para alcançar esse resultado?\n\t2. Se você for a persona transformada, quais foram os passos que você passou e que mais te trouxeram resultados? Ensine isso.\n3. **Ground it in**: COMO. você faz isso adicionando o 'so that'. É como tangibilizar o resultado. Ser específico sobre o que ele vai receber, pegando na dor e desejo visceral deles.\n\n###### **FRASES:**\n\n---------\n\n**Oeste: similar**\n\n**Leste: oposto**\n\n**Norte: ideia/pergunta**\n- [[O que significa ser um coach?]]\n- [[Como funciona o funil do coach?]]\n\n**Sul: para onde vai**---END NOTE---\n"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "O meu público é: Mulheres\n- Empresárias\n- 25 - 55 anos\n- Buscando se sentir mais felizes e leves consigo mesmas\n- Querendo redescobrir o que amam fazer"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "\"Meu programa de mentoria e coaching exclusivo para mulheres empresárias, entre 25 e 55 anos, é projetado para ajudá-las a se sentirem mais felizes, leves e realizadas consigo mesmas. Se você está buscando redescobrir o que ama fazer e encontrar um propósito renovado, este programa é perfeito para você.\n\nAo participar do programa, você será guiada em uma jornada de autodescoberta, explorando seus talentos, paixões e valores fundamentais. Trabalharemos juntas para identificar suas metas e objetivos, e desenvolveremos um plano de ação personalizado para alcançá-los.\n\nCom uma abordagem empática e orientada para resultados, irei apoiá-la em cada etapa do caminho, fornecendo orientação prática e estratégias eficazes para superar desafios e maximizar seu potencial. Além disso, você se beneficiará de um ambiente seguro e de apoio, onde poderá compartilhar suas experiências e aprender com outras mulheres empresárias.\n\nJunte-se a mim neste programa de mentoria e"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "as maiores dores do meu público são: Trabalha com algo que não ama e sente que não tem propósito\n- Quer começar a se conhecer, mas não sabe por onde começar e o que fazer\n- Está insatisfeita com o seu relacionamento E/OU tem dependência emocional\n- Possui alguns hábitos que não são muito saudáveis\n- Se preocupa muito com a opinião dos outros (muitas vezes não tem nem consciência disso)\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "\"Meu programa de mentoria e coaching exclusivo para mulheres empresárias, entre 25 e 55 anos, é especialmente desenvolvido para ajudá-las a superar as principais dores que enfrentam. Se você está trabalhando em algo que não ama e sente que falta propósito em sua vida, se deseja começar a se conhecer melhor, mas não sabe por onde começar, se está insatisfeita com seu relacionamento e/ou lida com dependência emocional, se possui hábitos pouco saudáveis e se preocupa excessivamente com a opinião dos outros, este programa é perfeito para você.\n\nDurante nosso programa, iremos abordar essas dores de forma abrangente e eficaz. Vamos trabalhar juntas para identificar suas paixões e talentos, ajudando-a a encontrar um caminho profissional que seja verdadeiramente significativo e alinhado com seus valores. Além disso, iremos explorar técnicas e exercícios práticos para ajudá-la a se conhecer melhor, desenvolver hábitos mais saudáveis e fortalecer sua auto"
+    }
+  ]
+]

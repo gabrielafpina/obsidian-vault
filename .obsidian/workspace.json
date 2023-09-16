@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7f0480c584097b69",
@@ -267,7 +268,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25d4acde0ea47ef6",
+  "active": "87a82ea43f79adcb",
   "lastOpenFiles": [
     "Porque variar o tom de voz?.md",
     "Como estimular o cérebro de outras pessoas?.md",
