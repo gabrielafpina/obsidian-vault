@@ -6,7 +6,20 @@
 ###### **DEFINIÇÃO:**
 1. Meet them at one or 2 places: profunda dor ou profundo desejo.
 	1. Tenha cuidado para não vender as consequências do trabalho. Quais são as dificuldades do seu cliente? O que ele mais quer?
-	2. 
+	2. Quais são algumas dores profundas?
+		1. Luto
+		2. Perdas
+		3. Heart-break (existe muita dor e muito desejo em torno de relacionamentos)
+		4. Baixa auto-estima/autoconfiança [[Autoestima produz prosperidade]]
+		5. Cripling depression
+		6. Falta de amor
+		7. Traumas
+		8. Vícios
+		9. Frustração em não estar vivendo o seu propósito, de não estar vivendo o seu melhor
+	3. Quais são desejos profundos?
+		1. Um relacionamento expansivo e saudável
+		2. Dinheiro e abundância
+		3. 
 
 ###### **COMO:**
 
