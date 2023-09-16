@@ -21,6 +21,9 @@ Energia arquetípica
 			1. aqui, você é 
 		4. Liberdade - rebeled, bobo da corte e explorador (ar)
 	1. Eu tenho que ser bom em interpretar esses 4 elementos na minha comunicação
+	2. A energia que eu dou é a emoção que o meu lead vai sentir. Se eu sentir a emoção, a pessoa sente também. Quando eu faço a montanha russa de emoções, você retém a atenção das pessoas. Isso também conta uma história.
+É sobre a sua linguagem verbal, não verbal, paraverbal (é quem dita o tom), ser a trilha sonora do que você está dizendo. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
