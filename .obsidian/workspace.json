@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6cc69c55a235d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porque variar o tom de voz?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
+                "file": "Porque variar o tom de voz?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
+                "file": "Porque variar o tom de voz?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md"
+                "file": "Porque variar o tom de voz?.md"
               }
             }
           },
@@ -221,10 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afe03e5879b198c8",
+  "active": "a6cc69c55a235d98",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
     "O que eu faço para reter a atenção? Senoide emocional.md",
+    "Porque variar o tom de voz?.md",
+    "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
@@ -249,7 +262,6 @@
     "2. Literature Notes/Topics/Exercício de presença.md",
     "2. Literature Notes/Topics/Somos programados biologicamente para ligar pra opinião alheia.md",
     "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
-    "2. Literature Notes/Topics/A ação é a forma mais elevada de oração.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",

@@ -4,6 +4,9 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+[[Porque variar o tom de voz?]]
+
+Senoide emocional são descargas de dopamina fora do padrão
 
 ###### **COMO:**
 
