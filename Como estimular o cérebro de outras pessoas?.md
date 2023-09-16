@@ -1,21 +1,22 @@
 **TAGS:**
 
-**FONTE:** [[Davi Ribas]]
+**FONTE:** [[Davi Ribas]] 
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
 1. **Tom de voz**
 2. **Postura**
-3. **Energia arquetípica**
-	Propósito - qual é a sua causa? Qual é o arquétipo da minha causa?
-	Personalidade - seu posicionamento, sua personalidade individual
-	Dominar as energias arquetípicas - 4 grupos principais de arquétipos são divididos em 4 elementos - existe um 5 elemento
-		1. Ego - herói, mago criativo (fogo)
-		2. Ordem - inocente, sabio, governante (terra)
-			1. aqui, você é didático
-		3. homem comum, prestativo, amante (água)
+3. **[[Energia arquetípica - Use-a a seu favor]]**
+	*Propósito*: qual é a sua causa? Qual é o arquétipo da minha causa?
+	*Personalidade*: seu posicionamento, sua personalidade individual
+	*Dominar as energias arquetípicas*: 4 grupos principais de arquétipos são divididos em 4 elementos - existe um 5 elemento. Você traz essas energias para o seu tom de voz, para a sua postura corporal, para a sua forma de falar.
+		1. Ego: herói, mago criativo (fogo - transformação, profundida, mistério)
+			1. Empolgante
+		2. Ordem: inocente, sabio, governante (terra - é a base)
+			1. aqui, você é didático, pragmático, firme
+		3. Social: homem comum, prestativo, amante (água - conexão)
 			1. aqui, você é 
-		4. Liberdade - rebelde, bobo da corte e explorador (ar)
+		4. Liberdade: rebelde, bobo da corte e explorador (ar)
 
 Eu tenho que ser bom em interpretar esses 4 elementos na minha comunicação.
 
