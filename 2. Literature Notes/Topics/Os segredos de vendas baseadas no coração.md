@@ -28,7 +28,11 @@
 	1. É importante você acreditar profundamente que o que você vende tem o poder de transformar a vida daquela pessoa. As pessoas sabem quando é de verdade e quando é de mentira.
 	2. Se você está vendendo algo, tenha a fé inabalável que você pode mudar a vida da pessoa, sem hesitação
 	3. Quando você oferece a venda com um tom de voz de quem não confia em si e uma postura de insegurança, as pessoas sentem
-	4. Acredite no que você está vendendo com todas as células  do seu corpo que o que você tem vai mudar a vida das pessoas.
+	4. Acredite no que você está vendendo com todas as células  do seu corpo que o que você tem vai mudar a vida das pessoas. Se você não for completamente apaixonado pelo seu produto e pelo seu servir, quem será? Também é importante você ter confiança que pode entregar a transformação para o seu cliente, porque você não vai descansar até aquela pessoa se desenvolver, porque você está 100% comprometido fazer aquilo acontecer.
+		1. Pergunte para eles sobre qual é a visão que eles tem para a vida deles. 
+		2. Você está salvando a vida de pessoas ao vender para elas.
+4. **Urgency/Scarcity**
+	1. Se v
 
 Todo conteúdo que você faz é um ato de vendas, porque vendas é um enrollment game.
 ###### **COMO:**
