@@ -5,8 +5,8 @@
 
 ###### **DEFINIÇÃO:**
 1. Meet them at one or 2 places: profunda dor ou profundo desejo.
-	1. Dor: 
-	2. Desejo:
+	1. Tenha cuidado para não vender as consequências do trabalho. Quais são as dificuldades do seu cliente? O que ele mais quer?
+	2. 
 
 ###### **COMO:**
 
