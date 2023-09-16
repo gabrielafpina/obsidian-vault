@@ -24,11 +24,18 @@
 	- Quando a pessoa paga, ela se compromete com o processo. Você não está vendendo por você, você vende por eles. Porque se eles estão com o skin in the game, eles ficam mais comprometidos a executar. É empoderamento para o cliente.
 - Para você, as vendas são owning your value, your worth. Você passa a confiar mais em si mesmo e, também, a se empoderar.
 - Vendas é uma exchange of energy
-- Vendas é um presente para você e para as pessoas que você vai ajudar
+- Vendas é um presente para você e para as pessoas que você vai ajudar. Vendas é tudo. Não adianta você criar, você fazer marketing, porque se você não vender, você não tem nada.
 
 É importante parar de se contar histórias sobre o que é vendas. Você não está roubando de ninguém, você está agregando valor para a vida de pessoas de forma íntegra. Quando você opera a partir do seu coração, você prospera. [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]].
 
-###### **COMO:**
+###### **MANTRAS:**
+1. Sales is a sacred process. Vender é um processo sagrado.
+2. Sales is a catalyst to action, to transformation, is the fucking jet fuel that powers your engine and the engine os the people that you transform
+3. Sales is fun. Vender é divertido.
+	1. Vender e fechar um grande contrato é muito divertido. É muito legal saber que você pode proporcionar uma vida legal para você e para as pessoas ao seu redor
+	2. Se você está se divertindo vendendo, as pessoas estão se divertindo comprando. As pessoas sentem o que você sente. Se você está se divertindo vendendo, as pessoas vão querer comprar de você, porque a sua energia é contagiante e elas vão se sentir mais abertas a querer trabalhar com você
+4. Sales is fundamentally the exchange of money for value created.
+	1. O dinheiro é uma representação de energia, valor é energia. As pessoas te dão o dinheiro deles, por conta do valor que voc
 
 ###### **PENSADORES:**
 
