@@ -35,7 +35,8 @@
 	1. Se você não tem isso na hora da venda, as pessoas não se esforçam para comprar de você. Elas vão continuar sendo vítimas de suas resistências, falta de valor, etc. se elas não forem inspiradas a agir nesse exato momento.
 	2. O momento da oferta é apenas dentro da ligação de vendas.
 5. **Não se prenda ao resultado**
-	1. A energia do desespero fede e todo mundo consegue sentir
+	1. A energia do desespero fede e todo mundo consegue sentir.
+	2. Se depois de tudo o que você fez e a pessoa não está disponível para trabalhar com você e não quer se comprometer, está tudo bem, porque existem pessoas aí fora que estão prontas. Isso se chama viver em abundância, porque tudo está disponível para nós. [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]]
 
 Todo conteúdo que você faz é um ato de vendas, porque vendas é um enrollment game.
 ###### **COMO:**
