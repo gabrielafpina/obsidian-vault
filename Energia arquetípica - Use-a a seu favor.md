@@ -11,13 +11,13 @@ O conceito de arquétipos vem da psicologia analítica de [[Carl Jung]] e se ref
 2. ***Personalidade***: seu posicionamento, sua personalidade individual
 	1. Sua personalidade individual também pode ser mapeada para um arquétipo específico. Isso ajuda a criar uma marca pessoal mais forte e a comunicar suas mensagens de forma mais eficaz. [[Como atrair clientes certos?]]
 
-
-3. ***Dominar as energias arquetípicas***: 4 grupos principais de arquétipos são divididos em 4 elementos - existe um 5 elemento. Você traz essas energias para o seu tom de voz, para a sua postura corporal, para a sua forma de falar.
+3. ***Dominar as energias arquetípicas***: 4 grupos principais de arquétipos são divididos em 4 elementos - existe um 5 elemento. Você traz essas energias para o seu tom de voz, para a sua postura corporal, para a sua forma de falar. Todo arquétipo pode inspirar, ensinar, entreter e conectar.
 		1. **Ego**: herói, mago, criativo (fogo - transformação, profundida, mistério, motivação)
 			1. **Herói**: Inspira coragem e determinação.
-			2. **Mago**: 
-			3. **Como Usar**: Use a energia do fogo para incitar ação e mudança. Seja o herói que mostra o caminho ou o mago que traz novas perspectivas.
-	2. **Ordem**: inocente, sabio, governante (terra - é a base)
+			2. **Mago**: habilidade de transformar, curar e renovar. Ele é um mestre do conhecimento oculto e muitas vezes serve como um guia espiritual ou mentor.
+			3. **Criativo**: inovador, um sonhador e um visionário. Ele vê possibilidades onde outros veem limitações e é movido pela necessidade de expressar sua singularidade.
+			4. **Como Usar**: Use a energia do fogo para incitar ação e mudança. Seja o herói que mostra o caminho ou o mago que traz novas perspectivas.
+	2. **Ordem**: inocente, sabio, governante (terra - é a base, ensina)
 		1. **Inocente**: Transmite pureza e otimismo.
 		2. **Sábio**: Oferece sabedoria e orientação.
 		3. **Governante**: Exala autoridade e controle.
@@ -27,17 +27,19 @@ O conceito de arquétipos vem da psicologia analítica de [[Carl Jung]] e se ref
 		2. **Prestativo**: Altruísta e compassivo.
 		3. **Amante**: Apaixonado e emocional.
 		4. **Como Usar**: Aqui, você é empático. Use a energia da água para conectar-se emocionalmente com seu público.
-	4. **Liberdade**: rebelde, bobo da corte e explorador (ar)
+	4. **Liberdade**: rebelde, bobo da corte e explorador (ar - entretém)
 		1. **Rebelde**: Desafia o status quo.
 		2. **Bobo da Corte**: Traz leveza e humor.
 		3. **Explorador**: Busca novas experiências e aventuras.
 		4. **Como Usar**: Use a energia do ar para inspirar liberdade e expansão de pensamento.
-	5. **Vazio**: visionário (éter - energia da inspiração)
+	5. **Visionário**: energia do vazio (éter - energia da inspiração)
 		1.  **Conexão Espiritual**: Use o conceito de Éter para abordar temas mais espirituais ou místicos em sua comunicação. Isso pode ser particularmente eficaz se você estiver falando sobre meditação, consciência ou autoconhecimento.
 		2. **Profundidade e Complexidade**: O Éter pode ser usado para adicionar uma camada de profundidade e complexidade às suas mensagens, permitindo que você explore temas que vão além do mundo físico e tangível.
 		3. **Harmonia e Equilíbrio**: Ao incorporar o Éter, você pode criar uma sensação de completude e equilíbrio em sua comunicação, unindo os aspectos práticos e espirituais de sua mensagem.
 		4. **Inspiração e Aspiração**: O elemento Éter é muitas vezes associado ao que é elevado e inspirador. Utilizá-lo em sua comunicação pode ajudar a elevar o tom e inspirar seu público a aspirar a algo maior.
 
+
+Quanto mais eu gero variação entre as energias arquetípicas, mais as pessoas são retidas pela minha comunicação. [[A moeda mais valiosa do mundo é a atenção]] [[O que eu faço para reter a atenção? Senoide emocional]]. Se torna interessante, é como se fosse uma música. [[O que faz uma música ser interessante?]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
