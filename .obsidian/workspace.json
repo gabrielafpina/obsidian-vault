@@ -4,107 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4f88b53fbe2a53",
+        "id": "61f51236d3ab74f6",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cf5fc56f1daa31",
+            "id": "b902eaf31821a827",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1502de2375de79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
+                "file": "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afe03e5879b198c8",
+            "id": "dd745852973ae490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cc69c55a235d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Porque variar o tom de voz?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d4acde0ea47ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como estimular o cérebro de outras pessoas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74648d0bcaa316ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energia arquetípica - Use-a a seu favor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d0f656c4ff31a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que faz uma música ser interessante?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63894c8efb39d1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são os tipos de comunicação existentes?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30355c350038c8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liderar é sobre acender uma chama no outro.md",
+                "file": "Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,12 +86,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -213,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
+                "file": "Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md",
+                "file": "Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que eu faço para reter a atenção? Senoide emocional.md"
+                "file": "Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md"
               }
             }
           },
@@ -269,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,16 +228,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afe03e5879b198c8",
+  "active": "dd745852973ae490",
   "lastOpenFiles": [
-    "Liderar é sobre acender uma chama no outro.md",
-    "O que faz uma música ser interessante?.md",
-    "Quais são os tipos de comunicação existentes?.md",
-    "Porque variar o tom de voz?.md",
-    "O que eu faço para reter a atenção? Senoide emocional.md",
-    "Energia arquetípica - Use-a a seu favor.md",
-    "Como estimular o cérebro de outras pessoas?.md",
+    "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
+    "Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
     "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
+    "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",
+    "2. Literature Notes/Topics/O que eu faço para reter a atenção? Senoide emocional.md",
+    "2. Literature Notes/Topics/Liderar é sobre acender uma chama no outro.md",
+    "2. Literature Notes/Topics/O que faz uma música ser interessante?.md",
+    "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
+    "2. Literature Notes/Topics/Porque variar o tom de voz?.md",
+    "2. Literature Notes/Topics/Como estimular o cérebro de outras pessoas?.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
@@ -318,8 +257,6 @@
     "2. Literature Notes/Topics/O que é o Marketing?.md",
     "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
     "2. Literature Notes/Topics/Porque e como funciona um programa de coaching?.md",
-    "2. Literature Notes/Topics/Quanto mais você gera valor, mais o Universo te dá ideias para fazer mais.md",
-    "2. Literature Notes/Topics/Se você não está vendendo, é porque você não tem personalidade.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
