@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
+                "file": "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
+                "file": "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como ressignificar as vendas?.md"
+                "file": "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md"
               }
             }
           },
@@ -240,10 +240,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88a56cb3ed817e15",
+  "active": "f1502de2375de79c",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
     "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
+    "2. Literature Notes/Topics/Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
     "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
     "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
     "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",

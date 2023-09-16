@@ -35,7 +35,8 @@
 	1. Vender e fechar um grande contrato é muito divertido. É muito legal saber que você pode proporcionar uma vida legal para você e para as pessoas ao seu redor
 	2. Se você está se divertindo vendendo, as pessoas estão se divertindo comprando. As pessoas sentem o que você sente. Se você está se divertindo vendendo, as pessoas vão querer comprar de você, porque a sua energia é contagiante e elas vão se sentir mais abertas a querer trabalhar com você
 4. Sales is fundamentally the exchange of money for value created.
-	1. O dinheiro é uma representação de energia, valor é energia. As pessoas te dão o dinheiro deles, por conta do valor que voc
+	1. O dinheiro é uma representação de energia, valor é energia. As pessoas te dão o dinheiro deles, por conta do valor que você está gerando pelo seu produto. É muito simples.
+	2. É uma troca: dinheiro por transformação.
 
 ###### **PENSADORES:**
 
