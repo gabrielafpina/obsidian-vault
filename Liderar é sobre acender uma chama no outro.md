@@ -21,3 +21,5 @@ E para isso, eu tenho que ter uma chama acesa em mim. Assim, é preciso ser capa
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O autoconhecimento é o caminho ideal não apenas para se libertar dos problemas, mas também para se tornar uma pessoa melhor]]
+- [[Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?]]

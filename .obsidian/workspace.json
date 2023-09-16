@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "universo",
+                "query": "autoconhecimento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,12 +102,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +246,9 @@
   },
   "active": "30355c350038c8ba",
   "lastOpenFiles": [
-    "Porque variar o tom de voz?.md",
+    "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
     "Liderar é sobre acender uma chama no outro.md",
+    "Porque variar o tom de voz?.md",
     "O que eu faço para reter a atenção? Senoide emocional.md",
     "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
@@ -271,7 +273,6 @@
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Exercício de presença.md",
-    "2. Literature Notes/Topics/Somos programados biologicamente para ligar pra opinião alheia.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
