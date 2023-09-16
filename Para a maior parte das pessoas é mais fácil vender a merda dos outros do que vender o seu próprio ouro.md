@@ -4,7 +4,10 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-O seu negócio é um reflexo da sua compreensão de si mesmo. Mui
+O seu negócio é um reflexo da sua compreensão de si mesmo. Muito do que acontece com relação à dificuldade de vender, é porque muitas pessoas criam histórias sobre o que é vender.
+
+[[Como ressignificar as vendas?]]
+
 
 ###### **COMO:**
 
