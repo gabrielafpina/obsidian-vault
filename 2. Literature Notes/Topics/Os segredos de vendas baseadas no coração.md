@@ -25,7 +25,10 @@
 		1. Por isso, esteja presente, caring, na sua energia, na forma como você show up para vender, para criar o seu conteúdo. Esteja 100% presente e demonstre o seu cuidado e carinho. A comunicação não verbal é muito mais importante do que o que sai da sua boca. [[Quais são os tipos de comunicação existentes?]] Isso é o que cria confiança
 		2. Você também cria confiança sendo consistente no seu conteúdo, principalmente. Estando presente, apaixonado, dando o seu melhor para as outras pessoas e por você 
 3. Crença
-	1. É importante você acreditar profundamente que o que você vende tem o poder de transformar a vida daquela pessoa. As pessoas sabem quando ´
+	1. É importante você acreditar profundamente que o que você vende tem o poder de transformar a vida daquela pessoa. As pessoas sabem quando é de verdade e quando é de mentira.
+	2. Se você está vendendo algo, tenha a fé inabalável que você pode mudar a vida da pessoa, sem hesitação
+	3. Quando você oferece a venda com um tom de voz de quem não confia em si e uma postura de insegurança, as pessoas sentem
+	4. Acredite no que você está vendendo com todas as células  do seu corpo que o que você tem vai mudar a vida das pessoas.
 
 Todo conteúdo que você faz é um ato de vendas, porque vendas é um enrollment game.
 ###### **COMO:**
