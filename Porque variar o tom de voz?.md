@@ -15,8 +15,10 @@ Energia arquetípica
 	Personalidade - seu posicionamento, sua personalidade individual
 	Dominar as energias - 4 grupos divididos em 4 elementos.
 		1. Ego - heroi, mago criativo (fogo)
-		2. Ordem - inocente, sabio, (agua)
+		2. Ordem - inocente, sabio, (terra)
+			1. aqui, você é didatico
 		3. homem prestativo, amante (terra)
+			1. aqui, você é 
 		4. Liberdade - rebeled, bobo da corte e explorador (ar)
 	1. Eu tenho que ser bom em interpretar esses 4 elementos na minha comunicação
 ###### **COMO:**
