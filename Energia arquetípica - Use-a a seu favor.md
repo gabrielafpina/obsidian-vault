@@ -13,9 +13,9 @@ O conceito de arquétipos vem da psicologia analítica de [[Carl Jung]] e se ref
 
 
 3. ***Dominar as energias arquetípicas***: 4 grupos principais de arquétipos são divididos em 4 elementos - existe um 5 elemento. Você traz essas energias para o seu tom de voz, para a sua postura corporal, para a sua forma de falar.
-		1. **Ego**: herói, mago, criativo (fogo - transformação, profundida, mistério)
-			1. - **Herói**: Inspira coragem e determinação.
-			2. **Mago, Criativo**: Estimula a imaginação e a inovação.
+		1. **Ego**: herói, mago, criativo (fogo - transformação, profundida, mistério, motivação)
+			1. **Herói**: Inspira coragem e determinação.
+			2. **Mago**: 
 			3. **Como Usar**: Use a energia do fogo para incitar ação e mudança. Seja o herói que mostra o caminho ou o mago que traz novas perspectivas.
 	2. **Ordem**: inocente, sabio, governante (terra - é a base)
 		1. **Inocente**: Transmite pureza e otimismo.
@@ -31,14 +31,12 @@ O conceito de arquétipos vem da psicologia analítica de [[Carl Jung]] e se ref
 		1. **Rebelde**: Desafia o status quo.
 		2. **Bobo da Corte**: Traz leveza e humor.
 		3. **Explorador**: Busca novas experiências e aventuras.
-    
-    **Como Usar**: Use a energia do ar para inspirar liberdade e expansão de pensamento.
-
-		2. Ordem: inocente, sabio, governante (terra - é a base)
-			1. aqui, você é didático, pragmático, firme
-		3. Social: homem comum, prestativo, amante (água - conexão)
-			1. aqui, você é 
-		4. Liberdade: rebelde, bobo da corte e explorador (ar)
+		4. **Como Usar**: Use a energia do ar para inspirar liberdade e expansão de pensamento.
+	5. **Vazio**: visionário (éter - energia da inspiração)
+		1.  **Conexão Espiritual**: Use o conceito de Éter para abordar temas mais espirituais ou místicos em sua comunicação. Isso pode ser particularmente eficaz se você estiver falando sobre meditação, consciência ou autoconhecimento.
+		2. **Profundidade e Complexidade**: O Éter pode ser usado para adicionar uma camada de profundidade e complexidade às suas mensagens, permitindo que você explore temas que vão além do mundo físico e tangível.
+		3. **Harmonia e Equilíbrio**: Ao incorporar o Éter, você pode criar uma sensação de completude e equilíbrio em sua comunicação, unindo os aspectos práticos e espirituais de sua mensagem.
+		4. **Inspiração e Aspiração**: O elemento Éter é muitas vezes associado ao que é elevado e inspirador. Utilizá-lo em sua comunicação pode ajudar a elevar o tom e inspirar seu público a aspirar a algo maior.
 
 ###### **COMO:**
 
