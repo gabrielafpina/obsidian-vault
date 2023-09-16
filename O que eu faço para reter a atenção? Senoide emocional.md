@@ -27,3 +27,4 @@ Em resumo, um "senoide emocional" pode ser entendido como uma série de altos e 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quais são os tipos de comunicação existentes?]]

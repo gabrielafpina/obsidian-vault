@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
+                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "63894c8efb39d1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são os tipos de comunicação existentes?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30355c350038c8ba",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoconhecimento",
+                "query": "comunicação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -165,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porque variar o tom de voz?.md",
+                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porque variar o tom de voz?.md",
+                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Porque variar o tom de voz?.md"
+                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md"
               }
             }
           },
@@ -243,13 +253,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6cc69c55a235d98",
+  "active": "f0cf5fc56f1daa31",
   "lastOpenFiles": [
+    "O que eu faço para reter a atenção? Senoide emocional.md",
+    "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
+    "Quais são os tipos de comunicação existentes?.md",
+    "Porque variar o tom de voz?.md",
     "Liderar é sobre acender uma chama no outro.md",
     "2. Literature Notes/Topics/Autoconsciência é o maior hack de negócios.md",
-    "Porque variar o tom de voz?.md",
-    "O que eu faço para reter a atenção? Senoide emocional.md",
-    "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
@@ -271,7 +282,6 @@
     "Excalidraw/Drawing 2023-09-15 11.17.08.excalidraw.md",
     "2. Literature Notes/Topics/Se viver corajosamente, você vai conhecer o fracasso.md",
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
-    "2. Literature Notes/Topics/Exercício de presença.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
