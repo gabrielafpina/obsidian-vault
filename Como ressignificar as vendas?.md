@@ -12,10 +12,16 @@
 **O QUE SÃO VENDAS?**
 - Exchange for value
 	- Quando você gera valor, você recebe por isso
+	- O nosso tempo tem muito valor. [[Atenção é o meu recurso mais valioso]].
 - Vendas é um ato de auto empoderamento, que você está convidando os seus clientes a abraçarem
 	- É inspirar e motivar pessoas a se escolherem e investirem em si mesmos, talvez, pela primeira vez em suas vidas
 		- Muitas pessoas tem medo e vergonha de investirem em si mesmos. Quando você vende, você quebra essas [[crenças]] e faz um impacto profundo na vida das pessoas
-- Vendas são um catalisador para a ação. É tão importante para o seu cliente te pagar, porque ele se compromete com a transformação dele. é o famoso skin in the game. Eles estão investidos, porque investiram. Muitas pessoas quando ganham algo de graça, elas tendem a não levar a sério
+- Vendas são um catalisador para a ação. É tão importante para o seu cliente te pagar, porque ele se compromete com a transformação dele. é o famoso skin in the game. Eles estão investidos, porque investiram. Muitas pessoas quando ganham algo de graça, elas tendem a não levar a sério e a não ter uma profunda transformação.
+	- Quando a pessoa paga, ela se compromete com o processo. Você não está vendendo por você, você vende por eles. Porque se eles estão com o skin in the game, eles ficam mais comprometidos a executar. É empoderamento para o cliente.
+- Para você, as vendas são owning your value, your worth. Você passa a confiar mais em si mesmo e, também, a se empoderar.
+	- Inerentemente, o seu tempo não tem valor para ninguém, apenas para você. Se você não se valorizar, ninguém vai te valorizar. [[As pessoas te tratam como você permite que elas te tratem]].
+		- As pessoas querem resultados. Elas querem saber se você pode ajudá-los. No coaching, você não troca o seu tempo por dinheiro. Você troca resultado e valor por dinheiro.
+- Vendas é uma exchange of energy
 
 É importante parar de se contar histórias sobre o que é vendas. Você não está roubando de ninguém, você está agregando valor para a vida de pessoas de forma íntegra. Quando você opera a partir do seu coração, você prospera. [[Tudo que é feito conscientemente prospera, vem em abundância e dá certo]].
 
