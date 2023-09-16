@@ -16,11 +16,13 @@
 		7. Traumas
 		8. Vícios
 		9. Frustração em não estar vivendo o seu propósito, de não estar vivendo o seu melhor
+			1. Se sentir um fracasso, um inútil
 	3. Quais são desejos profundos?
 		1. Um relacionamento expansivo e saudável
 		2. Dinheiro e abundância
-		3. 
 
+
+Todo conteúdo que você faz é um ato de vendas, porque vendas é um enrollment game.
 ###### **COMO:**
 
 ###### **PENSADORES:**
