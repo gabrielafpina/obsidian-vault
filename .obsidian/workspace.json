@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -175,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
+                "file": "Porque variar o tom de voz?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
+                "file": "Porque variar o tom de voz?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md"
+                "file": "Porque variar o tom de voz?.md"
               }
             }
           },
@@ -253,7 +255,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0cf5fc56f1daa31",
+  "active": "a6cc69c55a235d98",
   "lastOpenFiles": [
     "O que eu faço para reter a atenção? Senoide emocional.md",
     "2. Literature Notes/Topics/A moeda mais valiosa do mundo é a atenção.md",
