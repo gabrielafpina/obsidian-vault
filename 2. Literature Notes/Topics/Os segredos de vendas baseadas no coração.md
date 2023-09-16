@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-1. Meet them at one or 2 places: profunda dor ou profundo desejo.
+1. **Meet them at one or 2 places: profunda dor ou profundo desejo**.
 	1. Tenha cuidado para não vender as consequências do trabalho. Quais são as dificuldades do seu cliente? O que ele mais quer?
 	2. Quais são algumas dores profundas?
 		1. Luto
@@ -20,7 +20,12 @@
 	3. Quais são desejos profundos?
 		1. Um relacionamento expansivo e saudável
 		2. Dinheiro e abundância
-
+2. **Criação de confiança**
+	1. People don´t care how much you know, until they know how much you care
+		1. Por isso, esteja presente, caring, na sua energia, na forma como você show up para vender, para criar o seu conteúdo. Esteja 100% presente e demonstre o seu cuidado e carinho. A comunicação não verbal é muito mais importante do que o que sai da sua boca. [[Quais são os tipos de comunicação existentes?]] Isso é o que cria confiança
+		2. Você também cria confiança sendo consistente no seu conteúdo, principalmente. Estando presente, apaixonado, dando o seu melhor para as outras pessoas e por você 
+3. Crença
+	1. É importante você acreditar profundamente que o que você vende tem o poder de transformar a vida daquela pessoa. As pessoas sabem quando ´
 
 Todo conteúdo que você faz é um ato de vendas, porque vendas é um enrollment game.
 ###### **COMO:**
