@@ -26,6 +26,8 @@ Energia arquetípica
 
 Em todo culto espiritual a música está associada, nos filmes, nos cultos. Porque quando você vai na Igreja e tem uma música de fundo, aquela música dita o tom do que você está assistindo. O segredo é manter as pessoas engajadas no auditivo, visual e cinestésico ao mesmo tempo. [[VACOG]]
 
+[[Liderar é sobre acender uma chama no outro]]. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

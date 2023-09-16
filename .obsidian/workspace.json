@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30355c350038c8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liderar é sobre acender uma chama no outro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porque variar o tom de voz?.md",
+                "file": "Liderar é sobre acender uma chama no outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porque variar o tom de voz?.md",
+                "file": "Liderar é sobre acender uma chama no outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Porque variar o tom de voz?.md"
+                "file": "Liderar é sobre acender uma chama no outro.md"
               }
             }
           },
@@ -231,10 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a6cc69c55a235d98",
+  "active": "30355c350038c8ba",
   "lastOpenFiles": [
-    "O que eu faço para reter a atenção? Senoide emocional.md",
     "Porque variar o tom de voz?.md",
+    "Liderar é sobre acender uma chama no outro.md",
+    "O que eu faço para reter a atenção? Senoide emocional.md",
     "2. Literature Notes/Topics/A moeda mais importante é a atenção.md",
     "2. Literature Notes/Topics/Atenção é o meu recurso mais valioso.md",
     "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
@@ -259,7 +272,6 @@
     "2. Literature Notes/Topics/O que significa ser um coach?.md",
     "2. Literature Notes/Topics/Exercício de presença.md",
     "2. Literature Notes/Topics/Somos programados biologicamente para ligar pra opinião alheia.md",
-    "2. Literature Notes/Topics/Quando você se compromete, não é uma questão de 'se', é uma questão de 'quando'.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
