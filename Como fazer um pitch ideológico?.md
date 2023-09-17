@@ -17,7 +17,7 @@ O *racional* é só um detalhe. Esse argumento serve só como quebra de objeçã
 O que usar em volta disso? Ancoragem e gatilhos que façam a pessoa chegar mais rápido na conclusão.
 - **Ancoragem**:
 - **Gatilhos**: não são os gatilhos mentais da copy. O gatilho é uma abertura de looping. É uma antecipação de percepção. Então, o tempo todo, eu antecipo a sua percepção do que eu estou entregando.
-- **Narrativa:** use o storyelling a seu favor. Aprenda a 
+- **Narrativa:** use o storyelling a seu favor. Aprenda a contar uma história sobre identidade, emoção e pertencimento. O pitch que mais converte é uma istória sobre identidade (quem é você depois da compra), emoção (como eu me sinto) e pertencimento (a que eu pertenço?)
 
 ###### **COMO:**
 
