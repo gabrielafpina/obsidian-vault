@@ -53,9 +53,14 @@
             "id": "628bfea9fc2bb9ea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Calendário Editorial GP.md"
+                "file": "6. Creator/Products/Workshop/Untitled.canvas",
+                "viewState": {
+                  "x": 243.6600000000004,
+                  "y": 46.49999999999995,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -205,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Calendário Editorial GP.md",
+                "file": "6. Creator/Products/Workshop/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Calendário Editorial GP.md",
+                "file": "6. Creator/Products/Workshop/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Calendário Editorial GP.md"
+                "file": "6. Creator/Products/Workshop/Untitled.canvas"
               }
             }
           },
@@ -286,8 +291,10 @@
   },
   "active": "628bfea9fc2bb9ea",
   "lastOpenFiles": [
-    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
+    "6. Creator/Products/Untitled.canvas",
+    "6. Creator/Products/Workshop/Untitled.canvas",
     "Excalidraw/Calendário Editorial GP.md",
+    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
@@ -312,13 +319,11 @@
     "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
     "2. Literature Notes/Topics/Seja o guia, não o guru.md",
     "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
-    "2. Literature Notes/Topics/Como criar conteúdo viral?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-12 às 17.56.43.png",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
-    "6. Creator/Products/Untitled.canvas",
     "Excalidraw",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-11 às 10.31.06.png",
     "Captura de Tela 2023-09-11 às 10.27.34.png",

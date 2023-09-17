@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"14eaba067cbb6ac0","x":-193,"y":-50,"width":250,"height":107,"type":"text","text":"**Dia 1**\n- Roda da Vida\n- Metas SMART"},
+		{"id":"871901fd45a9d1b6","type":"text","text":"**Dia **\n- Âncora de Carreira","x":549,"y":-50,"width":250,"height":107},
+		{"id":"51be53da65fa6e0c","type":"text","text":"**Dia 2**\n- Propósito","x":117,"y":-50,"width":250,"height":107}
+	],
+	"edges":[]
+}
