@@ -16,6 +16,7 @@
 	- **O GRANDE DESAFIO:** Como eu te introduzo para a importância de um assunto, de forma que eu possa construir um raciocínio em cima e você se interessar?
 - O que todo mundo precisa: health, wealth, relationships.
 - 'Your brand is your self' - [[Dan Koe]]
+- ´You are your own niche´ - [[Victor Oddo]]
 
 **COMO:**
 É muito simples:
@@ -80,3 +81,4 @@ O nicho mais rentável é você.
 
 **Sul: para onde vai**
 - O crescimento contínuo é o que faz o sucesso
+- [[Ser você mesmo é o segredo para o sucesso]]
