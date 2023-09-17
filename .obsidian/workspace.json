@@ -43,30 +43,6 @@
             }
           },
           {
-            "id": "cec7f06380cea800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como os líderes de movimento vendem?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17d807d0b163604e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como fazer um pitch ideológico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dd745852973ae490",
             "type": "leaf",
             "state": {
@@ -77,21 +53,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "88a56cb3ed817e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como fazer um pitch ideológico?.md",
+                "file": "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como fazer um pitch ideológico?.md",
+                "file": "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como fazer um pitch ideológico?.md"
+                "file": "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md"
               }
             }
           },
@@ -278,11 +242,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17d807d0b163604e",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "Qual é o pitch que mais converte?.md",
-    "Como fazer um pitch ideológico?.md",
-    "Como os líderes de movimento vendem?.md",
+    "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md",
+    "2. Literature Notes/Topics/Como os líderes de movimento vendem?.md",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
