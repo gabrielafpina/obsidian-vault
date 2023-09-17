@@ -21,6 +21,10 @@ Existem 3 níveis de oferta:
 	2. Toda oferta ideológica *inclui* a emocional e a racional.
 
 [[Como fazer um pitch ideológico?]]
+
+Todo lançamento, toda oferta, tem que ser como uma eleição. Os políticos sempre falam sobre como quando ele for eleito o Brasil será da forma XPTO. Como ´nã
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
