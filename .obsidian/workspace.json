@@ -45,7 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ser você mesmo é o segredo para o sucesso.md",
+                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3229f6711a060b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ser você mesmo é o segredo para o sucesso.md",
+                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ser você mesmo é o segredo para o sucesso.md",
+                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ser você mesmo é o segredo para o sucesso.md"
+                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md"
               }
             }
           },
@@ -263,10 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6469d15db00648b",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+    "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
-    "Ser você mesmo é o segredo para o sucesso.md",
     "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
     "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
     "2. Literature Notes/Topics/Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
@@ -287,7 +301,6 @@
     "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
     "2. Literature Notes/Topics/Tudo tem um propósito.md",
     "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
-    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Seja o guia, não o guru.md",
     "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
     "2. Literature Notes/Topics/Como criar conteúdo viral?.md",

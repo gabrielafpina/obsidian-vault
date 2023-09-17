@@ -21,5 +21,6 @@ Quanto mais você encarna a sua verdadeira personalidade, mais as pessoas se atr
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Se você não está vendendo, é porque você não tem personalidade]]
 
 **Sul: para onde vai**
