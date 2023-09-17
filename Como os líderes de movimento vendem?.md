@@ -22,7 +22,7 @@ Existem 3 níveis de oferta:
 
 [[Como fazer um pitch ideológico?]]
 
-Todo lançamento, toda oferta, tem que ser como uma eleição. Os políticos sempre falam sobre como quando ele for eleito o Brasil será da forma XPTO. Como ´nã
+Todo lançamento, toda oferta, tem que ser como uma eleição. Os políticos sempre falam sobre como quando ele for eleito o Brasil será da forma XPTO. Como ´nós seremos´, ´nós faremos´, etc.
 
 
 ###### **COMO:**
