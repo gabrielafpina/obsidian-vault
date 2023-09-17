@@ -18,6 +18,9 @@ Existem 3 níveis de oferta:
 3. **Oferta ideológica** é feita em uma eleição, nos grandes lançamentos. É aquela que não se aprende apenas à emoção, mas ao propósito que temos que temos junto. 
 	1. Você está comprando uma causa conjunta, um sentimento coletivo, uma causa maior do que você. Não tem nada que valha mais do que algo maior do que você. Você se sente pertencente a algo maior.
 		1. O ser humano sempre busca algo que é maior do que ele. Gostamos de acreditar em algo maior, porque quando fazemos isso, nasce a **fé**.
+	2. Toda oferta ideológica *inclui* a emocional e a racional.
+
+[[Como fazer um pitch ideológico?]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
