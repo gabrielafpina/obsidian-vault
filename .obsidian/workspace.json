@@ -16,40 +16,6 @@
             }
           },
           {
-            "id": "f1502de2375de79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "120be8de39155bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O nicho mais rentável é você.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6469d15db00648b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
-              }
-            }
-          },
-          {
             "id": "628bfea9fc2bb9ea",
             "type": "leaf",
             "state": {
@@ -71,6 +37,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cec7f06380cea800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como os líderes de movimento vendem?.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Workshop/Untitled.canvas",
+                "file": "Como os líderes de movimento vendem?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Workshop/Untitled.canvas",
+                "file": "Como os líderes de movimento vendem?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Workshop/Untitled.canvas"
+                "file": "Como os líderes de movimento vendem?.md"
               }
             }
           },
@@ -288,14 +266,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "628bfea9fc2bb9ea",
+  "active": "cec7f06380cea800",
   "lastOpenFiles": [
-    "6. Creator/Products/Untitled.canvas",
+    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+    "Como os líderes de movimento vendem?.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
+    "6. Creator/Products/Untitled.canvas",
     "Excalidraw/Calendário Editorial GP.md",
     "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
-    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
     "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
