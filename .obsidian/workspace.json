@@ -43,11 +43,19 @@
             "id": "b6469d15db00648b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Esteira de Produtos Gabriela Pina.md"
+              }
+            }
+          },
+          {
+            "id": "628bfea9fc2bb9ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-17 13.58.08.excalidraw.md"
               }
             }
           },
@@ -88,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
+                "file": "Excalidraw/Drawing 2023-09-17 13.58.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
+                "file": "Excalidraw/Drawing 2023-09-17 13.58.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md"
+                "file": "Excalidraw/Drawing 2023-09-17 13.58.08.excalidraw.md"
               }
             }
           },
@@ -276,10 +284,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "628bfea9fc2bb9ea",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
+    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
+    "Excalidraw/Drawing 2023-09-17 13.58.08.excalidraw.md",
     "2. Literature Notes/Topics/Ser você mesmo é o segredo para o sucesso.md",
+    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/O nicho mais rentável é você.md",
     "2. Literature Notes/Topics/Os segredos de vendas baseadas no coração.md",
     "2. Literature Notes/Topics/Como ressignificar as vendas?.md",
@@ -297,14 +307,12 @@
     "6. Creator/Products/Mentoria Individual/Plano 3 meses.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "6. Creator/Products/Mentoria Individual/Programa de Coaching.md",
-    "Excalidraw/Esteira de Produtos Gabriela Pina.md",
     "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
     "2. Literature Notes/Topics/Tudo tem um propósito.md",
     "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
     "2. Literature Notes/Topics/Seja o guia, não o guru.md",
     "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
     "2. Literature Notes/Topics/Como criar conteúdo viral?.md",
-    "2. Literature Notes/Topics/Comece a se ver como um criador de conteúdo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
     "5. Shots, Images & PDFs/image-asset.jpeg",
