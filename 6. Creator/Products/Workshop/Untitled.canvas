@@ -1,8 +1,13 @@
 {
 	"nodes":[
 		{"id":"14eaba067cbb6ac0","x":-193,"y":-50,"width":250,"height":107,"type":"text","text":"**Dia 1**\n- Roda da Vida\n- Metas SMART"},
-		{"id":"871901fd45a9d1b6","type":"text","text":"**Dia **\n- Âncora de Carreira","x":549,"y":-50,"width":250,"height":107},
-		{"id":"51be53da65fa6e0c","type":"text","text":"**Dia 2**\n- Propósito","x":117,"y":-50,"width":250,"height":107}
+		{"id":"4fea0c9a33195df7","type":"text","text":"**Dia 2**\n- Autossabotagem\n- Criação de Hábitos\n- Como ser consistente","x":114,"y":-50,"width":250,"height":143},
+		{"id":"51be53da65fa6e0c","type":"text","text":"**Dia 3**\n- Como encontrar seu Propósito\n- Fórmula do Entusiasmo\n- Âncora de Carreira","x":416,"y":-50,"width":250,"height":161},
+		{"id":"c31ae5996368f2f7","type":"text","text":"**Dia 4**\n- Criando e vivendo o seu plano de ação\n- Como começar a criar conteúdo e vender meu serviço online\n- Descobrindo o seu nicho","x":756,"y":-50,"width":250,"height":235}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"95c6048394e823df","fromNode":"14eaba067cbb6ac0","fromSide":"right","toNode":"4fea0c9a33195df7","toSide":"left"},
+		{"id":"db8af14e63ef317d","fromNode":"4fea0c9a33195df7","fromSide":"right","toNode":"51be53da65fa6e0c","toSide":"left"},
+		{"id":"d84f759160640ba2","fromNode":"51be53da65fa6e0c","fromSide":"right","toNode":"c31ae5996368f2f7","toSide":"left"}
+	]
 }
