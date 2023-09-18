@@ -4,6 +4,8 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Propõe que temos um corpo atômico. Traz a biologia na sua síntese.
+Existem 4 tipos de mecânicas humanas.
 
 ###### **COMO:**
 
