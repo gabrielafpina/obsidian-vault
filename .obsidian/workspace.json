@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é o jeito certo de criar uma persona?.md",
+                "file": "Qual é a anatomia de um conteúdo viral?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é o jeito certo de criar uma persona?.md",
+                "file": "Qual é a anatomia de um conteúdo viral?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é o jeito certo de criar uma persona?.md"
+                "file": "Qual é a anatomia de um conteúdo viral?.md"
               }
             }
           },
@@ -278,11 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbf1ae538b296e8b",
+  "active": "bcdef278133c6e13",
   "lastOpenFiles": [
+    "Qual é o jeito certo de criar uma persona?.md",
     "Qual é a anatomia de um conteúdo viral?.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
-    "Qual é o jeito certo de criar uma persona?.md",
     "2. Literature Notes/Topics/Consciência Coletiva.md",
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md",
