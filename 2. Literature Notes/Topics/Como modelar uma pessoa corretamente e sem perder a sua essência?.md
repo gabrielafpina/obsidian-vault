@@ -14,9 +14,7 @@
     
 5. **Ação Maciça**: Uma vez que você tem o modelo, é hora de agir. A ação é onde a mágica acontece. Nada acontece sem ação.
     
-6. **Monitore e Ajuste**: Esteja atento aos resultados. Se algo não está funcionando, ajuste sua abordagem.
-    
-7. **Refine e Melhore**: A modelagem é um processo contínuo. Sempre há algo novo para aprender e maneiras de aprimorar.
+6. **Monitore e Ajuste**: Esteja atento aos resultados. Se algo não está funcionando, ajuste sua abordagem. A modelagem é um processo contínuo. Sempre há algo novo para aprender e maneiras de aprimorar.
 
 ###### **COMO:**
 
