@@ -18,13 +18,13 @@ Os efeitos podem ser internos ou externos, ou seja, um pensamento pode ser a cau
 
 E um efeito pode derivar de várias causas, um pensamento, ação, reação. Vai se cascateando, se desenrolando. Quando é um cascateamento de causas, se eu percebo uma delas através da [[Auto Observação]], o efeito da causa pode acabar ali. [[Teorema do queijo suíço]]. Por isso, é muito importante observar o que está acontecendo dentro de você, porque se você muda dentro, fora muda. [[Lei da Correspondência]]. Eu posso cancelar a Causa e o Efeito acaba.
 	Isso serve tanto para o positivo, quanto para o negativo.
-	Se eu começo o dia já com pensamentos negativos, o meu dia tem a tendência a ser péssimo. Agora, se eu começo o meu dia conectado com o poder da gratidão, tudo que vai acontecer depois dali tem a mesma energia. [[Existem Eventos Externos e existe o Estado Interno]]
+	Se eu começo o dia já com pensamentos negativos, o meu dia tem a tendência a ser péssimo. Agora, se eu começo o meu dia conectado com o poder da gratidão, tudo que vai acontecer depois dali tem a mesma energia. [[Existem Eventos Externos e existe o Estado Interno]]. Se eu to vibrando positivamente, até algo que não está legal pode vir para essa frequência. E o contrário é recíproco.
 
 Pensamentos, ações e comportamentos que eu já tive, eu não tenho como mudar. Mas se eu tomo consciência do porquê, da forma com que eu penso, tudo a partir daí pode mudar. Assim, o poder de observação e trazer consciência para o que eu estou pensando é muito poderoso. Porque eu penso o que eu penso?
 
 [[Absolutamente tudo que acontece na minha vida importa]]. 
 
-###### **COMO:**
+Eu sou o único responsável por absolutamente tudo o que acontece na minha vida  e eu sou responsável pela forma como eu interpreto tudo isso que está acontecendo na minha vida. Uma coisa não gera outra coisa idêntica, mas sim, uma causa anterior vai gerar uma causa anterior para que outra coisa aconteça. Por isso, eu não sou só um produto do meu meio (do que está acontecendo), eu sou o produtor das minhas ações e, consequentemente, das reações que as minhas ações causam.
 
 ###### **PENSADORES:**
 

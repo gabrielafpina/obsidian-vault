@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existem Eventos Externos e existe o Estado Interno.md",
+                "file": "Lei de Causalidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existem Eventos Externos e existe o Estado Interno.md",
+                "file": "Lei de Causalidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existem Eventos Externos e existe o Estado Interno.md"
+                "file": "Lei de Causalidade.md"
               }
             }
           },
@@ -314,10 +314,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca95fd738480a167",
+  "active": "0610302ae1ec0ef3",
   "lastOpenFiles": [
-    "Lei de Causalidade.md",
     "Existem Eventos Externos e existe o Estado Interno.md",
+    "Lei de Causalidade.md",
     "Teorema do queijo suíço.md",
     "Absolutamente tudo que acontece na minha vida importa.md",
     "Roda de Samsara.md",
