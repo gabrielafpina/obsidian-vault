@@ -23,8 +23,8 @@
               "state": {
                 "file": "6. Creator/Products/Workshop/Untitled.canvas",
                 "viewState": {
-                  "x": 424.1066379376256,
-                  "y": -70.3406073664716,
+                  "x": 366.211262028846,
+                  "y": 90.19996944999002,
                   "zoom": -0.24180255442857743
                 }
               }
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md",
+                "file": "6. Creator/Products/Workshop/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md",
+                "file": "6. Creator/Products/Workshop/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md"
+                "file": "6. Creator/Products/Workshop/Untitled.canvas"
               }
             }
           },
@@ -290,10 +290,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "628bfea9fc2bb9ea",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qual é a anatomia de um conteúdo viral?.md",
     "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md",
+    "2. Literature Notes/Topics/Qual é a anatomia de um conteúdo viral?.md",
     "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
     "2. Literature Notes/Topics/Consciência Coletiva.md",
