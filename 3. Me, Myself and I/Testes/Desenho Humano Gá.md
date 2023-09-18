@@ -1,0 +1,8 @@
+**TIPO:** 
+**ESTRATÉGIA:**
+**ASSINATURA:**
+**TEMA DO NÃO-SER:**
+**AUTORIDADE:**
+**DEFINIÇÃO:** 
+**PERFIL:**
+**CRUZ DA ENCARNAÇÃO:** Ângul

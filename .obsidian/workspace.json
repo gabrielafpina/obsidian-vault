@@ -4,167 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d97d8aa9a10c3e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10a2847c694eea99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "409570ec4752229b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício de modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ff1b88557b32de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bf64dc8cbc67dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dcaa2642b9103ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/estados emocionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "61f51236d3ab74f6",
         "type": "tabs",
         "children": [
-          {
-            "id": "b902eaf31821a827",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1a977959a47a1037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0610302ae1ec0ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei de Causalidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36bbede48c0efd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252978d2973eae9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46fbbd3a189beaa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são algumas posturas de poder?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cbeeb395eebf327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33a64139a57adadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "628bfea9fc2bb9ea",
             "type": "leaf",
@@ -181,31 +23,31 @@
             }
           },
           {
-            "id": "f3229f6711a060b1",
+            "id": "34c4277968f856dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
+                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bcdef278133c6e13",
+            "id": "580a0934ec80f74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a anatomia de um conteúdo viral?.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md"
               }
             }
           },
@@ -393,21 +235,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10a2847c694eea99",
+  "active": "580a0934ec80f74a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Exercício de modelagem.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-    "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
-    "2. Literature Notes/Topics/Fake it till you make it.md",
-    "2. Literature Notes/Topics/estados emocionais.md",
-    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
-    "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
+    "2. Literature Notes/Topics/O que é o desenho humano?.md",
+    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+    "6. Creator/Products/Workshop/Untitled.canvas",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
-    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
-    "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "2. Literature Notes/Topics/Quais são algumas posturas de poder?.md",
+    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
+    "2. Literature Notes/Topics/estados emocionais.md",
+    "2. Literature Notes/Topics/Fake it till you make it.md",
+    "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
+    "2. Literature Notes/Topics/Exercício de modelagem.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
+    "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
+    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
+    "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
     "2. Literature Notes/Topics/Absolutamente tudo que acontece na minha vida importa.md",
     "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
     "2. Literature Notes/Topics/Lei de Causalidade.md",
@@ -415,13 +260,10 @@
     "2. Literature Notes/Topics/Teorema do queijo suíço.md",
     "2. Literature Notes/Topics/Roda de Samsara.md",
     "2. Literature Notes/Topics/Connect the dots.md",
-    "6. Creator/Products/Workshop/Untitled.canvas",
     "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md",
     "2. Literature Notes/Topics/Qual é a anatomia de um conteúdo viral?.md",
     "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
-    "2. Literature Notes/Topics/Consciência Coletiva.md",
-    "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
