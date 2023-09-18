@@ -21,11 +21,14 @@ As ideias, sendo verdade, ou não, serão reproduzidas pelas tribos, cada um com
 
 Todo desejo de consumo é mimético. Não existe consumo sem massificação. As pessoas passam a desejar o seu produto, porque pessoas ao seu redor também estão comprando. Por isso que a sua comunicação não deve ser baseada no indivíduo. **Não queira falar com o ser humano único**. Pare de falar ´você´, comece a falar ´nós´. Explore ideias, desejos, dores da consciência coletiva e do inconsciente coletivo. Todo vídeo viral trabalha com ideias coletivas, na linha ou entrelinha.
 
-Qual é o jeito certo de criar uma persona? Persona ideológica. Mapeio o meio em que o sujeito está inserido, porque ai eu sou capaz de compreendê-lo, porque ai eu entendo o meio, não o sujeito. Pare de trabalhar sonhos individuais, e comece a trabalhar sonhos coletivos. Toda comunicação só se comunica para 4 coisas dentro do [[Inconsciente Coletivo]]:
-1. Liberdade
-2. Socialização: pertencimento, amor ao próximo, amizade, companheirismo, cumplicidade
-3. Ordem: beleza, organização, certeza.
-4. Satisfação do Ego: poder, influência, transformação, vencer, disciplina
+Qual é o jeito certo de criar uma persona? Persona ideológica. Mapeio o meio em que o sujeito está inserido, porque ai eu sou capaz de compreendê-lo, porque ai eu entendo o meio, não o sujeito. Pare de trabalhar sonhos individuais, e comece a trabalhar sonhos coletivos. Toda comunicação só se comunica para 4 desejos dentro do [[Inconsciente Coletivo]] (a massa só quer essas 4 coisas e dependendo do nível onde ele está, ele quer mais algumas do que outras. O povão quer mais liberdade e socialização - menos sofisticação e mais escala; pagam mais barato. No topo da pirâmide, as pessoas tendem a querer mais ordem e satisfação do ego - mais sofisticação e menos escala; pagam mais caro):
+1. **Liberdade**: financeira, espiritual (ele afirmou que espiritualidade tem mais a ver com satisfação do ego)
+2. **Socialização**: pertencimento, amor ao próximo, amizade, companheirismo, cumplicidade
+3. **Ordem**: beleza, organização, certeza.
+4. **Satisfação do Ego**: poder, influência, transformação, vencer, disciplina
+
+Todo livro best-seller, trata mais de liberdade e socialização. Livros dee
+Boa parte do resultado que você não tem, é porque você acredita em maluquice. Complicou demais, é porque é maluquice.
 
 ###### **COMO:**
 
