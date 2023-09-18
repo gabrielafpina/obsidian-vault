@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"51be53da65fa6e0c","type":"text","text":"**Dia 3**\n- O que é achar seu propósito, na prática (como usar tudo que aprendeu para encontrar seu propósito)\n\t- Espiritualidade\n- Fórmula do Entusiasmo\n- Âncora de Carreira","x":416,"y":-50,"width":250,"height":321},
 		{"id":"f6a1bc68ea994b07","x":239,"y":-304,"width":250,"height":154,"type":"text","text":"**Imersão **\n\nVocê ta pronto pra mudar a sua vida, ou você não está."},
-		{"id":"c31ae5996368f2f7","type":"text","text":"**Dia 4**\n- Como se lançar para o mundo e começar a criar conteúdo online\n- Descobrindo o seu nicho","x":756,"y":-22,"width":250,"height":235},
 		{"id":"4fea0c9a33195df7","type":"text","text":"**Dia 2**\n- Criação de Hábitos\n\t- Meditação\n\t- Reconexão com a criança interior\n- Mudança de identidade\n- Como ser consistente\n\n","x":114,"y":-12,"width":250,"height":253},
-		{"id":"14eaba067cbb6ac0","x":-196,"y":-21,"width":250,"height":235,"type":"text","text":"**Dia 1**\n- Roda da Vida\n- Metas SMART\n\nOnde eu estou? Quem está perdido, precisa se encontrar e criar as metas para se estruturar."}
+		{"id":"14eaba067cbb6ac0","x":-193,"y":-2,"width":250,"height":235,"type":"text","text":"**Dia 1**\n- Roda da Vida\n- Metas SMART\n\nOnde eu estou? Quem está perdido, precisa se encontrar e criar as metas para se estruturar."},
+		{"id":"c31ae5996368f2f7","type":"text","text":"**Dia 4**\n- O que é achar seu propósito, na prática (como usar tudo que aprendeu para encontrar seu propósito)\n\t- Espiritualidade\n- Fórmula do Entusiasmo\n- Âncora de Carreira","x":759,"y":-32,"width":250,"height":295},
+		{"id":"51be53da65fa6e0c","type":"text","text":"**Dia 3**\n- Crenças\n- Valores pessoais\n\n*Material:* \n- Workbook de Crenças\n- Workbook de Valores","x":425,"y":5,"width":250,"height":221}
 	],
 	"edges":[
 		{"id":"95c6048394e823df","fromNode":"14eaba067cbb6ac0","fromSide":"right","toNode":"4fea0c9a33195df7","toSide":"left"},
