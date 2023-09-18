@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "9bf64dc8cbc67dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0dcaa2642b9103ba",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "61f51236d3ab74f6",
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md"
               }
             }
           },
@@ -357,10 +370,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10a2847c694eea99",
+  "active": "9bf64dc8cbc67dba",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/estados emocionais.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
