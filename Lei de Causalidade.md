@@ -17,8 +17,10 @@ Carma instantâneo. Você faz e na sequência, você já vê o efeito daquela Ca
 Os efeitos podem ser internos ou externos, ou seja, um pensamento pode ser a causa de algum efeito físico que acontece na minha vida. [[Todo pensamento sabotador tá cancelado]]. Não precisa ser algo que eu, de fato, faça, porque tudo começa na mente. [[Lei do Mentalismo]]. Assim, eu posso estar sendo impactado por um efeito que tem uma causa que passou apenas dentro da minha cabeça.
 
 E um efeito pode derivar de várias causas, um pensamento, ação, reação. Vai se cascateando, se desenrolando. Quando é um cascateamento de causas, se eu percebo uma delas através da [[Auto Observação]], o efeito da causa pode acabar ali. [[Teorema do queijo suíço]]. Por isso, é muito importante observar o que está acontecendo dentro de você, porque se você muda dentro, fora muda. [[Lei da Correspondência]]. Eu posso cancelar a Causa e o Efeito acaba.
+	Isso serve tanto para o positivo, quanto para o negativo.
+	Se eu começo o dia já com pensamentos negativos, o meu dia tem a tendência a ser péssimo. Agora, se eu começo o meu dia conectado com o poder da gratidão, tudo que vai acontecer depois dali tem a mesma energia. [[Existem Eventos Externos e existe o Estado Interno]]
 
-Pensamentos, ações e comportamentos que eu já tive, eu não tenho como mudar. Mas se eu tomo consciência do porquê, da forma com que eu penso, tudo a partir daí pode mudar.
+Pensamentos, ações e comportamentos que eu já tive, eu não tenho como mudar. Mas se eu tomo consciência do porquê, da forma com que eu penso, tudo a partir daí pode mudar. Assim, o poder de observação e trazer consciência para o que eu estou pensando é muito poderoso. Porque eu penso o que eu penso?
 
 [[Absolutamente tudo que acontece na minha vida importa]]. 
 
@@ -36,5 +38,6 @@ Pensamentos, ações e comportamentos que eu já tive, eu não tenho como mudar.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[crenças]]
 
 **Sul: para onde vai**

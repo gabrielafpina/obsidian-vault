@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "ca95fd738480a167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existem Eventos Externos e existe o Estado Interno.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e366cae37b4ecbc2",
             "type": "leaf",
             "state": {
@@ -115,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei de Causalidade.md",
+                "file": "Existem Eventos Externos e existe o Estado Interno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei de Causalidade.md",
+                "file": "Existem Eventos Externos e existe o Estado Interno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei de Causalidade.md"
+                "file": "Existem Eventos Externos e existe o Estado Interno.md"
               }
             }
           },
@@ -302,10 +314,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0610302ae1ec0ef3",
+  "active": "ca95fd738480a167",
   "lastOpenFiles": [
-    "Teorema do queijo suíço.md",
     "Lei de Causalidade.md",
+    "Existem Eventos Externos e existe o Estado Interno.md",
+    "Teorema do queijo suíço.md",
     "Absolutamente tudo que acontece na minha vida importa.md",
     "Roda de Samsara.md",
     "Connect the dots.md",
@@ -331,7 +344,6 @@
     "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",
     "2. Literature Notes/Topics/O que eu faço para reter a atenção? Senoide emocional.md",
     "2. Literature Notes/Topics/Liderar é sobre acender uma chama no outro.md",
-    "2. Literature Notes/Topics/O que faz uma música ser interessante?.md",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
     "Untitled.canvas",
