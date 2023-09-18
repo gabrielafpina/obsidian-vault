@@ -24,7 +24,10 @@ Pensamentos, ações e comportamentos que eu já tive, eu não tenho como mudar.
 
 [[Absolutamente tudo que acontece na minha vida importa]]. 
 
-Eu sou o único responsável por absolutamente tudo o que acontece na minha vida  e eu sou responsável pela forma como eu interpreto tudo isso que está acontecendo na minha vida. Uma coisa não gera outra coisa idêntica, mas sim, uma causa anterior vai gerar uma causa anterior para que outra coisa aconteça. Por isso, eu não sou só um produto do meu meio (do que está acontecendo), eu sou o produtor das minhas ações e, consequentemente, das reações que as minhas ações causam.
+Eu sou o único responsável por absolutamente tudo o que acontece na minha vida  e eu sou responsável pela forma como eu interpreto tudo isso que está acontecendo na minha vida. Uma coisa não gera outra coisa idêntica, mas sim, uma causa anterior vai gerar uma causa anterior para que outra coisa aconteça. Por isso, eu não sou só um produto do meu meio (do que está acontecendo), eu sou o produtor das minhas ações e, consequentemente, das reações que as minhas ações causam. Eu sou responsável. [[Lei da Vibração]]. A forma com que eu vibro é uma causa (e também pode ser um efeito) de coisas que podem acontecer durante o meu dia, porque se eu estou vibrando nessa frequência, eu vou atrair coisas vibrando nessa mesma frequência. 
+
+> [!important] Tudo que acontece é uma causa e eu sou de alguma forma responsável por ela e eu posso modificar isso através do meu pensamento, da minha [[Consciência]], da auto observação.
+
 
 ###### **PENSADORES:**
 
@@ -39,5 +42,6 @@ Eu sou o único responsável por absolutamente tudo o que acontece na minha vida
 
 **Norte: ideia/pergunta**
 - [[crenças]]
+- [[Você não vibra impunemente]]
 
 **Sul: para onde vai**
