@@ -10,7 +10,7 @@ Se você quer escalar seu negócio, precisa ter a capacidade de se comunicar com
 
 Se você quer ser a escolha óbvia no mercado digital, é importante masterizar isso.
 
-Lebon tem uma teoria que fala sobre o Contágio Social, a Coletivização dos Sonhos. A humanidade tende a coletivizar as ideias, então as ideias e percepções que temos sobre o mundo, os desejos, [[crenças]], etc., são em sua maioria, miméticos (aquilo que é espelhado de outra pessoa). Assim, os nossos desejos e medos são coletivos. A gente compra o que a gente vê outras pessoas comprando. A gente deseja o que vê outras pessoas desejando. Toda construção de busca da sociedade é mimética. O ser humano tende a espelhar desejos do grupo em que ele está inserid. Assim, se eu estoi no grupo de pessoas que todos usam Apple, eu vou querer fumar também.
+Lebon tem uma teoria que fala sobre o Contágio Social, a Coletivização dos Sonhos. A humanidade tende a coletivizar as ideias, então as ideias e percepções que temos sobre o mundo, os desejos, [[crenças]], etc., são em sua maioria, miméticos (aquilo que é espelhado de outra pessoa). Assim, os nossos desejos e medos são coletivos. A gente compra o que a gente vê outras pessoas comprando. A gente deseja o que vê outras pessoas desejando. Toda construção de busca da sociedade é mimética. O ser humano tende a espelhar desejos do grupo em que ele está inserido. Assim, se eu estou em um grupo de pessoas que todos usam Apple, eu vou querer fumar também.
 
 Assim, o ser humano quer viver e comprar sonhos coletivos. São buscas que as pessoas buscam juntos. Ex: liberdade, casamento, céu, poder, paz. São coisas que as pessoas sonham juntas.
 
@@ -19,13 +19,11 @@ Assim, o ser humano quer viver e comprar sonhos coletivos. São buscas que as pe
 
 As ideias, sendo verdade, ou não, serão reproduzidas pelas tribos, cada um com a sua versão. O ser humano tende a fazer o compartilhamento das ideias e as ideias vão se tornando verdade conforme o compartilhamento.
 
-Todo desejo de consumo é mimético. Não existe consumo sem massificação. As pessoas passam a desejar o seu produto, porque pessoas ao seu redor também estão comprando. Por isso que a sua comunicação não deve ser baseada no indivíduo. **Não queira falar com o ser humano único**. Pare de falar ´você´, comece a falar ´nós´. Explore ideias, desejos, dores da consciência coletiva e do inconsciente coletivo. Todo vídeo viral trabalha com ideias coletivas, na linha ou entrelinha.
-
 [[Qual é o jeito certo de criar uma persona?]] 
 
 Boa parte do resultado que você não tem, é porque você acredita em maluquice. Complicou demais, é porque é maluquice.
 
-Para quem você quer comunicar? O que ele quer? O que ele busca?
+[[Qual é a anatomia de um conteúdo viral?]]
 
 ###### **COMO:**
 
