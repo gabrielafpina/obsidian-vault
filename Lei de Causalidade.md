@@ -45,3 +45,4 @@ Eu sou o único responsável por absolutamente tudo o que acontece na minha vida
 - [[Você não vibra impunemente]]
 
 **Sul: para onde vai**
+- [[Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente]]
