@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0dcaa2642b9103ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "61f51236d3ab74f6",
@@ -76,18 +89,6 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e812cd198c57abd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -278,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
+                "file": "2. Literature Notes/Topics/estados emocionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md"
+                "file": "2. Literature Notes/Topics/estados emocionais.md"
               }
             }
           },
@@ -357,10 +358,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e812cd198c57abd5",
+  "active": "0dcaa2642b9103ba",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
+    "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
     "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
@@ -385,7 +387,6 @@
     "2. Literature Notes/Topics/Como atrair clientes certos?.md",
     "2. Literature Notes/Topics/Como fazer um pitch ideológico?.md",
     "Qual é o pitch que mais converte?.md",
-    "2. Literature Notes/Topics/Como os líderes de movimento vendem?.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",

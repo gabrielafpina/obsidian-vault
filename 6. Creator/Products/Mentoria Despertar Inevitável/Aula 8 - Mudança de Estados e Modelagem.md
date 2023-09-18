@@ -42,7 +42,10 @@
 			3. HABILIDADE DE LER OS OUTROS
 			4. ADAPTAÇÃO
 3. [[Como fazer uma mudança de identidade?]]
-	1. [[Meditação guiada de mudança de identidade]]
+	1. Entenda como você vê a si mesmo
+	2. Compreenda qual é a versão que você quer se tornar
+	3. Expanda a sua zona de conforto
+	4. [[Meditação guiada de mudança de identidade]]
 
 
 - MODELAGEM
