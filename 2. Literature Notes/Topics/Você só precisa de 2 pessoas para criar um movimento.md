@@ -10,7 +10,8 @@ Qual é o segredo para movimento? Empoderar o seu primeiro seguidor, cliente. De
 
 Quando eu passo sozinha, sou uma só, quando eu passo em 3, somos uma tribo. O ser humano quer duas coisas na vida: identidade (quem sou) e pertencimento (a que pertenço). Si que o ser humano busca a identidade no pertencimento. Ou seja, descubro quem sou, baseado na tribo a que pertenço. Somos moldados pela tribo que pertencemos. 
 
-Você está vendendo pouco, porque a comunicação está voltada para o ser humano, não para o pertenvimento, porque você esta vendendo um produto. Você tem que vender uma tribo, um movimento. 
+Você está vendendo pouco, porque a comunicação está voltada para o ser humano, não para o pertencimento, porque você esta vendendo um produto. Você tem que vender uma tribo, um movimento. Somos criados para pertencer em sociedade. Mapeie a tribo, quem somos ´nós´, o que acreditamos, o que ouvimos, o que aprendemos, quem somos nós, quais são os nossos desejos, quais são os nossos sonhos. [[Qual é o jeito certo de criar uma persona?]] O seu público é você. 
+	Passe tempo mapeando o **sonho coletivo.** 
 
 ###### **COMO:**
 
