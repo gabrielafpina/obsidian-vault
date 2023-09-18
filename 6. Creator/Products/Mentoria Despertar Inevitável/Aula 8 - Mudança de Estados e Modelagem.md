@@ -16,8 +16,10 @@
 		2. [[Fisiologia]]
 			1. Perguntar como eles estão sentados nesse momento
 			2. [[A sua postura dita a forma como você se sente e a forma como você se sente dita a sua postura]]. Um influencia o outro
-				2. [[Quais são algumas posturas de poder?]]
+				2. [[Quais são algumas posturas de poder?]]: mulher maravilha, vitorioso, o vilão, o CEO, o cara do metrô
 				3. [[Como usar a congruência a seu favor?]]
+					1. Congruência é força. Pessoas consistentemente bem-sucedidas são aquelas que podem confiar em todos os seus recursos, mentais e físicos, para trabalharem juntos para a realização de uma tarefa. 
+					2. Se você diz: “Eu com certeza farei aquilo”, e sua fisiologia está unificada — isto é, sua postura, sua expressão facial, seu ritmo de respiração, a qualidade de seus gestos e movimentos, e suas palavras e tonalidade estão de acordo —, com certeza você fará. 
 			3. [[A base da saúde é uma corrente sanguínea saudável e você consegue isso através da respiração]]
 				1. Exercício de respiração para eles levarem para a vida - [[Como respirar e limpar o meu sistema?]]
 			4. [[Fake it till you make it]]
@@ -26,7 +28,19 @@
 	1. [[Se alguns podem, todos podem]]
 	2. Modelagem é o processo de identificar e copiar as estratégias que fizeram outras pessoas bem-sucedidas.
 	3. [[Como modelar uma pessoa corretamente e sem perder a sua essência?]]
+		1. Escolha Seu Modelo com Sabedoria
+		2. Desconstrua o Sucesso
+		3. Acredite em Você Mesmo
+		4. Adapte ao Seu Estilo
+		5. Ação Maciça
+		6. Monitore e Ajuste
 	4. [[Fórmula do Sucesso Definitivo]]
+		1. Ter sucesso na vida não é um acidente. Existe um passo a passo lógico e claro para tal.
+		2. Passos:
+			1. META
+			2. PROVIDÊNCIAS
+			3. HABILIDADE DE LER OS OUTROS
+			4. ADAPTAÇÃO
 3. [[Como fazer uma mudança de identidade?]]
 	1. [[Meditação guiada de mudança de identidade]]
 
