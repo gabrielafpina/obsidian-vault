@@ -113,57 +113,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f46161b5b3c62bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você só precisa de 2 pessoas para criar um movimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf1ae538b296e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67ebeb780c448a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Consciência Coletiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd745852973ae490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Para a maior parte das pessoas é mais fácil vender a merda dos outros do que vender o seu próprio ouro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teorema do queijo suíço.md",
+                "file": "Lei de Causalidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teorema do queijo suíço.md",
+                "file": "Lei de Causalidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teorema do queijo suíço.md"
+                "file": "Lei de Causalidade.md"
               }
             }
           },
@@ -328,8 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,10 +302,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e366cae37b4ecbc2",
+  "active": "0610302ae1ec0ef3",
   "lastOpenFiles": [
-    "Lei de Causalidade.md",
     "Teorema do queijo suíço.md",
+    "Lei de Causalidade.md",
     "Absolutamente tudo que acontece na minha vida importa.md",
     "Roda de Samsara.md",
     "Connect the dots.md",
