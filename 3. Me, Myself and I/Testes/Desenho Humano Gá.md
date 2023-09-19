@@ -41,3 +41,4 @@
 - Quando não te perguntam algo, não tem nada a ver com você. Tem que ter cautela em se colocar como salvadora de outras pessoas.
 - Centros da cabeça aberta: é um lugar para o outro, onde tem **potencial de mudar o que a outra pessoa pensa** sobre
 - Centro da sobrevivência do agora:
+- A sua história é auxiliar as outras pessoas a verem o valor delas
