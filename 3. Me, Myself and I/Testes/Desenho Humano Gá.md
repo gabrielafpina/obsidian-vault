@@ -29,5 +29,8 @@
 	Isso sugere que você tem um caminho de vida focado em **encontrar seu próprio "paraíso" ou estado ideal**. Você provavelmente busca experiências que lhe ofereçam uma sensação de realização e bem-estar.
 
 **CARACTERÍSTICAS:**
-- Atração de pessoas intelectuais
+- Atração de pessoas intelectuais, mas que não conseguem transformar em ato o que elas pensam, então coloco energia para que as pessoas tenham poder no agora (o que elas estão pensando, conseguem expressar na hora)
+- Nasci para condicionar pessoas a sentirem
+	- Cuidado na hora de me jogar em um relacionamento. A pessoa entra na sua aura e ela começa a tomar atitudes na vida.
 - As pessoas projetam que tem intimidade com você 
+- Acorda todo dia para gerar energia para as coisas serem feitas com eficiência, não com perfeição
