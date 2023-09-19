@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a anatomia da viralização?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a anatomia da viralização?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a anatomia da viralização?.md"
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
               }
             }
           },
@@ -278,11 +278,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "589e620c967b92c8",
+  "active": "08fe9c74cd3ac6bb",
   "lastOpenFiles": [
+    "Como funciona a anatomia da viralização?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "Como montar a linha editorial?.md",
-    "Como funciona a anatomia da viralização?.md",
     "2. Literature Notes/Topics/Todo desejo de consumo é mimético.md",
     "René Girard.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
