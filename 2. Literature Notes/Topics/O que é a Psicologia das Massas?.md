@@ -23,7 +23,7 @@ As ideias, sendo verdade, ou não, serão reproduzidas pelas tribos, cada um com
 
 Boa parte do resultado que você não tem, é porque você acredita em maluquice. Complicou demais, é porque é maluquice.
 
-[[Qual é a anatomia de um conteúdo viral?]]
+[[Todo desejo de consumo é mimético]]
 
 ###### **COMO:**
 
