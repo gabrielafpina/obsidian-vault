@@ -3,7 +3,7 @@
 	Manifestador: traz o fogo da ignição das coisas, dá iniciação a algo. Governante.
 		Eu sou aquela que cria ideias.
 		É importante ouvir o que o meu corpo tem para falar.
-		Tem energia para que pensamentos se tornem atos.
+		Tem energia para que pensamentos se tornem atos. 
 		Como um Gerador Manifestante, você é uma combinação única de energia geradora e manifestadora. Isso significa que você tem a **capacidade de iniciar ações** e também de **responder a oportunidades**. Você é *versátil* e pode ser muito produtivo quando **alinha suas ações com sua verdadeira natureza**.
 
 **ESTRATÉGIA:** Responder

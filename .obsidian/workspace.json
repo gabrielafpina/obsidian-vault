@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md"
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md"
               }
             }
           },
@@ -235,10 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34c4277968f856dd",
+  "active": "580a0934ec80f74a",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "2. Literature Notes/Topics/O que é o desenho humano?.md",
+    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
