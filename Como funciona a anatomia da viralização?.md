@@ -23,7 +23,7 @@ No meio do vídeo:
 No final:
 - CTA de compartilhamento
 
-Contágio social: 
+Contágio social: gera senoide emocional + viralização + identificação
 ###### **COMO:**
 
 ###### **PENSADORES:**
