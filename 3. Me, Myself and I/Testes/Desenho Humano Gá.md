@@ -8,6 +8,7 @@
 
 **ESTRATÉGIA:** Responder
 	A estratégia de "Responder" sugere que você se beneficia ao **esperar por sinais claros ou oportunidades antes de agir**. Isso ajuda a garantir que sua energia seja usada de forma mais eficaz e que você evite situações que não estejam alinhadas com seu propósito.
+		Espera pra responder, porque o corpo vai falar. Dê tempo para sentir.
 
 **ASSINATURA:** Satisfação
 	A "Satisfação" é o que você experimenta quando está vivendo de acordo com sua verdadeira natureza. É o **sinal de que você está no caminho certo**.
