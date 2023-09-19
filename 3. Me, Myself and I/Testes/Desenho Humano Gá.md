@@ -34,3 +34,7 @@
 	- Cuidado na hora de me jogar em um relacionamento. A pessoa entra na sua aura e ela começa a tomar atitudes na vida.
 - As pessoas projetam que tem intimidade com você 
 - Acorda todo dia para gerar energia para as coisas serem feitas com eficiência, não com perfeição
+- Tenho um centro de energia consistente
+- Preciso ficar comigo mesma e respeitar a minha emoção. É importante me envolver comigo mesma.
+- Quando não te perguntam algo, não tem nada a ver com você. Tem que ter cautela em se colocar como salvadora de outras pessoas.
+- Centros da cabeça aberta: é um lugar para o outro, 
