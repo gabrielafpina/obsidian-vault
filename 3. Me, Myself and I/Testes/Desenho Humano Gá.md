@@ -27,7 +27,7 @@
 
 **CRUZ DA ENCARNAÇÃO:** Ângulo direito cruz do Éden
 	Isso sugere que você tem um caminho de vida focado em **encontrar seu próprio "paraíso" ou estado ideal**. Você provavelmente busca experiências que lhe ofereçam uma sensação de realização e bem-estar.
-	Arquétipo do Éden é o paraíso, a inocência.
+	Arquétipo do Éden é o paraíso, a inocência. Você vem para tirar essa pessoa desse lugar e abrir para o novo, que pode trazer um sentimento de se sentir perdido, de se atirar no vazio. Você é muito provocadora. Provoca o espírito do outro em uma nova paixão, de um lugar que não serve mais para ele.
 
 **CARACTERÍSTICAS:**
 - Atração de pessoas intelectuais (que tem muita ansiedade mental), mas que não conseguem transformar em ato o que elas pensam, então coloco energia para que as pessoas tenham poder no agora (o que elas estão pensando, conseguem expressar na hora)
