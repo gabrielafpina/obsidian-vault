@@ -17,3 +17,6 @@
 **PERFIL:** 3/5
 
 **CRUZ DA ENCARNAÇÃO:** Ângulo direito cruz do Éden
+
+**CARACTERÍSTICAS:**
+- Atração de pessoas intelectuais
