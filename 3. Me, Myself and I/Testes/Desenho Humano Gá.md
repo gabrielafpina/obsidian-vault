@@ -1,25 +1,30 @@
 **TIPO:** Gerador Manifestante
 	Gerador: gera energia para fazer as coisas. Guia o que o manifestador cria.
 	Manifestador: traz o fogo da ignição das coisas, dá iniciação a algo. Governante.
-	Eu sou aquela que cria ideias.
+		Eu sou aquela que cria ideias.
 		É importante ouvir o que o meu corpo tem para falar.
-		Como um Gerador Manifestante, você é uma combinação única de energia geradora e manifestadora. Isso significa que você tem a capacidade de iniciar ações e também de responder a oportunidades. Você é versátil e pode ser muito produtivo quando alinha suas ações com sua verdadeira natureza.
+		Como um Gerador Manifestante, você é uma combinação única de energia geradora e manifestadora. Isso significa que você tem a **capacidade de iniciar ações** e também de **responder a oportunidades**. Você é *versátil* e pode ser muito produtivo quando **alinha suas ações com sua verdadeira natureza**.
 
 **ESTRATÉGIA:** Responder
+	A estratégia de "Responder" sugere que você se beneficia ao **esperar por sinais claros ou oportunidades antes de agir**. Isso ajuda a garantir que sua energia seja usada de forma mais eficaz e que você evite situações que não estejam alinhadas com seu propósito.
 
 **ASSINATURA:** Satisfação
+	A "Satisfação" é o que você experimenta quando está vivendo de acordo com sua verdadeira natureza. É o **sinal de que você está no caminho certo**.
 
 **TEMA DO NÃO-SER:** Frustração
+	A "Frustração" é um sinal de que **algo não está alinhado**. Se você se encontrar frequentemente frustrada, isso pode ser um indicativo de que você está fora do seu caminho ou não está seguindo sua estratégia e autoridade corretas.
 
 **AUTORIDADE:** Plexo solar
+	Sua autoridade do Plexo Solar sugere que suas decisões são melhores tomadas quando você dá **espaço para processar suas emoções**. Ouça seu "instinto emocional" para tomar decisões mais alinhadas.
 
 **DEFINIÇÃO:** Simples 
+	Uma definição simples indica que você provavelmente tem uma **forma mais direta e focada de interagir com o mundo**. Você pode achar mais fácil saber o que é certo para você em qualquer situação dada.
 
 **PERFIL:** 3/5
-	O perfil 3/5 sugere que você é uma pessoa experimental que aprende com a tentativa e erro. O "5" indica que você também tem um lado que é visto como um solucionador de problemas ou um salvador, o que pode atrair outras pessoas a você para orientação ou soluções.
+	O perfil 3/5 sugere que você é uma pessoa experimental que **aprende com a tentativa e erro**. O "5" indica que você também tem um lado que é visto como um **solucionador de problemas ou um salvador**, o que pode atrair outras pessoas a você para orientação ou soluções.
 
 **CRUZ DA ENCARNAÇÃO:** Ângulo direito cruz do Éden
-	Isso sugere que você tem um caminho de vida focado em encontrar seu próprio "paraíso" ou estado ideal. Você provavelmente busca experiências que lhe ofereçam uma sensação de realização e bem-estar.
+	Isso sugere que você tem um caminho de vida focado em **encontrar seu próprio "paraíso" ou estado ideal**. Você provavelmente busca experiências que lhe ofereçam uma sensação de realização e bem-estar.
 
 **CARACTERÍSTICAS:**
 - Atração de pessoas intelectuais
