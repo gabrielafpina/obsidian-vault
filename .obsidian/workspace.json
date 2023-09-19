@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "2cd6a1c69a7df09e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a47966d113429b44",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o efeito pigmalião?.md"
+                "file": "2. Literature Notes/Topics/Fake it till you make it.md"
               }
             }
           },
@@ -292,8 +280,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cd6a1c69a7df09e",
+  "active": "69f836cf96dccf3f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "2. Literature Notes/Topics/Fake it till you make it.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
@@ -320,7 +309,6 @@
     "2. Literature Notes/Topics/Exercício de modelagem.md",
     "2. Literature Notes/Topics/Quais são os medos que mais seguram as pessoas?.md",
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
-    "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
