@@ -35,7 +35,7 @@
 - Nasci para condicionar pessoas a sentirem
 	- Cuidado na hora de me jogar em um relacionamento. A pessoa entra na sua aura e ela começa a tomar atitudes na vida.
 - As pessoas projetam que tem intimidade com você 
-- Geradora emocional: preciso de tempo para sentir o meu centro sacral.
+- ==**Geradora emocional**: preciso de tempo para sentir o meu centro sacral. ESPERA PARA RESPONDER==
 - Acorda todo dia para gerar energia para as coisas serem feitas com eficiência, não com perfeição
 - Tenho um centro de energia consistente
 - Preciso ficar comigo mesma e respeitar a minha emoção. É importante me envolver comigo mesma.
