@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf"
               }
             }
           },
@@ -217,10 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb7636a40f023b22",
+  "active": "333849cc97264004",
   "lastOpenFiles": [
-    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Topics/Fake it till you make it.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
