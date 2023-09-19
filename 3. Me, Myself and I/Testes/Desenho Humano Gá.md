@@ -30,6 +30,7 @@
 
 **CARACTERÍSTICAS:**
 - Atração de pessoas intelectuais (que tem muita ansiedade mental), mas que não conseguem transformar em ato o que elas pensam, então coloco energia para que as pessoas tenham poder no agora (o que elas estão pensando, conseguem expressar na hora)
+	- Venho para trazer paixões novas para as pessoas
 - Nasci para condicionar pessoas a sentirem
 	- Cuidado na hora de me jogar em um relacionamento. A pessoa entra na sua aura e ela começa a tomar atitudes na vida.
 - As pessoas projetam que tem intimidade com você 
