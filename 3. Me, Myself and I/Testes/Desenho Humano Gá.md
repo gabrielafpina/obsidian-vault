@@ -30,3 +30,4 @@
 
 **CARACTERÍSTICAS:**
 - Atração de pessoas intelectuais
+- As pessoas projetam que tem intimidade com você 
