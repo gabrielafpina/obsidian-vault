@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O mapa não é o território.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md"
               }
             }
           },
@@ -256,11 +255,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3448ce0e3f5120da",
+  "active": "bb7636a40f023b22",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/estados emocionais.md",
+    "2. Literature Notes/Topics/O mapa não é o território.md",
+    "2. Literature Notes/Topics/Representação interna.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
     "Como montar a linha editorial?.md",
@@ -284,7 +284,6 @@
     "2. Literature Notes/Topics/Fórmula do Sucesso Definitivo.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
     "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
-    "2. Literature Notes/Topics/Absolutamente tudo que acontece na minha vida importa.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
