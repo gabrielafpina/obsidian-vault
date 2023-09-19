@@ -4,6 +4,12 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Nos primeiros 3 segundos do vídeo, tem que ter um dos 5 estímulos de contágio social:
+1. Polêmica
+2. Crença forte
+3. Afirmação contraintuitiva
+4. Recompensa rápida
+5. Curiosidade Extrema
 
 ###### **COMO:**
 
