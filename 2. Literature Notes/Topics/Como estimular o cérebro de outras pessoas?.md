@@ -39,3 +39,4 @@ A energia que eu dou é a emoção que o meu lead vai sentir. Se eu sentir a emo
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Qual é a anatomia de um conteúdo viral?]]
