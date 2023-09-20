@@ -43,8 +43,9 @@ Ele entrega tudo dos produtos pagos gratuitamente, só que de forma aleatória. 
 
 ###### **O que fazer na pratica?**
 1. Dê nome para a sua comunidade. Ela precisa ter uma identidade, precisa se achar uma coisa. Quando existe uma comunidade identificada, a comunidade se torna um só. Ou vai ser um adjetivo de identificação que tenha a ver com o seu enredo, ou vai ser o grande ideal.
-2. Como fazer pa
-
+2. Como fazer para definir e usar isso o tempo todo? 
+	1. Falar o tempo todo como nós - gera identificação o tempo inteiro
+	2. Contar histórias o tempo inteiro micro-narrativas que conectam com o tema (enredo - dentro do enredo principal você pode ter múltiplas narrativas). Ex: jornada dos clientes, sua jornada, história de criação do seu movimento, etc.
 ---------
 
 **Oeste: similar**
