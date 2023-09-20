@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "9f2312708378b12b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Representação interna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e22754ebf65d52a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/VACOG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "333849cc97264004",
             "type": "leaf",
             "state": {
@@ -30,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,6 +244,8 @@
   },
   "active": "333849cc97264004",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/VACOG.md",
+    "2. Literature Notes/Topics/Representação interna.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Topics/Fake it till you make it.md",
@@ -230,7 +256,6 @@
     "2. Literature Notes/Topics/Como criar um estado emocional?.md",
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
-    "2. Literature Notes/Topics/Representação interna.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
     "Como montar a linha editorial?.md",
     "Como funciona a anatomia da viralização?.md",
