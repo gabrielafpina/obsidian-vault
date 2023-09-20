@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
+                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf"
               }
             }
           },
@@ -265,10 +265,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6dff3005ba13d0d9",
+  "active": "333849cc97264004",
   "lastOpenFiles": [
-    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/People/Sam Jolen.md",
     "2. Literature Notes/Topics/VACOG.md",
     "2. Literature Notes/Topics/Representação interna.md",
