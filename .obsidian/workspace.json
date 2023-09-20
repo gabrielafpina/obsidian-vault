@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
+                "file": "Como criar uma narrativa que vende mais?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
+                "file": "Como criar uma narrativa que vende mais?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md"
+                "file": "Como criar uma narrativa que vende mais?.md"
               }
             }
           },
@@ -316,8 +316,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20bd9812c81c871d",
+  "active": "559f6ee3c94769bf",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
     "Como criar uma narrativa que vende mais?.md",
     "Como funciona a anatomia da viralização?.md",
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
@@ -344,7 +345,6 @@
     "2. Literature Notes/Topics/Todo desejo de consumo é mimético.md",
     "René Girard.md",
     "2. Literature Notes/Topics/Como estimular o cérebro de outras pessoas?.md",
-    "2. Literature Notes/People/Davi Ribas.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
