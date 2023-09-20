@@ -23,11 +23,11 @@ Storytelling é PECM. Toda história precisa seguir essa estrutura;
 		- Satisfação do ego
 - **Conflito**: O clímax, o que vai acontecer na história, que pode ser um conflito interno (briga interna do protagonista) ou externo (briga do protagonista com algo fora).
 	- Clímax (auge) principal da história. Como ele resolve a treta dele. O conflito sempre acontece no auge da história.
-	- O que define o conflito interno ou externo? Depende do contexto. Ex: romances e histórias de superação tratam sobre conflitos internos, você não tem um vilão que luta contra a personagem principal (quando o personagem tem que superar ele mesmo para chegar no objetivo final). Um conflito externo seria como Harry Potter, por exemplo, em que ele luta contra o Voldemort (sempre que o persongagem precisa lutar contra um inimigo maior para chegar no objetivo final)
-	- Na criaçaõ de movimentos, usamos tanto o conflito interno, quanto externo. Posicionamos o inimigo ameaçador como conflito externo. A comunidade é o protagonista da hist
+	- O que define o conflito interno ou externo? Depende do contexto. Ex: romances e histórias de superação tratam sobre conflitos internos, você não tem um vilão que luta contra a personagem principal (quando o personagem tem que superar ele mesmo para chegar no objetivo final). Um conflito externo seria como Harry Potter, por exemplo, em que ele luta contra o Voldemort (sempre que o personagem precisa lutar contra um inimigo maior para chegar no objetivo final)
+	- ==Na criação de movimentos, usamos tanto o conflito interno, quanto externo==. Posicionamos o inimigo ameaçador como conflito externo. A comunidade é o protagonista da história do movimento e vai lutar contra o inimigo ameaçador.
 - **Moral**: Tem que finalizar com uma moral.
 
-Quando 
+O 
 
 ###### **COMO:**
 
