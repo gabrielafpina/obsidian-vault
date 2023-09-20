@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desenh",
+                "query": "davi ribas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -316,7 +315,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "559f6ee3c94769bf",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
     "Como criar uma narrativa que vende mais?.md",
