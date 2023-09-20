@@ -34,9 +34,12 @@ O protagonista vive o enredo, passando pelo conflito e vivendo a moral da histó
 O movimento é uma história.
 ###### **COMO ESTRUTURAR:**
 1. Coloque a comunidade como **personagem**. A história não é sobre você, é sobre ´nós´. Coloque o cliente como protagonista, mas fale para o coletivo, usando o nós, porque você cria um desejo de pertencer à causa, você acelera o processo de identificação.
-2. O enredo deve ser tanto o grande ideal do movimento, quanto o grupo arquetípico de toda a comunicação. [[Energia arquetípica - Use-a a seu favor]].
+2. O **enredo** deve ser tanto o grande ideal do movimento, quanto o grupo arquetípico de toda a comunicação - e o grande ideal tem a ver com o grupo. [[Energia arquetípica - Use-a a seu favor]].
+3. O **conflito** externo é o inimigo ameaçador, o conflito interno são os paradigmas da comunidade, os medos e as [[crenças]] limitantes que impedem ele de entender a moral da história e a causa do enredo.
+4. E a **moral** é o que te ensina o enredo.
 
-###### **PENSADORES:**
+###### **COMO FAZER ISSO NO CONTEÚDO GRATUITO E PAGO?**
+Ele entrega tudo dos produtos pagos gratuitamente, só que de forma aleatória. As pessoas pagam pela organização, ferramentas, acompanhamento na implementação e
 
 ###### **FRASES:**
 
