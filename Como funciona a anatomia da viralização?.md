@@ -40,3 +40,4 @@ Contágio social: gera senoide emocional + viralização + identificação
 
 **Sul: para onde vai**
 - [[Como montar a linha editorial?]]
+- [[Como criar uma narrativa que vende mais?]]

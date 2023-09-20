@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 Por isso, é fundamental ter histórias nos seus conteúdos. As pessoas sempre vão se lembrar mais de histórias. Assim, coloque histórias em todos os conteúdos.
 
+O mundo foi transmitido através de histórias. As histórias nos mostr
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

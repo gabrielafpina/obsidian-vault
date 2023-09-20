@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+                "file": "Como funciona a anatomia da viralização?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "559f6ee3c94769bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como criar uma narrativa que vende mais?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20bd9812c81c871d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +174,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -212,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md"
+                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md"
               }
             }
           },
@@ -291,11 +316,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7fa06fce358abb2",
+  "active": "20bd9812c81c871d",
   "lastOpenFiles": [
+    "Como criar uma narrativa que vende mais?.md",
+    "Como funciona a anatomia da viralização?.md",
+    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Topics/O que é o desenho humano?.md",
-    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/People/Sam Jolen.md",
@@ -313,14 +340,12 @@
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
     "Como montar a linha editorial?.md",
-    "Como funciona a anatomia da viralização?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Todo desejo de consumo é mimético.md",
     "René Girard.md",
     "2. Literature Notes/Topics/Como estimular o cérebro de outras pessoas?.md",
     "2. Literature Notes/People/Davi Ribas.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
-    "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
