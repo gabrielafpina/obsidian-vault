@@ -26,10 +26,15 @@ Storytelling é PECM. Toda história precisa seguir essa estrutura;
 	- O que define o conflito interno ou externo? Depende do contexto. Ex: romances e histórias de superação tratam sobre conflitos internos, você não tem um vilão que luta contra a personagem principal (quando o personagem tem que superar ele mesmo para chegar no objetivo final). Um conflito externo seria como Harry Potter, por exemplo, em que ele luta contra o Voldemort (sempre que o personagem precisa lutar contra um inimigo maior para chegar no objetivo final)
 	- ==Na criação de movimentos, usamos tanto o conflito interno, quanto externo==. Posicionamos o inimigo ameaçador como conflito externo. A comunidade é o protagonista da história do movimento e vai lutar contra o inimigo ameaçador.
 - **Moral**: Tem que finalizar com uma moral.
+	- É a mensagem que você quer entregar. É a crença que aquela história quer colocar na cabeça das pessoas. História sem moral é só conto de fadas. Toda história tem que ter um porquê, uma nova crença e visão de mundo, uma lição.
+	- Essa lição normalmente vai ser a jornada final do enredo. Ou seja, se o enredo é sobre liberdade, a moral vai ser uma moral que tenha a ver com liberdade.
 
-O 
+O protagonista vive o enredo, passando pelo conflito e vivendo a moral da história.
 
-###### **COMO:**
+O movimento é uma história.
+###### **COMO ESTRUTURAR:**
+1. Coloque a comunidade como **personagem**. A história não é sobre você, é sobre ´nós´. Coloque o cliente como protagonista, mas fale para o coletivo, usando o nós, porque você cria um desejo de pertencer à causa, você acelera o processo de identificação.
+2. O enredo deve ser tanto o grande ideal do movimento, quanto o grupo arquetípico de toda a comunicação. [[Energia arquetípica - Use-a a seu favor]].
 
 ###### **PENSADORES:**
 
