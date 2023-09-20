@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poder sem limit",
+                "query": "desenh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
+                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
+                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md"
+                "file": "2. Literature Notes/Topics/O que é o desenho humano?.md"
               }
             }
           },
@@ -279,9 +278,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bf00750a232cc6c",
+  "active": "bb7636a40f023b22",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "2. Literature Notes/People/Sam Jolen.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
@@ -308,7 +308,6 @@
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "2. Literature Notes/Topics/O que é o desenho humano?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
-    "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
