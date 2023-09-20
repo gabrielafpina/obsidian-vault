@@ -16,13 +16,15 @@ Storytelling é PECM. Toda história precisa seguir essa estrutura;
 - **Enredo**: Sobre o que é essa história?
 	- A ideia da história, o tema.
 	- Tem que ser sobre o cliente e o cliente deve querer viver esse enredo. 
-	- Toda história só tem 4 temas, os 4 grupos dominantes do [[Inconsciente Coletivo]]
+	- Toda história só tem 4 temas, os 4 grupos dominantes do [[Inconsciente Coletivo]]. [[Qual é o jeito certo de criar uma persona?]]
 		- Liberdade
 		- Socialização
 		- Ordem
 		- Satisfação do ego
 - **Conflito**: O clímax, o que vai acontecer na história, que pode ser um conflito interno (briga interna do protagonista) ou externo (briga do protagonista com algo fora).
 - **Moral**: Tem que finalizar com uma moral.
+
+
 
 ###### **COMO:**
 
