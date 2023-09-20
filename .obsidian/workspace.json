@@ -64,9 +64,21 @@
                 "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf"
               }
             }
+          },
+          {
+            "id": "6dff3005ba13d0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4 lugares",
+                "query": "poder sem limit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,8 +124,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf"
+                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md"
               }
             }
           },
@@ -254,12 +265,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "333849cc97264004",
+  "active": "6dff3005ba13d0d9",
   "lastOpenFiles": [
+    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
+    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/People/Sam Jolen.md",
     "2. Literature Notes/Topics/VACOG.md",
     "2. Literature Notes/Topics/Representação interna.md",
-    "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/Topics/Fake it till you make it.md",
     "2. Literature Notes/Topics/O que é o efeito pigmalião?.md",
@@ -282,8 +294,6 @@
     "2. Literature Notes/Topics/O que é o desenho humano?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-    "2. Literature Notes/Topics/Como modelar uma pessoa corretamente e sem perder a sua essência?.md",
-    "2. Literature Notes/Topics/Exercício de modelagem.md",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-13 às 14.07.48.png",
