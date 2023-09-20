@@ -39,9 +39,11 @@ O movimento é uma história.
 4. E a **moral** é o que te ensina o enredo.
 
 ###### **COMO FAZER ISSO NO CONTEÚDO GRATUITO E PAGO?**
-Ele entrega tudo dos produtos pagos gratuitamente, só que de forma aleatória. As pessoas pagam pela organização, ferramentas, acompanhamento na implementação e
+Ele entrega tudo dos produtos pagos gratuitamente, só que de forma aleatória. As pessoas pagam pela organização, ferramentas, acompanhamento na implementação - e nos produtos pagos tem. Quando você compra, você resolve mais rápido o problema.
 
-###### **FRASES:**
+###### **O que fazer na pratica?**
+1. Dê nome para a sua comunidade. Ela precisa ter uma identidade, precisa se achar uma coisa. Quando existe uma comunidade identificada, a comunidade se torna um só. Ou vai ser um adjetivo de identificação que tenha a ver com o seu enredo, ou vai ser o grande ideal.
+2. Como fazer pa
 
 ---------
 
