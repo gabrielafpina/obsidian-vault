@@ -4,191 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ba0bc6a5833c71",
+        "id": "544dfb70de7b947f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7636a40f023b22",
+            "id": "10fa103d2b014623",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "f7fa06fce358abb2",
+            "id": "ec6e5ad7b0f274c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como funciona a anatomia da viralização?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "559f6ee3c94769bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como criar uma narrativa que vende mais?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3c8a5655bfc322a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c37790bdd5bb65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício de modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27fd663b346bb523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona a anatomia da viralização?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aac9c63150d545f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ffa7f5283503af3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20bd9812c81c871d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf00750a232cc6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd6ded71ae7927c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Modelagem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f2312708378b12b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Representação interna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e22754ebf65d52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/VACOG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "829044c9e5aac448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Sam Jolen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dff3005ba13d0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício de modelagem.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício de modelagem.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício de modelagem.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -376,12 +216,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7c37790bdd5bb65",
+  "active": "ec6e5ad7b0f274c3",
   "lastOpenFiles": [
+    "Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
+    "2. Literature Notes/People/Sam Jolen.md",
+    "2. Literature Notes/Topics/Exercício de modelagem.md",
     "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
-    "Como criar uma narrativa que vende mais?.md",
-    "Como funciona a anatomia da viralização?.md",
+    "2. Literature Notes/Topics/Como criar uma narrativa que vende mais?.md",
+    "2. Literature Notes/Topics/Como funciona a anatomia da viralização?.md",
     "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
     "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",
     "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
@@ -389,7 +232,6 @@
     "2. Literature Notes/Topics/O que é o desenho humano?.md",
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Modelagem.md",
-    "2. Literature Notes/People/Sam Jolen.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
     "2. Literature Notes/Topics/VACOG.md",
@@ -403,8 +245,6 @@
     "2. Literature Notes/Topics/estados emocionais.md",
     "2. Literature Notes/Topics/O mapa não é o território.md",
     "2. Literature Notes/Topics/O que é a Psicologia das Massas?.md",
-    "Como montar a linha editorial?.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
