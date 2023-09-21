@@ -11,6 +11,7 @@ Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua 
 A que eu vou plugar o meu coração?
 
 1. Quais são os 10 valores que te fazem escolher alguém de melhor amigo? (Escolha muito bem quem você escolhe chamar de amigo)
+2. 10 valores para um emprego/projeto
 
 ###### **COMO:**
 
