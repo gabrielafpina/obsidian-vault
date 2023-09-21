@@ -8,6 +8,8 @@ Deus não tem pressa para nada. Se alguém te convida pra pressa, você já sabe
 
 [[Tudo acontece no momento divino]]. 
 
+Você pode escolher que a pressa não roube mais energia do seu coração. [[Tudo é uma escolha]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -8,6 +8,8 @@ Valores é o que eu escolho que reja a minha vida. É o combustível para o meu 
 
 Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche]].
 
+A que eu vou plugar o meu coração?
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -18,9 +20,10 @@ Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua 
 
 **Oeste: similar**
 
-**Leste: oposto**
+**Leste: oposto**x
 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
 [[A pressa não é um valor de Deus]]
+[[Se você ama Deus, não tem coerência não amar a sua vida]]
