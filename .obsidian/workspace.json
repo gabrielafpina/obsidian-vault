@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dinheiro",
+                "query": "mãe ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,8 +134,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md"
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -278,6 +277,8 @@
   },
   "active": "04052482dd2ae2e5",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/transgeracionalidade.md",
+    "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "Estrela de Valores.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "O dinheiro é Sagrado.md",
@@ -302,8 +303,6 @@
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 8 - Mudança de Estados e Modelagem.md",
     "2. Literature Notes/People/Sam Jolen.md",
     "2. Literature Notes/Topics/Exercício de modelagem.md",
-    "2. Literature Notes/Topics/Como respirar e limpar o meu sistema?.md",
-    "2. Literature Notes/Topics/Como criar uma narrativa que vende mais?.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
