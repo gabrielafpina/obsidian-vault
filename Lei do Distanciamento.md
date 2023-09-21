@@ -18,7 +18,11 @@ Se eu vejo algo como ruim, é só a forma como eu estou enxergando, porque aquil
 
 [[A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus]]. 
 
-Quando eu aprendo essa lei, eu me apego menos, me torno mais criativa, mais presente, porque para lidar com uma mudança, com algo que me incomoda, eu esteja presente. É um convite para eu estar presente vivendo o aqui agora, que é tudo o que eu tenho. [[Escolha estar presente nesse evento, que é o aqui e o agora]].
+Quando eu aprendo essa lei, eu me apego menos, me torno mais criativa, mais presente, porque para lidar com uma mudança, com algo que me incomoda, eu esteja presente. É um convite para eu estar presente vivendo o aqui agora, que é tudo o que eu tenho. [[Escolha estar presente nesse evento, que é o aqui e o agora]]. [[Quer estar na presença? Vá de ré.]]
+
+[[O resultado que acontece é sempre o melhor resultado que poderia ser]].
+
+Quando eu estou vivendo essa lei, a verdade aparece, as coisas acontecem, tudo acontece de forma leve, harmônica. Quanto mais eu confio, menos apegado eu to, menos energia eu gasto. [[Exercício da bandeira]]. Se veio, é porque tem um aprendizado pra mim ai. [[Somos um veículo de aprendizado para nossas almas]].
 
 ###### **COMO:**
 
