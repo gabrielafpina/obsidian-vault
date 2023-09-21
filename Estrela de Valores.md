@@ -13,6 +13,7 @@ A que eu vou plugar o meu coração?
 1. Quais são os 10 valores que te fazem escolher alguém de melhor amigo? (Escolha muito bem quem você escolhe chamar de amigo)
 2. 10 valores para um emprego/projeto
 
+Tudo que você escrever na lista diz respeito a quem eu sou em algum nível.
 ###### **COMO:**
 
 ###### **PENSADORES:**
