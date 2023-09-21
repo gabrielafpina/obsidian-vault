@@ -10,7 +10,9 @@ O quanto é importante que eu pratique no meu dia a dia o desapego de tudo. E pr
 
 A vida nos convida o tempo inteiro para liberdade de ser, das pessoas. Por isso, soltar e acolher da melhor forma possível pe inteligente. Deixar de ter apego aos resultados não é deixar de ter intenções e desejos. [[Lei da Intenção e Desejo]]. Não é deixar de ter desejo, é deixar de ter apego para que saia de determinada forma. Não existe só um caminho, existem infinitos.
 
-Mergulhe na incerteza, no mar de infinitas possibilidades
+Mergulhe na incerteza, no mar de infinitas possibilidades. O apego causa medo e insegurança, que é uma desconexão de mim comigo mesmo, do meu eu-divino, da minha fé, da minha confiança de que tudo acontece por um bem maior.
+
+Se eu vejo algo como ruim, é só a forma como eu estou enxergando, porque aquilo está a serviço de algo muito maior. [[Todo aparente mal é um bem em gestação]]. Se eu estou no mecânico e automático, eu vou querer ficar controlando tudo ao meu redor. O apego causa ansiedade e prejudica as minhas intenções, o meu propósito e, consequentemente, todas as manifestações que acontecem a partir dai.
 
 ###### **COMO:**
 
