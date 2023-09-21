@@ -26,7 +26,7 @@ Quando eu estou vivendo essa lei, a verdade aparece, as coisas acontecem, tudo a
 
 [[Desafios vem para testar a sua fé]].
 
-Não existem problemas. Distancie, observe com carinho. [[Auto Observação]]. Desconecta o seu coração desse evento que virou um imã e está se alimentando do seu centro de energia. E ai você escolhe qual é o final extraordinário que você vai dar para a sua vida.
+Não existem problemas. Distancie, observe com carinho. [[Auto Observação]]. Desconecta o seu coração desse evento que virou um imã e está se alimentando do seu centro de energia. E ai você escolhe qual é o final extraordinário que você vai dar para a sua vida. Qual é o fim que você cocria para isso que está acontecendo na sua vida?
 
 ###### **COMO:**
 
