@@ -28,6 +28,8 @@ Quando eu estou vivendo essa lei, a verdade aparece, as coisas acontecem, tudo a
 
 Não existem problemas. Distancie, observe com carinho. [[Auto Observação]]. Desconecta o seu coração desse evento que virou um imã e está se alimentando do seu centro de energia. E ai você escolhe qual é o final extraordinário que você vai dar para a sua vida. Qual é o fim que você cocria para isso que está acontecendo na sua vida?
 
+Faça uma reverência a esse evento, porque ele é um IMENSO APRENDIZADO, um grande teste. Não é para ter raiva. [[O caminho do meio é o caminho do equilíbrio]]. O segredo é a neutralidade. Saber que ele está ali, mas não me apegar a ponto de exaurir as minhas energias. E se eu desprezo, ou lido com raiva, aquilo vai me dominar. o distanciamento é o caminho do meio, porque quando eu sou engolida pelo evento, não consigo compreendê-lo e nem resolvê-lo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
