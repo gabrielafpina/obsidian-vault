@@ -14,6 +14,12 @@ Mergulhe na incerteza, no mar de infinitas possibilidades. O apego causa medo e 
 
 Se eu vejo algo como ruim, é só a forma como eu estou enxergando, porque aquilo está a serviço de algo muito maior. [[Todo aparente mal é um bem em gestação]]. Se eu estou no mecânico e automático, eu vou querer ficar controlando tudo ao meu redor. O apego causa ansiedade e prejudica as minhas intenções, o meu propósito e, consequentemente, todas as manifestações que acontecem a partir dai.
 
+[[Se existe a possibilidade de infinitas possibilidades, porque eu vou me apegar a uma?]] 
+
+[[A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus]]. 
+
+Quando eu aprendo essa lei, eu me apego menos, me torno mais criativa, mais presente, porque para lidar com uma mudança, com algo que me incomoda, eu esteja presente. É um convite para eu estar presente vivendo o aqui agora, que é tudo o que eu tenho. [[Escolha estar presente nesse evento, que é o aqui e o agora]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
