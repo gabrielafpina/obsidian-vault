@@ -23,3 +23,4 @@ Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+[[A pressa não é um valor de Deus]]

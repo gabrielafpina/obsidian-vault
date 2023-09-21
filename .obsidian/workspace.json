@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "a1683e6ffe638266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A pressa não é um valor de Deus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb4eecbedaac094f",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
+                "file": "A pressa não é um valor de Deus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
+                "file": "A pressa não é um valor de Deus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md"
+                "file": "A pressa não é um valor de Deus.md"
               }
             }
           },
@@ -251,9 +263,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb4eecbedaac094f",
+  "active": "a1683e6ffe638266",
   "lastOpenFiles": [
     "Estrela de Valores.md",
+    "A pressa não é um valor de Deus.md",
     "Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
     "É inteligente aprendermos a alimentar os interesses que temos dentro da gente.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
@@ -278,7 +291,6 @@
     "2. Literature Notes/Topics/Como funciona a anatomia da viralização?.md",
     "2. Literature Notes/Topics/Qual é o jeito certo de criar uma persona?.md",
     "2. Literature Notes/Topics/Energia arquetípica - Use-a a seu favor.md",
-    "2. Literature Notes/Topics/As pessoas se lembram de histórias mais do que de conteúdo.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
