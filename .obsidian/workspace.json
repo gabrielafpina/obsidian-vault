@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "c88a13a0f80a84a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reclamar é clamar para acontecer de novo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "859222bd76dfc6b2",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
+                "file": "Reclamar é clamar para acontecer de novo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
+                "file": "Reclamar é clamar para acontecer de novo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md"
+                "file": "Reclamar é clamar para acontecer de novo.md"
               }
             }
           },
@@ -299,8 +311,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5e6f99829906b7b",
+  "active": "c88a13a0f80a84a2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
+    "Reclamar é clamar para acontecer de novo.md",
     "Lei do Distanciamento.md",
     "Desafios vem para testar a sua fé.md",
     "Jamais compare a sua história com uma história catastrófica.md",
@@ -326,8 +340,6 @@
     "2. Literature Notes/Topics/Como fazer uma mudança de identidade?.md",
     "2. Literature Notes/Topics/Modelagem.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
-    "2. Literature Notes/Readwise/Books/Poder Sem Limites.md",
-    "2. Literature Notes/Topics/VACOG.md",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",

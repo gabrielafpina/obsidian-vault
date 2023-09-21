@@ -25,3 +25,4 @@ Isso vem como um espelho para te mostrar o que te tira do seu eixo.
 - [[O meu nível de ser atrai a minha vida]]
 
 **Sul: para onde vai**
+- [[Reclamar é clamar para acontecer de novo]]
