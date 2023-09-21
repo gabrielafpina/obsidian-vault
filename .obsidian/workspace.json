@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrela de Valores.md",
+                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estrela de Valores.md",
+                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estrela de Valores.md",
+                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estrela de Valores.md"
+                "file": "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md"
               }
             }
           },
@@ -277,8 +278,8 @@
   },
   "active": "04052482dd2ae2e5",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "Estrela de Valores.md",
+    "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
     "O dinheiro é Sagrado.md",
     "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
     "Se você ama Deus, não tem coerência não amar a sua vida.md",

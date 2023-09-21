@@ -68,3 +68,6 @@ a alma do suicida era tocar a alma das pessoas ao redor de algum jeito.
 dentro de 50 trilhoes de celulas que compoem você, como pode ter miséria
 'você é uma idiota' - todo julgamento é uma confissão
 o universo está intolerante ao abandono de si mesmo
+
+#### Sessão 5
+**DATA:** 21/09/2023
