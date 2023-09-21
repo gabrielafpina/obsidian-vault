@@ -24,10 +24,9 @@ Quando eu aprendo essa lei, eu me apego menos, me torno mais criativa, mais pres
 
 Quando eu estou vivendo essa lei, a verdade aparece, as coisas acontecem, tudo acontece de forma leve, harmônica. Quanto mais eu confio, menos apegado eu to, menos energia eu gasto. [[Exercício da bandeira]]. Se veio, é porque tem um aprendizado pra mim ai. [[Somos um veículo de aprendizado para nossas almas]].
 
-[[Desafios ]]
-Quando está acontecendo um desafio, observe esse evento. Essa coisa pode estar como um imã prendendo a sua visão. E isso pode fazer você esquecer o quanto a vida é extraordinária, porque você está fixado nesse imã. Ele puxa a sua atenção com emoções, talvez, não muito inteligentes. Isso vai virando um vórtex de energia, que prende a sua atenção - que é tudo o que o imã quer. Isso existe por conta do tanto de energia que você está colocando do seu coração nele. Isso só piora quando você compartilha com outra pessoa que tem menos consciência do que vce. Ai você começa a criar histórias catastróficas.
+[[Desafios vem para testar a sua fé]].
 
-[[Jamais compare a sua história com uma história catastrófica]].
+Não existem problemas. Distancie, observe com carinho. [[Auto Observação]]. Desconecta o seu coração desse evento que virou um imã e está se alimentando do seu centro de energia. E ai você escolhe qual é o final extraordinário que você vai dar para a sua vida.
 
 ###### **COMO:**
 
