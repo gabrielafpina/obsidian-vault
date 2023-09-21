@@ -74,4 +74,4 @@ o universo está intolerante ao abandono de si mesmo
 
 **Tarefas**
 - Criar lista do que é FUNDAMENTAL fazer no meu dia e não posso abrir mão
-- Assistir áudios Gasparett o
+- Assistir áudios Gasparetto
