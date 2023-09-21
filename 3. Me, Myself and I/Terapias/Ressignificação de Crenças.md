@@ -71,7 +71,9 @@ o universo está intolerante ao abandono de si mesmo
 
 #### Sessão 5
 **DATA:** 21/09/2023
- 
+
+Eu já fiz muita coisa orientada pela minha criança interior buscando amor.
+
 **Tarefas**
 - Criar lista do que é FUNDAMENTAL fazer no meu dia e não posso abrir mão
 - Assistir áudios Gasparetto
