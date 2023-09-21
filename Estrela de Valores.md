@@ -10,6 +10,8 @@ Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua 
 
 A que eu vou plugar o meu coração?
 
+1. Quais são os 10 valores que te fazem escolher alguém de melhor amigo?
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -27,3 +29,4 @@ A que eu vou plugar o meu coração?
 **Sul: para onde vai**
 [[A pressa não é um valor de Deus]]
 [[Se você ama Deus, não tem coerência não amar a sua vida]]
+[[O dinheiro é Sagrado]]
