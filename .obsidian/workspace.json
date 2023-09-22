@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que são neuroses?.md",
+                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são as causas da neurose?.md",
+                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "981afa85e5ace038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "812454f3f3d06079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qual é a diferença de neurose e psicose?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são as 3 características de psiconeuroses?.md",
+                "file": "2. Literature Notes/Topics/Quais são as 3 características de psiconeuroses?.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como lidar com manias e neuroses?.md",
+                "file": "2. Literature Notes/Topics/Como lidar com manias e neuroses?.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bande",
+                "query": "repressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,8 +154,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são as causas da neurose?.md",
+                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são as causas da neurose?.md",
+                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são as causas da neurose?.md"
+                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md"
               }
             }
           },
@@ -274,11 +297,13 @@
   },
   "active": "4b79414f5b1db9df",
   "lastOpenFiles": [
-    "Como lidar com manias e neuroses?.md",
-    "Quais são as causas da neurose?.md",
-    "Quais são as 3 características de psiconeuroses?.md",
-    "Qual é a diferença de neurose e psicose?.md",
-    "O que são neuroses?.md",
+    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
+    "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
+    "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
+    "2. Literature Notes/Topics/Como lidar com manias e neuroses?.md",
+    "2. Literature Notes/Topics/Quais são as 3 características de psiconeuroses?.md",
+    "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
+    "2. Literature Notes/Topics/O que são neuroses?.md",
     "Untitled.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
@@ -298,8 +323,6 @@
     "2. Literature Notes/Topics/Se você ama Deus, não tem coerência não amar a sua vida.md",
     "2. Literature Notes/Topics/A pressa não é um valor de Deus.md",
     "2. Literature Notes/Topics/Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
-    "2. Literature Notes/Topics/É inteligente aprendermos a alimentar os interesses que temos dentro da gente.md",
-    "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
