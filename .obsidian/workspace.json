@@ -4,58 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "544dfb70de7b947f",
+        "id": "d95706dbd2e5daa5",
         "type": "tabs",
         "children": [
           {
-            "id": "550b148ac59cce00",
+            "id": "7356088b7dccc312",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a718a23c0b4dbbb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e41fb17e67ebe38a",
+            "id": "ac7168dd6718be7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2dfe1225a3920c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e6111d6a872143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -242,34 +224,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "550b148ac59cce00",
+  "active": "a718a23c0b4dbbb9",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
+    "Untitled.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
-    "Lei do Distanciamento.md",
+    "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
-    "A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
-    "Todo aparente mal é um bem em gestação.md",
+    "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
+    "2. Literature Notes/Topics/Todo aparente mal é um bem em gestação.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/transgeracionalidade.md",
     "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
-    "Estrela de Valores.md",
+    "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
-    "O dinheiro é Sagrado.md",
+    "2. Literature Notes/Topics/O dinheiro é Sagrado.md",
     "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
-    "Se você ama Deus, não tem coerência não amar a sua vida.md",
-    "A pressa não é um valor de Deus.md",
-    "Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
-    "É inteligente aprendermos a alimentar os interesses que temos dentro da gente.md",
-    "Desafios vem para testar a sua fé.md",
+    "2. Literature Notes/Topics/Se você ama Deus, não tem coerência não amar a sua vida.md",
+    "2. Literature Notes/Topics/A pressa não é um valor de Deus.md",
+    "2. Literature Notes/Topics/Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
+    "2. Literature Notes/Topics/É inteligente aprendermos a alimentar os interesses que temos dentro da gente.md",
+    "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
-    "Reclamar é clamar para acontecer de novo.md",
-    "Jamais compare a sua história com uma história catastrófica.md",
-    "O resultado que acontece é sempre o melhor resultado que poderia ser.md",
-    "Quer estar na presença? Vá de ré..md",
-    "Se existe a possibilidade de infinitas possibilidades, porque eu vou me apegar a uma?.md",
+    "2. Literature Notes/Topics/Reclamar é clamar para acontecer de novo.md",
+    "2. Literature Notes/Topics/Jamais compare a sua história com uma história catastrófica.md",
+    "2. Literature Notes/Topics/O resultado que acontece é sempre o melhor resultado que poderia ser.md",
+    "2. Literature Notes/Topics/Quer estar na presença? Vá de ré..md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
