@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2dfe1225a3920c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7e6111d6a872143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lei do míni",
+                "query": "bande",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
+                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md"
               }
             }
           },
@@ -219,8 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e41fb17e67ebe38a",
+  "active": "f7e6111d6a872143",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
+    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
@@ -245,8 +271,6 @@
     "Quer estar na presença? Vá de ré..md",
     "Se existe a possibilidade de infinitas possibilidades, porque eu vou me apegar a uma?.md",
     "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
-    "O que são amortecedores?.md",
-    "2. Literature Notes/Topics/As pessoas te tratam como você permite que elas te tratem.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
