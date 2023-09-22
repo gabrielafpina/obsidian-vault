@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e41fb17e67ebe38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funcion",
+                "query": "lei do míni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md"
+                "file": "2. Literature Notes/Topics/Lei do Mínimo Esforço.md"
               }
             }
           },
@@ -206,11 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "550b148ac59cce00",
+  "active": "e41fb17e67ebe38a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como você funciona?.md",
     "Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
-    "2. Literature Notes/Topics/Como você funciona?.md",
     "A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "Todo aparente mal é um bem em gestação.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
