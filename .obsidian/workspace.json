@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
+                "file": "2. Literature Notes/Topics/Como você funciona?.md"
               }
             }
           },
@@ -243,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2dfe1225a3920c6",
+  "active": "550b148ac59cce00",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
+    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "Lei do Distanciamento.md",
