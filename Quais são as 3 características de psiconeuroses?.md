@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** curso de [[Psicanálise]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
@@ -24,5 +24,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Quais são as causas da neurose?]]
 
 **Sul: para onde vai**

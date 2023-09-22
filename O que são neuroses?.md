@@ -27,7 +27,7 @@ Freud acreditava que a angústia que toda a angústia e o sofrimento são causad
 
 OBS: os transtornos carregam as neuroses. Eu posso ter apenas uma neurose e não desenvolver um transtorno. Como posso ter um transtorno que com certeza veio uma neurose junto. [[Qual é a diferença de neurose e psicose?]]
 
-
+[[Quais são as causas da neurose?]]
 
 ###### **COMO:**
 

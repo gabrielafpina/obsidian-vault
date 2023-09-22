@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "4b79414f5b1db9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são as causas da neurose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5507df3157ef4a14",
             "type": "leaf",
             "state": {
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são neuroses?.md",
+                "file": "Quais são as causas da neurose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são neuroses?.md",
+                "file": "Quais são as causas da neurose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são neuroses?.md"
+                "file": "Quais são as causas da neurose?.md"
               }
             }
           },
@@ -260,13 +272,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a718a23c0b4dbbb9",
+  "active": "4b79414f5b1db9df",
   "lastOpenFiles": [
+    "Como lidar com manias e neuroses?.md",
+    "Quais são as causas da neurose?.md",
+    "Quais são as 3 características de psiconeuroses?.md",
     "Qual é a diferença de neurose e psicose?.md",
     "O que são neuroses?.md",
-    "Quais são as 3 características de psiconeuroses?.md",
     "Untitled.md",
-    "Como lidar com manias e neuroses?.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
@@ -287,7 +300,6 @@
     "2. Literature Notes/Topics/Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
     "2. Literature Notes/Topics/É inteligente aprendermos a alimentar os interesses que temos dentro da gente.md",
     "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
-    "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
