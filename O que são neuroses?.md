@@ -12,6 +12,11 @@ Os indivíduos neuróticos possuem grandes apreensões sobre tudo a sua volta. A
 
 É impossível passar pelo mundo e não ter vivido uma situação neurótica, porque é da natureza humana fantasiar e carregar neuroses. Algumas delas carregamos a vida toda, porque esse é um processo [[Inconsciente]].
 
+'É uma neura minha'. Popularmente, a palavra, neura, é usada como uma gíria para classificar um comportamento ou problema atípico. Por exemplo, pessoas que são impecáveis na organização, ou se preocupam demais com afazeres diários e profissionais.
+- *Comentário pessoal*: me parece que a neura, muito mais do que qualquer coisa, é uma mecanicidade muito profunda da pessoa, que não está vivendo o momento presente e acaba criando neuroses.
+
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
