@@ -17,7 +17,9 @@ Os indivíduos neuróticos possuem grandes apreensões sobre tudo a sua volta, *
 
 A neurose é muitas vezes originada de vestígios do passado que nos perseguem em todas as novas situações.
 
-O agravamento de sentimentos e emoções negativas que constantemente atingem os neuróticos pode causar tranastornos mentais, como depressão, ansiedade, TOC e fobias.
+O agravamento de sentimentos e emoções negativas que constantemente atingem os neuróticos pode causar transtornos mentais, como depressão, ansiedade, TOC e fobias. A neurose não é a doença, o transtorno é muito mais complicado.
+
+[[Como lidar com manias e neuroses?]]
 
 ###### **COMO:**
 
