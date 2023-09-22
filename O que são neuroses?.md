@@ -10,7 +10,7 @@ Mais de 100 anos depois, em 1893, [[Sigmund Freud]], redefiniu o conceito de neu
 
 Os indivíduos neuróticos possuem grandes apreensões sobre tudo a sua volta. Além disso, são emocionalmente vulneráveis e não reagem bem a mudanças ou críticas. [[A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus]].
 
-É impossível passar pelo mundo e não ter vivido uma situação neurótica, porque é da natureza humana fantasiar
+É impossível passar pelo mundo e não ter vivido uma situação neurótica, porque é da natureza humana fantasiar e carregar neuroses. Algumas delas carregamos a vida toda, porque esse é um processo [[Inconsciente]].
 
 ###### **COMO:**
 
