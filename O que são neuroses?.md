@@ -21,6 +21,10 @@ O agravamento de sentimentos e emoções negativas que constantemente atingem os
 
 [[Como lidar com manias e neuroses?]]
 
+Freud acreditava que a angústia que toda a angústia e o sofrimento são causados pelo [[Inconsciente]]. E ele usa de [[Mecanismos de defesa do Ego]] e de neuroses para que a gente possa de alguma forma escoar toda dor, medo, ansiedade, culpa, sentimentos de rejeição que eu sinto desde bebê. A neurose está muito relacionada com a [[Criança Interior]].
+
+[[Quais são as 3 características de psiconeuroses?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -36,3 +40,4 @@ O agravamento de sentimentos e emoções negativas que constantemente atingem os
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é a criança-sombra?]]

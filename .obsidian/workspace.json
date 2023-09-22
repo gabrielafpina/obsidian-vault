@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "0cf6f8f54d1d8cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são as 3 características de psiconeuroses?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e40e1d90e4da1e23",
             "type": "leaf",
             "state": {
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como lidar com manias e neuroses?.md",
+                "file": "Quais são as 3 características de psiconeuroses?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como lidar com manias e neuroses?.md",
+                "file": "Quais são as 3 características de psiconeuroses?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como lidar com manias e neuroses?.md"
+                "file": "Quais são as 3 características de psiconeuroses?.md"
               }
             }
           },
@@ -236,9 +248,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e40e1d90e4da1e23",
+  "active": "0cf6f8f54d1d8cb7",
   "lastOpenFiles": [
     "O que são neuroses?.md",
+    "Quais são as 3 características de psiconeuroses?.md",
     "Como lidar com manias e neuroses?.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
@@ -263,7 +276,6 @@
     "2. Literature Notes/Topics/O meu nível de consciência está equiparado ao que me tira do sério.md",
     "2. Literature Notes/Topics/Reclamar é clamar para acontecer de novo.md",
     "2. Literature Notes/Topics/Jamais compare a sua história com uma história catastrófica.md",
-    "2. Literature Notes/Topics/O resultado que acontece é sempre o melhor resultado que poderia ser.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
