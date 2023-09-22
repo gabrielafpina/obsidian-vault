@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md"
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
               }
             }
           },
@@ -243,8 +243,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e6111d6a872143",
+  "active": "b2dfe1225a3920c6",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
@@ -270,7 +271,6 @@
     "O resultado que acontece é sempre o melhor resultado que poderia ser.md",
     "Quer estar na presença? Vá de ré..md",
     "Se existe a possibilidade de infinitas possibilidades, porque eu vou me apegar a uma?.md",
-    "2. Literature Notes/Topics/Lei da Potencialidade Pura.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
