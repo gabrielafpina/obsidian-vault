@@ -24,3 +24,4 @@ Não existe absolutamente ninguém como você no mundo. Com o seu jeito, trejeit
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O universo é um grande quebra cabeça onde cada um de nós traz uma peça]]
