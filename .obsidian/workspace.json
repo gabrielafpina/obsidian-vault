@@ -40,20 +40,6 @@
             }
           },
           {
-            "id": "a661ddb3b240b8a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "624a0bc78f943862",
             "type": "leaf",
             "state": {
@@ -72,6 +58,30 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e63999a9a25dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a resistência?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855fe4c81b8540fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
+                "file": "Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
+                "file": "Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md"
+                "file": "Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md"
               }
             }
           },
@@ -333,8 +343,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1a45988f50b7bce",
+  "active": "855fe4c81b8540fd",
   "lastOpenFiles": [
+    "O que é a resistência?.md",
+    "Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
+    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Qual é a diferença entre a resistência ativa e passiva?.md",
     "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
     "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
@@ -358,9 +371,6 @@
     "3. Me, Myself and I/Terapias/Ressignificação de Crenças.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/Como encontrar os meus valores pessoais?.md",
-    "2. Literature Notes/Topics/O dinheiro é Sagrado.md",
-    "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
-    "2. Literature Notes/Topics/Se você ama Deus, não tem coerência não amar a sua vida.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

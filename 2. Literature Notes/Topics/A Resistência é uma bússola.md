@@ -34,5 +34,6 @@ Mas, e se, ao invés de fugir do lobo, nós o encarássemos? E se, ao invés de 
 - [[Só você veio para fazer o que você veio fazer]]
 - [[Ego]]
 - [[Lobo divino x Lobo selvagem]]
+- [[O que é a resistência?]]
 
 **Sul: para onde vai**
