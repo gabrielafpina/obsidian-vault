@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "a661ddb3b240b8a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "981afa85e5ace038",
             "type": "leaf",
             "state": {
@@ -108,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +168,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
+                "file": "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
+                "file": "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as causas da neurose?.md"
+                "file": "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md"
               }
             }
           },
@@ -295,11 +310,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b79414f5b1db9df",
+  "active": "a661ddb3b240b8a7",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
+    "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
-    "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
     "2. Literature Notes/Topics/Como lidar com manias e neuroses?.md",
     "2. Literature Notes/Topics/Quais são as 3 características de psiconeuroses?.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
@@ -322,7 +338,6 @@
     "2. Literature Notes/Topics/O dinheiro não é positivo e também não é negativo.md",
     "2. Literature Notes/Topics/Se você ama Deus, não tem coerência não amar a sua vida.md",
     "2. Literature Notes/Topics/A pressa não é um valor de Deus.md",
-    "2. Literature Notes/Topics/Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
