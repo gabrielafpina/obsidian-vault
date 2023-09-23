@@ -11,9 +11,9 @@ A "Resistência" é um conceito apresentado por [[Steven Pressfield]] para descr
 - Inércia
 - Preguiça
 
-Resistência é sempre você boicotando os seus sonhos! Mas, é difícil você identificar. Todos os seres humanos irão enfrentar isso. Para crescer como ser humano, p
+Resistência é sempre você boicotando os seus sonhos! Mas, é difícil você identificar. Todos os seres humanos irão enfrentar isso.
 
-A resistência só se manifesta para cima, para baixo, não. Tudo aquilo que vá elevar o seu nível de [[Consciência]], vai trazer algum tipo de resistência do seu [[Ego]].
+A resistência só se manifesta para cima, para baixo, não. Tudo aquilo que vá elevar o seu nível de [[Consciência]], vai trazer algum tipo de resistência do seu [[Ego]]. Para crescer como ser humano, pode esperar que terá resistência.
 
 **A Transição para a Condição Humana**
 Pressfield argumenta que o ser humano começa como um "animal dotado de mente". Se continuarmos a ser guiados apenas pelos nossos instintos básicos, nos tornamos predadores perigosos que usam a mente para potencializar esses instintos. No entanto, para realmente alcançar o estágio humano, devemos ter objetivos que vão além da mera sobrevivência e procriação.
