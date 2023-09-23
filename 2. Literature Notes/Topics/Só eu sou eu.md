@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #content 
 
 **FONTE:** [[Thauã Morlin]]
 
@@ -10,6 +10,7 @@ Não existe absolutamente ninguém como você no mundo. Com o seu jeito, trejeit
 **COMO:**
 
 **PENSADORES:**
+- [[Lúcia Helena Galvão]]: Cada um de nós tem um recado pra dar ao mundo, que só pode ser dado por nós! se nós não fizermos aquilo que viemos fazer, algo não vai ser dito, alguma palavra não vai ser ouvida, alguém vai perder, alguns sonhos vão morrer! Cada um tem um recado pra dar ao mundo quando realiza a sua natureza.
 
 **FRASES:**
 
