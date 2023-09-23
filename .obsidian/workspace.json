@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "4fc91a92591420ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você pode dominar, mas ninguém supera o medo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2fbe8478ae9ff8be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "A resistência é uma grande mestra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8ce0d4a545c1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A resistência é uma grande mestra.md",
+                "file": "Você pode dominar, mas ninguém supera o medo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A resistência é uma grande mestra.md",
+                "file": "Você pode dominar, mas ninguém supera o medo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A resistência é uma grande mestra.md"
+                "file": "Você pode dominar, mas ninguém supera o medo.md"
               }
             }
           },
@@ -276,16 +300,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fbe8478ae9ff8be",
+  "active": "4fc91a92591420ff",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é a resistência?.md",
+    "Você pode dominar, mas ninguém supera o medo.md",
+    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "A resistência é uma grande mestra.md",
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
     "2. Literature Notes/People/Steven Pressfield.md",
     "2. Literature Notes/Topics/Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
-    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/Qual é a diferença entre a resistência ativa e passiva?.md",
     "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
     "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
@@ -303,7 +328,6 @@
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
-    "2. Literature Notes/Topics/Todo aparente mal é um bem em gestação.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

@@ -12,6 +12,8 @@ A chave para superar a resistência é canalizar nossa "vontade". A vontade é a
 
 A resistência é comparada a um degrau em uma escada. Cada "parede" ou obstáculo que encontramos é uma forma de resistência que devemos superar para subir para o próximo nível. Se não aplicarmos nossa vontade para superar essa "parede", permaneceremos estagnados.
 
+O último ponto importante é que a resistência não é uma experiência única para qualquer indivíduo; é **universal**. Todos os seres enfrentam algum tipo de resistência ou obstáculo em suas vidas. Não estamos sozinhos nessa luta; é uma parte intrínseca do processo de crescimento e desenvolvimento para todos.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
