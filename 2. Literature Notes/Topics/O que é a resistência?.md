@@ -11,7 +11,7 @@ A "Resistência" é um conceito apresentado por [[Steven Pressfield]] para descr
 - Inércia
 - Preguiça
 
-Resistência é sempre você boicotando os seus sonhos! Mas, é difícil você identificar.
+Resistência é sempre você boicotando os seus sonhos! Mas, é difícil você identificar. Todos os seres humanos irão enfrentar isso. Para crescer como ser humano, p
 
 A resistência só se manifesta para cima, para baixo, não. Tudo aquilo que vá elevar o seu nível de [[Consciência]], vai trazer algum tipo de resistência do seu [[Ego]].
 
