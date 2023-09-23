@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2fbe8478ae9ff8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A resistência é uma grande mestra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "58668ab94b651918",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A resistência é uma grande mestra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A resistência é uma grande mestra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +236,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A resistência é uma grande mestra.md"
+              }
             }
           },
           {
@@ -260,9 +276,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac7168dd6718be7e",
+  "active": "2fbe8478ae9ff8be",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é a resistência?.md",
+    "A resistência é uma grande mestra.md",
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
@@ -287,7 +304,6 @@
     "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/Todo aparente mal é um bem em gestação.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
