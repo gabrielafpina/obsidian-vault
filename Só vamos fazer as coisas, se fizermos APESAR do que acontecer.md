@@ -22,6 +22,8 @@ Se você não assume que é importante, e que vai ser feito, pretexto para não 
 
 **Norte: ideia/pergunta**
 - [[Como procrastinar menos?]]
-- [[procrast]]
+- [[Como a Ansiedade e Procrastinação te atrasam?]]
+- [[Quais são consequências da procrastinação?]]
 
 **Sul: para onde vai**
+- [[A construção de si próprio não traz satisfação rápida]]

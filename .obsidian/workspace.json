@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ea11bece5224d45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2fbe8478ae9ff8be",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "só eu sou eu",
+                "query": "untitled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,8 +194,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
+                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
+                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md"
+                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md"
               }
             }
           },
@@ -325,13 +336,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c2ff873b67d94ff",
+  "active": "ea11bece5224d45c",
   "lastOpenFiles": [
-    "O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
+    "A construção de si próprio não traz satisfação rápida.md",
     "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
+    "O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
     "Existe um acordo tácito por permanecer na mediocridade.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
-    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
@@ -352,7 +364,6 @@
     "Untitled.md",
     "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
