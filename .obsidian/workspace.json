@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1ce2c1e580397b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76d722fb8696613d",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Depressão é a saudade de nós mesmos.md",
+                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Depressão é a saudade de nós mesmos.md",
+                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Depressão é a saudade de nós mesmos.md"
+                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md"
               }
             }
           },
@@ -300,12 +312,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "1ce2c1e580397b36",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
-    "Depressão é a saudade de nós mesmos.md",
-    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
+    "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
+    "Depressão é a saudade de nós mesmos.md",
+    "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
+    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "A construção de si próprio não traz satisfação rápida.md",
@@ -327,7 +340,6 @@
     "2. Literature Notes/Topics/Como lidar com manias e neuroses?.md",
     "2. Literature Notes/Topics/Quais são as 3 características de psiconeuroses?.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
-    "2. Literature Notes/Topics/O que são neuroses?.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

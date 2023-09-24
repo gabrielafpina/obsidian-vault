@@ -59,3 +59,4 @@ Então, em resumo, a Resistência é essa força interna que nos impede de cresc
 - [[Só vamos fazer as coisas, se fizermos APESAR do que acontecer]]
 - [[O ser humano tem duas vidas]]
 - [[O universo é um grande quebra cabeça onde cada um de nós traz uma peça]]
+- [[Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários]]
