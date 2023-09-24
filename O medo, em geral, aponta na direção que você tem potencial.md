@@ -24,3 +24,4 @@ Medo é indicador do tamanho de resistência e tamanho do sonho. O tamanho do me
 
 
 **Sul: para onde vai**
+- [[Não se realizam sonhos com a energia emprestada]]

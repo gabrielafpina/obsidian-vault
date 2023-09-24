@@ -62,3 +62,4 @@ Então, em resumo, a Resistência é essa força interna que nos impede de cresc
 - [[Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários]]
 - [[O que é o bom karma?]]
 - [[Uma pessoa que luta para realizar seus sonhos não tem tempo nem interesse em criticar ninguém]]
+- [[A essência é a alquimia da alma, transformando adversidades em ouro puro de experiência]]
