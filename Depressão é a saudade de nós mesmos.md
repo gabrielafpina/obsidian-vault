@@ -6,9 +6,9 @@
 ###### **DEFINIÇÃO:**
 Muito do que se chama de depressão é angústia existencial, por não fazer o que viemos fazer. Frustração diante da maneira como vivemos! Depressão e ansiedade podem ser reais, mas também podem ser RESISTÊNCIA. Cuidado! [[O que é a resistência?]]
 
-Ao invés de autoconhecimento, autodisciplina, gratificação protelada e trabalho árduo, que é a vida de um profissional, de uma pessoa que leva a vida a sério, a pessoa se dopa com medicamento para não sentir o chamado da sua alma e, consequentemente, começa a se sentir deprimida. [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]]
+Ao invés de autoconhecimento, autodisciplina, gratificação protelada e trabalho árduo, que é a vida de um profissional, de uma pessoa que leva a vida a sério, a pessoa se dopa com medicamento para não sentir o chamado da sua alma e, consequentemente, começa a se sentir deprimida. [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]]. [[Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma]].
 
-Vivendo dessa maneira, ele não vai estar feliz. A única chance que tem, é não estar feliz! Se vive uma vida medíocre e está feliz... acabou para ela!
+Se você não realiza nada dos seus sonhos e está feliz, você está perdido.
 
 ###### **COMO:**
 
