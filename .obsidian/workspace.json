@@ -20,24 +20,48 @@
             }
           },
           {
-            "id": "1ce2c1e580397b36",
+            "id": "19c9c07f3b4bdea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
+                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ff80c48ee6a634e",
+            "id": "c8701351cda15ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
+                "file": "O medo, em geral, aponta na direção que você tem potencial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92284d942aa88fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uma pessoa que luta para realizar seus sonhos não tem tempo nem interesse em criticar ninguém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ce2c1e580397b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
                 "mode": "source",
                 "source": false
               }
@@ -228,7 +252,7 @@
             }
           },
           {
-            "id": "72476ed42cfeb451",
+            "id": "6f715ab894892ca3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -236,7 +260,7 @@
             }
           },
           {
-            "id": "9bf8062ab7b3cf1b",
+            "id": "66baeaf41e0238d0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -257,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
+                "file": "O medo, em geral, aponta na direção que você tem potencial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
+                "file": "O medo, em geral, aponta na direção que você tem potencial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md"
+                "file": "O medo, em geral, aponta na direção que você tem potencial.md"
               }
             }
           },
@@ -336,16 +360,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ff80c48ee6a634e",
+  "active": "c8701351cda15ff9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
+    "O medo, em geral, aponta na direção que você tem potencial.md",
+    "2. Literature Notes/Topics/O que é a resistência?.md",
+    "Uma pessoa que luta para realizar seus sonhos não tem tempo nem interesse em criticar ninguém.md",
+    "O que é o bom karma?.md",
+    "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
     "Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/O que é a resistência?.md",
     "Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "A construção de si próprio não traz satisfação rápida.md",
     "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
@@ -360,10 +388,6 @@
     "2. Literature Notes/Topics/Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
     "2. Literature Notes/Topics/Qual é a diferença entre a resistência ativa e passiva?.md",
     "2. Literature Notes/Topics/Crescer como ser humano não é a prioridade da nossa sociedade.md",
-    "2. Literature Notes/Topics/Quais são as causas da neurose?.md",
-    "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
-    "2. Literature Notes/Topics/Quais são as principais estratégias de autoproteção?.md",
-    "2. Literature Notes/Topics/Como lidar com manias e neuroses?.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

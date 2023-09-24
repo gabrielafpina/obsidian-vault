@@ -35,5 +35,6 @@ Mas, e se, ao invés de fugir do lobo, nós o encarássemos? E se, ao invés de 
 - [[Ego]]
 - [[Lobo divino x Lobo selvagem]]
 - [[O que é a resistência?]]
+- [[O medo, em geral, aponta na direção que você tem potencial]]
 
 **Sul: para onde vai**
