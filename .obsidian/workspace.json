@@ -80,75 +80,39 @@
             }
           },
           {
-            "id": "3e8ce0d4a545c1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58668ab94b651918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a8bdbff6f9cac03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb646f17a315817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "855fe4c81b8540fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac7168dd6718be7e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "88daee639e34bfec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A depressão é uma dádiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3f591b0d9a167de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depressão é a saudade de nós mesmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untitled",
+                "query": "depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -257,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
+                "file": "Depressão é a saudade de nós mesmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
+                "file": "Depressão é a saudade de nós mesmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md"
+                "file": "Depressão é a saudade de nós mesmos.md"
               }
             }
           },
@@ -336,16 +300,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea11bece5224d45c",
+  "active": "d3f591b0d9a167de",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
+    "Depressão é a saudade de nós mesmos.md",
+    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
+    "2. Literature Notes/Topics/O que é a resistência?.md",
+    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
+    "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "A construção de si próprio não traz satisfação rápida.md",
     "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
     "O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
     "Existe um acordo tácito por permanecer na mediocridade.md",
-    "2. Literature Notes/Topics/O que é a resistência?.md",
-    "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
-    "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
@@ -361,9 +328,6 @@
     "2. Literature Notes/Topics/Quais são as 3 características de psiconeuroses?.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
-    "Untitled.md",
-    "2. Literature Notes/Topics/A justificativa perpetua a mediocridade.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

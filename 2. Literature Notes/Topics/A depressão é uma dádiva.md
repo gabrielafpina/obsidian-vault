@@ -11,7 +11,7 @@ Quando você se força a ser algo que já não te cabe mais, a sua alma começa 
 	***==O que te energiza?==***
 	O que você ama criar para potencializar a sua voz única? ***==O que você cria ao simplesmente seguir a sua curiosidade?==***
 
-Depressão é a negação de quem a gente vem se tornando.
+Depressão é a negação de quem a gente vem se tornando. [[Depressão é a saudade de nós mesmos]]
 
 **COMO:**
 
