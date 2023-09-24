@@ -10,6 +10,7 @@ Os lugares proibidos são:
 1. **Salvador**
 	1. Você fica querendo salvar o outro, porque existe uma grande possibilidade de ter sido uma criança que não foi reconhecida, não se sentiu amada e vista pelo pai e pela mãe.
 	2. Eu faço para todo mundo o que eu não faço para mim mesma. Eu faço para os outros porque eu espero que os outros me amem, já que eu não me amo em primeiro lugar. É vaidade você querer que a vida do outro dê certo. Você tem apenas o poder de fazer a sua vida dar certo, você tem apenas o poder de se salvar.
+	3. [[Ser o salvador de alguém é o naufrágio de si mesmo]]
 2. **Abusador**
 	1. É fácil identificar quando você entra no papel de abusador, porque dá um negocinho dentro de você. Você sabe.
 	2. O grande desafio, na verdade, é se auto observar, para entender quando é que você está sendo abusadora de si mesma. ´Quando meu corpo está pedindo descanso e eu não estou dando aquilo que ele precisa?´. ´Quando que eu estou escolhendo uma coisa e eu não estou fazendo o que eu estou escolhendo?´. Esse é o pior abuso, porque eu só sou capaz de fazer com o outro o que eu ainda faço comigo mesma. Se eu ainda abuso a mim mesma, eu posso cair no lugar de abusar do outro.
