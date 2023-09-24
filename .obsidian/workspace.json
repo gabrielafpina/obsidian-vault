@@ -20,14 +20,24 @@
             }
           },
           {
-            "id": "4fc91a92591420ff",
+            "id": "76d722fb8696613d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "Existe um acordo tácito por permanecer na mediocridade.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "429b92c68654c2a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
             }
           },
@@ -112,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "Existe um acordo tácito por permanecer na mediocridade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
+                "file": "Existe um acordo tácito por permanecer na mediocridade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md"
+                "file": "Existe um acordo tácito por permanecer na mediocridade.md"
               }
             }
           },
@@ -300,11 +310,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fc91a92591420ff",
+  "active": "429b92c68654c2a6",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
-    "2. Literature Notes/Topics/Untitled.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
+    "Existe um acordo tácito por permanecer na mediocridade.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
@@ -327,7 +338,6 @@
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
-    "2. Literature Notes/Topics/Tudo acontece no momento divino.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

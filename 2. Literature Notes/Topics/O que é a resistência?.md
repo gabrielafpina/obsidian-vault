@@ -53,3 +53,4 @@ Então, em resumo, a Resistência é essa força interna que nos impede de cresc
 - [[O ser humano tem duas vidas]]
 - [[Quais são os medos que mais seguram as pessoas?]]
 - [[Você pode dominar, mas ninguém supera o medo]]
+- [[Existe um acordo tácito por permanecer na mediocridade]]
