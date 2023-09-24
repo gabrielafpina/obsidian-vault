@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5ff80c48ee6a634e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4813c2f5b4f4ae2b",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ser o salvador de alguém é o naufrágio de si mesmo.md",
+                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ser o salvador de alguém é o naufrágio de si mesmo.md",
+                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ser o salvador de alguém é o naufrágio de si mesmo.md"
+                "file": "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md"
               }
             }
           },
@@ -324,11 +336,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "798f6db591031e2d",
+  "active": "5ff80c48ee6a634e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
+    "Ser o salvador de alguém é o naufrágio de si mesmo.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
     "Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",

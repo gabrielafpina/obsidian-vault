@@ -31,3 +31,4 @@ A frase encapsula a complexidade e a toxicidade da relação entre vitimização
 
 
 **Sul: para onde vai**
+- [[A pior solidão é estar desacompanhado de si mesmo]]

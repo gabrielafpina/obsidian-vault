@@ -22,5 +22,8 @@ A solidão nos obriga a estar com nós mesmos. E muitos não querem estar consig
 
 **Norte: ideia/pergunta**
 - [[O único trabalho verdadeiro é o trabalho sobre si]]
+- [[A Resistência é uma bússola]]
+- [[A resistência é uma grande mestra]]
+- [[O que é a resistência?]]
 
 **Sul: para onde vai**
