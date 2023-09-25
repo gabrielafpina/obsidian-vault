@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05e63999a9a25dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a resistência?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a956ac2f29bf5043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19c9c07f3b4bdea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A Resistência é uma bússola.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3ee976e70ffb6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não se realizam sonhos com a energia emprestada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "798f6db591031e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1374d635ae1b4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2ff873b67d94ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea11bece5224d45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fbe8478ae9ff8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac7168dd6718be7e",
             "type": "leaf",
             "state": {
@@ -136,6 +28,30 @@
             }
           },
           {
+            "id": "8b34348ab048349d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ffb87d6b56c406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "88daee639e34bfec",
             "type": "leaf",
             "state": {
@@ -146,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3f591b0d9a167de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md"
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md"
               }
             }
           },
@@ -348,13 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ac60cc7b7c01790",
+  "active": "e6ffb87d6b56c406",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
+    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/A essência é a alquimia da alma, transformando adversidades em ouro puro de experiência.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
     "2. Literature Notes/Topics/Não se realizam sonhos com a energia emprestada.md",
-    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
     "2. Literature Notes/Topics/O medo, em geral, aponta na direção que você tem potencial.md",
@@ -375,7 +280,6 @@
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
-    "2. Literature Notes/People/Steven Pressfield.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
