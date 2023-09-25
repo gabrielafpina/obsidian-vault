@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Não se realizam sonhos com a energia emprestada.md",
+                "file": "2. Literature Notes/Topics/Não se realizam sonhos com a energia emprestada.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ser o salvador de alguém é o naufrágio de si mesmo.md",
+                "file": "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
+                "file": "2. Literature Notes/Topics/O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
+                "file": "2. Literature Notes/Topics/Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,14 +141,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Depressão é a saudade de nós mesmos.md",
+                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandeira",
+                "query": "aprendizado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -194,7 +194,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,9 +295,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
-              }
+              "state": {}
             }
           },
           {
@@ -336,34 +333,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a956ac2f29bf5043",
+  "active": "ac7168dd6718be7e",
   "lastOpenFiles": [
-    "A essência é a alquimia da alma, transformando adversidades em ouro puro de experiência.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
+    "2. Literature Notes/Topics/A essência é a alquimia da alma, transformando adversidades em ouro puro de experiência.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
-    "Não se realizam sonhos com a energia emprestada.md",
-    "Depressão é a saudade de nós mesmos.md",
-    "Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
+    "2. Literature Notes/Topics/Não se realizam sonhos com a energia emprestada.md",
+    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+    "2. Literature Notes/Topics/Vitimização é o palco onde a resistência veste o drama, prendendo todos em um enredo de medos imaginários.md",
     "2. Literature Notes/Topics/A Resistência é uma bússola.md",
-    "O medo, em geral, aponta na direção que você tem potencial.md",
-    "Uma pessoa que luta para realizar seus sonhos não tem tempo nem interesse em criticar ninguém.md",
-    "O que é o bom karma?.md",
+    "2. Literature Notes/Topics/O medo, em geral, aponta na direção que você tem potencial.md",
+    "2. Literature Notes/Topics/Uma pessoa que luta para realizar seus sonhos não tem tempo nem interesse em criticar ninguém.md",
+    "2. Literature Notes/Topics/O que é o bom karma?.md",
     "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
-    "Ser o salvador de alguém é o naufrágio de si mesmo.md",
+    "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
-    "A construção de si próprio não traz satisfação rápida.md",
-    "Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
-    "O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
-    "Existe um acordo tácito por permanecer na mediocridade.md",
+    "2. Literature Notes/Topics/A construção de si próprio não traz satisfação rápida.md",
+    "2. Literature Notes/Topics/Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
+    "2. Literature Notes/Topics/O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
+    "2. Literature Notes/Topics/Existe um acordo tácito por permanecer na mediocridade.md",
     "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
     "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
     "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
     "2. Literature Notes/People/Steven Pressfield.md",
-    "2. Literature Notes/Topics/Tão inexorável quanto alimentar o corpo para que não morra, é alimentar a alma, fazendo aquilo que ela veio ao mundo para fazer..md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
