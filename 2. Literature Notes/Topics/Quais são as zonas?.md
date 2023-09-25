@@ -14,9 +14,10 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 #### **Quais são as zonas?**
 ##### Zonas Inferiores
 1. **Zona de merda/da incompetência**
-	1. Onde temos dificuldade natural com uma habilidade, não importa o quanto nos esforcemos
-	2. Quais são aquelas coisas que você se sente mal e incompetente fazendo?
-	3. *Você já se pegou insistindo em algo para o qual claramente não tem habilidade? Como isso afetou seu bem-estar?*
+	1. Onde temos dificuldade natural com uma habilidade, não importa o quanto nos esforcemos. É aquela em que você tem dificuldade para executar, mesmo se esforçando. É algo que outra pessoa faria melhor que você. Ou seja, aqui você só faz merda.
+	2. Questione-se:
+		1. Quais são aquelas coisas que você se sente mal e incompetente fazendo?
+		2. Você já se pegou insistindo em algo para o qual claramente não tem habilidade? Como isso afetou seu bem-estar?
 2. **Zona de mediocridade/da competência**
 	1. É a mais perigosa, porque quando você está aqui, você pode ter alguma recompensa, porque você está mediano. É muito melhor estar na zona de merda do que na zona de mediocridade, porque a zona de mediocridade te paga um salário médio, ele te prende. Te paga o suficiente para você sobreviver. Ou seja, você gasta energia para se manter mediano. A maior parte da população está aqui, na zona do ´bom o suficiente´. Essa é a zona de morte dos sonhos, dos gênios.
 			Se você se manter nessa zona, você vai conseguir sobreviver, mas vai viver uma vida de frustração. Todo aquele que vive fora da zona de genialidade, sabe que tem algo que falta, mas ainda não sabe o que é. Sabe que tem algo que falta para virar a chave e fazer acontecer, mas ainda não sabe o que é. [[Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma]].

@@ -23,3 +23,4 @@ Não atingir nosso potencial máximo é uma receita para a insatisfação.
 - [[Quais são as zonas?]]
 
 **Sul: para onde vai**
+- [[Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre]]

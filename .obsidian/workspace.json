@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "d7cce3de874a6a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "824d4c8e9ee34a13",
             "type": "leaf",
             "state": {
@@ -103,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -292,18 +303,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cf5a7e55b15d85d",
+  "active": "8b34348ab048349d",
   "lastOpenFiles": [
+    "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
+    "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "Captura de Tela 2023-09-25 às 16.38.15.png",
     "5. Shots, Images & PDFs/maslow.png",
-    "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
@@ -321,7 +333,6 @@
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
-    "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
