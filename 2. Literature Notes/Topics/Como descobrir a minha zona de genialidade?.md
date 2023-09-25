@@ -5,9 +5,12 @@
 
 ###### **DEFINIÇÃO:**
 1. **Conheça seus talentos e habilidades**: Quando você compreende em quais zonas você opera diariamente, torna-se possível priorizar e investir tempo na sua Zona de Genialidade.
-	1. Questione-se ou pergunte a pessoas próximas:
+	1. Pergunte a pessoas próximas:
+		1. O que você me considera excepcional?
+		2. O que você acha que eu sou naturalmente boa fazendo?
+		3. O que você acha que me diferencia de outras pessoas?
+	2. Questione-se:
 		1. O que eu faço de único que mais ninguém faz?
-		2. No que eu sou naturalmente boa?
 		3. Qual é um elogio que eu recebo constantemente de outras pessoas?
 		4. Em quais atividades você se sente mais energizado e motivado?
 		5. Quais são os projetos ou tarefas em que você se destaca e obtém resultados excepcionais?
@@ -23,6 +26,8 @@
 	6. [[Criação de Vision Board]]
 
 3. Identifique onde você está na [[Pirâmide de Maslow]]. [[O que a pirâmide de maslow tem a ver com a zona de genialidade?]]
+
+4. TESTE!
 ###### **COMO:**
 
 ###### **PENSADORES:**
