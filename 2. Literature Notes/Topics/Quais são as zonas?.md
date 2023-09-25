@@ -93,9 +93,12 @@ Livro recomendado: The big Leap, rápido e devagar
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[A Resistência é uma bússola]]
 
 **Sul: para onde vai**
 - [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 - [[Porque eu deveria atuar na minha zona de genialidade?]]
 - [[Como descobrir a minha zona de genialidade?]]
 - [[O que a pirâmide de maslow tem a ver com a zona de genialidade?]]
+- [["Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro."]]
+- [[Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer]]
