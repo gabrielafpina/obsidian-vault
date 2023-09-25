@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -316,10 +315,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4045e2a64c2d1242",
+  "active": "8b34348ab048349d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
+    "Nassim Taleb.md",
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
     "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
@@ -345,7 +345,6 @@
     "2. Literature Notes/Topics/O que é o bom karma?.md",
     "2. Literature Notes/Topics/A pior solidão é estar desacompanhado de si mesmo.md",
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
