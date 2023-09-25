@@ -4,20 +4,30 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu posso fazer as pessoas pensarem: ´Valeu o meu tempo?´
+Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu posso fazer as pessoas pensarem: ´Valeu o meu tempo?´. 
+- Porque é importante conhecer as zonas?
+	- **Autoconhecimento**: Saber em qual zona você está operando permite um alinhamento mais preciso com seus objetivos de vida.
+	- **Otimização de Tempo e Energia**: Ao focar nas zonas superiores, você maximiza seu impacto e satisfação.
+	- **Desenvolvimento Pessoal**: Compreender suas zonas ajuda no seu crescimento pessoal, permitindo que você saiba onde investir em desenvolvimento de habilidades.
+	- **Impacto e Legado**: Operar na Zona de Genialidade não apenas eleva sua vida, mas também pode ter um impacto significativo no mundo.
 
-**Quais são as zonas?**
+#### **Quais são as zonas?**
+##### Zonas Inferiores
 1. **Zona de merda/da incompetência**
 	1. Onde temos dificuldade natural com uma habilidade, não importa o quanto nos esforcemos
+	2. Quais são aquelas coisas que você se sente mal e incompetente fazendo?
+	3. *Você já se pegou insistindo em algo para o qual claramente não tem habilidade? Como isso afetou seu bem-estar?*
 2. **Zona de mediocridade/da competência**
 	1. É a mais perigosa, porque quando você está aqui, você pode ter alguma recompensa, porque você está mediano. É muito melhor estar na zona de merda do que na zona de mediocridade, porque a zona de mediocridade te paga um salário médio, ele te prende. Te paga o suficiente para você sobreviver. Ou seja, você gasta energia para se manter mediano. A maior parte da população está aqui, na zona do ´bom o suficiente´. Essa é a zona de morte dos sonhos, dos gênios.
 			Se você se manter nessa zona, você vai conseguir sobreviver, mas vai viver uma vida de frustração. Todo aquele que vive fora da zona de genialidade, sabe que tem algo que falta, mas ainda não sabe o que é. Sabe que tem algo que falta para virar a chave e fazer acontecer, mas ainda não sabe o que é. [[Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma]].
 	2. A zona de mediocridade é quando você tem muito potencial, mas pouco resultado. É onde somos medianos. Conseguimos executar uma tarefa de forma satisfatória, mas não nos destacamos
-3. **Zona de excelência**
+	3. *Em que áreas você é apenas "competente"? Você está satisfeito em permanecer nesse nível?*
+##### Zonas Superiores
+1. **Zona de excelência**
 	1. Você sente que está explorando o seu potencial e sendo muito bem recompensado por isso. Você é muito bom no que faz, mas você ainda sente que você pode gerar mais valor. Aqui, a recompensa extrínseca já não faz mais sentido para você, porque você já gerou resultados e dinheiro, o que importa é a ==recompensa intrínseca==, a sua satisfação consigo mesmo.
 	2. Quando você toma a coragem de sair desse lugar e ir para a sua zona de genialidade, você tem a possibilidade de fazer algo fantástico e que te traga alegria. É difícil dar esse salto, porque requer muita coragem.
 	3. É onde nossos talentos naturais sobressaem. Aqui performamos no topo consistentemente e com maestria. Um jogador de futebol habilidoso atua em seu domínio de excelência em campo.
-4. **Zona de genialidade**
+2. **Zona de genialidade**
 	1. É o que é natural e simples para mim. É onde eu brinco e, por isso, me torno imparável. Você não fica nem querendo fazer outras coisas, porque isso te dá tanta satisfação, que você vai querer fazer isso todos os dias.
 	2. A zona de genialidade não é uma coisa específica, não é só uma habilidade. Ela é composta por vários elementos diferentes.
 	3. ==A sua zona de genialidade está muito ligada a algo que você está evitando fazer a muito tempo.== Você pode estar fugindo da sua genialidade, porque ela exige um esforço para você compreendê-la. O seu [[Inconsciente]] já sabe a sua zona de genialidade, é o seu [[Consciente]] que não sabe. Você precisa trazer a inconsciência para a [[Consciência]]. **O seu chamado está em curar a sua [[Criança Interior]] e o adolescente que você foi.** E ai, você cria soluções que vão ajudar muitas pessoas.

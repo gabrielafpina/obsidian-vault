@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -313,10 +313,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "8b34348ab048349d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
