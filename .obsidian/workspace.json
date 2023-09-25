@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "file": "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "file": "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md"
+                "file": "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md"
               }
             }
           },
@@ -340,8 +340,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2c272b86844e30d",
+  "active": "d66f012ebff2bc5d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro.\".md",
@@ -353,7 +354,6 @@
     "Nassim Taleb.md",
     "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
     "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
