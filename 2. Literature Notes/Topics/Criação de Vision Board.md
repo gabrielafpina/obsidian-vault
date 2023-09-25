@@ -30,9 +30,31 @@ Um Quadro da Visão, também conhecido como Quadro dos Sonhos ou "Vision Board",
 
 7. **Salve e Exporte**: Salve o quadro em um formato que seja fácil de acessar e visualizar.
 
-###### **PENSADORES:**
+###### **Texto vs. Imagem em um Quadro da Visão**:
+1. **Imagens**:
+    - **Impacto Imediato**: As imagens têm o poder de capturar a atenção e transmitir emoções rapidamente.
+        
+    - **Estímulo Visual**: Podem ser mais atraentes e memoráveis.
+        
+    - **Ambiguidade Criativa**: Uma imagem pode ter múltiplos significados e permitir uma interpretação mais aberta.
+        
+2. **Texto**:
+    - **Precisão**: Palavras podem fornecer um contexto mais específico e detalhado.
+        
+    - **Afirmações**: Frases motivacionais ou citações podem servir como lembretes verbais de seus objetivos.
+        
+    - **Claridade**: O texto pode eliminar ambiguidades, fornecendo um foco mais nítido.
 
-###### **FRASES:**
+###### **Por que Incluir Texto em um Quadro da Visão?**:
+1. **Complementaridade**: O texto pode complementar as imagens, fornecendo contexto ou esclarecendo o significado.
+    
+2. **Reforço**: Uma afirmação poderosa ou uma citação inspiradora podem servir como reforço emocional, similar ao impacto de uma imagem.
+    
+3. **Detalhamento**: O texto permite que você seja mais específico sobre seus objetivos, o que pode ser útil para metas complexas que não podem ser facilmente representadas por uma única imagem.
+    
+4. **Variedade**: A inclusão de texto adiciona outra dimensão ao seu quadro, tornando-o mais rico e diversificado em termos de conteúdo.
+    
+5. **Reflexão**: Ler as palavras em seu quadro pode oferecer momentos de reflexão, permitindo que você internalize seus objetivos de uma forma diferente em comparação com apenas visualizá-los.
 
 ---------
 

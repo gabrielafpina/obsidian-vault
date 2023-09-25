@@ -36,3 +36,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+[["Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida."]]

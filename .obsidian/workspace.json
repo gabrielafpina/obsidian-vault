@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como descobrir a minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "448bc41c0a32f5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criação de Vision Board.md",
+                "file": "2. Literature Notes/Topics/Criação de Vision Board.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porque eu deveria atuar na minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Criação de Vision Board.md",
+                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Criação de Vision Board.md",
+                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Criação de Vision Board.md"
+                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md"
               }
             }
           },
@@ -301,13 +313,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "824d4c8e9ee34a13",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "Como descobrir a minha zona de genialidade?.md",
-    "Criação de Vision Board.md",
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+    "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+    "2. Literature Notes/Topics/Criação de Vision Board.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
-    "Porque eu deveria atuar na minha zona de genialidade?.md",
+    "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
@@ -328,7 +341,6 @@
     "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "2. Literature Notes/Topics/A construção de si próprio não traz satisfação rápida.md",
     "2. Literature Notes/Topics/Só vamos fazer as coisas, se fizermos APESAR do que acontecer.md",
-    "2. Literature Notes/Topics/O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
