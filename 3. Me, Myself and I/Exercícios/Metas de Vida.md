@@ -247,13 +247,14 @@ Com relação a casa, eu tenho algumas. Tem uma cobertura enorme frente à praia
 	- ==Erradicar crenças limitantes com relação ao dinheiro e esforço no trabalho da minha vida==
 
 **QUAIS SÃO OS MEUS VALORES?**
-1. Integridade
-2. Conexão com Deus
+1. Amor-Próprio
+1. Integridade e Verdade
+2. Consciência e Espiritualidade
 3. Sabedoria
 4. Progresso
 5. Autenticidade
 6. Transparência radical
-7. Comprometimento
+7. Lealdade
 8. Autoconfiança com humildade 
 9. Autonomia
 10. Clareza
