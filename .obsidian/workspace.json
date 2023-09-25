@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "5cf5a7e55b15d85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como descobrir a minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44264d02852c7411",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "file": "Como descobrir a minha zona de genialidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "file": "Como descobrir a minha zona de genialidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
+                "file": "Como descobrir a minha zona de genialidade?.md"
               }
             }
           },
@@ -264,10 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b34348ab048349d",
+  "active": "5cf5a7e55b15d85d",
   "lastOpenFiles": [
-    "Porque eu deveria atuar na minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "Como descobrir a minha zona de genialidade?.md",
+    "Porque eu deveria atuar na minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
@@ -291,7 +304,6 @@
     "2. Literature Notes/Topics/O melhor que você pode fazer pelas pessoas é avançar e dá exemplo.md",
     "2. Literature Notes/Topics/Existe um acordo tácito por permanecer na mediocridade.md",
     "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
-    "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

@@ -59,4 +59,4 @@ Livro recomendado: The big Leap, rápido e devagar
 **Sul: para onde vai**
 - [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 - [[Porque eu deveria atuar na minha zona de genialidade?]]
-- [[Como ]]
+- [[Como descobrir a minha zona de genialidade?]]
