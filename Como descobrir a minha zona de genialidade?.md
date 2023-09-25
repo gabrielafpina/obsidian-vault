@@ -20,7 +20,7 @@
 		1. "O que eu quero alcançar?" e "Como vou saber quando chegar lá?".
 		2. Quais são os seus valores? [[Como encontrar os meus valores pessoais?]] [[Estrela de Valores]]
 		3. Quais são as suas [[crenças]] de mundo?
-
+	6. [[Criação de Vision Board]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
