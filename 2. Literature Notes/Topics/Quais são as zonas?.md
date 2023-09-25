@@ -35,6 +35,7 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 			1. Através da **intuição** (está acima da mente, é sutil)
 			2. Fazer uma pergunta para as pessoas mais próximas: no que você acha que eu sou naturalmente bom? O que eu faço com mais facilidade que as outras pessoas? O que eu faço que te chama a atenção? Isso te ajuda a descobrir o que os outros pensam sobre você.
 				1. O que você acha que eu deveria melhorar? O que eu faço que eu não sou bom? O que eu faço com mais dificuldade que as outras pessoas? Aqui, você descobre a sua zona de merda e você DELEGA. Não foque em desenvolver os seus pontos fracos. Coloque foco sobre aquilo que você é muito bom e naturalmente isso vai gerar sombra. E quando você tem luz sobre a sua genialidade, você vai precisar de pessoas para administrar as suas sombras. Quanto mais genial você for em algo, mais você vai precisar da ajuda de outras pessoas. Assim, é importante ter em mente quem está do seu lado e se essas pessoas tem a capacidade de te ajudar.
+				2. *==O que você faz se divertindo que parece ser trabalho para os outros?==*
 	4. O conhecimento vem com grande responsabilidade. Conhecimento é liberdade, mas é também responsabilidade. E quando você tiver conhecimento sobre a sua zona de genialidade, o seu corpo te avisa quando você está fora da sua zona.
 		1. Depressão é quando você não corresponde ao seu chamado, ao seu combinado com Deus. [[A depressão é uma dádiva]]. Depressão é um chamado da alma para que você possa estar atuando naquilo que você veio fazer no planeta.
 		2. Quando você não ouve o sue chamado e o recusa, você é cobrado. Você já sabe o que é para fazer e não se sente preparado para atingir aquilo.
@@ -70,3 +71,4 @@ Livro recomendado: The big Leap, rápido e devagar
 - [[Se você não conhece os seus princípios e valores, você se corrompe pelo dinheiro]]
 - [[Porque eu deveria atuar na minha zona de genialidade?]]
 - [[Como descobrir a minha zona de genialidade?]]
+- [[O que a pirâmide de maslow tem a ver com a zona de genialidade?]]
