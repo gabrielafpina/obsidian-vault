@@ -18,11 +18,25 @@ Como eu posso gerar o máximo de valor possível para as pessoas hoje? Como eu p
 	2. Questione-se:
 		1. Quais são aquelas coisas que você se sente mal e incompetente fazendo?
 		2. Você já se pegou insistindo em algo para o qual claramente não tem habilidade? Como isso afetou seu bem-estar?
+		3. Qual seria um inventário das suas habilidades e interesses?
+			1. Quais são 3 tarefas ou atividades em que você se sente completamente incompetente?
+				1. Para cada tarefa, escreva como ela faz você se sentir e qual o impacto em sua vida ou trabalho
+				2. Decida uma ação para cada tarefa: Vou melhorar ou vou delegar?
+	3. Sinais de que você está nessa zona:
+		1. **Frustração e Ansiedade**: Você se sente constantemente frustrado e ansioso ao realizar a tarefa.
+		2. **Baixa Qualidade de Trabalho**: O resultado do seu esforço é subpar e não atende aos padrões.
+		3. **Desinteresse**: Você não tem nenhum interesse ou paixão pela atividade.
 2. **Zona de mediocridade/da competência**
 	1. É a mais perigosa, porque quando você está aqui, você pode ter alguma recompensa, porque você está mediano. É muito melhor estar na zona de merda do que na zona de mediocridade, porque a zona de mediocridade te paga um salário médio, ele te prende. Te paga o suficiente para você sobreviver. Ou seja, você gasta energia para se manter mediano. A maior parte da população está aqui, na zona do ´bom o suficiente´. Essa é a zona de morte dos sonhos, dos gênios.
 			Se você se manter nessa zona, você vai conseguir sobreviver, mas vai viver uma vida de frustração. Todo aquele que vive fora da zona de genialidade, sabe que tem algo que falta, mas ainda não sabe o que é. Sabe que tem algo que falta para virar a chave e fazer acontecer, mas ainda não sabe o que é. [[Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma]].
-	2. A zona de mediocridade é quando você tem muito potencial, mas pouco resultado. É onde somos medianos. Conseguimos executar uma tarefa de forma satisfatória, mas não nos destacamos
-	3. *Em que áreas você é apenas "competente"? Você está satisfeito em permanecer nesse nível?*
+	2. A zona de mediocridade é quando você tem muito potencial, mas pouco resultado. É onde somos medianos. Conseguimos executar uma tarefa de forma satisfatória, mas não nos destacamos.
+	3. A Zona de Mediocridade é um espaço onde você realiza tarefas de forma adequada, mas sem brilho. Você não é ruim o suficiente para falhar, mas também não é bom o suficiente para se destacar. É como se você estivesse preso em um ciclo interminável de "suficiente", onde você faz apenas o necessário para manter as coisas funcionando, mas não mais do que isso. Esta zona é como areia movediça: quanto mais você se acomoda nela, mais difícil é sair. O conforto que ela oferece é ilusório e, como a areia movediça, pode engolir anos de sua vida sem que você perceba. [[Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal]]
+	4. Questione-se:
+		1. Em que áreas você é apenas "competente"? Você está satisfeito em permanecer nesse nível?
+	5. Sinais de que você está nessa zona:
+		1. **Desenvolvimento Estagnado**: Ficar nesta zona por muito tempo pode levar à estagnação profissional e pessoal.
+		2. **Falta de Valor**: Você não está contribuindo com seu máximo potencial, o que significa que você não está agregando valor máximo ao mundo ou a si mesmo.
+		3. **Desmotivação**: A falta de desafios e crescimento pode levar à desmotivação e insatisfação.
 ##### Zonas Superiores
 1. **Zona de excelência**
 	1. Você sente que está explorando o seu potencial e sendo muito bem recompensado por isso. Você é muito bom no que faz, mas você ainda sente que você pode gerar mais valor. Aqui, a recompensa extrínseca já não faz mais sentido para você, porque você já gerou resultados e dinheiro, o que importa é a ==recompensa intrínseca==, a sua satisfação consigo mesmo.
