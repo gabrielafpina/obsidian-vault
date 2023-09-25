@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac7168dd6718be7e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ac60cc7b7c01790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6ffb87d6b56c406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88daee639e34bfec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b34348ab048349d",
             "type": "leaf",
             "state": {
@@ -70,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf0fef41b3362b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,18 +294,20 @@
   },
   "active": "85823de06100fe0f",
   "lastOpenFiles": [
+    "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "Captura de Tela 2023-09-25 às 16.38.15.png",
     "5. Shots, Images & PDFs/maslow.png",
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
-    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
     "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
-    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/A essência é a alquimia da alma, transformando adversidades em ouro puro de experiência.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
@@ -351,7 +321,6 @@
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Qual é a grande missão da alma?.md",
-    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
@@ -374,7 +343,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
     "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png",
-    "5. Shots, Images & PDFs/eneagrama_02-1024x786.png"
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png"
   ]
 }
