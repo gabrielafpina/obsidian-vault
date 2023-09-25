@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "8b34348ab048349d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6ffb87d6b56c406",
             "type": "leaf",
             "state": {
@@ -62,9 +50,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b34348ab048349d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44264d02852c7411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porque eu deveria atuar na minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depressão",
+                "query": "zona de genialidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -252,8 +264,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6ffb87d6b56c406",
+  "active": "8b34348ab048349d",
   "lastOpenFiles": [
+    "Porque eu deveria atuar na minha zona de genialidade?.md",
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "2. Literature Notes/Topics/Para viver o seu combinado com Deus é inteligente acessar o poder da sua alma.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
@@ -277,9 +292,6 @@
     "2. Literature Notes/Topics/Existe um acordo tácito por permanecer na mediocridade.md",
     "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
     "2. Literature Notes/Topics/A resistência é uma grande mestra.md",
-    "2. Literature Notes/Topics/O universo é um grande quebra cabeça onde cada um de nós traz uma peça.md",
-    "2. Literature Notes/Topics/Só eu sou eu.md",
-    "2. Literature Notes/Topics/O ser humano tem duas vidas.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
