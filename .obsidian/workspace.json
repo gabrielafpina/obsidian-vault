@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md"
               }
             }
           },
@@ -353,10 +353,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d66f012ebff2bc5d",
+  "active": "7a398c641f1af4ab",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
