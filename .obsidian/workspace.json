@@ -15,8 +15,8 @@
               "state": {
                 "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "viewState": {
-                  "x": 1014.636474609375,
-                  "y": 271.0910064697265,
+                  "x": 169.913818359375,
+                  "y": 177.75659484863274,
                   "zoom": 0
                 }
               }
@@ -156,6 +156,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07fb4cf303d9f54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Testes/MBTI.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,9 +389,10 @@
   },
   "active": "e017f46dc4501cdd",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+    "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",

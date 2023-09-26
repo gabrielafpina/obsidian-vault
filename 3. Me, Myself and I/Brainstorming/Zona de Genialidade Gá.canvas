@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"859672cfc4cd28d8","x":-195,"y":-39,"width":250,"height":233,"color":"3","type":"text","text":"**Zona de Merda**\n- Financeiro e Contábil\n- Gestão Administrativa"},
-		{"id":"3f7659722c0301c5","type":"text","text":"**Zona de Mediocridade**\n- Design\n- Gestão de Projetos\n- Organização e Planejamento\n- Edição de Vídeo","x":168,"y":-39,"width":250,"height":233,"color":"#f20202"},
-		{"id":"064600996e987273","type":"text","text":"**Zona de Excelência**\n- Marketing","x":576,"y":-39,"width":250,"height":233,"color":"5"},
-		{"id":"1c8dcc19636278c6","type":"text","text":"**Zona de Genialidade**\n- Comunicação Eficaz e Inspiradora\n- Criação de Conteúdo (vídeo e texto)\n- Capacidade de Aprendizado e Ensino Rápidos\n- Ação Orientada e Determinada\n- Autenticidade e Transparência\n- Entusiasmo\n- Criatividade\n- Empatia e Generosidade\n- Alegria e Energia Positiva\n- Prática e Ação\n- Facilidade em fazer networking","x":995,"y":-39,"width":250,"height":692,"color":"6"}
+		{"id":"859672cfc4cd28d8","x":-195,"y":-39,"width":250,"height":233,"color":"3","type":"text","text":"**Zona de Merda**\n- Financeiro e Contábil\n- Gestão Administrativa\n- Tarefas que Exigem Paciência Prolongada"},
+		{"id":"064600996e987273","type":"text","text":"**Zona de Excelência**\n- Marketing\n- Liderança orientada para a ação","x":576,"y":-39,"width":250,"height":233,"color":"5"},
+		{"id":"1c8dcc19636278c6","type":"text","text":"**Zona de Genialidade**\n- Comunicação Eficaz e Inspiradora\n- Criação de Conteúdo (vídeo e texto)\n- Capacidade de Aprendizado e Ensino Rápidos\n- Ação Orientada e Determinada\n- Autenticidade e Transparência\n- Entusiasmo\n- Criatividade\n- Empatia e Generosidade\n- Alegria e Energia Positiva\n- Prática e Ação\n- Facilidade em fazer networking","x":995,"y":-39,"width":523,"height":365,"color":"6"},
+		{"id":"3f7659722c0301c5","type":"text","text":"**Zona de Mediocridade**\n- Design\n- Gestão de Projetos\n- Organização e Planejamento\n- Edição de Vídeo\n- Trabalho solo prolongado\n- Tarefas que Não Exigem Criatividade ou Inovação","x":127,"y":-39,"width":330,"height":233,"color":"#f20202"}
 	],
 	"edges":[]
 }
