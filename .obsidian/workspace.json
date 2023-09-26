@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e017f46dc4501cdd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-                "viewState": {
-                  "x": 501.8608886718748,
-                  "y": 93.82654113769524,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
-            "id": "c63b65e2581398c8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
-                "viewState": {
-                  "x": 1412.2622977719109,
-                  "y": 879.9475453998098,
-                  "zoom": -3
-                }
-              }
-            }
-          },
-          {
             "id": "85823de06100fe0f",
             "type": "leaf",
             "state": {
@@ -122,6 +92,30 @@
             }
           },
           {
+            "id": "024995dfd1d2d2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como encontrar meu propósito? Teal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db73a4dfa64a207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44264d02852c7411",
             "type": "leaf",
             "state": {
@@ -134,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -153,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zonas",
+                "query": "fórmu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,6 +358,11 @@
   },
   "active": "a09aaa09518cacd7",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+    "Como encontrar meu propósito? Teal.md",
+    "3. Me, Myself and I/Exercícios/Metas de Vida.md",
+    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "9e7f5220fb3de7271f5c20028c2cc545.jpeg",
@@ -378,13 +376,9 @@
     "12.png",
     "11.png",
     "3. Me, Myself and I/Exercícios/Vision Boa.md",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "3. Me, Myself and I/Testes/MBTI.md",
