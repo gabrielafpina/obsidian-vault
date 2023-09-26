@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"377e373a5922e05c","type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png","x":-74,"y":-47,"width":400,"height":400},
 		{"id":"226de233ed0f9a0b","x":396,"y":565,"width":400,"height":278,"type":"file","file":"2PQ2VFU2FFLZTERSQ6MEA2OC7U.jpeg"},
 		{"id":"a601b56df2fec42a","x":-4,"y":1417,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"},
 		{"id":"c0abcc86aa82a5ff","x":-74,"y":443,"width":400,"height":400,"type":"file","file":"4.png"},
@@ -9,11 +8,14 @@
 		{"id":"74a5fc8ae59ff9e2","x":396,"y":43,"width":400,"height":400,"type":"file","file":"5.png"},
 		{"id":"8e39c7a69d6b3b6b","x":918,"y":-247,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png"},
 		{"id":"65ad540be9f81271","x":918,"y":304,"width":400,"height":400,"type":"file","file":"6.png"},
-		{"id":"6939f8807a683288","x":2178,"y":1599,"width":400,"height":400,"type":"file","file":"9.png"},
 		{"id":"fb9b0e0d4947e554","x":718,"y":959,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (4).png"},
-		{"id":"02ea64b6a9c33107","x":796,"y":2252,"width":400,"height":400,"type":"file","file":"5 1.png"},
 		{"id":"4b650695978b300b","x":518,"y":1417,"width":400,"height":400,"type":"file","file":"7.png"},
-		{"id":"d486c5c1a6c1c5ee","x":1118,"y":1417,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (5).png"}
+		{"id":"d486c5c1a6c1c5ee","x":1118,"y":1417,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (5).png"},
+		{"id":"d6bd93238733e825","x":1384,"y":443,"width":860,"height":860,"type":"file","file":"11.png"},
+		{"id":"6939f8807a683288","x":1662,"y":1417,"width":764,"height":764,"type":"file","file":"9.png"},
+		{"id":"5f81a66d8190b3ae","x":-616,"y":1910,"width":1084,"height":1084,"type":"file","file":"12.png"},
+		{"id":"377e373a5922e05c","type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png","x":-807,"y":-699,"width":1003,"height":1003},
+		{"id":"02ea64b6a9c33107","x":1518,"y":-562,"width":866,"height":866,"type":"file","file":"5 1.png"}
 	],
 	"edges":[]
 }
