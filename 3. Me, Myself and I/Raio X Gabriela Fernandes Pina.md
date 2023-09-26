@@ -71,6 +71,7 @@
 - **E o que você não ama mas é bom fazendo?**
 	- Gestão de projetos
 	- Design
+	- Organização e planejamento
 
 - **O que você ama fazer mas não é bom fazendo?**
 	- O que você é uma aprender, o que você é curioso para saber mais sobre? Você não se chamaria um expert nisso, ou até mesmo um semi profissional, você ainda seria um amador aqui. Mas é uma habilidade que você tem potencial de desenvolver. É algo que se você tivesse tempo e ferramentas para aprender sobre, você se debruçaria completamente sobre isso. Isso te daria energia, te daria tesão.
@@ -177,6 +178,10 @@
 
 
 ###### Mapa Numerológico
+
+
+###### Valores de Vida
+
 
 ###### Roda da Vida Atual
 
