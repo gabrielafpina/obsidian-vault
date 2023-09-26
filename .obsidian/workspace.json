@@ -15,9 +15,9 @@
               "state": {
                 "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "viewState": {
-                  "x": 169.913818359375,
-                  "y": 177.75659484863274,
-                  "zoom": 0
+                  "x": 492.4268066406248,
+                  "y": 254.2831451416015,
+                  "zoom": -1
                 }
               }
             }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "3. Me, Myself and I/Testes/MBTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "3. Me, Myself and I/Testes/MBTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
+                "file": "3. Me, Myself and I/Testes/MBTI.md"
               }
             }
           },
@@ -387,11 +387,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e017f46dc4501cdd",
+  "active": "07fb4cf303d9f54e",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
@@ -418,7 +418,6 @@
     "5. Shots, Images & PDFs/maslow.png",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
