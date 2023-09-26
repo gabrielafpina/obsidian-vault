@@ -1,9 +1,12 @@
 {
 	"nodes":[
 		{"id":"377e373a5922e05c","type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png","x":-74,"y":-47,"width":400,"height":400},
-		{"id":"bf28ca68bfe9d40b","x":380,"y":-47,"width":400,"height":234,"type":"link","url":"https://www.deskcoworking.com.br/wp-content/uploads/2023/05/estudio-de-podcast-em-belo-horizonte-e1683753584485.png"},
 		{"id":"8e39c7a69d6b3b6b","x":-74,"y":416,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png"},
-		{"id":"a601b56df2fec42a","x":380,"y":416,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"}
+		{"id":"a601b56df2fec42a","x":-74,"y":877,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"},
+		{"id":"bf28ca68bfe9d40b","x":396,"y":-81,"width":400,"height":234,"type":"link","url":"https://www.deskcoworking.com.br/wp-content/uploads/2023/05/estudio-de-podcast-em-belo-horizonte-e1683753584485.png"},
+		{"id":"b818b8d6fe636f65","x":396,"y":253,"width":644,"height":258,"type":"file","file":"HERO_Thai-traditional-wooden-longtail-boat-and-beautiful-sand-Railay-Beach-in-Krabi-province.-Ao-Nang-Thailand_Credit_GettyImages-1011241694.webp"},
+		{"id":"226de233ed0f9a0b","x":396,"y":565,"width":400,"height":278,"type":"file","file":"2PQ2VFU2FFLZTERSQ6MEA2OC7U.jpeg"},
+		{"id":"fb9b0e0d4947e554","x":396,"y":898,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (4).png"}
 	],
 	"edges":[]
 }
