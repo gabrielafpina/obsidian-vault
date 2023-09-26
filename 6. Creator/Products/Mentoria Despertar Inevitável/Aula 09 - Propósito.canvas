@@ -14,7 +14,8 @@
 		{"id":"da9cec744c8dde94","x":952,"y":21,"width":250,"height":165,"type":"text","text":"O significado genuíno da vida não está no que fazemos, mas sim no que somos. O mais importante é o nosso **estado de consciência**."},
 		{"id":"17b4494159d08a07","x":1407,"y":186,"width":333,"height":192,"type":"text","text":"**Propósito exterior:** pode mudar ao longo do tempo. Este é secundário ao propósito interior e está sujeito a mudanças com base em diferentes fases da vida, interesses e circunstâncias. Diz respeito ao Fazer."},
 		{"id":"2aaa52c4cb4bfc6f","x":1414,"y":-88,"width":326,"height":120,"type":"text","text":"**Propósito interior**: despertar a consciência individualmente, ou seja, se conhecer profundamente. Diz respeito ao Ser."},
-		{"id":"08ab8408c49c5781","x":1944,"y":94,"width":250,"height":122,"type":"text","text":"O **alinhamento** entre os dois é crucial para viver a vida de forma significativa."}
+		{"id":"08ab8408c49c5781","x":1944,"y":94,"width":250,"height":122,"type":"text","text":"O **alinhamento** entre os dois é crucial para viver a vida de forma significativa."},
+		{"id":"1945e6ab89fc25cd","x":1944,"y":-235,"width":250,"height":207,"type":"text","text":"Ao despertar, você permite que o universo se torne consciente de si mesmo através de você. Isso é visto como o **propósito último da vida** e da existência humana."}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -31,6 +32,7 @@
 		{"id":"959aa58bece89214","fromNode":"da9cec744c8dde94","fromSide":"right","toNode":"2aaa52c4cb4bfc6f","toSide":"left"},
 		{"id":"42d0777f7a8d144e","fromNode":"da9cec744c8dde94","fromSide":"right","toNode":"17b4494159d08a07","toSide":"left"},
 		{"id":"7fc4601f06009f9e","fromNode":"2aaa52c4cb4bfc6f","fromSide":"right","toNode":"08ab8408c49c5781","toSide":"left"},
-		{"id":"10b46b68a093f637","fromNode":"17b4494159d08a07","fromSide":"right","toNode":"08ab8408c49c5781","toSide":"left"}
+		{"id":"10b46b68a093f637","fromNode":"17b4494159d08a07","fromSide":"right","toNode":"08ab8408c49c5781","toSide":"left"},
+		{"id":"4d48f1eb1b02ff5d","fromNode":"2aaa52c4cb4bfc6f","fromSide":"right","toNode":"1945e6ab89fc25cd","toSide":"left"}
 	]
 }
