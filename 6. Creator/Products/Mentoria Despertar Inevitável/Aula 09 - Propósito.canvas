@@ -24,7 +24,9 @@
 		{"id":"bd120bd619b8215b","x":1536,"y":971,"width":649,"height":494,"type":"text","text":"**Como encontrar a minha zona de genialidade?**\n1. **Conheça seus talentos e habilidades**.\n\t1. Pergunte a pessoas próximas:\n\t\t1. Qual é a minha maior qualidade?\n\t\t2. Qual você acha que é o meu dom?\n\t\t3. Quais são meus desafios (coisas que preciso melhorar)?\n\t2. Questione-se:\n\t\t1. O que eu faço de único que mais ninguém faz?\n\t\t3. Qual é um elogio que eu recebo constantemente de outras pessoas?\n\t\t4. Em quais atividades você se sente mais energizado e motivado?\n\t\t5. Quais são os projetos ou tarefas em que você se destaca e obtém resultados excepcionais?\n\t\t6. Em quais áreas você sente que tem um conhecimento ou habilidade acima da média?\n2. **Compreenda onde você está na Pirâmide de Maslow**\n3. **Compreenda a sua Visão**\n\t1. Crie o seu Vision Board\n"},
 		{"id":"3439b365463a81e7","x":111,"y":-862,"width":344,"height":236,"type":"link","url":"https://mediaproxy.salon.com/width/1200/https://media.salon.com/2018/09/teal-swan.jpg"},
 		{"id":"54c82ee4ec5765fb","x":94,"y":-167,"width":326,"height":199,"type":"link","url":"https://eckharttolle.com/wp-content/uploads/2023/06/Doorways_HeroBanner-1d.jpg?id=4604"},
-		{"id":"f059a77c9d11133a","x":267,"y":462,"width":374,"height":276,"type":"link","url":"https://www.alternatives.org.uk/sites/default/files/styles/large/public/pictures/picture-21411-1597710944.jpg?itok=2cbBVx1f"}
+		{"id":"f059a77c9d11133a","x":129,"y":361,"width":291,"height":223,"type":"link","url":"https://www.alternatives.org.uk/sites/default/files/styles/large/public/pictures/picture-21411-1597710944.jpg?itok=2cbBVx1f"},
+		{"id":"03c85bfdd26ea2d8","x":129,"y":895,"width":240,"height":239,"type":"link","url":"https://production.listennotes.com/podcasts/vida-lend%C3%A1ria-alan-nicolas-ycYCnpZHx2F-tG50UIPBxbS.1400x1400.jpg"},
+		{"id":"55e81421d77725e8","x":2298,"y":1020,"width":928,"height":398,"type":"file","file":"3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -48,6 +50,7 @@
 		{"id":"fa5a90e4aaa68bfa","fromNode":"df66dfdc10eae4be","fromSide":"right","toNode":"93fc025a14b62714","toSide":"left"},
 		{"id":"6db21008368873e5","fromNode":"be511cdf19dbe61c","fromSide":"right","toNode":"262bf2f3bbfaa7c1","toSide":"left"},
 		{"id":"1284c4080aa77d41","fromNode":"262bf2f3bbfaa7c1","fromSide":"right","toNode":"52d5042379e50efb","toSide":"left"},
-		{"id":"df0acf807e9eab30","fromNode":"52d5042379e50efb","fromSide":"right","toNode":"bd120bd619b8215b","toSide":"left"}
+		{"id":"df0acf807e9eab30","fromNode":"52d5042379e50efb","fromSide":"right","toNode":"bd120bd619b8215b","toSide":"left"},
+		{"id":"b20c6d24ba9a9084","fromNode":"bd120bd619b8215b","fromSide":"right","toNode":"55e81421d77725e8","toSide":"left"}
 	]
 }
