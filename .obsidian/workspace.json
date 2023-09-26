@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fórmu",
+                "query": "eckh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "Como encontrar meu propósito? Teal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "Como encontrar meu propósito? Teal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
+                "file": "Como encontrar meu propósito? Teal.md"
               }
             }
           },
@@ -337,7 +337,7 @@
                     "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                     "viewState": {
                       "x": 425.19997697065315,
-                      "y": 51.82120820176542,
+                      "y": 53.681321727156046,
                       "zoom": 1
                     }
                   }
@@ -356,10 +356,10 @@
       }
     ]
   },
-  "active": "a09aaa09518cacd7",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Como encontrar meu propósito? Teal.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
