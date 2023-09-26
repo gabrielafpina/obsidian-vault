@@ -21,7 +21,7 @@
 		{"id":"be511cdf19dbe61c","x":148,"y":1187,"width":168,"height":60,"type":"text","text":"**Alan Nicolas**"},
 		{"id":"262bf2f3bbfaa7c1","x":420,"y":1168,"width":250,"height":98,"type":"text","text":"Você vive o seu propósito ao encontrar a sua **zona de genialidade**."},
 		{"id":"52d5042379e50efb","x":817,"y":982,"width":581,"height":471,"type":"text","text":"**Quais são as 4 zonas?**\n1. **Zona de merda**\n\t1. Onde temos dificuldade natural com uma habilidade, não importa o quanto nos esforcemos.\n2. **Zona de mediocridade**\n\t1. É a mais perigosa, porque quando você está aqui, você pode ter alguma recompensa, porque você está mediano.\n\t2. A zona de mediocridade te paga um salário médio, ele te prende. Te paga o suficiente para você sobreviver. Ou seja, você gasta energia para se manter mediano.\n3. **Zona de Excelência**\n\t1. Você  sente que está explorando o seu potencial e sendo muito bem recompensado por isso. Você é muito bom no que faz, mas você ainda sente que você pode gerar mais valor. \n4. **Zona de Genialidade**\n\t1. É o que é natural e simples para mim. É onde eu brinco e, por isso, me torno imparável. "},
-		{"id":"bd120bd619b8215b","x":1502,"y":1188,"width":250,"height":60,"type":"text","text":""}
+		{"id":"bd120bd619b8215b","x":1536,"y":971,"width":649,"height":494,"type":"text","text":"**Como encontrar a minha zona de genialidade?**\n1. **Conheça seus talentos e habilidades**.\n\t1. Pergunte a pessoas próximas:\n\t\t1. Qual é a minha maior qualidade?\n\t\t2. Qual você acha que é o meu dom?\n\t\t3. Quais são meus desafios (coisas que preciso melhorar)?\n\t2. Questione-se:\n\t\t1. O que eu faço de único que mais ninguém faz?\n\t\t3. Qual é um elogio que eu recebo constantemente de outras pessoas?\n\t\t4. Em quais atividades você se sente mais energizado e motivado?\n\t\t5. Quais são os projetos ou tarefas em que você se destaca e obtém resultados excepcionais?\n\t\t6. Em quais áreas você sente que tem um conhecimento ou habilidade acima da média?\n2. **Compreenda onde você está na Pirâmide de Maslow**\n3. **Compreenda a sua Visão**\n\t1. Crie o seu Vision Board\n"}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -44,6 +44,7 @@
 		{"id":"4167298cff6d9234","fromNode":"2ba54fd9bc3c31a1","fromSide":"right","toNode":"df66dfdc10eae4be","toSide":"left"},
 		{"id":"fa5a90e4aaa68bfa","fromNode":"df66dfdc10eae4be","fromSide":"right","toNode":"93fc025a14b62714","toSide":"left"},
 		{"id":"6db21008368873e5","fromNode":"be511cdf19dbe61c","fromSide":"right","toNode":"262bf2f3bbfaa7c1","toSide":"left"},
-		{"id":"1284c4080aa77d41","fromNode":"262bf2f3bbfaa7c1","fromSide":"right","toNode":"52d5042379e50efb","toSide":"left"}
+		{"id":"1284c4080aa77d41","fromNode":"262bf2f3bbfaa7c1","fromSide":"right","toNode":"52d5042379e50efb","toSide":"left"},
+		{"id":"df0acf807e9eab30","fromNode":"52d5042379e50efb","fromSide":"right","toNode":"bd120bd619b8215b","toSide":"left"}
 	]
 }
