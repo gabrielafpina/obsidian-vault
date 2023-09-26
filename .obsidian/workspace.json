@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
+                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md"
               }
             }
           },
@@ -336,8 +336,8 @@
                   "state": {
                     "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                     "viewState": {
-                      "x": 2464.0782728690906,
-                      "y": 170.6839591852607,
+                      "x": 376.20555314252806,
+                      "y": 590.1228135553791,
                       "zoom": 1
                     }
                   }
@@ -356,12 +356,12 @@
       }
     ]
   },
-  "active": "a09aaa09518cacd7",
+  "active": "1db73a4dfa64a207",
   "lastOpenFiles": [
-    "Como encontrar meu propósito? Teal.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
-    "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+    "Como encontrar meu propósito? Teal.md",
+    "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
     "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",

@@ -12,8 +12,6 @@
 	1. Entrega total no aqui e agora, que é a única coisa que existe
 3. Tenha zero expectativas. O que você está fazendo deve se justificar no agora, o futuro não existe. Esteja 100% presente no que está fazendo.
 
-
-
 **COMO:**
 
 **PENSADORES:**
