@@ -8,38 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b34348ab048349d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e017f46dc4501cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c272b86844e30d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "viewState": {
+                  "x": -63.248046875,
+                  "y": 166.6549743652343,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -105,18 +84,6 @@
             }
           },
           {
-            "id": "5cf5a7e55b15d85d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "448bc41c0a32f5d8",
             "type": "leaf",
             "state": {
@@ -176,8 +143,50 @@
               }
             }
           }
+        ]
+      },
+      {
+        "id": "caff751a3a9e89a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b34348ab048349d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2c272b86844e30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cf5a7e55b15d85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
               }
             }
           },
@@ -368,6 +377,8 @@
   },
   "active": "e017f46dc4501cdd",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
@@ -375,7 +386,6 @@
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro.\".md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o qu 2.md",

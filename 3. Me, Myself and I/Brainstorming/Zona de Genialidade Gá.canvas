@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"859672cfc4cd28d8","x":-195,"y":-39,"width":250,"height":60,"color":"3","type":"text","text":"**Zona de Merda**"},
+		{"id":"3f7659722c0301c5","type":"text","text":"**Zona de Mediocridade**","x":168,"y":-39,"width":250,"height":60,"color":"#f20202"},
+		{"id":"064600996e987273","type":"text","text":"**Zona de Excelência**","x":576,"y":-39,"width":250,"height":60,"color":"5"},
+		{"id":"1c8dcc19636278c6","type":"text","text":"**Zona de Genialidade**","x":995,"y":-39,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[]
+}
