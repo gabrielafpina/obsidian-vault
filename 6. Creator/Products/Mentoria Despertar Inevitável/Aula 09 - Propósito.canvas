@@ -1,9 +1,21 @@
 {
 	"nodes":[
-		{"id":"a0a8fbc34eb2dd20","x":-170,"y":-20,"width":154,"height":60,"color":"6","type":"text","text":"**Propósito**"},
-		{"id":"75c8912b2d90432f","x":157,"y":-101,"width":250,"height":60,"type":"text","text":""}
+		{"id":"a0a8fbc34eb2dd20","x":-180,"y":-41,"width":154,"height":60,"color":"6","type":"text","text":"**Propósito**"},
+		{"id":"ba30ba88ecf9c1a8","x":143,"y":-101,"width":168,"height":60,"type":"text","text":"**Eckhart Tolle**"},
+		{"id":"2ba54fd9bc3c31a1","x":143,"y":99,"width":150,"height":60,"type":"text","text":"**Bashar**"},
+		{"id":"be511cdf19dbe61c","x":143,"y":256,"width":168,"height":60,"type":"text","text":"**Alan Nicolas**"},
+		{"id":"75c8912b2d90432f","x":143,"y":-580,"width":150,"height":60,"type":"text","text":"**Teal Swan**"},
+		{"id":"30b60c5a22577f4d","x":464,"y":-626,"width":353,"height":153,"type":"text","text":"O propósito da vida individual de cada um é encontrar a **alegria**.\n\nA alegria é a única verdadeira motivação para qualquer ação que tomamos."},
+		{"id":"6ceffa4bd492d4be","x":952,"y":-614,"width":235,"height":130,"type":"text","text":"A paixão é um indicador de que você está alinhado com o seu propósito."},
+		{"id":"5a28fbf437d1f270","x":1327,"y":-619,"width":250,"height":140,"type":"text","text":"O propósito não é algo que você vai conseguir ou alcançar, mas sim algo que você tem para expressar neste mundo."}
 	],
 	"edges":[
-		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"}
+		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
+		{"id":"af635341cd3628f2","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"ba30ba88ecf9c1a8","toSide":"left"},
+		{"id":"158c421757945f60","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"2ba54fd9bc3c31a1","toSide":"left"},
+		{"id":"db0bd56d37b103b1","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"be511cdf19dbe61c","toSide":"left"},
+		{"id":"02d06314ffaeeb64","fromNode":"75c8912b2d90432f","fromSide":"right","toNode":"30b60c5a22577f4d","toSide":"left"},
+		{"id":"5160559879da5bde","fromNode":"30b60c5a22577f4d","fromSide":"right","toNode":"6ceffa4bd492d4be","toSide":"left"},
+		{"id":"110e81d8371d0501","fromNode":"6ceffa4bd492d4be","fromSide":"right","toNode":"5a28fbf437d1f270","toSide":"left"}
 	]
 }

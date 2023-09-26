@@ -30,8 +30,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 3.7202270507812503,
+                  "x": 1529.7080078125,
+                  "y": -514.0243560791016,
                   "zoom": 0
                 }
               }
@@ -145,61 +145,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "caff751a3a9e89a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b34348ab048349d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07fb4cf303d9f54e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfe428de986f7b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c272b86844e30d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
