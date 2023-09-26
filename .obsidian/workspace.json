@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "a09aaa09518cacd7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
-                "viewState": {
-                  "x": 704.8985844841677,
-                  "y": -531.8371857528974,
-                  "zoom": -1
-                }
-              }
-            }
-          },
-          {
             "id": "c63b65e2581398c8",
             "type": "leaf",
             "state": {
@@ -337,6 +322,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false
     }
+  },
+  "floating": {
+    "id": "c7d1d645c72108e2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7c268029f19d5e1e",
+        "type": "window",
+        "children": [
+          {
+            "id": "46fc4161b91f62cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a09aaa09518cacd7",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                    "viewState": {
+                      "x": 456.7517396659707,
+                      "y": -633.8137164198167,
+                      "zoom": 1
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1441,
+        "y": 25,
+        "width": 1676,
+        "height": 1015,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "a09aaa09518cacd7",
   "lastOpenFiles": [
