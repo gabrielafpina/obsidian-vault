@@ -30,9 +30,9 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "viewState": {
-                  "x": 1866.9981689453125,
-                  "y": -499.03280944824223,
-                  "zoom": 0
+                  "x": 2175.4776611328125,
+                  "y": -263.1222259521485,
+                  "zoom": -1
                 }
               }
             }
@@ -194,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",

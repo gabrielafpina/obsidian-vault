@@ -8,7 +8,8 @@
 		{"id":"30b60c5a22577f4d","x":464,"y":-626,"width":353,"height":153,"type":"text","text":"O propósito da vida individual de cada um é encontrar a **alegria**.\n\nA alegria é a única verdadeira motivação para qualquer ação que tomamos."},
 		{"id":"6ceffa4bd492d4be","x":952,"y":-614,"width":235,"height":130,"type":"text","text":"A paixão é um indicador de que você está alinhado com o seu propósito."},
 		{"id":"5a28fbf437d1f270","x":1327,"y":-619,"width":250,"height":140,"type":"text","text":"O propósito não é algo que você vai conseguir ou alcançar, mas sim algo que você tem para **expressar** neste mundo."},
-		{"id":"8d19e235d49444de","x":1674,"y":-757,"width":510,"height":386,"type":"text","text":"**Como viver o meu propósito?**\n1. Siga a sua alegria\n2. Faça uma lista do que te dá paixão quando você faz\n3. Cuidado com Influências Externas\n4. Corra riscos e faça as mudanças necessárias na sua vida\n5. Pergunte regularmente: \"*O que está tentando se expressar através de mim hoje?*\" \n\t1. Isso te ajudará a estar alinhado com o seu propósito em uma base diária.\n6. "}
+		{"id":"adc3f3a874445f2c","x":1657,"y":-686,"width":452,"height":275,"type":"text","text":"**O que acontece se eu não viver o meu propósito?**\n1. Falta de energia e riscos à saúde\n2. Vida de Esforço\n3. Viver a vida de acordo com os valores, crenças e direções de outras pessoas\n4. Perda de Alegria e Paixão\n5. Vida Não Autêntica\n6. Falta de Contribuição para o mundo"},
+		{"id":"8d19e235d49444de","x":2225,"y":-708,"width":510,"height":320,"type":"text","text":"**Como viver o meu propósito?**\n1. Siga a sua alegria\n2. Faça uma lista do que te dá paixão quando você faz\n3. Cuidado com Influências Externas\n4. Tenha coragem. Corra riscos e faça as mudanças necessárias na sua vida\n5. Pergunte regularmente: \"*O que está tentando se expressar através de mim hoje?*\" \n\t1. Isso te ajudará a estar alinhado com o seu propósito em uma base diária."}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -18,6 +19,7 @@
 		{"id":"02d06314ffaeeb64","fromNode":"75c8912b2d90432f","fromSide":"right","toNode":"30b60c5a22577f4d","toSide":"left"},
 		{"id":"5160559879da5bde","fromNode":"30b60c5a22577f4d","fromSide":"right","toNode":"6ceffa4bd492d4be","toSide":"left"},
 		{"id":"110e81d8371d0501","fromNode":"6ceffa4bd492d4be","fromSide":"right","toNode":"5a28fbf437d1f270","toSide":"left"},
-		{"id":"964808184106765d","fromNode":"5a28fbf437d1f270","fromSide":"right","toNode":"8d19e235d49444de","toSide":"left"}
+		{"id":"992c7c4bbc3a1b98","fromNode":"5a28fbf437d1f270","fromSide":"right","toNode":"adc3f3a874445f2c","toSide":"left"},
+		{"id":"7c547eb62aaea11f","fromNode":"adc3f3a874445f2c","fromSide":"right","toNode":"8d19e235d49444de","toSide":"left"}
 	]
 }
