@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e017f46dc4501cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2c272b86844e30d",
             "type": "leaf",
             "state": {
@@ -164,7 +176,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -353,11 +366,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b34348ab048349d",
+  "active": "e017f46dc4501cdd",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
