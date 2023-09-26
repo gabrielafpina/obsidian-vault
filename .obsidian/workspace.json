@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "c63b65e2581398c8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3. Me, Myself and I/Brainstorming/Untitled.canvas",
+                "viewState": {
+                  "x": 543.76123046875,
+                  "y": 228.96676635742188,
+                  "zoom": -1.5
+                }
+              }
+            }
+          },
+          {
             "id": "85823de06100fe0f",
             "type": "leaf",
             "state": {
@@ -134,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +195,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -243,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "3. Me, Myself and I/Brainstorming/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "3. Me, Myself and I/Brainstorming/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
+                "file": "3. Me, Myself and I/Brainstorming/Untitled.canvas"
               }
             }
           },
@@ -322,10 +338,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a09aaa09518cacd7",
+  "active": "c63b65e2581398c8",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png",
+    "Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png",
+    "Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "3. Me, Myself and I/Brainstorming/Untitled.canvas",
+    "3. Me, Myself and I/Exercícios/Vision Boa.md",
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
@@ -350,7 +371,6 @@
     "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
     "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-25 às 16.38.15.png",
     "5. Shots, Images & PDFs/maslow.png",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
@@ -372,8 +392,6 @@
     "2. Literature Notes/Meditações Guiadas",
     "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
     "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 22.30.53.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-09-04 às 21.20.57.png",
-    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-08-28 às 23.00.23.png"
+    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP"
   ]
 }

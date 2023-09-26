@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"377e373a5922e05c","type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png","x":-74,"y":-47,"width":400,"height":400},
+		{"id":"bf28ca68bfe9d40b","x":380,"y":-47,"width":400,"height":234,"type":"link","url":"https://www.deskcoworking.com.br/wp-content/uploads/2023/05/estudio-de-podcast-em-belo-horizonte-e1683753584485.png"},
+		{"id":"8e39c7a69d6b3b6b","x":-74,"y":416,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png"},
+		{"id":"a601b56df2fec42a","x":380,"y":416,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"}
+	],
+	"edges":[]
+}
