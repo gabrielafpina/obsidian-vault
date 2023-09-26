@@ -1,16 +1,20 @@
 {
 	"nodes":[
 		{"id":"a0a8fbc34eb2dd20","x":-180,"y":-41,"width":154,"height":60,"color":"6","type":"text","text":"**Propósito**"},
-		{"id":"ba30ba88ecf9c1a8","x":143,"y":-101,"width":168,"height":60,"type":"text","text":"**Eckhart Tolle**"},
-		{"id":"2ba54fd9bc3c31a1","x":143,"y":99,"width":150,"height":60,"type":"text","text":"**Bashar**"},
-		{"id":"be511cdf19dbe61c","x":143,"y":256,"width":168,"height":60,"type":"text","text":"**Alan Nicolas**"},
 		{"id":"75c8912b2d90432f","x":143,"y":-580,"width":150,"height":60,"type":"text","text":"**Teal Swan**"},
 		{"id":"30b60c5a22577f4d","x":464,"y":-626,"width":353,"height":153,"type":"text","text":"O propósito da vida individual de cada um é encontrar a **alegria**.\n\nA alegria é a única verdadeira motivação para qualquer ação que tomamos."},
-		{"id":"6ceffa4bd492d4be","x":952,"y":-614,"width":235,"height":130,"type":"text","text":"A paixão é um indicador de que você está alinhado com o seu propósito."},
+		{"id":"6ceffa4bd492d4be","x":952,"y":-614,"width":235,"height":130,"type":"text","text":"A **paixão** é um indicador de que você está alinhado com o seu propósito."},
 		{"id":"5a28fbf437d1f270","x":1327,"y":-619,"width":250,"height":140,"type":"text","text":"O propósito não é algo que você vai conseguir ou alcançar, mas sim algo que você tem para **expressar** neste mundo."},
 		{"id":"adc3f3a874445f2c","x":1657,"y":-686,"width":452,"height":275,"type":"text","text":"**O que acontece se eu não viver o meu propósito?**\n1. Falta de energia e riscos à saúde\n2. Vida de Esforço\n3. Viver a vida de acordo com os valores, crenças e direções de outras pessoas\n4. Perda de Alegria e Paixão\n5. Vida Não Autêntica\n6. Falta de Contribuição para o mundo"},
 		{"id":"8d19e235d49444de","x":2225,"y":-708,"width":510,"height":320,"type":"text","text":"**Como viver o meu propósito?**\n1. Siga a sua alegria\n2. Faça uma lista do que te dá paixão quando você faz\n3. Cuidado com Influências Externas\n4. Tenha coragem. Corra riscos e faça as mudanças necessárias na sua vida\n5. Pergunte regularmente: \"*O que está tentando se expressar através de mim hoje?*\" \n\t1. Isso te ajudará a estar alinhado com o seu propósito em uma base diária."},
-		{"id":"43aa60443a0b46c7","x":446,"y":-142,"width":371,"height":143,"type":"text","text":"O propósito interior de cada indivíduo, de acordo com Tolle, é despertar. Este é um propósito compartilhado com toda a humanidade e é a parte essencial do propósito do todo."}
+		{"id":"be511cdf19dbe61c","x":143,"y":605,"width":168,"height":60,"type":"text","text":"**Alan Nicolas**"},
+		{"id":"2ba54fd9bc3c31a1","x":152,"y":358,"width":150,"height":60,"type":"text","text":"**Bashar**"},
+		{"id":"ba30ba88ecf9c1a8","x":152,"y":73,"width":168,"height":60,"type":"text","text":"**Eckhart Tolle**"},
+		{"id":"43aa60443a0b46c7","x":446,"y":32,"width":371,"height":143,"type":"text","text":"O propósito interior de cada indivíduo, de acordo com Tolle, é **despertar**. Este é um propósito compartilhado com toda a humanidade e é a parte essencial do propósito do todo."},
+		{"id":"da9cec744c8dde94","x":952,"y":21,"width":250,"height":165,"type":"text","text":"O significado genuíno da vida não está no que fazemos, mas sim no que somos. O mais importante é o nosso **estado de consciência**."},
+		{"id":"17b4494159d08a07","x":1407,"y":186,"width":333,"height":192,"type":"text","text":"**Propósito exterior:** pode mudar ao longo do tempo. Este é secundário ao propósito interior e está sujeito a mudanças com base em diferentes fases da vida, interesses e circunstâncias. Diz respeito ao Fazer."},
+		{"id":"2aaa52c4cb4bfc6f","x":1414,"y":-88,"width":326,"height":120,"type":"text","text":"**Propósito interior**: despertar a consciência individualmente, ou seja, se conhecer profundamente. Diz respeito ao Ser."},
+		{"id":"08ab8408c49c5781","x":1944,"y":94,"width":250,"height":122,"type":"text","text":"O **alinhamento** entre os dois é crucial para viver a vida de forma significativa."}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -22,6 +26,11 @@
 		{"id":"110e81d8371d0501","fromNode":"6ceffa4bd492d4be","fromSide":"right","toNode":"5a28fbf437d1f270","toSide":"left"},
 		{"id":"992c7c4bbc3a1b98","fromNode":"5a28fbf437d1f270","fromSide":"right","toNode":"adc3f3a874445f2c","toSide":"left"},
 		{"id":"7c547eb62aaea11f","fromNode":"adc3f3a874445f2c","fromSide":"right","toNode":"8d19e235d49444de","toSide":"left"},
-		{"id":"a1d5778d0bf988c5","fromNode":"ba30ba88ecf9c1a8","fromSide":"right","toNode":"43aa60443a0b46c7","toSide":"left"}
+		{"id":"a1d5778d0bf988c5","fromNode":"ba30ba88ecf9c1a8","fromSide":"right","toNode":"43aa60443a0b46c7","toSide":"left"},
+		{"id":"43c04b128f170dbf","fromNode":"43aa60443a0b46c7","fromSide":"right","toNode":"da9cec744c8dde94","toSide":"left"},
+		{"id":"959aa58bece89214","fromNode":"da9cec744c8dde94","fromSide":"right","toNode":"2aaa52c4cb4bfc6f","toSide":"left"},
+		{"id":"42d0777f7a8d144e","fromNode":"da9cec744c8dde94","fromSide":"right","toNode":"17b4494159d08a07","toSide":"left"},
+		{"id":"7fc4601f06009f9e","fromNode":"2aaa52c4cb4bfc6f","fromSide":"right","toNode":"08ab8408c49c5781","toSide":"left"},
+		{"id":"10b46b68a093f637","fromNode":"17b4494159d08a07","fromSide":"right","toNode":"08ab8408c49c5781","toSide":"left"}
 	]
 }
