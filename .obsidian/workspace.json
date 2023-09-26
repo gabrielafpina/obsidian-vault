@@ -15,8 +15,8 @@
               "state": {
                 "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "viewState": {
-                  "x": 492.4268066406248,
-                  "y": 254.2831451416015,
+                  "x": 501.8608886718748,
+                  "y": 93.82654113769524,
                   "zoom": -1
                 }
               }
@@ -31,7 +31,7 @@
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 3.7202270507812503,
                   "zoom": 0
                 }
               }
@@ -143,7 +143,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "caff751a3a9e89a3",
@@ -217,7 +218,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incerteza",
+                "query": "propósito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,8 +245,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
               }
             }
           },
@@ -387,13 +387,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07fb4cf303d9f54e",
+  "active": "a09aaa09518cacd7",
   "lastOpenFiles": [
+    "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
