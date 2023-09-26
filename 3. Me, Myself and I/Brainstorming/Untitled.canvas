@@ -1,12 +1,15 @@
 {
 	"nodes":[
 		{"id":"377e373a5922e05c","type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (1).png","x":-74,"y":-47,"width":400,"height":400},
-		{"id":"8e39c7a69d6b3b6b","x":-74,"y":416,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png"},
-		{"id":"a601b56df2fec42a","x":-74,"y":877,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"},
-		{"id":"bf28ca68bfe9d40b","x":396,"y":-81,"width":400,"height":234,"type":"link","url":"https://www.deskcoworking.com.br/wp-content/uploads/2023/05/estudio-de-podcast-em-belo-horizonte-e1683753584485.png"},
-		{"id":"b818b8d6fe636f65","x":396,"y":253,"width":644,"height":258,"type":"file","file":"HERO_Thai-traditional-wooden-longtail-boat-and-beautiful-sand-Railay-Beach-in-Krabi-province.-Ao-Nang-Thailand_Credit_GettyImages-1011241694.webp"},
 		{"id":"226de233ed0f9a0b","x":396,"y":565,"width":400,"height":278,"type":"file","file":"2PQ2VFU2FFLZTERSQ6MEA2OC7U.jpeg"},
-		{"id":"fb9b0e0d4947e554","x":396,"y":898,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (4).png"}
+		{"id":"a601b56df2fec42a","x":-4,"y":1417,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (3).png"},
+		{"id":"c0abcc86aa82a5ff","x":-74,"y":443,"width":400,"height":400,"type":"file","file":"4.png"},
+		{"id":"b818b8d6fe636f65","x":-126,"y":959,"width":644,"height":258,"type":"file","file":"HERO_Thai-traditional-wooden-longtail-boat-and-beautiful-sand-Railay-Beach-in-Krabi-province.-Ao-Nang-Thailand_Credit_GettyImages-1011241694.webp"},
+		{"id":"bf28ca68bfe9d40b","x":396,"y":-281,"width":400,"height":234,"type":"link","url":"https://www.deskcoworking.com.br/wp-content/uploads/2023/05/estudio-de-podcast-em-belo-horizonte-e1683753584485.png"},
+		{"id":"74a5fc8ae59ff9e2","x":396,"y":43,"width":400,"height":400,"type":"file","file":"5.png"},
+		{"id":"8e39c7a69d6b3b6b","x":918,"y":-247,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (2).png"},
+		{"id":"65ad540be9f81271","x":918,"y":304,"width":400,"height":400,"type":"file","file":"6.png"},
+		{"id":"fb9b0e0d4947e554","x":918,"y":843,"width":400,"height":400,"type":"file","file":"Mulheres são exemplo de força, coragem e inspiração todos os dias (4).png"}
 	],
 	"edges":[]
 }
