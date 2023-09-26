@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e508d209061df0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4045e2a64c2d1242",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Desenho Humano Gá.md"
+                "file": "3. Me, Myself and I/Testes/Mapa Astral.md"
               }
             }
           },
@@ -353,10 +365,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a398c641f1af4ab",
+  "active": "e508d209061df0ff",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
