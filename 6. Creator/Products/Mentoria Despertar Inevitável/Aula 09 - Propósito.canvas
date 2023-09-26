@@ -9,7 +9,8 @@
 		{"id":"6ceffa4bd492d4be","x":952,"y":-614,"width":235,"height":130,"type":"text","text":"A paixão é um indicador de que você está alinhado com o seu propósito."},
 		{"id":"5a28fbf437d1f270","x":1327,"y":-619,"width":250,"height":140,"type":"text","text":"O propósito não é algo que você vai conseguir ou alcançar, mas sim algo que você tem para **expressar** neste mundo."},
 		{"id":"adc3f3a874445f2c","x":1657,"y":-686,"width":452,"height":275,"type":"text","text":"**O que acontece se eu não viver o meu propósito?**\n1. Falta de energia e riscos à saúde\n2. Vida de Esforço\n3. Viver a vida de acordo com os valores, crenças e direções de outras pessoas\n4. Perda de Alegria e Paixão\n5. Vida Não Autêntica\n6. Falta de Contribuição para o mundo"},
-		{"id":"8d19e235d49444de","x":2225,"y":-708,"width":510,"height":320,"type":"text","text":"**Como viver o meu propósito?**\n1. Siga a sua alegria\n2. Faça uma lista do que te dá paixão quando você faz\n3. Cuidado com Influências Externas\n4. Tenha coragem. Corra riscos e faça as mudanças necessárias na sua vida\n5. Pergunte regularmente: \"*O que está tentando se expressar através de mim hoje?*\" \n\t1. Isso te ajudará a estar alinhado com o seu propósito em uma base diária."}
+		{"id":"8d19e235d49444de","x":2225,"y":-708,"width":510,"height":320,"type":"text","text":"**Como viver o meu propósito?**\n1. Siga a sua alegria\n2. Faça uma lista do que te dá paixão quando você faz\n3. Cuidado com Influências Externas\n4. Tenha coragem. Corra riscos e faça as mudanças necessárias na sua vida\n5. Pergunte regularmente: \"*O que está tentando se expressar através de mim hoje?*\" \n\t1. Isso te ajudará a estar alinhado com o seu propósito em uma base diária."},
+		{"id":"43aa60443a0b46c7","x":446,"y":-142,"width":371,"height":143,"type":"text","text":"O propósito interior de cada indivíduo, de acordo com Tolle, é despertar. Este é um propósito compartilhado com toda a humanidade e é a parte essencial do propósito do todo."}
 	],
 	"edges":[
 		{"id":"67cdb061eecd2f44","fromNode":"a0a8fbc34eb2dd20","fromSide":"right","toNode":"75c8912b2d90432f","toSide":"left"},
@@ -20,6 +21,7 @@
 		{"id":"5160559879da5bde","fromNode":"30b60c5a22577f4d","fromSide":"right","toNode":"6ceffa4bd492d4be","toSide":"left"},
 		{"id":"110e81d8371d0501","fromNode":"6ceffa4bd492d4be","fromSide":"right","toNode":"5a28fbf437d1f270","toSide":"left"},
 		{"id":"992c7c4bbc3a1b98","fromNode":"5a28fbf437d1f270","fromSide":"right","toNode":"adc3f3a874445f2c","toSide":"left"},
-		{"id":"7c547eb62aaea11f","fromNode":"adc3f3a874445f2c","fromSide":"right","toNode":"8d19e235d49444de","toSide":"left"}
+		{"id":"7c547eb62aaea11f","fromNode":"adc3f3a874445f2c","fromSide":"right","toNode":"8d19e235d49444de","toSide":"left"},
+		{"id":"a1d5778d0bf988c5","fromNode":"ba30ba88ecf9c1a8","fromSide":"right","toNode":"43aa60443a0b46c7","toSide":"left"}
 	]
 }
