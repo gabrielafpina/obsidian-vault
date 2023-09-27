@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"859672cfc4cd28d8","type":"text","text":"**Zona de Merda**\n- Análise detalhada e técnica\n- Financeiro e Contábil\n- Gestão Administrativa\n- Tarefas que Exigem Paciência Prolongada","x":-195,"y":-39,"width":250,"height":233,"color":"3"},
 		{"id":"1c8dcc19636278c6","type":"text","text":"**Zona de Genialidade**\n- Comunicação Eficaz e Inspiradora\n- Conexão Profunda e Transformação Pessoal\n- Criação de Conteúdo (vídeo e texto)\n- Capacidade de Aprendizado e Ensino Rápidos\n- Ação Orientada e Determinada\n- Inspiração através da Autenticidade\n- Transparência\n- Entusiasmo\n- Criatividade\n- Empatia e Generosidade\n- Alegria e Energia Positiva\n- Integração de Aprendizado e Ação\n- Facilidade em fazer networking","x":995,"y":-39,"width":523,"height":470,"color":"6"},
-		{"id":"3f7659722c0301c5","type":"text","text":"**Zona de Mediocridade**\n- Design\n- Gestão de detalhes\n- Organização e Planejamento\n- Edição de Vídeo\n- Trabalho solo prolongado\n- Tarefas que Não Exigem Criatividade ou Inovação","x":127,"y":-39,"width":330,"height":309,"color":"#f20202"},
+		{"id":"3f7659722c0301c5","type":"text","text":"**Zona de Mediocridade**\n- Design\n- Gestão de detalhes\n- Organização e Planejamento\n- Edição de Vídeo\n- Trabalho solo prolongado\n- Tarefas que Não Exigem Criatividade ou Inovação (operacional)","x":127,"y":-39,"width":330,"height":309,"color":"#f20202"},
 		{"id":"064600996e987273","type":"text","text":"**Zona de Excelência**\n- Marketing\n- Liderança orientada para a ação","x":540,"y":-39,"width":358,"height":233,"color":"5"}
 	],
 	"edges":[]
