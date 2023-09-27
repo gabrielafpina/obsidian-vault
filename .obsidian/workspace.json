@@ -127,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -352,7 +351,7 @@
                     "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                     "viewState": {
                       "x": 676.093994140625,
-                      "y": 176.83609008789062,
+                      "y": 165.71003417968745,
                       "zoom": 0
                     }
                   }
@@ -396,12 +395,13 @@
       }
     ]
   },
-  "active": "8b636df2b41b2821",
+  "active": "878fe733d62e8f05",
   "lastOpenFiles": [
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "Como encontrar meu propósito? Teal.md",
@@ -419,7 +419,6 @@
     "12.png",
     "11.png",
     "3. Me, Myself and I/Exercícios/Vision Boa.md",
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "3. Me, Myself and I/Testes/MBTI.md",
