@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f4feee6d67baca55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "740e412f1a23c015",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eckh",
+                "query": "pirâmide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -161,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md"
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
               }
             }
           },
@@ -324,9 +336,24 @@
                   "state": {
                     "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                     "viewState": {
-                      "x": 1806.550523845653,
-                      "y": 1214.8323380915126,
+                      "x": 2789.681871501903,
+                      "y": 764.0937516657314,
                       "zoom": 1
+                    }
+                  }
+                }
+              },
+              {
+                "id": "8b636df2b41b2821",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                    "viewState": {
+                      "x": 676.093994140625,
+                      "y": 176.83609008789062,
+                      "zoom": 0
                     }
                   }
                 }
@@ -356,7 +383,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -369,17 +396,17 @@
       }
     ]
   },
-  "active": "85823de06100fe0f",
+  "active": "8b636df2b41b2821",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "af3f923e0e9be76724e3471bb46d5b98.jpeg",
