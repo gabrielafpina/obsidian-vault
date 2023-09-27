@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
+                "file": "2. Literature Notes/Topics/Quais são as zonas?.md"
               }
             }
           },
@@ -336,8 +336,8 @@
                   "state": {
                     "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                     "viewState": {
-                      "x": 253.56541642377806,
-                      "y": 1079.8423478571372,
+                      "x": 1056.554918376903,
+                      "y": 1044.3795793024497,
                       "zoom": 1
                     }
                   }
@@ -356,10 +356,10 @@
       }
     ]
   },
-  "active": "a09aaa09518cacd7",
+  "active": "878fe733d62e8f05",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
