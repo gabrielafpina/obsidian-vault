@@ -8,86 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecbe59b2b8fb4127",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8cc3a709a5b6645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3622615a45377b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a15610b81067739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c22ea4674e3d1fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4383185e325725c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963f9a455634c425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c49ac4e1c813b1ef",
             "type": "leaf",
             "state": {
@@ -100,91 +20,22 @@
             }
           },
           {
-            "id": "0c0c17312e35fe31",
+            "id": "ee0f621ce36513f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd8ae45db55b6991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ad4199735a6e63a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08c9ef5a80d2cf17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f944ceff20024d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59e87628b5f42f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0f638285e86b4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "viewState": {
+                  "x": 275.2799999999999,
+                  "y": 16.740000000000006,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -293,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas"
               }
             }
           },
@@ -372,10 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c49ac4e1c813b1ef",
+  "active": "ee0f621ce36513f0",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
+    "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
     "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
@@ -399,10 +253,8 @@
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "2. Literature Notes/Topics/O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
-    "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dfa9e0367ca4324f","x":-135,"y":-34,"width":171,"height":60,"color":"6","type":"text","text":"**GABRIELA PINA**"},
+		{"id":"2f4b1f5e545856c7","x":121,"y":-33,"width":126,"height":60,"color":"2","type":"text","text":"**DESAFIOS**"},
+		{"id":"a51c8ae43873939e","x":338,"y":-32,"width":250,"height":60,"type":"text","text":"**11-12 anos**\nInício das crises financ"}
+	],
+	"edges":[
+		{"id":"421e71c2c2ba42f2","fromNode":"dfa9e0367ca4324f","fromSide":"right","toNode":"2f4b1f5e545856c7","toSide":"left"},
+		{"id":"e14cfbe0b6d6d947","fromNode":"2f4b1f5e545856c7","fromSide":"right","toNode":"a51c8ae43873939e","toSide":"left"}
+	]
+}
