@@ -33,9 +33,33 @@
                 }
               }
             }
+          },
+          {
+            "id": "88cb34e565745e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d47ca786a477c0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a resistência?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raio",
+                "query": "depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas"
+                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md"
               }
             }
           },
@@ -224,8 +247,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee0f621ce36513f0",
+  "active": "88cb34e565745e62",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a resistência?.md",
+    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+    "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
     "IMG_0208.jpg",
@@ -233,7 +259,6 @@
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
-    "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
     "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
@@ -258,14 +283,12 @@
     "2. Literature Notes/Topics/O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",
     "5. Shots, Images & PDFs/92340448ae3887584f70ed3e0fa2f71a.jpeg",
     "5. Shots, Images & PDFs/98d5a24bcb916358bc7c9182cf1595e9.jpeg",
     "5. Shots, Images & PDFs/d190776d78654cd80b443d9237c0f3ad.jpeg",
-    "5. Shots, Images & PDFs/db48c00d6fc980626164bf17819daaf8.jpeg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

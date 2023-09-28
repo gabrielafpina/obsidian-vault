@@ -25,6 +25,7 @@ Se você não realiza nada dos seus sonhos e está feliz, você está perdido.
 **Norte: ideia/pergunta**
 - [[A Resistência é uma bússola]]
 - [[A resistência é uma grande mestra]]
+- [[Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso.]]
 
 **Sul: para onde vai**
 - [[Qual é a grande missão da alma?]]
