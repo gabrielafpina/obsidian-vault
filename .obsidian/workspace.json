@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "7a15610b81067739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ad4199735a6e63a",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
+                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
+                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md"
+                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md"
               }
             }
           },
@@ -288,10 +301,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "7a15610b81067739",
   "lastOpenFiles": [
-    "Lei do Darma ou do Propósito de Vida.md",
     "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
+    "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
+    "Lei do Darma ou do Propósito de Vida.md",
     "É uma sabotagem pensar que eu to igual.md",
     "Como saber se estou no flow ou na zona de conforto?.md",
     "Prosperar é sobre felicidade.md",
@@ -328,7 +342,6 @@
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
-    "2. Literature Notes/Topics/Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
