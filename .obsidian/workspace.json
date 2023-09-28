@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "3a3f4ab5a21e0a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ad4199735a6e63a",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+                "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+                "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md"
+                "file": "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md"
               }
             }
           },
@@ -311,10 +323,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c22ea4674e3d1fb6",
+  "active": "3a3f4ab5a21e0a24",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
     "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
     "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
