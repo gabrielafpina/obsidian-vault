@@ -26,13 +26,14 @@ Para cada dom singular e forma única de expressão, existem pessoas que necessi
 3. **Tudo só faz sentido quando eu sirvo as outras pessoas e não quando aquilo me serve**. 
 	1. Muito importante eu me perguntar sempre como eu posso usar o meu talento e dom para servir a humanidade. Com eu posso ajudar a sociedade, pessoas com o meu talento específico? A pergunta errada é: o que eu vou ganhar com isso? Esse é um pensamento do [[Ego]]. O espírito não faz essa pergunta. [[A alma quer paz, a alma quer felicidade]].
 	2. [[Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza]]
-	3. É importante se fazer uma outra pergunta para saber se você está expressando e manifestando o seu dom: se o dinheiro não me importasse, se eu tivesse todo o dinheiro do mundo, qual atividade eu gostaria de fazer? O que eu estaria fazendo 
-
+	3. É importante se fazer uma outra pergunta para saber se você está expressando e manifestando o seu dom: se o dinheiro não me importasse, se eu tivesse todo o dinheiro do mundo, qual atividade eu gostaria de fazer? O que eu estaria fazendo hoje se o dinheiro não fosse o resultado principal das minhas ações?
+	4. Se eu tivesse todo o tempo do mundo para fazer absolutamente qualquer coisa, o que eu estaria fazendo? Se a resposta for sim, é porque você está sintonizado na sua missão. Se for 'não', é importante refletir sobre as suas qualidades. Reflita sobre as respostas que você deu (das suas qualidades) para que você possa prosperar. [[Prosperar é sobre felicidade]]. 
 ###### **Como sei que to fazendo o que deveria estar fazendo?**
 FLOW!
 Quando eu perco a noção do tempo. Penetrar em uma consciência atemporal. 
-###### **PENSADORES:**
 
+###### **Como aplicar?**
+1. Nutrir amavelmente hoje a divindade que habita em você, no fundo da sua alma. O 'restar atenção ao seu espírito que anima o seu corpo e a sua alma, 
 ###### **FRASES:**
 
 ---------
