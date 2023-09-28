@@ -220,7 +220,7 @@
 	- Entusiasmo e tesão pelo que faço
 	- LIBERDADE e autonomia
 	- Leveza e bom-humor
-	- Comunicação transparente e do coração
+	- Comunicação inspiradora e empoderadora
 	- Objetividade e assertividade
 	- Excelência e eficiência
 	- Sabedoria
@@ -232,6 +232,7 @@
 	- Autenticidade
 	- Lealdade a mim, em primeiro lugar e depois ao outro
 	- Honestidade e Verdade (com meus sentimentos e pensamentos)
+	- Auto-observação
 	- Reconhecimento
 	- Coragem
 - **10 Valores de Vida mais importantes**
@@ -242,6 +243,9 @@
 	- Entusiasmo e tesão pelo que faço
 	- LIBERDADE e autonomia
 	- Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
+	- Crescimento e desenvolvimento pessoal constante
+	- Leveza e bom-humor
+	- Comunicação inspiradora e empoderadora
 
 ###### Roda da Vida Atual
 
