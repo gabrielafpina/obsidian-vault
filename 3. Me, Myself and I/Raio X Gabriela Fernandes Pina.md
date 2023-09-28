@@ -212,13 +212,13 @@
 	- Autorresponsabilidade radical (todos com muita clareza das suas tarefas, ninguém é babá de ninguém)
 	- Autonomia e independência de horário e de tomada de decisão
 	- Empoderamento e inspiração de pessoas
-- **Vida** (valores que regem a minha tomada de decisão)
+- **20 valores de Vida** (valores que regem a minha tomada de decisão)
 	- Consciência
 	- Conexão espiritual
 	- Amor-próprio
 	- Propósito
-	- Entusiasmo
-	- LIBERDADE
+	- Entusiasmo e tesão pelo que faço
+	- LIBERDADE e autonomia
 	- Leveza e bom-humor
 	- Comunicação transparente e do coração
 	- Objetividade e assertividade
@@ -227,7 +227,21 @@
 	- Crescimento e desenvolvimento pessoal constante
 	- Profundidade
 	- Saúde
-	- 
+	- Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
+	- Dinheiro
+	- Autenticidade
+	- Lealdade a mim, em primeiro lugar e depois ao outro
+	- Honestidade e Verdade (com meus sentimentos e pensamentos)
+	- Reconhecimento
+	- Coragem
+- **10 Valores de Vida mais importantes**
+	- Consciência
+	- Conexão espiritual
+	- Amor-próprio
+	- Propósito
+	- Entusiasmo e tesão pelo que faço
+	- LIBERDADE e autonomia
+	- Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
 
 ###### Roda da Vida Atual
 
