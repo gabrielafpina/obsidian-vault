@@ -33,7 +33,9 @@ FLOW!
 Quando eu perco a noção do tempo. Penetrar em uma consciência atemporal. 
 
 ###### **Como aplicar?**
-1. Nutrir amavelmente hoje a divindade que habita em você, no fundo da sua alma. O 'restar atenção ao seu espírito que anima o seu corpo e a sua alma, 
+1. Nutrir amavelmente, hoje, a divindade que habita em você, no fundo de sua alma. Prestar atenção ao seu espírito, que anima seu corpo e sua mente. Despertar desse profundo sono dentro de seu coração. Carregar consigo a [[Consciência]] da atemporalidade, do ser eterno, em todas as experiências limitadas pelo tempo.
+2. Elaborar uma lista de seus talentos únicos. Depois, outra lista das atividades que adora realizar quando está expressando esses talentos. Diga, então: "Quando expresso meus talentos e os ponho a serviço da humanidade, perco a noção do tempo e crio abundância em minha vida, bem como na vida de outros."
+3. Perguntar a si mesmo diariamente: "Como posso servir?" e "Como posso ajudar?" As respostas a essas perguntas permitirão ajudar e servir a seus semelhantes, com amor.
 ###### **FRASES:**
 
 ---------
@@ -47,3 +49,4 @@ Quando eu perco a noção do tempo. Penetrar em uma consciência atemporal.
 - [['Se eu acho que o outro sabe menos ou mais do que eu, eu estou na vaidade da comparação']]
 
 **Sul: para onde vai**
+- [[Como saber se estou no flow ou na zona de conforto?]]

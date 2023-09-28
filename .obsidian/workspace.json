@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "97c352f1523ac6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como saber se estou no flow ou na zona de conforto?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08c9ef5a80d2cf17",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei do Darma ou do Propósito de Vida.md",
+                "file": "Como saber se estou no flow ou na zona de conforto?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei do Darma ou do Propósito de Vida.md",
+                "file": "Como saber se estou no flow ou na zona de conforto?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei do Darma ou do Propósito de Vida.md"
+                "file": "Como saber se estou no flow ou na zona de conforto?.md"
               }
             }
           },
@@ -264,10 +276,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8cc3a709a5b6645",
+  "active": "97c352f1523ac6c0",
   "lastOpenFiles": [
-    "Prosperar é sobre felicidade.md",
     "Lei do Darma ou do Propósito de Vida.md",
+    "Como saber se estou no flow ou na zona de conforto?.md",
+    "Prosperar é sobre felicidade.md",
     "Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
@@ -304,7 +317,6 @@
     "2. Literature Notes/Topics/Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
     "2. Literature Notes/Topics/\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro.\".md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o qu 2.md",
-    "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que for.\".md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
