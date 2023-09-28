@@ -27,8 +27,8 @@
               "state": {
                 "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "viewState": {
-                  "x": 3921.986623866993,
-                  "y": -291.44679354362273,
+                  "x": 3514.097740225194,
+                  "y": -368.2639343618285,
                   "zoom": 0.0927323269844052
                 }
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md"
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas"
               }
             }
           },
@@ -247,10 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88cb34e565745e62",
+  "active": "ee0f621ce36513f0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é a resistência?.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
+    "2. Literature Notes/Topics/O que é a resistência?.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
