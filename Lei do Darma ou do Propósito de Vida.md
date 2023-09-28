@@ -23,11 +23,14 @@ Para cada dom singular e forma única de expressão, existem pessoas que necessi
 	1. Porque estamos aqui, então? Encontrar o meu verdadeiro Eu espiritual, que tem a ver com o meu dom e talento único.
 2. **Eu tenho o dever de expressar o meu talento singular**. [[É um desserviço não vender o que você é bom fazendo]].
 	1. Todos temos um talento único
+3. **Tudo só faz sentido quando eu sirvo as outras pessoas e não quando aquilo me serve**. 
+	1. Muito importante eu me perguntar sempre como eu posso usar o meu talento e dom para servir a humanidade. Com eu posso ajudar a sociedade, pessoas com o meu talento específico? A pergunta errada é: o que eu vou ganhar com isso? Esse é um pensamento do [[Ego]]. O espírito não faz essa pergunta. [[A alma quer paz, a alma quer felicidade]].
+	2. [[Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza]]
+	3. É importante se fazer uma outra pergunta para saber se você está expressando e manifestando o seu dom: se o dinheiro não me importasse, se eu tivesse todo o dinheiro do mundo, qual atividade eu gostaria de fazer? O que eu estaria fazendo 
 
 ###### **Como sei que to fazendo o que deveria estar fazendo?**
 FLOW!
-
-
+Quando eu perco a noção do tempo. Penetrar em uma consciência atemporal. 
 ###### **PENSADORES:**
 
 ###### **FRASES:**
