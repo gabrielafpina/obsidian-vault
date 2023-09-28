@@ -4,14 +4,16 @@
 		{"id":"2f4b1f5e545856c7","x":119,"y":-263,"width":126,"height":60,"color":"2","type":"text","text":"**DESAFIOS**"},
 		{"id":"a51c8ae43873939e","x":342,"y":-272,"width":250,"height":78,"type":"text","text":"**11 anos**\nInício das crises financeiras na família"},
 		{"id":"2bbb7da4d0da9c2e","x":658,"y":-383,"width":342,"height":301,"type":"text","text":"**13 anos**\nTeve que mudar de apartamento, o apt que mais amava na vida, porque o pai estava com problemas financeiros e precisava injetar o dinheiro do apartamento na empresa, ou iria quebrar.\n*Sentimentos e sensações*\n- Tristeza\n- Raiva\n- Traição"},
-		{"id":"d9e288ed7fad14ef","x":1111,"y":-460,"width":379,"height":456,"type":"text","text":"**15 anos**\nAcidente. Quebrou os dois pés. Desenvolveu TEPT (estresse pós-traumático), depressão e ansiedade.\n\nUm tempo depois, ao tomar remédios tarja preta, não aguentava mais a dor da depressão e tentou se suicidar. Mãe chegou a tempo, foram para o hospital e fez lavagem estomacal.\n\nDepois desse período, ela não podia ficar sozinha e tinha que ter alguém sob observação dela 24/7.\n*Sentimentos e sensações*\n- Tristeza profunda\n- Falta de autoconfiança\n- Sensação de morta-viva por conta dos remédios, eu não era eu nessa época"},
-		{"id":"9ab8e66d6ed91002","x":1581,"y":-262,"width":250,"height":60,"type":"text","text":""}
+		{"id":"d9e288ed7fad14ef","x":1111,"y":-501,"width":379,"height":537,"type":"text","text":"**15 anos**\nAcidente. Quebrou os dois pés. Desenvolveu TEPT (estresse pós-traumático), depressão e ansiedade.\n\nUm tempo depois (aos 16 anos), ao tomar remédios tarja preta, não aguentava mais a dor da depressão e tentou se suicidar. Mãe chegou a tempo, foram para o hospital e fez lavagem estomacal.\n\nDepois desse período, ela não podia ficar sozinha e tinha que ter alguém sob observação dela 24/7.\n*Sentimentos e sensações*\n- Tristeza profunda\n- Falta de autoconfiança\n- Sensação de morta-viva por conta dos remédios, eu não era eu nessa época\n- Sentia que ninguém gostava dela e/ou ligava para ela estar viva ou morta"},
+		{"id":"9ab8e66d6ed91002","x":1584,"y":-361,"width":361,"height":258,"type":"text","text":"**17 anos**\nTérmino do primeiro namoro. Sensação de que ia morrer. \n*Sentimentos e sensações*\n- Traição- foi traída pelo seu primeiro grande amor e sentiu vazio existencial, como se não tivesse valor"},
+		{"id":"9bcefe17c1aa6d01","x":2043,"y":-264,"width":250,"height":60,"type":"text","text":"**18 anos**\nViveu outro relacionamento tóxico. Não se valorizava e permitia que o outro projetasse suas inseguranças em si mesma. Alto nível de dependência emocional."}
 	],
 	"edges":[
 		{"id":"421e71c2c2ba42f2","fromNode":"dfa9e0367ca4324f","fromSide":"right","toNode":"2f4b1f5e545856c7","toSide":"left"},
 		{"id":"e14cfbe0b6d6d947","fromNode":"2f4b1f5e545856c7","fromSide":"right","toNode":"a51c8ae43873939e","toSide":"left"},
 		{"id":"f422bb0ce77d1308","fromNode":"a51c8ae43873939e","fromSide":"right","toNode":"2bbb7da4d0da9c2e","toSide":"left"},
 		{"id":"23da620a572b024e","fromNode":"2bbb7da4d0da9c2e","fromSide":"right","toNode":"d9e288ed7fad14ef","toSide":"left"},
-		{"id":"fd2d2bd8dbbb58fb","fromNode":"d9e288ed7fad14ef","fromSide":"right","toNode":"9ab8e66d6ed91002","toSide":"left"}
+		{"id":"fd2d2bd8dbbb58fb","fromNode":"d9e288ed7fad14ef","fromSide":"right","toNode":"9ab8e66d6ed91002","toSide":"left"},
+		{"id":"1e07e0007ff42d39","fromNode":"9ab8e66d6ed91002","fromSide":"right","toNode":"9bcefe17c1aa6d01","toSide":"left"}
 	]
 }
