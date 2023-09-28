@@ -14,7 +14,7 @@ Isso é sobre tomar posse do seu lugar de adulto no mundo.
 
 As pessoas sabem que o seu tempo vale ouro, quando você sabe que o seu tempo vale ouro. Quando você não se respeita, o outro não vai te respeitar, porque tudo é vibração.
 
-Eu sou a maior especialistra a nível galático de colocar as p
+==Eu sou a maior especialista a nível galático de colocar as pessoas no seu devido lugar.==
 
 **COMO:**
 
