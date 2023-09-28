@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "f5f944ceff20024d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Só eu sou eu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59e87628b5f42f84",
             "type": "leaf",
             "state": {
@@ -71,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intenção",
+                "query": "comparação ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,8 +252,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8cc3a709a5b6645",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Só eu sou eu.md",
     "Lei do Darma ou do Propósito de Vida.md",
     "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
     "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
@@ -281,7 +293,6 @@
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que for.\".md",
     "2. Literature Notes/Topics/Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
     "2. Literature Notes/People/Steve Jobs.md",
-    "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que .md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
