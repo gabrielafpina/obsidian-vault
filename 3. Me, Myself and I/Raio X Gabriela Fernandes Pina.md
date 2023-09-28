@@ -199,6 +199,7 @@
 	- Consciência
 	- Propósito
 	- Verdade e Respeito pelo meu cliente e meu produto
+	- Entusiasmo (antes do dinheiro)
 	- Dinheiro e Lucratividade
 	- Clareza e Ordem de etapas e processos
 	- Excelência
@@ -214,6 +215,18 @@
 - **Vida** (valores que regem a minha tomada de decisão)
 	- Consciência
 	- Conexão espiritual
+	- Amor-próprio
+	- Propósito
+	- Entusiasmo
+	- LIBERDADE
+	- Leveza e bom-humor
+	- Comunicação transparente e do coração
+	- Objetividade e assertividade
+	- Excelência e eficiência
+	- Sabedoria
+	- Crescimento e desenvolvimento pessoal constante
+	- Profundidade
+	- Saúde
 	- 
 
 ###### Roda da Vida Atual
