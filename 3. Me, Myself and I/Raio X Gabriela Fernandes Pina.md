@@ -197,7 +197,18 @@
 - **Projetos**
 	- Diversão e leveza
 	- Consciência do propósito
-	- Verdade
+	- Verdade e Respeito pelo meu cliente e meu produto
+	- Dinheiro e Lucratividade
+	- Clareza e Ordem de etapas e processos
+	- Excelência
+	- Parceria e conexão com o time
+	- Transparência e comunicação
+	- Overdelivery
+	- Simplicidade
+	- Agilidade
+	- Ascensão, crescimento e evolução (Poder, status e financeiramente)
+	- Autorresponsabilidade radical (todos com muita clareza das suas tarefas, ninguém é babá de ninguém)
+	- Autonomia e independência de horário e de tomada de decisão
 
 ###### Roda da Vida Atual
 
