@@ -8,6 +8,8 @@ Valores é o que eu escolho que reja a minha vida. É o combustível para o meu 
 
 Existe um valor por trás dos nossos movimentos. [[Se você não sabe que a sua vida está sendo regida por valores, você é um fantoche]].
 
+Valores são intrínsecos e viscerais.
+
 A que eu vou plugar o meu coração?
 
 1. Quais são os 10 valores que te fazem escolher alguém de melhor amigo? (Escolha muito bem quem você escolhe chamar de amigo)
