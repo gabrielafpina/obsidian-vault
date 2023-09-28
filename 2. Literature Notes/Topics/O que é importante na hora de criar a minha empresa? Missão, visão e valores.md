@@ -30,6 +30,7 @@
 - [[As 3 leis do trabalho]]
 - [[O meu nível de ser atrai a minha vida]]
 - [[Como encontrar os meus valores pessoais?]]
+- [[Estrela de Valores]]
 
 **Sul: para onde vai**
 - [[Você é o maior especialista em ensinar aos outros como você quer ser tratado]]

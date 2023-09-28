@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É importante ter respeito pelas vida que você transforma. Quando você vê ouyttro ser humano 
+É importante ter respeito pelas vida que você transforma. Quando você vê outro ser humano dessa forma, isso é corrompimento de valores, do respeito e da vida.
 
 ###### **COMO:**
 
@@ -20,5 +20,6 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Estrela de Valores]]
 
 **Sul: para onde vai**

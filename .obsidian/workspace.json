@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei do Darma ou do Propósito de Vida.md",
+                "file": "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
+                "file": "2. Literature Notes/Topics/Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "É uma sabotagem pensar que eu to igual.md",
+                "file": "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
+                "file": "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -244,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md"
+                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md"
               }
             }
           },
@@ -323,7 +324,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
@@ -331,12 +332,12 @@
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
     "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
-    "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
-    "Lei do Darma ou do Propósito de Vida.md",
-    "É uma sabotagem pensar que eu to igual.md",
-    "Como saber se estou no flow ou na zona de conforto?.md",
-    "Prosperar é sobre felicidade.md",
-    "Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
+    "2. Literature Notes/Topics/Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
+    "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
+    "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
+    "2. Literature Notes/Topics/Como saber se estou no flow ou na zona de conforto?.md",
+    "2. Literature Notes/Topics/Prosperar é sobre felicidade.md",
+    "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
     "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
