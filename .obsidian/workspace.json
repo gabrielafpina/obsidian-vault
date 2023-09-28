@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merielly lima",
+                "query": "intenção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59e87628b5f42f84",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
