@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tempo ",
+                "query": "missão ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -288,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3622615a45377b05",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Lei do Darma ou do Propósito de Vida.md",
     "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
