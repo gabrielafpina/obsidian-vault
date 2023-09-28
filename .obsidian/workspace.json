@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "0c0c17312e35fe31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd8ae45db55b6991",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+                "file": "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+                "file": "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md"
+                "file": "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md"
               }
             }
           },
@@ -324,9 +336,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "0c0c17312e35fe31",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
+    "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
@@ -364,7 +377,6 @@
     "5. Shots, Images & PDFs/12.png",
     "5. Shots, Images & PDFs/11.png",
     "3. Me, Myself and I/Exercícios/Vision Boa.md",
-    "2. Literature Notes/Topics/O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
