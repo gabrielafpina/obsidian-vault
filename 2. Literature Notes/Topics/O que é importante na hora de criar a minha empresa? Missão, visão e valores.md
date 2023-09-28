@@ -7,8 +7,8 @@
 **DEFINIÇÃO:**
 **1. Missão, Visão e Valores**
 	1. O que a sua empresa veio fazer nessa vida
-	2. Pra onde você vai
-	3. A forma como você vive
+	2. Pra onde você vai, objetivos, onde você quer estar daqui há X tempo
+	3. A forma como você vive, o que é inegociável no seu caminho
 **2. Descrição de cargos e atividades**
 	1. O que a pessoa faz; se a pessoa sair, como deve ser a pessoa que deve entrar?; como deve ser o perfil dessa pessoa;
 	2. Testes: [[Resultado Ga Eneagrama]], [[MBTI]], preferência cerebral, [[Âncoras de Carreira]].
