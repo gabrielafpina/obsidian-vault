@@ -51,4 +51,4 @@ Quando eu perco a noção do tempo. Penetrar em uma consciência atemporal.
 **Sul: para onde vai**
 - [[Como saber se estou no flow ou na zona de conforto?]]
 - [[É uma sabotagem pensar que eu to igual]] 
-- Atrá de uma grande sombra, uma grande dor, exis
+- [[Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser]]
