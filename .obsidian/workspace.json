@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "c22ea4674e3d1fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ad4199735a6e63a",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "missão ",
+                "query": "ajudar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
+                "file": "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
+                "file": "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md"
+                "file": "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md"
               }
             }
           },
@@ -300,10 +312,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a15610b81067739",
+  "active": "c22ea4674e3d1fb6",
   "lastOpenFiles": [
-    "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
     "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
+    "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
+    "Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
     "Lei do Darma ou do Propósito de Vida.md",
     "É uma sabotagem pensar que eu to igual.md",
     "Como saber se estou no flow ou na zona de conforto?.md",
@@ -340,7 +353,6 @@
     "3. Me, Myself and I/Testes/MBTI.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
-    "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
