@@ -196,7 +196,8 @@
 	- Gosta de estar na natureza
 - **Projetos**
 	- Diversão e leveza
-	- Consciência do propósito
+	- Consciência
+	- Propósito
 	- Verdade e Respeito pelo meu cliente e meu produto
 	- Dinheiro e Lucratividade
 	- Clareza e Ordem de etapas e processos
@@ -209,6 +210,11 @@
 	- Ascensão, crescimento e evolução (Poder, status e financeiramente)
 	- Autorresponsabilidade radical (todos com muita clareza das suas tarefas, ninguém é babá de ninguém)
 	- Autonomia e independência de horário e de tomada de decisão
+	- Empoderamento e inspiração de pessoas
+- **Vida** (valores que regem a minha tomada de decisão)
+	- Consciência
+	- Conexão espiritual
+	- 
 
 ###### Roda da Vida Atual
 
