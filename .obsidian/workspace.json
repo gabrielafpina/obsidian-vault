@@ -16,12 +16,36 @@
             }
           },
           {
+            "id": "d8cc3a709a5b6645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lei do Darma ou do Propósito de Vida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "59e87628b5f42f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f638285e86b4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -137,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
+                "file": "Lei do Darma ou do Propósito de Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
+                "file": "Lei do Darma ou do Propósito de Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md"
+                "file": "Lei do Darma ou do Propósito de Vida.md"
               }
             }
           },
@@ -216,8 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "d8cc3a709a5b6645",
   "lastOpenFiles": [
+    "Lei do Darma ou do Propósito de Vida.md",
+    "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
     "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
@@ -255,8 +282,6 @@
     "2. Literature Notes/Topics/Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
     "2. Literature Notes/People/Steve Jobs.md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que .md",
-    "2. Literature Notes/People/Nassim Taleb.md",
-    "2. Literature Notes/Topics/Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
