@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ajudar",
+                "query": "entregar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,8 +170,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,7 +311,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c22ea4674e3d1fb6",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
     "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
