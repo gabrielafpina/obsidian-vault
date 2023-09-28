@@ -4,136 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d95706dbd2e5daa5",
+        "id": "fdb406f7c8afdfec",
         "type": "tabs",
         "children": [
           {
-            "id": "878fe733d62e8f05",
+            "id": "ecbe59b2b8fb4127",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as zonas?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c73f77c58933d71a",
+            "id": "59e87628b5f42f84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4feee6d67baca55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "740e412f1a23c015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448bc41c0a32f5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7cce3de874a6a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "824d4c8e9ee34a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Criação de Vision Board.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7889d3da481460f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Exercícios/Metas de Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "024995dfd1d2d2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como encontrar meu propósito? Teal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1db73a4dfa64a207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44264d02852c7411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque eu deveria atuar na minha zona de genialidade?.md",
+                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -249,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md"
+                "file": "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md"
               }
             }
           },
@@ -305,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,46 +217,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c73f77c58933d71a",
+  "active": "59e87628b5f42f84",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
+    "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-    "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+    "2. Literature Notes/Topics/O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-    "Como encontrar meu propósito? Teal.md",
+    "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Propósito não se alcança, se vive.md",
     "3. Me, Myself and I/Exercícios/Metas de Vida.md",
-    "9e7f5220fb3de7271f5c20028c2cc545.jpeg",
-    "af3f923e0e9be76724e3471bb46d5b98.jpeg",
-    "9da3c253906f54e042cff8dead524e4f.jpeg",
-    "92340448ae3887584f70ed3e0fa2f71a.jpeg",
-    "98d5a24bcb916358bc7c9182cf1595e9.jpeg",
-    "d190776d78654cd80b443d9237c0f3ad.jpeg",
-    "db48c00d6fc980626164bf17819daaf8.jpeg",
-    "11f00f48e21e90b0a9dd292bda1612b3.jpeg",
-    "12.png",
-    "11.png",
+    "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
+    "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
+    "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",
+    "5. Shots, Images & PDFs/92340448ae3887584f70ed3e0fa2f71a.jpeg",
+    "5. Shots, Images & PDFs/98d5a24bcb916358bc7c9182cf1595e9.jpeg",
+    "5. Shots, Images & PDFs/d190776d78654cd80b443d9237c0f3ad.jpeg",
+    "5. Shots, Images & PDFs/db48c00d6fc980626164bf17819daaf8.jpeg",
+    "5. Shots, Images & PDFs/11f00f48e21e90b0a9dd292bda1612b3.jpeg",
+    "5. Shots, Images & PDFs/12.png",
+    "5. Shots, Images & PDFs/11.png",
     "3. Me, Myself and I/Exercícios/Vision Boa.md",
-    "O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
+    "2. Literature Notes/Topics/O vazio existencial não é um sinal de falha, mas um convite para a introspecção e o crescimento pessoal.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Drawing 2023-09-26 14.19.00.excalidraw.md",
     "3. Me, Myself and I/Testes/MBTI.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "3. Me, Myself and I/Testes/Desenho Humano Gá.md",
-    "Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
-    "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro.\".md",
+    "2. Literature Notes/Topics/Se conhecer exige coragem, exige coragem para confrontar seus demônios e abrir espaço para que o autoconhecimento possa acontecer.md",
+    "2. Literature Notes/Topics/\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro.\".md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o qu 2.md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que for.\".md",
-    "Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
-    "Steve Jobs.md",
+    "2. Literature Notes/Topics/Os 3 vícios mais destrutivos são heroína, carboidratos e um salário mensal.md",
+    "2. Literature Notes/People/Steve Jobs.md",
     "\"Você não pode ligar os pontos olhando para a frente; você só pode ligá-los olhando para trás. Então, você tem que confiar que os pontos se ligarão no futuro. Você tem que confiar em algo - seu instinto, destino, vida, carma, o que .md",
-    "Nassim Taleb.md",
-    "Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
-    "2. Literature Notes/Topics/\"Se você planeja deliberadamente ser menos do que é capaz de ser, então eu o aviso que você será infeliz pelo resto da sua vida.\".md",
+    "2. Literature Notes/People/Nassim Taleb.md",
+    "2. Literature Notes/Topics/Ao tentar se encaixar, a única vida que você vai conseguir é uma vida medíocre.md",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
