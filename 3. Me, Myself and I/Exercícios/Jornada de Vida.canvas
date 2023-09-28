@@ -8,7 +8,9 @@
 		{"id":"9ab8e66d6ed91002","x":1584,"y":-390,"width":361,"height":315,"type":"text","text":"**17 anos**\nTérmino do primeiro namoro. Sensação de que ia morrer. \n\n*Sentimentos e sensações*\n- Traição- foi traída pelo seu primeiro grande amor e sentiu vazio existencial, como se não tivesse valor\n- Raiva \n- Tristeza\n- Vontade de sumir"},
 		{"id":"9bcefe17c1aa6d01","x":2032,"y":-478,"width":354,"height":491,"type":"text","text":"**18 anos**\nViveu outro relacionamento tóxico. Não se valorizava e permitia que o outro projetasse suas inseguranças em si mesma. Alto nível de dependência emocional.\n\nNessa época, se cortou após uma briga com o ex-namorado. Se odiava nessa época e fez isso para ele não brigar e terminar com ela. Porque se ele tivesse pena dela, não iria terminar com ela.\n\n*Sensações e sentimentos*\n- Raiva de si mesma. Se achava muito burra\n- Não conseguia ficar sozinha, então preferia ficar em um relacionamento de merda\n- Tristeza por se machucar"},
 		{"id":"6d3890fa6d8c72cd","x":2488,"y":-473,"width":357,"height":481,"type":"text","text":"**18 anos**\nVício em remédios tarja preta. Alta ansiedade por conta do enem fez com que ficasse 4 dias sem dormir. Começou a ser medicada com quetiapina e se tornou dependente química.\n\n*Sentimentos e sensações*\n- Extrema ansiedade e desespero sem o remédio\n- Insônia todos os dias\n- Acordava e ia dormir cansada todos os dias\n- Não tinha um dia que se sentia bem, porque dormia muito mal\n- Tinha um mau-humor muito grande, principalmente quando não tinha o remédio perto dela, o que a fazia surtar"},
-		{"id":"11bc7c53a918efed","x":2923,"y":-370,"width":322,"height":276,"type":"text","text":"**19 anos**\nEntrou na faculdade nacional de direito (UFRJ). Se sentiu invencível, porque foi a primeira grande conquista que teve em sua vida. Estudou muito para passar e passou com uma nota muito boa.\n\n*Sentimentos e sensações*\n- Ego inflado\n- Se sentia imbatível e ficava se achando por estudar na UFRJ, como se o seu valor estivesse atrelado a pa"}
+		{"id":"11bc7c53a918efed","x":2925,"y":-434,"width":352,"height":403,"type":"text","text":"**18 anos**\nEntrou na faculdade nacional de direito (UFRJ). Se sentiu invencível, porque foi a primeira grande conquista que teve em sua vida. Estudou muito para passar e passou com uma nota muito boa.\n\n*Sentimentos e sensações*\n- Ego inflado\n- Se sentia imbatível e ficava se achando por estudar na UFRJ, como se o seu valor estivesse atrelado a passar em uma faculdade pública e altamente concorrida, isso fazia ela se sentir melhor do que as outras pessoas"},
+		{"id":"6abd131f588f71d1","x":3343,"y":-262,"width":250,"height":60,"type":"text","text":"**19 anos**\nComeçou a criar conteúdo falando sobre depressão e ansiedade."},
+		{"id":"3f132a5d8a55df76","x":2985,"y":-761,"width":232,"height":309,"type":"file","file":"5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg"}
 	],
 	"edges":[
 		{"id":"421e71c2c2ba42f2","fromNode":"dfa9e0367ca4324f","fromSide":"right","toNode":"2f4b1f5e545856c7","toSide":"left"},
@@ -18,6 +20,7 @@
 		{"id":"fd2d2bd8dbbb58fb","fromNode":"d9e288ed7fad14ef","fromSide":"right","toNode":"9ab8e66d6ed91002","toSide":"left"},
 		{"id":"1e07e0007ff42d39","fromNode":"9ab8e66d6ed91002","fromSide":"right","toNode":"9bcefe17c1aa6d01","toSide":"left"},
 		{"id":"26f1f3b1e508884d","fromNode":"9bcefe17c1aa6d01","fromSide":"right","toNode":"6d3890fa6d8c72cd","toSide":"left"},
-		{"id":"7202ef11c1a1aca6","fromNode":"6d3890fa6d8c72cd","fromSide":"right","toNode":"11bc7c53a918efed","toSide":"left"}
+		{"id":"7202ef11c1a1aca6","fromNode":"6d3890fa6d8c72cd","fromSide":"right","toNode":"11bc7c53a918efed","toSide":"left"},
+		{"id":"92d6c82b59de58c3","fromNode":"11bc7c53a918efed","fromSide":"right","toNode":"6abd131f588f71d1","toSide":"left"}
 	]
 }
