@@ -181,7 +181,23 @@
 
 
 ###### Valores de Vida
-
+- **Amigos**
+	- Transparência e comunicação claras
+	- Conexão profunda entre nós
+	- Conexão com a Espiritualidade
+	- Alegria, bom-humor, positividade, leveza
+	- Diversão
+	- Consciência sobre si, sobre o outro e sobre o mundo
+	- Integridade e Autorresponsabilidade Radical
+	- Evolução e crescimento constante (o contrário da estagnação)
+	- Sabedoria e profundidade nos assuntos (o raso não me atrai)
+	- Busca a prosperidade em todas as áreas da vida
+	- Saúde
+	- Gosta de estar na natureza
+- **Projetos**
+	- Diversão e leveza
+	- Consciência do propósito
+	- Verdade
 
 ###### Roda da Vida Atual
 
