@@ -21,7 +21,9 @@
 		{"id":"57235ce2cadf45f6","x":1964,"y":-769,"width":250,"height":93,"type":"text","text":"Existe uma grande distinção entre o *conhecimento* e a *Verdade*"},
 		{"id":"b2799e01e1a51b87","x":1087,"y":-114,"width":250,"height":60,"type":"text","text":"[[O mapa não é o território]]"},
 		{"id":"d25c5eee71aa6dcd","x":1392,"y":-145,"width":250,"height":127,"type":"text","text":"O que acreditamos só tem valor porque lhe atribuímos um, **concordando** sobre eles terem um significado"},
-		{"id":"c78477fc716d69ca","x":1828,"y":-174,"width":250,"height":180,"type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos"}
+		{"id":"c78477fc716d69ca","x":1828,"y":-132,"width":250,"height":299,"type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos. E tudo isso não passa de *apenas símbolos*. E eles só são verdadeiros porque nós estabelecemos isso."},
+		{"id":"3418eea999a96074","x":2203,"y":-72,"width":278,"height":180,"type":"text","text":"[[O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece]]"},
+		{"id":"b40469894b95c7f2","x":2580,"y":-56,"width":250,"height":147,"type":"text","text":"A mente humana não passa de uma realidade virtual que criamos. E essa realidade pode ser um inferno ou um paraíso. "}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -45,6 +47,8 @@
 		{"id":"d5be12e03523ffd7","fromNode":"42eea40e36b93cc1","fromSide":"right","toNode":"b2799e01e1a51b87","toSide":"left"},
 		{"id":"70c260839c1dd3f9","fromNode":"b2799e01e1a51b87","fromSide":"right","toNode":"d25c5eee71aa6dcd","toSide":"left"},
 		{"id":"cca68d7428fb8e24","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"57235ce2cadf45f6","toSide":"left"},
-		{"id":"cbb3072906bc531f","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"c78477fc716d69ca","toSide":"left"}
+		{"id":"cbb3072906bc531f","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"c78477fc716d69ca","toSide":"left"},
+		{"id":"93722fa6221d4e92","fromNode":"c78477fc716d69ca","fromSide":"right","toNode":"3418eea999a96074","toSide":"left"},
+		{"id":"93ad0dbc56a39aaa","fromNode":"3418eea999a96074","fromSide":"right","toNode":"b40469894b95c7f2","toSide":"left"}
 	]
 }
