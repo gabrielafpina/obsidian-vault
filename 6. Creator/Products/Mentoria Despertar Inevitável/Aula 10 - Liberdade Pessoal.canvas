@@ -10,7 +10,9 @@
 		{"id":"0494b546d696dbf3","type":"text","text":"[[Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou]]","x":1953,"y":-529,"width":250,"height":145},
 		{"id":"ef417756471c4946","x":2287,"y":-539,"width":250,"height":166,"type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós"},
 		{"id":"b4541b4ed0981954","x":2615,"y":-512,"width":250,"height":113,"type":"text","text":"Passamos a pensar que precisamos ser de determinada forma para sermos **aceitos**"},
-		{"id":"bdd72e443f083ce7","x":2946,"y":-485,"width":250,"height":60,"type":"text","text":"Medo da rejeição cria a necessidade da perfeição"}
+		{"id":"bdd72e443f083ce7","x":2946,"y":-485,"width":250,"height":60,"type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**"},
+		{"id":"6d4d7090a918f4f2","x":3249,"y":-567,"width":250,"height":223,"type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]"},
+		{"id":"0fa7147d44c5d514","x":3563,"y":-484,"width":250,"height":117,"type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -22,6 +24,8 @@
 		{"id":"8baec06e444cc306","fromNode":"21438bd436eb9aa9","fromSide":"right","toNode":"0494b546d696dbf3","toSide":"left"},
 		{"id":"fe938bc7f115f841","fromNode":"0494b546d696dbf3","fromSide":"right","toNode":"ef417756471c4946","toSide":"left"},
 		{"id":"c2f1148975a1f92a","fromNode":"ef417756471c4946","fromSide":"right","toNode":"b4541b4ed0981954","toSide":"left"},
-		{"id":"b8492bcdde252486","fromNode":"b4541b4ed0981954","fromSide":"right","toNode":"bdd72e443f083ce7","toSide":"left"}
+		{"id":"b8492bcdde252486","fromNode":"b4541b4ed0981954","fromSide":"right","toNode":"bdd72e443f083ce7","toSide":"left"},
+		{"id":"e5d911dd833de009","fromNode":"bdd72e443f083ce7","fromSide":"right","toNode":"6d4d7090a918f4f2","toSide":"left"},
+		{"id":"883f1839bc1a6f7f","fromNode":"6d4d7090a918f4f2","fromSide":"right","toNode":"0fa7147d44c5d514","toSide":"left"}
 	]
 }
