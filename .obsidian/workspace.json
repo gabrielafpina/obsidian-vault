@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "dd05bdd49eab45ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "88cb34e565745e62",
             "type": "leaf",
             "state": {
@@ -86,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7f0480c584097b69",
@@ -196,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou.md"
               }
             }
           },
@@ -252,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +285,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c52193b13313f03",
+  "active": "dd05bdd49eab45ef",
   "lastOpenFiles": [
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
@@ -310,7 +321,6 @@
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-    "2. Literature Notes/Topics/O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",

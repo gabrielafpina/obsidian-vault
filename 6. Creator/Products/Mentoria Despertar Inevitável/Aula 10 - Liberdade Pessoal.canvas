@@ -6,7 +6,8 @@
 		{"id":"8e36fbd57ac6969f","x":1032,"y":-543,"width":250,"height":180,"type":"text","text":"Somos **domesticados** com um sistema de punições e recompensas. Esse é o começo da morte da nossa verdade e da nossa [[Criança Interior]]"},
 		{"id":"83a821aff1c8b2df","x":711,"y":-510,"width":250,"height":109,"type":"text","text":"Uma criança sabe o que ela gosta, do que não gosta, quando gosta e quando não gosta"},
 		{"id":"b8e04c9f055653a7","x":1332,"y":-573,"width":250,"height":241,"type":"text","text":"Começamos a **agradar**, a ser bonzinho, para não sermos punidos.\n\nPor [[Transferências]], nos são impostos as regras, valores e [[crenças]] da nossa família e sociedade."},
-		{"id":"21438bd436eb9aa9","x":1641,"y":-483,"width":250,"height":60,"type":"text","text":"Aprendemos que existe uma voz na nossa cabeça "}
+		{"id":"21438bd436eb9aa9","x":1642,"y":-573,"width":250,"height":232,"type":"text","text":"Aprendemos que existe uma **voz na nossa cabeça** e acreditamos em tudo o que ela fala. Achamos que somos ela, o [[Ego]] e passamos a acreditar em todas as opiniões que as pessoas ao nosso redor tem sobre a gente"},
+		{"id":"0494b546d696dbf3","x":1954,"y":-486,"width":250,"height":123,"type":"text","text":"[[Eu não sou quem eu acho que eu sou. Eu sou você acha que eu sou. Eu sou o que eu acho que você acha que eu sou]]"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -14,6 +15,7 @@
 		{"id":"6b072dc158b28829","fromNode":"222d39878e228b4b","fromSide":"right","toNode":"83a821aff1c8b2df","toSide":"left"},
 		{"id":"111593e91906341d","fromNode":"83a821aff1c8b2df","fromSide":"right","toNode":"8e36fbd57ac6969f","toSide":"left"},
 		{"id":"efa884b363d25e4a","fromNode":"8e36fbd57ac6969f","fromSide":"right","toNode":"b8e04c9f055653a7","toSide":"left"},
-		{"id":"e9269912adf3c456","fromNode":"b8e04c9f055653a7","fromSide":"right","toNode":"21438bd436eb9aa9","toSide":"left"}
+		{"id":"e9269912adf3c456","fromNode":"b8e04c9f055653a7","fromSide":"right","toNode":"21438bd436eb9aa9","toSide":"left"},
+		{"id":"8baec06e444cc306","fromNode":"21438bd436eb9aa9","fromSide":"right","toNode":"0494b546d696dbf3","toSide":"left"}
 	]
 }
