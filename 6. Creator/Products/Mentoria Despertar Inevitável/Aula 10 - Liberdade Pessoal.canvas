@@ -23,7 +23,12 @@
 		{"id":"d25c5eee71aa6dcd","x":1392,"y":-145,"width":250,"height":127,"type":"text","text":"O que acreditamos só tem valor porque lhe atribuímos um, **concordando** sobre eles terem um significado"},
 		{"id":"c78477fc716d69ca","x":1828,"y":-132,"width":250,"height":299,"type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos. E tudo isso não passa de *apenas símbolos*. E eles só são verdadeiros porque nós estabelecemos isso."},
 		{"id":"3418eea999a96074","x":2203,"y":-72,"width":278,"height":180,"type":"text","text":"[[O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece]]"},
-		{"id":"b40469894b95c7f2","x":2580,"y":-56,"width":250,"height":147,"type":"text","text":"A mente humana não passa de uma realidade virtual que criamos. E essa realidade pode ser um inferno ou um paraíso. "}
+		{"id":"b40469894b95c7f2","x":2580,"y":-56,"width":250,"height":147,"type":"text","text":"A mente humana não passa de uma **realidade virtual** que criamos. E essa realidade pode ser um inferno ou um paraíso. "},
+		{"id":"30ea84eca0d3d987","x":2946,"y":-84,"width":250,"height":204,"type":"text","text":"O ser humano é um **artista** que cria a sua própria realidade virtual - e essa obra de arte pode ser um reflexo mais fiel da verdade, ao invés de um objeto de auto-destruição"},
+		{"id":"b59de376c5e50150","x":3704,"y":-111,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da consciência**"},
+		{"id":"420f7528ef640c10","x":3700,"y":-13,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da transformação**"},
+		{"id":"b24ab0beb5693854","x":3704,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio do amor, da intenção ou da fé**"},
+		{"id":"5f7b078d5c87c687","x":3286,"y":-35,"width":250,"height":215,"type":"text","text":"O artista é **perito** em 3 áreas. E, ao dominá-las, somos guiados para fora do sofrimento.\n\n[[Criamos a nossa realidade conscientemente, ou não]]"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -49,6 +54,11 @@
 		{"id":"cca68d7428fb8e24","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"57235ce2cadf45f6","toSide":"left"},
 		{"id":"cbb3072906bc531f","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"c78477fc716d69ca","toSide":"left"},
 		{"id":"93722fa6221d4e92","fromNode":"c78477fc716d69ca","fromSide":"right","toNode":"3418eea999a96074","toSide":"left"},
-		{"id":"93ad0dbc56a39aaa","fromNode":"3418eea999a96074","fromSide":"right","toNode":"b40469894b95c7f2","toSide":"left"}
+		{"id":"93ad0dbc56a39aaa","fromNode":"3418eea999a96074","fromSide":"right","toNode":"b40469894b95c7f2","toSide":"left"},
+		{"id":"23dd724869366863","fromNode":"b40469894b95c7f2","fromSide":"right","toNode":"30ea84eca0d3d987","toSide":"left"},
+		{"id":"fe04d5395471eba2","fromNode":"30ea84eca0d3d987","fromSide":"right","toNode":"5f7b078d5c87c687","toSide":"left"},
+		{"id":"cbc0a055f5e9989b","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"b59de376c5e50150","toSide":"left"},
+		{"id":"35cf43f3031c71ea","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"420f7528ef640c10","toSide":"left"},
+		{"id":"27a7d448b55782ae","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"b24ab0beb5693854","toSide":"left"}
 	]
 }
