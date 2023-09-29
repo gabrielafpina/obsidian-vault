@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 A instabilidade emocional e preocupação em excesso com determinados objetos e cenários são características intrínsecas da neurose.
 
+A pessoa neurótica imagina um resultado desastroso de uma situação simples, frustrando-se com seus próprios pensamentos ruins e explodindo com quem está próximo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -19,6 +21,7 @@ A instabilidade emocional e preocupação em excesso com determinados objetos e 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[característic]]
+- [[Quais são as 3 características de psiconeuroses?]]
+- [[Cadeia Emocional]]
 
 **Sul: para onde vai**

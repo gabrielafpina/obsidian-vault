@@ -13,6 +13,7 @@
 ###### **COMO:**
 
 ###### **PENSADORES:**
+- [[Sigmund Freud]]
 
 ###### **FRASES:**
 
