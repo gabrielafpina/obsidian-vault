@@ -20,6 +20,7 @@ Você não precisa ter todos os sintomas para ser considerado um neurótico. Um 
 - Pessimismo
 - Angústia 
 - Melancolia
+Eventualmente, as pessoas neuróticas se tornam intolerante com experiências sociais que consideram desagradáveis. Por conta de suas reações excessivas aos eventos cotidianos, passam a ser indesejados pelos demais.
 
 ###### **PENSADORES:**
 
@@ -33,5 +34,6 @@ Você não precisa ter todos os sintomas para ser considerado um neurótico. Um 
 
 **Norte: ideia/pergunta**
 - [[Quais são as 3 características de psiconeuroses?]]
+- [[Trabalhando com Fobias]]
 
 **Sul: para onde vai**

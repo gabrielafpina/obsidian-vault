@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neurose",
+                "query": "fobia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,9 +284,10 @@
   },
   "active": "6d3b018e1a7e1cf9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Trabalhando com Fobias.md",
+    "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
-    "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
@@ -317,7 +317,6 @@
     "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
     "2. Literature Notes/Topics/Como saber se estou no flow ou na zona de conforto?.md",
     "2. Literature Notes/Topics/Prosperar é sobre felicidade.md",
-    "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
