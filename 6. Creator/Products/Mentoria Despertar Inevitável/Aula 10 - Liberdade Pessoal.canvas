@@ -28,7 +28,7 @@
 		{"id":"b59de376c5e50150","x":3704,"y":-111,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da consciência**"},
 		{"id":"420f7528ef640c10","x":3700,"y":-13,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da transformação**"},
 		{"id":"b24ab0beb5693854","x":3704,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio do amor, da intenção ou da fé**"},
-		{"id":"5f7b078d5c87c687","x":3286,"y":-35,"width":250,"height":215,"type":"text","text":"O artista é **perito** em 3 áreas. E, ao dominá-las, somos guiados para fora do sofrimento.\n\n[[Criamos a nossa realidade conscientemente, ou não]]"}
+		{"id":"5f7b078d5c87c687","x":3286,"y":-89,"width":250,"height":215,"type":"text","text":"O artista é **perito** em 3 áreas. E, ao dominá-las, somos guiados para fora do sofrimento.\n\n[[Criamos a nossa realidade conscientemente, ou não]]"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
