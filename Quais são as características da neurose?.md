@@ -25,6 +25,7 @@ Eventualmente, as pessoas neuróticas se tornam intolerante com experiências so
 A partir da publicação do manual diagnóstico e estatístico dos transtornos mentais, em 2013 os tipos de neurose foram desmembrando-se em diversos transtornos para melhorar o tratamento desses. Assim, a terminologia 'neurose' foi também substituída por alguns termos como transtorno depressivo, transtorno de ansiedade, transtorno obsessivo compulsivo, transtornos dissociativos, etc.
 
 ###### **PENSADORES:**
+- [[Sigmund Freud]]
 
 ###### **FRASES:**
 
@@ -37,5 +38,6 @@ A partir da publicação do manual diagnóstico e estatístico dos transtornos m
 **Norte: ideia/pergunta**
 - [[Quais são as 3 características de psiconeuroses?]]
 - [[Trabalhando com Fobias]]
+- [[Ego]]
 
 **Sul: para onde vai**
