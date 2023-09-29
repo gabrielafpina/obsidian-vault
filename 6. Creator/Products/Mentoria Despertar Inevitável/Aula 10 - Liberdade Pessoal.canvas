@@ -17,7 +17,11 @@
 		{"id":"24871e1ab09a2c2d","x":152,"y":-108,"width":232,"height":50,"color":"5","type":"text","text":"**Os símbolos na sua vida**"},
 		{"id":"2d36ac253286bc59","x":4005,"y":-602,"width":250,"height":295,"type":"text","text":"**EXERCÍCIO**\n- Qual foi a última vez que você se puniu?\n- O que a sua mente te falou e você acreditou?\n- Qual foi a última vez em que você se recompensou por ser uma boa menina/menino?"},
 		{"id":"f3cac28761834ade","x":461,"y":-135,"width":250,"height":105,"type":"text","text":"Os seres humanos criaram **símbolos** como forma de se comunicar consigo mesmos e com os outros"},
-		{"id":"42eea40e36b93cc1","x":794,"y":-110,"width":250,"height":60,"type":"text","text":""}
+		{"id":"42eea40e36b93cc1","x":782,"y":-134,"width":250,"height":104,"type":"text","text":"Quando compreendemos os símbolos que aprendemos, passamos a viver de acordo com eles"},
+		{"id":"57235ce2cadf45f6","x":1964,"y":-769,"width":250,"height":93,"type":"text","text":"Existe uma grande distinção entre o *conhecimento* e a *Verdade*"},
+		{"id":"b2799e01e1a51b87","x":1087,"y":-114,"width":250,"height":60,"type":"text","text":"[[O mapa não é o território]]"},
+		{"id":"d25c5eee71aa6dcd","x":1392,"y":-145,"width":250,"height":127,"type":"text","text":"O que acreditamos só tem valor porque lhe atribuímos um, **concordando** sobre eles terem um significado"},
+		{"id":"c78477fc716d69ca","x":1828,"y":-174,"width":250,"height":180,"type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -36,6 +40,11 @@
 		{"id":"b2c6155663d87939","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"24871e1ab09a2c2d","toSide":"left"},
 		{"id":"cbb2929e3a2768e2","fromNode":"0fa7147d44c5d514","fromSide":"right","toNode":"2d36ac253286bc59","toSide":"left"},
 		{"id":"11f2340b3c1481a4","fromNode":"24871e1ab09a2c2d","fromSide":"right","toNode":"f3cac28761834ade","toSide":"left"},
-		{"id":"2740211b7861b906","fromNode":"f3cac28761834ade","fromSide":"right","toNode":"42eea40e36b93cc1","toSide":"left"}
+		{"id":"2740211b7861b906","fromNode":"f3cac28761834ade","fromSide":"right","toNode":"42eea40e36b93cc1","toSide":"left"},
+		{"id":"cab2754a7b635433","fromNode":"21438bd436eb9aa9","fromSide":"right","toNode":"57235ce2cadf45f6","toSide":"left"},
+		{"id":"d5be12e03523ffd7","fromNode":"42eea40e36b93cc1","fromSide":"right","toNode":"b2799e01e1a51b87","toSide":"left"},
+		{"id":"70c260839c1dd3f9","fromNode":"b2799e01e1a51b87","fromSide":"right","toNode":"d25c5eee71aa6dcd","toSide":"left"},
+		{"id":"cca68d7428fb8e24","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"57235ce2cadf45f6","toSide":"left"},
+		{"id":"cbb3072906bc531f","fromNode":"d25c5eee71aa6dcd","fromSide":"right","toNode":"c78477fc716d69ca","toSide":"left"}
 	]
 }
