@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"dffa481a09e7d081","type":"text","text":"**Como alcançar a Liberdade Pessoal?**","x":-181,"y":-36,"width":250,"height":60,"color":"6"},
-		{"id":"0f14ce4760b7f8ec","type":"text","text":"**É assim que funciona a sua programaçãõ**","x":146,"y":-484,"width":183,"height":60,"color":"4"},
 		{"id":"222d39878e228b4b","type":"text","text":"Nascemos com uma programação e seguimos, de forma instintiva, o que queremos","x":384,"y":-510,"width":250,"height":112},
 		{"id":"8e36fbd57ac6969f","type":"text","text":"Somos **domesticados** com um sistema de punições e recompensas. Esse é o começo da morte da nossa verdade e da nossa [[Criança Interior]]","x":1032,"y":-543,"width":250,"height":180},
 		{"id":"83a821aff1c8b2df","type":"text","text":"Uma criança sabe o que ela gosta, do que não gosta, quando gosta e quando não gosta","x":711,"y":-510,"width":250,"height":109},
@@ -13,7 +12,12 @@
 		{"id":"bdd72e443f083ce7","type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**","x":2946,"y":-485,"width":250,"height":60},
 		{"id":"6d4d7090a918f4f2","type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]","x":3249,"y":-567,"width":250,"height":223},
 		{"id":"0fa7147d44c5d514","type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar. Aprendemos a nos julgar, a nos punir e a nos recompensar de acordo com o mesmo sistema de crenças que nos foi imposto ([[Senso Comum]]) e usando o mesmo sistema de punições e recompensas.","x":3592,"y":-566,"width":324,"height":222},
-		{"id":"56aafb689a10edc7","x":165,"y":188,"width":164,"height":60,"color":"3","type":"text","text":"**Compromissos**"}
+		{"id":"56aafb689a10edc7","x":165,"y":188,"width":164,"height":60,"color":"3","type":"text","text":"**Compromissos**"},
+		{"id":"0f14ce4760b7f8ec","type":"text","text":"**É assim que funciona a sua programaçãõ**","x":146,"y":-497,"width":183,"height":86,"color":"4"},
+		{"id":"24871e1ab09a2c2d","x":152,"y":-108,"width":232,"height":50,"color":"5","type":"text","text":"**Os símbolos na sua vida**"},
+		{"id":"2d36ac253286bc59","x":4005,"y":-602,"width":250,"height":295,"type":"text","text":"**EXERCÍCIO**\n- Qual foi a última vez que você se puniu?\n- O que a sua mente te falou e você acreditou?\n- Qual foi a última vez em que você se recompensou por ser uma boa menina/menino?"},
+		{"id":"f3cac28761834ade","x":461,"y":-135,"width":250,"height":105,"type":"text","text":"Os seres humanos criaram **símbolos** como forma de se comunicar consigo mesmos e com os outros"},
+		{"id":"42eea40e36b93cc1","x":794,"y":-110,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -28,6 +32,10 @@
 		{"id":"b8492bcdde252486","fromNode":"b4541b4ed0981954","fromSide":"right","toNode":"bdd72e443f083ce7","toSide":"left"},
 		{"id":"e5d911dd833de009","fromNode":"bdd72e443f083ce7","fromSide":"right","toNode":"6d4d7090a918f4f2","toSide":"left"},
 		{"id":"883f1839bc1a6f7f","fromNode":"6d4d7090a918f4f2","fromSide":"right","toNode":"0fa7147d44c5d514","toSide":"left"},
-		{"id":"e26ac2379ec9e3e3","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"56aafb689a10edc7","toSide":"left"}
+		{"id":"e26ac2379ec9e3e3","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"56aafb689a10edc7","toSide":"left"},
+		{"id":"b2c6155663d87939","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"24871e1ab09a2c2d","toSide":"left"},
+		{"id":"cbb2929e3a2768e2","fromNode":"0fa7147d44c5d514","fromSide":"right","toNode":"2d36ac253286bc59","toSide":"left"},
+		{"id":"11f2340b3c1481a4","fromNode":"24871e1ab09a2c2d","fromSide":"right","toNode":"f3cac28761834ade","toSide":"left"},
+		{"id":"2740211b7861b906","fromNode":"f3cac28761834ade","fromSide":"right","toNode":"42eea40e36b93cc1","toSide":"left"}
 	]
 }
