@@ -69,9 +69,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7728e6275ba2e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md"
+                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md"
               }
             }
           },
@@ -258,8 +271,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6601a1cf69d1d60e",
+  "active": "a7728e6275ba2e1e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
