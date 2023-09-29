@@ -50,67 +50,28 @@
             "id": "3c52193b13313f03",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-                "viewState": {
-                  "x": 555.494527085757,
-                  "y": -468.4491159846729,
-                  "zoom": -0.7158001790444056
-                }
-              }
-            }
-          },
-          {
-            "id": "3235bf4cc8c9afae",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd05bdd49eab45ef",
+            "id": "6601a1cf69d1d60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88cb34e565745e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47ca786a477c0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a resistência?.md",
+                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depressão",
+                "query": "neurose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "2. Literature Notes/Topics/O que são neuroses?.md"
               }
             }
           },
@@ -275,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,12 +258,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c52193b13313f03",
+  "active": "6601a1cf69d1d60e",
   "lastOpenFiles": [
-    "Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
-    "O Quinto compromisso.md",
+    "2. Literature Notes/Topics/Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-    "Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
+    "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
+    "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
+    "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
@@ -330,8 +292,6 @@
     "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
     "2. Literature Notes/Topics/Só eu sou eu.md",
     "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
-    "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
-    "2. Literature Notes/Topics/Quais são as zonas?.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
