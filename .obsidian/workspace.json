@@ -39,9 +39,9 @@
               "state": {
                 "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "viewState": {
-                  "x": 3514.097740225194,
-                  "y": -368.2639343618285,
-                  "zoom": 0.0927323269844052
+                  "x": 3423.1284754082612,
+                  "y": -296.11589674839877,
+                  "zoom": -0.7540236722429597
                 }
               }
             }
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md"
+                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas"
               }
             }
           },
@@ -260,8 +260,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da9b9b50463a1248",
+  "active": "ee0f621ce36513f0",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Testes/Mapa Astral.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
