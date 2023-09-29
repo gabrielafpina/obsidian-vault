@@ -1,18 +1,19 @@
 {
 	"nodes":[
 		{"id":"dffa481a09e7d081","type":"text","text":"**Como alcançar a Liberdade Pessoal?**","x":-181,"y":-36,"width":250,"height":60,"color":"6"},
-		{"id":"0f14ce4760b7f8ec","type":"text","text":"**Contexto Humano**","x":146,"y":-484,"width":183,"height":60,"color":"4"},
+		{"id":"0f14ce4760b7f8ec","type":"text","text":"**É assim que funciona a sua programaçãõ**","x":146,"y":-484,"width":183,"height":60,"color":"4"},
 		{"id":"222d39878e228b4b","type":"text","text":"Nascemos com uma programação e seguimos, de forma instintiva, o que queremos","x":384,"y":-510,"width":250,"height":112},
 		{"id":"8e36fbd57ac6969f","type":"text","text":"Somos **domesticados** com um sistema de punições e recompensas. Esse é o começo da morte da nossa verdade e da nossa [[Criança Interior]]","x":1032,"y":-543,"width":250,"height":180},
 		{"id":"83a821aff1c8b2df","type":"text","text":"Uma criança sabe o que ela gosta, do que não gosta, quando gosta e quando não gosta","x":711,"y":-510,"width":250,"height":109},
 		{"id":"b8e04c9f055653a7","type":"text","text":"Começamos a **agradar**, a ser bonzinho, para não sermos punidos.\n\nPor [[Transferências]], nos são impostos as regras, valores e [[crenças]] da nossa família e sociedade.","x":1332,"y":-573,"width":250,"height":241},
 		{"id":"21438bd436eb9aa9","type":"text","text":"Aprendemos que existe uma **voz na nossa cabeça** e acreditamos em tudo o que ela fala. Achamos que somos ela, o [[Ego]] e passamos a acreditar em todas as opiniões que as pessoas ao nosso redor tem sobre a gente","x":1642,"y":-573,"width":250,"height":232},
 		{"id":"0494b546d696dbf3","type":"text","text":"[[Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou]]","x":1953,"y":-529,"width":250,"height":145},
-		{"id":"ef417756471c4946","x":2287,"y":-539,"width":250,"height":166,"type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós"},
-		{"id":"b4541b4ed0981954","x":2615,"y":-512,"width":250,"height":113,"type":"text","text":"Passamos a pensar que precisamos ser de determinada forma para sermos **aceitos**"},
-		{"id":"bdd72e443f083ce7","x":2946,"y":-485,"width":250,"height":60,"type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**"},
-		{"id":"6d4d7090a918f4f2","x":3249,"y":-567,"width":250,"height":223,"type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]"},
-		{"id":"0fa7147d44c5d514","x":3592,"y":-566,"width":324,"height":222,"type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar. Aprendemos a nos julgar, a nos punir e a nos recompensar de acordo com o mesmo sistema de crenças que nos foi imposto ([[Senso Comum]]) e usando o mesmo sistema de punições e recompensas."}
+		{"id":"ef417756471c4946","type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós","x":2287,"y":-539,"width":250,"height":166},
+		{"id":"b4541b4ed0981954","type":"text","text":"Passamos a pensar que precisamos ser de determinada forma para sermos **aceitos**","x":2615,"y":-512,"width":250,"height":113},
+		{"id":"bdd72e443f083ce7","type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**","x":2946,"y":-485,"width":250,"height":60},
+		{"id":"6d4d7090a918f4f2","type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]","x":3249,"y":-567,"width":250,"height":223},
+		{"id":"0fa7147d44c5d514","type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar. Aprendemos a nos julgar, a nos punir e a nos recompensar de acordo com o mesmo sistema de crenças que nos foi imposto ([[Senso Comum]]) e usando o mesmo sistema de punições e recompensas.","x":3592,"y":-566,"width":324,"height":222},
+		{"id":"56aafb689a10edc7","x":165,"y":188,"width":164,"height":60,"color":"3","type":"text","text":"**Compromissos**"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -26,6 +27,7 @@
 		{"id":"c2f1148975a1f92a","fromNode":"ef417756471c4946","fromSide":"right","toNode":"b4541b4ed0981954","toSide":"left"},
 		{"id":"b8492bcdde252486","fromNode":"b4541b4ed0981954","fromSide":"right","toNode":"bdd72e443f083ce7","toSide":"left"},
 		{"id":"e5d911dd833de009","fromNode":"bdd72e443f083ce7","fromSide":"right","toNode":"6d4d7090a918f4f2","toSide":"left"},
-		{"id":"883f1839bc1a6f7f","fromNode":"6d4d7090a918f4f2","fromSide":"right","toNode":"0fa7147d44c5d514","toSide":"left"}
+		{"id":"883f1839bc1a6f7f","fromNode":"6d4d7090a918f4f2","fromSide":"right","toNode":"0fa7147d44c5d514","toSide":"left"},
+		{"id":"e26ac2379ec9e3e3","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"56aafb689a10edc7","toSide":"left"}
 	]
 }

@@ -50,11 +50,14 @@
             "id": "3c52193b13313f03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Literature Notes/Topics/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "viewState": {
+                  "x": 620.9391927115274,
+                  "y": -66.5313264399662,
+                  "zoom": -0.7158001790444056
+                }
               }
             }
           },
@@ -95,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +144,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são as características da neurose?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são as características da neurose?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são as características da neurose?.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
               }
             }
           },
@@ -282,18 +286,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d3b018e1a7e1cf9",
+  "active": "3c52193b13313f03",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Trabalhando com Fobias.md",
+    "2. Literature Notes/Topics/Untitled.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "Quais são as características da neurose?.md",
+    "2. Literature Notes/Topics/Trabalhando com Fobias.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
-    "2. Literature Notes/Topics/Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
     "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
@@ -316,7 +320,6 @@
     "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
     "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
     "2. Literature Notes/Topics/Como saber se estou no flow ou na zona de conforto?.md",
-    "2. Literature Notes/Topics/Prosperar é sobre felicidade.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
