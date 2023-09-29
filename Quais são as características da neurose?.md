@@ -22,6 +22,8 @@ Você não precisa ter todos os sintomas para ser considerado um neurótico. Um 
 - Melancolia
 Eventualmente, as pessoas neuróticas se tornam intolerante com experiências sociais que consideram desagradáveis. Por conta de suas reações excessivas aos eventos cotidianos, passam a ser indesejados pelos demais.
 
+A partir da publicação do manual diagnóstico e estatístico dos transtornos mentais, em 2013 os tipos de neurose foram desmembrando-se em diversos transtornos para melhorar o tratamento desses. Assim, a terminologia 'neurose' foi também substituída por alguns termos como transtorno depressivo, transtorno de ansiedade, transtorno obsessivo compulsivo, transtornos dissociativos, etc.
+
 ###### **PENSADORES:**
 
 ###### **FRASES:**
