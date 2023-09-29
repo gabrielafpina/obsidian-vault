@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
+                "file": "Quais são as características da neurose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
+                "file": "Quais são as características da neurose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md"
+                "file": "Quais são as características da neurose?.md"
               }
             }
           },
@@ -283,7 +283,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6601a1cf69d1d60e",
+  "active": "6d3b018e1a7e1cf9",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
