@@ -37,11 +37,26 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "viewState": {
-                  "x": 3423.1284754082612,
-                  "y": -296.11589674839877,
-                  "zoom": -0.7540236722429597
+                  "x": 1549.5,
+                  "y": 568,
+                  "zoom": -1.980867041425215
+                }
+              }
+            }
+          },
+          {
+            "id": "3c52193b13313f03",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "viewState": {
+                  "x": 833.2800000000004,
+                  "y": -331.08000000000015,
+                  "zoom": 0
                 }
               }
             }
@@ -71,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
               }
             }
           },
@@ -260,17 +275,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee0f621ce36513f0",
+  "active": "3c52193b13313f03",
   "lastOpenFiles": [
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
-    "695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
-    "9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
-    "IMG_0208.jpg",
-    "5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
+    "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
+    "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
+    "5. Shots, Images & PDFs/IMG_0208.jpg",
+    "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
@@ -291,11 +308,9 @@
     "2. Literature Notes/Topics/Você trocaria tudo que você já sabe pelo que você não sabe?.md",
     "2. Literature Notes/Topics/Quais são as zonas?.md",
     "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "2. Literature Notes/Topics/O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",
