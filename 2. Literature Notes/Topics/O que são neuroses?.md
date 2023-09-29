@@ -29,6 +29,8 @@ OBS: os transtornos carregam as neuroses. Eu posso ter apenas uma neurose e não
 
 [[Quais são as causas da neurose?]]
 
+[[Quais são as características da neurose?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

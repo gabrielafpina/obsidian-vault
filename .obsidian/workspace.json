@@ -71,6 +71,18 @@
             }
           },
           {
+            "id": "6d3b018e1a7e1cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são as características da neurose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7728e6275ba2e1e",
             "type": "leaf",
             "state": {
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
+                "file": "Quais são as características da neurose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
+                "file": "Quais são as características da neurose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md"
+                "file": "Quais são as características da neurose?.md"
               }
             }
           },
@@ -271,9 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7728e6275ba2e1e",
+  "active": "6d3b018e1a7e1cf9",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que são neuroses?.md",
+    "Quais são as características da neurose?.md",
+    "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "2. Literature Notes/Topics/Untitled.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
@@ -304,8 +318,6 @@
     "2. Literature Notes/Topics/Como saber se estou no flow ou na zona de conforto?.md",
     "2. Literature Notes/Topics/Prosperar é sobre felicidade.md",
     "2. Literature Notes/Topics/Quando essas necessidades se combinam com a expressão criativa do seu talento, surge a fagulha que cria a riqueza.md",
-    "2. Literature Notes/Topics/Só eu sou eu.md",
-    "2. Literature Notes/Topics/Eu estou presente e Deus está na frente.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
