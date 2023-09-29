@@ -12,7 +12,7 @@
 		{"id":"b4541b4ed0981954","x":2615,"y":-512,"width":250,"height":113,"type":"text","text":"Passamos a pensar que precisamos ser de determinada forma para sermos **aceitos**"},
 		{"id":"bdd72e443f083ce7","x":2946,"y":-485,"width":250,"height":60,"type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**"},
 		{"id":"6d4d7090a918f4f2","x":3249,"y":-567,"width":250,"height":223,"type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]"},
-		{"id":"0fa7147d44c5d514","x":3563,"y":-484,"width":250,"height":117,"type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar"}
+		{"id":"0fa7147d44c5d514","x":3592,"y":-566,"width":324,"height":222,"type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar. Aprendemos a nos julgar, a nos punir e a nos recompensar de acordo com o mesmo sistema de crenças que nos foi imposto ([[Senso Comum]]) e usando o mesmo sistema de punições e recompensas."}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
