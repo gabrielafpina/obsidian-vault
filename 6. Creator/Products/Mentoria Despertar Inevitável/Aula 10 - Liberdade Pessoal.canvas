@@ -12,7 +12,6 @@
 		{"id":"bdd72e443f083ce7","type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**","x":2946,"y":-485,"width":250,"height":60},
 		{"id":"6d4d7090a918f4f2","type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]","x":3249,"y":-567,"width":250,"height":223},
 		{"id":"0fa7147d44c5d514","type":"text","text":"Chega a adolescência e não precisamos de mais ninguém para nos domesticar. Aprendemos a nos julgar, a nos punir e a nos recompensar de acordo com o mesmo sistema de crenças que nos foi imposto ([[Senso Comum]]) e usando o mesmo sistema de punições e recompensas.","x":3592,"y":-566,"width":324,"height":222},
-		{"id":"56aafb689a10edc7","x":165,"y":188,"width":164,"height":60,"color":"3","type":"text","text":"**Compromissos**"},
 		{"id":"0f14ce4760b7f8ec","type":"text","text":"**É assim que funciona a sua programaçãõ**","x":146,"y":-497,"width":183,"height":86,"color":"4"},
 		{"id":"24871e1ab09a2c2d","x":152,"y":-108,"width":232,"height":50,"color":"5","type":"text","text":"**Os símbolos na sua vida**"},
 		{"id":"2d36ac253286bc59","x":4005,"y":-602,"width":250,"height":295,"type":"text","text":"**EXERCÍCIO**\n- Qual foi a última vez que você se puniu?\n- O que a sua mente te falou e você acreditou?\n- Qual foi a última vez em que você se recompensou por ser uma boa menina/menino?"},
@@ -28,7 +27,11 @@
 		{"id":"b59de376c5e50150","x":3704,"y":-111,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da consciência**"},
 		{"id":"420f7528ef640c10","x":3700,"y":-13,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da transformação**"},
 		{"id":"b24ab0beb5693854","x":3704,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio do amor, da intenção ou da fé**"},
-		{"id":"5f7b078d5c87c687","x":3286,"y":-89,"width":250,"height":215,"type":"text","text":"O artista é **perito** em 3 áreas. E, ao dominá-las, somos guiados para fora do sofrimento.\n\n[[Criamos a nossa realidade conscientemente, ou não]]"}
+		{"id":"5f7b078d5c87c687","x":3286,"y":-89,"width":250,"height":215,"type":"text","text":"O artista é **perito** em 3 áreas. E, ao dominá-las, somos guiados para fora do sofrimento.\n\n[[Criamos a nossa realidade conscientemente, ou não]]"},
+		{"id":"3de96e955877ef4c","x":4105,"y":-51,"width":250,"height":130,"type":"text","text":"**EXERCÍCIO**\n- Qual é a realidade virtual que você tem criado para si mesmo?"},
+		{"id":"56aafb689a10edc7","x":152,"y":519,"width":164,"height":60,"color":"3","type":"text","text":"**Compromissos**"},
+		{"id":"be9996530d68f3fe","x":489,"y":283,"width":260,"height":107,"type":"text","text":"**O PRIMEIRO COMPROMISSO**: Seja Impecável com a sua Palavra"},
+		{"id":"cde7afe8dd0bacfe","x":837,"y":307,"width":250,"height":60,"type":"text","text":"pág 40"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -59,6 +62,11 @@
 		{"id":"fe04d5395471eba2","fromNode":"30ea84eca0d3d987","fromSide":"right","toNode":"5f7b078d5c87c687","toSide":"left"},
 		{"id":"cbc0a055f5e9989b","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"b59de376c5e50150","toSide":"left"},
 		{"id":"35cf43f3031c71ea","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"420f7528ef640c10","toSide":"left"},
-		{"id":"27a7d448b55782ae","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"b24ab0beb5693854","toSide":"left"}
+		{"id":"27a7d448b55782ae","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"b24ab0beb5693854","toSide":"left"},
+		{"id":"85e35fb097e2c7d1","fromNode":"b59de376c5e50150","fromSide":"right","toNode":"3de96e955877ef4c","toSide":"left"},
+		{"id":"f24d96490750a7ea","fromNode":"420f7528ef640c10","fromSide":"right","toNode":"3de96e955877ef4c","toSide":"left"},
+		{"id":"db2cd9fe4a83b0b0","fromNode":"b24ab0beb5693854","fromSide":"right","toNode":"3de96e955877ef4c","toSide":"left"},
+		{"id":"4921af26386e71bc","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"be9996530d68f3fe","toSide":"left"},
+		{"id":"84e8e813cb2df802","fromNode":"be9996530d68f3fe","fromSide":"right","toNode":"cde7afe8dd0bacfe","toSide":"left"}
 	]
 }
