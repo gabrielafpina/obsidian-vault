@@ -29,12 +29,14 @@
 		{"id":"3de96e955877ef4c","type":"text","text":"**PERGUNTA**\n- Qual é a realidade virtual que você tem criado para si mesmo?","x":4105,"y":-51,"width":250,"height":130},
 		{"id":"56aafb689a10edc7","type":"text","text":"**Compromissos**","x":152,"y":519,"width":164,"height":60,"color":"3"},
 		{"id":"be9996530d68f3fe","type":"text","text":"**O PRIMEIRO COMPROMISSO**: Seja Impecável com a sua Palavra","x":489,"y":283,"width":260,"height":107},
-		{"id":"cde7afe8dd0bacfe","type":"text","text":"pág 40","x":837,"y":307,"width":250,"height":60},
-		{"id":"0f63c8ed498e01ab","type":"text","text":"**O SEGUNDO COMPROMISSO**: Não leve nada para o lado pessoal","x":483,"y":522,"width":250,"height":95},
 		{"id":"b59de376c5e50150","type":"text","text":"**Domínio da consciência**","x":3704,"y":-149,"width":250,"height":60,"color":"5"},
 		{"id":"be8dbcdc9b31b5cb","type":"text","text":"**Pensar em fazer: lista com subfuncionalidades, otimização e superfuncionadlidade nas áreas da vida**","x":4402,"y":248,"width":250,"height":130},
 		{"id":"2d36ac253286bc59","type":"text","text":"**EXERCÍCIO**\n- Qual foi a última vez que você se puniu?\n- O que a sua mente te falou e você acreditou?\n- Qual foi a última vez em que você se recompensou por ser uma boa menina/menino?","x":4458,"y":-862,"width":250,"height":295},
-		{"id":"3bfa44fa0ee5e0a5","type":"text","text":"**MEDITAÇÃO GUIADA**\n- Pág 53 [[O Quinto compromisso]]\n- [[Meditação Guiada - O cinema da sua vida]]","x":4041,"y":-520,"width":250,"height":130}
+		{"id":"3bfa44fa0ee5e0a5","type":"text","text":"**MEDITAÇÃO GUIADA**\n- Pág 53 [[O Quinto compromisso]]\n- [[Meditação Guiada - O cinema da sua vida]]","x":4041,"y":-520,"width":250,"height":130},
+		{"id":"cde7afe8dd0bacfe","type":"text","text":"Sua mente é cheia de conhecimento, mas como você o usa? Como usa as **palavras** para se descrever?\n\n[[Utilize palavras de frequências gentis]]","x":894,"y":231,"width":250,"height":212},
+		{"id":"0f63c8ed498e01ab","type":"text","text":"**O SEGUNDO COMPROMISSO**: Não leve nada para o lado pessoal","x":489,"y":654,"width":250,"height":95},
+		{"id":"9ae05e59713dbf6f","x":1296,"y":204,"width":250,"height":266,"type":"text","text":"Tudo que você pensa sobre si mesmo, tudo que você crê sobre si mesmo, é por ter aprendido isso.\n\nAs pessoas que te criaram, a sociedade, te enviaram uma mensagem, e **você concordou** com ela. [[Tudo é uma escolha]]"},
+		{"id":"46cccba5b7b3741c","x":1633,"y":307,"width":250,"height":136,"type":"text","text":"Você é aquilo que você acredita ser. Nesse caso, a primeira pergunta é: O que você pensa que"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -71,6 +73,8 @@
 		{"id":"4921af26386e71bc","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"be9996530d68f3fe","toSide":"left"},
 		{"id":"84e8e813cb2df802","fromNode":"be9996530d68f3fe","fromSide":"right","toNode":"cde7afe8dd0bacfe","toSide":"left"},
 		{"id":"71d7dd424bb8c8e2","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"0f63c8ed498e01ab","toSide":"left"},
-		{"id":"b3e1de081b9e42c1","fromNode":"0fa7147d44c5d514","fromSide":"right","toNode":"3bfa44fa0ee5e0a5","toSide":"left"}
+		{"id":"b3e1de081b9e42c1","fromNode":"0fa7147d44c5d514","fromSide":"right","toNode":"3bfa44fa0ee5e0a5","toSide":"left"},
+		{"id":"2bb2486db08be726","fromNode":"cde7afe8dd0bacfe","fromSide":"right","toNode":"9ae05e59713dbf6f","toSide":"left"},
+		{"id":"9f8e5eaa7e5910b1","fromNode":"9ae05e59713dbf6f","fromSide":"right","toNode":"46cccba5b7b3741c","toSide":"left"}
 	]
 }
