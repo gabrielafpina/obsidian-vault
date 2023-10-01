@@ -10,7 +10,7 @@ Usar a palavra de maneira impecável é extremamente importante porque a palavra
 
 Quando você é impecável, não vai dizer a si mesmo: "Sou velho. Sou feio. Sou gordo. Não sou bom o bastante. Não sou forte o suficiente. Nunca vou dar certo na vida." Você não vai usar seu conhecimento contra você mesmo ([[Ego]]), o que significa que a voz do conhecimento não usará a palavra para julgá-lo, culpá-lo e puni-lo. Sua mente é tão poderosa que ela percebe a história que você cria. Se você criar um autojulgamento, estará criando um conflito interno que não passa de um pesadelo.
 
-[[Sua felicidade depende de você e de como você usa a palavra]]. Se fica com raiva e utiliza a palavra para enviar um veneno emocional para outra pessoa, pode parecer que você está usando a palavra contra a tal pessoa, mas na verdade é contra si mesmo. Essa ação vai criar uma reação equivalente, e aquela pessoa vai se voltar contra você. Se você ofende alguém, este pode até lhe machucar em resposta. Se você usar a palavra para criar um conflito no qual o seu corpo pode ser prejudicado, é claro que ela estará contra você.
+[[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]. 
 
 ###### **COMO:**
 

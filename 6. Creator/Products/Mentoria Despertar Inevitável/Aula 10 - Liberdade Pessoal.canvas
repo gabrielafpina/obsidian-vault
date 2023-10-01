@@ -39,8 +39,10 @@
 		{"id":"be9996530d68f3fe","type":"text","text":"**O PRIMEIRO COMPROMISSO**: Seja Impecável com a sua Palavra","x":489,"y":103,"width":260,"height":107},
 		{"id":"f0c3042daded714b","type":"text","text":"O que você acredita sobre si mesmo não é real e não é importante, a não ser que você queira criar uma história melhor para si mesmo.","x":2004,"y":65,"width":250,"height":184},
 		{"id":"629f06334c9afdf3","type":"text","text":"Você é um **artista**. [[As palavras são o seu pincel, e a vida, sua tela]]. Você pode pintar o que quiser.","x":2360,"y":95,"width":250,"height":125},
-		{"id":"3ef8d8a33f8c0c8f","x":2709,"y":109,"width":250,"height":96,"type":"text","text":"[[\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\"]]."},
-		{"id":"679ba1cdc538871c","x":3040,"y":129,"width":250,"height":60,"type":"text","text":"[[Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro]]"}
+		{"id":"3ef8d8a33f8c0c8f","type":"text","text":"[[\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\"]].","x":2709,"y":109,"width":250,"height":96},
+		{"id":"679ba1cdc538871c","type":"text","text":"[[Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro]]","x":3075,"y":98,"width":250,"height":120},
+		{"id":"8d182c362d87e7f3","type":"text","text":"[[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]","x":3415,"y":92,"width":250,"height":132},
+		{"id":"f72bbf56b9702cb2","x":3763,"y":83,"width":250,"height":150,"type":"text","text":"**EXERCÍCIO**\n- Crie uma lista de 5 palavras negativas que você tem usado para falar de si mesmo"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -83,6 +85,8 @@
 		{"id":"3e4f80fd9132bd37","fromNode":"46cccba5b7b3741c","fromSide":"right","toNode":"f0c3042daded714b","toSide":"left"},
 		{"id":"5fd126f68f3e932f","fromNode":"f0c3042daded714b","fromSide":"right","toNode":"629f06334c9afdf3","toSide":"left"},
 		{"id":"2663ad18444bc3f2","fromNode":"629f06334c9afdf3","fromSide":"right","toNode":"3ef8d8a33f8c0c8f","toSide":"left"},
-		{"id":"0c4e1eb2ff5e9648","fromNode":"3ef8d8a33f8c0c8f","fromSide":"right","toNode":"679ba1cdc538871c","toSide":"left"}
+		{"id":"0c4e1eb2ff5e9648","fromNode":"3ef8d8a33f8c0c8f","fromSide":"right","toNode":"679ba1cdc538871c","toSide":"left"},
+		{"id":"9f1060551376c01b","fromNode":"679ba1cdc538871c","fromSide":"right","toNode":"8d182c362d87e7f3","toSide":"left"},
+		{"id":"1215170d30ff2813","fromNode":"8d182c362d87e7f3","fromSide":"right","toNode":"f72bbf56b9702cb2","toSide":"left"}
 	]
 }

@@ -29,3 +29,4 @@ Lembra de Deus e de Adão conversando e caminhando juntos? **Deus cria a realida
 
 **Sul: para onde vai**
 [[Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro]]
+[[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]
