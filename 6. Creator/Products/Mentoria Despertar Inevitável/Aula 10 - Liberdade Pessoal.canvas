@@ -33,7 +33,7 @@
 		{"id":"cde7afe8dd0bacfe","x":837,"y":307,"width":250,"height":60,"type":"text","text":"pág 40"},
 		{"id":"0f63c8ed498e01ab","x":483,"y":522,"width":250,"height":60,"type":"text","text":"**O SEGUNDO COMPROMISSO**: Não leve nada para o lado pessoal"},
 		{"id":"b59de376c5e50150","x":3704,"y":-149,"width":250,"height":60,"color":"5","type":"text","text":"**Domínio da consciência**"},
-		{"id":"3bfa44fa0ee5e0a5","type":"text","text":"**MEDITAÇÃO GUIADA**\n- Pág 53 [[O Quinto compromisso]]\n- Levar para um lado mais de colocar a pessoa para ver o filme da vida dela e, então fazer ela imaginar qual é o novo filme que ela quer","x":3700,"y":680,"width":250,"height":130},
+		{"id":"3bfa44fa0ee5e0a5","type":"text","text":"**MEDITAÇÃO GUIADA**\n- Pág 53 [[O Quinto compromisso]]\n- Levar para um lado mais de colocar a pessoa para ver o filme da vida dela e, então fazer ela imaginar qual é o novo filme que ela quer assistir.","x":3700,"y":680,"width":250,"height":130},
 		{"id":"be8dbcdc9b31b5cb","type":"text","text":"**Pensar em fazer: lista com subfuncionalidades, otimização e superfuncionadlidade nas áreas da vida**","x":4402,"y":248,"width":250,"height":130}
 	],
 	"edges":[
