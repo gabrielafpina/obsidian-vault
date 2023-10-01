@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "41a7f888df6f41c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4f18f1bb269dd6eb",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "realidade virtual",
+                "query": "desser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +198,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
+                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
+                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md"
+                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md"
               }
             }
           },
@@ -328,10 +339,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e2ed547255b540",
+  "active": "41a7f888df6f41c9",
   "lastOpenFiles": [
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Fly/Clube do Livro",
     "6. Creator/Products/Fly",
     "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
