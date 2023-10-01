@@ -32,16 +32,16 @@
             }
           },
           {
-            "id": "ee0f621ce36513f0",
+            "id": "b658f29a57fab556",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 1549.5,
-                  "y": 568,
-                  "zoom": -1.980867041425215
+                  "x": 4178.326437476188,
+                  "y": -218.54363848421806,
+                  "zoom": -0.7064338577905009
                 }
               }
             }
@@ -50,14 +50,11 @@
             "id": "3c52193b13313f03",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-                "viewState": {
-                  "x": 3619.4570744923935,
-                  "y": 265.50193504505864,
-                  "zoom": -0.8459475830511255
-                }
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -110,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,13 +295,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c52193b13313f03",
+  "active": "b658f29a57fab556",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Testes/Mapa Astral.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+    "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "Criamos a nossa realidade conscientemente, ou não.md",
     "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Untitled.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Trabalhando com Fobias.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
@@ -313,7 +312,6 @@
     "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
-    "3. Me, Myself and I/Testes/Mapa Astral.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
@@ -331,8 +329,6 @@
     "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
     "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
     "2. Literature Notes/Topics/Atrás de uma grande sombra, de uma grande dor, existe uma grande potencialidade do meu Ser.md",
-    "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
-    "2. Literature Notes/Topics/É uma sabotagem pensar que eu to igual.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
