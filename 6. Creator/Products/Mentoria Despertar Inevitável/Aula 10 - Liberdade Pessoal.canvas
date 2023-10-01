@@ -36,7 +36,8 @@
 		{"id":"cde7afe8dd0bacfe","type":"text","text":"Sua mente é cheia de conhecimento, mas como você o usa? Como usa as **palavras** para se descrever?\n\n[[Utilize palavras de frequências gentis]]","x":894,"y":51,"width":250,"height":212},
 		{"id":"9ae05e59713dbf6f","x":1296,"y":24,"width":250,"height":266,"type":"text","text":"Tudo que você pensa sobre si mesmo, tudo que você crê sobre si mesmo, é por ter aprendido isso.\n\nAs pessoas que te criaram, a sociedade, te enviaram uma mensagem, e **você concordou** com ela. [[Tudo é uma escolha]]"},
 		{"id":"46cccba5b7b3741c","x":1642,"y":89,"width":250,"height":136,"type":"text","text":"**Você é aquilo que você acredita ser**. Nesse caso, a primeira pergunta é: O que você pensa que é?"},
-		{"id":"be9996530d68f3fe","type":"text","text":"**O PRIMEIRO COMPROMISSO**: Seja Impecável com a sua Palavra","x":489,"y":103,"width":260,"height":107}
+		{"id":"be9996530d68f3fe","type":"text","text":"**O PRIMEIRO COMPROMISSO**: Seja Impecável com a sua Palavra","x":489,"y":103,"width":260,"height":107},
+		{"id":"f0c3042daded714b","x":1998,"y":89,"width":250,"height":174,"type":"text","text":"O que você acredita sobre si mesmo não é real e não é importante, a não ser que você queira criar uma história melhor para si mesmo. Você é um **artista**."}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -75,6 +76,7 @@
 		{"id":"71d7dd424bb8c8e2","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"0f63c8ed498e01ab","toSide":"left"},
 		{"id":"b3e1de081b9e42c1","fromNode":"0fa7147d44c5d514","fromSide":"right","toNode":"3bfa44fa0ee5e0a5","toSide":"left"},
 		{"id":"2bb2486db08be726","fromNode":"cde7afe8dd0bacfe","fromSide":"right","toNode":"9ae05e59713dbf6f","toSide":"left"},
-		{"id":"9f8e5eaa7e5910b1","fromNode":"9ae05e59713dbf6f","fromSide":"right","toNode":"46cccba5b7b3741c","toSide":"left"}
+		{"id":"9f8e5eaa7e5910b1","fromNode":"9ae05e59713dbf6f","fromSide":"right","toNode":"46cccba5b7b3741c","toSide":"left"},
+		{"id":"3e4f80fd9132bd37","fromNode":"46cccba5b7b3741c","fromSide":"right","toNode":"f0c3042daded714b","toSide":"left"}
 	]
 }
