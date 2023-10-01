@@ -59,6 +59,18 @@
             }
           },
           {
+            "id": "f076078dfc80cc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9ae365cd60106013",
             "type": "leaf",
             "state": {
@@ -131,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md"
               }
             }
           },
@@ -319,10 +331,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e2ed547255b540",
+  "active": "f076078dfc80cc13",
   "lastOpenFiles": [
-    "As palavras são o seu pincel, e a vida, sua tela.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
+    "As palavras são o seu pincel, e a vida, sua tela.md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
     "2. Literature Notes/Topics/Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
@@ -352,7 +365,6 @@
     "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
-    "2. Literature Notes/Topics/As 3 leis do trabalho.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
