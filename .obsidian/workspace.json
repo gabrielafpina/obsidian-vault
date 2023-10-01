@@ -35,13 +35,25 @@
             "id": "b658f29a57fab556",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As palavras são o seu pincel, e a vida, sua tela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e2ed547255b540",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 1775.194753690388,
-                  "y": 231.23495936672762,
-                  "zoom": -0.2037388741094581
+                  "x": 2543.8854907166556,
+                  "y": -53.75082507732485,
+                  "zoom": -0.4860888407735498
                 }
               }
             }
@@ -119,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -306,11 +319,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b658f29a57fab556",
+  "active": "a2e2ed547255b540",
   "lastOpenFiles": [
+    "As palavras são o seu pincel, e a vida, sua tela.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
     "2. Literature Notes/Topics/Adicione isso ao seu vocabulário quando estiver falando sobre suas crenças.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
@@ -339,8 +353,6 @@
     "2. Literature Notes/Topics/Vida é encarnação, não é ticket-médio.md",
     "2. Literature Notes/Topics/Você é o maior especialista em ensinar aos outros como você quer ser tratado.md",
     "2. Literature Notes/Topics/As 3 leis do trabalho.md",
-    "2. Literature Notes/Topics/Quando uma pessoa pedir ajuda, o que eu faço?.md",
-    "2. Literature Notes/Topics/Se eu to alinhado e sincronizado, eu to sintonizado.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
