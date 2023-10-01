@@ -47,14 +47,11 @@
             "id": "a2e2ed547255b540",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-                "viewState": {
-                  "x": 1163.132045777263,
-                  "y": 652.2570684671601,
-                  "zoom": -0.4860888407735498
-                }
+                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -189,7 +186,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -251,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md"
               }
             }
           },
@@ -332,8 +330,11 @@
   },
   "active": "a2e2ed547255b540",
   "lastOpenFiles": [
-    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
+    "6. Creator/Products/Fly/Clube do Livro",
+    "6. Creator/Products/Fly",
+    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro.md",
     "As palavras são o seu pincel, e a vida, sua tela.md",
@@ -363,7 +364,6 @@
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
-    "2. Literature Notes/Topics/'Você não tem vergonha na cara?' Vergonha na cara não tem quem julga.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
@@ -383,8 +383,6 @@
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
     "6. Creator/Products/Mentoria Individual",
-    "2. Literature Notes/Meditações Guiadas",
-    "5. Shots, Images & PDFs/ancora-de-carreira.pdf",
-    "6. Creator/Products/Workshop/Quebrando A Autossabotagem/Mensagens WPP"
+    "2. Literature Notes/Meditações Guiadas"
   ]
 }
