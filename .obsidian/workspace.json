@@ -75,8 +75,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "viewState": {
-                  "x": 78.12000000000005,
-                  "y": -37.20000000000002,
+                  "x": -528.24,
+                  "y": 120.89999999999999,
                   "zoom": 0
                 }
               }
@@ -90,8 +90,8 @@
               "state": {
                 "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "viewState": {
-                  "x": 1097.2749517969862,
-                  "y": 215.59749166060703,
+                  "x": 1069.993197027625,
+                  "y": 172.72616273732515,
                   "zoom": 0.5177555073685923
                 }
               }
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
               }
             }
           },
@@ -369,11 +369,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad7ae6a2b254b069",
+  "active": "d683b268468b245c",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
@@ -408,7 +408,6 @@
     "5. Shots, Images & PDFs/IMG_0208.jpg",
     "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
-    "2. Literature Notes/Topics/Estrela de Valores.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
