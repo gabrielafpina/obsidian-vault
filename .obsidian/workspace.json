@@ -68,6 +68,36 @@
             }
           },
           {
+            "id": "d683b268468b245c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "viewState": {
+                  "x": 143.22000000000006,
+                  "y": -35.34,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "ad7ae6a2b254b069",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "viewState": {
+                  "x": 526,
+                  "y": 196,
+                  "zoom": -0.40735729879265237
+                }
+              }
+            }
+          },
+          {
             "id": "4f18f1bb269dd6eb",
             "type": "leaf",
             "state": {
@@ -152,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desser",
+                "query": "zona de geniali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -260,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md"
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
               }
             }
           },
@@ -339,8 +369,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "41a7f888df6f41c9",
+  "active": "d683b268468b245c",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+    "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+    "6. Creator/Products/Mentoria Individual/Viviane Sabino",
     "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Fly/Clube do Livro",
@@ -374,9 +408,7 @@
     "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "2. Literature Notes/Topics/Eu sou paga pelo tamanho dos problemas que eu sou capaz de solucionar.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
-    "2. Literature Notes/Topics/O que é importante na hora de criar a minha empresa? Missão, visão e valores.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",
@@ -393,7 +425,6 @@
     "Lei do 80",
     "6. Creator/Lives",
     "Encontro TOP Membros 06",
-    "6. Creator/Products/Mentoria Individual",
-    "2. Literature Notes/Meditações Guiadas"
+    "6. Creator/Products/Mentoria Individual"
   ]
 }
