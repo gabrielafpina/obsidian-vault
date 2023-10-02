@@ -75,8 +75,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "viewState": {
-                  "x": 143.22000000000006,
-                  "y": -35.34,
+                  "x": 78.12000000000005,
+                  "y": -37.20000000000002,
                   "zoom": 0
                 }
               }
@@ -90,9 +90,9 @@
               "state": {
                 "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "viewState": {
-                  "x": 526,
-                  "y": 196,
-                  "zoom": -0.40735729879265237
+                  "x": 1097.2749517969862,
+                  "y": 215.59749166060703,
+                  "zoom": 0.5177555073685923
                 }
               }
             }
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zona de geniali",
+                "query": "darma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
               }
             }
           },
@@ -369,8 +369,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d683b268468b245c",
+  "active": "ad7ae6a2b254b069",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei do Darma ou do Propósito de Vida.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
@@ -399,7 +401,6 @@
     "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "2. Literature Notes/Topics/O que é a resistência?.md",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",

@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"4926d2f7dd69effd","type":"text","text":"**Zona de Merda**\n","x":-721,"y":-235,"width":250,"height":233,"color":"3"},
-		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**","x":-399,"y":-235,"width":330,"height":309,"color":"#f20202"},
-		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**","x":14,"y":-235,"width":264,"height":155,"color":"5"},
-		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n","x":371,"y":-235,"width":350,"height":470,"color":"6"}
+		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**","x":-130,"y":-235,"width":408,"height":309,"color":"5"},
+		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n","x":371,"y":-235,"width":427,"height":309,"color":"6"},
+		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**","x":-546,"y":-235,"width":330,"height":309,"color":"#f20202"}
 	],
 	"edges":[]
 }
