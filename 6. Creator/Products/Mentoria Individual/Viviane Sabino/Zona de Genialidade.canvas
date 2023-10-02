@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"4926d2f7dd69effd","type":"text","text":"**Zona de Merda**\n- Organizar objetos materiais\n- Tarefas lentas e que exijam muita paciência\n- Lidar com vitimismo\n- Gerenciamento de agendas de grupos\n- Agenda fixa e rígida\n","x":-1040,"y":-235,"width":412,"height":309,"color":"3"},
+		{"id":"4926d2f7dd69effd","type":"text","text":"**Zona de Merda**\n- Organizar objetos materiais\n- Tarefas lentas e que exijam muita paciência\n- Lidar com vitimismo\n- Gerenciamento de agendas de grupos\n- Agenda fixa e rígida\n- Lavar louça\n","x":-1040,"y":-235,"width":412,"height":309,"color":"3"},
 		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**\n- Criar processos administrativos\n- Planejamento no geral\n- Cuidar das coisas da casa","x":-571,"y":-235,"width":393,"height":309,"color":"#f20202"},
-		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**","x":-1036,"y":112,"width":408,"height":309,"color":"5"},
-		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n","x":-571,"y":112,"width":393,"height":309,"color":"6"}
+		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**\n- Execução de plano de ação\n- Liderar e inspirar colaboradores\n- Presença e dedicação com amigos amados","x":-1036,"y":112,"width":408,"height":309,"color":"5"},
+		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n- Desenvolvimento de estratégia","x":-571,"y":112,"width":393,"height":309,"color":"6"}
 	],
 	"edges":[]
 }
