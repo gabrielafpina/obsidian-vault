@@ -14,7 +14,7 @@ Tudo em nós é perfeito, inclusive qualquer deficiência ou doença que possamo
 
 ==Só a perfeição existe, e essa consciência é mais um passo importante para nossa evolução==. Falar outra coisa é não ter consciência do que somos. E não basta dizer que somos perfeitos; é preciso acreditar nisso. Se acreditarmos que somos imperfeitos, essa mentira vai precisar de outras mentiras em que se apoiar, e, juntas, todas essas mentiras reprimem a verdade e guiam o sonho que estamos criando para nós mesmos.
 
-Mentiras não passam de superstições, e posso garantir que nós vivemos em um mundo de superstições.
+Mentiras não passam de superstições, e posso garantir que nós vivemos em um mundo de superstições. [[Tudo que você acha que sabe sobre você é uma superstição]]
 
 ###### **COMO:**
 
