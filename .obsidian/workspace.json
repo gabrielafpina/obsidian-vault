@@ -15,10 +15,46 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 1472.8814653057084,
-                  "y": 747.7116026166334,
+                  "x": 2147.5825481852007,
+                  "y": 767.6277319000311,
                   "zoom": -0.1820207800587208
                 }
+              }
+            }
+          },
+          {
+            "id": "ec076920a2275c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c308c322c13a85e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f38508b66821af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A vida é um filme.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -58,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md"
               }
             }
           },
@@ -245,12 +282,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c269eeed60ccae0b",
+  "active": "ec076920a2275c2d",
   "lastOpenFiles": [
-    "estamos vivendo em um sonho criado por nós mesmos.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-    "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
     "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
+    "As pessoas que você mais ama não conhecem você de verdade.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "A vida é um filme.md",
+    "estamos vivendo em um sonho criado por nós mesmos.md",
+    "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
     "3. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
@@ -277,8 +316,6 @@
     "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Trabalhando com Fobias.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
-    "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
-    "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",

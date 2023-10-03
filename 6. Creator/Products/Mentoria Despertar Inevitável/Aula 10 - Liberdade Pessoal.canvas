@@ -45,7 +45,8 @@
 		{"id":"f72bbf56b9702cb2","type":"text","text":"**EXERCÍCIO**\n- Crie uma lista de 5 palavras negativas que você tem usado para falar de si mesmo","x":3765,"y":71,"width":250,"height":175},
 		{"id":"bf96e67c379df67c","x":873,"y":638,"width":250,"height":127,"type":"text","text":"[[O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho.]]"},
 		{"id":"4fe8ca3ff04fe68b","x":1220,"y":570,"width":250,"height":264,"type":"text","text":"Quando tomamos **consciência** de que [[estamos vivendo em um sonho criado por nós mesmos]], damos um grande passo em nossa evolução porque conseguimos assumir a responsabilidade pela nossa criação."},
-		{"id":"b388f07660950a63","x":1554,"y":672,"width":250,"height":60,"type":"text","text":"A vida é um filme. Cada pessoa é o protagonis"}
+		{"id":"b388f07660950a63","x":1559,"y":621,"width":250,"height":162,"type":"text","text":"**[[A vida é um filme]]**. Cada pessoa é o protagonista do seu próprio filme e te observa de acordo com as próprias lentes de mundo que a pessoa tem"},
+		{"id":"763508a7d17a7feb","x":1901,"y":647,"width":250,"height":111,"type":"text","text":"[[As pessoas que você mais ama não conhecem você de verdade]] e vice-versa"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -93,6 +94,7 @@
 		{"id":"1215170d30ff2813","fromNode":"8d182c362d87e7f3","fromSide":"right","toNode":"f72bbf56b9702cb2","toSide":"left"},
 		{"id":"4ae3830e0b5b3784","fromNode":"0f63c8ed498e01ab","fromSide":"right","toNode":"bf96e67c379df67c","toSide":"left"},
 		{"id":"c21fcafac39a8446","fromNode":"bf96e67c379df67c","fromSide":"right","toNode":"4fe8ca3ff04fe68b","toSide":"left"},
-		{"id":"404da9c07f658458","fromNode":"4fe8ca3ff04fe68b","fromSide":"right","toNode":"b388f07660950a63","toSide":"left"}
+		{"id":"404da9c07f658458","fromNode":"4fe8ca3ff04fe68b","fromSide":"right","toNode":"b388f07660950a63","toSide":"left"},
+		{"id":"a8990af9815700fe","fromNode":"b388f07660950a63","fromSide":"right","toNode":"763508a7d17a7feb","toSide":"left"}
 	]
 }
