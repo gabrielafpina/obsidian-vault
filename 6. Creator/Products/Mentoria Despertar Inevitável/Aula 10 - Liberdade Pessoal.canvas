@@ -61,7 +61,7 @@
 		{"id":"b2799e01e1a51b87","type":"text","text":"[[O mapa não é o território]]","x":1090,"y":-533,"width":250,"height":60},
 		{"id":"42eea40e36b93cc1","type":"text","text":"Quando compreendemos os símbolos que aprendemos, passamos a viver de acordo com eles","x":788,"y":-555,"width":250,"height":104},
 		{"id":"c78477fc716d69ca","type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos. E tudo isso não passa de *apenas símbolos*. E eles só são verdadeiros porque nós estabelecemos isso.","x":1832,"y":-561,"width":250,"height":314},
-		{"id":"befe9c0b19197e3e","x":2247,"y":-589,"width":250,"height":60,"type":"text","text":"SOFRIMENTO "}
+		{"id":"befe9c0b19197e3e","x":2183,"y":-621,"width":327,"height":60,"type":"text","text":"==SOFRIMENTO = DOR X RESISTÊNCIA=="}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
