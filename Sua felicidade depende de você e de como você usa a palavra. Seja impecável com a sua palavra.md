@@ -27,5 +27,7 @@ Lembre-se, você é o criador da história da sua vida. Se usar a palavra de mod
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]
+- [[As palavras são o seu pincel, e a vida, sua tela]]
 
 **Sul: para onde vai**

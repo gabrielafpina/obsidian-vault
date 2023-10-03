@@ -43,7 +43,8 @@
 		{"id":"679ba1cdc538871c","type":"text","text":"[[Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro]]","x":3075,"y":98,"width":250,"height":120},
 		{"id":"8d182c362d87e7f3","type":"text","text":"[[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]","x":3415,"y":92,"width":250,"height":132},
 		{"id":"f72bbf56b9702cb2","type":"text","text":"**EXERCÍCIO**\n- Crie uma lista de 5 palavras negativas que você tem usado para falar de si mesmo","x":3765,"y":71,"width":250,"height":175},
-		{"id":"bf96e67c379df67c","x":873,"y":638,"width":250,"height":127,"type":"text","text":"O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho."}
+		{"id":"bf96e67c379df67c","x":873,"y":638,"width":250,"height":127,"type":"text","text":"[[O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho.]]"},
+		{"id":"4fe8ca3ff04fe68b","x":1204,"y":672,"width":250,"height":60,"type":"text","text":"Quando tomamos consciência de que estamos viven"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -89,6 +90,7 @@
 		{"id":"0c4e1eb2ff5e9648","fromNode":"3ef8d8a33f8c0c8f","fromSide":"right","toNode":"679ba1cdc538871c","toSide":"left"},
 		{"id":"9f1060551376c01b","fromNode":"679ba1cdc538871c","fromSide":"right","toNode":"8d182c362d87e7f3","toSide":"left"},
 		{"id":"1215170d30ff2813","fromNode":"8d182c362d87e7f3","fromSide":"right","toNode":"f72bbf56b9702cb2","toSide":"left"},
-		{"id":"4ae3830e0b5b3784","fromNode":"0f63c8ed498e01ab","fromSide":"right","toNode":"bf96e67c379df67c","toSide":"left"}
+		{"id":"4ae3830e0b5b3784","fromNode":"0f63c8ed498e01ab","fromSide":"right","toNode":"bf96e67c379df67c","toSide":"left"},
+		{"id":"c21fcafac39a8446","fromNode":"bf96e67c379df67c","fromSide":"right","toNode":"4fe8ca3ff04fe68b","toSide":"left"}
 	]
 }
