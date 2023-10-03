@@ -12,7 +12,6 @@
 		{"id":"8e36fbd57ac6969f","type":"text","text":"Somos **domesticados** com um sistema de punições e recompensas. Esse é o começo da morte da nossa verdade e da nossa [[Criança Interior]]","x":1036,"y":-965,"width":250,"height":180},
 		{"id":"b2799e01e1a51b87","type":"text","text":"[[O mapa não é o território]]","x":1091,"y":-536,"width":250,"height":60},
 		{"id":"d25c5eee71aa6dcd","type":"text","text":"O que acreditamos só tem valor porque lhe atribuímos um, **concordando** sobre eles terem um significado","x":1396,"y":-567,"width":250,"height":127},
-		{"id":"ef417756471c4946","type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós","x":2291,"y":-961,"width":250,"height":166},
 		{"id":"b4541b4ed0981954","type":"text","text":"Passamos a pensar que precisamos ser de determinada forma para sermos **aceitos**","x":2619,"y":-934,"width":250,"height":113},
 		{"id":"bdd72e443f083ce7","type":"text","text":"Medo da **rejeição** cria a necessidade da **perfeição**","x":2950,"y":-907,"width":250,"height":60},
 		{"id":"6d4d7090a918f4f2","type":"text","text":"[[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]","x":3253,"y":-989,"width":250,"height":223},
@@ -60,7 +59,8 @@
 		{"id":"f90ce2f2cabaff48","x":1953,"y":1376,"width":250,"height":86,"type":"text","text":"[[O seu melhor é, na verdade, a única coisa que você pode fazer]]"},
 		{"id":"e6a8a6ee6fa176e2","x":2350,"y":1292,"width":250,"height":255,"type":"text","text":"Não espere ser sempre impecável com sua palavra, nunca levar nada para o lado pessoal ou nunca vá tirar conclusões. Os seus hábitos estão arraigados com muita força na sua mente. Apenas dê o melhor de si."},
 		{"id":"2a671aeb807d9b04","x":2725,"y":1362,"width":250,"height":115,"type":"text","text":"==Você tem coragem para repensar quem você acredita ser, ou será que existem feridas demais?=="},
-		{"id":"2495b4367ef939fc","x":3089,"y":1391,"width":250,"height":60,"type":"text","text":"[[Você tem o poder de criar um sonho de paraíso]]"}
+		{"id":"2495b4367ef939fc","x":3089,"y":1391,"width":250,"height":60,"type":"text","text":"[[Você tem o poder de criar um sonho de paraíso]]"},
+		{"id":"ef417756471c4946","type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós","x":2293,"y":-971,"width":250,"height":186}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
