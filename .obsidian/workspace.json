@@ -11,14 +11,11 @@
             "id": "c269eeed60ccae0b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-                "viewState": {
-                  "x": 3321.749348524019,
-                  "y": -836.2885525467958,
-                  "zoom": 0.5
-                }
+                "file": "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -322,7 +319,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +335,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,9 +356,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -440,8 +433,8 @@
   },
   "active": "c269eeed60ccae0b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
     "Você tem o poder de criar um sonho de paraíso.md",
     "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
     "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
