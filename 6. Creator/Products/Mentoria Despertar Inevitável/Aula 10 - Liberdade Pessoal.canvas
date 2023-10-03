@@ -51,9 +51,13 @@
 		{"id":"3c9de532d86f2ce3","type":"text","text":"[[Tudo que você acha que sabe sobre você é uma superstição]]","x":2239,"y":998,"width":250,"height":87},
 		{"id":"769d6ced30c8d177","type":"text","text":"[[Presumimos que aquilo que pensamos é a verdade absoluta e nunca paramos para pensar que a nossa verdade é uma verdade relativa, uma verdade virtual]].","x":2600,"y":944,"width":250,"height":195},
 		{"id":"60a76c1075c05059","type":"text","text":"[[A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões.]]","x":2991,"y":979,"width":250,"height":126},
-		{"id":"138562689b914b15","x":431,"y":1371,"width":250,"height":53,"type":"text","text":"**O QUARTO COMPROMISSO:** Sempre dê o melhor de si"},
+		{"id":"138562689b914b15","type":"text","text":"**O QUARTO COMPROMISSO:** Sempre dê o melhor de si","x":431,"y":1371,"width":250,"height":96},
 		{"id":"5f7b078d5c87c687","type":"text","text":"[[Criamos a nossa realidade conscientemente, ou não]]","x":3290,"y":-447,"width":250,"height":79},
-		{"id":"3de96e955877ef4c","type":"text","text":"**PERGUNTA**\n- Qual é a realidade virtual que você tem criado para si mesmo?","x":3640,"y":-469,"width":250,"height":130}
+		{"id":"3de96e955877ef4c","type":"text","text":"**PERGUNTA**\n- Qual é a realidade virtual que você tem criado para si mesmo?","x":3640,"y":-469,"width":250,"height":130},
+		{"id":"910aa2d423b7bb85","type":"text","text":"[[A coisa mais importante da sua vida é a consciência, seguida da prática]].","x":786,"y":1371,"width":250,"height":95},
+		{"id":"983593202943aca7","x":1195,"y":1336,"width":250,"height":165,"type":"text","text":"[[Uma das necessidades humanas mais fortes que existem é a de se manter consistente com a personalidade que nos identificamos]]"},
+		{"id":"5e331cf28d00fde0","x":1582,"y":1362,"width":250,"height":113,"type":"text","text":"Quando você muda o que  pensa ser, sua vida inteira começa a se transformar"},
+		{"id":"f90ce2f2cabaff48","x":1953,"y":1376,"width":250,"height":86,"type":"text","text":"[[O seu melhor é, na verdade, a única coisa que você pode fazer]]"}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -107,6 +111,10 @@
 		{"id":"f98f0a9df0fcbd48","fromNode":"3c9de532d86f2ce3","fromSide":"right","toNode":"769d6ced30c8d177","toSide":"left"},
 		{"id":"4cc18600e3a75375","fromNode":"769d6ced30c8d177","fromSide":"right","toNode":"60a76c1075c05059","toSide":"left"},
 		{"id":"a62ab897261a21e0","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"138562689b914b15","toSide":"left"},
-		{"id":"ae69f122062c431f","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"3de96e955877ef4c","toSide":"left"}
+		{"id":"ae69f122062c431f","fromNode":"5f7b078d5c87c687","fromSide":"right","toNode":"3de96e955877ef4c","toSide":"left"},
+		{"id":"537973118f213c79","fromNode":"138562689b914b15","fromSide":"right","toNode":"910aa2d423b7bb85","toSide":"left"},
+		{"id":"23839452080028d8","fromNode":"910aa2d423b7bb85","fromSide":"right","toNode":"983593202943aca7","toSide":"left"},
+		{"id":"e86444c89a3f22d3","fromNode":"983593202943aca7","fromSide":"right","toNode":"5e331cf28d00fde0","toSide":"left"},
+		{"id":"a08d79eb835f1c4f","fromNode":"5e331cf28d00fde0","fromSide":"right","toNode":"f90ce2f2cabaff48","toSide":"left"}
 	]
 }

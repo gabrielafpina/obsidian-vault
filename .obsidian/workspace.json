@@ -15,10 +15,34 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 911.0200777719592,
-                  "y": 1408.6412868132388,
+                  "x": 2022.6207857797717,
+                  "y": 1415.9766139616763,
                   "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "b7d56139a7dd1e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2283d015ab8eab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -178,7 +202,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md"
               }
             }
           },
@@ -365,10 +390,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c269eeed60ccae0b",
+  "active": "b7d56139a7dd1e7c",
   "lastOpenFiles": [
-    "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
+    "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
+    "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
     "Presumimos que aquilo que pensamos é a verdade absoluta e nunca paramos para pensar que a nossa verdade é uma verdade relativa, uma verdade virtual.md",
     "Tudo que você acha que sabe sobre você é uma superstição.md",
     "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
@@ -396,8 +423,6 @@
     "6. Creator/Products/Fly",
     "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro.md",
-    "As palavras são o seu pincel, e a vida, sua tela.md",
-    "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
