@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c269eeed60ccae0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47ce8e6fe5035add",
             "type": "leaf",
             "state": {
@@ -426,6 +414,37 @@
         "y": 30,
         "width": 1216,
         "height": 762,
+        "maximize": false,
+        "zoom": 1.5
+      },
+      {
+        "id": "a4e4052f93982bd2",
+        "type": "window",
+        "children": [
+          {
+            "id": "1cd79727b4bd4ce9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c269eeed60ccae0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 55,
+        "y": 25,
+        "width": 1315,
+        "height": 875,
         "maximize": false,
         "zoom": 1.5
       }
