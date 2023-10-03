@@ -15,10 +15,22 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 2022.6207857797717,
-                  "y": 1415.9766139616763,
-                  "zoom": 0
+                  "x": 3070.209986533784,
+                  "y": 1357.2154993728734,
+                  "zoom": -0.5
                 }
+              }
+            }
+          },
+          {
+            "id": "47ce8e6fe5035add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Você tem o poder de criar um sonho de paraíso.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -311,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
+                "file": "Você tem o poder de criar um sonho de paraíso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
+                "file": "Você tem o poder de criar um sonho de paraíso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O seu melhor é, na verdade, a única coisa que você pode fazer.md"
+                "file": "Você tem o poder de criar um sonho de paraíso.md"
               }
             }
           },
@@ -390,9 +402,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7d56139a7dd1e7c",
+  "active": "47ce8e6fe5035add",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "Você tem o poder de criar um sonho de paraíso.md",
     "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
     "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
     "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
@@ -422,7 +435,6 @@
     "6. Creator/Products/Fly/Clube do Livro",
     "6. Creator/Products/Fly",
     "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
-    "Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
