@@ -15,10 +15,22 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 981.1867065429688,
-                  "y": 1025.9960327148438,
+                  "x": 1920.3278045654297,
+                  "y": 1010.7057800292969,
                   "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "ab1b09b75d1d701e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,6 +41,18 @@
               "type": "markdown",
               "state": {
                 "file": "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1ea0e206e8ed70c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O inferno não é nada além de um sonho cheio de mentiras.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,18 +101,6 @@
               "type": "markdown",
               "state": {
                 "file": "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f38508b66821af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A vida é um filme.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
+                "file": "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
+                "file": "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md"
+                "file": "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md"
               }
             }
           },
@@ -318,9 +330,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3885f4e39f0380",
+  "active": "ab1b09b75d1d701e",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
+    "O inferno não é nada além de um sonho cheio de mentiras.md",
     "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
     "todos os conflitos resultam de mentiras.md",
     "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
@@ -350,8 +364,6 @@
     "3. Me, Myself and I/Testes/Mapa Astral.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
-    "Criamos a nossa realidade conscientemente, ou não.md",
-    "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
