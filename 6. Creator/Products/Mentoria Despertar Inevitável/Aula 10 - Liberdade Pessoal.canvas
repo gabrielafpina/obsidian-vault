@@ -42,8 +42,8 @@
 		{"id":"3ef8d8a33f8c0c8f","type":"text","text":"[[\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\"]].","x":2709,"y":109,"width":250,"height":96},
 		{"id":"679ba1cdc538871c","type":"text","text":"[[Usar a palavra de maneira impecável é extremamente importante porque a palavra é você, o mensageiro]]","x":3075,"y":98,"width":250,"height":120},
 		{"id":"8d182c362d87e7f3","type":"text","text":"[[Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra]]","x":3415,"y":92,"width":250,"height":132},
-		{"id":"bf96e67c379df67c","x":873,"y":673,"width":250,"height":60,"type":"text","text":""},
-		{"id":"f72bbf56b9702cb2","type":"text","text":"**EXERCÍCIO**\n- Crie uma lista de 5 palavras negativas que você tem usado para falar de si mesmo","x":3765,"y":71,"width":250,"height":175}
+		{"id":"f72bbf56b9702cb2","type":"text","text":"**EXERCÍCIO**\n- Crie uma lista de 5 palavras negativas que você tem usado para falar de si mesmo","x":3765,"y":71,"width":250,"height":175},
+		{"id":"bf96e67c379df67c","x":873,"y":638,"width":250,"height":127,"type":"text","text":"O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho."}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
