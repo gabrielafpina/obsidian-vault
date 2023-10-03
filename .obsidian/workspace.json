@@ -20,6 +20,21 @@
             }
           },
           {
+            "id": "7a85f3eacb2f3152",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "viewState": {
+                  "x": 435.9371662563051,
+                  "y": -472.73679796421055,
+                  "zoom": 0.856286238955656
+                }
+              }
+            }
+          },
+          {
             "id": "b7d56139a7dd1e7c",
             "type": "leaf",
             "state": {
@@ -199,7 +214,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,7 +261,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -307,6 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,6 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +363,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+              }
             }
           },
           {
@@ -450,11 +471,12 @@
       }
     ]
   },
-  "active": "c269eeed60ccae0b",
+  "active": "7a85f3eacb2f3152",
   "lastOpenFiles": [
+    "Você tem o poder de criar um sonho de paraíso.md",
+    "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
-    "Você tem o poder de criar um sonho de paraíso.md",
     "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
     "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
     "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
