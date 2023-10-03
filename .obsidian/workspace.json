@@ -4,221 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fdb406f7c8afdfec",
+        "id": "9fe1e9c00da4efe0",
         "type": "tabs",
         "children": [
           {
-            "id": "c49ac4e1c813b1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da9b9b50463a1248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Testes/Mapa Astral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b658f29a57fab556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As palavras são o seu pincel, e a vida, sua tela.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e2ed547255b540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/Fly/Clube do Livro/Livros para ler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41a7f888df6f41c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d683b268468b245c",
+            "id": "c269eeed60ccae0b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": -528.24,
-                  "y": 120.89999999999999,
-                  "zoom": 0
+                  "x": 1167.5347798208502,
+                  "y": 680.874462303354,
+                  "zoom": -0.1820207800587208
                 }
-              }
-            }
-          },
-          {
-            "id": "68edc9c8d354e426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Testes/DISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "101005669d2d49a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3e4a003ba167234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7ae6a2b254b069",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-                "viewState": {
-                  "x": 1069.993197027625,
-                  "y": 172.72616273732515,
-                  "zoom": 0.5177555073685923
-                }
-              }
-            }
-          },
-          {
-            "id": "4f18f1bb269dd6eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae365cd60106013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c52193b13313f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ee79ecee7eae1df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Criamos a nossa realidade conscientemente, ou não.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6601a1cf69d1d60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são neuroses?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3888afb80ffd94ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3b018e1a7e1cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são as características da neurose?.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
               }
             }
           },
@@ -406,9 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "101005669d2d49a1",
+  "active": "c269eeed60ccae0b",
   "lastOpenFiles": [
     "3. Me, Myself and I/Testes/DISC.md",
+    "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "2. Literature Notes/Topics/A crítica e o julgamento me aproximam daquilo que eu tô criticando.md",
@@ -435,7 +240,6 @@
     "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Trabalhando com Fobias.md",
     "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
-    "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição.md",
     "2. Literature Notes/Readwise/Books/O Quinto compromisso.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
