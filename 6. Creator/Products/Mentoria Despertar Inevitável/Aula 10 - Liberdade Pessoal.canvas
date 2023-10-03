@@ -46,7 +46,10 @@
 		{"id":"bf96e67c379df67c","x":873,"y":638,"width":250,"height":127,"type":"text","text":"[[O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho.]]"},
 		{"id":"4fe8ca3ff04fe68b","x":1220,"y":570,"width":250,"height":264,"type":"text","text":"Quando tomamos **consciência** de que [[estamos vivendo em um sonho criado por nós mesmos]], damos um grande passo em nossa evolução porque conseguimos assumir a responsabilidade pela nossa criação."},
 		{"id":"b388f07660950a63","x":1559,"y":621,"width":250,"height":162,"type":"text","text":"**[[A vida é um filme]]**. Cada pessoa é o protagonista do seu próprio filme e te observa de acordo com as próprias lentes de mundo que a pessoa tem"},
-		{"id":"763508a7d17a7feb","x":1901,"y":647,"width":250,"height":111,"type":"text","text":"[[As pessoas que você mais ama não conhecem você de verdade]] e vice-versa"}
+		{"id":"763508a7d17a7feb","x":1901,"y":647,"width":250,"height":111,"type":"text","text":"[[As pessoas que você mais ama não conhecem você de verdade]] e vice-versa"},
+		{"id":"0b37035f3a69cd3c","x":2239,"y":648,"width":250,"height":110,"type":"text","text":"[[Não levar nada para o lado pessoal te liberta da opinião dos outros]]"},
+		{"id":"fc3cc91328f8c6c0","x":459,"y":994,"width":250,"height":96,"type":"text","text":"**O TERCEIRO COMPROMISSO:** Não tire conclusões"},
+		{"id":"277305e5dff3f88d","x":850,"y":1011,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
@@ -95,6 +98,9 @@
 		{"id":"4ae3830e0b5b3784","fromNode":"0f63c8ed498e01ab","fromSide":"right","toNode":"bf96e67c379df67c","toSide":"left"},
 		{"id":"c21fcafac39a8446","fromNode":"bf96e67c379df67c","fromSide":"right","toNode":"4fe8ca3ff04fe68b","toSide":"left"},
 		{"id":"404da9c07f658458","fromNode":"4fe8ca3ff04fe68b","fromSide":"right","toNode":"b388f07660950a63","toSide":"left"},
-		{"id":"a8990af9815700fe","fromNode":"b388f07660950a63","fromSide":"right","toNode":"763508a7d17a7feb","toSide":"left"}
+		{"id":"a8990af9815700fe","fromNode":"b388f07660950a63","fromSide":"right","toNode":"763508a7d17a7feb","toSide":"left"},
+		{"id":"937c2363965dbebb","fromNode":"763508a7d17a7feb","fromSide":"right","toNode":"0b37035f3a69cd3c","toSide":"left"},
+		{"id":"5301afbd1cd16c4e","fromNode":"56aafb689a10edc7","fromSide":"right","toNode":"fc3cc91328f8c6c0","toSide":"left"},
+		{"id":"3b419f8b5473d04a","fromNode":"fc3cc91328f8c6c0","fromSide":"right","toNode":"277305e5dff3f88d","toSide":"left"}
 	]
 }

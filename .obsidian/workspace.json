@@ -15,10 +15,22 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 2147.5825481852007,
-                  "y": 767.6277319000311,
-                  "zoom": -0.1820207800587208
+                  "x": 981.1867065429688,
+                  "y": 1025.9960327148438,
+                  "zoom": 0
                 }
+              }
+            }
+          },
+          {
+            "id": "3bfe23a5f473434b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -94,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
               }
             }
           },
@@ -282,11 +293,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec076920a2275c2d",
+  "active": "c269eeed60ccae0b",
   "lastOpenFiles": [
-    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
-    "As pessoas que você mais ama não conhecem você de verdade.md",
+    "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "As pessoas que você mais ama não conhecem você de verdade.md",
+    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "A vida é um filme.md",
     "estamos vivendo em um sonho criado por nós mesmos.md",
     "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
@@ -315,7 +327,6 @@
     "2. Literature Notes/Topics/O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece.md",
     "Quais são as características da neurose?.md",
     "2. Literature Notes/Topics/Trabalhando com Fobias.md",
-    "2. Literature Notes/Topics/Qual é a diferença de neurose e psicose?.md",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
