@@ -12,7 +12,7 @@ E se você contesta essas [[crenças]] simplesmente perguntando a si mesmo se o 
 
 Você tentou ser bom o bastante para sua mãe, seu pai, seus professores, a pessoa amada, seus filhos, sua religião e a sociedade. Depois de tentar por tantos anos, você tenta ser bom o bastante para você mesmo e descobre que não é.
 
-Por que não se colocar em primeiro lugar, talvez pela primeira vez na vida? Você pode reaprender como amar a si mesmo se aceitando incondicionalmente.
+Por que não se colocar em primeiro lugar, talvez pela primeira vez na vida? ==Você pode reaprender como amar a si mesmo se aceitando incondicionalmente.==
 
 ###### **COMO:**
 
