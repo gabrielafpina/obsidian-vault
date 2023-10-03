@@ -17,7 +17,6 @@
 		{"id":"21438bd436eb9aa9","type":"text","text":"Aprendemos que existe uma **voz na nossa cabeça** e acreditamos em tudo o que ela fala. Achamos que somos ela, o [[Ego]] e passamos a acreditar em todas as opiniões que as pessoas ao nosso redor tem sobre a gente","x":1646,"y":-995,"width":250,"height":232},
 		{"id":"0494b546d696dbf3","type":"text","text":"[[Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou]]","x":1957,"y":-951,"width":250,"height":145},
 		{"id":"57235ce2cadf45f6","type":"text","text":"Existe uma grande distinção entre o *conhecimento* e a *Verdade*","x":1968,"y":-1191,"width":250,"height":93},
-		{"id":"c78477fc716d69ca","type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos. E tudo isso não passa de *apenas símbolos*. E eles só são verdadeiros porque nós estabelecemos isso.","x":1832,"y":-554,"width":250,"height":299},
 		{"id":"3418eea999a96074","type":"text","text":"[[O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece]]","x":2207,"y":-494,"width":278,"height":180},
 		{"id":"b40469894b95c7f2","type":"text","text":"A mente humana não passa de uma **realidade virtual** que criamos. E essa realidade pode ser um inferno ou um paraíso. ","x":2584,"y":-478,"width":250,"height":147},
 		{"id":"30ea84eca0d3d987","type":"text","text":"O ser humano é um **artista** que cria a sua própria realidade virtual - e essa obra de arte pode ser um reflexo mais fiel da verdade, ao invés de um objeto de auto-destruição","x":2950,"y":-506,"width":250,"height":204},
@@ -60,7 +59,9 @@
 		{"id":"ef417756471c4946","type":"text","text":"Opiniões dos outros sobre você > [[crenças]] > comportamentos > imagem de nós mesmos em nossas cabeças sobre o que os outros falam de nós","x":2293,"y":-971,"width":250,"height":186},
 		{"id":"24871e1ab09a2c2d","type":"text","text":"**Os símbolos na sua vida**","x":156,"y":-543,"width":232,"height":78,"color":"5"},
 		{"id":"b2799e01e1a51b87","type":"text","text":"[[O mapa não é o território]]","x":1090,"y":-533,"width":250,"height":60},
-		{"id":"42eea40e36b93cc1","type":"text","text":"Quando compreendemos os símbolos que aprendemos, passamos a viver de acordo com eles","x":788,"y":-555,"width":250,"height":104}
+		{"id":"42eea40e36b93cc1","type":"text","text":"Quando compreendemos os símbolos que aprendemos, passamos a viver de acordo com eles","x":788,"y":-555,"width":250,"height":104},
+		{"id":"c78477fc716d69ca","type":"text","text":"Todo o nosso conhecimento (100% dele) não é nada além de símbolos ou palavras que inventamos para a necessidade de entender e expressar o que percebemos. E tudo isso não passa de *apenas símbolos*. E eles só são verdadeiros porque nós estabelecemos isso.","x":1832,"y":-561,"width":250,"height":314},
+		{"id":"befe9c0b19197e3e","x":2247,"y":-589,"width":250,"height":60,"type":"text","text":"SOFRIMENTO "}
 	],
 	"edges":[
 		{"id":"c9825c16bf4bfa70","fromNode":"dffa481a09e7d081","fromSide":"right","toNode":"0f14ce4760b7f8ec","toSide":"left"},
