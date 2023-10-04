@@ -27,10 +27,22 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 3210.48108655566,
-                  "y": -388.0958850815662,
+                  "x": 972.6218114967166,
+                  "y": 190.078580520314,
                   "zoom": 0.856286238955656
                 }
+              }
+            }
+          },
+          {
+            "id": "d2dca1df2fd3ae2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -215,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md"
               }
             }
           },
@@ -471,10 +483,10 @@
       }
     ]
   },
-  "active": "7a85f3eacb2f3152",
+  "active": "d2dca1df2fd3ae2e",
   "lastOpenFiles": [
-    "todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "todos os conflitos resultam de mentiras.md",
     "Você tem o poder de criar um sonho de paraíso.md",
     "O inferno não é nada além de um sonho cheio de mentiras.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
