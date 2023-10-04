@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "e7cb4eb114835648",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "d2dca1df2fd3ae2e",
             "type": "leaf",
             "state": {
@@ -227,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -443,7 +453,7 @@
           }
         ],
         "direction": "vertical",
-        "x": -84,
+        "x": 0,
         "y": 30,
         "width": 1216,
         "height": 762,
@@ -452,7 +462,7 @@
       }
     ]
   },
-  "active": "7a85f3eacb2f3152",
+  "active": "e7cb4eb114835648",
   "lastOpenFiles": [
     "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
