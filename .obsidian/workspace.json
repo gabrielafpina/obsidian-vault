@@ -27,8 +27,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 910.074124793363,
-                  "y": 732.8054463877861,
+                  "x": 1657.1672537274226,
+                  "y": 729.720213927532,
                   "zoom": 0.856286238955656
                 }
               }
@@ -336,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "A vida é um filme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+                "file": "A vida é um filme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas"
+                "file": "A vida é um filme.md"
               }
             }
           },
@@ -449,13 +449,47 @@
         "height": 762,
         "maximize": false,
         "zoom": 1.5
+      },
+      {
+        "id": "23341a0e8ba4d428",
+        "type": "window",
+        "children": [
+          {
+            "id": "9ca0c7381c085784",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04efa0f1af627b6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A vida é um filme.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 107,
+        "y": 38,
+        "width": 1216,
+        "height": 762,
+        "maximize": false,
+        "zoom": 1.5
       }
     ]
   },
-  "active": "7a85f3eacb2f3152",
+  "active": "04efa0f1af627b6a",
   "lastOpenFiles": [
-    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "A vida é um filme.md",
+    "estamos vivendo em um sonho criado por nós mesmos.md",
+    "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
+    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
     "todos os conflitos resultam de mentiras.md",
@@ -472,9 +506,6 @@
     "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
     "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
     "As pessoas que você mais ama não conhecem você de verdade.md",
-    "A vida é um filme.md",
-    "estamos vivendo em um sonho criado por nós mesmos.md",
-    "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
     "3. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
