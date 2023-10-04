@@ -27,8 +27,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 1657.1672537274226,
-                  "y": 729.720213927532,
+                  "x": 2023.4546727912696,
+                  "y": 734.6447555686168,
                   "zoom": 0.856286238955656
                 }
               }
@@ -336,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A vida é um filme.md",
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A vida é um filme.md",
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A vida é um filme.md"
+                "file": "As pessoas que você mais ama não conhecem você de verdade.md"
               }
             }
           },
@@ -451,20 +451,20 @@
         "zoom": 1.5
       },
       {
-        "id": "23341a0e8ba4d428",
+        "id": "396ac1b7991ff92b",
         "type": "window",
         "children": [
           {
-            "id": "9ca0c7381c085784",
+            "id": "ed1280249803a559",
             "type": "tabs",
             "children": [
               {
-                "id": "04efa0f1af627b6a",
+                "id": "f01c4f5c41013af7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "A vida é um filme.md",
+                    "file": "As pessoas que você mais ama não conhecem você de verdade.md",
                     "mode": "source",
                     "source": false
                   }
@@ -474,16 +474,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 107,
-        "y": 38,
-        "width": 1216,
-        "height": 762,
-        "maximize": false,
+        "x": 373,
+        "y": 25,
+        "width": 1067,
+        "height": 875,
+        "maximize": true,
         "zoom": 1.5
       }
     ]
   },
-  "active": "04efa0f1af627b6a",
+  "active": "f01c4f5c41013af7",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "A vida é um filme.md",
