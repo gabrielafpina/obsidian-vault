@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebca5669a1b505d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conflito",
+                "query": "desapego",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos os conflitos resultam de mentiras.md",
+                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todos os conflitos resultam de mentiras.md",
+                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todos os conflitos resultam de mentiras.md"
+                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md"
               }
             }
           },
@@ -235,8 +247,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b59d6841e5b8c984",
+  "active": "ebca5669a1b505d1",
   "lastOpenFiles": [
+    "todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
     "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
@@ -244,7 +257,6 @@
     "Tudo que você acha que sabe sobre você é uma superstição.md",
     "O inferno não é nada além de um sonho cheio de mentiras.md",
     "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
-    "todos os conflitos resultam de mentiras.md",
     "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
     "As pessoas que você mais ama não conhecem você de verdade.md",
     "A vida é um filme.md",
