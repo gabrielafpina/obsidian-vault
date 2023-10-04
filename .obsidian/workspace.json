@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Você tem o poder de criar um sonho de paraíso.md",
+                "file": "2. Literature Notes/Topics/Você tem o poder de criar um sonho de paraíso.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todos os conflitos resultam de mentiras.md",
+                "file": "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,9 +57,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6eb5b13a5202442b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +113,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei do Distanciamento.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,30 +252,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebca5669a1b505d1",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "todos os conflitos resultam de mentiras.md",
+    "2. Literature Notes/Topics/Lei do Distanciamento.md",
+    "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-    "A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
-    "O seu melhor é, na verdade, a única coisa que você pode fazer.md",
+    "2. Literature Notes/Topics/A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
+    "2. Literature Notes/Topics/O seu melhor é, na verdade, a única coisa que você pode fazer.md",
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
-    "Tudo que você acha que sabe sobre você é uma superstição.md",
-    "O inferno não é nada além de um sonho cheio de mentiras.md",
-    "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
-    "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
-    "As pessoas que você mais ama não conhecem você de verdade.md",
-    "A vida é um filme.md",
-    "estamos vivendo em um sonho criado por nós mesmos.md",
-    "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
-    "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
-    "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
+    "2. Literature Notes/Topics/Tudo que você acha que sabe sobre você é uma superstição.md",
+    "2. Literature Notes/Topics/O inferno não é nada além de um sonho cheio de mentiras.md",
+    "2. Literature Notes/Topics/A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
+    "2. Literature Notes/Topics/Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
+    "2. Literature Notes/Topics/As pessoas que você mais ama não conhecem você de verdade.md",
+    "2. Literature Notes/Topics/A vida é um filme.md",
+    "2. Literature Notes/Topics/estamos vivendo em um sonho criado por nós mesmos.md",
+    "2. Literature Notes/Topics/O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
+    "2. Literature Notes/Topics/Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
+    "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
-    "Você tem o poder de criar um sonho de paraíso.md",
+    "2. Literature Notes/Topics/Você tem o poder de criar um sonho de paraíso.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
-    "A coisa mais importante da sua vida é a consciência, seguida da prática.md",
-    "Presumimos que aquilo que pensamos é a verdade absoluta e nunca paramos para pensar que a nossa verdade é uma verdade relativa, uma verdade virtual.md",
-    "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
+    "2. Literature Notes/Topics/A coisa mais importante da sua vida é a consciência, seguida da prática.md",
+    "2. Literature Notes/Topics/Presumimos que aquilo que pensamos é a verdade absoluta e nunca paramos para pensar que a nossa verdade é uma verdade relativa, uma verdade virtual.md",
+    "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "3. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
