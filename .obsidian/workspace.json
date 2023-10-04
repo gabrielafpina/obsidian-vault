@@ -27,8 +27,8 @@
               "state": {
                 "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
                 "viewState": {
-                  "x": 2023.4546727912696,
-                  "y": 734.6447555686168,
+                  "x": 1005.7710828412347,
+                  "y": 1055.817395681287,
                   "zoom": 0.856286238955656
                 }
               }
@@ -336,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                "file": "todos os conflitos resultam de mentiras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                "file": "todos os conflitos resultam de mentiras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As pessoas que você mais ama não conhecem você de verdade.md"
+                "file": "todos os conflitos resultam de mentiras.md"
               }
             }
           },
@@ -451,20 +451,20 @@
         "zoom": 1.5
       },
       {
-        "id": "396ac1b7991ff92b",
+        "id": "3000ba2d4db7b0a3",
         "type": "window",
         "children": [
           {
-            "id": "ed1280249803a559",
+            "id": "d47cd2d4ccaf6ef2",
             "type": "tabs",
             "children": [
               {
-                "id": "f01c4f5c41013af7",
+                "id": "418216e6a1eca47c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "As pessoas que você mais ama não conhecem você de verdade.md",
+                    "file": "todos os conflitos resultam de mentiras.md",
                     "mode": "source",
                     "source": false
                   }
@@ -474,25 +474,27 @@
           }
         ],
         "direction": "vertical",
-        "x": 373,
-        "y": 25,
-        "width": 1067,
-        "height": 875,
-        "maximize": true,
+        "x": 382,
+        "y": 101,
+        "width": 608,
+        "height": 762,
+        "maximize": false,
         "zoom": 1.5
       }
     ]
   },
-  "active": "f01c4f5c41013af7",
+  "active": "418216e6a1eca47c",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
+    "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
+    "todos os conflitos resultam de mentiras.md",
+    "As pessoas que você mais ama não conhecem você de verdade.md",
     "A vida é um filme.md",
     "estamos vivendo em um sonho criado por nós mesmos.md",
     "O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
     "Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "2. Literature Notes/Topics/Utilize palavras de frequências gentis.md",
-    "todos os conflitos resultam de mentiras.md",
     "Você tem o poder de criar um sonho de paraíso.md",
     "O inferno não é nada além de um sonho cheio de mentiras.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
@@ -504,8 +506,6 @@
     "Tudo que você acha que sabe sobre você é uma superstição.md",
     "A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
-    "Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
-    "As pessoas que você mais ama não conhecem você de verdade.md",
     "3. Me, Myself and I/Testes/DISC.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
