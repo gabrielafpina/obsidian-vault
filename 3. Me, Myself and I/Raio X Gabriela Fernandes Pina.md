@@ -236,16 +236,31 @@
 	- Reconhecimento
 	- Coragem
 - **10 Valores de Vida mais importantes**
-	1. Crescimento e desenvolvimento pessoal constante
+	1. Crescimento e desenvolvimento pessoal constante (Lifelong learning)
 	2. Amor-próprio
 	3. Consciência
 	4. Conexão espiritual
 	5. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
-	- Propósito
-	- Entusiasmo e tesão pelo que faço
-	- LIBERDADE e autonomia
-	- Leveza e bom-humor
-	- Comunicação inspiradora e empoderadora
+	6. Sabedoria
+	7. Leveza e bom-humor
+	8. Entusiasmo e tesão pelo que faço
+	9. Comunicação inspiradora e empoderadora
+	10. 
+	11. LIBERDADE e autonomia
+
+
+###### Papéis na Sociedade
+1. Aprendiz
+2. Eu comigo mesma
+3. Mentora
+4. Criadora de conteúdo
+5. Infoprodutora
+6. Empresária
+7. Filha
+8. Amiga
+9. Mãe de PET
+10. Esposa
+11. 
 
 ###### Roda da Vida Atual
 
