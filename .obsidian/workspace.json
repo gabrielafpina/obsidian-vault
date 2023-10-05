@@ -146,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -288,7 +289,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "4e24ac52738fdfe9",
   "lastOpenFiles": [
     "Frame 1.png",
     "2. Literature Notes/Topics/Exercício da bandeira.md",

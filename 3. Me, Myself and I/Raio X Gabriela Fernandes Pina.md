@@ -214,7 +214,7 @@
 	- Empoderamento e inspiração de pessoas
 - **20 valores de Vida** (valores que regem a minha tomada de decisão)
 	- Consciência
-	- Conexão espiritual
+		- Conexão espiritual
 	- Amor-próprio
 	- Propósito
 	- Entusiasmo e tesão pelo que faço
@@ -236,17 +236,17 @@
 	- Reconhecimento
 	- Coragem
 - **10 Valores de Vida mais importantes**
-	1. Conexão espiritual
-	2. Consciência
+	1. Consciência
 	3. Amor-próprio
-	4. Crescimento e desenvolvimento pessoal constante (Lifelong learning)
-	5. Leveza e bom-humor
-	6. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
-	7. Sabedoria
-	8. Entusiasmo e tesão pelo que faço
-	9. Comunicação inspiradora e empoderadora
-	10. LIBERDADE e autonomia
+	4. LIBERDADE
+	5. Crescimento e desenvolvimento pessoal constante (Lifelong learning)
+	6. Leveza e bom-humor
+	7. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
+	8. Sabedoria
+	9. Entusiasmo e tesão pelo que faço
+	10. Comunicação inspiradora e empoderadora
 ![[Frame 1.png]]
+
 ###### Papéis na Sociedade
 1. Aprendiz
 2. Mulher - Eu comigo mesma
