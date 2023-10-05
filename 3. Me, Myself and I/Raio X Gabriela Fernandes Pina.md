@@ -249,7 +249,7 @@
 
 ###### Papéis na Sociedade
 1. Aprendiz
-2. Eu comigo mesma
+2. Mulher - Eu comigo mesma
 3. Mentora
 4. Criadora de conteúdo
 5. Comunicadora
