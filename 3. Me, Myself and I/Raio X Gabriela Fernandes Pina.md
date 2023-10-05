@@ -215,6 +215,9 @@
 - **20 valores de Vida** (valores que regem a minha tomada de decisão)
 	- Consciência
 		- Conexão espiritual
+		- Presença
+		- Integridade
+		- Auto-observação
 	- Amor-próprio
 	- Propósito
 	- Entusiasmo e tesão pelo que faço
@@ -232,7 +235,6 @@
 	- Autenticidade
 	- Lealdade a mim, em primeiro lugar e depois ao outro
 	- Honestidade e Verdade (com meus sentimentos e pensamentos)
-	- Auto-observação
 	- Reconhecimento
 	- Coragem
 - **10 Valores de Vida mais importantes**
