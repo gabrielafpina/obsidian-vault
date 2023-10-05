@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "f5b685ba91157ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9a5f436ee78dff1",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandeira",
+                "query": "disc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +158,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md"
               }
             }
           },
@@ -289,8 +300,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e24ac52738fdfe9",
+  "active": "f5b685ba91157ade",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "Frame 1.png",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Lei do Gênero.md",
@@ -335,7 +347,6 @@
     "5. Shots, Images & PDFs/9da3c253906f54e042cff8dead524e4f.jpeg",
     "5. Shots, Images & PDFs/92340448ae3887584f70ed3e0fa2f71a.jpeg",
     "5. Shots, Images & PDFs/98d5a24bcb916358bc7c9182cf1595e9.jpeg",
-    "5. Shots, Images & PDFs/d190776d78654cd80b443d9237c0f3ad.jpeg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
