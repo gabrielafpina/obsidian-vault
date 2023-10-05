@@ -252,14 +252,15 @@
 2. Eu comigo mesma
 3. Mentora
 4. Criadora de conteúdo
-5. Infoprodutora
-6. Empresária
-7. Filha
-8. Amiga
-9. Mãe de PET
-10. Esposa
-11. Leitora
-12. Escritora 
+5. Comunicadora
+6. Infoprodutora
+7. Empresária
+8. Filha
+9. Amiga
+10. Mãe de PET
+11. Esposa
+12. Leitora
+13. Escritora 
 
 ###### Roda da Vida Atual
 
