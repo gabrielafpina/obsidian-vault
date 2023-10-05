@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "4e24ac52738fdfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9a5f436ee78dff1",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salvar",
+                "query": "raio x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei do Gênero.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei do Gênero.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei do Gênero.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -276,8 +288,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ccab8bbc6e835021",
+  "active": "4e24ac52738fdfe9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Lei do Gênero.md",
     "Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
     "Temos uma tendência de nos apegar à doença conhecida, ao invés de conhecer a saúde desconhecida.md",
@@ -304,7 +317,6 @@
     "2. Literature Notes/Topics/Você tem o poder de criar um sonho de paraíso.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
     "2. Literature Notes/Topics/Eu não sou o que eu penso que sou. Eu não sou o que você pensa que eu sou. Eu sou o que eu penso que você pensa que eu sou.md",
-    "2. Literature Notes/Topics/A coisa mais importante da sua vida é a consciência, seguida da prática.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",

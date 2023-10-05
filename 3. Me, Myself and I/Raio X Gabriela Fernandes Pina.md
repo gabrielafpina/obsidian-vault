@@ -236,6 +236,7 @@
 	- Reconhecimento
 	- Coragem
 - **10 Valores de Vida mais importantes**
+	1. Crescimento e desenvolvimento pessoal constante
 	- Consciência
 	- Conexão espiritual
 	- Amor-próprio
@@ -243,7 +244,6 @@
 	- Entusiasmo e tesão pelo que faço
 	- LIBERDADE e autonomia
 	- Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
-	- Crescimento e desenvolvimento pessoal constante
 	- Leveza e bom-humor
 	- Comunicação inspiradora e empoderadora
 

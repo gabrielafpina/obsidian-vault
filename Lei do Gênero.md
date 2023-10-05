@@ -14,7 +14,7 @@ Temos a mente objetiva e a subjetiva. Na junção das duas, se manifesta a nossa
 
 Temos o [[Ego]] e o *eu* também. A nossa essência é pura, inocente, frágil. Ela sempre é assim. Isso fica muito claro em um bebê, ele é essência pura. É importante que algo proteja essa essência, que é o ego. Ele é formado para a proteção do Ser. O caminho para a Verdade é voltar para a essência, através da [[Auto Observação]]. Observando o ego, onde está o orgulho, vaidade, luxúria, medo, onde isso está me bloqueando na minha vida. Entregar isso para a essência, para que ela cresça, porque isso não deixa a essência crescer.
 
-Portanto, o ego não é ruim. Ele cumrpiu a função dele. A partir de hoje, está na hora de voltar para a essência. O ego é uma matriz feminina, responsavel por perceber o mundo e captar as informações que eu 
+Portanto, o ego não é ruim. Ele cumrpiu a função dele. A partir de hoje, está na hora de voltar para a essência. O ego é uma matriz feminina, responsavel por perceber o mundo e captar as informações que eu capto através dos 5 sentidos.
 
 ###### **COMO:**
 
