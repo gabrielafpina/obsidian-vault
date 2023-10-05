@@ -240,9 +240,9 @@
 	2. Consciência
 	3. Amor-próprio
 	4. Crescimento e desenvolvimento pessoal constante (Lifelong learning)
-	5. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
-	6. Sabedoria
-	7. Leveza e bom-humor
+	5. Leveza e bom-humor
+	6. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
+	7. Sabedoria
 	8. Entusiasmo e tesão pelo que faço
 	9. Comunicação inspiradora e empoderadora
 	10. LIBERDADE e autonomia
