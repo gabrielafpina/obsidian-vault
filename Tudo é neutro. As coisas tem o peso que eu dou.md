@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 O que eu escolho fazer com o que está acontecendo na minha vida? Nada significa coisa alguma. Significa o que eu escolho fazer daquilo. [[Não existe algo como uma situação difícil, apenas definições que as tornam experienciadas como difíceis]].
 
+[[Nenhuma mensagem é boa ou ruim, todas são neutras]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

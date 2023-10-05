@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quinto",
+                "query": "leveza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -240,11 +240,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f14540519a5f9aff",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "O sentido da minha vida é o sentido que eu dou para ela.md",
-    "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
     "Tudo é neutro. As coisas tem o peso que eu dou.md",
+    "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
+    "O sentido da minha vida é o sentido que eu dou para ela.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
