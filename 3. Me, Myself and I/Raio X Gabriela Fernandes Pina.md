@@ -246,7 +246,7 @@
 	8. Entusiasmo e tesão pelo que faço
 	9. Comunicação inspiradora e empoderadora
 	10. LIBERDADE e autonomia
-
+![[Frame 1.png]]
 ###### Papéis na Sociedade
 1. Aprendiz
 2. Mulher - Eu comigo mesma
