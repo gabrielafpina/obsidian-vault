@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "O sentido da minha vida é o sentido que eu dou para ela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f14540519a5f9aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md"
               }
             }
           },
@@ -228,9 +240,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75254323529893a9",
+  "active": "f14540519a5f9aff",
   "lastOpenFiles": [
-    "Untitled.md",
+    "O sentido da minha vida é o sentido que eu dou para ela.md",
+    "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
     "Tudo é neutro. As coisas tem o peso que eu dou.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
@@ -256,7 +269,6 @@
     "2. Literature Notes/Topics/Presumimos que aquilo que pensamos é a verdade absoluta e nunca paramos para pensar que a nossa verdade é uma verdade relativa, uma verdade virtual.md",
     "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "3. Me, Myself and I/Testes/DISC.md",
-    "2. Literature Notes/Topics/O que são neuroses?.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
