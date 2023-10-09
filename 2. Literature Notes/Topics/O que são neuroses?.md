@@ -31,6 +31,8 @@ Freud acreditava que a angústia que toda a angústia e o sofrimento são causad
 
 [[Quais são as características da neurose?]]
 
+[[Quais são os tipos de neuroses?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
