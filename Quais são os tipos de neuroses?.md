@@ -22,7 +22,11 @@
 5. **Neurose fóbica**: presença de uma fobia ou medo de locais, objetos, situações e pessoas.
 	1. Comportamentos de esquiva, isolamento social e de fuga são comuns.
 	2. É constante o desejo de se livrar da situação indesejada.
-	3. É o medo persistente e recorrente a um determinado objeto ou circunstância que desencadeia uma forte 
+	3. É o medo persistente e recorrente a um determinado objeto ou circunstância que desencadeia uma forte reação de ansiedade, sempre que apresentado à pessoa fóbica. A pessoa mostra um tipo de caráter medroso, tímido, fugidio em constante estado de alerta.
+6. **Neurose traumática**: originada de acontecimentos violentos ou assustadores que deixam marcas no emocional da pessoa. Pode ser um trauma real ou fantasioso.
+7. **Neurose histérica**: relacionado ao desejo de chamar atenção e de conquistar a piedade alheia, ou a pacientes que são incapazes de encontrar a verdadeira causa de suas frustrações. 
+	1. Ao estudar a neurose, Freud notou também a frequência maior nas mulheres.
+	2. Defendia que pacientes que apresentavam histeria tinham sofrido algum abuso sexual.
 
 ###### **COMO:**
 

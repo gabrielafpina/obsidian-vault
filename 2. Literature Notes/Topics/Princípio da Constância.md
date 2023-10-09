@@ -41,6 +41,7 @@ Nas lembranças dolorosas, o desprazer é liberado no interior do corpo e, de no
 **Oeste: similar**
 - [[Canais Sensoriais]]
 - [[Mindfulness]]
+- [[Lei da Polaridade]]
 
 **Leste: oposto**
 
