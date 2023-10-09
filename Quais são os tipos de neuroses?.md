@@ -17,6 +17,12 @@
 3. **Neuroses narcísicas**: resultantes do conflito entre o [[Ego]] e o [[SuperEgo]]. [[O que são estratégias de autoproteção?]]
 	1. A pessoa sofre com sentimento de inadequação e exílio do mundo.
 	2. A melancolia, prima da angústia, foi definida por Freud como neurose narcísica, pois o melancólico não consegue se identificar com o outro. É o que a minha avó faz. [[Existem 4 lugares proibidos]].
+4. **Neurose obsessiva**: caracterizado por ideias compulsivas que tomam conta da pessoa, como de limpeza e de perigo.
+	1. A pessoa fica sempre alerta para situações que lhe trazem desejo de compulsão. É o caso da hipocondria e do transtorno obsessivo compulsivo (TOC).
+5. **Neurose fóbica**: presença de uma fobia ou medo de locais, objetos, situações e pessoas.
+	1. Comportamentos de esquiva, isolamento social e de fuga são comuns.
+	2. É constante o desejo de se livrar da situação indesejada.
+	3. É o medo persistente e recorrente a um determinado objeto ou circunstância que desencadeia uma forte 
 
 ###### **COMO:**
 
