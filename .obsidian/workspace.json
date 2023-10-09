@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60f0764c52dd58bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como fazer desligamento emocional?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ed86ab001973b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A psicanálise é, em si, uma cura pelo amor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são os tipos de neuroses?.md",
+                "file": "Como fazer desligamento emocional?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são os tipos de neuroses?.md",
+                "file": "Como fazer desligamento emocional?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são os tipos de neuroses?.md"
+                "file": "Como fazer desligamento emocional?.md"
               }
             }
           },
@@ -220,10 +244,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bba938feb8276597",
+  "active": "60f0764c52dd58bf",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que são neuroses?.md",
     "Quais são os tipos de neuroses?.md",
+    "Como fazer desligamento emocional?.md",
+    "A psicanálise é, em si, uma cura pelo amor.md",
+    "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Topics/Ferramenta dos 5 Porquês.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
@@ -248,8 +274,6 @@
     "2. Literature Notes/Topics/As pessoas que você mais ama não conhecem você de verdade.md",
     "2. Literature Notes/Topics/A vida é um filme.md",
     "2. Literature Notes/Topics/estamos vivendo em um sonho criado por nós mesmos.md",
-    "2. Literature Notes/Topics/O ser humano não vê a Verdade, vê apenas um reflexo, como em um espelho..md",
-    "2. Literature Notes/Topics/Sua felicidade depende de você e de como você usa a palavra. Seja impecável com a sua palavra.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
