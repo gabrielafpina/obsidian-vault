@@ -14,6 +14,9 @@
 	3. Na teoria freudiana, esse é um passo necessário para o processo de cura. Esse é o processo de transferência positiva, em que ela pode transferir para o analista, ou para outra pessoa, sentimentos positivos que antes eram negativos.
 		1. O processo de cura é quando a pessoa começa a desmascarar o ego dela e começa a identificar que os objetos presentes não são os do passado, ela trabalha os objetos do passado e passa a se sentir melhor consigo mesmo. [[A psicanálise é, em si, uma cura pelo amor]]
 		2. [[Como fazer desligamento emocional?]]
+3. **Neuroses narcísicas**: resultantes do conflito entre o [[Ego]] e o [[SuperEgo]]. [[O que são estratégias de autoproteção?]]
+	1. A pessoa sofre com sentimento de inadequação e exílio do mundo.
+	2. A melancolia, prima da angústia, foi definida por Freud como neurose narcísica, pois o melancólico não consegue se identificar com o outro. É o que a minha avó faz. [[Existem 4 lugares proibidos]].
 
 ###### **COMO:**
 

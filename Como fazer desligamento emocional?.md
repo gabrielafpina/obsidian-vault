@@ -1,13 +1,13 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** curso de [[Psicanálise]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É possível fazer com:
-1. Ódio: você esquece a pessoa, mas perma
-2. Desprezo
-3. Amor
+É possível fazer com amor. É uma esquizofrenia achar que dá para fazer com ódio e desprezo, porque permanece a dor:
+1. **Ódio**: você esquece a pessoa, mas permanece o ódio.
+2. **Desprezo**: aqui, você não quer a pessoa, mas também permanece o desprezo
+3. **Amor**: só o amor, verdadeiramente cura. [[O amor é a cura]]. É importante me preencher de mim mesmo para permitir que o outro se vá.
 
 ###### **COMO:**
 

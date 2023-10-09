@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neuros",
+                "query": "estratégia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como fazer desligamento emocional?.md",
+                "file": "Quais são os tipos de neuroses?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como fazer desligamento emocional?.md",
+                "file": "Quais são os tipos de neuroses?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como fazer desligamento emocional?.md"
+                "file": "Quais são os tipos de neuroses?.md"
               }
             }
           },
@@ -244,10 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60f0764c52dd58bf",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Quais são os tipos de neuroses?.md",
     "Como fazer desligamento emocional?.md",
+    "Quais são os tipos de neuroses?.md",
     "A psicanálise é, em si, uma cura pelo amor.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
