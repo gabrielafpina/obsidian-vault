@@ -27,6 +27,10 @@
 7. **Neurose histérica**: relacionado ao desejo de chamar atenção e de conquistar a piedade alheia, ou a pacientes que são incapazes de encontrar a verdadeira causa de suas frustrações. 
 	1. Ao estudar a neurose, Freud notou também a frequência maior nas mulheres.
 	2. Defendia que pacientes que apresentavam histeria tinham sofrido algum abuso sexual.
+8. **Neurose de fracasso**: sofrimento derivado de consecutivas situações de fracasso. [[Os 5V´s para combater a Autossabotagem]]
+	1. Fracassos derivam de [[crenças]] que a pessoa tem.
+9. **Neurose do destino**: repetição de situações infelizes, muitas vezes causadas pelos próprios indivíduos. [[Roda de Samsara]]
+	1. As pessoas não percebem que estão causando essa repetição por estarem alheias aos seus próprios comportamentos.
 
 ###### **COMO:**
 
