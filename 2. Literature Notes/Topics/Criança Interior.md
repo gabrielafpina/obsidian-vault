@@ -9,7 +9,7 @@ A criança interior é um componente essencial de nosso [[Inconsciente]]. Ela ab
 
 São sobretudo as influências negativas que nos causam problemas quando adultos, pois a criança em nós faz de tudo para que as mágoas e as dores sofridas na infância não se repitam. Ao mesmo tempo, ela continua em sua busca pela segurança e pelo reconhecimento que não teve. 
 
-Os medos e os desejos atuam ativamente nas profundezas da nossa [[Consciência]]. No nível [[Consciente]], somos adultos independentes levando nossa vida, mas, no nível inconsciente, nossa criança interior tem grande influência sobre nossa percepção, nossa maneira de sentir, de agir e de pensar.
+Os medos e os desejos atuam ativamente nas profundezas da nossa [[Consciência]]. No nível [[Consciente]], somos adultos independentes levando nossa vida, mas, no nível inconsciente, nossa criança interior tem grande influência sobre nossa percepção, nossa maneira de sentir, de agir e de pensar. É algo muito mais forte que nosso intelecto, aliás. Já foi comprovado pela ciência que o inconsciente é uma instância psíquica extremamente poderosa, determinando entre 80% e 90% de tudo que fazemos e vivenciamos. 
 
 É somente quando conhecemos nossa criança interior e a acolhemos é que nos abrimos para descobrir os profundos anseios e cicatrizes que trazemos dentro de nós. 
 

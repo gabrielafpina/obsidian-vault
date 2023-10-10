@@ -43,9 +43,33 @@
         "currentTab": 2
       },
       {
-        "id": "43e3d7cfc0f394d3",
+        "id": "d0abf965b4e24b9e",
         "type": "tabs",
         "children": [
+          {
+            "id": "d6f66409ad41a3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a confiança básica?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9297dce77cad6cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a criança-sombra?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "10b1e08c202bde11",
             "type": "leaf",
@@ -58,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,8 +273,11 @@
   },
   "active": "60fd1c3a427611a3",
   "lastOpenFiles": [
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "2. Literature Notes/Topics/O que é a confiança básica?.md",
+    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/Criança Interior.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Testes/DISC.md",
@@ -275,9 +303,6 @@
     "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "2. Literature Notes/Topics/A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
-    "2. Literature Notes/Topics/O seu melhor é, na verdade, a única coisa que você pode fazer.md",
-    "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
-    "2. Literature Notes/Topics/Tudo que você acha que sabe sobre você é uma superstição.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
