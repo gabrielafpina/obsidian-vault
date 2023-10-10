@@ -1,7 +1,7 @@
 **TÓPICOS ABORDADOS:**
 1. Criança interior
 	1. [[O que é a confiança básica?]]
-		1. Cuidado com a autpenganação
+		1. Cuidado com a autoenganação
 		2. [[Quem não tem um lar dentro de si tampouco vai encontrá-lo no mundo exterior.]]
 	2. [[Criança Interior]]: o que é?
 		1. Uma vez que a conhecemos, fica evidente que em muitas discussões não são adultos tentando solucionar juntos um conflito, mas crianças interiores se estapeando.
@@ -23,3 +23,9 @@
 	3. [[O que é a Ferida Emocional da Humilhação?]]
 	4. [[O que é a Ferida Emocional da Traição?]]
 	5. [[O que é a Ferida Emocional da Injustiça?]]
+
+**SLIDES**
+1. Título: Criança interior e feridas emocionais
+
+2. Título: Confiança Básica
+Corpo: É quando nos sentimos seguros no mundo e na vida que levamos e confiamos em nós mesmos e nos outros. 
