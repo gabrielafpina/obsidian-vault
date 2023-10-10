@@ -59,10 +59,20 @@ Abarca todas as influências positivas e todos os sentimentos bons, representand
 
 8. Ferida Emocional da Rejeição
 - Genitor do mesmo sexo
-- Corpo pode apresentar sinais de tensão e rigidez, manifestando-se através de posturas defensivas e fechadas.
+- Corpo é estreito e contraído
 - Medo de se expor, evitar relacionamentos íntimos, dificuldade em confiar nos outros e tendência a se auto sabotar.
 - Baixa autoestima, sensibilidade ao julgamento alheio, necessidade constante de aprovação e dificuldade em lidar com críticas.
 
 9. Ferida Emocional do Abandono
 - Genitor do sexo oposto
-- Relacionada ao sentimento de ser deixado de lado, de não ser cuidado ou amado.
+- Corpo esguio, magro e apático.
+- Tendência a se tornar uma "vítima". Dificuldade em tomar decisões sem a aprovação dos outros. Medo da solidão. Pode parecer preguiçoso e precisa da presença de alguém ao seu lado.
+- Pode usar manipulação e chantagem emocional, assim como ter altos e baixos emocionais
+
+10. Ferida Emocional da Humilhação
+- Geralmente com a mãe
+- Corpo grande, muitas vezes com excesso de peso, como uma forma de esconder sua vergonha.
+- Dificuldade em expressar suas necessidades e sentimentos. Ele também pode ser hipersensível e focar muito nas necessidades dos outros, negligenciando as próprias.
+- Frequentemente se coloca em situações que limitam sua liberdade, como assumir muitas responsabilidades
+
+11. Ferida Emocional da Traição
