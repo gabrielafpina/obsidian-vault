@@ -81,9 +81,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d16cbc11fb312867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md"
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md"
               }
             }
           },
@@ -271,11 +283,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "10b1e08c202bde11",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
+    "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
+    "2. Literature Notes/Topics/por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
+    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+    "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/Criança Interior.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
@@ -298,11 +314,7 @@
     "2. Literature Notes/Topics/Temos uma tendência de nos apegar à doença conhecida, ao invés de conhecer a saúde desconhecida.md",
     "2. Literature Notes/Topics/Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
     "2. Literature Notes/Topics/Tudo é neutro. As coisas tem o peso que eu dou.md",
-    "2. Literature Notes/Topics/O sentido da minha vida é o sentido que eu dou para ela.md",
-    "2. Literature Notes/Topics/Lei do Distanciamento.md",
-    "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-    "2. Literature Notes/Topics/A maioria das suposições não é verdadeira; é uma ficção. Portanto, não tire conclusões..md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
