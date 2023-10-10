@@ -26,45 +26,14 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d0abf965b4e24b9e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6f66409ad41a3ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a confiança básica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "9297dce77cad6cf5",
+            "id": "540e6f70cb815e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a criança-sombra?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10b1e08c202bde11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+                "file": "O que é a Ferida Emocional da Rejeição?.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +99,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 69.96996996996997,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "f86c735e844ed812",
@@ -151,7 +120,7 @@
             }
           },
           {
-            "id": "23b7b83c99d69568",
+            "id": "af74ad4f36e89bed",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -159,7 +128,7 @@
             }
           },
           {
-            "id": "89eaf948a70e7591",
+            "id": "d875e02137a5ec00",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -171,7 +140,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 30.03003003003003,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "34bc9bc63f694fbd",
@@ -179,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "O que é a Ferida Emocional da Rejeição?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "O que é a Ferida Emocional da Rejeição?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md"
+                "file": "O que é a Ferida Emocional da Rejeição?.md"
               }
             }
           },
@@ -235,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +226,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60fd1c3a427611a3",
+  "active": "f86c735e844ed812",
   "lastOpenFiles": [
+    "Captura de Tela 2023-10-10 às 16.54.45.png",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
-    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
     "2. Literature Notes/Topics/É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
@@ -287,8 +257,6 @@
     "2. Literature Notes/Topics/Lei do Gênero.md",
     "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
     "2. Literature Notes/Topics/Temos uma tendência de nos apegar à doença conhecida, ao invés de conhecer a saúde desconhecida.md",
-    "2. Literature Notes/Topics/Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
-    "2. Literature Notes/Topics/Tudo é neutro. As coisas tem o peso que eu dou.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
