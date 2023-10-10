@@ -239,14 +239,14 @@
 	- Coragem
 - **10 Valores de Vida mais importantes**
 	1. Consciência
-	3. Amor-próprio
-	4. LIBERDADE
+	2. Amor-próprio
+	3. LIBERDADE
+	4. Leveza e bom-humor
 	5. Crescimento e desenvolvimento pessoal constante (Lifelong learning)
-	6. Leveza e bom-humor
-	7. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
-	8. Sabedoria
-	9. Entusiasmo e tesão pelo que faço
-	10. Comunicação inspiradora e empoderadora
+	6. Criação e compartilhamento (de ideias, projetos, produtos, conteúdo)
+	7. Sabedoria
+	8. Entusiasmo e tesão pelo que faço
+	9. Comunicação inspiradora e empoderadora
 ![[Frame 1.png]]
 
 ###### Papéis na Sociedade

@@ -37,9 +37,10 @@ Os altos "I" são voltados para as pessoas, gostam de participar de equipes, de 
 
 As pessoas com alto "I" precisam ter cuidado com o controle do tempo e das suas emoções, além de tentarem ser mais realistas. Elas são impulsivas nas tomadas de decisões, compartilham informações com facilidade e falam mais do que escutam. Delegam com facilidade, mas não gostam de controlar os outros.
 
-
+**Para explorar o seu potencial, o “I” requer:**
 - Tomar decisões objetivas.
 - Ser mais realista ao elogiar os outros.
 - Utilizar gerenciamento “mão na massa”.
 - Criar prioridades e prazos.
-- Controlar o tempo, se a dimensão “D” ou  <br>  “S” for baixa.|• Ser mais firme com os demais, se a  <br>  dimensão “D” for baixa.|
+- Controlar o tempo, se a dimensão “D” ou “S” for baixa.
+- Ser mais firme com os demais, se a dimensão “D” for baixa.
