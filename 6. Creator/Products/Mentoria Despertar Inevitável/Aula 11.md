@@ -54,5 +54,15 @@ Abarca todas as influências positivas e todos os sentimentos bons, representand
 7. Título: Necessidades Emocionais Básicas
 1. Conexão: necessidade de se relacionar e se conectar com outras pessoas desde o nascimento até a morte.
 2. Autonomia e Controle: necessidade de ser independente, ter controle sobre si mesmo e se desenvolver para não depender mais dos cuidados dos pais.
-3. Prazer ou Evitar Prazer
-4. Autonomia e Reconhecimento
+3. Prazer ou Evitar Prazer: necessidade de buscar o prazer e evitar o desprazer, aprendendo a regular as sensações de prazer e desprazer.
+4. Autonomia e Reconhecimento: necessidade de ser reconhecido e valorizado pelos outros, estabelecendo vínculos e desenvolvendo uma autoestima saudável.
+
+8. Ferida Emocional da Rejeição
+- Genitor do mesmo sexo
+- Corpo pode apresentar sinais de tensão e rigidez, manifestando-se através de posturas defensivas e fechadas.
+- Medo de se expor, evitar relacionamentos íntimos, dificuldade em confiar nos outros e tendência a se auto sabotar.
+- Baixa autoestima, sensibilidade ao julgamento alheio, necessidade constante de aprovação e dificuldade em lidar com críticas.
+
+9. Ferida Emocional do Abandono
+- Genitor do sexo oposto
+- Relacionada ao sentimento de ser deixado de lado, de não ser cuidado ou amado.
