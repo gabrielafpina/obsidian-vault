@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "criança interior",
+                "query": "pertencimento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -271,12 +271,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60fd1c3a427611a3",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
-    "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
+    "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/Criança Interior.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
