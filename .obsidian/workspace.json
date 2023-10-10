@@ -23,16 +23,24 @@
             "id": "bba938feb8276597",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "60fd1c3a427611a3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disc",
+                "query": "criança interior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md"
               }
             }
           },
@@ -221,28 +228,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bba938feb8276597",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
+    "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Testes/DISC.md",
-    "WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
-    "Captura de Tela 2023-06-03 às 12.26.39.png",
-    "Quais são os tipos de neuroses?.md",
+    "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
+    "2. Literature Notes/Topics/Quais são os tipos de neuroses?.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/Princípio da Constância.md",
-    "Como fazer desligamento emocional?.md",
-    "A psicanálise é, em si, uma cura pelo amor.md",
+    "2. Literature Notes/Topics/Como fazer desligamento emocional?.md",
+    "2. Literature Notes/Topics/A psicanálise é, em si, uma cura pelo amor.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Topics/Ferramenta dos 5 Porquês.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "Frame 1.png",
+    "5. Shots, Images & PDFs/Frame 1.png",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "Lei do Gênero.md",
-    "Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
-    "Temos uma tendência de nos apegar à doença conhecida, ao invés de conhecer a saúde desconhecida.md",
-    "Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
-    "Tudo é neutro. As coisas tem o peso que eu dou.md",
-    "O sentido da minha vida é o sentido que eu dou para ela.md",
+    "2. Literature Notes/Topics/Lei do Gênero.md",
+    "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
+    "2. Literature Notes/Topics/Temos uma tendência de nos apegar à doença conhecida, ao invés de conhecer a saúde desconhecida.md",
+    "2. Literature Notes/Topics/Se eu tivesse que deixar um aprendizado para a vida, seria a leveza.md",
+    "2. Literature Notes/Topics/Tudo é neutro. As coisas tem o peso que eu dou.md",
+    "2. Literature Notes/Topics/O sentido da minha vida é o sentido que eu dou para ela.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/todos os conflitos resultam de mentiras.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
@@ -251,8 +260,6 @@
     "2. Literature Notes/Topics/Se uma informação não lhe pareça verdadeira, deixe-a. Se não for de Deus, ela não sobreviverá.md",
     "2. Literature Notes/Topics/Tudo que você acha que sabe sobre você é uma superstição.md",
     "2. Literature Notes/Topics/O inferno não é nada além de um sonho cheio de mentiras.md",
-    "2. Literature Notes/Topics/A história que criamos sobre as coisas não é Verdade, mas uma superstição. É uma mensagem distorcida, e conta uma mentira. Se não acreditarmos na mentira, não há problema.md",
-    "2. Literature Notes/Topics/Não levar nada para o lado pessoal te liberta da opinião dos outros.md",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
