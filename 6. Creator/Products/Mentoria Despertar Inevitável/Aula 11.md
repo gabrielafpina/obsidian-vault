@@ -76,3 +76,13 @@ Abarca todas as influências positivas e todos os sentimentos bons, representand
 - Frequentemente se coloca em situações que limitam sua liberdade, como assumir muitas responsabilidades
 
 11. Ferida Emocional da Traição
+- Genitor do sexo oposto
+- Grande preocupação com o corpo
+- Tendem a ser rápidas em suas ações e decisões. Elas querem ter controle sobre tudo e todos ao seu redor. São impacientes e interrompem os outros frequentemente.
+- Medo de compromisso, dificuldade em confiar, tendência a manipular e seduzir os outros, impaciência e intolerância à vulnerabilidade emocional.
+
+12. Ferida Emocional da Injustiça
+- Genitor do mesmo sexo
+- Corpo reto, empertigado e proporcional
+- Muito sensíveis, mas não mostram essa sensibilidade
+- Perfeccionismo, busca por justiça, dificuldade em relaxar e respeitar limites, sentimento de culpa facilmente.
