@@ -16,4 +16,10 @@
 	6.  [[O que é a criança-sombra?]]
 	7. [[O que é a criança-sol?]]
 	8. [[Quais são as 4 necessidades emocionais básicas?]] Sempre que sentimos estresse, angústia, raiva ou medo, o que está em jogo são nossas necessidades básicas. E às vezes não é só uma que não foi atendida, mas várias, até mesmo todas.
+	9. [[Meditação Guiada - Acolhendo sua criança interior]]
 2. Feridas emocionais
+	1. Rejeição
+	2. Abandono
+	3. Humilhação
+	4. Traição
+	5. Injustiça
