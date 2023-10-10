@@ -119,19 +119,18 @@
             }
           },
           {
-            "id": "d9673fa4f1b159c4",
+            "id": "8e1b32b6c383af1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a confiança básica?.md",
+                "file": "2. Literature Notes/Topics/Criança Interior.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       {
         "id": "6e79af1b82605bc0",
         "type": "tabs",
-        "dimension": 77.14285714285715,
+        "dimension": 77.14285714285714,
         "children": [
           {
             "id": "f86c735e844ed812",
@@ -212,7 +211,7 @@
             }
           },
           {
-            "id": "af74ad4f36e89bed",
+            "id": "cfdc5b7435202592",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -220,7 +219,7 @@
             }
           },
           {
-            "id": "d875e02137a5ec00",
+            "id": "0ac3e18350b1ed6e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -233,7 +232,7 @@
       {
         "id": "7f0480c584097b69",
         "type": "tabs",
-        "dimension": 22.857142857142858,
+        "dimension": 22.857142857142854,
         "children": [
           {
             "id": "34bc9bc63f694fbd",
@@ -320,10 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60fd1c3a427611a3",
+  "active": "0ac3e18350b1ed6e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é a confiança básica?.md",
+    "2. Literature Notes/Topics/Criança Interior.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
@@ -339,7 +339,6 @@
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "2. Literature Notes/Topics/O que é a criança-sombra?.md",
-    "2. Literature Notes/Topics/Criança Interior.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "3. Me, Myself and I/Testes/DISC.md",

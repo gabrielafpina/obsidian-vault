@@ -29,3 +29,13 @@
 
 2. Título: Confiança Básica
 Corpo: É quando nos sentimos seguros no mundo e na vida que levamos e confiamos em nós mesmos e nos outros. 
+Cuidado com o autoengano!
+
+3. Título: Criança interior
+- É um componente essencial de nosso Inconsciente
+- Abarca os medos, as preocupações e as adversidades que experimentamos desde o berço, mas também todas as influências positivas de nossa infância. 
+- Também é moldada pelas crenças internalizadas, que costumam ser as precursoras das emoções. 
+
+4. Título: Criança Interior e Ego Adulto
+Nossa personalidade tem várias partes: partes infantis e partes adultas, bem como níveis conscientes e inconscientes.
+- Criança interior: parte inconsciente, cunhada na infância, atrelado ao nosso emocion
