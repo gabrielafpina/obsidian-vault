@@ -38,4 +38,21 @@ Cuidado com o autoengano!
 
 4. Título: Criança Interior e Ego Adulto
 Nossa personalidade tem várias partes: partes infantis e partes adultas, bem como níveis conscientes e inconscientes.
-- Criança interior: parte inconsciente, cunhada na infância, atrelado ao nosso emocion
+- Criança interior: parte inconsciente, cunhada na infância, atrelado ao nosso emocional.
+- Ego adulto: abrange a parte sensata e racional da nossa mente (pensamentos), assume responsabilidades, faz planejamentos, age com antecedência, avalia riscos e controla a criança interior
+
+5. Título: Criança-Sombra
+Abarca nossas crenças negativas e os sentimentos opressivos que delas resultam, como tristeza, medo, desamparo e raiva.
+
+A criança-sombra é como uma criança real: quanto menos atenção recebe, mais atenção quer.
+
+6. título: Criança-Sol
+Abarca todas as influências positivas e todos os sentimentos bons, representando tudo que é inerente às crianças felizes. 
+
+É uma metáfora para a parte intacta da autoestima. 
+
+7. Título: Necessidades Emocionais Básicas
+1. Conexão: necessidade de se relacionar e se conectar com outras pessoas desde o nascimento até a morte.
+2. Autonomia e Controle: necessidade de ser independente, ter controle sobre si mesmo e se desenvolver para não depender mais dos cuidados dos pais.
+3. Prazer ou Evitar Prazer
+4. Autonomia e Reconhecimento
