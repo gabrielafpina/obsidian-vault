@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "8fd14bf0c0154b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meditação Guiada - Acolhendo sua criança interior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "513bd8bbd6381e90",
             "type": "leaf",
             "state": {
@@ -183,7 +195,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7f0480c584097b69",
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a Ferida Emocional da Injustiça?.md",
+                "file": "Meditação Guiada - Acolhendo sua criança interior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a Ferida Emocional da Injustiça?.md",
+                "file": "Meditação Guiada - Acolhendo sua criança interior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a Ferida Emocional da Injustiça?.md"
+                "file": "Meditação Guiada - Acolhendo sua criança interior.md"
               }
             }
           },
@@ -274,9 +287,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "513bd8bbd6381e90",
+  "active": "8fd14bf0c0154b40",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "Meditação Guiada - Acolhendo sua criança interior.md",
     "O que é a Ferida Emocional da Injustiça?.md",
     "O que é a Ferida Emocional da Traição?.md",
     "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
@@ -304,7 +318,6 @@
     "2. Literature Notes/Topics/Como fazer desligamento emocional?.md",
     "2. Literature Notes/Topics/A psicanálise é, em si, uma cura pelo amor.md",
     "2. Literature Notes/Topics/O que são neuroses?.md",
-    "2. Literature Notes/Topics/O que é o DISC?.md",
     "5. Shots, Images & PDFs/Frame 1.png",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
