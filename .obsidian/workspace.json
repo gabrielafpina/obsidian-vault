@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "320359469c42c8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5a38af6f505375a6",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d721397e1c2ee729",
@@ -231,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md"
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md"
               }
             }
           },
@@ -310,10 +323,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60fd1c3a427611a3",
+  "active": "320359469c42c8c9",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
