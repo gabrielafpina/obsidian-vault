@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d721397e1c2ee729",
@@ -232,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md"
               }
             }
           },
@@ -311,8 +310,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a38af6f505375a6",
+  "active": "60fd1c3a427611a3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
@@ -322,7 +322,6 @@
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Humilhação?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
-    "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Topics/O que é a criança-sol?.md",
     "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "2. Literature Notes/Topics/Criança Interior.md",
