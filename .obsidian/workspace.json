@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "82bfa4dfe33dbb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c47b13fd0c28e702",
             "type": "leaf",
             "state": {
@@ -268,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md"
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md"
               }
             }
           },
@@ -347,9 +359,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c47b13fd0c28e702",
+  "active": "82bfa4dfe33dbb92",
   "lastOpenFiles": [
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11.md",
+    "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Humilhação?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
@@ -358,7 +371,6 @@
     "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
     "2. Literature Notes/Topics/O que é a confiança básica?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
-    "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
     "2. Literature Notes/Topics/O que é a criança-sol?.md",
     "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "2. Literature Notes/Topics/Criança Interior.md",
