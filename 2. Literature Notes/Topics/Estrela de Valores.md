@@ -14,6 +14,10 @@ A que eu vou plugar o meu coração?
 
 1. Quais são os 10 valores que te fazem escolher alguém de melhor amigo? (Escolha muito bem quem você escolhe chamar de amigo)
 2. 10 valores para um emprego/projeto
+3. 20 valores de vida (valores que regem a minha tomada de decisão)
+4. 10 valores de vida mais importantes (na ordem)
+5. 10 papéis que desempenha na sociedade
+6. Desenho da estrela
 
 Tudo que você escrever na lista diz respeito a quem eu sou em algum nível.
 ###### **COMO:**
