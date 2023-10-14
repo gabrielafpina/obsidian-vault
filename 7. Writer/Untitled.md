@@ -86,11 +86,13 @@ ardor. Fervor. Louvor.
 Sou grata por sentir.
 É aqui que me sinto persistir
 à prisão que meu ego quer me fazer acreditar
-que é a vida e as relações.
+que é a vida e as relações amorosas.
 
 Não. É no amor 
 que encontro a paz.
 
 Agradeço ao meu ego pelo aprendizado
 está na hora de ir.
-Minha essência quer 
+Minha essência quer se soltar
+e amar,
+até seu último suspirar.
