@@ -81,3 +81,16 @@ A força mais poderosa do mundo
 A boca fala o que a alma está cheia.
 Estou cheia de amor,
 assim, de mim só sai 
+ardor. Fervor. Louvor.
+
+Sou grata por sentir.
+É aqui que me sinto persistir
+à prisão que meu ego quer me fazer acreditar
+que é a vida e as relações.
+
+Não. É no amor 
+que encontro a paz.
+
+Agradeço ao meu ego pelo aprendizado
+está na hora de ir.
+Minha essência quer 
