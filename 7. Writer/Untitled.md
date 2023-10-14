@@ -9,10 +9,9 @@ Apenas existia.
 Sobrevivia.
 
 Agora, amando, 
-percebo quão fácil é criar.
+percebo o quão fácil é criar.
 O que eu toco tem o potencial de voar.
-Não só o potencial.
-Já voou.
+Opa, já voou.
 
 É por isso mesmo:
 quando eu voo,
@@ -29,12 +28,13 @@ Um elogio. Um presente. Um carinho.
 ´Não quero incomodar´, ela disse.
 E ao dizer isso, passou a mensagem
 para o Universo de que não quer.
-Para alguns, receber é invadir.
 
-Condicionamento triste que foi embutido
-na mente daquela criança indefesa.
-Cresceu. Tornou-se adulto e se esqueceu.
-Que se não voar por conta própria irá afundar.
+Para alguns, receber é invadir.
+Condicionamento triste que foi infiltrado
+na mente da criança indefesa.
+
+Cresceu. Tornou-se adulta e se esqueceu.
+Que se não voar por conta própria, irá afundar.
 Na eterna mágoa que é se vitimizar.
 
 Graças a Deus eu aprendi.
@@ -42,5 +42,18 @@ A amar. Receber. Doar.
 Estou aprendendo.
 Sou uma eterna aprendiz.
 
-E o maior e melhor remédio que eu já provei
+E o maior e melhor remédio que eu já provei,
+que curou as dores da minha alma,
+é simples e tem quatro letras:
+AMOR.
+
+Amor é DEUS.
+Como é bom te encontrar
+e te venerar.
+Me apaixonar todos os dias
+pela existência, 
+que me nutre
+e me faz apaixonar diariamente, 
+pela alma doce que é o meu par.
+
 
