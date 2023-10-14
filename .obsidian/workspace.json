@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "7. Writer/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "7. Writer/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "7. Writer/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md"
+                "file": "7. Writer/Untitled.md"
               }
             }
           },
@@ -280,11 +280,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "82bfa4dfe33dbb92",
   "lastOpenFiles": [
+    "4. Templates/Writing Template.md",
+    "7. Writer/Untitled.md",
+    "2. Literature Notes/Topics/Estrela de Valores.md",
     "7. Writer",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "2. Literature Notes/Topics/Estrela de Valores.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11 - Criança Interior e Feridas Emocionais.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Traição?.md",
@@ -310,7 +312,6 @@
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
     "2. Literature Notes/Topics/Quais são os tipos de neuroses?.md",
-    "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "5. Shots, Images & PDFs/Frame 1.png",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
@@ -336,7 +337,6 @@
     "6. Creator/Branding",
     "Lei do 80",
     "6. Creator/Lives",
-    "Encontro TOP Membros 06",
-    "6. Creator/Products/Mentoria Individual"
+    "Encontro TOP Membros 06"
   ]
 }
