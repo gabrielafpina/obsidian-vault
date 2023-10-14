@@ -137,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -279,8 +280,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82bfa4dfe33dbb92",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "7. Writer",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11 - Criança Interior e Feridas Emocionais.md",
@@ -309,7 +311,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
     "2. Literature Notes/Topics/Quais são os tipos de neuroses?.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
-    "2. Literature Notes/Topics/Princípio da Constância.md",
     "5. Shots, Images & PDFs/Frame 1.png",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
