@@ -24,4 +24,23 @@ Se dentro tem magia, fora tem muita alegria.
 
 As bençãos fluem para você 
 quando você aprende a receber.
-Um elogio. Um presente. Um 
+Um elogio. Um presente. Um carinho.
+
+´Não quero incomodar´, ela disse.
+E ao dizer isso, passou a mensagem
+para o Universo de que não quer.
+Para alguns, receber é invadir.
+
+Condicionamento triste que foi embutido
+na mente daquela criança indefesa.
+Cresceu. Tornou-se adulto e se esqueceu.
+Que se não voar por conta própria irá afundar.
+Na eterna mágoa que é se vitimizar.
+
+Graças a Deus eu aprendi.
+A amar. Receber. Doar.
+Estou aprendendo.
+Sou uma eterna aprendiz.
+
+E o maior e melhor remédio que eu já provei
+
