@@ -56,4 +56,28 @@ que me nutre
 e me faz apaixonar diariamente, 
 pela alma doce que é o meu par.
 
+Queria que todos sentissem
+essa obra prima que me faz vibrar
+na mais alta frequência da iluminação,
+da expansão, da aceitação.
 
+A sorte é minha parceira de vida.
+Ela me encontra todos os dias pronta para a morte.
+De alguma parte minha que deve ir,
+para que as bençãos possam fluir.
+
+Me aceito como sou
+e me dedico para alterar
+tudo aquilo que à minh´alma
+já não serve mais.
+
+Solto a dor de não ter
+o amor e a dificuldade de receber.
+
+Agora compreendo.
+A força mais poderosa do mundo
+é aquela de ter um coração transbordando.
+
+A boca fala o que a alma está cheia.
+Estou cheia de amor,
+assim, de mim só sai 
