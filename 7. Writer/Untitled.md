@@ -2,11 +2,10 @@
 
 **ASSUNTO:**
 Criar é manifestar
-a beleza que é amar.
+o amor que faz vibrar.
 
-Antes de verdadeiramente amar, eu não estava viva. 
-Apenas existia.
-Sobrevivia.
+Antes de amar, eu não estava viva. 
+Sobrevivia em agonia.
 
 Agora, amando, 
 percebo o quão fácil é criar.
@@ -30,8 +29,8 @@ E ao dizer isso, passou a mensagem
 para o Universo de que não quer.
 
 Para alguns, receber é invadir.
-Condicionamento triste que foi infiltrado
-na mente da criança indefesa.
+Condicionamento triste que foi inserido
+na mente do pequeno que ainda não sabe decidir.
 
 Cresceu. Tornou-se adulta e se esqueceu.
 Que se não voar por conta própria, irá afundar.
