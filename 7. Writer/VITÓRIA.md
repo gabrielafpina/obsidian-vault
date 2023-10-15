@@ -30,3 +30,22 @@ uma vida no meu altar,
 o universo captava a informação
 que abundância eu não queria, não.
 
+Filha, você ainda não chegou.
+E já me ensinou
+que amar ultrapassa sonhar
+é a mais alta frequência que escolho vibrar.
+
+E não é qualquer amor.
+Sem condições e puro esplendor.
+Te amo sem te tocar, cheirar e ver.
+Só porque você é você.
+Não precisa nada fazer ou ter.
+Basta Ser.
+
+Vitória, espero também Ser
+a melhor Mãe para você.
+Sou nova e estou doida para aprender
+como é gerar um bebê.
+
+A você vou dar
+o melhor que tenho
