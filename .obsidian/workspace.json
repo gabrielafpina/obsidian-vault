@@ -149,7 +149,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,8 +199,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7f0480c584097b69",
@@ -268,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,8 +293,9 @@
   },
   "active": "82bfa4dfe33dbb92",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
+    "7. Writer/Criar é manifestar.md",
     "7. Writer/Untitled.md",
+    "2. Literature Notes/Topics/Mapa da Consciência.md",
     "4. Templates/Writing Template.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "7. Writer",
@@ -319,7 +321,6 @@
     "2. Literature Notes/Topics/É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 0 - Ego e Consciência.md",
-    "3. Me, Myself and I/Testes/DISC.md",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
     "5. Shots, Images & PDFs/Frame 1.png",
