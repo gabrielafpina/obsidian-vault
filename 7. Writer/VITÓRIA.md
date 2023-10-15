@@ -3,17 +3,16 @@
 **ASSUNTO:**
 Filha, quero me apresentar.
 A você, vou me doar.
-Assim, é importante se relacionar,
+É assim que quero nos conectar,
 para que juntas, possamos prosperar.
 
-Recentemente soube.
-Fechei meus olhos e te vi.
-Entrei em choque e quase quis fugir.
+Recentemente soube, fechei os olhos, te vi.
+Entrei em choque, quis fugir.
 Ao mesmo tempo, derreti.
 Quanto amor eu senti!
 
 Você mal chegou e eu já compreendi.
-Vitória, você é tudo que pedi.
+Vitória, você é o que sempre pedi.
 Só de pensar, já começo a chorar.
 Meu Deus, como é bom te amar!
 
@@ -28,7 +27,7 @@ Que a vida de mim corria,
 pois ao não aceitar a beleza de gerar
 uma vida no meu altar,
 o universo captava a informação
-que abundância eu não queria, não.
+que abundância eu não queria.
 
 Filha, você ainda não chegou.
 E já me ensinou
@@ -37,7 +36,7 @@ que amar ultrapassa sonhar
 
 E não é qualquer amor.
 Sem condições e puro esplendor.
-Te amo sem te tocar, cheirar e ver.
+Te amo sem te tocar, cheirar e enxergar.
 Só porque você é você.
 Não precisa nada fazer ou ter.
 Basta Ser.
@@ -45,7 +44,7 @@ Basta Ser.
 Vitória, espero também Ser
 a melhor Mãe para você.
 Sou nova e estou doida para aprender
-como é gerar um bebê.
+como é gerar um nenê.
 
 A mamãe quer te beijar.
 Os seus pézinhos acariciar,
