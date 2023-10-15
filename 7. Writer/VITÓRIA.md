@@ -47,5 +47,21 @@ a melhor Mãe para você.
 Sou nova e estou doida para aprender
 como é gerar um bebê.
 
-A você vou dar
-o melhor que tenho
+A mamãe quer te beijar.
+Os seus pézinhos acariciar,
+a sua bochechinha apertar
+e a sua bundinha mordiscar.
+
+E, filha, como é louco pensar
+que tão rápido você me colocou no meu lugar.
+Mal chegou e já me mostrou,
+a grande mestra que tu és.
+
+Sei que com você vou aprender.
+Um grande propósito vais vir a ter.
+Toda a Glória é sua, Vitória.
+Pode vir, que a mamãe quer te acolher
+e embalar em um grande abraço que vai me recordar
+o quanto é bom te reecontrar.
+
+Eu te amo, filha.
