@@ -10,7 +10,7 @@
 		1. Assim, vamo mudando o significado de 'ruim' para: lição aprendida, experiência adquirida, fortaleza de espírito, etc. [[Não existe fracasso. Tudo é feedback]]
 		2. O cliente vai saindo do lugar de vítima e assumindo a postura de protagonista de sua vida [[Existem 4 lugares proibidos]]
 2. **Desidentificação**
-	1. Criar novas identificações sadias com a liberação das máscaras do [[Ego]], limii
+	1. Criar novas identificações sadias com a liberação das máscaras do [[Ego]], limitativas, ultrapassadas ou patogênicas
 
 ###### **COMO:**
 
