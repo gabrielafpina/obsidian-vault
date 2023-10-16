@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
+                "file": "2. Literature Notes/Topics/É isso que o cliente desenvolve na psicanálise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Constância.md",
+                "file": "2. Literature Notes/Topics/É isso que o cliente desenvolve na psicanálise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Princípio da Constância.md"
+                "file": "2. Literature Notes/Topics/É isso que o cliente desenvolve na psicanálise.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bc7eef89b42e157",
+  "active": "615983b60c79d36e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Princípio da Constância.md",
     "2. Literature Notes/Topics/É isso que o cliente desenvolve na psicanálise.md",
     "7. Writer/VITÓRIA.md",
     "7. Writer/Criar é manifestar.md",
@@ -260,7 +261,6 @@
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Topics/por mais amorosos que sejam, os pais não são capazes de realizar todos os desejos da criança, pois também é preciso impor limites.md",
     "2. Literature Notes/Topics/É essencial que o ser humano aprenda a regular as sensações de prazer e desprazer. Isso significa que ele precisa aprender a tolerar a frustração, adiar recompensas e dominar impulsos.md",
-    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
     "5. Shots, Images & PDFs/Frame 1.png",
