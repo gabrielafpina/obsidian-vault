@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +269,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3b9c0d628e7162c",
+  "active": "4d9f1d40c706c79b",
   "lastOpenFiles": [
     "6. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
     "6. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
