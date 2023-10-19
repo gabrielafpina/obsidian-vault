@@ -49,7 +49,7 @@
 		1. Vídeos que conectam
 		2. Textos que engajam
 	2. Explicação didática, simples e objetiva
-	3. Conexão com as pessoas (consigo pegar na ferida delas e falar com elas de forma a serem compreendidas)
+	3. Conexão com as pessoas (consigo pegar na ferida e necessidade delas e falar com elas de forma a serem compreendidas)
 	4. Ressignifico situações dolorosas em aprendizado
 	5. Motivar e influenciar pessoas
 3. **O que o mundo precisa?**
