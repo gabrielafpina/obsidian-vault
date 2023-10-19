@@ -161,7 +161,7 @@
             }
           },
           {
-            "id": "cfdc5b7435202592",
+            "id": "2d413cbc442352d5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -169,14 +169,15 @@
             }
           },
           {
-            "id": "0ac3e18350b1ed6e",
+            "id": "e3b9c0d628e7162c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7f0480c584097b69",
@@ -245,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +268,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d9f1d40c706c79b",
+  "active": "e3b9c0d628e7162c",
   "lastOpenFiles": [
     "6. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
     "6. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
