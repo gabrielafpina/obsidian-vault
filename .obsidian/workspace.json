@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "e3a14aa58d32b678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "615983b60c79d36e",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estrela de valores",
+                "query": "raio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -280,8 +292,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87a83a72f1c9375b",
+  "active": "e3a14aa58d32b678",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Estrela de Valores.md",
     "6. Creator/Newsletter/05 -Quer mesmo ser o seu pior inimigo?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Newsletter/04 - Hoje é o dia que você para de ser corrupto.md",
@@ -295,7 +308,6 @@
     "7. Writer/Criar é manifestar.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
     "4. Templates/Writing Template.md",
-    "2. Literature Notes/Topics/Estrela de Valores.md",
     "7. Writer",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 11 - Criança Interior e Feridas Emocionais.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Injustiça?.md",
