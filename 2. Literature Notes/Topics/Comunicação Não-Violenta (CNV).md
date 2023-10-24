@@ -56,3 +56,4 @@ O praticante da CNV nunca concorda ou discorda. Ele fica longe da cabeça dos ou
 - [[O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não]]
 - [[Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência]]
 - [[Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer]]
+- [[Os sentimentos tem origem nas necessidades]]
