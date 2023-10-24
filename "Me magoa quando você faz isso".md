@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É um ato violento falar que outros vos fazem sentir da forma como se sentem.
+É um ato violento falar que outras pessoas te fazem sentir da forma como você se sente. Insinuar que os outros são capazes de te fazer sentir magoado ou zangado.
 
 ###### **COMO:**
 

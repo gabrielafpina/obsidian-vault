@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "\"Me magoa quando você faz isso\".md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "\"Me magoa quando você faz isso\".md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "\"Me magoa quando você faz isso\".md"
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
               }
             }
           },
@@ -294,12 +293,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc2d81048d3cfbbb",
+  "active": "e3a14aa58d32b678",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "\"Me magoa quando você faz isso\".md",
+    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "Não é possível ensinar nada a ninguém.md",
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
