@@ -223,8 +223,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md"
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
               }
             }
           },
@@ -412,10 +411,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f15b9e128924caf",
+  "active": "e3a14aa58d32b678",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "A comunicação não violenta me ajuda a me libertar da escravidão emocional.md",
     "A comunicação não violenta me ajuda a me manter conectado com a bela energia divina dentro de mim e a me conectar com ela nos outros..md",
     "Os sentimentos e necessidades do outro são uma dádiva.md",
