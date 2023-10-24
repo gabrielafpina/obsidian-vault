@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "comunicação não violenta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -339,7 +339,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a14aa58d32b678",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
