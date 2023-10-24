@@ -22,8 +22,6 @@ E ainda temos a pessoa que faz um julgamento ou um diagnóstico dos motivos pelo
 
 [["Observar sem avaliar é a mais elevada forma de inteligência humana."]]
 
-[[Todos os julgamentos são expressões trágicas de necessidades não atendidas]].
-
 É assim que avaliamos, em comunicação não-violenta: Avaliamos a partir do coração. Fazemos julgamentos, mas fazemos julgamentos que servem necessidades. Julgamos se o que as pessoas estão a fazer está a satisfazer necessidades ou não. Não julgamos moralmente as pessoas pelo que fizeram. Julgamos se está a servir a vida ou não, porque as necessidades são a nossa conexão directa com a vida. As necessidades são a expressão da busca da vida dentro de nós. [[Quais são as 4 necessidades emocionais básicas?]]
 
 Tenha cuidado com as palavras que são descrições de outras pessoas, ou seja, o que você pensa que elas estão fazendo com você, como te intimidar. [[Não confunda essas palavras com sentimentos]]
