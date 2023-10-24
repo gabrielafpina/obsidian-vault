@@ -18,6 +18,10 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 
 Os praticantes da CNV não ficam pensando no tipo de pessoa que são; eles pensam momento a momento - não "O que sou?", mas "Qual é a vida que está acontecendo em mim neste momento?"
 
+Os praticantes da CNV nunca querem a aprovação dos outros, nunca cedem esse poder nem querem que os outros lhes digam o que fazer. [[Como você funciona?]]
+
+O praticante da CNV nunca concorda ou discorda. Ele fica longe da cabeça dos outros. Entra no coração deles.
+
 [[A comunicação não violenta me ajuda a me manter conectado com a bela energia divina dentro de mim e a me conectar com ela nos outros.]]
 
 [[A comunicação não violenta me ajuda a me libertar da escravidão emocional]].
@@ -49,3 +53,4 @@ Os praticantes da CNV não ficam pensando no tipo de pessoa que são; eles pensa
 - [[Raiva é um sentimento criado por um pensamento não natural]]
 - [[Quando você fala que sente algo e logo após fala "porque penso...", isso te descredibiliza]]
 - [[Amor não é negar a si mesmo e fazer tudo pelo outro]]
+- [[O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não]]
