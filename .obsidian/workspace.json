@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4a8117e69e451d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c5c2bfb78f009a95",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md"
               }
             }
           },
@@ -339,11 +352,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "4a8117e69e451d48",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
     "O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
