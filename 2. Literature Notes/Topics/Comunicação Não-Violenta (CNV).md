@@ -31,3 +31,5 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 **Sul: para onde vai**
 - [[Você está pensando ou você está sendo pensado?]]
 - [[Não é possível ensinar nada a ninguém]]
+- [[O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?]]
+- - [["Me magoa quando você faz isso"]]
