@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b97310a2c20f3c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é falar como um chacal?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f454066b3caa422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md"
               }
             }
           },
@@ -208,8 +233,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a14aa58d32b678",
+  "active": "0f454066b3caa422",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
@@ -219,7 +245,6 @@
     "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
     "2. Literature Notes/Topics/Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me libertar da escravidão emocional.md",
