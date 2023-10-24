@@ -37,3 +37,4 @@ Está bem, eu perdoo-te."
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também]]

@@ -23,3 +23,4 @@ Girafa requer estar sempre consciente de escolha. Nunca fazemos nada que não es
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também]]

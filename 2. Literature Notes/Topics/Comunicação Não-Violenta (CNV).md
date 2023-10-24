@@ -12,6 +12,8 @@ O objetivo da CNV é sobre aprender o que você já sabe fazer, se comunicar. A 
 
 O que aconteceu é que criou-se um pensamento de que os seres humanos são inatamente maus. Esse é um pensamento selvagem, creditado pelo [[Senso Comum]]. Quando acreditamos nisso e as coisas passam a não acontecer como queremos, o processo corretivo é a penitência. Ou seja, a forma de corrigir isso, seria fazer as pessoas se odiarem pelo que elas fizeram. Assim, começamos a desenvolver a linguagem ***chacal***. [[O que é falar como um chacal?]] 
 
+[[Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também]]
+
 **COMO:**
 
 **PENSADORES:**
@@ -28,3 +30,4 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 
 **Sul: para onde vai**
 - [[Você está pensando ou você está sendo pensado?]]
+- [[Não é possível ensinar nada a ninguém]]
