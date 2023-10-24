@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "792b7e90abb1d671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98b096f504d87504",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Não confunda essas palavras com sentimentos.md",
+                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Não confunda essas palavras com sentimentos.md",
+                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Não confunda essas palavras com sentimentos.md"
+                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md"
               }
             }
           },
@@ -354,11 +366,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "decdd43f5f32f56a",
+  "active": "792b7e90abb1d671",
   "lastOpenFiles": [
-    "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
-    "Não confunda essas palavras com sentimentos.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+    "Não confunda essas palavras com sentimentos.md",
+    "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "Insultos não existem.md",
     "É inteligente tirar a \"culpa\" do seu vocabulário.md",
@@ -381,7 +394,6 @@
     "6. Creator/Newsletter/03 - Você está dormindo no ponto?.md",
     "2. Literature Notes/Topics/Untitled.md",
     "7. Writer/VITÓRIA.md",
-    "2. Literature Notes/Topics/A depressão é uma dádiva.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",

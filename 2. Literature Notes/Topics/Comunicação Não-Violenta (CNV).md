@@ -39,3 +39,4 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 - - [["Me magoa quando você faz isso"]]
 - [[Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro]]
 - [[Raiva é um sentimento criado por um pensamento não natural]]
+- [[Quando você fala que sente algo e logo após fala "porque penso...", isso te descredibiliza]]
