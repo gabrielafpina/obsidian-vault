@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "0b509a5ca03c92b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e5d23c7e048c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "615983b60c79d36e",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -201,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é se comunicar como uma girafa?.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é se comunicar como uma girafa?.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é se comunicar como uma girafa?.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
               }
             }
           },
@@ -280,11 +305,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "71e5d23c7e048c65",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os sabotadores?.md",
+    "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
+    "O que é se comunicar como uma girafa?.md",
     "O que é falar como um chacal?.md",
     "O que é Amtssprache?.md",
-    "O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
@@ -307,8 +334,6 @@
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Humilhação?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
-    "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
-    "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
