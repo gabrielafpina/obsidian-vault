@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "2d6e7efcb35d44ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aacce127562773f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ea8ddaa4b9cbfc4",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md"
               }
             }
           },
@@ -316,9 +341,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a14aa58d32b678",
+  "active": "efd54136f0aed1cc",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+    "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+    "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/Raiva é um sentimento criado por um pensamento não natural.md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
@@ -330,9 +357,7 @@
     "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
     "2. Literature Notes/Topics/Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md",
-    "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
-    "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me manter conectado com a bela energia divina dentro de mim e a me conectar com ela nos outros..md",
     "2. Literature Notes/Topics/Amor não é negar a si mesmo e fazer tudo pelo outro.md",
     "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
