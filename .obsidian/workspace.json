@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "98b096f504d87504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1b10056f4bdbc331",
             "type": "leaf",
             "state": {
@@ -44,36 +56,12 @@
             }
           },
           {
-            "id": "22d13e2a9f4c3919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Não é possível ensinar nada a ninguém.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2a2e23f558184f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f7a0826db26ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Marshall Rosenberg.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md"
               }
             }
           },
@@ -293,12 +282,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a14aa58d32b678",
+  "active": "98b096f504d87504",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "\"Me magoa quando você faz isso\".md",
     "2. Literature Notes/Topics/O que é falar como um chacal?.md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "Não é possível ensinar nada a ninguém.md",
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
@@ -320,7 +310,6 @@
     "2. Literature Notes/Topics/Princípio da Constância.md",
     "7. Writer/Criar é manifestar.md",
     "2. Literature Notes/Topics/Mapa da Consciência.md",
-    "4. Templates/Writing Template.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
