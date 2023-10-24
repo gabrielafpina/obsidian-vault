@@ -30,6 +30,7 @@ Está bem, eu perdoo-te."
 ---------
 
 **Oeste: similar**
+- [[O que é se comunicar como uma girafa?]]
 
 **Leste: oposto**
 

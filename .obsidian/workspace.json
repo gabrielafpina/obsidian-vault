@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "314a5b9adaa2dcfd",
+            "id": "f57d7601b402fa48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é Amtssprache?.md",
+                "file": "O que é se comunicar como uma girafa?.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Amtssprache?.md",
+                "file": "O que é se comunicar como uma girafa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Amtssprache?.md",
+                "file": "O que é se comunicar como uma girafa?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Amtssprache?.md"
+                "file": "O que é se comunicar como uma girafa?.md"
               }
             }
           },
@@ -281,10 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "314a5b9adaa2dcfd",
+  "active": "f57d7601b402fa48",
   "lastOpenFiles": [
     "O que é falar como um chacal?.md",
     "O que é Amtssprache?.md",
+    "O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
@@ -309,7 +310,6 @@
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
-    "2. Literature Notes/Topics/Autonomia equivale a controle, e controle equivale a segurança.md",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
