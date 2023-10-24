@@ -38,3 +38,4 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 - [[O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?]]
 - - [["Me magoa quando você faz isso"]]
 - [[Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro]]
+- [[Raiva é um sentimento criado por um pensamento não natural]]

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "decdd43f5f32f56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não confunda essas palavras com sentimentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a5181551f5f76d59",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "Não confunda essas palavras com sentimentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+                "file": "Não confunda essas palavras com sentimentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
+                "file": "Não confunda essas palavras com sentimentos.md"
               }
             }
           },
@@ -341,15 +354,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3a14aa58d32b678",
+  "active": "decdd43f5f32f56a",
   "lastOpenFiles": [
     "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
+    "Não confunda essas palavras com sentimentos.md",
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "Insultos não existem.md",
     "É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "\"Observar sem avaliar é a mais elevada forma de inteligência humana.\".md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "\"Me magoa quando você faz isso\".md",
     "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "Não é possível ensinar nada a ninguém.md",
@@ -368,7 +382,6 @@
     "2. Literature Notes/Topics/Untitled.md",
     "7. Writer/VITÓRIA.md",
     "2. Literature Notes/Topics/A depressão é uma dádiva.md",
-    "2. Literature Notes/Topics/Depressão é a saudade de nós mesmos.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
