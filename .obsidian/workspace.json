@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ac98b94233325a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0aee5e807a9e008a",
             "type": "leaf",
             "state": {
@@ -285,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
+                "file": "Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
+                "file": "Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md"
+                "file": "Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md"
               }
             }
           },
@@ -364,9 +376,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0aee5e807a9e008a",
+  "active": "ac98b94233325a1a",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "Não importa em que estrutura estiver inserido, nunca perca a noção de que você é livre para escolher o que quer fazer.md",
     "Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
     "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
@@ -391,7 +404,6 @@
     "2. Literature Notes/People/Marshall Rosenberg.md",
     "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
