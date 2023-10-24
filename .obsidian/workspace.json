@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a5181551f5f76d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e0c17416c23e211",
             "type": "leaf",
             "state": {
@@ -139,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md"
+                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md"
               }
             }
           },
@@ -330,14 +341,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98b096f504d87504",
+  "active": "e3a14aa58d32b678",
   "lastOpenFiles": [
+    "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
+    "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "Insultos não existem.md",
     "É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
-    "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "\"Observar sem avaliar é a mais elevada forma de inteligência humana.\".md",
-    "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "\"Me magoa quando você faz isso\".md",
     "2. Literature Notes/Topics/O que é falar como um chacal?.md",

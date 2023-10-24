@@ -5,6 +5,14 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Trágica no sentido de que... por duas razões. Primeiro, diminui a probabilidade de conseguirmos o que queremos.
+
+Mesmo que não o digamos em voz alta, mesmo que o pensemos, mesmo que estejamos a pensar que o que alguém faz é errado, diminui a probabilidade de conseguirmos o que queremos. 
+
+E segundo, aumenta a probabilidade de violência.
+
+Qualquer coisa que queiramos dizer que implique erro por parte da outra pessoa é uma expressão trágica, suicida, de uma necessidade não satisfeita. Diga a necessidade. Aprenda a ter consciência das necessidades. [[Quais são as 4 necessidades emocionais básicas?]]
+
 [[Todo julgamento é uma confissão]].
 
 **COMO:**

@@ -14,7 +14,11 @@ O que aconteceu é que criou-se um pensamento de que os seres humanos são inata
 
 [[Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também]]
 
-**COMO:**
+**ESTRUTURA:**
+1. Observação
+2. Sentimentos
+3. Necessidades
+4. Pedido que vá elevar a sua vida
 
 **PENSADORES:**
 
