@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fb34dc5bb1809430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b97310a2c20f3c60",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
+                "file": "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
+                "file": "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md"
+                "file": "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md"
               }
             }
           },
@@ -233,10 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f454066b3caa422",
+  "active": "fb34dc5bb1809430",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
+    "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
+    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
     "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
     "2. Literature Notes/Topics/Raiva é um sentimento criado por um pensamento não natural.md",
@@ -258,7 +271,6 @@
     "2. Literature Notes/Topics/É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "2. Literature Notes/Topics/O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "2. Literature Notes/Topics/\"Observar sem avaliar é a mais elevada forma de inteligência humana.\".md",
-    "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
     "2. Literature Notes/Topics/Não é possível ensinar nada a ninguém.md",
     "2. Literature Notes/People/Marshall Rosenberg.md",
     "7. Writer",
