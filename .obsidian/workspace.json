@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "66377f3897797964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "98b096f504d87504",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inteligência positiva",
+                "query": "verbo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,13 +234,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -287,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+                "file": "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+                "file": "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md"
+                "file": "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md"
               }
             }
           },
@@ -366,10 +376,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "792b7e90abb1d671",
+  "active": "66377f3897797964",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
+    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "Não confunda essas palavras com sentimentos.md",
     "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
