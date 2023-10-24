@@ -54,3 +54,4 @@ O praticante da CNV nunca concorda ou discorda. Ele fica longe da cabeça dos ou
 - [[Quando você fala que sente algo e logo após fala "porque penso...", isso te descredibiliza]]
 - [[Amor não é negar a si mesmo e fazer tudo pelo outro]]
 - [[O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não]]
+- [[Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência]]
