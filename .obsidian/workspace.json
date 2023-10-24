@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insultos não existem.md",
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insultos não existem.md",
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insultos não existem.md"
+                "file": "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md"
               }
             }
           },
@@ -330,10 +330,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ce0182a79522d37",
+  "active": "98b096f504d87504",
   "lastOpenFiles": [
-    "É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "Insultos não existem.md",
+    "É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
     "\"Observar sem avaliar é a mais elevada forma de inteligência humana.\".md",
