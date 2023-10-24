@@ -10,7 +10,9 @@ Temos sido tão treinados a pensar dessa forma que, por vezes, não conseguimos 
 
 Quando você também diz o que acha que o outro pensa, isso significa estar fazendo uma avaliação  baseada no que você acha que se se passa na cabeça dele. [[Se você acha, você não tem certeza. Então, você não sabe]]. 
 
-E ainda temos a pessoa que faz um julgamento ou um diagnóstico dos motivos pelos quais o outro fez o que fez.
+E ainda temos a pessoa que faz um julgamento ou um diagnóstico dos motivos pelos quais o outro fez o que fez. Mesmo que seja exato, é um diagnóstico dos motivos da outra pessoa; não é um comportamento observável. [[Todos os julgamentos são expressões trágicas de necessidades não atendidas]].
+
+[["Observar sem avaliar é a mais elevada forma de inteligência humana."]]
 
 ###### **COMO:**
 
