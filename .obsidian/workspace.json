@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comunicação não ",
+                "query": "inteligência positiva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,7 +280,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f57d7601b402fa48",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "O que é falar como um chacal?.md",
     "O que é Amtssprache?.md",
