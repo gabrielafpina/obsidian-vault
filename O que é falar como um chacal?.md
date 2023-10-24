@@ -9,7 +9,19 @@ Essa forma de comunicação nos desliga da vida e torna-se muito fácil ser viol
 É quando a sociedade passa a fazer da violência algo agradável dentro da cultura e educados de uma forma em que podemos mesmo ser violentos para os nossos filhos.
 
 ###### **COMO FUNCIONA:**
-Essa é a linguagem de julgamentos moralistas. Funciona em termos de 
+Essa é a linguagem de ==julgamentos moralistas==. Funciona em termos de quem está certo, quem está errado, quem é bom, quem é mau.
+
+O chacal, basicamente, pensa em termos de *certo ou errado, bom ou mal, normal ou anormal*.
+
+***Como se obtém mudança no sistema chacal?***
+Punição.
+"Pede desculpa. 
+Desculpa. 
+Não estás realmente arrependido. Eu estou-te a ver, não estás mesmo arrependido. 
+(choro) Desculpa. 
+Está bem, eu perdoo-te."
+
+[[O que é Amtssprache?]]
 
 ###### **PENSADORES:**
 
