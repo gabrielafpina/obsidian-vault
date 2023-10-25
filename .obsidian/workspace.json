@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4db2db784f52700d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -128,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
+                "file": "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
+                "file": "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md"
+                "file": "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md"
               }
             }
           },
@@ -207,8 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a727e5f3625f0781",
+  "active": "4db2db784f52700d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
+    "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
     "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
@@ -233,8 +249,6 @@
     "2. Literature Notes/Topics/É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "2. Literature Notes/Topics/O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "2. Literature Notes/Topics/\"Observar sem avaliar é a mais elevada forma de inteligência humana.\".md",
-    "2. Literature Notes/Topics/Não é possível ensinar nada a ninguém.md",
-    "2. Literature Notes/People/Marshall Rosenberg.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
