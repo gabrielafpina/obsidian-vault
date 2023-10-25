@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3a14aa58d32b678",
+            "id": "a727e5f3625f0781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6e7efcb35d44ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aacce127562773f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea8ddaa4b9cbfc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd54136f0aed1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87020cde45f7ac89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Raiva é um sentimento criado por um pensamento não natural.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8e8830ce37e6fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f850a139dab400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a022f68ab1800b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me libertar da escravidão emocional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb34dc5bb1809430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b97310a2c20f3c60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é falar como um chacal?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f454066b3caa422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "penso",
+                "query": "característi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md"
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md"
               }
             }
           },
@@ -341,11 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aacce127562773f8",
+  "active": "a727e5f3625f0781",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
-    "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
     "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
     "2. Literature Notes/Topics/Raiva é um sentimento criado por um pensamento não natural.md",
