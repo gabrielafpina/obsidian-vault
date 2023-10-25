@@ -20,4 +20,12 @@ ansiedade: olha que essa voz ai tá mentindo. você não é isso não, você sou
 Consciência: é muito desafiador quando você acredita no que a ansiedade tem para te falar. eu quero te dizer uma coisa: a mente, mente. enquanto você se identificar com essa voz que você ouve na sua cabeça que constantemente te critica, você vai sofrer. seria uma decisão muito inteligente você se aprofundar em como pode desenvolver inteligência emocional;
 ansiedade: esquece isso. você não precisa de inteligência emocional.
 pessoa (refletindo sobre isso)
-Consciência: e eu quero te dizer que você sempre pode acessar a mim, a sua sabedoria interna. eu sou a bússola que guio as suas decisões mais inteligentes
+Consciência: e eu quero te dizer que você sempre pode acessar a mim, a sua sabedoria interna. eu sou a bússola que guio as suas decisões mais inteligentes. sabe a sua intuição? eu sou responsável por ela.
+ansiedade: cala a sua boca! você já está indo longe demais;
+Consciência: o grande ponto (falando bem baixinho) é que para me acessar, você precisa aprender a gerenciar a voz da ansiedade que habita dentro de você. A ansiedade grita. Eu falo sussurando.
+Ansiedade: eu grito mesmo! E vou começar a gritar aqui, hein?
+consciência: é importante você aprender a se manter em estado de presença e se lembrar que você sempre pode tirar o poder da ansiedade.
+Ansiedade: ah, não. Por favor, não fala o segredo.
+Pessoa (com cara de interesse)
+Consciência: para me trazer a tona e dizer adeus à ansiedade você precisa parar, se conectar e respirar. E se recordar disso, que é a chave: a voz que você ouve na sua cabeça faz parte de quem você é, mas não é você. 
+Pessoa: como eu faço pra desenvolver presença? me direciona!
