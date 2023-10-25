@@ -27,6 +27,7 @@ Uma pessoa conversando com a ansiedade e se depara com a informação de que ela
 <mark style="background: #BBFABBA6;">Ansiedade</mark>: ah, não. Por favor, não fala o segredo.
 <mark style="background: #FFB86CA6;">Pessoa</mark> (com cara de interesse)
 ==Consciência==: para me trazer a tona e dizer adeus à ansiedade você precisa parar, se conectar e respirar. E se recordar disso, que é a chave: a voz que você ouve na sua cabeça faz parte de quem você é, mas não é você. 
+<mark style="background: #BBFABBA6;">Ansiedade</mark>: acabou pra mim.
 <mark style="background: #FFB86CA6;">Pessoa</mark>: como eu faço pra desenvolver presença? me direciona!
 ==Consciência== (IG): comenta aqui ´presença´, que você vai receber um presente.
 ==Consciência== (Tiktok): clica no link da bio.
