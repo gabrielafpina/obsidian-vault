@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
+                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md"
               }
             }
           },
@@ -256,8 +255,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "a727e5f3625f0781",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
@@ -283,7 +283,6 @@
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "2. Literature Notes/Topics/Não confunda essas palavras com sentimentos.md",
     "2. Literature Notes/Topics/Insultos não existem.md",
-    "2. Literature Notes/Topics/É inteligente tirar a \"culpa\" do seu vocabulário.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
