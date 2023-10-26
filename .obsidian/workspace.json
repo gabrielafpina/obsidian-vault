@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
+                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
+                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como os sabotadores são formados?.md"
+                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md"
               }
             }
           },
@@ -244,8 +244,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc1b247ac19e9314",
+  "active": "2d8d9eb5d9934860",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Como seria ter uma conversa com a ansiedade?.md",
     "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
@@ -271,7 +272,6 @@
     "2. Literature Notes/Topics/Não confunda essas palavras com sentimentos.md",
     "2. Literature Notes/Topics/Insultos não existem.md",
     "2. Literature Notes/Topics/É inteligente tirar a \"culpa\" do seu vocabulário.md",
-    "2. Literature Notes/Topics/O que fazer com uma pessoa que está se comportando de uma forma que não faz a vida ser maravilhosa para mim?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
