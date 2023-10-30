@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0178a506c8a9e688",
+        "id": "8973b27bd81bb1e9",
         "type": "tabs",
         "children": [
           {
-            "id": "a727e5f3625f0781",
+            "id": "b72cf6ed124aabea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "4db2db784f52700d",
+            "id": "1df3e5b6b573b910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8d9eb5d9934860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e56f824f0b739ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Reels/Procrastinação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1b247ac19e9314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
+                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Reels/Procrastinação.md",
+                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Reels/Procrastinação.md",
+                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Reels/Procrastinação.md"
+                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md"
               }
             }
           },
@@ -256,10 +217,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "1df3e5b6b573b910",
   "lastOpenFiles": [
-    "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
+    "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "6. Creator/Reels/Procrastinação.md",
+    "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "2. Literature Notes/Topics/Características do Ego a partir de uma visão espiritual.md",
@@ -283,7 +245,6 @@
     "2. Literature Notes/Topics/Amor não é negar a si mesmo e fazer tudo pelo outro.md",
     "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
     "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
-    "2. Literature Notes/Topics/Não confunda essas palavras com sentimentos.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
