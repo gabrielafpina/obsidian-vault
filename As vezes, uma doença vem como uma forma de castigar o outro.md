@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Constelação familiar]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
@@ -27,4 +27,4 @@ Não pergunte porque, pergunte para que. Isso faz toda a diferença. [[Quando vo
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[A alma é o ser mais justo que exsite]]
+- [[A alma é o ser mais justo que existe]]
