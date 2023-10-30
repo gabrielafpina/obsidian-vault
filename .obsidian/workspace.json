@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e74a9606661a524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6d997d45db9e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -47,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "o meu nível de ser",
+                "query": "criança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +98,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md"
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md"
               }
             }
           },
@@ -217,8 +240,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1df3e5b6b573b910",
+  "active": "fc6d997d45db9e49",
   "lastOpenFiles": [
+    "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
+    "As vezes, uma doença vem como uma forma de castigar o outro.md",
     "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "6. Creator/Reels/Procrastinação.md",
     "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
@@ -243,8 +268,6 @@
     "2. Literature Notes/Topics/O que é se comunicar como uma girafa?.md",
     "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me manter conectado com a bela energia divina dentro de mim e a me conectar com ela nos outros..md",
     "2. Literature Notes/Topics/Amor não é negar a si mesmo e fazer tudo pelo outro.md",
-    "2. Literature Notes/Topics/\"No início havia o Verbo, e o Verbo estava com Deus e o Verbo era Deus\".md",
-    "2. Literature Notes/Topics/Quais são as 4 necessidades emocionais básicas?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
