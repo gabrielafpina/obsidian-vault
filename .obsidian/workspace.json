@@ -76,6 +76,30 @@
             }
           },
           {
+            "id": "a470b510225e1d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bad8bed93a869ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6cfbe83498dec4e",
             "type": "leaf",
             "state": {
@@ -100,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -119,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doença",
+                "query": "aborto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md"
+                "file": "É necessário aprender a amar o lodo da alma da nossa família.md"
               }
             }
           },
@@ -288,12 +312,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ffde6e962f944c6",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "É necessário aprender a amar o lodo da alma da nossa família.md",
+    "Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
     "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
     "As vezes, uma doença vem como uma forma de castigar o outro.md",
     "A alma é o ser mais justo que existe.md",
-    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "Constelação familiar.md",
     "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
@@ -314,8 +340,6 @@
     "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me libertar da escravidão emocional.md",
     "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
     "2. Literature Notes/Topics/\"Me magoa quando você faz isso\".md",
-    "2. Literature Notes/Topics/O que é falar como um chacal?.md",
-    "2. Literature Notes/Topics/Tudo que fizermos que não seja de coração, nós pagamos por isso e todos pagam também.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",

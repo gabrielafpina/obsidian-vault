@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Constelação familiar]]]
 
 **BIG IDEA:** 
 
@@ -30,3 +30,4 @@ Os excluidos tem uma força poderosa de afetar os vivos. E quando você não ta 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado]]
