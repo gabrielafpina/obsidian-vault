@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md"
+                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "fc6d997d45db9e49",
   "lastOpenFiles": [
-    "As vezes, uma doença vem como uma forma de castigar o outro.md",
     "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
+    "As vezes, uma doença vem como uma forma de castigar o outro.md",
     "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
     "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "6. Creator/Reels/Procrastinação.md",
