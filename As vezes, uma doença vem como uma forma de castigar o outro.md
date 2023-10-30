@@ -8,6 +8,10 @@ Por isso, é importante olhar para dentro e perguntar à doença: ´Você está 
 
 Assim, a solução se apresenta com mais rapidez e facilidade.
 
+Não pergunte porque, pergunte para que. Isso faz toda a diferença. [[Quando você começa a fazer perguntas inteligentes, as respostas chegarão]].
+
+[[Todo sintoma geralmente está tentando denunciar algo ou alguém excluído]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
