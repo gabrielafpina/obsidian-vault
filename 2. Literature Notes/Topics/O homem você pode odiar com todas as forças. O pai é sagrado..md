@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-[[qual é a fun]]
+[[Qual é a função dos pais na nossa vida?]]
 
 ###### **COMO:**
 

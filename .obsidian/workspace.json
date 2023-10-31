@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os filhos julgam os pais porque veem tudo distorcido.md",
+                "file": "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os pais dão o melhor que tem para dar.md",
+                "file": "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
+                "file": "2. Literature Notes/Topics/O homem você pode odiar com todas as forças. O pai é sagrado..md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quem faz o dinheiro aparecer é a mulher.md",
+                "file": "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -305,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
+                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
+                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md"
+                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md"
               }
             }
           },
@@ -384,15 +385,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7bc460ddb69562d5",
+  "active": "1cee07303ce9cb7a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-    "O homem você pode odiar com todas as forças. O pai é sagrado..md",
-    "Os pais dão o melhor que tem para dar.md",
-    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
-    "Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "Os filhos julgam os pais porque veem tudo distorcido.md",
+    "2. Literature Notes/Topics/O homem você pode odiar com todas as forças. O pai é sagrado..md",
+    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
+    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+    "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
+    "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
