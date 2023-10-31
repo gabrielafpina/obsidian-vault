@@ -11,124 +11,11 @@
             "id": "1df3e5b6b573b910",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e74a9606661a524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6d997d45db9e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "As vezes, uma doença vem como uma forma de castigar o outro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ddeec0e2cb112e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A alma é o ser mais justo que existe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ffde6e962f944c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a470b510225e1d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bad8bed93a869ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbcfa845523f4e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6cfbe83498dec4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Constelação familiar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54bf7ab100e64269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "É necessário aprender a amar o lodo da alma da nossa família.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "É necessário aprender a amar o lodo da alma da nossa família.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,18 +199,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bad8bed93a869ed2",
+  "active": "1df3e5b6b573b910",
   "lastOpenFiles": [
-    "Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
-    "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
-    "É necessário aprender a amar o lodo da alma da nossa família.md",
+    "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
+    "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+    "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
+    "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+    "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
+    "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
+    "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
+    "É necessário aprender a amar o lodo da alma da nossa família.md",
+    "Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
+    "Constelação familiar.md",
+    "Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
     "As vezes, uma doença vem como uma forma de castigar o outro.md",
     "A alma é o ser mais justo que existe.md",
-    "Constelação familiar.md",
-    "O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "6. Creator/Reels/Procrastinação.md",
     "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
@@ -337,13 +227,6 @@
     "2. Literature Notes/Topics/O problema nunca é o não, e sim o que comunicamos a nós mesmos quando o outro diz não.md",
     "2. Literature Notes/Topics/Quando você fala que sente algo e logo após fala \"porque penso...\", isso te descredibiliza.md",
     "2. Literature Notes/Topics/Os sentimentos tem origem nas necessidades.md",
-    "2. Literature Notes/Topics/Os sentimentos podem conectar-nos no coração ou podem contribuir para mais divisão e violência.md",
-    "2. Literature Notes/Topics/Comunicação Não-Violenta (CNV).md",
-    "2. Literature Notes/Topics/Raiva é um sentimento criado por um pensamento não natural.md",
-    "2. Literature Notes/Topics/Evite fazer avaliações, utilizar análises e juízos de valor que impliquem um erro.md",
-    "2. Literature Notes/Topics/Todos os julgamentos são expressões trágicas de necessidades não atendidas.md",
-    "2. Literature Notes/Topics/A comunicação não violenta me ajuda a me libertar da escravidão emocional.md",
-    "2. Literature Notes/Topics/Os sentimentos e necessidades do outro são uma dádiva.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
