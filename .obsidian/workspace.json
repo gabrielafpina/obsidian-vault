@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "46cfa0bf86358dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1cee07303ce9cb7a",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "os pais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -257,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quem faz o dinheiro aparecer é a mulher.md",
+                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quem faz o dinheiro aparecer é a mulher.md",
+                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quem faz o dinheiro aparecer é a mulher.md"
+                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md"
               }
             }
           },
@@ -336,11 +348,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fe6dc41953a9417",
+  "active": "46cfa0bf86358dbc",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "Quem faz o dinheiro aparecer é a mulher.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Os filhos julgam os pais porque veem tudo distorcido.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",

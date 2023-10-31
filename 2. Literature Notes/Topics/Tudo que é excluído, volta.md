@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Constelação familiar]]]
+**FONTE:** [[Constelação familiar]]
 
 **BIG IDEA:** 
 

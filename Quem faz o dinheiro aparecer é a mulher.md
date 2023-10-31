@@ -12,7 +12,7 @@ Assim, a representação simbólica do dinheiro é muito mais forte para a mulhe
 
 Muitas vezes, por conta do sistema de [[crenças]], a mulher não pode ter dinheiro para ela mesma, mas pode ter dinheiro para o outro. Assim, ela pega o canhão de prosperidade e mira no marido. Ai ele acha que é ele, mas é a energia dela. Se não for a esposa, pode ser uma tia, irmã, avó, amiga, sempre uma mulher.
 
-Quando o cara maltrata a mulher, ela recolhe o canhão e o ca
+Quando o cara maltrata a mulher ou a mãe, ela recolhe o canhão e o cara cai. quando a situação se trata de dinheiro, é com a mulher. [[Tudo que é excluído, volta]].
 
 ###### **COMO:**
 
