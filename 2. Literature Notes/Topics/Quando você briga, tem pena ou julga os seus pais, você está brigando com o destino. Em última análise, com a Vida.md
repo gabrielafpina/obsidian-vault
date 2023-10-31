@@ -23,4 +23,4 @@ Peça a permissão para o destino te liberar, se curve perante ele. Peça a perm
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[Na imperfei]]
+- [[Na imperfeição, é perfeito do jeito que é.]]
