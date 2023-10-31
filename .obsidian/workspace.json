@@ -40,6 +40,42 @@
             }
           },
           {
+            "id": "fc8585c09795ca8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os filhos julgam os pais porque veem tudo distorcido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2271cce9f1e42756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cee07303ce9cb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "57574455ff038510",
             "type": "leaf",
             "state": {
@@ -100,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distorção c",
+                "query": "aborto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,8 +182,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md"
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -289,10 +324,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca3a7f9e3e7368b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
+    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "Os filhos julgam os pais porque veem tudo distorcido.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
+    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
@@ -310,13 +347,11 @@
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "2. Literature Notes/Topics/Constelação familiar.md",
     "2. Literature Notes/Topics/Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
-    "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "2. Literature Notes/Topics/Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
     "2. Literature Notes/Topics/As vezes, uma doença vem como uma forma de castigar o outro.md",
     "2. Literature Notes/Topics/A alma é o ser mais justo que existe.md",
     "6. Creator/Reels/Procrastinação.md",
     "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
-    "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",

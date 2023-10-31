@@ -25,6 +25,8 @@ A mãe autoriza tudo isso:
 
 Os dois juntos dão os relacionamentos. Quando você toma a força da sua mãe (aquilo que te irrita nela, os defeitos, é aí que está a sua força), o dinheiro vem para você. Com o pai, o dinheiro fica no bolso. Se você tem alguma questão com os seus pais, mesmo você tendo razão, não vai prosperar. Não tem como. E se prosperar, vai perder.
 
+Quem faz o dinheiro aparecer é a mulher. Através dela o homem faz dinheiro.
+
 Quando você dobra a sua cabeça em honra aos seus pais, você está se curvando ao seu sistema inteiro - e também a Deus. Ao fazer isso, você ganha uma potência para seguir.
 
 Se você está vivo, deu certo. Na imperfeição do jeito que eles te criaram, deu certo. [[Só existe evolução na imperfeição]].
@@ -54,3 +56,4 @@ Um aborto provocado é quando a mulher assassina dentro dela a função mãe, em
 **Sul: para onde vai**
 - [[Tudo que é excluído, volta]]
 - [[Distorção cognitiva da realidade infantil]]
+- [[Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida]]

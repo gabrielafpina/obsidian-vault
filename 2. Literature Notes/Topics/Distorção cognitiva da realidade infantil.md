@@ -12,7 +12,7 @@ Se você não estiver no centro, é importante voltar para esse lugar com muita 
 
 Quando você se coloca como acima ou melhor do que os seus pais, você vai para a vida carregando pesos que não devia, ou por amor, por dor ou sobrevivência.
 
-Os filhos julgam os pais porque veem tudo distorcido. Quando os pais tem uma briga, os filhos tem uma tendência secreta de ficar do lado daquele que está em deds
+[[Os filhos julgam os pais porque veem tudo distorcido]]. 
 
 A cura é o antídoto, o veneno, o que dói. [[O amor é a cura]].
 
