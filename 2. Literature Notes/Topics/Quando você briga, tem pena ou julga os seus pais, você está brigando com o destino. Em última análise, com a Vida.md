@@ -24,4 +24,4 @@ Peça a permissão para o destino te liberar, se curve perante ele. Peça a perm
 
 **Sul: para onde vai**
 - [[Na imperfeição, é perfeito do jeito que é.]]
-- [[Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na fam]]
+- [[Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família]]
