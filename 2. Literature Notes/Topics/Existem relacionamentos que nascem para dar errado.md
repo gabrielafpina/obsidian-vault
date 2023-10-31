@@ -5,6 +5,7 @@
 
 ###### **DEFINIÇÃO:**
 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -18,6 +19,7 @@
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Distorção cognitiva da realidade infantil]]
 
 **Sul: para onde vai**
 - [[Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa]]
