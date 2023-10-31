@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "3fe6dc41953a9417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quem faz o dinheiro aparecer é a mulher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "57574455ff038510",
             "type": "leaf",
             "state": {
@@ -136,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aborto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "Quem faz o dinheiro aparecer é a mulher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "Quem faz o dinheiro aparecer é a mulher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
+                "file": "Quem faz o dinheiro aparecer é a mulher.md"
               }
             }
           },
@@ -324,8 +336,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "3fe6dc41953a9417",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+    "Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "Os filhos julgam os pais porque veem tudo distorcido.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
@@ -339,7 +353,6 @@
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
@@ -351,7 +364,6 @@
     "2. Literature Notes/Topics/As vezes, uma doença vem como uma forma de castigar o outro.md",
     "2. Literature Notes/Topics/A alma é o ser mais justo que existe.md",
     "6. Creator/Reels/Procrastinação.md",
-    "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
