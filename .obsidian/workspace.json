@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os seus pais te deram tudo.md",
+                "file": "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existem relacionamentos que nascem para dar errado.md",
+                "file": "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d86f365994f4e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Na imperfeição, é perfeito do jeito que é..md",
+                "file": "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existem relacionamentos que nascem para dar errado.md",
+                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existem relacionamentos que nascem para dar errado.md",
+                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existem relacionamentos que nascem para dar errado.md"
+                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md"
               }
             }
           },
@@ -276,13 +289,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aafbd9eb361417b7",
+  "active": "cca3a7f9e3e7368b",
   "lastOpenFiles": [
-    "Os seus pais te deram tudo.md",
-    "Existem relacionamentos que nascem para dar errado.md",
-    "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-    "Na imperfeição, é perfeito do jeito que é..md",
+    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
+    "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
+    "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
+    "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
     "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "2. Literature Notes/Topics/O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
@@ -303,7 +317,6 @@
     "6. Creator/Reels/Procrastinação.md",
     "6. Creator/Reels/Como seria ter uma conversa com a ansiedade?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "2. Literature Notes/Topics/Como os sabotadores são formados?.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
