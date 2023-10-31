@@ -26,4 +26,4 @@ Com nossos pais aprendemos a enxergar a nós mesmos e nossas relações interpes
  - [[O que é a criança-sol?]]
 - [[O que é a criança-sombra?]]
 **Sul: para onde vai**
-- [[Os pais dão o melhor que tem p]]
+- [[Os pais dão o melhor que tem para dar]]

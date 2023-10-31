@@ -76,6 +76,42 @@
             }
           },
           {
+            "id": "90f1571afb5b92a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os pais dão o melhor que tem para dar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a3c60ecaa3b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bc460ddb69562d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1cee07303ce9cb7a",
             "type": "leaf",
             "state": {
@@ -160,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -269,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
+                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +345,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md"
+                "file": "O homem você pode odiar com todas as forças. O pai é sagrado..md"
               }
             }
           },
@@ -348,9 +384,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46cfa0bf86358dbc",
+  "active": "7bc460ddb69562d5",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
+    "O homem você pode odiar com todas as forças. O pai é sagrado..md",
+    "Os pais dão o melhor que tem para dar.md",
+    "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Os filhos julgam os pais porque veem tudo distorcido.md",
@@ -373,9 +412,6 @@
     "2. Literature Notes/Topics/Constelação familiar.md",
     "2. Literature Notes/Topics/Todos podem ser bem sucedidos, o problema são os acordos que essas pessoas fizeram no passado.md",
     "2. Literature Notes/Topics/Quando você imita uma característica dos pais, é uma forma de trazê-los para perto.md",
-    "2. Literature Notes/Topics/As vezes, uma doença vem como uma forma de castigar o outro.md",
-    "2. Literature Notes/Topics/A alma é o ser mais justo que existe.md",
-    "6. Creator/Reels/Procrastinação.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
