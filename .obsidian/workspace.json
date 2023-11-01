@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O homem não consegue ficar com uma mulher que teve um aborto.md",
+                "file": "2. Literature Notes/Topics/O homem não consegue ficar com uma mulher que teve um aborto.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qual é a função dos filhos?.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Os defeitos dos nossos pais são a nossa benção.md",
+                "file": "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Os defeitos dos nossos pais são a nossa benção.md",
+                "file": "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Os defeitos dos nossos pais são a nossa benção.md",
+                "file": "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Os defeitos dos nossos pais são a nossa benção.md"
+                "file": "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md"
               }
             }
           },
@@ -280,13 +281,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "312e724ceee207ca",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Distorção cognitiva da realidade.md",
-    "Os defeitos dos nossos pais são a nossa benção.md",
-    "Qual é a função dos filhos?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "O homem não consegue ficar com uma mulher que teve um aborto.md",
+    "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
+    "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
+    "2. Literature Notes/Topics/O homem não consegue ficar com uma mulher que teve um aborto.md",
     "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
