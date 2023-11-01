@@ -102,17 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2bd750e5a6ecb1d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos filhos?.md"
+              }
             }
           },
           {
@@ -297,7 +293,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2bd750e5a6ecb1d1",
+  "active": "ca8fcb1d8accb4c3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Distorção cognitiva da realidade dos filhos.md",
     "2. Literature Notes/Topics/O que é o efeito cruzado?.md",
