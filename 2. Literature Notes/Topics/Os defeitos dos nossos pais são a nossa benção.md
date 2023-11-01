@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Quando vistos do nosso lugar, os defeitos dos nossos pais são a nossa benção. No entanto, como a maior parte das pessoas está no lugar errado, veem tudo distorcido - [[Distorção cognitiva da realidade]].
+Quando vistos do nosso lugar, os defeitos dos nossos pais são a nossa benção. No entanto, como a maior parte das pessoas está no lugar errado, veem tudo distorcido - [[Distorção cognitiva da realidade dos filhos]].
 
 Graças à loucura dos nossos pais, nós nascemos. Nós só nascemos por conta dos defeitos deles, não foi por causa das virtudes. [[Os seus pais te deram tudo]].
 

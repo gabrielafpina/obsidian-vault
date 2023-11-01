@@ -19,7 +19,7 @@ E é aí que está a perfeição do negócio. [[Na imperfeição, é perfeito do
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Distorção cognitiva da realidade]]
+- [[Distorção cognitiva da realidade dos filhos]]
 
 **Sul: para onde vai**
 - [[Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa]]

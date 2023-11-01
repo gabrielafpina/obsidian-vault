@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é o efeito cruzado?.md",
+                "file": "2. Literature Notes/Topics/O que é o efeito cruzado?.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade.md",
+                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade dos filhos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bd750e5a6ecb1d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +222,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o efeito cruzado?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +238,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o efeito cruzado?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,9 +259,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "O que é o efeito cruzado?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -293,11 +297,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d94913a1f4cde29",
+  "active": "2bd750e5a6ecb1d1",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Distorção cognitiva da realidade dos filhos.md",
+    "2. Literature Notes/Topics/O que é o efeito cruzado?.md",
     "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
-    "O que é o efeito cruzado?.md",
-    "2. Literature Notes/Topics/Distorção cognitiva da realidade.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
     "2. Literature Notes/Topics/O homem não consegue ficar com uma mulher que teve um aborto.md",

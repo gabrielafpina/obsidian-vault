@@ -4,6 +4,8 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Distorção é quando eu vejo uma coisa e na realidade vejo outra. [[O mapa não é o território]].
+
 O filho olha para o problema dos pais e vê de forma projetada. Então, ele se coloca em lugares de querer salvar, fugir, ter pena (esse é o pior), etc. [[Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida]].
 
 Ele sai do lugar dele de filho e sobe, as vezes ficando do lado dos pais, ou pior, acima deles. [[Existem 4 lugares proibidos]].
