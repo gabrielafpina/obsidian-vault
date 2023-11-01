@@ -42,9 +42,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ba61c149512e2e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca8fcb1d8accb4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a função dos filhos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312e724ceee207ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os defeitos dos nossos pais são a nossa benção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c831f0ed37e1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -63,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aborto",
+                "query": "pais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -153,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O homem não consegue ficar com uma mulher que teve um aborto.md",
+                "file": "Os defeitos dos nossos pais são a nossa benção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O homem não consegue ficar com uma mulher que teve um aborto.md",
+                "file": "Os defeitos dos nossos pais são a nossa benção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O homem não consegue ficar com uma mulher que teve um aborto.md"
+                "file": "Os defeitos dos nossos pais são a nossa benção.md"
               }
             }
           },
@@ -232,10 +280,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c81653ab00cfe496",
+  "active": "312e724ceee207ca",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
+    "2. Literature Notes/Topics/Distorção cognitiva da realidade.md",
+    "Os defeitos dos nossos pais são a nossa benção.md",
+    "Qual é a função dos filhos?.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "O homem não consegue ficar com uma mulher que teve um aborto.md",
+    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
     "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
@@ -244,13 +296,11 @@
     "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/O homem você pode odiar com todas as forças. O pai é sagrado..md",
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
     "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
-    "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
     "2. Literature Notes/Topics/O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
@@ -258,8 +308,6 @@
     "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Quando mudamos a forma como olhamos para o sistema, você se liberta.md",
-    "2. Literature Notes/Topics/É necessário aprender a amar o lodo da alma da nossa família.md",
-    "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",

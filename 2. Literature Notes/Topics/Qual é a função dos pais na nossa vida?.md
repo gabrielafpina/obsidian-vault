@@ -57,5 +57,6 @@ Um aborto provocado é quando a mulher assassina dentro dela a função mãe, em
 
 **Sul: para onde vai**
 - [[Tudo que é excluído, volta]]
-- [[Distorção cognitiva da realidade infantil]]
+- [[Distorção cognitiva da realidade]]
 - [[Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida]]
+- [[Qual é a função dos filhos?]]
