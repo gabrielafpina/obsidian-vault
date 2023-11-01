@@ -4,211 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8973b27bd81bb1e9",
+        "id": "e08176ab5c165fb6",
         "type": "tabs",
         "children": [
           {
-            "id": "29fe7d30787454a6",
+            "id": "79aa45d54f0de8b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b48c6d99647c7a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "cca3a7f9e3e7368b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8585c09795ca8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2271cce9f1e42756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46cfa0bf86358dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90f1571afb5b92a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95a3c60ecaa3b2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc460ddb69562d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O homem você pode odiar com todas as forças. O pai é sagrado..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cee07303ce9cb7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83c86a9c5b82dfa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fe6dc41953a9417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57574455ff038510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aafbd9eb361417b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d86f365994f4e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39779cff942739f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e608b0e167a03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "os pais",
+                "query": "RCE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md"
-              }
+              "state": {}
             }
           },
           {
@@ -397,8 +199,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fe6dc41953a9417",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
+    "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
+    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
+    "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
+    "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
@@ -406,14 +214,8 @@
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
-    "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
     "2. Literature Notes/Topics/Distorção cognitiva da realidade infantil.md",
-    "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
-    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
-    "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
-    "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
-    "2. Literature Notes/Topics/A verdade é que tudo na criação é perfeito, inclusive os seres humanos..md",
     "2. Literature Notes/Topics/O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
