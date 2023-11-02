@@ -31,3 +31,18 @@
 **ESTRATÉGIA DE FEEDBACKS:**
 
 **CONTEÚDO:**
+
+
+
+
+
+Procrastinação
+- Como vê-la como uma aliada?
+- Procrastinação amadora x profissional
+
+Como agir?
+
+Como a meditação pode te fazer acessar resultados que você não conseguiu em anos.
+
+
+Ansiedade
