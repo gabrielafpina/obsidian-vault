@@ -41,6 +41,9 @@ Procrastinação
 - Procrastinação amadora x profissional
 
 Como agir?
+- Meditar é a chave para a ação
+- Meditar é colocar a régua de dentro para aquilo que você quer fazer fora.
+- Meditar = medir a ação
 
 Como a meditação pode te fazer acessar resultados que você não conseguiu em anos.
 
