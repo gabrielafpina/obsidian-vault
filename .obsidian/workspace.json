@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "17cf7d3c3524113c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "312e724ceee207ca",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raio",
+                "query": "sabotadores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
               }
             }
           },
@@ -304,8 +316,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08880815d7921493",
+  "active": "17cf7d3c3524113c",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias/Escopo do Desafio 3 Dias de Meditação.md",
     "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
@@ -333,7 +346,6 @@
     "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Quem é a pessoa tripartida?.md",
-    "2. Literature Notes/Topics/Só existe evolução na imperfeição.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
