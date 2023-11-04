@@ -12,6 +12,8 @@ Tudo que tem a ver com exclusão tem a ver com prender, repetir e estacionar. [[
 
 Inclusão trata da vida e a exclusão trata da morte. Basicamente, a constelação trata de vida e morte, a partir da inclusão e exclusão.
 
+A constelação trabalha a lei da inclusão e exclusão de sintomas (doenças, destinos pesados, traumas), comportamentos (jeito de ser da pessoa, que tem um comportamento a serviço de algo que vem antes) e postura e posicionamento interno.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

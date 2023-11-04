@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5b0c910b8edf58aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "46a3364aeb31b864",
             "type": "leaf",
             "state": {
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md"
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -232,7 +244,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46a3364aeb31b864",
+  "active": "5b0c910b8edf58aa",
   "lastOpenFiles": [
     "Tudo começa com pai e mãe.md",
     "2. Literature Notes/Topics/Constelação familiar.md",

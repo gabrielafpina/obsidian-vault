@@ -20,5 +20,6 @@ Eles são as nossas primeiras referências de vida. A partir deles, aprendemos t
 
 **Norte: ideia/pergunta**
 - [[A mãe é fundante da nossa personalidade]]
+- [[Qual é a função dos pais na nossa vida?]]
 
 **Sul: para onde vai**
