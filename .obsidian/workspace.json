@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "e39d57cf29109aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como você pune alguém secretamente?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e47cb54bdbd8eff0",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md",
+                "file": "Como você pune alguém secretamente?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md",
+                "file": "Como você pune alguém secretamente?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md"
+                "file": "Como você pune alguém secretamente?.md"
               }
             }
           },
@@ -279,10 +291,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43d2a4e5895d1012",
+  "active": "e39d57cf29109aa4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Quais são os 5 vícios relacionados com a falta do pai?.md",
+    "Como você pune alguém secretamente?.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
     "O sucesso só pode acontecer quando tiver humildade radical.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
@@ -308,7 +321,6 @@
     "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-    "2. Literature Notes/Topics/O homem você pode odiar com todas as forças. O pai é sagrado..md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
