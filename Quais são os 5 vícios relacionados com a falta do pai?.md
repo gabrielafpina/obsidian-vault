@@ -13,6 +13,8 @@ Falta da função saudável paterna dentro do filho:
 
 Quem dá a permissão para o filho amar o pai é a mãe. [[Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?]]
 
+Quando é com a mãe, geralmente vai para a área sexual.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

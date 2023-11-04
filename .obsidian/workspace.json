@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como você pune alguém secretamente?.md",
+                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como você pune alguém secretamente?.md",
+                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como você pune alguém secretamente?.md"
+                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md"
               }
             }
           },
@@ -291,10 +291,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e39d57cf29109aa4",
+  "active": "43d2a4e5895d1012",
   "lastOpenFiles": [
-    "Quais são os 5 vícios relacionados com a falta do pai?.md",
     "Como você pune alguém secretamente?.md",
+    "Quais são os 5 vícios relacionados com a falta do pai?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
     "O sucesso só pode acontecer quando tiver humildade radical.md",
