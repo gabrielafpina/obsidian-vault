@@ -15,7 +15,8 @@
 	1. Troca saudável entre o dar e o tomar. Quando trocamos de igual para igual, todos evoluem.
 		1. Existe uma diferença entre o dar e o receber. O receber é um verbo passivo. O tomar é ativo, você vai la e pega.
 	2. Quando uma das partes dá demais, é quando dá problema e desequilíbrio. Quando um dá demais, sobrecarrega quem recebe e o outro fica irritado porque não está recebendo tanto quanto está dando. [[Como você funciona?]]
-	3. Essa lei funciona com pessoas de nível parecido, irmãos, casais. Essa lei não funciona com pai e mãe. Os pais dão tudo, os filhos pegam o tudo e vão para o futuro. Se o filho se sente culpado porque deve devolver de volta o que recebeu, a vida dele vai parar. Com os pais 
+	3. Essa lei funciona com pessoas de nível parecido, irmãos, casais. 
+		1. Essa lei não funciona com pai e mãe. Os pais dão tudo, os filhos pegam o tudo e vão para o futuro. Se o filho se sente culpado porque deve devolver de volta o que recebeu, a vida dele vai parar. Com os pais existe um desequilíbrio saudável, em que os pais dão e os filhos tomam. [[Os seus pais te deram tudo]]. Não tem como você pegar tudo o que os seus pais te deram e devolver, porque eles te deram tudo, assim, existe um desequilíbrio.
 4. Lei do tempo
 	1. Passado, presente e futuro. No campo descobrimos onde a pessoa está na vida, em qual momento da vida ela vive.
 
