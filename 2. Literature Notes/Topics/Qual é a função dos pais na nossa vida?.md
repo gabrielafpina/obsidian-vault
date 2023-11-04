@@ -62,3 +62,5 @@ Um aborto provocado é quando a mulher assassina dentro dela a função mãe, em
 - [[Qual é a função dos filhos?]]
 - [[Os defeitos dos nossos pais são a nossa benção]]
 - [[O sucesso só pode acontecer quando tiver humildade radical]]
+- [[Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?]]
+- [[Quais são os 5 vícios relacionados com a falta do pai?]]
