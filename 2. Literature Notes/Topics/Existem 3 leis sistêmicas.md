@@ -18,7 +18,7 @@
 	3. Essa lei funciona com pessoas de nível parecido, irmãos, casais. 
 		1. Essa lei não funciona com pai e mãe. Os pais dão tudo, os filhos pegam o tudo e vão para o futuro. Se o filho se sente culpado porque deve devolver de volta o que recebeu, a vida dele vai parar. Com os pais existe um desequilíbrio saudável, em que os pais dão e os filhos tomam. [[Os seus pais te deram tudo]]. Não tem como você pegar tudo o que os seus pais te deram e devolver, porque eles te deram tudo, assim, existe um desequilíbrio.
 4. Lei do tempo
-	1. Passado, presente e futuro. No campo descobrimos onde a pessoa está na vida, em qual momento da vida ela vive.
+	1. Passado, presente e futuro. No campo descobrimos onde a pessoa está na vida, em qual momento da vida ela vive. Ela pode estar no presente, mas olhando completamente o passado, ou estando no futuro e olhando somente o passado e tem as pessoas que estão no passado não olhando para nada.
 
 **COMO:**
 
@@ -35,3 +35,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Tudo começa com pai e mãe]]

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb615202015fa943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo começa com pai e mãe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46a3364aeb31b864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leis sis",
+                "query": "tudo começa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -127,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/Constelação familiar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/Constelação familiar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
+                "file": "2. Literature Notes/Topics/Constelação familiar.md"
               }
             }
           },
@@ -206,8 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17cf7d3c3524113c",
+  "active": "46a3364aeb31b864",
   "lastOpenFiles": [
+    "Tudo começa com pai e mãe.md",
+    "2. Literature Notes/Topics/Constelação familiar.md",
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/\"Os lábios da sabedoria só se abrem ao ouvido do entendimento\".md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
@@ -233,9 +262,6 @@
     "2. Literature Notes/Topics/Tudo que é excluído, volta.md",
     "2. Literature Notes/Topics/Os pais dão o melhor que tem para dar.md",
     "2. Literature Notes/Topics/A maneira como nossos pais nos tratam se torna um modelo para todos os nossos relacionamentos futuros.md",
-    "2. Literature Notes/Topics/Os filhos julgam os pais porque veem tudo distorcido.md",
-    "2. Literature Notes/Topics/O que é a necessidade de controle a partir de uma perspectiva sistêmica?.md",
-    "2. Literature Notes/Topics/Se você não tem a permissão do sistema e a benção dos pais, você não consegue sair 1cm do seu lugar.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
