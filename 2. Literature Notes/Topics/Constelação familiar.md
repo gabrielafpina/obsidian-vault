@@ -4,6 +4,8 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Constelação é colocar de volta no lugar certo.
+
 A constelação trata de duas coisas muito importantes: inclusão e exclusão.
 
 Tudo que tem a ver com inclusão tem a ver com vida saudável e liberação. Tudo que é incluído no seu coração é liberado.

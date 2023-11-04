@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md"
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -244,11 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46a3364aeb31b864",
+  "active": "17cf7d3c3524113c",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Constelação familiar.md",
     "Tudo começa com pai e mãe.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "2. Literature Notes/Topics/Constelação familiar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/\"Os lábios da sabedoria só se abrem ao ouvido do entendimento\".md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
