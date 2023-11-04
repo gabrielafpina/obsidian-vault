@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Constelação familiar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
+                "file": "2. Literature Notes/Topics/Constelação familiar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
+                "file": "2. Literature Notes/Topics/Constelação familiar.md"
               }
             }
           },
@@ -244,9 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b0c910b8edf58aa",
+  "active": "46a3364aeb31b864",
   "lastOpenFiles": [
     "Tudo começa com pai e mãe.md",
+    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Constelação familiar.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/\"Os lábios da sabedoria só se abrem ao ouvido do entendimento\".md",
@@ -259,7 +260,6 @@
     "2. Literature Notes/Topics/Distorção cognitiva da realidade dos filhos.md",
     "2. Literature Notes/Topics/O que é o efeito cruzado?.md",
     "2. Literature Notes/Topics/Os defeitos dos nossos pais são a nossa benção.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/O homem não consegue ficar com uma mulher que teve um aborto.md",
     "2. Literature Notes/Topics/Existem relacionamentos que nascem para dar errado.md",
     "2. Literature Notes/Topics/O que é a Rotina da Consciência Elevada (RCE)?.md",
