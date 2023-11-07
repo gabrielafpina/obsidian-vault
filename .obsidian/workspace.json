@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "43d2a4e5895d1012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são os 5 vícios relacionados com a falta do pai?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "951e02337023afad",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
