@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
               }
             }
           },
@@ -315,8 +315,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d03012941d62f5b",
+  "active": "951e02337023afad",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "Quais são os 5 vícios relacionados com a falta do pai?.md",
     "Como você pune alguém secretamente?.md",
@@ -344,7 +345,6 @@
     "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
     "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
-    "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
