@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17cf7d3c3524113c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8442aa7f49fc7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O sucesso só pode acontecer quando tiver humildade radical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb615202015fa943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tudo começa com pai e mãe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b0c910b8edf58aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "951e02337023afad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d03012941d62f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os sabotadores?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e39d57cf29109aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como você pune alguém secretamente?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47cb54bdbd8eff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46a3364aeb31b864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Constelação familiar.md",
+                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sabotadores",
+                "query": "estrela",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -224,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
+                "file": "2. Literature Notes/Topics/Estrela de Valores.md"
               }
             }
           },
@@ -303,18 +206,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "951e02337023afad",
+  "active": "46a3364aeb31b864",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Constelação familiar.md",
+    "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
+    "Como você pune alguém secretamente?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "Quais são os 5 vícios relacionados com a falta do pai?.md",
-    "Como você pune alguém secretamente?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
+    "Tudo começa com pai e mãe.md",
+    "Quais são os 5 vícios relacionados com a falta do pai?.md",
     "O sucesso só pode acontecer quando tiver humildade radical.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-    "2. Literature Notes/Topics/Constelação familiar.md",
-    "Tudo começa com pai e mãe.md",
     "2. Literature Notes/Topics/\"Os lábios da sabedoria só se abrem ao ouvido do entendimento\".md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias/Escopo do Desafio 3 Dias de Meditação.md",
