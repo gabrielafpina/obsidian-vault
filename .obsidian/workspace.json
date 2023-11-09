@@ -30,9 +30,36 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9375591f3584b5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d8fe50bf379b1a1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
+                "viewState": {
+                  "x": 754.6382118171259,
+                  "y": 486.37842393921864,
+                  "zoom": -0.4792032493965935
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sabotadores",
+                "query": "propósito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
+                "file": "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas"
               }
             }
           },
@@ -219,14 +246,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a084626abc223f20",
+  "active": "9d8fe50bf379b1a1",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
+    "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/Constelação familiar.md",
     "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
     "Como você pune alguém secretamente?.md",
     "2. Literature Notes/Topics/O que são os sabotadores?.md",
-    "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "Tudo começa com pai e mãe.md",
     "Quais são os 5 vícios relacionados com a falta do pai?.md",
@@ -248,7 +276,6 @@
     "2. Literature Notes/Topics/Na imperfeição, é perfeito do jeito que é..md",
     "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
-    "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
