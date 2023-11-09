@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a084626abc223f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estrela",
+                "query": "sabotadores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Estrela de Valores.md"
+                "file": "2. Literature Notes/Topics/Quais são os principais sabotadores?.md"
               }
             }
           },
@@ -206,8 +219,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46a3364aeb31b864",
+  "active": "a084626abc223f20",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/Constelação familiar.md",
     "Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
     "Como você pune alguém secretamente?.md",
@@ -235,7 +249,6 @@
     "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/Os seus pais te deram tudo.md",
     "2. Literature Notes/Topics/Quem faz o dinheiro aparecer é a mulher.md",
-    "2. Literature Notes/Topics/Geralmente, as profissões das pessoas estão associadas aos dramas que elas tiveram na família.md",
     "7. Writer",
     "Captura de Tela 2023-10-10 às 16.54.45.png",
     "5. Shots, Images & PDFs/WhatsApp Image 2023-10-10 at 13.15.54.jpeg",
