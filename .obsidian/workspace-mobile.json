@@ -37,9 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+                "file": "3. Me, Myself and I/Testes/MBTI.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -97,6 +96,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "830618cef00bf710",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -111,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+            "file": "3. Me, Myself and I/Testes/MBTI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md",
+            "file": "3. Me, Myself and I/Testes/MBTI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "O que a pirâmide de maslow tem a ver com a zona de genialidade?.md"
+            "file": "3. Me, Myself and I/Testes/MBTI.md"
           }
         }
       }
