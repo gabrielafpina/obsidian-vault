@@ -16,9 +16,15 @@ O desenvolvimento psíquico ocorre através da elaboração de experiências emo
 
 Todos os bebês, independente do gênero a que pertençam, tem como objeto primeiro a mãe. Geralmente, o pai é o 2o objeto de amor. Porém, os bebês crescem e em seu crescimento tem de enfrentar diferentes angústias - que fazem parte da vida. [[Faz parte do amadurecimento normal do indivíduo aprender a suportar a dor e adiar a gratificação]].
 
-Durante o seu desenvolvimento, o ser humano tem de lidar com algumas angústias cruciais:
-- Relação eu-outro
-- Angústia de que não será satisfeito de acordo com o seu desejo, ou seja,l a frustração. [[Cadeia Emocional]]
+Durante o seu desenvolvimento, o ser humano tem de lidar com algumas **angústias cruciais**:
+- Relação eu-outro;
+	- Angústia por saber que precisa de outras pessoas para satisfazer suas necessidades, que são independentes e autônomas dela.
+- Angústia de que não será satisfeito de acordo com o seu desejo, ou seja, a frustração. [[Cadeia Emocional]];
+- Dor da descoberta da sua finitude (morte dos outros e tensão em lidar com a sua própria finitude).
+
+A cada momento de sua vida, a pessoa vive e reatualiza situações de conflitos onde estão presentes estas angústias.
+
+Ao nascer, a sensação é de 'queda livre', sente a ausência térmica, falta o calor e o aconchego do útero. Ele libera o instinto de sobrevivência, respirando, fazendo o ar chegar até os pulmões. O bebê sente o cheiro da mãe e inicia um novo meio de comunicação, sem abandonar a sua natureza inconsciente (entre ambos). Ao nascer, tem a sensação de abandono e estranhamento ([[O que é a Ferida Emocional do Abandono?]]), mas sentindo o cheiro da mãe, sente (relembra) a segurança.
 
 ###### **COMO:**
 
