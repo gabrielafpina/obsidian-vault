@@ -6,9 +6,13 @@
 ###### **DEFINIÇÃO:**
 A mente só é possível se desenvolver a partir do momento em que temos emoções. E isso acontece desde a vida intrauterina - antes de nascer já temos uma ***vida girando em torno de tensão e prazer***. [[Princípio do Prazer e Princípio da Realidade]]
 
-Ele também acreditava que toda a tensão se devia ao acúmulo de libido, a energia sexual, e que todo prazer vinha da sua descarga. [[sexo é divino]].
+Ele também acreditava que toda a tensão se devia ao acúmulo de libido, a energia sexual, e que todo prazer vinha da sua descarga. [[sexo é divino]]. Segundo Freud, tudo se deriva da libido, tudo é prazer.
 
-Ao descrever o desenvolvimenton da personalidade humana como psicossexual, Freud quis dizer que o
+Ao descrever o desenvolvimento da personalidade humana como psicossexual, Freud quis dizer que o que se desenvolve é a maneira pela qual a energia sexual do [[ID]] (parte mais instintiva da mente, que quer prazer a qualquer custo) se acumula e é descarregada à medida que amadurecemos biologicamente.
+
+Freud usou o termo 'sexual' de uma maneira muito geral para significar todas as ações e pensamentos prazeirosos. Não está, necessariamente, relacionado ao sexo.
+
+O desenvolvimento psíquico ocorre 
 
 ###### **COMO:**
 
