@@ -12,7 +12,9 @@ Ao descrever o desenvolvimento da personalidade humana como psicossexual, Freud 
 
 Freud usou o termo 'sexual' de uma maneira muito geral para significar todas as ações e pensamentos prazeirosos. Não está, necessariamente, relacionado ao sexo.
 
-O desenvolvimento psíquico ocorre 
+O desenvolvimento psíquico ocorre através da elaboração de experiências emocionais desde o nascimento. Essas experiências acontecem primeiramente no contato interpessoal - mãe, bebê - estendendo-se para o meio familiar e o de grupo. [[A mãe é fundante da nossa personalidade]]. Tanto a menina quanto o menino tem como primeiro objeto de amor a mãe.
+
+Todos os bebês independente do gen
 
 ###### **COMO:**
 
