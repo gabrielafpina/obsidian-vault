@@ -24,7 +24,9 @@ Durante o seu desenvolvimento, o ser humano tem de lidar com algumas **angústia
 
 A cada momento de sua vida, a pessoa vive e reatualiza situações de conflitos onde estão presentes estas angústias.
 
-Ao nascer, a sensação é de 'queda livre', sente a ausência térmica, falta o calor e o aconchego do útero. Ele libera o instinto de sobrevivência, respirando, fazendo o ar chegar até os pulmões. O bebê sente o cheiro da mãe e inicia um novo meio de comunicação, sem abandonar a sua natureza inconsciente (entre ambos). Ao nascer, tem a sensação de abandono e estranhamento ([[O que é a Ferida Emocional do Abandono?]]), mas sentindo o cheiro da mãe, sente (relembra) a segurança.
+Ao nascer, a sensação é de 'queda livre', sente a ausência térmica, falta o calor e o aconchego do útero. Ele libera o instinto de sobrevivência, respirando, fazendo o ar chegar até os pulmões. O bebê sente o cheiro da mãe e inicia um novo meio de comunicação, sem abandonar a sua natureza inconsciente (entre ambos). Ao nascer, tem a sensação de abandono e estranhamento ([[O que é a Ferida Emocional do Abandono?]]), mas sentindo o cheiro da mãe, sente (relembra) a segurança. E começa a sua comunicação com a mãe com o choro, outras vezes com riso ou grito.
+
+[[Como funciona a comunicação do bebê?]]
 
 ###### **COMO:**
 
