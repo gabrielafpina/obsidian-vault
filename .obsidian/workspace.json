@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3036f2f821011a48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona a comunicação do bebê?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "487e50958852b2e2",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a comunicação do bebê?.md",
+                "file": "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a comunicação do bebê?.md",
+                "file": "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a comunicação do bebê?.md"
+                "file": "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md"
               }
             }
           },
@@ -233,10 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3036f2f821011a48",
+  "active": "851063966a5bb816",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
     "Como funciona a comunicação do bebê?.md",
+    "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
     "2. Literature Notes/Topics/A mãe é fundante da nossa personalidade.md",
     "2. Literature Notes/Topics/Como compreender a diferença entre corpo, alma e espírito?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
