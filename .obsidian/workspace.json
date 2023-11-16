@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Writer/Eu descobri.md",
+                "file": "2. Literature Notes/Topics/Lei de Causalidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "causali",
+                "query": "causalid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Writer/Eu descobri.md",
+                "file": "2. Literature Notes/Topics/Lei de Causalidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Writer/Eu descobri.md",
+                "file": "2. Literature Notes/Topics/Lei de Causalidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Writer/Eu descobri.md"
+                "file": "2. Literature Notes/Topics/Lei de Causalidade.md"
               }
             }
           },
@@ -221,8 +220,8 @@
   },
   "active": "851063966a5bb816",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei de Causalidade.md",
     "7. Writer/Eu descobri.md",
+    "2. Literature Notes/Topics/Lei de Causalidade.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
     "Como funciona a comunicação do bebê?.md",
