@@ -14,6 +14,7 @@
 ---------
 
 **Oeste: similar**
+- [[Você está disposto a abandonar tudo que te adoeceu?]]
 
 **Leste: oposto**
 

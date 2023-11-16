@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "8bddb3da988f51e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b6e0c5d66595f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2f314f75f7d860b5",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "causalid",
+                "query": "doente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Não existe acaso.md",
+                "file": "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Não existe acaso.md",
+                "file": "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Não existe acaso.md"
+                "file": "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md"
               }
             }
           },
@@ -231,11 +255,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a31cb25827a26131",
+  "active": "8bddb3da988f51e1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Absolutamente tudo que acontece na minha vida importa.md",
+    "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
+    "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
     "2. Literature Notes/Topics/Lei de Causalidade.md",
     "Não existe acaso.md",
+    "2. Literature Notes/Topics/Absolutamente tudo que acontece na minha vida importa.md",
     "7. Writer/Eu descobri.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
@@ -258,8 +284,6 @@
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/\"Os lábios da sabedoria só se abrem ao ouvido do entendimento\".md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias/Escopo do Desafio 3 Dias de Meditação.md",
-    "2. Literature Notes/Topics/Qual é a função dos filhos?.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
     "7. Writer",
