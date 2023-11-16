@@ -4,8 +4,8 @@
   "frequency": "60",
   "triggerOnLoad": true,
   "isSyncing": false,
-  "lastSyncFailed": true,
-  "lastSavedStatusID": 11363027,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 11391006,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
