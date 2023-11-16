@@ -1,0 +1,1 @@
+Eu descobri que eu não sabia o que era ser adulta. Eu descobri que eu estou aprendendo a cuidar de mim. Eu descobri que eu não sabia o que era ter a verdadeira responsabilidade da vida. Era muitp 
