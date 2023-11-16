@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Tudo comunica. Não existe acaso, tudo me informa alguma coisa.
+Tudo comunica. [[Não existe acaso]], tudo me informa alguma coisa.
 
 ###### **COMO:**
 
