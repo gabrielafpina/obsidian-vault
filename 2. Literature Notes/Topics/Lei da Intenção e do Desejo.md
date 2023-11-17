@@ -37,6 +37,8 @@ Escreva as suas intenções e os seus desejos e se conecte sempre que possível 
 
 Solta toda a expectativa de resultado, porque o universo sabe o caminho para você alcançar o que você almeja, para aquilo chegar até você. O universo vai te surpreender. Confie que as coisas podem ser diferentes e muito mais fáceis. [[Lei do Distanciamento]]. A expectativa traz o apego e pode causar ansiedade, que atrapalha a manifestação do desejo. É importante ter neutralidade ([[O caminho do meio é o caminho do equilíbrio]]), confiando e se mantendo no caminho do meio. Deixa os detalhes com o universo. O passo a passo vai chegar.
 
+Foco
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
