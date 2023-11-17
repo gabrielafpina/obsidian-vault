@@ -26,7 +26,9 @@ Depois, é importante confiar que isso vai acontecer. Permanecer firme no propó
 
 Colocar consciência na minha intenção, me fala sobre o futuro, do que eu almejo e a energia voltada para o que eu almejo. E a consciência na atenção fala do aqui.
 
-[[Where focus goes, energy flows]]
+[[Where focus goes, energy flows]].
+
+Solta a forma, como você acha que as coisas devem acontecer. Viva a [[Lei do Mínimo Esforço]]. Confia que o universo vai te mandar a melhor forma de você alcançar aquilo. Se você está presente, tem um propósito e intenção bons e desejo verdadeiro da sua alma, o como vai acontecer. [[A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus]].
 
 ###### **COMO:**
 
