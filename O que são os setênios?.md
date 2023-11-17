@@ -14,7 +14,7 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 
 ![[teoria-dos-setenios.jpeg]]
 
-
+[[O que acontece quando uma pessoa pula um setênio?]]
 
 ###### **COMO:**
 

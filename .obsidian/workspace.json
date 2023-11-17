@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "e7ab6c3b3303eb46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que acontece quando uma pessoa pula um setênio?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "40958cbb21ef9fe9",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são os setênios?.md",
+                "file": "O que acontece quando uma pessoa pula um setênio?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são os setênios?.md",
+                "file": "O que acontece quando uma pessoa pula um setênio?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são os setênios?.md"
+                "file": "O que acontece quando uma pessoa pula um setênio?.md"
               }
             }
           },
@@ -292,11 +304,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd766c5008e378ab",
+  "active": "e7ab6c3b3303eb46",
   "lastOpenFiles": [
+    "O que são os setênios?.md",
+    "O que acontece quando uma pessoa pula um setênio?.md",
     "teoria-dos-setenios.jpeg",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
-    "O que são os setênios?.md",
     "Rudolf Steiner.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Lei de Causalidade.md",
@@ -341,7 +354,6 @@
     "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
-    "5. Shots, Images & PDFs/af3f923e0e9be76724e3471bb46d5b98.jpeg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
