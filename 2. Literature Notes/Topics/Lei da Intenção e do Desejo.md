@@ -5,6 +5,7 @@
 
 ###### **DEFINIÇÃO:**
 É inerente a toda intenção e a todo desejo o mecanismo de sua realização... A intenção e o desejo tem, no campo da potencialidade pura ([[Lei da Potencialidade Pura]]) o poder da organização infinita.
+	É importante silenciar a mente e acessar o que já está dentro de você, que já é você. Ouça a sua intuição e abandone a forma como você acha que as coisas devem acontecer. O segredo é se conectar com o presente e dar o seu melhor no aqui e agora.
 
 E quando introduzimos uma intenção no campo fértil da potencialidade pura, colocamos essa infinita organização a nosso serviço.
 
@@ -29,6 +30,8 @@ Colocar consciência na minha intenção, me fala sobre o futuro, do que eu alme
 [[Where focus goes, energy flows]].
 
 Solta a forma, como você acha que as coisas devem acontecer. Viva a [[Lei do Mínimo Esforço]]. Confia que o universo vai te mandar a melhor forma de você alcançar aquilo. Se você está presente, tem um propósito e intenção bons e desejo verdadeiro da sua alma, o como vai acontecer. [[A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus]].
+
+Não fale da sua intenção com ninguém. Ao compartilhar, você acaba fragmentando a energia e a intenção perde a potência. Plante a sua intenção e cuide dela. Os frutos da sua intenção você pode compartilhar, porque ela já esta grande e forte, ela deu frutos. Aquilo já é uma realidade. Ou seja, eu compartilho os resultados, não a ideia. Porque mesmo que intencionalmente, não querendo, as pessoas que você compartilha, podem interferir. [[As pessoas querem te ver bem, mas não tão bem quanto elas.]]
 
 ###### **COMO:**
 
