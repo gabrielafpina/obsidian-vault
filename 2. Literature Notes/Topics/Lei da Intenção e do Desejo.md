@@ -24,7 +24,9 @@ Depois, é importante confiar que isso vai acontecer. Permanecer firme no propó
 
 [[Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo.]]
 
-Colocar consciência na minha intenção, me fala sobre o futuro, do que eu almejo e a energia voltada para o que eu almejo. E a consci
+Colocar consciência na minha intenção, me fala sobre o futuro, do que eu almejo e a energia voltada para o que eu almejo. E a consciência na atenção fala do aqui.
+
+[[Where focus goes, energy flows]]
 
 ###### **COMO:**
 
