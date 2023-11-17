@@ -10,7 +10,6 @@ Hoje é encontrada em várias áreas:
 - Pedagogia (escolas Waldorf)
 - Agricultura bioninânimca
 - medicina antroposófica 
-	- É um sist
 
 ###### **COMO:**
 
@@ -27,3 +26,4 @@ Hoje é encontrada em várias áreas:
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+[[O que são os setênios?]]
