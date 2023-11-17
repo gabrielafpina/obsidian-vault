@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "61362419e684d68a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2afaf0bbd2220da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b25c7af319b0185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Lei do Distanciamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7522ab70d7ca7ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a antroposofia?.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -202,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
+                "file": "2. Literature Notes/Topics/O que é a antroposofia?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
+                "file": "2. Literature Notes/Topics/O que é a antroposofia?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md"
+                "file": "2. Literature Notes/Topics/O que é a antroposofia?.md"
               }
             }
           },
@@ -281,13 +268,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "7522ab70d7ca7ab9",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
+    "2. Literature Notes/Topics/Lei do Distanciamento.md",
+    "2. Literature Notes/Topics/O que é a antroposofia?.md",
+    "2. Literature Notes/Topics/Lei de Causalidade.md",
     "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
+    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
-    "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
     "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
@@ -297,7 +286,6 @@
     "A consciência tem que estar só onde ela existe, no aqui e no agora.md",
     "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "7. Writer/Eu descobri.md",
-    "2. Literature Notes/Topics/Lei de Causalidade.md",
     "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
     "2. Literature Notes/Topics/Você está disposto a abandonar tudo que te adoeceu?.md",
     "Não existe acaso.md",
@@ -309,7 +297,6 @@
     "2. Literature Notes/Topics/Como compreender a diferença entre corpo, alma e espírito?.md",
     "2. Literature Notes/Topics/Cadeia Emocional.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
-    "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
     "7. Writer",
