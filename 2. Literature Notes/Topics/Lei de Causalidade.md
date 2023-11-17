@@ -30,6 +30,8 @@ Eu sou o único responsável por absolutamente tudo o que acontece na minha vida
 
 [[Não existe acaso]]. 
 
+Absolutamente tudo que acontece na sua vida está colhendo o efeito de uma causa que você mesmo plantou. Mude a sua mente que tudo muda.
+
 ###### **PENSADORES:**
 
 ###### **FRASES:**
