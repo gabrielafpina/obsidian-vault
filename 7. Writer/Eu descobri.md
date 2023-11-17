@@ -1,3 +1,4 @@
+**Data:** 16/11/2023
 Eu descobri que eu não sabia o que era ser adulta. Eu descobri que eu estou aprendendo a cuidar de mim. Eu descobri que eu não sabia o que era ter a verdadeira responsabilidade da vida. Era muito mais fácil falar daquele lugar (e isso é uma postura de vítima). Eu descobri que eu estou aprendendo a ser adulta.
 
 A partir do momento em que eu engravidei, parece que o mundo capotou. Ele não gira, ele capota. E é isso que eu estou sentindo.
