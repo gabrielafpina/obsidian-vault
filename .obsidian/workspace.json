@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "4be0701428562270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Estrela de Valores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6425ff147ca90bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8bddb3da988f51e1",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -147,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incerteza",
+                "query": "raio x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -315,8 +339,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d129c51a6927a95",
+  "active": "f6425ff147ca90bf",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Estrela de Valores.md",
+    "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo..md",
@@ -339,11 +365,9 @@
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "2. Literature Notes/Topics/Como encontrar meu propósito? Teal.md",
     "2. Literature Notes/Topics/Quais são os principais sabotadores?.md",
-    "2. Literature Notes/Topics/Estrela de Valores.md",
     "2. Literature Notes/Topics/Constelação familiar.md",
     "2. Literature Notes/Topics/Quando um pai e uma mãe se separam, quem é a melhor pessoa para ficar com a criança?.md",
     "2. Literature Notes/Topics/Como você pune alguém secretamente?.md",
-    "2. Literature Notes/Topics/O que são os sabotadores?.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
     "7. Writer",
