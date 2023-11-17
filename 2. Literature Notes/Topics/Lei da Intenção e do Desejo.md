@@ -22,6 +22,10 @@ O principal é o propósito. Depois intenção, desejo e aí o efeito. Então, �
 
 Depois, é importante confiar que isso vai acontecer. Permanecer firme no propósito, porque ele é para o bem maior de todos os envolvidos.
 
+[[Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo.]]
+
+Colocar consciência na minha intenção, me fala sobre o futuro, do que eu almejo e a energia voltada para o que eu almejo. E a consci
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -37,3 +41,4 @@ Depois, é importante confiar que isso vai acontecer. Permanecer firme no propó
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A consciência tem que estar só onde ela existe, no aqui e no agora]]

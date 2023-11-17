@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "fb01ab7275348478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A consciência tem que estar só onde ela existe, no aqui e no agora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61362419e684d68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8bddb3da988f51e1",
             "type": "leaf",
             "state": {
@@ -99,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doente",
+                "query": "confiança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +150,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,8 +293,10 @@
   },
   "active": "5af3377dab9f0e65",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
+    "A consciência tem que estar só onde ela existe, no aqui e no agora.md",
     "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
+    "Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo..md",
+    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "7. Writer/Eu descobri.md",
     "2. Literature Notes/Topics/Lei de Causalidade.md",
     "2. Literature Notes/Topics/Não é sinal de sanidade eu buscar me adaptar a uma sociedade totalmente doente.md",
@@ -295,8 +320,6 @@
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Tudo começa com pai e mãe.md",
     "2. Literature Notes/Topics/Quais são os 5 vícios relacionados com a falta do pai?.md",
-    "2. Literature Notes/Topics/O sucesso só pode acontecer quando tiver humildade radical.md",
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
     "7. Writer",
