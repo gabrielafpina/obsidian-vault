@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
+                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
+                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As pessoas querem te ver bem, mas não tão bem quanto elas..md"
+                "file": "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md"
               }
             }
           },
@@ -267,10 +267,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c33160e143179604",
+  "active": "61362419e684d68a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
     "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
+    "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "2. Literature Notes/Topics/Estrela de Valores.md",
