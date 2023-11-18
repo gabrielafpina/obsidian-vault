@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que acontece quando uma pessoa pula um setênio?.md",
+                "file": "O que são os setênios?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que acontece quando uma pessoa pula um setênio?.md",
+                "file": "O que são os setênios?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que acontece quando uma pessoa pula um setênio?.md"
+                "file": "O que são os setênios?.md"
               }
             }
           },
@@ -304,10 +304,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7ab6c3b3303eb46",
+  "active": "bd766c5008e378ab",
   "lastOpenFiles": [
-    "O que são os setênios?.md",
     "O que acontece quando uma pessoa pula um setênio?.md",
+    "O que são os setênios?.md",
     "teoria-dos-setenios.jpeg",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
     "Rudolf Steiner.md",
