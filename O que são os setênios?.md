@@ -24,7 +24,10 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 	- É muito comum que no final desse setênio a pessoa entre em crise existencial. É quando o adolescente tem que decidir o que ele vai fazer de faculdade, o que ele vai estudar pelos próximos anos e para o resto da vida. Se ele não está fortalecido nele, no que ele gosta, no que veio fazer, ele vai tomar essa decisão baseada no que as pessoas esperam dela, em expectativas externas.
 	- Começa a se comparar com os outros. A ter influência externa dos outros. O mundo pode deixar de ser tão maravilhoso.
 	- É onde começar a nascer o corpo astral. É importante firmar o eu dela. Quem sou eu?
-- **21 - 28 anos (**
+- **21 - 28 anos (Preparo para a vida)**: onde vivencio e experiencio o mundo. É a alma das sensações. É a vida. 
+	- Aqui é quando começa o segundo ciclo de 3, que estão vinculados com a vida social e do trabalho. É quando o ser vai começar a experienciar sensações, necessidade de independência.
+	- É importante que a pessoa viva momentos especiais, únicos, experiências, viagens. Onde ela se relacione com pessoas diferentes. É quando ela vai para a vida.
+- **28 - 35 anos (Integração masculino e feminino)**: é onde rola a crise dos talentos.
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
