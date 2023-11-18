@@ -32,6 +32,8 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 	- É quando eu vou me colocar no meu lugar, exatamente onde eu escolhi estar, o meu combinado com Deus, o que eu vim realizar, com as pessoas que eu escolho estar. É o setênio do meu lugar cármico, que eu combinei com Deus, por isso são os anos crísticos.
 	- Aqui tem uma abertura muito forte da espiritualidade, muito maior do que já aconteceu antes. Existe uma preocupação não só com o eu, mas com todos.
 	- Você começa a buscar o seu lugar no mundo. A pessoa aqui questiona tudo que ela conquistou até então. 
+- **35 - 42 anos (Chegar a essência)**: eu questiono a mim mesmo. Essência. É quando eu consolido o meu lugar. São comuns as crises existenciais e os questionamentos com relação ao que eu realmente tenho que fazer na minha vida.
+	- É quando a pessoa começa a questionar o qu eela é e o que acontece com masis propriedade, responsabilidade e ai ela vai se tornar muito mais verdadeira, real com ela mesma. Justa. É o momento em que ela vai voltar para o eu interior. É onde abre espaço para o amadurecimento espiritual.
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
