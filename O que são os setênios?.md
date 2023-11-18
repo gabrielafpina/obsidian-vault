@@ -42,6 +42,7 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 	- É um momento de iniciar outros projetos, começar e criar coisas novas. Isso vai fazer com que a pessoa tenha um vigor.
 - **49 - 56 anos (A fase da sabedoria)**: alma inspirativa. Eu tenho novos valores. Faço o que é necessário.
 - **56 - 63 (a fase mística)**: eu tenho uma nova missão. Eu faço o bem. É quando o Ser vai ter uma nova missão relacionada com o que ela passou ao longo da vida. Vai doar tudo o que aprendeu, viveu, experienciou. É quando a pessoa aprende a escutar e ensinar. A pessoa dá uma acalmada.
+	- Algumas se tornam mais fechadas. Certeiras e cirúrgicas.
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
