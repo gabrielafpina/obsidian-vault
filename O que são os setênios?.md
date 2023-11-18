@@ -33,7 +33,12 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 	- Aqui tem uma abertura muito forte da espiritualidade, muito maior do que já aconteceu antes. Existe uma preocupação não só com o eu, mas com todos.
 	- Você começa a buscar o seu lugar no mundo. A pessoa aqui questiona tudo que ela conquistou até então. 
 - **35 - 42 anos (Chegar a essência)**: eu questiono a mim mesmo. Essência. É quando eu consolido o meu lugar. São comuns as crises existenciais e os questionamentos com relação ao que eu realmente tenho que fazer na minha vida.
-	- É quando a pessoa começa a questionar o qu eela é e o que acontece com masis propriedade, responsabilidade e ai ela vai se tornar muito mais verdadeira, real com ela mesma. Justa. É o momento em que ela vai voltar para o eu interior. É onde abre espaço para o amadurecimento espiritual.
+	- É quando a pessoa começa a questionar o que ela é e o que acontece com mais propriedade, responsabilidade e ai ela vai se tornar muito mais verdadeira, real com ela mesma. Justa. É o momento em que ela vai voltar para o eu interior. É onde abre espaço para o amadurecimento espiritual. 
+	- Surgem questionamentos sobre se eu estou fazendo o que eu de fato deveria estar fazendo. Se eu estou no meu lugar, onde eu gostaria de estar. Isso permite que a pessoa assuma o que ela está passando e se torne responsável pela vida dela.
+	- No final desse setênio rola a crise da autenticidade. Essa pessoa faz o que é essencial.
+- **42 - 49 anos (a nova visão)**: a alma imaginativa. 'Eu tenho as minhas respostas' e ela faz o que está conectado com a essência dela. É o começo dos setênios mais espirituais, o que vai trazer habilidade de olhar pras coisas de um outro lugar. 
+	- A pessoa desenvolve sabedoria. Se desidentificando com o que está acontecendo, tendo uma visão de águia.
+	- Momento de reviravolta com relação à criatividade.
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
