@@ -38,7 +38,10 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 	- No final desse setênio rola a crise da autenticidade. Essa pessoa faz o que é essencial.
 - **42 - 49 anos (a nova visão)**: a alma imaginativa. 'Eu tenho as minhas respostas' e ela faz o que está conectado com a essência dela. É o começo dos setênios mais espirituais, o que vai trazer habilidade de olhar pras coisas de um outro lugar. 
 	- A pessoa desenvolve sabedoria. Se desidentificando com o que está acontecendo, tendo uma visão de águia.
-	- Momento de reviravolta com relação à criatividade.
+	- Momento de reviravolta com relação à criatividade. É quando muitas mulheres começam a entrar na menopausa e a energia da criação se volta para outro lugar, para a criatividade.
+	- É um momento de iniciar outros projetos, começar e criar coisas novas. Isso vai fazer com que a pessoa tenha um vigor.
+- **49 - 56 anos (A fase da sabedoria)**: alma inspirativa. Eu tenho novos valores. Faço o que é necessário.
+- **56 - 63 (a fase mística)**: eu tenho uma nova missão. Eu faço o bem. É quando o Ser vai ter uma nova missão relacionada com o que ela passou ao longo da vida. Vai doar tudo o que aprendeu, viveu, experienciou. É quando a pessoa aprende a escutar e ensinar. A pessoa dá uma acalmada.
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
