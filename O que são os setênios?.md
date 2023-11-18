@@ -27,8 +27,11 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 - **21 - 28 anos (Preparo para a vida)**: onde vivencio e experiencio o mundo. É a alma das sensações. É a vida. 
 	- Aqui é quando começa o segundo ciclo de 3, que estão vinculados com a vida social e do trabalho. É quando o ser vai começar a experienciar sensações, necessidade de independência.
 	- É importante que a pessoa viva momentos especiais, únicos, experiências, viagens. Onde ela se relacione com pessoas diferentes. É quando ela vai para a vida.
-- **28 - 35 anos (Integração masculino e feminino)**: é onde rola a crise dos talentos. É onde se desenvolve a alma do intelecto e da índole
-	- É aqui que rola a chave vital, a curva de maior desenvolvimento. É aqui que Buda se iluminou, que Jesus morreu
+- **28 - 35 anos (Integração masculino e feminino)**: é onde rola a crise dos talentos. É onde se desenvolve a alma do intelecto e da índole - é quando eu me volto pra dentro, quando as coisas externas já não tem mais influência sobre mim. Quando eu já vi que o que eu procurava estava dentro de mim. O caminho é só pra dentro.
+	- É aqui que rola a chave vital, a curva de maior desenvolvimento. É aqui que Buda se iluminou, que Jesus morreu.
+	- É quando eu vou me colocar no meu lugar, exatamente onde eu escolhi estar, o meu combinado com Deus, o que eu vim realizar, com as pessoas que eu escolho estar. É o setênio do meu lugar cármico, que eu combinei com Deus, por isso são os anos crísticos.
+	- Aqui tem uma abertura muito forte da espiritualidade, muito maior do que já aconteceu antes. Existe uma preocupação não só com o eu, mas com todos.
+	- Você começa a buscar o seu lugar no mundo. A pessoa aqui questiona tudo que ela conquistou até então. 
 
 [[O que acontece quando uma pessoa pula um setênio?]]
 
