@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5c88f141d0c63883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autoconfiança é sinônimo de prosperidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c17dfdbd8e69a8d7",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são os setênios?.md",
+                "file": "Autoconfiança é sinônimo de prosperidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são os setênios?.md",
+                "file": "Autoconfiança é sinônimo de prosperidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são os setênios?.md"
+                "file": "Autoconfiança é sinônimo de prosperidade.md"
               }
             }
           },
@@ -304,11 +316,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e366a2301e5f2a33",
+  "active": "5c88f141d0c63883",
   "lastOpenFiles": [
+    "O que são os setênios?.md",
+    "Autoconfiança é sinônimo de prosperidade.md",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
     "Rudolf Steiner.md",
-    "O que são os setênios?.md",
     "O que acontece quando uma pessoa pula um setênio?.md",
     "teoria-dos-setenios.jpeg",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
@@ -332,7 +345,6 @@
     "2. Literature Notes/Topics/Absolutamente tudo que acontece na minha vida importa.md",
     "2. Literature Notes/Topics/Ninguém tem que porra nenhuma.md",
     "2. Literature Notes/Topics/Como a mente se desenvolve, segundo Freud.md",
-    "Como funciona a comunicação do bebê?.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",

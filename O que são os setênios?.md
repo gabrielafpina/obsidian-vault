@@ -61,3 +61,4 @@ Steiner afirma que existem determinadas questões que não podemos deixar de viv
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+[[Autoconfiança é sinônimo de prosperidade]]
