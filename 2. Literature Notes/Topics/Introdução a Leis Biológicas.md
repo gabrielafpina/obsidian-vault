@@ -9,7 +9,7 @@ Leis biológicas é toda e qualquer estratégia de sobrevivência que o  nosso c
 
 [[Nada é aleatório]].
 
-Leis biológicas são a tradução do que o nosso [[Inconsciente]] quer dizer enquanto informação.
+Leis biológicas são a tradução do que o nosso [[Inconsciente]] quer dizer enquanto informação. É a história por trás do sintoma. Todos nós somos o somatório das nossas histórias.
 
 Somos mamíferos, animais que andam em bandos. Não vivemos sozinhos. Se você tem a perda de um elemento do grupo, o grupo fica enfraquecido. Por isso, em muitos casos, quando um animal do bando morre, uma fêmea pode começar a ficar fértil para repor aquele membro do grupo.
 
