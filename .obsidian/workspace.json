@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1d652bb9817a9124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d7f3a01b0a78538",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sintoma",
+                "query": "funciona",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,12 +138,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "2. Literature Notes/Topics/Como você funciona?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
+                "file": "2. Literature Notes/Topics/Como você funciona?.md"
               }
             }
           },
@@ -268,10 +280,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8410278754806a07",
+  "active": "1d652bb9817a9124",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
     "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
     "O caos antecede o cosmos.md",
     "O medo dificulta a tomada de decisão em prol da mudança.md",
     "O que é ressignificar?.md",
