@@ -21,5 +21,6 @@ Você atrai um espelho. [[Toda pessoa que para na sua frente é seu espelho]].
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O que são os setênios?]]
 
 **Sul: para onde vai**

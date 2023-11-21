@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autoconfiança é sinônimo de prosperidade.md",
+                "file": "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,10 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
+                "file": "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "45237329d05335ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O medo dificulta a tomada de decisão em prol da mudança.md",
+                "file": "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O caos antecede o cosmos.md",
+                "file": "2. Literature Notes/Topics/O caos antecede o cosmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,14 +129,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,7 +245,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +261,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,9 +282,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md"
-              }
+              "state": {}
             }
           },
           {
@@ -315,26 +320,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73c1d72dfef2242f",
+  "active": "45237329d05335ab",
   "lastOpenFiles": [
-    "Autoconfiança é sinônimo de prosperidade.md",
-    "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
+    "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
+    "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
-    "Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "O caos antecede o cosmos.md",
-    "O medo dificulta a tomada de decisão em prol da mudança.md",
-    "O que é ressignificar?.md",
+    "2. Literature Notes/Topics/O caos antecede o cosmos.md",
+    "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
+    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "7. Writer/VITÓRIA.md",
-    "O que são os setênios?.md",
+    "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
-    "Rudolf Steiner.md",
-    "O que acontece quando uma pessoa pula um setênio?.md",
-    "teoria-dos-setenios.jpeg",
+    "2. Literature Notes/People/Rudolf Steiner.md",
+    "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
+    "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "2. Literature Notes/Topics/Lei do Distanciamento.md",
     "2. Literature Notes/Topics/Lei de Causalidade.md",
     "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
@@ -342,7 +347,7 @@
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
+    "2. Literature Notes/Topics/As pessoas querem te ver bem, mas não tão bem quanto elas..md",
     "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
