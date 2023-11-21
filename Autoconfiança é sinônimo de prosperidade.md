@@ -21,3 +21,4 @@ Autoconhecimento é sinônimo de prosperidade.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Não existe a possibilidade de um casamento se sustentar se você não se conhece]]

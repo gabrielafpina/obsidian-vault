@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "73c1d72dfef2242f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d7f3a01b0a78538",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autoconfiança é sinônimo de prosperidade.md",
+                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autoconfiança é sinônimo de prosperidade.md",
+                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autoconfiança é sinônimo de prosperidade.md"
+                "file": "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md"
               }
             }
           },
@@ -303,8 +315,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2960ceac993fa464",
+  "active": "73c1d72dfef2242f",
   "lastOpenFiles": [
+    "Autoconfiança é sinônimo de prosperidade.md",
+    "Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
@@ -316,7 +330,6 @@
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "7. Writer/VITÓRIA.md",
-    "Autoconfiança é sinônimo de prosperidade.md",
     "O que são os setênios?.md",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
     "Rudolf Steiner.md",
@@ -331,7 +344,6 @@
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "As pessoas querem te ver bem, mas não tão bem quanto elas..md",
     "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
-    "2. Literature Notes/Topics/Estrela de Valores.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
