@@ -4,6 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Autoconhecimento é sinônimo de prosperidade.
 
 ###### **COMO:**
 
