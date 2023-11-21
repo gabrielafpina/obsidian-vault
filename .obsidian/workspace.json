@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "6d3192d1e908b6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O caos antecede o cosmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cca363064ff06480",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é ressignificar?.md",
+                "file": "O caos antecede o cosmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é ressignificar?.md",
+                "file": "O caos antecede o cosmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é ressignificar?.md"
+                "file": "O caos antecede o cosmos.md"
               }
             }
           },
@@ -243,9 +255,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca363064ff06480",
+  "active": "6d3192d1e908b6cf",
   "lastOpenFiles": [
     "O medo dificulta a tomada de decisão em prol da mudança.md",
+    "O caos antecede o cosmos.md",
     "O que é ressignificar?.md",
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
@@ -271,7 +284,6 @@
     "Confiar não significa achar que tudo vai dar certo. Significa que tudo já está certo..md",
     "Where focus goes, energy flows.md",
     "A consciência tem que estar só onde ela existe, no aqui e no agora.md",
-    "2. Literature Notes/Topics/Lei da Causa e Efeito.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
