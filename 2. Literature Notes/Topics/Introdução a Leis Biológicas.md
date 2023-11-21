@@ -61,3 +61,4 @@ As vezes, um elemento do clã morre para que os outros possam continuar a viver.
 
 **Sul: para onde vai**
 - [[Minimax]]
+- [[Uma criança que não foi amamentada, é uma criança que biologicamente passou fome]]
