@@ -19,10 +19,11 @@ A anatomia com que cada criança nasce é dada quando vem ao mundo. Mas, o modo 
 A psicanálise nos mostrou que, enquanto as diferenças biológicas são captadas facilmente, a maneira como elas são elaboradas não são. A masculinidade e a feminilidade independem da realidade biológica e são construídos a partir do reconhecimento da diferença entre os sexos.
 	A identidade sexual será o resultado da integração das diferentes experiências mobilizadas nesse momento do desenvolvimento.
 
+[[Sigmund Freud]] falava da mulher como sendo uma pessoa que se percebia inferior ao homem, por não possuir um pênis.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
-- [[Sigmund Freud]]
 
 ###### **FRASES:**
 
