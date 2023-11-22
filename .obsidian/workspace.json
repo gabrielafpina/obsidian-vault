@@ -4,139 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e08176ab5c165fb6",
+        "id": "33ed2b459ed502b7",
         "type": "tabs",
         "children": [
           {
-            "id": "91784701f1106674",
+            "id": "80833f46ac92cac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8410278754806a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d652bb9817a9124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como você funciona?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f904b567a662f33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2960ceac993fa464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73c1d72dfef2242f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45237329d05335ab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d7f3a01b0a78538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2a196b35e411f5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3192d1e908b6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O caos antecede o cosmos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cca363064ff06480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prosperidade",
+                "query": "psíquico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -245,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Untitled 1.md"
+              }
             }
           },
           {
@@ -320,8 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45237329d05335ab",
+  "active": "80833f46ac92cac8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Untitled 1.md",
+    "2. Literature Notes/Topics/O caos antecede o cosmos.md",
     "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
     "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
@@ -329,7 +218,6 @@
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "2. Literature Notes/Topics/O caos antecede o cosmos.md",
     "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
@@ -348,7 +236,6 @@
     "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/As pessoas querem te ver bem, mas não tão bem quanto elas..md",
-    "2. Literature Notes/Topics/Desafios vem para testar a sua fé.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
