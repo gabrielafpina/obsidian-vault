@@ -1,3 +1,7 @@
+ "Você está em uma prisão e nem sabe"
+
+Você sabe o que a Oprah, Warren e Ray Dalio têm em comum? (mostrando imagens de cada um enquanto fala)
+
 1. **Introdução com Contraste Visual**
     - **Imagem**: Cenário que simboliza uma prisão.
     - **Som**: 'Poof' para captar atenção.
@@ -28,5 +32,6 @@
     - **Narrativa (Voz Off)**: "A meditação também me ajudou e ajudou centenas de alunos meus a se libertarem da própria mente e viverem livres. Quero mostrar como você também pode viver isso na sua vida."
 
 6. **Call to Action**
+7. 
     - **Imagem**: Tela convidativa com informações de inscrição.
     - **Texto na Tela**: "Descubra como viver livre. Clique em 'Saiba Mais'."
