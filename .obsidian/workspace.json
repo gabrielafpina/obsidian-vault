@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD2 -.md",
+                "file": "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bfe0b8dbe0210cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD2 -.md",
+                "file": "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD2 -.md",
+                "file": "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD2 -.md"
+                "file": "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md"
               }
             }
           },
@@ -232,10 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0de983f4899f217",
+  "active": "7bfe0b8dbe0210cd",
   "lastOpenFiles": [
+    "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
+    "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
     "6. Creator/Products/MPA/Criativos/AD1 - Prisão mental + Warren + Oprah.md",
-    "6. Creator/Products/MPA/Criativos/AD2 -.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "6. Creator/Products/MPA/Criativos",
     "2. Literature Notes/Topics/Como funciona a sexualidade na psicanálise?.md",
@@ -261,7 +274,6 @@
     "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
-    "2. Literature Notes/Topics/Antes de querer salvar a outra pessoa, pergunte a ela se ela está disposta a abandonar o que a fez adoecer.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",
