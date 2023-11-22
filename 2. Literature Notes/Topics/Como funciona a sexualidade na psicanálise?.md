@@ -11,6 +11,8 @@ Quando ela se identifica com o corpo masculino, ela se identifica com o pai. Qua
 
 Ao mesmo tempo que reconhece a diferença anatômica entre os sexos, todas as crianças tem de abdicar dos desejos amorosos em relação a seus pais e transformá-los em ternura.
 
+O momento do reconhecimento das diferenças sexuais entre os seres humanos mobiliza grandes angústias e conflitos. O amor que a criança sente vindo de seus pais contribui muito para a sua resolução. É um momento de integração e organização da vida emocional.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
