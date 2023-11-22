@@ -13,6 +13,8 @@ Ao mesmo tempo que reconhece a diferença anatômica entre os sexos, todas as cr
 
 O momento do reconhecimento das diferenças sexuais entre os seres humanos mobiliza grandes angústias e conflitos. O amor que a criança sente vindo de seus pais contribui muito para a sua resolução. É um momento de integração e organização da vida emocional.
 
+A anatomia com que cada criança nasce é dada quando vem ao mundo. Mas, o modo como cada pessoa vê sua anatomia, será construído através de suas experiências, ganhando um significado emocional específico para cada um.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
