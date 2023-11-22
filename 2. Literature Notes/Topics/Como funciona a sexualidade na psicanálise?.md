@@ -19,7 +19,11 @@ A anatomia com que cada criança nasce é dada quando vem ao mundo. Mas, o modo 
 A psicanálise nos mostrou que, enquanto as diferenças biológicas são captadas facilmente, a maneira como elas são elaboradas não são. A masculinidade e a feminilidade independem da realidade biológica e são construídos a partir do reconhecimento da diferença entre os sexos.
 	A identidade sexual será o resultado da integração das diferentes experiências mobilizadas nesse momento do desenvolvimento.
 
-[[Sigmund Freud]] falava da mulher como sendo uma pessoa que se percebia inferior ao homem, por não possuir um pênis.
+[[Sigmund Freud]] falava da mulher como sendo uma pessoa que se percebia inferior ao homem, por não possuir um pênis. Não como órgão genital, mas sim representante de um valor e um poder que sejam desejáveis e que, segundo ele, a menina queria.
+	Este foi o primeiro estudo de Freud a respeito da sexualidade feminina e realizado em uma época vitoriana. Freud pesquisava a sexualidade feminina tendo como suporte a masculinidade, baseando a questão do mistério feminina naquilo que 'falta à mulher'.
+	Porém, neste mesmo trabalho, também afirmava: 'Há muito tempo, afinal de contas, já abandonamos qualquer expectativa quanto a um paralelismo nítido entre o desenvolvimento sexual masculino e feminino.'
+	Aqui, já podemos vislumbrar o que seria reconhecido posteriormente, dentro da psicanálise, de que o sentimento da falta está presente tanto no menino quanto na menina devido à separação do primeiro objeto de amor que a criança precisa fazer.
+	Freud já percebia a mulher como um ser autônomo do homem, com um desenvolvimento psicossexual peculiar, sendo uma pessoa inteira e não como se faltasse algo nela.
 
 ###### **COMO:**
 
