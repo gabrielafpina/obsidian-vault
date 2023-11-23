@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "84e3c9e02d5b7ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energia",
+                "query": "afirmações",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -321,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tudo é uma questão de oportunidade.md",
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tudo é uma questão de oportunidade.md",
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tudo é uma questão de oportunidade.md"
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md"
               }
             }
           },
@@ -400,10 +412,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f4a79a3829a4efb",
+  "active": "84e3c9e02d5b7ccc",
   "lastOpenFiles": [
-    "Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "Tudo é uma questão de oportunidade.md",
+    "2. Literature Notes/Topics/Como criar afirmações?.md",
+    "Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
     "A fé é um pensamento coerente.md",
     "Somos todos responsáveis por tudo o que acontece.md",
@@ -428,7 +441,6 @@
     "2. Literature Notes/Topics/Como funciona a sexualidade na psicanálise?.md",
     "2. Literature Notes/Topics/O caos antecede o cosmos.md",
     "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
-    "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
