@@ -22,3 +22,4 @@ Nós não temos tantos problemas quanto achamos que temos. Sempre somos levados 
 
 **Sul: para onde vai**
 - [[A doença não é um problema, é uma resposta]]
+- [[O presente nada mais é do que uma releitura do passado]]
