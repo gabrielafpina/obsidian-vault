@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
+                "file": "2. Literature Notes/Topics/Como criar afirmações?.md"
               }
             }
           },
@@ -412,8 +412,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d86b8bde07e8e196",
+  "active": "84e3c9e02d5b7ccc",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
     "Tudo é uma questão de oportunidade.md",
     "Somos um fractal dos nossos pais e dos nossos antepassados.md",
@@ -421,7 +422,6 @@
     "A fé é um pensamento coerente.md",
     "Somos todos responsáveis por tudo o que acontece.md",
     "Qual é o perigo que manter o dinheiro tem na sua história?.md",
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
     "O desenvolvimento de vida é como uma espiral.md",
