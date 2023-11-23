@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "c29ffb00028eb84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O desenvolvimento de vida é como uma espiral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fdabe8aa7e11a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A doença não é um problema, é uma resposta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6fc4cf5cf67b6583",
             "type": "leaf",
             "state": {
@@ -208,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe acaso.md",
+                "file": "A doença não é um problema, é uma resposta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe acaso.md",
+                "file": "A doença não é um problema, é uma resposta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe acaso.md"
+                "file": "A doença não é um problema, é uma resposta.md"
               }
             }
           },
@@ -287,9 +311,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0970b32e5b2fd16",
+  "active": "5fdabe8aa7e11a63",
   "lastOpenFiles": [
+    "O desenvolvimento de vida é como uma espiral.md",
+    "A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+    "2. Literature Notes/Topics/Não existe acaso.md",
     "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
     "6. Creator/Products/MPA/Criativos/AD1 - Prisão mental + Warren + Oprah.md",
     "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
@@ -314,9 +341,6 @@
     "2. Literature Notes/People/Rudolf Steiner.md",
     "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
-    "2. Literature Notes/Topics/Lei do Distanciamento.md",
-    "2. Literature Notes/Topics/Lei de Causalidade.md",
-    "2. Literature Notes/Topics/Lei da Intenção e do Desejo.md",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
     "6. Creator/Products/MPA",

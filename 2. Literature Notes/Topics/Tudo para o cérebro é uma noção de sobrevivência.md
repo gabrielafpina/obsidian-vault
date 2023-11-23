@@ -22,3 +22,4 @@ Se tudo para o cérebro é uma noção de sobrevivência, o nosso sistema de [[c
 - [[Introdução a Leis Biológicas]]
 
 **Sul: para onde vai**
+- [[O desenvolvimento de vida é como uma espiral]]
