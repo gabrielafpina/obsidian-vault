@@ -1,9 +1,10 @@
 **TAGS:**
 
-**FONTE:** [[Rafael Livramento]]
+**FONTE:** [[Rafael Livramento]] 
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+[[O que move a vida do ser humano é a fé]].
 
 ###### **COMO:**
 
