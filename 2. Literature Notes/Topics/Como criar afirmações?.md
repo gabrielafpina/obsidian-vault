@@ -2,15 +2,15 @@
 
 **FONTE:**
 ###### **BIG IDEA:** 
-Se você só usa afirmações de Eu sou, você opera a partir do chakra base apenas, que é o que tem a menor frequência.
+Se você só usa afirmações de Eu sou, você opera a partir do chakra base apenas, que é o que tem a menor frequência. Por isso, muitas pessoas demoram para materializar o que almejam.
 
 - Chakra base: Eu sou
 - Chakra sexual: Eu sinto
 - Plexo solar: Eu faço
-- Cardíaco:
-- Laríngeo:
-- Terceiro olho:
-- Chakra coronário:
+- Cardíaco: Eu amo
+- Laríngeo: Eu falo
+- Terceiro olho: Eu vejo
+- Chakra coronário: Eu compreendo
 
 ###### **DEFINIÇÃO:**
 
