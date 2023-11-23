@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "dc94717975069cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algumas patologias tem data de aniversário.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8358e443ec84ba47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7a09df07744f617",
             "type": "leaf",
             "state": {
@@ -172,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -191,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acaso",
+                "query": "o que a vida quer me mostrar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -218,8 +242,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md"
+                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md"
               }
             }
           },
@@ -360,10 +383,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94d3d6238a43f470",
+  "active": "8358e443ec84ba47",
   "lastOpenFiles": [
-    "O presente nada mais é do que uma releitura do passado.md",
+    "Algumas patologias tem data de aniversário.md",
+    "O que a vida quer de mim com isso que eu estou vivendo?.md",
     "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+    "O presente nada mais é do que uma releitura do passado.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "O desenvolvimento de vida é como uma espiral.md",
     "A doença não é um problema, é uma resposta.md",
@@ -387,8 +412,6 @@
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
     "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
-    "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
-    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
