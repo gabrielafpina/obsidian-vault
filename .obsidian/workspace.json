@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "f7a09df07744f617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34e7778ab377e9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todos temos uma função biológica para exercer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6fc4cf5cf67b6583",
             "type": "leaf",
             "state": {
@@ -124,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +194,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A doença não é um problema, é uma resposta.md",
+                "file": "Todos temos uma função biológica para exercer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A doença não é um problema, é uma resposta.md",
+                "file": "Todos temos uma função biológica para exercer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A doença não é um problema, é uma resposta.md"
+                "file": "Todos temos uma função biológica para exercer.md"
               }
             }
           },
@@ -311,10 +336,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fdabe8aa7e11a63",
+  "active": "34e7778ab377e9df",
   "lastOpenFiles": [
-    "O desenvolvimento de vida é como uma espiral.md",
+    "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
+    "Todos temos uma função biológica para exercer.md",
     "A doença não é um problema, é uma resposta.md",
+    "O desenvolvimento de vida é como uma espiral.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
     "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
@@ -338,8 +365,6 @@
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "7. Writer/VITÓRIA.md",
     "2. Literature Notes/Topics/O que é a antroposofia?.md",
-    "2. Literature Notes/People/Rudolf Steiner.md",
-    "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
