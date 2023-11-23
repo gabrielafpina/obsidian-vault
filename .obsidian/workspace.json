@@ -104,18 +104,6 @@
             }
           },
           {
-            "id": "84e3c9e02d5b7ccc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "933eb8ca56e2dc59",
             "type": "leaf",
             "state": {
@@ -134,6 +122,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d177e6a903d35179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A vida é evolutiva.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "file": "O desenvolvimento de vida é como uma espiral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "file": "O desenvolvimento de vida é como uma espiral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md"
+                "file": "O desenvolvimento de vida é como uma espiral.md"
               }
             }
           },
@@ -436,8 +436,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c883893473e06488",
+  "active": "c29ffb00028eb84a",
   "lastOpenFiles": [
+    "A vida é evolutiva.md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
@@ -463,8 +465,6 @@
     "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "6. Creator/Products/MPA/Criativos",
-    "2. Literature Notes/Topics/Como funciona a sexualidade na psicanálise?.md",
-    "2. Literature Notes/Topics/O caos antecede o cosmos.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
