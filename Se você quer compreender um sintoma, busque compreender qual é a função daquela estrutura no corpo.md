@@ -4,9 +4,6 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Enxergar a vida assim muda tudo. 
-
-[[Os ciclos da nossa vida tem uma função]]
 
 ###### **COMO:**
 

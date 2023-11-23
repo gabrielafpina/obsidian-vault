@@ -140,6 +140,42 @@
             }
           },
           {
+            "id": "e3ba35437bba4579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo é uma questão de oportunidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee60000160a9ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os ciclos da nossa vida tem uma função.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "800578376307a108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -248,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -357,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O desenvolvimento de vida é como uma espiral.md",
+                "file": "Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +410,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O desenvolvimento de vida é como uma espiral.md",
+                "file": "Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -397,7 +433,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O desenvolvimento de vida é como uma espiral.md"
+                "file": "Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md"
               }
             }
           },
@@ -436,14 +472,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c29ffb00028eb84a",
+  "active": "800578376307a108",
   "lastOpenFiles": [
+    "Os ciclos da nossa vida tem uma função.md",
+    "Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+    "Tudo é uma questão de oportunidade.md",
     "A vida é evolutiva.md",
+    "O desenvolvimento de vida é como uma espiral.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "Tudo é uma questão de oportunidade.md",
     "Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
     "A fé é um pensamento coerente.md",
@@ -451,7 +490,6 @@
     "Qual é o perigo que manter o dinheiro tem na sua história?.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
-    "O desenvolvimento de vida é como uma espiral.md",
     "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
     "O que a vida quer de mim com isso que eu estou vivendo?.md",
     "Algumas patologias tem data de aniversário.md",
@@ -462,8 +500,6 @@
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "6. Creator/Products/MPA/Criativos/AD1 - Prisão mental + Warren + Oprah.md",
     "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
-    "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
-    "2. Literature Notes/Topics/O que são os setênios?.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
