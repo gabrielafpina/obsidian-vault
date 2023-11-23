@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "criança que ",
+                "query": "criança que  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
