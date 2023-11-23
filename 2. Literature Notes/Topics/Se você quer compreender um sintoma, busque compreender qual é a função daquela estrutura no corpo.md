@@ -20,3 +20,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Por trás de cada aborto provocado, existe um medo muito grande em ser mãe]]
