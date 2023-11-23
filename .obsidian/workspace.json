@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setên",
+                "query": "criança que ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +243,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3f942a3f0a05f1d",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
     "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
