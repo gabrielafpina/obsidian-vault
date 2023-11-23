@@ -4,323 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33ed2b459ed502b7",
+        "id": "56dbf7047837a853",
         "type": "tabs",
         "children": [
           {
-            "id": "b90470470e396df9",
+            "id": "6bf8e3c548d1886c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d86b8bde07e8e196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54bb2044eaa39462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o perigo que manter o dinheiro tem na sua história?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ea04527e91860ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Somos todos responsáveis por tudo o que acontece.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c765540a9ba33ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A fé é um pensamento coerente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e49204c29a482512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Temos um potencial infinito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "307bbb65845c6c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Somos um fractal dos nossos pais e dos nossos antepassados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f4a79a3829a4efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "933eb8ca56e2dc59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c883893473e06488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d177e6a903d35179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A vida é evolutiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3ba35437bba4579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ee60000160a9ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "800578376307a108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2d0af772c65aead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24d30abdc4b4e05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d6f88697d7c8816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O paciente verbaliza o conflito dele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29ffb00028eb84a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O desenvolvimento de vida é como uma espiral.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fdabe8aa7e11a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "745ed5428d2f8452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d3d6238a43f470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc94717975069cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8358e443ec84ba47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7a09df07744f617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34e7778ab377e9df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0970b32e5b2fd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -429,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O paciente verbaliza o conflito dele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -446,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O paciente verbaliza o conflito dele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -468,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "O paciente verbaliza o conflito dele.md"
-              }
+              "state": {}
             }
           },
           {
@@ -508,16 +199,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d6f88697d7c8816",
+  "active": "6bf8e3c548d1886c",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+    "2. Literature Notes/Topics/Tudo é energia e informação.md",
+    "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
+    "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
+    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
+    "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
+    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+    "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
+    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
+    "2. Literature Notes/Topics/O desenvolvimento de vida é como uma espiral.md",
     "O paciente verbaliza o conflito dele.md",
+    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
     "2. Literature Notes/Topics/A vida é evolutiva.md",
-    "2. Literature Notes/Topics/O desenvolvimento de vida é como uma espiral.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
@@ -527,15 +226,7 @@
     "2. Literature Notes/Topics/A fé é um pensamento coerente.md",
     "2. Literature Notes/Topics/Somos todos responsáveis por tudo o que acontece.md",
     "2. Literature Notes/Topics/Qual é o perigo que manter o dinheiro tem na sua história?.md",
-    "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
-    "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
-    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
-    "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
-    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
-    "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
-    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
-    "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
