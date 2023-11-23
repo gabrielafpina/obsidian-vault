@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80833f46ac92cac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a sexualidade na psicanálise?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f942a3f0a05f1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD1 - Prisão mental + Warren + Oprah.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b90470470e396df9",
             "type": "leaf",
             "state": {
@@ -152,14 +128,6 @@
             }
           },
           {
-            "id": "6fc4cf5cf67b6583",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "e0970b32e5b2fd16",
             "type": "leaf",
             "state": {
@@ -170,33 +138,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0de983f4899f217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bfe0b8dbe0210cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -304,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md",
+                "file": "2. Literature Notes/Topics/Não existe acaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md",
+                "file": "2. Literature Notes/Topics/Não existe acaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que a vida quer de mim com isso que eu estou vivendo?.md"
+                "file": "2. Literature Notes/Topics/Não existe acaso.md"
               }
             }
           },
@@ -383,19 +327,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8358e443ec84ba47",
+  "active": "e0970b32e5b2fd16",
   "lastOpenFiles": [
-    "Algumas patologias tem data de aniversário.md",
+    "O desenvolvimento de vida é como uma espiral.md",
+    "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
     "O que a vida quer de mim com isso que eu estou vivendo?.md",
+    "Algumas patologias tem data de aniversário.md",
     "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
     "O presente nada mais é do que uma releitura do passado.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "O desenvolvimento de vida é como uma espiral.md",
     "A doença não é um problema, é uma resposta.md",
     "Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
-    "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
     "6. Creator/Products/MPA/Criativos/AD1 - Prisão mental + Warren + Oprah.md",
     "6. Creator/Products/MPA/Criativos/AD2 - Produtividade e foco.md",
     "6. Creator/Products/MPA/Criativos/AD3 - Estudo de Harvard.md",
