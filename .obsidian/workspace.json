@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "307bbb65845c6c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somos um fractal dos nossos pais e dos nossos antepassados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f4a79a3829a4efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo é uma questão de oportunidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -188,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -297,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Temos um potencial infinito.md",
+                "file": "Tudo é uma questão de oportunidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Temos um potencial infinito.md",
+                "file": "Tudo é uma questão de oportunidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Temos um potencial infinito.md"
+                "file": "Tudo é uma questão de oportunidade.md"
               }
             }
           },
@@ -376,10 +400,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e49204c29a482512",
+  "active": "1f4a79a3829a4efb",
   "lastOpenFiles": [
-    "A fé é um pensamento coerente.md",
+    "Somos um fractal dos nossos pais e dos nossos antepassados.md",
+    "Tudo é uma questão de oportunidade.md",
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
+    "A fé é um pensamento coerente.md",
     "Somos todos responsáveis por tudo o que acontece.md",
     "Qual é o perigo que manter o dinheiro tem na sua história?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
@@ -403,8 +429,6 @@
     "2. Literature Notes/Topics/O caos antecede o cosmos.md",
     "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
     "2. Literature Notes/Topics/Autoconfiança é sinônimo de prosperidade.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",

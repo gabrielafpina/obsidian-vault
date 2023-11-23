@@ -10,7 +10,9 @@ Tudo emerge de um ponto para fazer o universo e todo ponto contém em si a possi
 
 A partir de uma coisa muito simples (ponto/ovo primitivo), podemos criar algo mais complexo (homem/universo).
 
-Assim, todos temos um potencial infinito
+Assim, todos temos um potencial infinito. Quanto mais você aproxima, mais infinito se torna.
+
+O universo é feito de níveis de organização sucessivas e interligadas umas às outras. O fractal é a menor parte de um TODO que se reproduz ao infinito e que mantém sempre a memória de sua origem. [[Somos um fractal dos nossos pais e dos nossos antepassados]]
 
 ###### **COMO:**
 
@@ -24,6 +26,6 @@ Assim, todos temos um potencial infinito
 
 **Leste: oposto**
 
-**Norte: ideia/pergunta**
+**Norte: ideia/pergunta*
 
 **Sul: para onde vai**
