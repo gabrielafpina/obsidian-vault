@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Isso ajuda as pessoas a se libertarem da culpa e se abrirem para confiar mais em você e na vida.
+Isso ajuda as pessoas a se libertarem da culpa e se abrirem para confiar mais em você e na vida. [[O paciente verbaliza o conflito dele]]
 
 ###### **COMO:**
 

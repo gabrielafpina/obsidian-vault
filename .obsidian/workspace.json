@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "3d6f88697d7c8816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O paciente verbaliza o conflito dele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -308,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -417,7 +429,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+                "file": "O paciente verbaliza o conflito dele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -434,7 +446,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+                "file": "O paciente verbaliza o conflito dele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -457,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md"
+                "file": "O paciente verbaliza o conflito dele.md"
               }
             }
           },
@@ -496,10 +508,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "3d6f88697d7c8816",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+    "O paciente verbaliza o conflito dele.md",
+    "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
@@ -523,7 +536,6 @@
     "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
-    "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
