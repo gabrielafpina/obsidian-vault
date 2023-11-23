@@ -24,3 +24,4 @@ Se tudo para o cérebro é uma noção de sobrevivência, o nosso sistema de [[c
 **Sul: para onde vai**
 - [[O desenvolvimento de vida é como uma espiral]]
 - [[O presente nada mais é do que uma releitura do passado]]
+- [[Qual é o perigo que manter o dinheiro tem na sua história?]]

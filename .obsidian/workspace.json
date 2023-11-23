@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "54bb2044eaa39462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é o perigo que manter o dinheiro tem na sua história?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "Qual é o perigo que manter o dinheiro tem na sua história?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "Qual é o perigo que manter o dinheiro tem na sua história?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md"
+                "file": "Qual é o perigo que manter o dinheiro tem na sua história?.md"
               }
             }
           },
@@ -327,8 +339,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0970b32e5b2fd16",
+  "active": "54bb2044eaa39462",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+    "Qual é o perigo que manter o dinheiro tem na sua história?.md",
+    "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
     "O desenvolvimento de vida é como uma espiral.md",
     "2. Literature Notes/Topics/Na biologia não tem julgamento.md",
@@ -336,7 +351,6 @@
     "Algumas patologias tem data de aniversário.md",
     "O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
     "O presente nada mais é do que uma releitura do passado.md",
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "A doença não é um problema, é uma resposta.md",
     "Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
@@ -354,8 +368,6 @@
     "2. Literature Notes/Topics/Como você funciona?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "2. Literature Notes/Topics/O medo dificulta a tomada de decisão em prol da mudança.md",
-    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
