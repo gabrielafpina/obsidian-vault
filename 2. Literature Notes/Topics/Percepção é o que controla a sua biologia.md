@@ -11,6 +11,7 @@
 **COMO:**
 
 **PENSADORES:**
+- [[Rafael Livramento]]: a percepção afirma o que você vai atrair para a sua vida em termos de conteúdo, conflito, etc.
 
 **FRASES:**
 

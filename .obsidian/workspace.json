@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "933eb8ca56e2dc59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c883893473e06488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -333,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md"
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md"
               }
             }
           },
@@ -412,10 +436,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84e3c9e02d5b7ccc",
+  "active": "c883893473e06488",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+    "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "Tudo é uma questão de oportunidade.md",
     "Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
@@ -440,7 +465,6 @@
     "6. Creator/Products/MPA/Criativos",
     "2. Literature Notes/Topics/Como funciona a sexualidade na psicanálise?.md",
     "2. Literature Notes/Topics/O caos antecede o cosmos.md",
-    "2. Literature Notes/Topics/Não existe a possibilidade de um casamento se sustentar se você não se conhece.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
