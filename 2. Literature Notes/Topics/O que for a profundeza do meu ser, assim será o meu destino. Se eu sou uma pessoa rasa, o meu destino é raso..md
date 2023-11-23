@@ -27,6 +27,6 @@ Quanto mais profunda eu sou, mais a minha vida dá certo. O poder do autoconheci
 
 **Norte: ideia/pergunta**
 - [[O meu nível de ser atrai a minha vida]]
-- [[Tudo é energia]]
+- [[Tudo é energia e informação]]
 
 **Sul: para onde vai**

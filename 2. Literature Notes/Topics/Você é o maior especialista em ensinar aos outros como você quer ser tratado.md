@@ -8,7 +8,7 @@
 **DEFINIÇÃO:**
 Você é um adulto. É você quem tem o poder de ensinar ao outro como te tratar, como falar com você, como agir com você.
 
-[[Tudo é energia]]. Portanto, como você decreta e quer ser tratado, é como os outros vão te tratar.
+[[Tudo é energia e informação]]. Portanto, como você decreta e quer ser tratado, é como os outros vão te tratar.
 
 Isso é sobre tomar posse do seu lugar de adulto no mundo.
 

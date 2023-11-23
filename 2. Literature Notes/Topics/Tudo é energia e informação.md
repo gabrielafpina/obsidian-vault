@@ -1,11 +1,13 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Rafael Livramento]]
 
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Tudo é vibração.
+Tudo é vibração. [[Lei da Vibração]].
+
+[[Nada é aleatório]]. Tudo na vida é informação
 
 **COMO:**
 

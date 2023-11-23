@@ -27,7 +27,7 @@ Escreva em uma folha de papel, em termos presentes tudo aquilo que você vai alc
 **Norte: ideia/pergunta**
 - [[Só eu sou eu]]
 - [[Só de ter nascido eu já sou capaz]]
-- [[Tudo é energia]]
+- [[Tudo é energia e informação]]
 - [[Eu-Paralelo-Preferido (EPP)]]
 - [[Fórmula do Entusiasmo]]
 

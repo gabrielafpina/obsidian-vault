@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-[[Tudo é energia]]. Quando você faz a sua parte, você chama o outro para fazer através do amor, não da crítica e do julgamento.
+[[Tudo é energia e informação]]. Quando você faz a sua parte, você chama o outro para fazer através do amor, não da crítica e do julgamento.
 
 >[!important] Quando estou julgando, me equiparo àquilo e abaixo a minha frequência.
 

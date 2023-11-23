@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-A natureza é abundante em exemplos de que não existe nada sólido, existe apenas energia. [[Tudo é energia]].
+A natureza é abundante em exemplos de que não existe nada sólido, existe apenas energia. [[Tudo é energia e informação]].
 
 Só existe energia pura energia, quando essa energia diminui a velocidade é que surge a massa. Tudo é uma onda, nesse sentido.
 

@@ -30,7 +30,7 @@ Se você tem uma intenção pura de amor, tudo prospera, porque a energia mais p
 - [[O meu nível de ser atrai a minha vida]]
 - [[O amor é a cura]]
 - [[Tudo é uma escolha]]
-- [[Tudo é energia]]
+- [[Tudo é energia e informação]]
 
 **Sul: para onde vai**
 - [[Se você está na frequência da ingratidão, você é um  mendigo em um paraíso]]

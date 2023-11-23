@@ -9,7 +9,7 @@ Conhece-te a ti mesmo.
 
 Todo o processo de autoconhecimento é o caminho para encontrar a cura e a autoestima.
 
-Nós somos as nossas escolhas. [[Tudo é uma escolha]]. [[Tudo é energia]].
+Nós somos as nossas escolhas. [[Tudo é uma escolha]]. [[Tudo é energia e informação]].
 
 **COMO:**
 

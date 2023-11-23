@@ -58,7 +58,7 @@ Tudo só acontece quando você está na mesma frequência.
 - [[A Verdadeira vontade que existe é a do seu coração]]
 - [[Até você se tornar consciente, o inconsciente irá dirigir sua vida e você vai chamar isso de destino]]
 - [[Escolha estar presente nesse evento, que é o aqui e o agora]]
-- [[Tudo é energia]]
+- [[Tudo é energia e informação]]
 - [[Tudo que eu escrevo acontece, porque eu sou patrocinada por Deus]]
 - [[O medo que eu tenho sobre algo cancela o acontecimento daquele algo na minha vida]]
 - [[Você escolhe o que semeia, mas a colheita é obrigatória]]
