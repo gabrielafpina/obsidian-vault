@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como criar afirmações?.md"
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
               }
             }
           },
@@ -412,10 +412,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84e3c9e02d5b7ccc",
+  "active": "d86b8bde07e8e196",
   "lastOpenFiles": [
-    "Tudo é uma questão de oportunidade.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
+    "Tudo é uma questão de oportunidade.md",
     "Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
     "A fé é um pensamento coerente.md",
