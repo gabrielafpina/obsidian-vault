@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "c765540a9ba33ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A fé é um pensamento coerente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c29ffb00028eb84a",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Somos todos responsáveis por tudo o que acontece.md",
+                "file": "A fé é um pensamento coerente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Somos todos responsáveis por tudo o que acontece.md",
+                "file": "A fé é um pensamento coerente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Somos todos responsáveis por tudo o que acontece.md"
+                "file": "A fé é um pensamento coerente.md"
               }
             }
           },
@@ -351,10 +363,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ea04527e91860ab",
+  "active": "c765540a9ba33ea9",
   "lastOpenFiles": [
-    "Qual é o perigo que manter o dinheiro tem na sua história?.md",
     "Somos todos responsáveis por tudo o que acontece.md",
+    "A fé é um pensamento coerente.md",
+    "Qual é o perigo que manter o dinheiro tem na sua história?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Não existe acaso.md",
@@ -379,7 +392,6 @@
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Ser o salvador de alguém é o naufrágio de si mesmo.md",
     "2. Literature Notes/Topics/Como você funciona?.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/MPA/7, 8, 9 Nov. Desafio 3 dias",
