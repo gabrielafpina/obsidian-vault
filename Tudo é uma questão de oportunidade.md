@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Enxergar a vida assi
+Enxergar a vida assim muda tudo.
 
 ###### **COMO:**
 
