@@ -21,3 +21,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças]]
