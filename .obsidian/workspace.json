@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bf8e3c548d1886c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "59c162fc21401709",
             "type": "leaf",
             "state": {
@@ -172,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -218,7 +210,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -361,10 +354,11 @@
   },
   "active": "9a817095f6975f11",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "O observador colapsa a função de onda.md",
+    "O que é a percepção?.md",
     "Física Quântica.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
-    "O que é a percepção?.md",
     "Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
@@ -375,7 +369,6 @@
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",

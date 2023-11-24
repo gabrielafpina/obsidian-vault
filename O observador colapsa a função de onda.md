@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** [[Rafael Livramento]] [[Hélio Couto]]
+**FONTE:** [[Rafael Livramento]] [[Hélio Couto]] [[Física Quântica]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
