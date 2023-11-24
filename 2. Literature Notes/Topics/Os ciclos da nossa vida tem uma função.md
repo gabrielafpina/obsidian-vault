@@ -6,6 +6,10 @@
 ###### **DEFINIÇÃO:**
 Qual é a vantagem de repetirmos as situações? Ter a oportunidade de olhar para aquilo, para dar uma nova resposta.
 
+Em determinados períodos de tempo, atraímos situações que vão despertar memórias de situações que já aconteceram de forma cíclica, para que nos demos conta dela e possamos dar uma nova resposta. 
+
+A humanidade também tem os próprios ciclos. Vivemos isso de maneira individual e coletiva.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

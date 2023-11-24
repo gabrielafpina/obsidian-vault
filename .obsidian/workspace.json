@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cfb6ce5f7944ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ressignificar",
+                "query": "vida",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md"
+                "file": "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md"
               }
             }
           },
@@ -227,8 +239,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68a0fb9c4a987975",
+  "active": "4cfb6ce5f7944ac6",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
@@ -254,7 +267,6 @@
     "2. Literature Notes/Topics/Temos um potencial infinito.md",
     "2. Literature Notes/Topics/A fé é um pensamento coerente.md",
     "2. Literature Notes/Topics/Somos todos responsáveis por tudo o que acontece.md",
-    "2. Literature Notes/Topics/Qual é o perigo que manter o dinheiro tem na sua história?.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
