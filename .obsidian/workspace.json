@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
+                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
+                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md"
+                "file": "O que é a Lei da Intrincação - Emaranhamento?.md"
               }
             }
           },
@@ -412,10 +412,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f69f9d23d9a697a9",
+  "active": "3dd01062ae58c543",
   "lastOpenFiles": [
-    "O que é a Lei da Intrincação - Emaranhamento?.md",
     "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
+    "O que é a Lei da Intrincação - Emaranhamento?.md",
     "2. Literature Notes/Topics/Física Quântica.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "o que é a Leo da Intricação",
