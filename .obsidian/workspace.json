@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Por mais difícil que esteja, está tudo no lugar.md",
+                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "livramento",
+                "query": "energia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Por mais difícil que esteja, está tudo no lugar.md",
+                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Por mais difícil que esteja, está tudo no lugar.md",
+                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Por mais difícil que esteja, está tudo no lugar.md"
+                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md"
               }
             }
           },
@@ -325,8 +325,8 @@
   },
   "active": "02d58452e8bda46d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "Por mais difícil que esteja, está tudo no lugar.md",
+    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
     "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
     "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
