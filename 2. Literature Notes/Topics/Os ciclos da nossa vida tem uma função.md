@@ -26,3 +26,4 @@ A humanidade também tem os próprios ciclos. Vivemos isso de maneira individual
 
 **Sul: para onde vai**
 - [[Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo]]
+- [[Nada é aleatório]]

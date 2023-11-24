@@ -22,3 +22,4 @@ O seu nome não é aleatório. O dia que você nasce não é aleatório. Tudo é
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida]]
