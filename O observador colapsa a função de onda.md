@@ -1,0 +1,23 @@
+**TAGS:**
+
+**FONTE:** [[Rafael Livramento]] [[Hélio Couto]]
+###### **BIG IDEA:** 
+
+###### **DEFINIÇÃO:**
+Assim, qual é o fator determinante para termos um acontecimento? O olhar do observador. O que é o olhar do observador? A percepção - pode ser consciente ou inconsciente. [[O que é a percepção?]]
+
+###### **COMO:**
+
+###### **PENSADORES:**
+
+###### **FRASES:**
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+
+**Sul: para onde vai**

@@ -134,9 +134,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "454fa4cc42467cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física Quântica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f455283a3c263828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O observador colapsa a função de onda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a817095f6975f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a percepção?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -244,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "O que é a percepção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "O que é a percepção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md"
+                "file": "O que é a percepção?.md"
               }
             }
           },
@@ -323,8 +359,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02d58452e8bda46d",
+  "active": "9a817095f6975f11",
   "lastOpenFiles": [
+    "O observador colapsa a função de onda.md",
+    "Física Quântica.md",
+    "2. Literature Notes/Topics/Tudo é energia e informação.md",
+    "O que é a percepção?.md",
     "Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
@@ -336,7 +376,6 @@
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
-    "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
@@ -348,9 +387,6 @@
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
     "2. Literature Notes/Topics/A vida é evolutiva.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
-    "2. Literature Notes/Topics/Como criar afirmações?.md",
-    "2. Literature Notes/Topics/Somos um fractal dos nossos pais e dos nossos antepassados.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
