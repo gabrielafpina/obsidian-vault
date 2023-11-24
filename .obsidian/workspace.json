@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "59c162fc21401709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68a0fb9c4a987975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "afirmações",
+                "query": "sobrevivência",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
+              }
             }
           },
           {
@@ -199,8 +227,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "68a0fb9c4a987975",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
@@ -226,7 +255,6 @@
     "2. Literature Notes/Topics/A fé é um pensamento coerente.md",
     "2. Literature Notes/Topics/Somos todos responsáveis por tudo o que acontece.md",
     "2. Literature Notes/Topics/Qual é o perigo que manter o dinheiro tem na sua história?.md",
-    "2. Literature Notes/Topics/Não existe acaso.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
