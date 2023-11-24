@@ -15,6 +15,7 @@ Está tudo no lugar!
 ---------
 
 **Oeste: similar**
+- [[Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo]]
 
 **Leste: oposto**
 

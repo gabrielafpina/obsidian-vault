@@ -4,9 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Isso ajuda as pessoas a se libertarem da culpa e se abrirem para confiar mais em você e na vida. [[O paciente verbaliza o conflito dele.]]
-
-[[Por mais difícil que esteja, está tudo no lugar]]
+Existe sempre algo a ser aprendido com qualquer situação que aconteça em nossas vidas. [[Nada é aleatório]].
 
 ###### **COMO:**
 

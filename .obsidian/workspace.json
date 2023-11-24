@@ -74,9 +74,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3730ae21643c0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2d255d30d4ce563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7865af2b6506a678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b3ecccf03eaa13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d58452e8bda46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Por mais difícil que esteja, está tudo no lugar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -184,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
+                "file": "Por mais difícil que esteja, está tudo no lugar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
+                "file": "Por mais difícil que esteja, está tudo no lugar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md"
+                "file": "Por mais difícil que esteja, está tudo no lugar.md"
               }
             }
           },
@@ -263,10 +323,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "02d58452e8bda46d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Nada é aleatório.md",
+    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+    "Por mais difícil que esteja, está tudo no lugar.md",
+    "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
+    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
     "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
+    "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
@@ -274,14 +339,10 @@
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
-    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
     "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
-    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
     "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/O desenvolvimento de vida é como uma espiral.md",
-    "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
-    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
@@ -290,7 +351,6 @@
     "2. Literature Notes/Topics/O que acontece quando você recebe o nome de um parente?.md",
     "2. Literature Notes/Topics/Como criar afirmações?.md",
     "2. Literature Notes/Topics/Somos um fractal dos nossos pais e dos nossos antepassados.md",
-    "2. Literature Notes/Topics/Temos um potencial infinito.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
