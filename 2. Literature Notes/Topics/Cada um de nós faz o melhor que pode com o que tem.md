@@ -23,3 +23,4 @@ Isso ajuda as pessoas a se libertarem da culpa e se abrirem para confiar mais em
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é o livre-arbítrio?]]

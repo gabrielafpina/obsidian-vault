@@ -21,5 +21,6 @@ Existem infinitas possibilidades.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O observador colapsa a função de onda]]
 
 **Sul: para onde vai**

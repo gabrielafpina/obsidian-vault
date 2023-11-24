@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
+                "file": "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a teoria dos estados de superposição?.md",
+                "file": "2. Literature Notes/Topics/O que é a teoria dos estados de superposição?.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,6 +122,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc25ca277b7d339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física Quântica.md",
+                "file": "2. Literature Notes/Topics/Física Quântica.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O observador colapsa a função de onda.md",
+                "file": "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +181,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a percepção?.md",
+                "file": "2. Literature Notes/Topics/O que é a percepção?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -285,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a teoria dos estados de superposição?.md",
+                "file": "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a teoria dos estados de superposição?.md",
+                "file": "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a teoria dos estados de superposição?.md"
+                "file": "2. Literature Notes/Topics/O que é o livre-arbítrio?.md"
               }
             }
           },
@@ -364,20 +376,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b6ba805a9d4eae2",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
+    "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
+    "2. Literature Notes/Topics/O que é a teoria dos estados de superposição?.md",
     "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
-    "O que é a teoria dos estados de superposição?.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
     "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
-    "O que é a percepção?.md",
+    "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
-    "O observador colapsa a função de onda.md",
-    "Física Quântica.md",
+    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
-    "Por mais difícil que esteja, está tudo no lugar.md",
-    "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
-    "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
+    "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
+    "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
@@ -391,7 +404,6 @@
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
-    "2. Literature Notes/Topics/A vida é evolutiva.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
