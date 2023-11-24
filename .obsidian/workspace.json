@@ -176,6 +176,18 @@
             }
           },
           {
+            "id": "f69f9d23d9a697a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cba1347775b4ff2a",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -321,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
+                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
+                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md"
+                "file": "O que é a síndrome do sobrevivente das reduções embrionárias?.md"
               }
             }
           },
@@ -400,10 +412,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3dd01062ae58c543",
+  "active": "f69f9d23d9a697a9",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Física Quântica.md",
     "O que é a Lei da Intrincação - Emaranhamento?.md",
+    "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "o que é a Leo da Intricação",
     "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
@@ -428,7 +441,6 @@
     "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/O desenvolvimento de vida é como uma espiral.md",
-    "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
