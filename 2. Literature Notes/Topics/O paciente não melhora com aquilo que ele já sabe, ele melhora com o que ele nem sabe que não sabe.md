@@ -8,6 +8,8 @@ Que são os nossos pontos cegos. E a vida tem uma ótima maneira de nos mostrar 
 
 [[Algumas patologias tem data de aniversário]].
 
+O paciente vai manifestar somente aquilo que o olhar do observador dele vai permitir. E vai falar somente do próprio universo dele. [[O que é a teoria dos estados de superposição?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

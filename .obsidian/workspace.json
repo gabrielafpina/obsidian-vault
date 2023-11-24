@@ -80,7 +80,19 @@
             }
           },
           {
-            "id": "b2d255d30d4ce563",
+            "id": "7865af2b6506a678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "668d1ef841c47b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,12 +104,12 @@
             }
           },
           {
-            "id": "7865af2b6506a678",
+            "id": "0b6ba805a9d4eae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
+                "file": "O que é a teoria dos estados de superposição?.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -273,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a percepção?.md",
+                "file": "O que é a teoria dos estados de superposição?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a percepção?.md",
+                "file": "O que é a teoria dos estados de superposição?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a percepção?.md"
+                "file": "O que é a teoria dos estados de superposição?.md"
               }
             }
           },
@@ -352,18 +364,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a817095f6975f11",
+  "active": "0b6ba805a9d4eae2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
+    "O que é a teoria dos estados de superposição?.md",
+    "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
+    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
+    "O que é a percepção?.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "O observador colapsa a função de onda.md",
-    "O que é a percepção?.md",
     "Física Quântica.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
-    "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
-    "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
-    "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
     "O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
@@ -379,7 +392,6 @@
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Tudo é uma questão de oportunidade.md",
     "2. Literature Notes/Topics/A vida é evolutiva.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
