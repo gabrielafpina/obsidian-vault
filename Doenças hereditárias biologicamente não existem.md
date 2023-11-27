@@ -27,3 +27,4 @@ Repetimos a forma de pensar, agir, mesmo que não queremos.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente]]

@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "059d34cbf0ae977b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "efd0351ad2698be0",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -260,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doenças hereditárias biologicamente não existem.md",
+                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doenças hereditárias biologicamente não existem.md",
+                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doenças hereditárias biologicamente não existem.md"
+                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md"
               }
             }
           },
@@ -339,10 +351,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69ca612b6feb6212",
+  "active": "059d34cbf0ae977b",
   "lastOpenFiles": [
-    "O que é o princípio da não-localidade?.md",
     "Doenças hereditárias biologicamente não existem.md",
+    "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+    "O que é o princípio da não-localidade?.md",
     "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
@@ -367,7 +380,6 @@
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
-    "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
