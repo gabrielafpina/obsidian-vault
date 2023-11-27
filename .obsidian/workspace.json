@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md"
               }
             }
           },
@@ -242,12 +243,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fb3ff1a305a9101",
+  "active": "232ced6f740df65f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "O que é a Lei da Intrincação - Emaranhamento?.md",
     "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
