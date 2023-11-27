@@ -80,12 +80,36 @@
             }
           },
           {
+            "id": "69ca612b6feb6212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doenças hereditárias biologicamente não existem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "efd0351ad2698be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "789abde086aa080f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sentido",
+                "query": "sintoma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -236,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
+                "file": "Doenças hereditárias biologicamente não existem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
+                "file": "Doenças hereditárias biologicamente não existem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md"
+                "file": "Doenças hereditárias biologicamente não existem.md"
               }
             }
           },
@@ -315,11 +339,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efd0351ad2698be0",
+  "active": "69ca612b6feb6212",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
-    "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "O que é o princípio da não-localidade?.md",
+    "Doenças hereditárias biologicamente não existem.md",
+    "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
+    "Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
+    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "O que é a Lei da Intrincação ou Emaranhamento?.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Física Quântica.md",
@@ -342,8 +368,6 @@
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
-    "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
-    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",

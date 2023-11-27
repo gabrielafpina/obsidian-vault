@@ -8,7 +8,7 @@ Porque a necessidade de ter que ter resultado era para compensar o sentimento de
 
 Se eu tô com medo de não acontecer, não vai acontecer. [[O observador colapsa a função de onda]]. Se eu tô em dúvida, eu vou atrair pessoas e situações que vão me colocar em dúvida, para validar a minha dúvida. 
 
-[[Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a ]]
+[[Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito]]
 
 ###### **COMO:**
 
