@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "232ced6f740df65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setên",
+                "query": "respeito",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md"
+                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md"
               }
             }
           },
@@ -231,8 +243,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a18e22586e5ae87",
+  "active": "232ced6f740df65f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
@@ -259,7 +272,6 @@
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
-    "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
