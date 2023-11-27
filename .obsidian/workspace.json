@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4df7a3ab240720e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Física Quântica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dc066d8f2002e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o princípio da não-localidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d74bd740ac9071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Nada é aleatório.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -99,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emaranh",
+                "query": "sentido",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
+                "file": "2. Literature Notes/Topics/Nada é aleatório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
+                "file": "2. Literature Notes/Topics/Nada é aleatório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md"
+                "file": "2. Literature Notes/Topics/Nada é aleatório.md"
               }
             }
           },
@@ -267,10 +303,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7d921c76914cbef",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "O ser humano não forma a identidade sem os limites.md",
+    "O que é o princípio da não-localidade?.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
     "O que é a Lei da Intrincação - Emaranhamento?.md",
+    "O ser humano não forma a identidade sem os limites.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
@@ -278,7 +316,6 @@
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
-    "2. Literature Notes/Topics/Física Quântica.md",
     "o que é a Leo da Intricação",
     "2. Literature Notes/Topics/O que é o livre-arbítrio?.md",
     "2. Literature Notes/Topics/Cada um de nós faz o melhor que pode com o que tem.md",
@@ -295,7 +332,6 @@
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
