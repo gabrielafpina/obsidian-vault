@@ -22,3 +22,4 @@ Com muita humildade. Eles são grandes, eles dão conta. O meu lugar é de filho
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O ser humano não forma a identidade sem os limites]]
