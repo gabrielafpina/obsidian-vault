@@ -7,7 +7,8 @@
 Afirma que é impossível saber onde uma partícula se encontra ou onde ela irá aparecer. Uma dessas possibilidades só irá ser detectada quando se manifestar. [[Nada é aleatório]].
 	Isso significa que cada um terá uma percepção particular frente a um acontecimento. Ou seja, depende do olhar do observador. [[O observador colapsa a função de onda]].
 
-[[Josi Kromer]]
+[[Josi Kromer]]: 'Quando pensamos em algo, a melhor solução é a abertura. Se escolhemos uma posssibilidade, excluiremos, então, todas as outras. O pensamento coerente sempre trará a melhor solução possível.' - O que tiver que vir a nós, vai vir. Faça a sua parte e deixe que o universo traga de volta o resultado do movimento que você está fazendo. [[Quando você deixa de querer ter resultado, você passa a ter mais resultado]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

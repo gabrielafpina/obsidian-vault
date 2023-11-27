@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 Assim, qual é o fator determinante para termos um acontecimento? O olhar do observador. O que é o olhar do observador? A percepção - pode ser consciente ou inconsciente. [[O que é a percepção?]]
 
+Todo ser humano cria a própria realidade.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
