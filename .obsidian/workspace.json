@@ -212,6 +212,18 @@
             }
           },
           {
+            "id": "9fb3ff1a305a9101",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a817095f6975f11",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energia",
+                "query": "sistêmic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -270,8 +282,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -333,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +361,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O observador colapsa a função de onda.md"
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -412,8 +423,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f455283a3c263828",
+  "active": "9fb3ff1a305a9101",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "O que é a Lei da Intrincação - Emaranhamento?.md",
     "O que é a síndrome do sobrevivente das reduções embrionárias?.md",
     "2. Literature Notes/Topics/Física Quântica.md",
@@ -427,7 +439,6 @@
     "2. Literature Notes/Topics/O que a vida quer de mim com isso que eu estou vivendo?.md",
     "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
-    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
