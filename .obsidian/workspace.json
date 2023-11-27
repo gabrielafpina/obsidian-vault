@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md"
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -243,8 +242,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "232ced6f740df65f",
+  "active": "9fb3ff1a305a9101",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
@@ -271,7 +271,6 @@
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Todos temos uma função biológica para exercer.md",
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
-    "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
