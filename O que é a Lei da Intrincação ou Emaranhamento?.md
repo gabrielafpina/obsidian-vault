@@ -13,6 +13,8 @@ Assim, quando você tem uma relação com algo, isso não se separa mais. Ex: cr
 
 Isso explica a [[O que é a síndrome do sobrevivente das reduções embrionárias?]]. Um está no mundo da matéria e o outro, no mundo da informação. 
 
+Não conseguimos sair do emaranhado, mas quando reconhecemos o nosso papel dentro do emaranhado, tudo flui.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

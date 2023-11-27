@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fb3ff1a305a9101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ab151e660e30dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a18e22586e5ae87",
             "type": "leaf",
             "state": {
@@ -73,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a Lei da Intrincação - Emaranhamento?.md",
+                "file": "O que é a Lei da Intrincação ou Emaranhamento?.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebe53db7a58de7b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a Lei da Intrincação ou Emaranhamento?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nada é aleatório.md",
+                "file": "O que é o princípio da não-localidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nada é aleatório.md",
+                "file": "O que é o princípio da não-localidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nada é aleatório.md"
+                "file": "O que é o princípio da não-localidade?.md"
               }
             }
           },
@@ -303,11 +291,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "3dc066d8f2002e9e",
   "lastOpenFiles": [
+    "O que é a Lei da Intrincação ou Emaranhamento?.md",
+    "2. Literature Notes/Topics/Nada é aleatório.md",
     "O que é o princípio da não-localidade?.md",
     "2. Literature Notes/Topics/Física Quântica.md",
-    "O que é a Lei da Intrincação - Emaranhamento?.md",
     "O ser humano não forma a identidade sem os limites.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
@@ -328,7 +317,6 @@
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
     "2. Literature Notes/Topics/O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida.md",
-    "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Os ciclos da nossa vida tem uma função.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",

@@ -22,6 +22,6 @@
 - [[Tudo é energia e informação]]
 
 **Sul: para onde vai**
-- [[O que é a Lei da Intrincação - Emaranhamento?]]
+- [[O que é a Lei da Intrincação ou Emaranhamento?]]
 - [[O que é a teoria dos estados de superposição?]]
 - [[O que é o princípio da não-localidade?]]
