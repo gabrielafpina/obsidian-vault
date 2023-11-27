@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a18e22586e5ae87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sistêmic",
+                "query": "setên",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md"
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md"
               }
             }
           },
@@ -219,8 +231,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ab151e660e30dfc",
+  "active": "3a18e22586e5ae87",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "O que é a Lei da Intrincação - Emaranhamento?.md",
@@ -247,7 +260,6 @@
     "2. Literature Notes/Topics/'A coragem é procurar a verdade e dizê-la sem sofrer a lei da mentira triunfante que passa e sem fazer eco contra sua alma a aplausos imbecis'.md",
     "2. Literature Notes/Topics/Algumas patologias tem data de aniversário.md",
     "2. Literature Notes/Topics/O presente nada mais é do que uma releitura do passado.md",
-    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
