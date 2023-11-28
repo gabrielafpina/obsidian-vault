@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sintoma",
+                "query": "pais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -244,7 +244,7 @@
             }
           },
           {
-            "id": "d55a594169d2f463",
+            "id": "0cb0f2c289d29744",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -252,14 +252,15 @@
             }
           },
           {
-            "id": "e13dc8a7f8891c2a",
+            "id": "9bc412db1c2a6ad6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7f0480c584097b69",
@@ -272,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md"
+                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md"
               }
             }
           },
@@ -353,8 +354,9 @@
   },
   "active": "059d34cbf0ae977b",
   "lastOpenFiles": [
-    "Doenças hereditárias biologicamente não existem.md",
+    "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
     "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+    "Doenças hereditárias biologicamente não existem.md",
     "O que é o princípio da não-localidade?.md",
     "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
@@ -379,7 +381,6 @@
     "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/para nossa sobrevivência, atentar aos perigos é muito mais importante do que às coisas que estão indo bem.md",
     "2. Literature Notes/Topics/Tudo é energia e informação.md",
-    "2. Literature Notes/Topics/Por mais difícil que esteja, está tudo no lugar.md",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
