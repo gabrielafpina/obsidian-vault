@@ -244,7 +244,7 @@
             }
           },
           {
-            "id": "0cb0f2c289d29744",
+            "id": "4cccf65c8eb2bced",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -252,7 +252,7 @@
             }
           },
           {
-            "id": "9bc412db1c2a6ad6",
+            "id": "51b7d9d2dc7d85d0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -329,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,7 +351,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "059d34cbf0ae977b",
+  "active": "51b7d9d2dc7d85d0",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
     "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
