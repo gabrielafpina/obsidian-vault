@@ -12,7 +12,11 @@ O desenvolvimento da personalidade acontece por períodos, fases. [[Sigmund Freu
 Podemos começar entendendo o desenvolvimento psicossexual pensando no seguinte conceito:
 	À medida que uma pessoa cresce fisicamente, certas áreas do corpo se tornam importantes como fontes de uma frustração em potencial, fontes de prazer ou fontes de frustração, ou ambas.
 	Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de ***Teoria do Desenvolvimento Psicossexual***:
-		1. 
+		1. **Oral**: 0 - 2 anos
+		2. **Anal**: 2 - 3 anos
+		3. **Fálica**: 3 - 5 anos (aqui é onde acontece o complexo de édipo)
+		4. **Latência**: 5 - 11 anos
+		5. **Genital**: 12 - 18 anos
 
 ###### **PENSADORES:**
 
