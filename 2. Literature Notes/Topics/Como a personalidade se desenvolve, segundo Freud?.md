@@ -10,7 +10,7 @@ Personalidade é o modo como você age com os sentimentos, emoções, como você
 O desenvolvimento da personalidade acontece por períodos, fases. [[Sigmund Freud]] descreveu a evolução da sexualidade de um indivíduo durante a sua infância, propondo a ideia radical para a época, de que o desenvolvimento sexual não começa na puberdade, mas na infância.
 
 Podemos começar entendendo o desenvolvimento psicossexual pensando no seguinte conceito:
-À medida que uma pessoa cresce fisicamente, certas áreas do corpo se tornam importantes como fontes de uma frustração em potencial, fontes de prazer ou fontes de 
+	À medida que uma pessoa cresce fisicamente, certas áreas do corpo se tornam importantes como fontes de uma frustração em potencial, fontes de prazer ou fontes de frustração, ou ambas.
 1. 
 
 ###### **PENSADORES:**
