@@ -19,9 +19,7 @@ Podemos começar entendendo o desenvolvimento psicossexual pensando no seguinte 
 		5. **Genital**: 12 - 18 anos
 
 Durante cada fase, uma criança é confrontada com um conflito entre impulsos biológicos e expectativas sociais.
-	Se ela passar de forma bem-sucedida por esses conflitos internas, acabará tendo domínio de cada estágio de desenvolvimento e, finalmente, obterá uma personalidade bem formada. [[O que são os setênios?]] Se ela não for bem sucedida nas fases, poderá desenvolver uma *fixação*, em que ela fixada em determinada fase, o que fica na memória inconsciente dela, gerando um trauma que o adulto carrega ao longo da vida.
-		Uma razão para isso pode ser que as necessidades do indivíduo em desenvolvimento em qualquer estágio específico podem não ter sido adequadamente atendidas, caso em que há frustração.
-		Tanto a frustração quanto o excesso de satisfação (ou qualquer combinação dos dois) podem levar ao que os psicanalistas chamam de fixação em um estágio psicossexual particular.
+	Se ela passar de forma bem-sucedida por esses conflitos internas, acabará tendo domínio de cada estágio de desenvolvimento e, finalmente, obterá uma personalidade bem formada. [[O que são os setênios?]] Se ela não for bem sucedida nas fases, poderá desenvolver uma *fixação*, em que ela fixada em determinada fase, o que fica na memória inconsciente dela, gerando um trauma que o adulto carrega ao longo da vida. [[O que é a fixação?]]
 
 ###### **PENSADORES:**
 
