@@ -11,6 +11,9 @@ Tecnicamente falando, fixação é o fenômeno em que uma parte da libido do ind
 
 [[O que é a libido, segundo Freud?]]
 
+Caso surja uma angústia muito forte num dado momento das fases, temor ou ansiedade, pode-se criar um ponto de fixação. A fixação é um momento no processo evolutivo onde paramos, por não poder satisfazer um desejo. Assim, o [[Ego]] se torna frágil. Se a angústia for muito forte, ocorre a paralisação na fase de desenvolvimento e uma neurose pode surgir. 
+	A neurose é definida por [[Sigmund Freud]] como um infantilismo psíquico.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

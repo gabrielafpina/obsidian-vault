@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a fixação?.md",
+                "file": "2. Literature Notes/Topics/O que é a fixação?.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a libido, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,12 +90,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a libido, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a libido, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a libido, segundo Freud?.md"
+                "file": "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md"
               }
             }
           },
@@ -235,8 +235,8 @@
   },
   "active": "7ecdb33c8d765b3b",
   "lastOpenFiles": [
-    "O que é a fixação?.md",
-    "O que é a libido, segundo Freud?.md",
+    "2. Literature Notes/Topics/O que é a fixação?.md",
+    "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
     "2. Literature Notes/Topics/Roda de Samsara.md",
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
@@ -246,16 +246,16 @@
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Readwise/Books/Mãe Recém-Nascida.md",
     "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
-    "Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
-    "Doenças hereditárias biologicamente não existem.md",
-    "O que é o princípio da não-localidade?.md",
-    "Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
-    "Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
+    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+    "2. Literature Notes/Topics/Doenças hereditárias biologicamente não existem.md",
+    "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
+    "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
+    "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
-    "O que é a Lei da Intrincação ou Emaranhamento?.md",
+    "2. Literature Notes/Topics/O que é a Lei da Intrincação ou Emaranhamento?.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/Física Quântica.md",
-    "O ser humano não forma a identidade sem os limites.md",
+    "2. Literature Notes/Topics/O ser humano não forma a identidade sem os limites.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
