@@ -11,7 +11,8 @@ O desenvolvimento da personalidade acontece por períodos, fases. [[Sigmund Freu
 
 Podemos começar entendendo o desenvolvimento psicossexual pensando no seguinte conceito:
 	À medida que uma pessoa cresce fisicamente, certas áreas do corpo se tornam importantes como fontes de uma frustração em potencial, fontes de prazer ou fontes de frustração, ou ambas.
-1. 
+	Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de ***Teoria do Desenvolvimento Psicossexual***:
+		1. 
 
 ###### **PENSADORES:**
 
