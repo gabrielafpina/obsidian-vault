@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
+                "file": "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08439546bbb713a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Física Quântica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbde3a6b90f8e8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o Princípio da Indeterminação?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "paciente",
+                "query": "princípio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
+                "file": "O que é o Princípio da Indeterminação?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
+                "file": "O que é o Princípio da Indeterminação?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md"
+                "file": "O que é o Princípio da Indeterminação?.md"
               }
             }
           },
@@ -244,10 +268,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee77115ac7d90271",
+  "active": "fbde3a6b90f8e8cc",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
+    "O que é o Princípio da Indeterminação?.md",
+    "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
+    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a fixação?.md",
@@ -261,17 +288,14 @@
     "2. Literature Notes/Readwise/Books/Mãe Recém-Nascida.md",
     "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
     "2. Literature Notes/Topics/Doenças hereditárias biologicamente não existem.md",
-    "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/O que é a Lei da Intrincação ou Emaranhamento?.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
-    "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/O ser humano não forma a identidade sem os limites.md",
     "o que é a Leo da Intricação/Emaranhamento?.md",
     "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

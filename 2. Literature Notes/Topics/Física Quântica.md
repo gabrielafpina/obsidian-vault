@@ -25,3 +25,4 @@
 - [[O que é a Lei da Intrincação ou Emaranhamento?]]
 - [[O que é a teoria dos estados de superposição?]]
 - [[O que é o princípio da não-localidade?]]
+- [[O que é o Princípio da Indeterminação?]]
