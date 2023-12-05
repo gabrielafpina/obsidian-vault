@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc8c2b2ff3a2d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "princípio",
+                "query": "lei ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md",
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md"
+                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
               }
             }
           },
@@ -268,10 +280,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbde3a6b90f8e8cc",
+  "active": "bdc8c2b2ff3a2d47",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Física Quântica.md",
     "O que é o Princípio da Indeterminação?.md",
+    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
@@ -290,7 +303,6 @@
     "2. Literature Notes/Topics/Doenças hereditárias biologicamente não existem.md",
     "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
-    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/O que é a Lei da Intrincação ou Emaranhamento?.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
     "2. Literature Notes/Topics/O ser humano não forma a identidade sem os limites.md",
