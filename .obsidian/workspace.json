@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "1a301dca1f4d28c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que são campos morfogenéticos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbde3a6b90f8e8cc",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "file": "O que são campos morfogenéticos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "file": "O que são campos morfogenéticos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
+                "file": "O que são campos morfogenéticos?.md"
               }
             }
           },
@@ -304,14 +316,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f6a1555dce8ec70",
+  "active": "1a301dca1f4d28c6",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Física Quântica.md",
+    "O que são campos morfogenéticos?.md",
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "A vida e o cérebro são holográficos.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "O que é o Princípio da Indeterminação?.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
-    "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
@@ -330,8 +344,6 @@
     "2. Literature Notes/Topics/Doenças hereditárias biologicamente não existem.md",
     "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
     "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
-    "2. Literature Notes/Topics/O que é a Lei da Intrincação ou Emaranhamento?.md",
-    "2. Literature Notes/Topics/Nada é aleatório.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
