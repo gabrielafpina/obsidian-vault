@@ -36,3 +36,4 @@ A ressonância mórfica tende a reforçar qualquer padrão repetitivo, como algo
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A melhor maneira de você cuidar da sua família, é cuidando de você]]

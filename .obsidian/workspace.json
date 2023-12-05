@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "2ef24c270c65ce49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbde3a6b90f8e8cc",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são campos morfogenéticos?.md",
+                "file": "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são campos morfogenéticos?.md",
+                "file": "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são campos morfogenéticos?.md"
+                "file": "A melhor maneira de você cuidar da sua família, é cuidando de você.md"
               }
             }
           },
@@ -316,10 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a301dca1f4d28c6",
+  "active": "2ef24c270c65ce49",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Física Quântica.md",
     "O que são campos morfogenéticos?.md",
+    "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
+    "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "A vida e o cérebro são holográficos.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
@@ -343,7 +356,6 @@
     "2. Literature Notes/Topics/Quando a criança começa a sentir que é errada?.md",
     "2. Literature Notes/Topics/Doenças hereditárias biologicamente não existem.md",
     "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
-    "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
