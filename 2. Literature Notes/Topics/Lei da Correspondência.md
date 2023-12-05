@@ -21,6 +21,8 @@ Como eu faço uma coisa mostra como eu faço quase tudo na minha vida.
 
 A minha vida fora é só um reflexo de quem eu sou dentro. Porque eu estou fugindo de mim? Porque aonde eu vou, eu estou.
 
+[[A vida e o cérebro são holográficos]]
+
 **COMO:**
 
 **PENSADORES:**

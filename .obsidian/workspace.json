@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ac8ec3a6abb0638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A vida e o cérebro são holográficos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "file": "A vida e o cérebro são holográficos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md",
+                "file": "A vida e o cérebro são holográficos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Correspondência.md"
+                "file": "A vida e o cérebro são holográficos.md"
               }
             }
           },
@@ -280,8 +292,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdc8c2b2ff3a2d47",
+  "active": "5ac8ec3a6abb0638",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+    "A vida e o cérebro são holográficos.md",
+    "2. Literature Notes/Topics/Lei da Correspondência.md",
     "O que é o Princípio da Indeterminação?.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/Física Quântica.md",
@@ -305,9 +320,6 @@
     "2. Literature Notes/Topics/Se você não se respeita, você vai atrair pessoas que não te respeitam, para que você aprenda a lidar com o seu respeito.md",
     "2. Literature Notes/Topics/O que é a Lei da Intrincação ou Emaranhamento?.md",
     "2. Literature Notes/Topics/Nada é aleatório.md",
-    "2. Literature Notes/Topics/O ser humano não forma a identidade sem os limites.md",
-    "o que é a Leo da Intricação/Emaranhamento?.md",
-    "2. Literature Notes/Topics/É necessário aprender a desobedecer os pais com respeito.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
