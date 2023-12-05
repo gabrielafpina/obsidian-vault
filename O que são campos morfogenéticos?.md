@@ -17,6 +17,10 @@ Os campos mórficos funcionam modificando eventos probabilísticos, pois quase t
 
 A ressonância mórifca é um processo de herdar memórias inconscientemente. Isso cria um hábito que é transmitido a todos os indivíduos daquela espécie.
 
+A natureza do campo é a conexão.
+
+A ressonância mórfica tende a reforçar qualquer padrão repetitivo, como algo conflituoso, ou não. Por isso, cada um de nós é mais responsável do que imagina, pois nossas ações podem influenciar os outros a serem repetidas.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
