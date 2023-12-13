@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disc",
+                "query": "leis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md"
+                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
               }
             }
           },
@@ -258,6 +257,7 @@
   },
   "active": "63979e7e7632d417",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é o DISC?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
@@ -281,7 +281,6 @@
     "2. Literature Notes/Topics/Roda de Samsara.md",
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
-    "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Readwise/Books/Harry Potter E a Pedra Filosofal.md",
     "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "o que é a Leo da Intricação",
