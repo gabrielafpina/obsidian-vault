@@ -13,9 +13,9 @@ A característica principal é que a forma das sociedades, ideias, moléculas de
 
 Para Sheldrake, os organismos vivos não herdam apenas os genes, mas também os campos mórficos, seja dos antepassados diretos, como também dos demais membros da espécie.
 
-Os campos mórficos funcionam modificando eventos probabilísticos, pois quase toda a natureza é inerentemente caótica. Não é rigidamente determinada, e muda ao mesmo tempo em que muda o sistema com o qual está associado. 
+Os campos mórficos funcionam modificando eventos probabilísticos ([[Física Quântica]]), pois quase toda a natureza é inerentemente caótica. Não é rigidamente determinada, e muda ao mesmo tempo em que muda o sistema com o qual está associado. 
 
-A ressonância mórifca é um processo de herdar memórias inconscientemente. Isso cria um hábito que é transmitido a todos os indivíduos daquela espécie.
+A ressonância mórfica é um processo de herdar memórias inconscientemente. Isso cria um hábito que é transmitido a todos os indivíduos daquela espécie.
 
 A natureza do campo é a conexão.
 
