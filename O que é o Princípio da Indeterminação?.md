@@ -28,3 +28,4 @@ Isso explica porque é extremamente desafiador saber como o nosso inconsciente i
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A vida e o cérebro são holográficos]]

@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "4b0dee4f86cb8c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A vida e o cérebro são holográficos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25c73ae53edc31a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff854aa1259b950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que são campos morfogenéticos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f6a1555dce8ec70",
             "type": "leaf",
             "state": {
@@ -128,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indetermina",
+                "query": "campo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md",
+                "file": "O que são campos morfogenéticos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md",
+                "file": "O que são campos morfogenéticos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é o Princípio da Indeterminação?.md"
+                "file": "O que são campos morfogenéticos?.md"
               }
             }
           },
@@ -316,17 +352,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8370974ba4effe37",
+  "active": "3ff854aa1259b950",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+    "2. Literature Notes/Topics/Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia.md",
+    "A vida e o cérebro são holográficos.md",
+    "O que é o Princípio da Indeterminação?.md",
     "A mente que se abre para uma nova ideia jamais retorna para o seu tamanho original.md",
     "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
-    "A vida e o cérebro são holográficos.md",
     "2. Literature Notes/Topics/O paciente não melhora com aquilo que ele já sabe, ele melhora com o que ele nem sabe que não sabe.md",
     "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
-    "O que é o Princípio da Indeterminação?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
@@ -336,14 +374,12 @@
     "O que são campos morfogenéticos?.md",
     "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a fixação?.md",
-    "2. Literature Notes/Topics/Roda de Samsara.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
