@@ -16,10 +16,12 @@ Para Sheldrake, os organismos vivos não herdam apenas os genes, mas também os 
 Os campos mórficos funcionam modificando eventos probabilísticos ([[Física Quântica]]), pois quase toda a natureza é inerentemente caótica. Não é rigidamente determinada, e muda ao mesmo tempo em que muda o sistema com o qual está associado. 
 
 A ressonância mórfica é um processo de herdar memórias inconscientemente. Isso cria um hábito que é transmitido a todos os indivíduos daquela espécie.
+	A informação passa a existir no campo, e isso se torna acessível para mais pessoas.
 
 A natureza do campo é a conexão.
 
-A ressonância mórfica tende a reforçar qualquer padrão repetitivo, como algo conflituoso, ou não. Por isso, cada um de nós é mais responsável do que imagina, pois nossas ações podem influenciar os outros a serem repetidas.
+A ressonância mórfica tende a reforçar qualquer padrão repetitivo, como algo conflituoso, ou não. Por isso, cada um de nós é mais responsável do que imagina, pois nossas ações podem influenciar os outros e serem repetidas.
+
 
 ###### **COMO:**
 
