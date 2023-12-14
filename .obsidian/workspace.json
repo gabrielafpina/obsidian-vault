@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e3073a2c7b20bd6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbde3a6b90f8e8cc",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leis",
+                "query": "disc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md"
+                "file": "2. Literature Notes/Topics/O que é o DISC?.md"
               }
             }
           },
@@ -255,8 +268,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63979e7e7632d417",
+  "active": "e3073a2c7b20bd6e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
@@ -282,7 +296,6 @@
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Readwise/Books/Harry Potter E a Pedra Filosofal.md",
-    "2. Literature Notes/Topics/Fórmula do Entusiasmo.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
