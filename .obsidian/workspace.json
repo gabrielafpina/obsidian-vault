@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assim que entendemos algo, tudo se altera.md",
+                "file": "Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5a4183f59bf44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'Eu não sei mais o que fazer pelo meu filho'.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matéria",
+                "query": "impot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assim que entendemos algo, tudo se altera.md",
+                "file": "'Eu não sei mais o que fazer pelo meu filho'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assim que entendemos algo, tudo se altera.md",
+                "file": "'Eu não sei mais o que fazer pelo meu filho'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assim que entendemos algo, tudo se altera.md"
+                "file": "'Eu não sei mais o que fazer pelo meu filho'.md"
               }
             }
           },
@@ -316,11 +328,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f3f1d815afeaf1a",
+  "active": "ef5a4183f59bf44b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo é energia e informação.md",
-    "Assim que entendemos algo, tudo se altera.md",
     "Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência.md",
+    "'Eu não sei mais o que fazer pelo meu filho'.md",
+    "Assim que entendemos algo, tudo se altera.md",
+    "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
     "O que são campos morfogenéticos?.md",
     "2. Literature Notes/Topics/Inconsciente Coletivo.md",
@@ -343,7 +356,6 @@
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "2. Literature Notes/Topics/Lei da Correspondência.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

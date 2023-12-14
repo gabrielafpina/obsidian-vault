@@ -17,6 +17,7 @@ Compreender a repetição dos ciclos da vida, se dar conta de um roteiro repetit
 ###### **PENSADORES:**
 
 ###### **FRASES:**
+- [[Josi Kromer]]: 'O passado molda o futuro. O presente é uma mera passagem furtiva de um ao outro'.
 
 ---------
 
