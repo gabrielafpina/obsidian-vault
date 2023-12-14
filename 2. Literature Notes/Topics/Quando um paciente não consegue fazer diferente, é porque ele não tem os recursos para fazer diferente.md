@@ -10,6 +10,8 @@ O paciente não melhora porque ele não quer. Ele não melhora porque ele não p
 
 [[O paciente precisa enxergar os mecanismos que mantém ele preso no lugar]]
 
+O reposicionamento do paciente é quando ele toma uma atitude diferente do que ele tomava anteriormente.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

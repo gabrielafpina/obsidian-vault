@@ -7,6 +7,8 @@
 **DEFINIÇÃO:**
 A sensação de incapacidade de algo é superada com a ação.
 
+O reposicionamento do paciente é quando ele toma uma atitude diferente do que ele tomava anteriormente.
+
 **COMO:**
 
 **PENSADORES:**

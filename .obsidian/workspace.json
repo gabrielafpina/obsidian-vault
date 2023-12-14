@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63979e7e7632d417",
+            "id": "e98b6d8ab46d9bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+                "file": "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3073a2c7b20bd6e",
+            "id": "41ee343b64e388f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbde3a6b90f8e8cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é o Princípio da Indeterminação?.md",
+                "file": "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disc",
+                "query": "paciente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md",
+                "file": "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o DISC?.md"
+                "file": "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md"
               }
             }
           },
@@ -268,10 +255,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3073a2c7b20bd6e",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
+    "2. Literature Notes/Topics/A falta de capacidade é superada pelo movimento.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
+    "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
+    "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
+    "O que é o Princípio da Indeterminação?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "2. Literature Notes/Meditações Guiadas/Meditação guiada de mudança de identidade.md",
@@ -284,18 +275,14 @@
     "A vida e o cérebro são holográficos.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "O que é o Princípio da Indeterminação?.md",
     "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
     "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
-    "O paciente precisa enxergar os mecanismos que mantém ele preso no lugar.md",
-    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
     "2. Literature Notes/Topics/Eu-Paralelo-Preferido (EPP).md",
     "2. Literature Notes/Topics/O que é a libido, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a fixação?.md",
     "2. Literature Notes/Topics/Roda de Samsara.md",
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
-    "2. Literature Notes/Readwise/Books/Harry Potter E a Pedra Filosofal.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
