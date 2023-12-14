@@ -10,6 +10,8 @@ As vezes, você pode forçar o outro no processo dele, em um mecanismo que está
 
 Quando você força a pessoa o outro em relação à sua melhora, você pode estar interferindo em um mecanismo de proteção tão solidificado, que a pessoa não dá conta de trabalhar.
 
+Se eu 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
