@@ -27,3 +27,4 @@
 - [[O que é o princípio da não-localidade?]]
 - [[O que é o Princípio da Indeterminação?]]
 - [[O que são campos morfogenéticos?]]
+- [[O que são ciclos celulares memorizados?]]
