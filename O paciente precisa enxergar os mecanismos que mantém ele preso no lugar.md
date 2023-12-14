@@ -19,5 +19,6 @@ Não é papel do terapeuta dizer o que o paciente deve fazer. É mostrar para el
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[A mente que se abre para uma nova ideia jamais retorna para o seu tamanho original]]
 
 **Sul: para onde vai**
