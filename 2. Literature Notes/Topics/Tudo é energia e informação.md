@@ -13,6 +13,8 @@ Assim, tudo está disponível para nós. No entanto, para o nosso cérebro, algu
 
 Nós somos matéria, formados de partículas sub-atômicas. Assim, podemos funcionar, tanto como matéria, quanto como ondas. E as ondas são infinitas probabilidades. [[O observador colapsa a função de onda]]. Todas as pessoas tem dentro de si infinitas possibilidades de Ser. O que define o que uma pessoa será ou não? O que você faz, se enxergar de determinada forma, sua percepção. [[O que é a percepção?]]. [[Percepção é o que controla a sua biologia]].
 
+Quando a gente muda, a nossa frequência muda, os nossos conflitos mudam. [[Assim que entendemos algo, tudo se altera]]
+
 **COMO:**
 
 **PENSADORES:**

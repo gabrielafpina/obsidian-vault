@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "0f3f1d815afeaf1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assim que entendemos algo, tudo se altera.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1daa55024b6e1d8e",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "Assim que entendemos algo, tudo se altera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md",
+                "file": "Assim que entendemos algo, tudo se altera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo é energia e informação.md"
+                "file": "Assim que entendemos algo, tudo se altera.md"
               }
             }
           },
@@ -304,8 +316,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3b793226eb6a064",
+  "active": "0f3f1d815afeaf1a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo é energia e informação.md",
+    "Assim que entendemos algo, tudo se altera.md",
     "Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência.md",
     "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
     "O que são campos morfogenéticos?.md",
@@ -330,8 +344,6 @@
     "2. Literature Notes/Topics/Física Quântica.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Lei da Correspondência.md",
-    "2. Literature Notes/Topics/O observador colapsa a função de onda.md",
-    "2. Literature Notes/Topics/O que é o princípio da não-localidade?.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
