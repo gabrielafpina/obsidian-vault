@@ -25,3 +25,4 @@ Quando você força a pessoa o outro em relação à sua melhora, você pode est
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência]]

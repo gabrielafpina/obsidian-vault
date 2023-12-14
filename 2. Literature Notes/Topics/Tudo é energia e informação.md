@@ -18,7 +18,7 @@ Nós somos matéria, formados de partículas sub-atômicas. Assim, podemos funci
 **PENSADORES:**
 
 **FRASES:**
-
+- [[Albert Einstein]]: 'No que diz respeito à matéria, nós nos enganamos. O que chamamos de matéria não passa de energia que desacelerou sua vibração para ser perceptível aos nossos sentidos.'
 ---------
 
 **Oeste: similar**
