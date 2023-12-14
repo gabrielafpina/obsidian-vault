@@ -21,6 +21,7 @@ A ressonância mórfica é um processo de herdar memórias inconscientemente. Is
 A natureza do campo é a conexão.
 
 A ressonância mórfica tende a reforçar qualquer padrão repetitivo, como algo conflituoso, ou não. Por isso, cada um de nós é mais responsável do que imagina, pois nossas ações podem influenciar os outros e serem repetidas.
+	[[A melhor maneira de você cuidar da sua família, é cuidando de você]]
 
 
 ###### **COMO:**
