@@ -28,3 +28,4 @@ Se eu interfiro demais no arbítrio do outro, estou tirando a oportunidade do ou
 
 **Sul: para onde vai**
 - [[Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência]]
+- [[A vitória de um autoriza a vitória de outro]]
