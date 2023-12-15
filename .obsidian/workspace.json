@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "cf273b57506baecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nenhum pai e nenhuma mãe rejeita o filho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "83882c73e6585fe4",
             "type": "leaf",
             "state": {
@@ -273,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A vitória de um autoriza a vitória de outro.md",
+                "file": "Nenhum pai e nenhuma mãe rejeita o filho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A vitória de um autoriza a vitória de outro.md",
+                "file": "Nenhum pai e nenhuma mãe rejeita o filho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A vitória de um autoriza a vitória de outro.md"
+                "file": "Nenhum pai e nenhuma mãe rejeita o filho.md"
               }
             }
           },
@@ -352,9 +364,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83882c73e6585fe4",
+  "active": "cf273b57506baecd",
   "lastOpenFiles": [
     "A melhor maneira de você cuidar da sua família, é cuidando de você.md",
+    "Nenhum pai e nenhuma mãe rejeita o filho.md",
     "A vitória de um autoriza a vitória de outro.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "O que são ciclos celulares memorizados?.md",
@@ -379,7 +392,6 @@
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "2. Literature Notes/Meditações Guiadas/Meditação Guiada Jornada pelo Labirinto da Mente.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
