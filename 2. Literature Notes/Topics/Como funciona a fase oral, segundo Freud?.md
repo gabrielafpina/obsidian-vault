@@ -20,7 +20,12 @@
 
 A primeira fase de desenvolvimento da criança se concentra na região oral. Tendo como exemplo principal o foco na amamentação. A criança obtém prazer no momento de sucção e sente satisfação com a nutrição proporcionada pelo ato.
 
-Na teoria kleiniana, acredita-se que primeiramente existe um mundo interno, formado a partir das percepções do mundo externo, colorido com as ansiedades do mundo interno.
+Na teoria kleiniana, de [[Melanie Klein]] acredita-se que primeiramente existe um mundo interno, formado a partir das percepções do mundo externo, colorido com as ansiedades do mundo interno.
+	O seio materno, primeiro objeto de relação da criança com o mundo externo, é percebido tanto como seio bom (quando amamenta), como seio mau, quando não alimenta na hora que a criança deseja.
+
+Os primeiros momentos de vida extrauterina do bebê promove importantes impactos sobre sua construção psíquica, tanto interna quanto externamente, como:
+- O contato com o mundo, sua relação com a mãe e todas as etapas do desenvolvimento para sua adaptação colocam o recém nascido numa atividade repleta de estímulos. 
+
 
 
 ###### **COMO:**
