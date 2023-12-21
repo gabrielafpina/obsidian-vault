@@ -18,6 +18,10 @@
 - Nesse momento, o bebê entende que ele e mãe são a mesma coisa. A criança incorpora o leite e o seio e sente ter a mãe dentro de si.
 - A libido está organizada em torno da zona oral e o tipo de relação será a incorporação dos objetos.
 
+A primeira fase de desenvolvimento da criança se concentra na região oral. Tendo como exemplo principal o foco na amamentação. A criança obtém prazer no momento de sucção e sente satisfação com a nutrição proporcionada pelo ato.
+
+Na teoria kleiniana, acredita-se que primeiramente existe um mundo interno, formado a partir das percepções do mundo externo, colorido com as ansiedades do mundo interno.
+
 
 ###### **COMO:**
 
