@@ -13,7 +13,10 @@
 - A criança inicia sua adaptação ao meio físico e emocional. Ela começa a compreender a dinâmica do núcleo familiar e social também.
 - Respirar marca o ponto inicial da independência humana. A primeira coisa que o bebê faz é respirar.
 - Ao nascer, a estrutura inicial mais desenvolvida é a boca, que vai até o estômago. Tudo que se experimenta com a boca é fase oral.
-- É pela boca que o bebê começará a provar e conhecer o mundo. Se nessa fase a criança sente algum trauma de abandono ou rejeição, ela guarda isso no inconsciente dela, e passa a se entender e entender o mundo
+- É pela boca que o bebê começará a provar e conhecer o mundo.
+- A primeira e mais importante descoberta afetiva é o seio, que é o depositário de seus principais amores e ódios. Nesse momento, o bebê ama a mãe pela boca e pelo seio. 
+- Nesse momento, o bebê entende que ele e mãe são a mesma coisa. A criança incorpora o leite e o seio e sente ter a mãe dentro de si.
+- A libido está organizada em torno da zona oral e o tipo de relação será a incorporação dos objetos. 
 
 
 ###### **COMO:**
