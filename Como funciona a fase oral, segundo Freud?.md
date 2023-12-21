@@ -16,7 +16,7 @@
 - É pela boca que o bebê começará a provar e conhecer o mundo.
 - A primeira e mais importante descoberta afetiva é o seio, que é o depositário de seus principais amores e ódios. Nesse momento, o bebê ama a mãe pela boca e pelo seio. 
 - Nesse momento, o bebê entende que ele e mãe são a mesma coisa. A criança incorpora o leite e o seio e sente ter a mãe dentro de si.
-- A libido está organizada em torno da zona oral e o tipo de relação será a incorporação dos objetos. 
+- A libido está organizada em torno da zona oral e o tipo de relação será a incorpo;ração dos objetos. 
 
 
 ###### **COMO:**
