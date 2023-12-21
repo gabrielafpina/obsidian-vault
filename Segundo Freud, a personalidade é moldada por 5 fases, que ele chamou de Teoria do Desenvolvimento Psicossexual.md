@@ -1,6 +1,6 @@
 **TAGS:**
 
-**FONTE:** curso de [[Psicanálise]]
+**FONTE:** curso de [[Psicanálise]] [[Sigmund Freud]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
