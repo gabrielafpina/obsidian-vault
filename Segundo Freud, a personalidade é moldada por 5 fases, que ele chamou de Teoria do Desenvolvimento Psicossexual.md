@@ -5,11 +5,11 @@
 
 ###### **DEFINIÇÃO:**
 1. **Oral**: 0 - 2 anos
+	1. *Características principais*: a região do corpo que proporciona maior prazer à criança é a boca. Nós nascemos com o [[ID]], que nos faz ir em busca de prazer, o que nos dá entusiasmo e motivação, mas ele pode se tornar desenfreado também.
 2. **Anal**: 2 - 3 anos
 3. **Fálica**: 3 - 5 anos (aqui é onde acontece o complexo de édipo)
 4. **Latência**: 5 - 11 anos
 5. **Genital**: 12 - 18 anos
-
 
 Durante cada fase, uma criança é confrontada com um conflito entre impulsos biológicos e expectativas sociais.
 	Se ela passar de forma bem-sucedida por esses conflitos internas, acabará tendo domínio de cada estágio de desenvolvimento e, finalmente, obterá uma personalidade bem formada. [[O que são os setênios?]] Se ela não for bem sucedida nas fases, poderá desenvolver uma *fixação*, em que ela fixada em determinada fase, o que fica na memória inconsciente dela, gerando um trauma que o adulto carrega ao longo da vida. [[O que é a fixação?]]
