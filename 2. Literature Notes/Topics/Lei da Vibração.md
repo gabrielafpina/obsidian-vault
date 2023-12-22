@@ -36,6 +36,7 @@ As vibrações existem em todos os níveis da matéria. Absoultamente tudo o que
 	- Quando você entra em um rio, a água que flui passa por você e continua seu caminho. Se você sair e entrar novamente, a água que agora toca você é diferente da que tocou antes. O rio, embora pareça o mesmo, está em constante mudança.
 
 **FRASES:**
+- 'O cérebro é um rádio, portanto, se você quiser saber o que está atraindo, tente entender o que está emitindo'.
 
 ---------
 
