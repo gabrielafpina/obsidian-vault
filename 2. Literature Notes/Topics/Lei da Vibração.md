@@ -23,6 +23,10 @@ Você é o responsável por criar as suas referências de [[crenças]] e se voc�
 
 Tudo só acontece quando você está na mesma frequência.
 
+As vibrações existem em todos os níveis da matéria. Absoultamente tudo o que você vê, na verdade, você não vê, vibra.
+
+[[Rafael Livramento]]: 'Nós vibramos em muitos níveis diferentes. Cada cor tem uma frequência, cada língua, letra, número'.
+
 **OBS:**
 432Hz é uma frequência de cura. É inteligente utilizá-la quando você estiver precisando se curar de alguma dor.
 
