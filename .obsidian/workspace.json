@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8beb0e3d7cda8e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md",
+                "file": "'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei da Vibração.md"
+                "file": "'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md"
               }
             }
           },
@@ -244,8 +256,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0819a1969a4376f9",
+  "active": "8beb0e3d7cda8e80",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Lei da Vibração.md",
+    "'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
@@ -270,8 +284,6 @@
     "2. Literature Notes/Topics/O que são campos morfogenéticos?.md",
     "2. Literature Notes/Topics/Inconsciente Coletivo.md",
     "2. Literature Notes/Topics/Quando você deixa de querer ter resultado, você passa a ter mais resultado.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/Se você mudar os seus pensamentos e a sua mente, você pode mudar a sua biologia.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

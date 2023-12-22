@@ -75,3 +75,4 @@ As vibrações existem em todos os níveis da matéria. Absoultamente tudo o que
 - [[Você não vibra impunemente]]
 - [[Conhece-te a ti mesmo e domina-te a ti mesmo]]
 - [[Viemos aqui para Ter coisas, Fazer coisas, não para Ser coisas]]
+- [['No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus']]
