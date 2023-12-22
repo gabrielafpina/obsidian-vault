@@ -37,6 +37,7 @@ As vibrações existem em todos os níveis da matéria. Absoultamente tudo o que
 
 **FRASES:**
 - 'O cérebro é um rádio, portanto, se você quiser saber o que está atraindo, tente entender o que está emitindo'.
+- [[Josi Kromer]]: 'Tudo aquilo que atraímos tem relação com a frequência que precisamos vivenciar para fazermos nossas experiências'. [[Estamos aqui, nessa existência, unicamente para fazer as nossas experiências]]
 
 ---------
 
