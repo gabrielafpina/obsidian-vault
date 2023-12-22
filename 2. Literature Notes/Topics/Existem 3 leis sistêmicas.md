@@ -10,7 +10,7 @@
 	2. As pessoas fazem de tudo para pertencer ao grupo. O maior medo das pessoas é não pertencer a clã nenhum. Mas queira ou não, você já pertence.
 2. Lei da ordem e hierarquia
 	1. Os seus pais vieram antes de você, então eles são maiores. Na verdade, quem vem antes tem mais força do que vem depois. Os pais são grandes e os filhos são pequenininhos. Quem veio primeiro é mais antigo, quem veio depois é menor. 
-	2. A ordem tem que ser devidamente respeitada. O problema acontece quando a pessoa infringe essa ordem. [[Existem 4 lugares proibidos]].
+	2. A ordem tem que ser devidamente respeitada. O problema acontece quando a pessoa infringe essa ordem. [[Existem 4 lugares proibidos]]. [[Qual é a função dos pais na nossa vida?]]
 	3. [[Quando você briga, tem pena ou julga os seus pais, você está brigando com o destino. Em última análise, com a Vida]]
 3. Lei do equilíbrio de troca
 	1. Troca saudável entre o dar e o tomar. Quando trocamos de igual para igual, todos evoluem.
