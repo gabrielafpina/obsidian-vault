@@ -38,3 +38,4 @@
 **Sul: para onde vai**
 - [[Tudo começa com pai e mãe]]
 - [[O sucesso só pode acontecer quando tiver humildade radical]]
+- [[Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida]]
