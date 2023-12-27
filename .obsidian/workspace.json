@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14f907ec4d3b39af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67603e0414446ca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os genes não controlam a biologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0646e25a5943fc2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4dda75165db040af",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "viewState": {
                   "x": -609,
                   "y": 93,
@@ -59,43 +23,21 @@
             }
           },
           {
-            "id": "8836ca65fee57b61",
+            "id": "91547b8be0d72473",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f287e07fa2086680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdb64e3ad0c2b046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "viewState": {
+                  "x": 511.2773481947979,
+                  "y": 94.27761004493202,
+                  "zoom": -1.4136756795106078
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas"
               }
             }
           },
@@ -285,6 +227,10 @@
   },
   "active": "4dda75165db040af",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
+    "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+    "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "Não existe nada mais contagioso do que o medo.md",
@@ -311,7 +257,6 @@
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
-    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
@@ -324,8 +269,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2023-06-03 às 12.26.39 1.png",
     "5. Shots, Images & PDFs/Frame 1.png",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
-    "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
-    "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
     "6. Creator/Products/Fly/Clube do Livro",
     "6. Creator/Products/Fly",
@@ -339,7 +282,6 @@
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
