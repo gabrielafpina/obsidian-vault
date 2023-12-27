@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a coerência?.md",
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tudo que é criado precisa de 3 coisas.md",
+                "file": "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem soluções concretas, não tem melhora concreta.md",
+                "file": "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coerência",
+                "query": "epigen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tudo que é criado precisa de 3 coisas.md",
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tudo que é criado precisa de 3 coisas.md",
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tudo que é criado precisa de 3 coisas.md"
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md"
               }
             }
           },
@@ -233,19 +232,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f287e07fa2086680",
+  "active": "14f907ec4d3b39af",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a epigenética?.md",
     "2. Literature Notes/Topics/O que é a coerência?.md",
-    "Tudo que é criado precisa de 3 coisas.md",
-    "Sem soluções concretas, não tem melhora concreta.md",
+    "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
+    "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
     "2. Literature Notes/Topics/O que é o reposicionamento?.md",
     "2. Literature Notes/Topics/'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
-    "Os filhos amam os pais incondicionalmente. Os pais amam os filhos de acordo com o que o seu nível traumático permite.md",
+    "2. Literature Notes/Topics/Os filhos amam os pais incondicionalmente. Os pais amam os filhos de acordo com o que o seu nível traumático permite.md",
     "2. Literature Notes/Topics/Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
-    "Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida.md",
+    "2. Literature Notes/Topics/Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
@@ -260,7 +260,6 @@
     "2. Literature Notes/Topics/A melhor maneira de você cuidar da sua família, é cuidando de você.md",
     "2. Literature Notes/Topics/A vitória de um autoriza a vitória de outro.md",
     "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
-    "2. Literature Notes/Topics/O que são ciclos celulares memorizados?.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
