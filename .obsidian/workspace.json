@@ -37,9 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Não existe nada mais contagioso do que o medo.md",
+                "file": "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4dda75165db040af",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "viewState": {
+                  "x": -609,
+                  "y": 93,
+                  "zoom": -0.739300463334351
+                }
               }
             }
           },
@@ -99,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epigen",
+                "query": "zona de genial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +141,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md"
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
               }
             }
           },
@@ -269,10 +283,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8836ca65fee57b61",
+  "active": "4dda75165db040af",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
+    "2. Literature Notes/Topics/Criação de Vision Board.md",
     "Não existe nada mais contagioso do que o medo.md",
     "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "Os genes não controlam a biologia.md",
     "Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
@@ -295,9 +312,6 @@
     "2. Literature Notes/Topics/Como a personalidade se desenvolve, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é o DISC?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
-    "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
-    "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
-    "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
