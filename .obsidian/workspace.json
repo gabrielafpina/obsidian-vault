@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "48e73bbc3efce36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fad2e41eacd6d118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os filhos amam os pais incondicionalmente. Os pais amam os filhos de acordo com o que o seu nível traumático permite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0819a1969a4376f9",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vibração",
+                "query": "os pais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -292,10 +316,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d19dde552c10424c",
+  "active": "fad2e41eacd6d118",
   "lastOpenFiles": [
-    "Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida.md",
+    "2. Literature Notes/Topics/Devemos ter sempre em mente que nossos pais também foram influenciados pelos próprios pais e que, no fim das contas, também são vítimas da criação que receberam.md",
     "Os filhos amam os pais incondicionalmente. Os pais amam os filhos de acordo com o que o seu nível traumático permite.md",
+    "Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Lei da Vibração.md",
@@ -319,7 +344,6 @@
     "2. Literature Notes/Topics/'Eu não sei mais o que fazer pelo meu filho'.md",
     "2. Literature Notes/Topics/Muitos conflitos se manifestam, porque nos colocamos em um estado em que vamos viver a impotência.md",
     "2. Literature Notes/Topics/Assim que entendemos algo, tudo se altera.md",
-    "2. Literature Notes/Topics/Tudo é energia e informação.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
