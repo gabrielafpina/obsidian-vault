@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0646e25a5943fc2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não existe nada mais contagioso do que o medo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8836ca65fee57b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f287e07fa2086680",
             "type": "leaf",
             "state": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Os genes não controlam a biologia.md",
+                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Os genes não controlam a biologia.md",
+                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Os genes não controlam a biologia.md"
+                "file": "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md"
               }
             }
           },
@@ -245,11 +269,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67603e0414446ca5",
+  "active": "8836ca65fee57b61",
   "lastOpenFiles": [
+    "Não existe nada mais contagioso do que o medo.md",
+    "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+    "Os genes não controlam a biologia.md",
     "Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
-    "Os genes não controlam a biologia.md",
     "2. Literature Notes/Topics/O que é a coerência?.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
@@ -272,7 +298,6 @@
     "2. Literature Notes/Topics/A alma quer paz, a alma quer felicidade.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
-    "2. Literature Notes/Topics/A melhor maneira de você cuidar da sua família, é cuidando de você.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
@@ -296,7 +321,6 @@
     "5. Shots, Images & PDFs/IMG_0208.jpg",
     "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
-    "5. Shots, Images & PDFs/9e7f5220fb3de7271f5c20028c2cc545.jpeg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",

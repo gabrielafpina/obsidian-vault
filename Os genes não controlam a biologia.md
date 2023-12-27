@@ -16,7 +16,7 @@ Ou seja, você tem um sinal externo (estímulo), que gera uma resposta celular, 
 
 ![[Captura de Tela 2023-12-27 às 14.11.06.png]]
 
-Os genes não são auto ativados e desativados. Não é o gene que decide. É a percepção.
+Os genes não são auto ativados e desativados. Não é o gene que decide. É a percepção, sem ela, você não tem uma resposta.
 
 ###### **COMO:**
 
@@ -33,3 +33,4 @@ Os genes não são auto ativados e desativados. Não é o gene que decide. É a 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Não existe nada mais contagioso do que o medo]]
