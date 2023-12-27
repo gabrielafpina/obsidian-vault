@@ -9,7 +9,7 @@
 A sua vida atrai aquilo para você ao qual você se torna coerente. Só atraímos aquilo ao qual somos coerentes, seja bom ou ruim. Isso tem a ver com a percepção. [[O observador colapsa a função de onda]].
 
 Quanto mais nos aproximamos da coerência, mais a vida melhora.
-	Quando você se reposiciona de forma coerente, você modifica o impacto sobre o seu ambiente. Ex: quando você fala 'não' para o que você não quer, você fica disponível para ouvir o 'sim' do que você quer. Esse é o reposicionamento, de fato
+	Quando você se reposiciona de forma coerente, você modifica o impacto sobre o seu ambiente. Ex: quando você fala 'não' para o que você não quer, você fica disponível para ouvir o 'sim' do que você quer. Esse é o reposicionamento, de fato. Colocar um limite em relação a algo que para você hoje não funciona mais. Toma uma decisão que você está adiando por medo, mas que sabe que tem que tomar. [[Sem soluções concretas, não tem melhora concreta]]. É compreender quais ações e atitudes você precisa tomar.
 
 ###### **O QUE AFETA A COERÊNCIA?**
 - Medo
@@ -32,33 +32,4 @@ Estar em harmonia com a criação é também estar em harmonia consigo mesmo.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-> [!failure]- Failure 
->   Error: There is another generation process
->   
->   - plugin:obsidian-textgenerator-plugin:56960 TextGenerator.eval
->     plugin:obsidian-textgenerator-plugin:56960:31
->   
->   - Generator.next
->   
->   - plugin:obsidian-textgenerator-plugin:78 eval
->     plugin:obsidian-textgenerator-plugin:78:61
->   
->   - new Promise
->   
->   - plugin:obsidian-textgenerator-plugin:62 __async
->     plugin:obsidian-textgenerator-plugin:62:10
->   
->   - plugin:obsidian-textgenerator-plugin:56946 TextGenerator.generate
->     plugin:obsidian-textgenerator-plugin:56946:12
->   
->   - plugin:obsidian-textgenerator-plugin:58451 AutoSuggest.eval
->     plugin:obsidian-textgenerator-plugin:58451:52
->   
->   - Generator.next
->   
->   - plugin:obsidian-textgenerator-plugin:78 eval
->     plugin:obsidian-textgenerator-plugin:78:61
->   
->   - new Promise
->   
->  
+- [[Tudo que é criado precisa de 3 coisas]]
