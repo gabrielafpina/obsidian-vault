@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "67603e0414446ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os genes não controlam a biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f287e07fa2086680",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
+                "file": "Os genes não controlam a biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
+                "file": "Os genes não controlam a biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md"
+                "file": "Os genes não controlam a biologia.md"
               }
             }
           },
@@ -232,9 +245,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14f907ec4d3b39af",
+  "active": "67603e0414446ca5",
   "lastOpenFiles": [
+    "Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
+    "Os genes não controlam a biologia.md",
     "2. Literature Notes/Topics/O que é a coerência?.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
@@ -258,8 +273,6 @@
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - O cinema da sua vida.md",
     "2. Literature Notes/Meditações Guiadas/Meditação Guiada - Acolhendo sua criança interior.md",
     "2. Literature Notes/Topics/A melhor maneira de você cuidar da sua família, é cuidando de você.md",
-    "2. Literature Notes/Topics/A vitória de um autoriza a vitória de outro.md",
-    "2. Literature Notes/Topics/O único trabalho verdadeiro é o trabalho sobre si.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
