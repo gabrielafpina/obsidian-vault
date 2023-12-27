@@ -9,12 +9,15 @@
 A sua vida atrai aquilo para você ao qual você se torna coerente. Só atraímos aquilo ao qual somos coerentes, seja bom ou ruim. Isso tem a ver com a percepção. [[O observador colapsa a função de onda]].
 
 Quanto mais nos aproximamos da coerência, mais a vida melhora.
+	Quando você se reposiciona de forma coerente, você modifica o impacto sobre o seu ambiente. Ex: quando você fala 'não' para o que você não quer, você fica disponível para ouvir o 'sim' do que você quer. Esse é o reposicionamento, de fato
 
 ###### **O QUE AFETA A COERÊNCIA?**
 - Medo
 	- Falta de confiança
+	- Dúvida
 - 'Mas...'
-- 
+
+Estar em harmonia com a criação é também estar em harmonia consigo mesmo.
 
 ###### **PENSADORES:**
 
