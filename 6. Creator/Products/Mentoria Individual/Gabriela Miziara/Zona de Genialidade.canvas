@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"4926d2f7dd69effd","type":"text","text":"**Zona de Merda**\n- Intermediar conflitos e se posicionar\n","x":-1040,"y":-235,"width":412,"height":309,"color":"3"},
-		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**\n- Desenhar projetos\n- ","x":-571,"y":-235,"width":393,"height":309,"color":"#f20202"},
-		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**\n","x":-1036,"y":112,"width":408,"height":309,"color":"5"},
-		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n","x":-571,"y":112,"width":393,"height":309,"color":"6"}
+		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**\n- Desenhar projetos\n- Criação de planilhas","x":-571,"y":-235,"width":393,"height":309,"color":"#f20202"},
+		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**\n- Organização, principalmente, a nível profissional\n\t- Criação de cronograma e planejamento\n- \n","x":-1036,"y":112,"width":408,"height":309,"color":"5"},
+		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n- Lealdade\n- Capacidade de Aprendizado e Ensino Rápidos\n- Ação Orientada e Determinada","x":-571,"y":112,"width":393,"height":309,"color":"6"}
 	],
 	"edges":[]
 }
