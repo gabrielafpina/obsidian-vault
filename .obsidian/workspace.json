@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genéti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -220,7 +220,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65f4f5b0ca2daf5f",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é a epigenética?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
