@@ -11,11 +11,28 @@
             "id": "4d1409c6a38ae27e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f4f5b0ca2daf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zona de genial",
+                "query": "genéti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é ressignificar?.md"
+              }
             }
           },
           {
@@ -200,8 +220,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "65f4f5b0ca2daf5f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a epigenética?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
@@ -213,7 +234,6 @@
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
-    "2. Literature Notes/Topics/O que é a epigenética?.md",
     "2. Literature Notes/Topics/O que é a coerência?.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
@@ -256,7 +276,6 @@
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
-    "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
-    "Untitled.canvas"
+    "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas"
   ]
 }

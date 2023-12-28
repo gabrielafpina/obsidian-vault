@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 É dar um significado novo. Quando fazemos isso, a percepção de perigo se modifica e, consequentemente, o movimento de vida também se modifica.
 
+O DNA é c
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
