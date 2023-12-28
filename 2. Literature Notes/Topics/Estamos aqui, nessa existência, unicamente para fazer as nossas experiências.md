@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 Viva as experiências, nem que seja para você ver que não era o que queria. As experiências de vida moldam a nossa identidade.
 
+Isso altera a nossa perce
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
