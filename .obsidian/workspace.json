@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "6ff4db0cceb150cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c33118eab567f9a",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md"
+                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md"
               }
             }
           },
@@ -293,10 +305,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8f8fbb8b71266a4",
+  "active": "6ff4db0cceb150cb",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+    "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
@@ -325,7 +338,6 @@
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
-    "2. Literature Notes/People/Melanie Klein.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

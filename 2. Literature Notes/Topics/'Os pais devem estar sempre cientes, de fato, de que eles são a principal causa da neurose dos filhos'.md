@@ -21,4 +21,4 @@ Se os pais estiverem disponíveis para olhar para a própria história e ressign
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [['A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e']]
+- [['A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade']]
