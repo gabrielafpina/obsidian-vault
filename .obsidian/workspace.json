@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "a2d2ee5601c885a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando uma mulher engravida, ela revive as gestações do clã.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c33118eab567f9a",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+                "file": "Quando uma mulher engravida, ela revive as gestações do clã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+                "file": "Quando uma mulher engravida, ela revive as gestações do clã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md"
+                "file": "Quando uma mulher engravida, ela revive as gestações do clã.md"
               }
             }
           },
@@ -305,10 +317,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ff4db0cceb150cb",
+  "active": "a2d2ee5601c885a0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
     "'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+    "Quando uma mulher engravida, ela revive as gestações do clã.md",
+    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Quais são as leis da evolução?.md",
@@ -337,7 +350,6 @@
     "2. Literature Notes/Topics/Não é possível você estar pleno na sua vida, se você não está pleno com a fonte da sua vida.md",
     "2. Literature Notes/Topics/Existem 3 leis sistêmicas.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
