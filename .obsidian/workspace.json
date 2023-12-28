@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e8f8fbb8b71266a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c33118eab567f9a",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
+                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
+                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md"
+                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md"
               }
             }
           },
@@ -280,10 +293,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4f23d524eba8cff",
+  "active": "e8f8fbb8b71266a4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
+    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
@@ -312,7 +326,6 @@
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/People/Melanie Klein.md",
-    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
