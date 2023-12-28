@@ -21,3 +21,4 @@ E quando ela se torna mãe, revive a memória das mães do clã. E isso é uma o
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis]]
