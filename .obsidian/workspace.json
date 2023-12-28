@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "092b30047ad4f7df",
+        "id": "49ed5b85d5278ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "4dda75165db040af",
+            "id": "4d1409c6a38ae27e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
-                "viewState": {
-                  "x": -464.464801043895,
-                  "y": 145.0044202948808,
-                  "zoom": -0.10668331128669709
-                }
-              }
-            }
-          },
-          {
-            "id": "91547b8be0d72473",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
-                "viewState": {
-                  "x": 311.032869866643,
-                  "y": 378.45320032195525,
-                  "zoom": -0.014263386076464525
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -225,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4dda75165db040af",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
@@ -233,11 +208,11 @@
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
-    "Não existe nada mais contagioso do que o medo.md",
-    "As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+    "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
+    "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
-    "Os genes não controlam a biologia.md",
-    "Captura de Tela 2023-12-27 às 14.11.06.png",
+    "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
+    "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
     "2. Literature Notes/Topics/O que é a coerência?.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
