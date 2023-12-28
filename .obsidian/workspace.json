@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "348cbdd49a04d26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md"
+                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md"
               }
             }
           },
@@ -220,8 +232,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "348cbdd49a04d26a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
@@ -231,7 +244,6 @@
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
     "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
-    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a coerência?.md",

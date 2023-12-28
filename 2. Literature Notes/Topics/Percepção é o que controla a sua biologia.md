@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:** Como você vê o mundo é o que controla a sua biologia. Ou seja, a percepção é o que causa o comportamento.
+	Cada um enxerga o mundo a partir da sua própria percepção.
 
 [[Acolhendo Sua Criança Interior]]: a percepção é a base de todas as outras funções mentais, tais como pensamento e emoção, e é também a base do comportamento. Tudo depende da nossa percepção, que podemos equiparar à [[Consciência]]. É por isso que não reconhecemos uma distorção perceptiva no momento em que ocorre. Na melhor das hipóteses, conseguimos refletir sobre ela depois.
 
