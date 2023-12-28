@@ -12,7 +12,7 @@ Segundo [[Josi Kromer]], a programação inconsciente do futuro indivíduo se d�
 - O sexo
 - A lateralidade de base
 
-Não chegamos a qualquer hora, em qual
+Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.
 
 ###### **COMO:**
 
