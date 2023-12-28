@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas"
+                "file": "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas"
               }
             }
           },
@@ -226,10 +225,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91547b8be0d72473",
+  "active": "4dda75165db040af",
   "lastOpenFiles": [
-    "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
+    "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
