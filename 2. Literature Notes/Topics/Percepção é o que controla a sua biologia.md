@@ -9,7 +9,13 @@
 
 [[Acolhendo Sua Criança Interior]]: a percepção é a base de todas as outras funções mentais, tais como pensamento e emoção, e é também a base do comportamento. Tudo depende da nossa percepção, que podemos equiparar à [[Consciência]]. É por isso que não reconhecemos uma distorção perceptiva no momento em que ocorre. Na melhor das hipóteses, conseguimos refletir sobre ela depois.
 
-**COMO:**
+**O QUE FAZ?:**
+A percepção:
+- controla o comportamento
+- controla os genes
+- reescreve os genes
+
+Ou seja, as [[crenças]] reescrevem os genes. Tudo em uma noção de sobrevivência. [[Tudo para o cérebro é uma noção de sobrevivência]]. Assim, não somos vítimas das situações, escolhemos e atraímos tudo o que estamos vivendo. [[Nada é aleatório]]. Atraímos tudo isso para fazer as nossas experiências de vida.
 
 **PENSADORES:**
 - [[Rafael Livramento]]: a percepção afirma o que você vai atrair para a sua vida em termos de conteúdo, conflito, etc.
