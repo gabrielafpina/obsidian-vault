@@ -31,3 +31,4 @@ Existem evidências científicas mostrando que hábitos da vida e o ambiente soc
 - [[O sofrimento que experimentamos não é causado diretamente pelo o que acontece nas nossas vidas, mas sim pela nossa interpretação sobre o que acontece]]
 - [[Os genes não controlam a biologia]]
 - [[O que é ressignificar?]]
+- [[Epigenética biológica - Como viemos ao mundo?]]
