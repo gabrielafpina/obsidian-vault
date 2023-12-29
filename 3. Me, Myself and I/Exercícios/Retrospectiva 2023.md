@@ -16,4 +16,12 @@ Esse também foi o ano em que eu participei de curas muito profundas. Investi pr
 
 Profissionalmente, foi o melhor ano da minha vida. Fiz alguns lançamentos: 2 lançamentos do MPA, faturando mais de 30k; fiz 1 lançamento da minha mentoria em grupo, faturando uns 12k; fiz 1 lançamento do workshop de autossabotagem, faturando uns 1k e também fizemos uma promoção de blackfriday, faturando mais 1k. O primeiro lançamento do MPA foi a coisa mais linda do mundo. Foram 7 dias de desafio com meus seguidores, centenas de vidas impactadas, muita satisfação para mim e muito retorno positivo de vidas sendo transformadas.
 
-Eu considero que esse foi o ano das polaridades. Porque da mesma forma em que eu vivi os melhores momentos, eu vivi os mais desafiadores. Parece que o universo estava me testando constantemente (e ainda está), para ver se eu aprendi mesmo tudo o que eu prego. Percebo que não aprendi várias lições, na verdade. Esse foi o ano em que eu tive o maior cancelamento até hoje. Fui chamada de nazista, meu nome apareceu em jornais online e perdi muitos seguidores (o menor dos problemas). Fiquei 2 semanas desaparecida das redes sociais e eu sinto que e
+Eu considero que esse foi o ano das polaridades. Porque da mesma forma em que eu vivi os melhores momentos, eu vivi os mais desafiadores. Parece que o universo estava me testando constantemente (e ainda está), para ver se eu aprendi mesmo tudo o que eu prego. Percebo que não aprendi várias lições, na verdade. Esse foi o ano em que eu tive o maior cancelamento até hoje. Fui chamada de nazista, meu nome apareceu em jornais online e perdi muitos seguidores (o menor dos problemas). Fiquei 2 semanas desaparecida das redes sociais e eu sinto que desde que eu voltei, tudo mudou. Eu não consegui mais crescer como eu estava crescendo antes. Isso muda em 2024.
+
+Além disso, esse foi o ano que eu consegui guardar mais dinheiro até hoje. Isso é algo muito bom, porque eu não sabia lidar com o dinheiro. Como eu não o valorizava, ele não me valorizava. Ainda tenho o que aprender, mas melhorei muito.
+
+Esse também foi um ano em que eu viajei muito pelo Brasil. Acho que fui umas 5-6x para São Paulo, fui 1x pra Chapada dos Veadeiros e 1x para o Mato Grosso do Sul. 2 viagens foram com a Vicky, que eu amo tanto.
+
+Também fui convidada para passar 1 semana com tudo pago em um hotel em São Paulo. É um hotel terapêutico, lindo, no meio da serra, com uma comida extraordinária. Levei a Vicky comigo.
+
+Fiz uma grande transformação no meu cabelo também. Fui convidada por um cabelereiro muito famoso para pintar meu cabelo de loiro. Não todo, claro. Fizemos algumas mexas e ele filmou o curso dele.
