@@ -1,5 +1,6 @@
 **Ano numerológico:** 7
 **Ano em uma palavra:** Mudanças
+**Característica fundamental:** Polaridades
 
 A minha virada do ano foi ao lado do Vini, meu ex-namorado. Acho que foi a última vez que ficamos juntos. Depois disso, voltei a trabalhar, como fazia, de forma workaholic. Comecei o ano com 10k seguidores no Instagram, 1,54k seguidores no Youtube e 305k seguidores no TikTok.
 
@@ -13,4 +14,6 @@ Esse ano fui convidada para muitas coisas legais. O Cadu Neiva me convidou para 
 
 Esse também foi o ano em que eu participei de curas muito profundas. Investi profundamente em mim. Fiz sessões de terapia com o Rafael Livramento, Alexandre Lourenção, Fátima, Francisco Samele, Anauê, Simone Pafetti. Também entrei na mentoria de consciência e carreira da Mell e do João. Esse foi o melhor investimento do meu ano. Além disso, também comecei a fazer uma mentoria para estruturar a minha comunidade, que foi canalizada em uma cerimônia de ayahuasca - participei de 5 esse ano.
 
-Profissionalmente, 
+Profissionalmente, foi o melhor ano da minha vida. Fiz alguns lançamentos: 2 lançamentos do MPA, faturando mais de 30k; fiz 1 lançamento da minha mentoria em grupo, faturando uns 12k; fiz 1 lançamento do workshop de autossabotagem, faturando uns 1k e também fizemos uma promoção de blackfriday, faturando mais 1k. O primeiro lançamento do MPA foi a coisa mais linda do mundo. Foram 7 dias de desafio com meus seguidores, centenas de vidas impactadas, muita satisfação para mim e muito retorno positivo de vidas sendo transformadas.
+
+Eu considero que esse foi o ano das polaridades. Porque da mesma forma em que eu vivi os melhores momentos, eu vivi os mais desafiadores. Parece que o universo estava me testando constantemente (e ainda está), para ver se eu aprendi mesmo tudo o que eu prego. Percebo que não aprendi várias lições, na verdade. Esse foi o ano em que eu tive o maior cancelamento até hoje. Fui chamada de nazista, meu nome apareceu em jornais online e perdi muitos seguidores (o menor dos problemas). Fiquei 2 semanas desaparecida das redes sociais e eu sinto que e
