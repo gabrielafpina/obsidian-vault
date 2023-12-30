@@ -34,4 +34,4 @@ Após terminar com o Pedro, eu fiquei com o Nélio, ex-namorado do Luana. Ele es
 
 Em uma festa, 1 semana depois de ficarmos, eu consagrei psilo e recebi uma criança, me falando que eu ficaria grávida e seria mãe. Isso foi no dia 30 de Setembro. No dia 10/10, eu engravidei do Nélio. A partir de então, minha vida se tornou uma novela mexicana.
 
-Lancei novamente o MPA. Fui em um evento de marketing em SP, o SDA, fui convidada para guiar uma meditação na mentoria da minha amiga, Milena Rosa, participi
+Lancei novamente o MPA. Fui em um evento de marketing em SP, o SDA, fui convidada para guiar uma meditação na mentoria da minha amiga, Milena Rosa, participei do encontro de mentorados da mell na Divina Ordem, que foi muito sagrado, fui em um evento em SP da Kathy Bartz. Um dia depois desse último evento, descobri que estava grávida. Quem estava do meu lado, era a Luana, ex do Nélio, na nossa casa em São Paulo, enquanto ele estava indo para Macaé. Foram dias muito desafiadores. Passei por momentos de muita raiva, tristeza, mais raiva, frustração, arrependimento. Eu jamais imaginei que engravidaria nessas condições. 
