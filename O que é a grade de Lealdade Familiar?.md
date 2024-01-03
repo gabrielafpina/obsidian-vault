@@ -9,7 +9,7 @@ A grade foi desenvolvida com o objetivo de ser uma ferramenta de acesso às info
 O número de concepção terá uma função muito importante em relação a energia masculina ou feminina que ele ira influenciar.
 
 A injunção do clã se manifestará em função do lugar sobre o qual a criança virá se fixar como um imã sobre uma placa magnética.
-	Não sou eu que escolho se eu vou ser o primeiro, quarto ou quinto, é o meu sistema que escolhe, de acordo com o que ele precisa.
+	Não sou eu que escolho se eu vou ser o primeiro, quarto ou quinto, é o meu sistema que escolhe, de acordo com o que ele precisa. Essa injunção corresponde a uma necessidade do clã inconscientemente formulada pelos futuros pais. [[A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição]]
 
 ![[Captura de Tela 2024-01-03 às 13.58.26.png]]
 
