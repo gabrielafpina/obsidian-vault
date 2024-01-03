@@ -102,93 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4f23d524eba8cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8f8fbb8b71266a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff4db0cceb150cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d2ee5601c885a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324b34e857ebf05a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d606d080c52caf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bad8f30317462a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -298,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a grade de Lealdade Familiar?.md",
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a grade de Lealdade Familiar?.md",
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a grade de Lealdade Familiar?.md"
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md"
               }
             }
           },
@@ -377,13 +293,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fcda1b5a2ea9abb",
+  "active": "2b28eef0c3480ffd",
   "lastOpenFiles": [
-    "Captura de Tela 2024-01-03 às 13.58.26.png",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "O que é a grade de Lealdade Familiar?.md",
-    "O que é a impressão genômica?.md",
     "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+    "O que é a impressão genômica?.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "Captura de Tela 2024-01-03 às 13.58.26.png",
     "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
@@ -430,7 +346,6 @@
     "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
     "5. Shots, Images & PDFs/IMG_0208.jpg",
-    "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
