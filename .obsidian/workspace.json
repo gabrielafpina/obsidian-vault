@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "cc09438697378df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a impressão genômica?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ccb844b068bfc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "65f4f5b0ca2daf5f",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+                "file": "O que é a impressão genômica?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+                "file": "O que é a impressão genômica?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md"
+                "file": "O que é a impressão genômica?.md"
               }
             }
           },
@@ -329,12 +353,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b5770246b0c4367",
+  "active": "cc09438697378df9",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "O que é a impressão genômica?.md",
+    "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
@@ -362,7 +388,6 @@
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
     "2. Literature Notes/Topics/O que é o reposicionamento?.md",
     "2. Literature Notes/Topics/'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
-    "2. Literature Notes/Topics/Lei da Vibração.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
