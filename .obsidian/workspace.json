@@ -20,21 +20,6 @@
             }
           },
           {
-            "id": "4306a8e13643c464",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
-                "viewState": {
-                  "x": 1629.6196823777009,
-                  "y": -1412.1604082251238,
-                  "zoom": -2.111894256035117
-                }
-              }
-            }
-          },
-          {
             "id": "65f4f5b0ca2daf5f",
             "type": "leaf",
             "state": {
@@ -154,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas"
+                "file": "2. Literature Notes/Topics/O que é a epigenética?.md"
               }
             }
           },
@@ -344,8 +328,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4306a8e13643c464",
+  "active": "4d1409c6a38ae27e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
+    "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Exercícios/Retrospectiva 2023.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
@@ -359,7 +345,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
@@ -396,7 +381,6 @@
     "5. Shots, Images & PDFs/9586EE34-FEDA-402F-9D42-CFB9723078A1.jpg",
     "5. Shots, Images & PDFs/IMG_0208.jpg",
     "5. Shots, Images & PDFs/5D7DAF41-6647-47FD-A7E0-4AC0DE89C75E.jpg",
-    "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
