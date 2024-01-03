@@ -27,6 +27,8 @@ E se você tem irmãos abortados que vieram antes de você, significa que você 
 Quando eu compreendo isso, consigo estar muito mais em coerência com a função que eu venho desempenhar.
 	Assim, consigo ficar mais em paz com as dificuldades que nossos pais tiveram, porque foi a partir da dificuldade que eles tiveram, que podemos realizar a nossa função.
 
+[[Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
