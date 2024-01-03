@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4d4f5625b1b02d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92be3333320bea39",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
+                "file": "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
+                "file": "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md"
+                "file": "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md"
               }
             }
           },
@@ -304,14 +316,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1c237c79d65ea19",
+  "active": "4d4f5625b1b02d1d",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
+    "Como funciona a 'escolha' do sexo da criança?.md",
+    "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
     "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Como funciona a lateralidade?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-    "Como funciona a 'escolha' do sexo da criança?.md",
     "Dependendo do signo que você nasce, isso significa alguma coisa.md",
-    "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
     "O que é a grade de Lealdade Familiar?.md",
     "Qual é a diferença do gemelar para o trigemelar?.md",
     "Qual é memória principal de uma concepção gemelar?.md",
@@ -338,7 +351,6 @@
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
-    "2. Literature Notes/Topics/Criação de Vision Board.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",

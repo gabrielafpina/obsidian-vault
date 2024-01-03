@@ -11,6 +11,8 @@ Na natureza, a sobrevivência do indivíduo é primordial para que possa fazer a
 
 Porque um pai ou mãe prefere uma menina ou menino? É importante olhar para a memória que essa pessoa traz do feminino ou masculino.
 
+Se um pai ou mãe quer um menino, por exemplo, é importante compreender o que está por trás dessa vontade. Porque o que está por trás da vontade é sempre um medo ou perigo. Ex: se a pessoa tem uma história muito difícil com o masculino, ela vai querer que o filho seja mulher. Ou se a história da mulher pe muito difícil, ela pode desejar ter um homem, porque se for uma menina, vai passar pelo o que as mulheres passaram.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
