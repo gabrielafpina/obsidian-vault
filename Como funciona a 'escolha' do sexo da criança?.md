@@ -9,7 +9,7 @@ O sexo é determinado logo na fecundação. É determinado pela necessidade de t
 
 Na natureza, a sobrevivência do indivíduo é primordial para que possa fazer as experiências necessárias à sobrevivência do clã. Ex: as vezes, tem histórias de gestações difíceis, de mulheres que morreram no parto e na outra geração só nasce homem, porque o homem não engravida.
 
-Porque um pai ou mãe prefere uma menina ou menino? É importante olhar para a memória que essa pessoa traz do
+Porque um pai ou mãe prefere uma menina ou menino? É importante olhar para a memória que essa pessoa traz do feminino ou masculino.
 
 ###### **COMO:**
 

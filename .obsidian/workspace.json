@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "92be3333320bea39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a lateralidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef0446e89b73ddf8",
             "type": "leaf",
             "state": {
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a 'escolha' do sexo da criança?.md",
+                "file": "Como funciona a lateralidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a 'escolha' do sexo da criança?.md",
+                "file": "Como funciona a lateralidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a 'escolha' do sexo da criança?.md"
+                "file": "Como funciona a lateralidade?.md"
               }
             }
           },
@@ -353,9 +365,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef0446e89b73ddf8",
+  "active": "92be3333320bea39",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "Como funciona a lateralidade?.md",
     "Como funciona a 'escolha' do sexo da criança?.md",
     "Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
@@ -387,7 +400,6 @@
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
-    "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
