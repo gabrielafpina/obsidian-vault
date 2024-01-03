@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ef0446e89b73ddf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a 'escolha' do sexo da criança?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a1c237c79d65ea19",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "Como funciona a 'escolha' do sexo da criança?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "Como funciona a 'escolha' do sexo da criança?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md"
+                "file": "Como funciona a 'escolha' do sexo da criança?.md"
               }
             }
           },
@@ -341,16 +353,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b28eef0c3480ffd",
+  "active": "ef0446e89b73ddf8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "Como funciona a 'escolha' do sexo da criança?.md",
+    "Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
     "O que é a grade de Lealdade Familiar?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Qual é a diferença do gemelar para o trigemelar?.md",
     "Qual é memória principal de uma concepção gemelar?.md",
     "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "O que é a impressão genômica?.md",
-    "Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "Captura de Tela 2024-01-03 às 13.58.26.png",
     "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
@@ -375,7 +388,6 @@
     "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "2. Literature Notes/Topics/Criação de Vision Board.md",
     "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
-    "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",

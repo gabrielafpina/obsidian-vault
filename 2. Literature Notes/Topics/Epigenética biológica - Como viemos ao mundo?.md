@@ -9,7 +9,7 @@ Segundo [[Josi Kromer]], a programação inconsciente do futuro indivíduo se d�
 	- Porque nasci no dia em que nasci? Qual é a função que tenho a partir disso?
 - O lugar de concepção
 	- Se nasço primeiro filho, tenho uma função, se nasço segundo filho, tenho outra função... [[Nada é aleatório]]
-- O sexo
+- O sexo - [[Como funciona a 'escolha' do sexo da criança?]]
 - A lateralidade de base
 
 [[Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família]]. 
