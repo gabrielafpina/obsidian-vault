@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c93e3acb82c0e84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef0446e89b73ddf8",
             "type": "leaf",
             "state": {
@@ -92,30 +104,6 @@
             }
           },
           {
-            "id": "ee3c72970bebb2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é memória principal de uma concepção gemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31883ebdebf9753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qual é a diferença do gemelar para o trigemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc09438697378df9",
             "type": "leaf",
             "state": {
@@ -126,57 +114,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b28eef0c3480ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ccb844b068bfc17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65f4f5b0ca2daf5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é ressignificar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348cbdd49a04d26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "aborto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a lateralidade?.md",
+                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a lateralidade?.md",
+                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a lateralidade?.md"
+                "file": "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md"
               }
             }
           },
@@ -365,17 +304,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92be3333320bea39",
+  "active": "a1c237c79d65ea19",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Como funciona a lateralidade?.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Como funciona a 'escolha' do sexo da criança?.md",
     "Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
     "O que é a grade de Lealdade Familiar?.md",
     "Qual é a diferença do gemelar para o trigemelar?.md",
     "Qual é memória principal de uma concepção gemelar?.md",
-    "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "O que é a impressão genômica?.md",
     "Captura de Tela 2024-01-03 às 13.58.26.png",
     "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
