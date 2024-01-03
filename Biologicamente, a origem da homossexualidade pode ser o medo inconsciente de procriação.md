@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Biologicamente, casais homossexuais não se reproduzem. am
+Biologicamente, casais homossexuais não se reproduzem. Mas essa não é a única questão que faz uma pessoa se tornar homossexual.
 
 ###### **COMO:**
 
