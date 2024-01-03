@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
+                "file": "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md",
+                "file": "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a epigenética?.md"
+                "file": "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md"
               }
             }
           },
@@ -328,19 +329,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d1409c6a38ae27e",
+  "active": "a2d2ee5601c885a0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
+    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
+    "2. Literature Notes/Topics/O que é a epigenética?.md",
     "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Exercícios/Retrospectiva 2023.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/People/Josi Kromer.md",
-    "2. Literature Notes/Topics/O que é a epigenética?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
-    "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
-    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
