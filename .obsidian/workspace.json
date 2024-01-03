@@ -116,18 +116,6 @@
             }
           },
           {
-            "id": "1c33118eab567f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d606d080c52caf5d",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md"
+                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md"
               }
             }
           },
@@ -341,10 +329,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "324b34e857ebf05a",
+  "active": "9b5770246b0c4367",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
+    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
     "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
@@ -354,10 +345,7 @@
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Exercícios/Retrospectiva 2023.md",
     "2. Literature Notes/People/Josi Kromer.md",
-    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
