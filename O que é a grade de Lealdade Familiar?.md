@@ -9,7 +9,7 @@ A grade foi desenvolvida com o objetivo de ser uma ferramenta de acesso às info
 O número de concepção terá uma função muito importante em relação a energia masculina ou feminina que ele ira influenciar.
 
 A injunção do clã se manifestará em função do lugar sobre o qual a criança virá se fixar como um imã sobre uma placa magnética.
-	Não sou eu que esco
+	Não sou eu que escolho se eu vou ser o primeiro, quarto ou quinto, é o meu sistema que escolhe, de acordo com o que ele precisa.
 
 ![[Captura de Tela 2024-01-03 às 13.58.26.png]]
 
@@ -51,3 +51,64 @@ Quando eu compreendo isso, consigo estar muito mais em coerência com a função
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: There is another generation process
+>   
+>   - plugin:obsidian-textgenerator-plugin:56960 TextGenerator.eval
+>     plugin:obsidian-textgenerator-plugin:56960:31
+>   
+>   - Generator.next
+>   
+>   - plugin:obsidian-textgenerator-plugin:78 eval
+>     plugin:obsidian-textgenerator-plugin:78:61
+>   
+>   - new Promise
+>   
+>   - plugin:obsidian-textgenerator-plugin:62 __async
+>     plugin:obsidian-textgenerator-plugin:62:10
+>   
+>   - plugin:obsidian-textgenerator-plugin:56946 TextGenerator.generate
+>     plugin:obsidian-textgenerator-plugin:56946:12
+>   
+>   - plugin:obsidian-textgenerator-plugin:58451 AutoSuggest.eval
+>     plugin:obsidian-textgenerator-plugin:58451:52
+>   
+>   - Generator.next
+>   
+>   - plugin:obsidian-textgenerator-plugin:78 eval
+>     plugin:obsidian-textgenerator-plugin:78:61
+>   
+>   - new Promise
+>   
+>  
+
+> [!failure]- Failure 
+>   Error: There is another generation process
+>   
+>   - plugin:obsidian-textgenerator-plugin:56960 TextGenerator.eval
+>     plugin:obsidian-textgenerator-plugin:56960:31
+>   
+>   - Generator.next
+>   
+>   - plugin:obsidian-textgenerator-plugin:78 eval
+>     plugin:obsidian-textgenerator-plugin:78:61
+>   
+>   - new Promise
+>   
+>   - plugin:obsidian-textgenerator-plugin:62 __async
+>     plugin:obsidian-textgenerator-plugin:62:10
+>   
+>   - plugin:obsidian-textgenerator-plugin:56946 TextGenerator.generate
+>     plugin:obsidian-textgenerator-plugin:56946:12
+>   
+>   - plugin:obsidian-textgenerator-plugin:58451 AutoSuggest.eval
+>     plugin:obsidian-textgenerator-plugin:58451:52
+>   
+>   - Generator.next
+>   
+>   - plugin:obsidian-textgenerator-plugin:78 eval
+>     plugin:obsidian-textgenerator-plugin:78:61
+>   
+>   - new Promise
+>   
+>  
