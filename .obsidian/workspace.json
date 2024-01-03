@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7fcda1b5a2ea9abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a grade de Lealdade Familiar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cc09438697378df9",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "O que é a grade de Lealdade Familiar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "O que é a grade de Lealdade Familiar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md"
+                "file": "O que é a grade de Lealdade Familiar?.md"
               }
             }
           },
@@ -365,11 +377,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b28eef0c3480ffd",
+  "active": "7fcda1b5a2ea9abb",
   "lastOpenFiles": [
+    "Captura de Tela 2024-01-03 às 13.58.26.png",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "O que é a grade de Lealdade Familiar?.md",
     "O que é a impressão genômica?.md",
     "Dependendo do signo que você nasce, isso significa alguma coisa.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
@@ -398,8 +412,6 @@
     "2. Literature Notes/Topics/O que é a coerência?.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
-    "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
-    "2. Literature Notes/Topics/O que é o reposicionamento?.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

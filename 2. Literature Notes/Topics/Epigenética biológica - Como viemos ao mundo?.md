@@ -29,3 +29,4 @@ Segundo [[Josi Kromer]], a programação inconsciente do futuro indivíduo se d�
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é a grade de Lealdade Familiar?]]

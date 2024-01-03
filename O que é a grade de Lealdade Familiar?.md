@@ -1,0 +1,37 @@
+**TAGS:**
+
+**FONTE:** [[Josi Kromer]] [[Rafael Livramento]]
+###### **BIG IDEA:** 
+
+###### **DEFINIÇÃO:**
+![[Captura de Tela 2024-01-03 às 13.58.26.png]]
+
+Além disso, cada número da grade representa um dos signos astrológicos.
+- 1: áries
+- 2: Touro
+- 3: gêmeos
+- 4: Câncer
+- 5: Leão
+- 6: virgem
+- 7: libra
+- 8: escorpião
+- 9: sagitário
+- 10: capricórnio
+- 11: aquário
+- 12: peix
+
+###### **COMO:**
+
+###### **PENSADORES:**
+
+###### **FRASES:**
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+
+**Sul: para onde vai**

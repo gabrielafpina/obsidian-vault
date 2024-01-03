@@ -12,6 +12,8 @@ Os pais são engenheiros genéticos dos filhos.
 
 [[Dependendo do signo que você nasce, isso significa alguma coisa]]. 
 
+Os pais inconscientemente precisam que os filhos venham em determinado momento para cumprir uma determinada função. As vezes, uma pessoa precisa nascer no período mais difícil da vida dos pais. E isso se reflete na função biológica que a criança vai desempenhar.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
