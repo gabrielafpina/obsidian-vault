@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2b28eef0c3480ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6ccb844b068bfc17",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a impressão genômica?.md",
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a impressão genômica?.md",
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a impressão genômica?.md"
+                "file": "Dependendo do signo que você nasce, isso significa alguma coisa.md"
               }
             }
           },
@@ -353,10 +365,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc09438697378df9",
+  "active": "2b28eef0c3480ffd",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "O que é a impressão genômica?.md",
+    "Dependendo do signo que você nasce, isso significa alguma coisa.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
@@ -387,7 +400,6 @@
     "2. Literature Notes/Topics/Sem soluções concretas, não tem melhora concreta.md",
     "2. Literature Notes/Topics/O paciente verbaliza o conflito dele.md",
     "2. Literature Notes/Topics/O que é o reposicionamento?.md",
-    "2. Literature Notes/Topics/'No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus'.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
