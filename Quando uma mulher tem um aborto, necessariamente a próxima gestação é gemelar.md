@@ -10,6 +10,8 @@ E existem características do comportamento de uma pessoa que vem de uma concep�
 
 [[Qual é a diferença do gemelar para o trigemelar?]]
 
+[[Qual é memória principal de uma concepção gemelar?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

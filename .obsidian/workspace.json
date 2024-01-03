@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ee3c72970bebb2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é memória principal de uma concepção gemelar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f31883ebdebf9753",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qual é a diferença do gemelar para o trigemelar?.md",
+                "file": "O que é a grade de Lealdade Familiar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qual é a diferença do gemelar para o trigemelar?.md",
+                "file": "O que é a grade de Lealdade Familiar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qual é a diferença do gemelar para o trigemelar?.md"
+                "file": "O que é a grade de Lealdade Familiar?.md"
               }
             }
           },
@@ -317,8 +329,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f31883ebdebf9753",
+  "active": "7fcda1b5a2ea9abb",
   "lastOpenFiles": [
+    "Qual é memória principal de uma concepção gemelar?.md",
     "Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Qual é a diferença do gemelar para o trigemelar?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
@@ -352,7 +365,6 @@
     "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "2. Literature Notes/Topics/O que é a coerência?.md",
-    "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",

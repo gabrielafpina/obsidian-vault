@@ -4,6 +4,13 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+A grade foi desenvolvida com o objetivo de ser uma ferramenta de acesso às informações transgeracionais. Ela analisa o indivíduo de acordo com a sua posição de nascimento.
+
+O número de concepção terá uma função muito importante em relação a energia masculina ou feminina que ele ira influenciar.
+
+A injunção do clã se manifestará em função do lugar sobre o qual a criança virá se fixar como um imã sobre uma placa magnética.
+	Não sou eu que esco
+
 ![[Captura de Tela 2024-01-03 às 13.58.26.png]]
 
 Além disso, cada número da grade representa um dos signos astrológicos.
