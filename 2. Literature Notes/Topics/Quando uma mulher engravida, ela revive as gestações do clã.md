@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 E quando ela se torna mãe, revive a memória das mães do clã. E isso é uma oportunidade de ressignificação.
 
+Assim, como foi a gestação da mãe? Da avó?xxxdz
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
