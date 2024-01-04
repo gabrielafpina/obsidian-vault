@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "680ff02be7d443d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92be3333320bea39",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimax",
+                "query": "espelho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Minimax.md",
+                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Minimax.md",
+                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Minimax.md"
+                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md"
               }
             }
           },
@@ -316,8 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d4f5625b1b02d1d",
+  "active": "680ff02be7d443d7",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
+    "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+    "2. Literature Notes/Topics/Minimax.md",
     "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Como funciona a 'escolha' do sexo da criança?.md",
@@ -344,13 +359,10 @@
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Exercícios/Retrospectiva 2023.md",
     "2. Literature Notes/People/Josi Kromer.md",
-    "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
-    "2. Literature Notes/Topics/Como descobrir a minha zona de genialidade?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
