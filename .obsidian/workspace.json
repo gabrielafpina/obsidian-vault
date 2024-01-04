@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "695f5e64b473d2c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são os 6 pilares da CIV?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc9f37d51f2d67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qual é a vantagem da criança estar chorando?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9d6458383e8dd81",
             "type": "leaf",
             "state": {
@@ -250,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um berçário?.md",
+                "file": "Quais são os 6 pilares da CIV?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um berçário?.md",
+                "file": "Quais são os 6 pilares da CIV?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um berçário?.md"
+                "file": "Quais são os 6 pilares da CIV?.md"
               }
             }
           },
@@ -329,13 +353,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9d6458383e8dd81",
+  "active": "695f5e64b473d2c8",
   "lastOpenFiles": [
     "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+    "Quais são os 6 pilares da CIV?.md",
+    "Qual é a vantagem da criança estar chorando?.md",
     "O que é um berçário?.md",
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Quais são alguns motivos pelos quais uma mulher sai do feminino?.md",
-    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
@@ -356,8 +382,6 @@
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "2. Literature Notes/Topics/Quais são as leis da evolução?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
-    "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
-    "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",

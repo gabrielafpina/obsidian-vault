@@ -24,3 +24,5 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Qual é a vantagem da criança estar chorando?]]
+- [[Quais são os 6 pilares da CIV?]]
