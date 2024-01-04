@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "espelho",
+                "query": "incongruência",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md"
+                "file": "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md"
               }
             }
           },
@@ -328,10 +328,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "680ff02be7d443d7",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/O que te incomoda é o que falta em você, ou é um espelho.md",
+    "2. Literature Notes/Topics/Toda pessoa que para na sua frente é seu espelho.md",
     "2. Literature Notes/Topics/Minimax.md",
     "Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
