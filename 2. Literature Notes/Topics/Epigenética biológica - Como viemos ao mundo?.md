@@ -32,4 +32,4 @@ Segundo [[Josi Kromer]], a programação inconsciente do futuro indivíduo se d�
 - [[O que é a grade de Lealdade Familiar?]]
 - [[A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição]]
 - [[Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação]]
-- [[Quais são ]]
+- [[Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?]]

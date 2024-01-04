@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "bb14a1a7ef761a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9d6458383e8dd81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é um berçário?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "92be3333320bea39",
             "type": "leaf",
             "state": {
@@ -115,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+                "file": "O que é um berçário?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+                "file": "O que é um berçário?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md"
+                "file": "O que é um berçário?.md"
               }
             }
           },
@@ -304,11 +329,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b5770246b0c4367",
+  "active": "e9d6458383e8dd81",
   "lastOpenFiles": [
+    "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+    "O que é um berçário?.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Quais são alguns motivos pelos quais uma mulher sai do feminino?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
     "2. Literature Notes/Topics/O que é a epigenética?.md",
@@ -331,8 +358,6 @@
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
     "2. Literature Notes/Topics/'A criança não adoece. Ela se sacrifica para trabalhar a inconsciência dos pais e da ancestralidade'.md",
-    "2. Literature Notes/Topics/'Os pais devem estar sempre cientes, de fato, de que eles são a principal causa da neurose dos filhos'.md",
-    "2. Literature Notes/Topics/Os genes não controlam a biologia.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
