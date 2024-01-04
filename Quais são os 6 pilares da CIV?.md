@@ -17,7 +17,7 @@
 		1. Terapia de preparação de casais - técnicas - renascimento, 5 Leis Biológicas, Microfisoterapia, constelação familiar, desprogramação DNA, terapia crânio-sacro, theta healing, etc...
 		2. Escrever cartas - desprogramação do DNA
 			1. Essa é uma forma de ressignificar memórias. [[O que é ressignificar?]]
-		3. Conversar com filho na fase REM (pode ser dormindo ou acordado) - explicar fatos da gestação, parto, problemas entre os pais. O importante é trazer a responsabilidade para o adulto.
+		3. Conversar com filho na fase REM (pode ser dormindo ou acordado) - explicar fatos da gestação, parto, problemas entre os pais. O importante é trazer a responsabilidade para o adulto. [[A criança só conhece a verdade]]
 		4. Fazer Cartas Convite - quando a pessoas consegue lidar mais com suas próprias questões, está feliz consigo mesma, pode fazer uma carta convite para o filho que deseja ter.
 
 2. Concepção consciente
