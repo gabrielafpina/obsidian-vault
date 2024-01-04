@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A criança só conhece a verdade.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incongruência",
+                "query": "sobrevivência",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,8 +234,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A criança só conhece a verdade.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A criança só conhece a verdade.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A criança só conhece a verdade.md"
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
               }
             }
           },
@@ -379,8 +378,8 @@
   },
   "active": "654b15946dd12b85",
   "lastOpenFiles": [
-    "Quais são os 6 pilares da CIV?.md",
     "A criança só conhece a verdade.md",
+    "Quais são os 6 pilares da CIV?.md",
     "O cérebro só reconhece aquilo que ele já conhece.md",
     "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "Qual é a vantagem da criança estar chorando?.md",
