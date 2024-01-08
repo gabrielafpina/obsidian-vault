@@ -207,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sobrevivência",
+                "query": "erros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -376,7 +376,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "654b15946dd12b85",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "A criança só conhece a verdade.md",
     "Quais são os 6 pilares da CIV?.md",
