@@ -56,6 +56,14 @@
             }
           },
           {
+            "id": "20fda7eac40e35a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "ee36c55f1fb51fa1",
             "type": "leaf",
             "state": {
@@ -188,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,7 +242,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -297,7 +306,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +322,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,9 +343,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
-              }
+              "state": {}
             }
           },
           {
@@ -376,8 +381,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "20fda7eac40e35a4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "A criança só conhece a verdade.md",
     "Quais são os 6 pilares da CIV?.md",
     "O cérebro só reconhece aquilo que ele já conhece.md",
@@ -404,7 +410,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
