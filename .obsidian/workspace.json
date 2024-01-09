@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são os 6 pilares da CIV?.md",
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,14 +53,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "20fda7eac40e35a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -196,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -306,6 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,6 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +337,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md"
+              }
             }
           },
           {
@@ -358,8 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,17 +376,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20fda7eac40e35a4",
+  "active": "695f5e64b473d2c8",
   "lastOpenFiles": [
+    "2. Literature Notes/Readwise/Books/As 5 Feridas Emocionais.md",
+    "Quais são os 6 pilares da CIV?.md",
+    "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "A criança só conhece a verdade.md",
-    "Quais são os 6 pilares da CIV?.md",
     "O cérebro só reconhece aquilo que ele já conhece.md",
-    "Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "Qual é a vantagem da criança estar chorando?.md",
     "O que é um berçário?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "Quais são alguns motivos pelos quais uma mulher sai do feminino?.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/Como usar a congruência a seu favor?.md",
@@ -409,7 +405,6 @@
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
