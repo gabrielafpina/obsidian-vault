@@ -4,46 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "99fb4101a8a3339f",
+        "id": "c53b1075b970c9c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a70d9954bd8594",
+            "id": "fb725b6161f68496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Creator/Reels/Antecipação 2 volta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "335a291c8cc6a2ed",
+            "id": "eef5396d9075707c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Creator/Reels/Antecipação 1 Volta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63aa3e17ff61d2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Creator/Reels/Antecipação 2 volta.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Creator/Reels/Antecipação 2 volta.md",
+                "file": "2. Literature Notes/Topics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Creator/Reels/Antecipação 2 volta.md"
+                "file": "2. Literature Notes/Topics/Untitled.md"
               }
             }
           },
@@ -232,12 +217,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0a70d9954bd8594",
+  "active": "eef5396d9075707c",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Untitled.md",
+    "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "6. Creator/Reels/Antecipação 1 Volta.md",
     "6. Creator/Reels/Antecipação 2 volta.md",
     "6. Creator/Reels/A vida é como um rio.md",
-    "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Readwise/Books/As 5 Feridas Emocionais.md",
@@ -259,7 +245,6 @@
     "2. Literature Notes/Topics/Biologicamente, a origem da homossexualidade pode ser o medo inconsciente de procriação.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
     "2. Literature Notes/Topics/A Natureza, segundo Henri Laborit, só conhece dois modos de funcionamento, a recompensa e a punição.md",
-    "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
