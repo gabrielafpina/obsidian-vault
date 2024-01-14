@@ -26,4 +26,4 @@ Isso é a informação coerente. [[O que é a coerência?]]
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[se ]]
+- [[Se um paciente vem com queixa de diarréia, como lidar?]]
