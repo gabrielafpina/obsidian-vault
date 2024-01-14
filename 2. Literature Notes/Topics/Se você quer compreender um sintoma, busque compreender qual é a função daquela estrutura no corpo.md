@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 O sintoma é um alerta do que a gente precisa mudar e ressignificar.
 
+Cada sintoma é uma peça do quebra cabeça que mostra o que a pessoa tem. O sintoma é a ponta do iceberg. Cada sintoma é uma percepção específica. [[Percepção é o que controla a sua biologia]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
