@@ -9,6 +9,8 @@ A partir do aprendizado que você tem, você gera novos posicionamentos, para qu
 
 O posicionamento é como você deseja que a sua identidade e sua vida seja. Quando você se posiciona, cria um limite saudável para que as relações aconteçam. Sem reposicionamento a vida não acontece.
 
+Isso é a informação coerente. [[O que é a coerência?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
