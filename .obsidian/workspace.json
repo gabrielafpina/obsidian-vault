@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se um paciente vem com queixa de diarréia, como lidar?.md",
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se um paciente vem com queixa de diarréia, como lidar?.md",
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se um paciente vem com queixa de diarréia, como lidar?.md"
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md"
               }
             }
           },
@@ -253,10 +253,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d64d746b9f6ffcd9",
+  "active": "92dbb059ad68b3a1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "Se um paciente vem com queixa de diarréia, como lidar?.md",
+    "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/O que é a dor na nuca?.md",
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",

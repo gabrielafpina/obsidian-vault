@@ -27,3 +27,4 @@ Cada sintoma é uma peça do quebra cabeça que mostra o que a pessoa tem. O sin
 **Sul: para onde vai**
 - [[Por trás de cada aborto provocado, existe um medo muito grande em ser mãe]]
 -  [[A cura exige uma nova postura]]
+- [[Toda cocei]]
