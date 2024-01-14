@@ -4,6 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+O sintoma é um alerta do que a gente precisa mudar e ressignificar.
 
 ###### **COMO:**
 
