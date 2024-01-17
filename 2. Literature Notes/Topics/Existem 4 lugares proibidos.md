@@ -45,3 +45,4 @@ Os lugares proibidos são:
 - [[É inteligente dar somente para quem pede]]
 - [[Ninguém tem que porra nenhuma]]
 - [[Você está pensando ou você está sendo pensado?]]
+- [[Cada ser humano é um botão de rosas na presença de Deus]]
