@@ -59,3 +59,4 @@ Tudo que está acontecendo no aqui e agora tem o objetivo de te ensinar a aprend
 **Sul: para onde vai**
 - [[O tempo é uma ilusão]]
 - [[Se esforçar é um auto-suicídio]]
+- [[Qual é a diferença da energia do esforço para a energia da dedicação?]]
