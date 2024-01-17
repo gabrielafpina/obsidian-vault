@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,12 +152,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "4cccf65c8eb2bced",
+            "id": "ccc98b71dec5dcbe",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -164,7 +167,7 @@
             }
           },
           {
-            "id": "51b7d9d2dc7d85d0",
+            "id": "429977e7c9ab2ce2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -185,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "file": "2. Literature Notes/Topics/A cura exige uma nova postura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
+                "file": "2. Literature Notes/Topics/A cura exige uma nova postura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md"
+                "file": "2. Literature Notes/Topics/A cura exige uma nova postura.md"
               }
             }
           },
@@ -264,15 +267,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92dbb059ad68b3a1",
+  "active": "125b8eaf8bcb061e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "2. Literature Notes/Topics/Relações saudáveis exigem vínculos fortes e limites claros.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "Toda coceira vem como reparo de um conflito de separação.md",
     "Se um paciente vem com queixa de diarréia, como lidar?.md",
     "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "2. Literature Notes/Topics/O que é a dor na nuca?.md",
-    "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "6. Creator/Reels/Antecipação 1 Volta.md",
     "6. Creator/Reels/Antecipação 2 volta.md",
     "6. Creator/Reels/A vida é como um rio.md",
