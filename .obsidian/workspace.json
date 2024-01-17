@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cada ser humano é um botão de rosas na presença de Deus.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cada ser humano é um botão de rosas na presença de Deus.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cada ser humano é um botão de rosas na presença de Deus.md"
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
               }
             }
           },
@@ -278,10 +278,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd48046d3fc370ae",
+  "active": "125b8eaf8bcb061e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "Cada ser humano é um botão de rosas na presença de Deus.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
     "2. Literature Notes/Topics/Relações saudáveis exigem vínculos fortes e limites claros.md",

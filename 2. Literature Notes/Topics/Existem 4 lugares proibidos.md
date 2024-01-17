@@ -20,6 +20,7 @@ Os lugares proibidos são:
 	2. Ninguém consegue competir comigo, porque eu não estou competindo com ninguém. A vida inteira é um sistema de auto contribuição. A vida não é uma competição. Ninguém compete comigo se eu não quero competir. [[O ser humano é uma comunidade, não uma pessoa única]]
 	3. A falsa ilusão de separação cria a ilusão da competição.
 	4. O pior do papel da vítima é acreditar nesse papel, acreditar que a vida tá ruim e colocar a culpa em outra pessoa.
+	5. O problema de alguns seres humanos não é o vitimismo, é ser viciado no vitimismo.
 4. **Adulto infantilóide**
 	1. Quando você acha que alguém vai fazer por você aquilo que é seu. É achar que o outro tem a obrigação de fazer a sua parte.
 	2. Quando o adulto não faz o processo de cura da sua criança ferida, ele se mantém um adulto infantilóide e se permite ser manipulado pelas suas companhias. Essa pessoa vai sendo sugestionada pelo outro e na hora de assumir sua responsabilidade, ela fala que só obedece ordens.
