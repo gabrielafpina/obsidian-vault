@@ -1,9 +1,14 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Rafael Livramento]] [[Eleanor Luzes]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+O útero é a primeira grande escola da vida.
+
+Os **planejados** geralmente são mais sábios - planejar é uma escolha consciente e saber escolher conscientemente é uma sabedoria. Escolher é usar a capacidade de discernimento. A sabedoria te permite uma melhor adaptação da realidade.
+
+Os **não planejados** tem uma menor capacidade de adaptação, dificuldade de tomar decisões, planejar, encontrar pessoas na vida que a rejeitam, sentimento de não pertencimento. Qual é o script que tem "atrás" que faz com que ela atraia essas situações?
 
 ###### **COMO:**
 
