@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "6701765a785d6569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "27998b9560a1a6c3",
             "type": "leaf",
             "state": {
@@ -74,6 +86,18 @@
               "type": "markdown",
               "state": {
                 "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77278e4fbabd9592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O medo é a coisa mais contagiosa do mundo.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
+                "file": "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
+                "file": "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md"
+                "file": "Quais são os impactos de uma cesariana na vida de uma pessoa?.md"
               }
             }
           },
@@ -271,11 +295,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27998b9560a1a6c3",
+  "active": "6701765a785d6569",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-    "Transposto biológico é quando o bebê nasce com uma má-formação.md",
+    "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
     "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
+    "O medo é a coisa mais contagiosa do mundo.md",
+    "Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
     "2. Literature Notes/Topics/Qual é a diferença da energia do esforço para a energia da dedicação?.md",
@@ -297,8 +323,6 @@
     "6. Creator/Reels/Antecipação 1 Volta.md",
     "6. Creator/Reels/Antecipação 2 volta.md",
     "6. Creator/Reels/A vida é como um rio.md",
-    "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
-    "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

@@ -4,9 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É uma informação do transgeracional, ou da gestação, que gera uma necessidade que aquele bebê seja diferente por algum motivo.
-
-A doença congênita é uma mutação feita pelo DNA do bebê em função de algo que a mãe viveu ou carrega do clã.
+É a sensação de que você nunca está pronto. Porque você não nasce de forma natural, você ainda não estava pronto, te apressaram.
 
 ###### **COMO:**
 

@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 A gestação traz à tona os medos da mulher, o que é natural. Nessa hora, é importante olhar para a história dela.
 
+[[O medo é a coisa mais contagiosa do mundo]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

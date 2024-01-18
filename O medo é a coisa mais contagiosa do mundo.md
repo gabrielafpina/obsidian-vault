@@ -4,9 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É uma informação do transgeracional, ou da gestação, que gera uma necessidade que aquele bebê seja diferente por algum motivo.
-
-A doença congênita é uma mutação feita pelo DNA do bebê em função de algo que a mãe viveu ou carrega do clã.
+Quando a pessoa entra no medo, começa a entrar em programações de sobrevivência, e é aí que as complicações acontecem. [[3 coisas que paralisam a vida - vaidade, medo e preguiça]]
 
 ###### **COMO:**
 
