@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é uma concepção gemelar?.md",
+                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e455a3d92eaf7fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é uma concepção gemelar?.md",
+                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é uma concepção gemelar?.md",
+                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é uma concepção gemelar?.md"
+                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md"
               }
             }
           },
@@ -246,16 +259,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c41c3c9c2310e34a",
+  "active": "e455a3d92eaf7fb2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+    "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
     "2. Literature Notes/Topics/Qual é a diferença da energia do esforço para a energia da dedicação?.md",
     "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
     "2. Literature Notes/Topics/Toda coceira vem como reparo de um conflito de separação.md",
     "2. Literature Notes/Topics/É um desserviço não vender o que você é bom fazendo.md",
-    "O que é uma concepção gemelar?.md",
-    "O que significa ter uma gravidez indesejada?.md",
+    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/O Universo procura formas possíveis de manifestar Deus no seu cotidiano.md",
@@ -273,7 +287,6 @@
     "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Readwise/Books/As 5 Feridas Emocionais.md",
-    "2. Literature Notes/Topics/Quais são os 6 pilares da CIV?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

@@ -13,11 +13,14 @@ OBS: muitas das vezes um domina o outro, principalmente, os de energia masculina
 As patologias também não serão as mesmas, no caso dos univitelinos.
 
 Pouco se sabe disso, mas a *maioria das gestações são gemelares.*
+	É muito importante nomear o gemelar, porque enquanto você não entende o seu gemelar, você tenta viver a vida dele também.
 
 - A redução embrionária natural ocorre nos **3 primeiros meses de gravidez** e é muitas vezes sinalizada por pequenas perdas de sangue e/ou contrações ou pode até passar completamente despercebida.
 	- Na Leitura Biológica damos o nome de **Síndrome do Sobrevivente**.
 	- Muitas vezes, as concepções gemelares vem de famílias que tem histórias de abortos, morte de crianças muito precoce.
 	- Os gemelares se perdem muito cedo, as vezes, antes mesmo da mulher saber que está grávida.
+
+OBS: quem nasceu primeiro, hierarquicamente vem antes. [[Como funciona a lateralidade?]]
 
 ###### **SINTOMAS DE CONCEPÇÃO GEMELAR:**
 - Nomes Compostos;
@@ -43,5 +46,6 @@ Pouco se sabe disso, mas a *maioria das gestações são gemelares.*
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz]]
 
 **Sul: para onde vai**
