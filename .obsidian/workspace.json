@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "27998b9560a1a6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e455a3d92eaf7fb2",
             "type": "leaf",
             "state": {
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
+                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
+                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md"
+                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md"
               }
             }
           },
@@ -259,9 +271,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e455a3d92eaf7fb2",
+  "active": "27998b9560a1a6c3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+    "Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
@@ -286,7 +299,6 @@
     "6. Creator/Reels/A vida é como um rio.md",
     "2. Literature Notes/Topics/Diferente não é melhor e não é pior, é diferente.md",
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
-    "2. Literature Notes/Readwise/Books/As 5 Feridas Emocionais.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

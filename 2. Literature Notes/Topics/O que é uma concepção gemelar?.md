@@ -49,3 +49,4 @@ OBS: quem nasceu primeiro, hierarquicamente vem antes. [[Como funciona a lateral
 - [[Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz]]
 
 **Sul: para onde vai**
+- [[Transposto biológico é quando o bebê nasce com uma má-formação]]
