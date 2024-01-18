@@ -21,5 +21,6 @@ Geralmente, essas são pessoas que tem dificuldade de lida com separação, de e
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O que é uma concepção gemelar?]]
 
 **Sul: para onde vai**

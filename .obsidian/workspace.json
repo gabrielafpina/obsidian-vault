@@ -105,7 +105,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que significa ter uma gravidez indesejada?.md",
+                "file": "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c41c3c9c2310e34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é uma concepção gemelar?.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mestre",
+                "query": "concepção geme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -206,8 +218,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que significa ter uma gravidez indesejada?.md",
+                "file": "O que é uma concepção gemelar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que significa ter uma gravidez indesejada?.md",
+                "file": "O que é uma concepção gemelar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que significa ter uma gravidez indesejada?.md"
+                "file": "O que é uma concepção gemelar?.md"
               }
             }
           },
@@ -351,10 +362,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c5cff20f440884fa",
+  "active": "c41c3c9c2310e34a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+    "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
+    "O que é uma concepção gemelar?.md",
     "O que significa ter uma gravidez indesejada?.md",
+    "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
     "2. Literature Notes/Topics/Qual é a diferença da energia do esforço para a energia da dedicação?.md",
@@ -377,8 +390,6 @@
     "2. Literature Notes/Readwise/Books/Acolhendo Sua Criança Interior.md",
     "2. Literature Notes/Readwise/Books/As 5 Feridas Emocionais.md",
     "2. Literature Notes/Topics/Quais são os 6 pilares da CIV?.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
