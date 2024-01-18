@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "c5cff20f440884fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que significa ter uma gravidez indesejada?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "75b10828a124e7ad",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -260,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+                "file": "O que significa ter uma gravidez indesejada?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+                "file": "O que significa ter uma gravidez indesejada?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md"
+                "file": "O que significa ter uma gravidez indesejada?.md"
               }
             }
           },
@@ -339,10 +351,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60c1c198e1816b5b",
+  "active": "c5cff20f440884fa",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+    "O que significa ter uma gravidez indesejada?.md",
+    "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
     "2. Literature Notes/Topics/Qual é a diferença da energia do esforço para a energia da dedicação?.md",
     "2. Literature Notes/Topics/O Universo procura formas possíveis de manifestar Deus no seu cotidiano.md",
@@ -366,7 +379,6 @@
     "2. Literature Notes/Topics/Quais são os 6 pilares da CIV?.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

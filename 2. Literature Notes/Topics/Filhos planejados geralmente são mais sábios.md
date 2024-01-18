@@ -25,3 +25,4 @@ Os **não planejados** tem uma menor capacidade de adaptação, dificuldade de t
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que significa ter uma gravidez indesejada?]]
