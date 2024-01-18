@@ -51,3 +51,4 @@ OBS: quem nasceu primeiro, hierarquicamente vem antes. [[Como funciona a lateral
 
 **Sul: para onde vai**
 - [[Transposto biológico é quando o bebê nasce com uma má-formação]]
+- [[É muito comum crianças não amamentadas buscarem por segurança]]
