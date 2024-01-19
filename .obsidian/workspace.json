@@ -147,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autonomia",
+                "query": "função dos pais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -318,7 +318,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c41c3c9c2310e34a",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "É muito comum crianças não amamentadas buscarem por segurança.md",
     "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
