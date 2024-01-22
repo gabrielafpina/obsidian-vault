@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
+                "file": "A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b14e738390475f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que são conflitos de líquido?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setênios",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
+                "file": "O que são conflitos de líquido?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
+                "file": "O que são conflitos de líquido?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md"
+                "file": "O que são conflitos de líquido?.md"
               }
             }
           },
@@ -210,9 +222,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca2b864b5b1636af",
+  "active": "d0b14e738390475f",
   "lastOpenFiles": [
-    "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
+    "2. Literature Notes/Topics/Obsidian.md",
+    "O que são conflitos de líquido?.md",
+    "A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
     "2. Literature Notes/Topics/O medo é a coisa mais contagiosa do mundo.md",
     "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
@@ -236,8 +250,6 @@
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
     "2. Literature Notes/Topics/O Universo procura formas possíveis de manifestar Deus no seu cotidiano.md",
     "2. Literature Notes/Readwise/Books/Os 10 mandamentos da Prosperidade.md",
-    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-    "2. Literature Notes/Topics/Cada ser humano é um botão de rosas na presença de Deus.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
