@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "66fd12dc91178051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d03775f4ebb68dd",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md"
+                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md"
               }
             }
           },
@@ -342,8 +354,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723baa6f34b05230",
+  "active": "66fd12dc91178051",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "É muito comum crianças não amamentadas buscarem por segurança.md",
@@ -369,7 +382,6 @@
     "2. Literature Notes/Topics/Cada ser humano é um botão de rosas na presença de Deus.md",
     "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "2. Literature Notes/Topics/Relações saudáveis exigem vínculos fortes e limites claros.md",
-    "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
