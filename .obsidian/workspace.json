@@ -11,8 +11,12 @@
             "id": "ca2b864b5b1636af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -127,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md"
+              }
             }
           },
           {
@@ -202,8 +210,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "ca2b864b5b1636af",
   "lastOpenFiles": [
+    "A dificuldade é uma estratégia de sobrevivência apresentada pelo cérebro.md",
     "2. Literature Notes/Topics/O medo é a coisa mais contagiosa do mundo.md",
     "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
@@ -229,7 +238,6 @@
     "2. Literature Notes/Readwise/Books/Os 10 mandamentos da Prosperidade.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Cada ser humano é um botão de rosas na presença de Deus.md",
-    "2. Literature Notes/Topics/A cura exige uma nova postura.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
