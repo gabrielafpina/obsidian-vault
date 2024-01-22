@@ -4,167 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c53b1075b970c9c3",
+        "id": "2d5ffa0636670bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "a219ec05116ad553",
+            "id": "ca2b864b5b1636af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60c1c198e1816b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cff20f440884fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c41c3c9c2310e34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c9c28207d1e0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723baa6f34b05230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66fd12dc91178051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d03775f4ebb68dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d188a9258d06b8cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af18428db41af00e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27998b9560a1a6c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transposto biológico é quando o bebê nasce com uma má-formação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e455a3d92eaf7fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77278e4fbabd9592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O medo é a coisa mais contagiosa do mundo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -275,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -354,19 +202,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66fd12dc91178051",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O medo é a coisa mais contagiosa do mundo.md",
+    "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
+    "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
+    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+    "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
+    "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-    "É muito comum crianças não amamentadas buscarem por segurança.md",
-    "Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
-    "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-    "Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
-    "O medo é a coisa mais contagiosa do mundo.md",
-    "Transposto biológico é quando o bebê nasce com uma má-formação.md",
+    "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
+    "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Se eu julgo ou critico alguém, eu estou falando que Deus está errado.md",
     "2. Literature Notes/Topics/Qual é a diferença da energia do esforço para a energia da dedicação?.md",
@@ -381,7 +230,6 @@
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/Cada ser humano é um botão de rosas na presença de Deus.md",
     "2. Literature Notes/Topics/A cura exige uma nova postura.md",
-    "2. Literature Notes/Topics/Relações saudáveis exigem vínculos fortes e limites claros.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
