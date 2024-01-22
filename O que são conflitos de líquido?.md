@@ -23,6 +23,10 @@ Se o líquido ou o dinheiro representam um problema na história da pessoa, qual
 
 Muitas pessoas com problemas nos rins tem problemas com dinheiro.
 
+O que dificulta as pessoas a prosperarem mais é, também, o medo da falta. Ela acaba não conseguindo fazer um movimento de crescimento na vida dela, por medo de algo que nem vai acontecer no final das contas. [[Lei da Vibração]] 
+
+Quem foi amamentado pouco tempo também tem esse medo da falta desde muito cedo. [[Uma criança que não foi amamentada, é uma criança que biologicamente passou fome]]. Para uma criança, a amamentação é prosperidade.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
