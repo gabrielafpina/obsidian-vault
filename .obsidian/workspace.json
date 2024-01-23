@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "raio x",
+                "query": "medo bússola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,7 +246,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67de71664a0017f4",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "O que são conflitos de líquido?.md",
