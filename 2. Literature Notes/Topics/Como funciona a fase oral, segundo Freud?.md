@@ -22,6 +22,7 @@ A primeira fase de desenvolvimento da criança se concentra na região oral. Ten
 
 Na teoria kleiniana, de [[Melanie Klein]] acredita-se que primeiramente existe um mundo interno, formado a partir das percepções do mundo externo, colorido com as ansiedades do mundo interno.
 	O seio materno, primeiro objeto de relação da criança com o mundo externo, é percebido tanto como seio bom (quando amamenta), como seio mau, quando não alimenta na hora que a criança deseja.
+		Esse seio mau iria se vingar dela pelo ódio e destrutividade direcionados a ele. Esse medo de vingança é chamado de **ansiedade persecutória** - seria um medo de estar sendo perseguido.
 	Melanie acredita, ainda, que todos os bebês são egocêntricos e narcisistas.
 
 Os primeiros momentos de vida extrauterina do bebê promove importantes impactos sobre sua construção psíquica, tanto interna quanto externamente, como:
