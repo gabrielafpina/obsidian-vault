@@ -26,8 +26,7 @@ Na teoria kleiniana, de [[Melanie Klein]] acredita-se que primeiramente existe u
 Os primeiros momentos de vida extrauterina do bebê promove importantes impactos sobre sua construção psíquica, tanto interna quanto externamente, como:
 - O contato com o mundo, sua relação com a mãe e todas as etapas do desenvolvimento para sua adaptação colocam o recém nascido numa atividade repleta de estímulos. 
 
-A relação com a mãe é construída gradativamente através das experiências vividas desde os primeiros contatos.
-
+A relação com a mãe é *construída gradativamente* através das experiências vividas desde os primeiros contatos.
 
 
 ###### **COMO:**
