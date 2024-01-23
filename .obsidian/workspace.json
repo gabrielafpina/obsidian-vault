@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "6. Creator/Reels/Lobo divino x Lobo selvagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "6. Creator/Reels/Lobo divino x Lobo selvagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "6. Creator/Reels/Lobo divino x Lobo selvagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md"
+                "file": "6. Creator/Reels/Lobo divino x Lobo selvagem.md"
               }
             }
           },
@@ -246,8 +247,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "67de71664a0017f4",
   "lastOpenFiles": [
+    "3. Me, Myself and I/Testes/MBTI.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "O que são conflitos de líquido?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -273,7 +275,6 @@
     "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "2. Literature Notes/Topics/Todo mundo é seu mestre e todo mundo está aqui para te ensinar.md",
-    "2. Literature Notes/Topics/O Universo procura formas possíveis de manifestar Deus no seu cotidiano.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
