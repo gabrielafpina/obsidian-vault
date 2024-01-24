@@ -4,7 +4,11 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-No período gestacional, é importante manter a m
+No período gestacional, é importante manter a mulher em um estado de paz, com ambientes e músicas agradáveis, conversas boas, contar histórias. Porque o cérebro nunca para de se desenvolver, mas ele precisa de informações diferentes.
+
+É importante a imaginação da mãe estar aflorada, porque isso impacta diretamente o bebê.
+
+[[Gravidez não é doença, é um estado superior]]
 
 ###### **COMO:**
 
