@@ -8,6 +8,8 @@ O cérebro de mamífero reconhece o peito e o leite da mãe. O bebê não reconh
 
 Crianças não amamentadas tem uma tendência a serem mais obesas (medo da falta) - eu tenho que estocar tudo, porque vai me faltar.
 
+Quando uma mãe não amamenta o seu filho, ela não só não nutre o filho, mas existe uma perda 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

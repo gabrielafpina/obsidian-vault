@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md"
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
               }
             }
           },
@@ -330,8 +330,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a117646827c73115",
+  "active": "9b7df146cf01fb90",
   "lastOpenFiles": [
+    "Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
@@ -340,7 +341,6 @@
     "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
     "Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-    "Você é o que o seu cérebro de feto foi.md",
     "O que é a Tocofobia?.md",
     "O que é uma cirurgia para o nosso cérebro?.md",
     "Gravidez não é doença, é um estado superior.md",
