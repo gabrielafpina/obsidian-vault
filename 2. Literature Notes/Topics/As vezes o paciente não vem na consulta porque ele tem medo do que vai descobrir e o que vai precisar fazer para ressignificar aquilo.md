@@ -4,6 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+O que as pessoas as vezes fazem no medo? Se desconectam das informações.
 
 ###### **COMO:**
 
