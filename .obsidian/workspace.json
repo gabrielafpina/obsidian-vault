@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são alguns programantes para o autismo?.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são alguns programantes para o autismo?.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são alguns programantes para o autismo?.md"
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
               }
             }
           },
@@ -366,10 +366,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92e9f7e5e12bc42a",
+  "active": "9b7df146cf01fb90",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "Quais são alguns programantes para o autismo?.md",
+    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "O que é a Tocofobia?.md",

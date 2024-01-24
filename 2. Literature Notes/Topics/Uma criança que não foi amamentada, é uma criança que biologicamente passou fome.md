@@ -32,3 +32,4 @@ Pode, ainda, ser uma pessoa que tem medo de faltar o dinheiro, podem ser pessoas
 **Sul: para onde vai**
 - [[É muito comum crianças não amamentadas buscarem por segurança]]
 - [[Você é o que o seu cérebro de feto foi]]
+- [[O que acontece quando os]]
