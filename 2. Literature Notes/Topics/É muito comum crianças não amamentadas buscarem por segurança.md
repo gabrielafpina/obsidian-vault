@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Ex: serviço público, que traz 'estabilidade', que ai ela tem a subsistência regular na vida, eles tendem a não se arriscar na vida.
+Ex: serviço público, que traz 'estabilidade', que ai ela tem a subsistência regular na vida, eles tendem a não se arriscar na vida. Isso é algo que pode ser trabalhado.
 
 ###### **COMO:**
 
