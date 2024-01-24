@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73c84caef64e261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
+                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md"
               }
             }
           },
@@ -366,11 +378,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b7df146cf01fb90",
+  "active": "b73c84caef64e261",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "Quais são alguns programantes para o autismo?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "O que é a Tocofobia?.md",
     "Você é o que o seu cérebro de feto foi.md",
@@ -393,7 +406,6 @@
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O medo é a coisa mais contagiosa do mundo.md",
     "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
-    "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
