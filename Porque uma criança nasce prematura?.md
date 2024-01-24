@@ -1,9 +1,14 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Rafael Livramento]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Como o ambiente na barriga está hostil, existe um perigo, para o bebê, em ir até o final. Assim, existe uma vantagem em nascer antes.
+
+Crianças que nascem prematuras ou antes do tempo, tem dificuldade de terminar as coisas. Se começa algo, para no meio. Porque a memória do parto, é que é perigoso ir até o final.
+
+[[Você é o que o seu cérebro de feto foi]].
 
 ###### **COMO:**
 
@@ -20,3 +25,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quais os impactos de nascer de fórceps?]]
