@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+                "file": "Você é o que o seu cérebro de feto foi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+                "file": "Você é o que o seu cérebro de feto foi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md"
+                "file": "Você é o que o seu cérebro de feto foi.md"
               }
             }
           },
@@ -330,8 +330,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fbd45ac8d016cf99",
+  "active": "a117646827c73115",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
     "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
     "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "Quais os impactos de nascer de fórceps?.md",
@@ -342,7 +344,6 @@
     "O que é a Tocofobia?.md",
     "O que é uma cirurgia para o nosso cérebro?.md",
     "Gravidez não é doença, é um estado superior.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
@@ -357,7 +358,6 @@
     "2. Literature Notes/Topics/O que pode significar ter medo de compromisso.md",
     "2. Literature Notes/Topics/O que acontece quando uma pessoa pula um setênio?.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
-    "2. Literature Notes/Topics/Qual é a função dos pais na nossa vida?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

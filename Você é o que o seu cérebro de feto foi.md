@@ -12,6 +12,8 @@ No período gestacional, é importante manter a mulher em um estado de paz, com 
 
 A forma como o parto é vivenciado se reflete na forma como as pessoas iniciam as coisas na vida delas.
 
+Se a mulher entra em estresse (simpaticotonia), o trabalho de parto cessa.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
