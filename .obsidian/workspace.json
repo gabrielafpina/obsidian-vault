@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "47faaee635c0d9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f5db76a98c77cd69",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
+                "file": "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md"
               }
             }
           },
@@ -342,10 +354,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b7df146cf01fb90",
+  "active": "47faaee635c0d9a7",
   "lastOpenFiles": [
-    "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+    "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "O que é a Tocofobia?.md",
     "Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
