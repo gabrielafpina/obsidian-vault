@@ -8,7 +8,9 @@ No período gestacional, é importante manter a mulher em um estado de paz, com 
 
 É importante a imaginação da mãe estar aflorada, porque isso impacta diretamente o bebê.
 
-[[Gravidez não é doença, é um estado superior]]
+[[Gravidez não é doença, é um estado superior]].
+
+A forma como o parto é vivenciado se reflete na forma como as pessoas iniciam as coisas na vida delas.
 
 ###### **COMO:**
 

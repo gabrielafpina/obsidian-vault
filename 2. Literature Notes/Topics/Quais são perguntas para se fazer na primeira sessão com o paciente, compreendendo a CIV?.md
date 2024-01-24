@@ -6,7 +6,7 @@
 ###### **DEFINIÇÃO:**
 - A mãe passou a gestação com medo de perder o filho?
 - A mãe teve um aborto antes?
-- A pessoa nasceu prematura?
+- A pessoa nasceu prematura? [[Porque uma criança nasce prematura?]]
 - Como aconteceu o parto? [[O que é um berçário?]]
 - Você tem uma ideia de como os seus pais estavam quando você foi concebida? Como era esse ambiente?
 - Tinha uma intenção por trás da sua concepção? Os pais estavam planejando?
