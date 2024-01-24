@@ -5,6 +5,7 @@
 
 ###### **DEFINIÇÃO:**
 É o medo do parto, que pode ser, tanto transgeracional (memórias/histórias de partos difíceis), quanto iatrogênico (condutas médicas que geram perigo e conflito. Ex: fórceps).
+- A mulher é sempre capaz de ter parto normal e amamentar.
 
 [[O que é uma cirurgia para o nosso cérebro?]]
 
