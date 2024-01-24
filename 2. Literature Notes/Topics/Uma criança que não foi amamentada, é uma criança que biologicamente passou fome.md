@@ -24,3 +24,4 @@ Crianças não amamentadas tem uma tendência a serem mais obesas (medo da falta
 
 **Sul: para onde vai**
 - [[É muito comum crianças não amamentadas buscarem por segurança]]
+- [[Você é o que o seu cérebro de feto foi]]
