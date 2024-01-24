@@ -12,7 +12,7 @@ Os seus projetos de vida vão sempre relembrar o seu primeiro projeto - VOCÊ ME
 
 >[!important] A pergunta é: qual é o perigo de... terminar as coisas? etc
 
-O útero é a sua primeira casa.
+Na pandemia, Rafa viu muitas pessoas revivendo conflitos da vida intrauterina. Todo mundo ficava em casa e o útero é a sua primeira casa. Todo mundo voltou para casa.
 
 ###### **COMO:**
 
@@ -27,5 +27,6 @@ O útero é a sua primeira casa.
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo para o cérebro é uma noção de sobrevivência]]
 
 **Sul: para onde vai**
