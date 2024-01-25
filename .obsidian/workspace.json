@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "3fca95a4c2d25a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porque uma criança nasce prematura?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "616680a912361778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbd45ac8d016cf99",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestação",
+                "query": "prematu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
+                "file": "Porque uma criança nasce prematura?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
+                "file": "Porque uma criança nasce prematura?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md"
+                "file": "Porque uma criança nasce prematura?.md"
               }
             }
           },
@@ -282,15 +306,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "726591e8dec16fd2",
+  "active": "3fca95a4c2d25a5f",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
+    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
+    "Porque uma criança nasce prematura?.md",
     "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
+    "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "Gravidez não é doença, é um estado superior.md",
     "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
     "Quais os impactos de nascer de fórceps?.md",
-    "Porque uma criança nasce prematura?.md",
     "Você é o que o seu cérebro de feto foi.md",
     "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "Quais são alguns programantes para o autismo?.md",
@@ -309,7 +334,6 @@
     "2. Literature Notes/Topics/A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
     "2. Literature Notes/Topics/O que são conflitos de líquido?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "6. Creator/Reels/Lobo divino x Lobo selvagem.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
