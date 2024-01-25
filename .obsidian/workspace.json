@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "2bc7bc95603a6211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b81734ac1e162b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87c89d63dfcb889a",
             "type": "leaf",
             "state": {
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dependência emocional",
+                "query": "rafael livramento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md"
+                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md"
               }
             }
           },
@@ -354,8 +378,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "1b81734ac1e162b0",
   "lastOpenFiles": [
+    "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
+    "O que a gestação tem a ver com os seus projetos?.md",
     "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "A gravidez é a materialização do amor.md",
@@ -365,13 +391,11 @@
     "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Gravidez não é doença, é um estado superior.md",
-    "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
     "Quais os impactos de nascer de fórceps?.md",
     "Você é o que o seu cérebro de feto foi.md",
     "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
     "Quais são alguns programantes para o autismo?.md",
     "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
-    "O que a gestação tem a ver com os seus projetos?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
