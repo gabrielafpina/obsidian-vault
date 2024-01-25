@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ef15de2b2ab70b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fccb639c5e6bb821",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "raio x",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -258,7 +270,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -323,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -402,10 +415,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2564c3f856f0aefc",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
     "O que a gestação tem a ver com os seus projetos?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "Quais são alguns programantes para o autismo?.md",
