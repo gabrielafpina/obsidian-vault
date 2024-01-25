@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "1c78210ad90dab03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648242b3bbb382c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que a gestação tem a ver com os seus projetos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87c89d63dfcb889a",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prematu",
+                "query": "dependência emocional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A gravidez é a materialização do amor.md",
+                "file": "O que a gestação tem a ver com os seus projetos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A gravidez é a materialização do amor.md",
+                "file": "O que a gestação tem a ver com os seus projetos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A gravidez é a materialização do amor.md"
+                "file": "O que a gestação tem a ver com os seus projetos?.md"
               }
             }
           },
@@ -330,15 +354,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b111484afc295b3d",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
+    "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "A gravidez é a materialização do amor.md",
+    "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
     "Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
-    "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "Gravidez não é doença, é um estado superior.md",
     "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
     "Quais os impactos de nascer de fórceps?.md",
@@ -348,7 +373,6 @@
     "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
     "O que a gestação tem a ver com os seus projetos?.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "O que é a Tocofobia?.md",
