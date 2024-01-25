@@ -26,5 +26,6 @@ E existem características do comportamento de uma pessoa que vem de uma concep�
 
 **Norte: ideia/pergunta**
 - [[Quando uma mulher engravida, ela revive as gestações do clã]]
+- [[Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar]]
 
 **Sul: para onde vai**
