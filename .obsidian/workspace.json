@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "b111484afc295b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A gravidez é a materialização do amor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fca95a4c2d25a5f",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "file": "A gravidez é a materialização do amor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "file": "A gravidez é a materialização do amor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md"
+                "file": "A gravidez é a materialização do amor.md"
               }
             }
           },
@@ -318,10 +330,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b733ef07c8accd6b",
+  "active": "b111484afc295b3d",
   "lastOpenFiles": [
-    "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
     "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "A gravidez é a materialização do amor.md",
+    "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
     "Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
@@ -345,7 +358,6 @@
     "O que é uma cirurgia para o nosso cérebro?.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
-    "2. Literature Notes/Topics/O que são conflitos de líquido?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
