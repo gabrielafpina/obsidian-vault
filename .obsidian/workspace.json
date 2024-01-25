@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "b733ef07c8accd6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fca95a4c2d25a5f",
             "type": "leaf",
             "state": {
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Porque uma criança nasce prematura?.md",
+                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Porque uma criança nasce prematura?.md",
+                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Porque uma criança nasce prematura?.md"
+                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md"
               }
             }
           },
@@ -306,11 +318,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3fca95a4c2d25a5f",
+  "active": "b733ef07c8accd6b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
-    "Porque uma criança nasce prematura?.md",
     "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
+    "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "Porque uma criança nasce prematura?.md",
+    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "Gravidez não é doença, é um estado superior.md",
@@ -333,7 +346,6 @@
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
     "2. Literature Notes/Topics/O que são conflitos de líquido?.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

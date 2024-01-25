@@ -21,5 +21,6 @@ E isso tem consequências durante a gravidez, aumentando a faixa de má-formaç�
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal]]
 
 **Sul: para onde vai**
