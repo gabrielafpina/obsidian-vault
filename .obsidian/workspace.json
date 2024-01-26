@@ -20,12 +20,48 @@
             }
           },
           {
-            "id": "b7b2345623284f6d",
+            "id": "0d8eefcd223982a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
+                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9950f2d9b47ba6e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bbc77a2a14e0f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que acontece com um bebê que é amamentado 'além do tempo'?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "381bf3dd7c7bd445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eleanor luzes",
+                "query": "#gestação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md"
+                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md"
               }
             }
           },
@@ -234,12 +270,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45d6b072a04f8644",
+  "active": "381bf3dd7c7bd445",
   "lastOpenFiles": [
+    "O que acontece com um bebê que é amamentado 'além do tempo'?.md",
+    "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
+    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
+    "Você é o que o seu cérebro de feto foi.md",
     "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "A gravidez é a materialização do amor.md",
     "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-    "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
@@ -257,11 +298,6 @@
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-    "2. Literature Notes/Topics/O que é um berçário?.md",
-    "2. Literature Notes/Topics/O que é a síndrome do sobrevivente das reduções embrionárias?.md",
-    "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-    "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
-    "2. Literature Notes/Topics/O que é a dor na nuca?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
