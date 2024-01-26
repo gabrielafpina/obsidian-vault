@@ -171,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parto",
+                "query": "atrasado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -342,7 +342,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7303ebf296a0e8aa",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
