@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #gestação #nascimento 
 
 **FONTE:** [[Rafael Livramento]]
 ###### **BIG IDEA:** 

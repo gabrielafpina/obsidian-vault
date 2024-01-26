@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #gestação #nascimento 
 
 **FONTE:** [[Rafael Livramento]]
 ###### **BIG IDEA:** 
@@ -10,7 +10,7 @@ Crianças não amamentadas tem uma tendência a serem mais obesas (medo da falta
 
 Quando uma mãe não amamenta o seu filho, ela não só não nutre o filho, mas existe uma perda de proteção, pela origem embriológica.
 
-[[O que acontece com uma mãe que é amamentada 'além do tempo'?]]
+[[O que acontece com um bebê que é amamentado 'além do tempo'?]]
 
 Pode, ainda, ser uma pessoa que tem medo de faltar o dinheiro, podem ser pessoas pão duras, não se permite comprar roupas novas, ou de tirar férias, porque *sempre acha que pode faltar*.
 

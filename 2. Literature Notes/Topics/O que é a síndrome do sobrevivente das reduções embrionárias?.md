@@ -1,4 +1,4 @@
-**TAGS:**
+**TAGS:** #gestação 
 
 **FONTE:** [[Rafael Livramento]]
 ###### **BIG IDEA:** 
@@ -21,5 +21,6 @@ Ex: pessoa que está sempre buscando uma alma gêmea, está sempre buscando uma 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O que é uma concepção gemelar?]]
 
 **Sul: para onde vai**
