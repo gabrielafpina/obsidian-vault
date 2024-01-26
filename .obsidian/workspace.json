@@ -4,191 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b41293ed664e3814",
+        "id": "30495370268c29f4",
         "type": "tabs",
         "children": [
           {
-            "id": "e1c830338714287b",
+            "id": "9396ce91f9f391e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
+                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c78210ad90dab03",
+            "id": "b7b2345623284f6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "648242b3bbb382c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bc7bc95603a6211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b81734ac1e162b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87c89d63dfcb889a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "726591e8dec16fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b733ef07c8accd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b111484afc295b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A gravidez é a materialização do amor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fca95a4c2d25a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Porque uma criança nasce prematura?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616680a912361778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbd45ac8d016cf99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb89fbdef5e6952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gravidez não é doença, é um estado superior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2bec9755ce65f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é a Tocofobia?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "003a8d369d792650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é uma cirurgia para o nosso cérebro?.md",
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md"
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md"
               }
             }
           },
@@ -355,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,34 +221,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b81734ac1e162b0",
+  "active": "b7b2345623284f6d",
   "lastOpenFiles": [
-    "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
-    "O que a gestação tem a ver com os seus projetos?.md",
-    "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
-    "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
+    "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+    "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
+    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
+    "2. Literature Notes/Topics/O que é a impressão genômica?.md",
+    "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
+    "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
+    "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
+    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+    "O que é uma cirurgia para o nosso cérebro?.md",
+    "O que é a Tocofobia?.md",
+    "Gravidez não é doença, é um estado superior.md",
+    "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
+    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
+    "Porque uma criança nasce prematura?.md",
     "A gravidez é a materialização do amor.md",
     "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
-    "Porque uma criança nasce prematura?.md",
-    "2. Literature Notes/Topics/O que significa ter uma gravidez indesejada?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
-    "Gravidez não é doença, é um estado superior.md",
-    "Quais os impactos de nascer de fórceps?.md",
-    "Você é o que o seu cérebro de feto foi.md",
-    "O que acontece com uma mãe que é amamentada 'além do tempo'?.md",
-    "Quais são alguns programantes para o autismo?.md",
-    "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
-    "2. Literature Notes/Topics/Obsidian.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
-    "O que é a Tocofobia?.md",
-    "2. Literature Notes/Topics/As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo.md",
-    "2. Literature Notes/Topics/3 coisas que paralisam a vida - vaidade, medo e preguiça.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-    "O que é uma cirurgia para o nosso cérebro?.md",
-    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
-    "2. Literature Notes/Topics/A dificuldade é uma estratégia de sobrevivência vivenciada pelo cérebro.md",
+    "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
+    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+    "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
+    "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
+    "Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
+    "O que a gestação tem a ver com os seus projetos?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
