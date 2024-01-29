@@ -13,6 +13,11 @@ A partir de hoje eu escolho não utilizar mais a expressão ´eu não sei´, qua
 
 É muito importante tomar posse do que você quer para a sua vida. Escolha tudo o que você quer para a sua vida. Escolha tudo o tempo todo. Comece a sentir o poder de saborear o poder das suas próprias escolhas.
 
+A escolha é um ato de responsabilidade, maturidade e coragem. E é um poder que todos tem nas mãos. É no momento da escolha que o destino é traçado. Escolher é, também, priorizar. O que você almeja? Está fazendo escolhas do que te aproxima do que você almeja, ou não?
+	Escolher está muito relacionado com a sua [[Criança Interior]]. Muitas crianças não são ensinadas a escolher e ter percepção sobre a responsabilidade de uma escolha.
+	-  O quanto eu estou hoje no meu lugar de adulto colocando luz sobre as escolhas que eu faço?
+
+
 **COMO:**
 
 **PENSADORES:**
