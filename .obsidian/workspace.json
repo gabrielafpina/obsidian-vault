@@ -4,155 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "30495370268c29f4",
+        "id": "df4add802411b88b",
         "type": "tabs",
         "children": [
           {
-            "id": "9396ce91f9f391e9",
+            "id": "c10dd72a34e01e0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d8eefcd223982a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7303ebf296a0e8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9950f2d9b47ba6e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bbc77a2a14e0f7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que acontece com um bebê que é amamentado 'além do tempo'?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "381bf3dd7c7bd445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "013ffc6e4ac57611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais os impactos de nascer de fórceps?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca5b8b51d4db479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bd8922ed4b4cff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e28864126cfd94f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "464d0bea6a373d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d6b072a04f8644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Você é o que o seu cérebro de feto foi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -263,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "O que a gestação tem a ver com os seus projetos?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -342,34 +202,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que a gestação tem a ver com os seus projetos?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-    "Você é o que o seu cérebro de feto foi.md",
-    "Gravidez não é doença, é um estado superior.md",
+    "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
+    "2. Literature Notes/Topics/Gravidez não é doença, é um estado superior.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
-    "Quais os impactos de nascer de fórceps?.md",
+    "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-    "O que acontece com um bebê que é amamentado 'além do tempo'?.md",
+    "2. Literature Notes/Topics/O que acontece com um bebê que é amamentado 'além do tempo'?.md",
     "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
-    "O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
-    "A gravidez é a materialização do amor.md",
-    "A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "2. Literature Notes/Topics/O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
+    "2. Literature Notes/Topics/A gravidez é a materialização do amor.md",
+    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/Se eu preciso que a minha mãe venha me ajudar com o meu bebê, é porque em algum nível eu não me sinto capaz.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Quando uma mulher engravida, ela revive as gestações do clã.md",
-    "Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
+    "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Qual é a vantagem da criança estar chorando?.md",
     "2. Literature Notes/Topics/Qual é a diferença do gemelar para o trigemelar?.md",
     "2. Literature Notes/Topics/Quais são os 6 pilares da CIV?.md",
-    "Quais são alguns programantes para o autismo?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
