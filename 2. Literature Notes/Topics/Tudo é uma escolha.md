@@ -17,7 +17,7 @@ A escolha é um ato de responsabilidade, maturidade e coragem. E é um poder que
 	Escolher está muito relacionado com a sua [[Criança Interior]]. Muitas crianças não são ensinadas a escolher e ter percepção sobre a responsabilidade de uma escolha. Além disso, muitas escolhas não são escolhas, elas são padrões repetitivos de pensamento. Se eu baseio a escolha no que aconteceu no passado, o meu destino é uma [[Roda de Samsara]].
 	-  O quanto eu estou hoje no meu lugar de adulto colocando luz sobre as escolhas que eu faço?
 		- Quando você faz escolhas, você se responsabiliza pelas consequências também.
-	- Quanto eu estou sendo in
+	- Quanto eu estou sendo influenciado pelo [[Inconsciente Coletivo]]? [[Você está pensando ou você está sendo pensado?]]
 
 **COMO:**
 
