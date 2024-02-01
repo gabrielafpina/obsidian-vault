@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
+                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md"
+                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md"
               }
             }
           },
@@ -246,15 +246,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a4b36a7b84958c7",
+  "active": "884b78eb030c2f18",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
+    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O que a gestação tem a ver com os seus projetos?.md",
-    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Gravidez não é doença, é um estado superior.md",
