@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6ccc26a24e98a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#gestação",
+                "query": "lateral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md"
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
               }
             }
           },
@@ -246,11 +258,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "884b78eb030c2f18",
+  "active": "a6ccc26a24e98a4a",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
-    "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
