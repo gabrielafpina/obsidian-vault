@@ -8,6 +8,8 @@ A doença é uma resposta frente a situações de vida que você ainda não ente
 
 [[O presente nada mais é do que uma releitura do passado]].
 
+A crença que a pessoa tem, recoloca ela no conflito. Ex: uma pessoa que desenvolve câncer e tem histórico de câncer na família, tem muito mais desafios em ressignificar, porque viu muitas pessoas próximas morrerem de câncer. Assim, o medo é o mais contagioso de tudo. [[O medo dificulta a tomada de decisão em prol da mudança]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
