@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa idiopático?.md",
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reconhece",
+                "query": "doença",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,13 +126,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -193,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa idiopático?.md",
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa idiopático?.md",
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa idiopático?.md"
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md"
               }
             }
           },
@@ -274,8 +272,8 @@
   },
   "active": "b69dda1edc794886",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/O que significa idiopático?.md",
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
