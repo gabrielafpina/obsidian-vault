@@ -26,3 +26,4 @@ A gente muda a percepção de algumas coisas quando temos a possibilidade de que
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é um câncer?]]
