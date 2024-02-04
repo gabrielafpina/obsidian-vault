@@ -12,9 +12,9 @@ A crença que a pessoa tem, recoloca ela no conflito. Ex: uma pessoa que desenvo
 
 A gente muda a percepção de algumas coisas quando temos a possibilidade de questionar aquilo que muitas vezes é questionado por nós ou pelo coletivo como uma verdade absoluta.
 
-É necessário se perguntar o que, de acordo com o momento de vida, ajudaria a pessoa. Assim, conseguimos compreender melhor as doenças.
+É necessário se perguntar o que, de acordo com o momento de vida, ajudaria a pessoa. Assim, conseguimos compreender melhor as doenças. [[Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo]].
 
-Toda patologia vem após um estresse, trauma e choque biológico.
+[[Toda patologia vem após um estresse, trauma e choque biológico]]. [[Tudo para o cérebro é uma noção de sobrevivência]]
 
 ###### **COMO:**
 
