@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doença",
+                "query": "rafael livramento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md"
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md"
               }
             }
           },
@@ -294,10 +294,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "228668780f114fb3",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",

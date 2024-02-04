@@ -14,6 +14,8 @@ A gente muda a percepção de algumas coisas quando temos a possibilidade de que
 
 É necessário se perguntar o que, de acordo com o momento de vida, ajudaria a pessoa. Assim, conseguimos compreender melhor as doenças.
 
+Toda patologia vem após um estresse, trauma e choque biológico.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -27,6 +29,7 @@ A gente muda a percepção de algumas coisas quando temos a possibilidade de que
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O mundo e a natureza são muito perfeitos para as doenças não terem uma causa definida]]
 
 **Sul: para onde vai**
 - [[O que é um câncer?]]
