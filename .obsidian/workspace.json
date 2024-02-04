@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "4330c5db31c1d9f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "228668780f114fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "884b78eb030c2f18",
             "type": "leaf",
             "state": {
@@ -66,33 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b69dda1edc794886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e4e39bbe453089a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é um câncer?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "câncer",
+                "query": "leis  biol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um câncer?.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um câncer?.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um câncer?.md"
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md"
               }
             }
           },
@@ -282,16 +282,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e4e39bbe453089a",
+  "active": "228668780f114fb3",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
+    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "O que é um câncer?.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/O que significa idiopático?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
-    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "3. Me, Myself and I/Testes/MBTI.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
@@ -307,9 +310,6 @@
     "2. Literature Notes/Topics/O que acontece com um bebê que é amamentado 'além do tempo'?.md",
     "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
     "2. Literature Notes/Topics/Tudo que é criado precisa de 3 coisas.md",
-    "2. Literature Notes/Topics/O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
-    "2. Literature Notes/Topics/A gravidez é a materialização do amor.md",
-    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

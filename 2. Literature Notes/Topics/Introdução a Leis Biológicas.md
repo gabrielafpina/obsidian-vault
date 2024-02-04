@@ -5,7 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Leis biológicas é toda e qualquer estratégia de sobrevivência que o  nosso cérebro adota para garantir a sobrevivência. 
+Leis biológicas é toda e qualquer estratégia de sobrevivência que o  nosso cérebro adota para garantir a sobrevivência. Elas explicam as causas, o desenvolvimento e a reparação natural das 
 
 [[Nada é aleatório]].
 
@@ -62,3 +62,4 @@ As vezes, um elemento do clã morre para que os outros possam continuar a viver.
 **Sul: para onde vai**
 - [[Minimax]]
 - [[Uma criança que não foi amamentada, é uma criança que biologicamente passou fome]]
+- [[Quais são as 5 Leis Biológicas?]]
