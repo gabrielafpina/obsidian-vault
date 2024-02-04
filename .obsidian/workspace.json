@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "db37347276774aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "884b78eb030c2f18",
             "type": "leaf",
             "state": {
@@ -111,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leis  biol",
+                "query": "doença",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -284,10 +296,10 @@
   },
   "active": "228668780f114fb3",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
+    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "O que é um câncer?.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",

@@ -11,6 +11,9 @@ A doença é uma resposta imunológica frente a situações de vida, traumas, qu
 A crença que a pessoa tem, recoloca ela no conflito. Ex: uma pessoa que desenvolve câncer e tem histórico de câncer na família, tem muito mais desafios em ressignificar, porque viu muitas pessoas próximas morrerem de câncer. Assim, o medo é o mais contagioso de tudo. [[O medo dificulta a tomada de decisão em prol da mudança]].
 
 A gente muda a percepção de algumas coisas quando temos a possibilidade de questionar aquilo que muitas vezes é questionado por nós ou pelo coletivo como uma verdade absoluta.
+
+É necessário se perguntar o que, de acordo com o momento de vida, ajudaria a pessoa. Assim, conseguimos compreender melhor as doenças.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

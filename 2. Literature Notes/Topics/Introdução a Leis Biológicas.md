@@ -5,7 +5,9 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
-Leis biológicas é toda e qualquer estratégia de sobrevivência que o  nosso cérebro adota para garantir a sobrevivência. Elas explicam as causas, o desenvolvimento e a reparação natural das 
+Leis biológicas é toda e qualquer estratégia de sobrevivência que o  nosso cérebro adota para garantir a sobrevivência. Elas explicam as causas, o desenvolvimento e a reparação natural das 'enfermidades' com base em princípios biológicos naturais.
+	São programas especiais com sentido biológico que ajudam o indivíduo em um período de grande estresse emocional.
+	Esses programas são iniciados fora da consciência, após um período de hiper estresse. É quando você sabe que está vivendo algo, mas não sabe como está vivendo algo.
 
 [[Nada é aleatório]].
 
