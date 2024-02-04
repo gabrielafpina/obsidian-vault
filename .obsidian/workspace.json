@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toda patologia vem após um estresse, trauma e choque biológico.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toda patologia vem após um estresse, trauma e choque biológico.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toda patologia vem após um estresse, trauma e choque biológico.md"
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md"
               }
             }
           },
@@ -306,12 +306,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12fbce9f5a7a50e6",
+  "active": "4330c5db31c1d9f0",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "Toda patologia vem após um estresse, trauma e choque biológico.md",
+    "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
     "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "O que é um câncer?.md",
