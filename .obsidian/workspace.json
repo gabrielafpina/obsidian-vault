@@ -20,84 +20,12 @@
             }
           },
           {
-            "id": "7219e5b67de3d699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4b36a7b84958c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4330c5db31c1d9f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/5 Características dos Melhores Prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f06b292382c8d5e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como criar megaprompts?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d7e425cab27b77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como criar um prompt progressivo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "228668780f114fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db37347276774aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A doença não é um problema, é uma resposta.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rafael livramento",
+                "query": "5 LEIS B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como criar um prompt progressivo?.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como criar um prompt progressivo?.md",
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como criar um prompt progressivo?.md"
+                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md"
               }
             }
           },
@@ -331,7 +258,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20d7e425cab27b77",
+  "active": "f06b292382c8d5e0",
   "lastOpenFiles": [
     "Como criar megaprompts?.md",
     "Como criar um prompt progressivo?.md",
