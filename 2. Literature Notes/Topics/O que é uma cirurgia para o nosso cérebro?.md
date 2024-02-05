@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 É a presa do predador entrando na sua carne e te rasgando (bisturi). Isso pode ser muito traumático em alguns casos.
 
+Isso é um ataque à integridade.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
