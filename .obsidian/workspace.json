@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b249fc8a08dcef8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bbca0b26c40b6632",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cirurgia",
+                "query": "sintoma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md"
+                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md"
               }
             }
           },
@@ -270,10 +282,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f06b292382c8d5e0",
+  "active": "b249fc8a08dcef8e",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O que é uma cirurgia para o nosso cérebro?.md",
+    "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
+    "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
+    "2. Literature Notes/Topics/O que é uma cirurgia para o nosso cérebro?.md",
     "Como criar megaprompts?.md",
     "Como criar um prompt progressivo?.md",
     "Como compreender o PERCATO?.md",
@@ -296,8 +310,6 @@
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Gravidez não é doença, é um estado superior.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
