@@ -16,13 +16,16 @@
 		1. ***Endoderme***: dá origem às estruturas vitais para o corpo manter a vida.
 			1. Folheto mais arcaico, antigo. Ligada à respiração, alimentação, reprodução e intestino primitivo.
 			2. É algo que as bactérias mais primitivas há milhões de anos atrás já possuíam.
-		2. **Mesoderme:** capa de proteção que protege as estruturas vitais.
+		2. ***Mesoderme*:** capa de proteção que protege as estruturas vitais.
 			1. *Antigo*: ligada às temáticas de proteção e ataque à integridade. Ex: melanomas, acne, herpes zoster...
 			2. *Novo*: é a estrutura, sustentação. Relacionada aos conflitos de impotência 'não ter a capacidade de'. Ossos, músculos, articulações, tecido conjuntivo, adiposo.
 				1. [[O paciente sempre nos procura frente a um conflito de impotência]].  
-		3. 
+		3. ***Ectoderme*:** é o nosso tecido de relação, a nossa vida em grupo, a vida de relacionamentos. A temática principal são os conflitos de contato e separação - um dos conflitos mais arcaicos que temos. 
+			1. A relação com o grupo define quem eu sou dentro do grupo. Me sinto pertencente ou não?
 
-A partir disso, não vemos mais órgão impactado, vemos a origem embriológica de uma estrutura do órgão.
+A partir disso, não vemos mais um órgão impactado, vemos a origem embriológica de uma estrutura do órgão. O que importa não é o órgão, mas os tecidos que o formam. TODOS os órgãos tem mais de um tecido envolvido.
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -38,3 +41,4 @@ A partir disso, não vemos mais órgão impactado, vemos a origem embriológica 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quais são as 5 Leis Biológicas?]]

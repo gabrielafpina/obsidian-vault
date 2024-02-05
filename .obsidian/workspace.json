@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c10dd72a34e01e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo é uma escolha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f06b292382c8d5e0",
             "type": "leaf",
             "state": {
@@ -32,43 +20,19 @@
             }
           },
           {
-            "id": "b249fc8a08dcef8e",
+            "id": "bd0aaba802811b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbca0b26c40b6632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é uma cirurgia para o nosso cérebro?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12fbce9f5a7a50e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toda patologia vem após um estresse, trauma e choque biológico.md",
+                "file": "Quais são as 5 Leis Biológicas?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+                "file": "Quais são as 5 Leis Biológicas?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+                "file": "Quais são as 5 Leis Biológicas?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md"
+                "file": "Quais são as 5 Leis Biológicas?.md"
               }
             }
           },
@@ -260,11 +224,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b249fc8a08dcef8e",
+  "active": "bd0aaba802811b6a",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
-    "O paciente sempre nos procura frente a um conflito de impotência.md",
+    "Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
+    "O paciente sempre nos procura frente a um conflito de impotência.md",
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
     "2. Literature Notes/Topics/O que é uma cirurgia para o nosso cérebro?.md",
     "Como criar megaprompts?.md",
@@ -287,7 +252,6 @@
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O que a gestação tem a ver com os seus projetos?.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
