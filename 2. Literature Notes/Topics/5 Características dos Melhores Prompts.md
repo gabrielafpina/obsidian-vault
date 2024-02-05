@@ -66,3 +66,4 @@ Então no prompt acima, nós pedimos brainstorm de ideias. Mas não queremos um 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como criar megaprompts?]]
