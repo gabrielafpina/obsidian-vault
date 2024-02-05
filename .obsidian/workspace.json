@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "c559ff64ec4e726e",
+            "id": "20d7e425cab27b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como compreender o PERCATO?.md",
+                "file": "Como criar um prompt progressivo?.md",
                 "mode": "source",
                 "source": false
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como compreender o PERCATO?.md",
+                "file": "Como criar um prompt progressivo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como compreender o PERCATO?.md",
+                "file": "Como criar um prompt progressivo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como compreender o PERCATO?.md"
+                "file": "Como criar um prompt progressivo?.md"
               }
             }
           },
@@ -331,9 +331,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c559ff64ec4e726e",
+  "active": "20d7e425cab27b77",
   "lastOpenFiles": [
     "Como criar megaprompts?.md",
+    "Como criar um prompt progressivo?.md",
     "Como compreender o PERCATO?.md",
     "2. Literature Notes/Topics/5 Características dos Melhores Prompts.md",
     "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
@@ -358,7 +359,6 @@
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
-    "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

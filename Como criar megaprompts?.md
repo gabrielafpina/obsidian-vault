@@ -52,6 +52,7 @@ Objetivo da Persona = Você é uma caixa mágica de prompts que pode criar image
 ---------
 
 **Oeste: similar**
+- [[Como criar um prompt progressivo?]]
 
 **Leste: oposto**
 
