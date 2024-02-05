@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cadfddd4bd2af60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lei férrea ou Lei do DHS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são as 5 Leis Biológicas?.md",
+                "file": "Lei férrea ou Lei do DHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são as 5 Leis Biológicas?.md",
+                "file": "Lei férrea ou Lei do DHS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são as 5 Leis Biológicas?.md"
+                "file": "Lei férrea ou Lei do DHS.md"
               }
             }
           },
@@ -224,10 +236,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd0aaba802811b6a",
+  "active": "7cadfddd4bd2af60",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
     "Quais são as 5 Leis Biológicas?.md",
+    "Lei férrea ou Lei do DHS.md",
+    "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
     "O paciente sempre nos procura frente a um conflito de impotência.md",
     "2. Literature Notes/Topics/Todo sintoma geralmente está tentando denunciar algo ou alguém excluído.md",
@@ -251,7 +264,6 @@
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "2. Literature Notes/Topics/O que a gestação tem a ver com os seus projetos?.md",
-    "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
