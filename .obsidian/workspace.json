@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21710d321572a475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42cfe1194577b898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sintoma",
+                "query": "rejeit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um DHS?.md",
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um DHS?.md",
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um DHS?.md"
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md"
               }
             }
           },
@@ -247,10 +270,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79b4b26979db9f2b",
+  "active": "42cfe1194577b898",
   "lastOpenFiles": [
-    "Lei férrea ou Lei do DHS.md",
+    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
+    "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "O que é um DHS?.md",
+    "Lei férrea ou Lei do DHS.md",
     "Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Quais são as bases das 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Se você quer compreender um sintoma, busque compreender qual é a função daquela estrutura no corpo.md",
@@ -273,8 +298,6 @@
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "3. Me, Myself and I/Testes/MBTI.md",
-    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-    "2. Literature Notes/Topics/Tudo é uma escolha.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

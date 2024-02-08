@@ -14,6 +14,10 @@ Trazer isso em perspectiva ajuda o paciente a se descongelar desse lugar de feri
 
 Nenhum pai ou mãe rejeita a criança, por mais conflituosa que seja a relação. O que existe ali é um medo, uma quebra de vínculo, um conflito de separação, uma criança ferida que ainda tem medo de se tornar pai/mãe.
 
+Na natureza, o animal não se sente rejeitado. Mas, se ele tem uma desconexão com a fêmea ou com o macho, ele **perde a referência**.
+
+[[O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
