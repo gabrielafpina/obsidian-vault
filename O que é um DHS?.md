@@ -11,7 +11,7 @@ Toda doença começa por um DHS - choque biológico. DHS = síndrome Dirk Hamer 
 - É vivenciado de forma imprevisível, inesperada. 
 - É vivido no isolamento (solidão)
 - O paciente fica sem reação - totalmente impotente 
-	- **MIS**: Medo, Impotência, Solidão
+	- **MIS**: Medo, Impotência (é o próprio congelamento) , Solidão
 		- Você vive uma situação com muito medo, se sente totalmente impotente (eu não tenho recursos para lidar com isso), e você vive na solidão.
 			- Quando começamos a sair da solidão (falar sobre o que sentimos), aos poucos, vamos parando de nos sentir impotentes, porque vamos encontrando recursos. E quando isso acontece, o medo começa a diminuir e é quando o paciente começa a fazer os movimentos de vida na vida dele.
 
@@ -27,6 +27,8 @@ O choque biológico gera uma forma de interpretação, de viver, de ver, que ger
 Os nossos traumas moldam a nossa identidade, quem somos. E o trauma de hoje não é inédito. Ele já aconteceu em algum momento da história daquela pessoa, ou do transgeracional. Então, a pessoa revive o trauma para trazer a tona um conflito não resolvido. Ex: se você traz na sua história um conflito de separação muito intenso, aquilo já está marcado. Então, na sua vida, você sempre vai ser levado a lidar com temáticas de separação, para ressignificar sempre um pouco mais aquele aspecto. E ao longo do tempo, vai ficando mais fácil. [[O cérebro só reconhece aquilo que ele já conhece]]. Só que o condicionamento também pode ser ressignificado, dependendo da percepção que você adquire. [[Percepção é o que controla a sua biologia]].
 
 Tudo isso acontece fora do campo de consciência. Você sabe *o que* vive, mas não sabe *como* vive.
+
+[[O DHS gera uma imagem em pausa]]
 
 ###### **COMO:**
 
