@@ -21,7 +21,9 @@ Os animais também sentem isso na natureza, só que a diferença é que eles dei
 
 O choque biológico gera uma forma de interpretação, de viver, de ver, que gera interpretações psicológicas, mas a raiz é biologica.
 
-Se você quer entender o que um paciente viveu, tenta perceber como um animal re
+>[!important] Se você quer entender o que um paciente viveu, tenta perceber como um animal reagiria à mesma situação.
+
+Os nossos traumas moldam a nossa identidade, quem somos. E o trauma de hoje não é inédito. Ele já aconteceu em algum momento da história daquela pessoa, ou do transgeracional.
 
 ###### **COMO:**
 
