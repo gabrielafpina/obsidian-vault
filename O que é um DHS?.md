@@ -13,6 +13,11 @@ Toda doença começa por um DHS - choque biológico. DHS = síndrome Dirk Hamer 
 - O paciente fica sem reação - totalmente impotente 
 	- **MIS**: Medo, Impotência, Solidão
 		- Você vive uma situação com muito medo, se sente totalmente impotente (eu não tenho recursos para lidar com isso), e você vive na solidão.
+			- Quando começamos a sair da solidão (falar sobre o que sentimos), aos poucos, vamos parando de nos sentir impotentes, porque vamos encontrando recursos. E quando isso acontece, o medo começa a diminuir e é quando o paciente começa a fazer os movimentos de vida na vida dele.
+
+É a inibição da ação. 'Eu não tenho, nem como lutar com o predador, nem como fugir dele'. A pessoa fica congelada. Esse é o próprio significado do trauma.
+
+Os animais também sentem isso na natureza, só que a diferença é que eles deixam isso para lá e vivem suas vidas. Os seres humanos tendem a não fazer isso. A nossa capacidade mental faz com que a gente reviva o conflito.
 
 ###### **COMO:**
 
