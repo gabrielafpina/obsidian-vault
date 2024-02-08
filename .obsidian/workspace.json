@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "8c3e83212df269ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "529ad5f905298003",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setên",
+                "query": "gemelar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md"
+                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md"
               }
             }
           },
@@ -354,8 +366,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9a8e25d6a071e48",
+  "active": "8c3e83212df269ab",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
@@ -381,7 +394,6 @@
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
-    "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
