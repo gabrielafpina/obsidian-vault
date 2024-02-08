@@ -23,7 +23,7 @@ O choque biológico gera uma forma de interpretação, de viver, de ver, que ger
 
 >[!important] Se você quer entender o que um paciente viveu, tenta perceber como um animal reagiria à mesma situação.
 
-Os nossos traumas moldam a nossa identidade, quem somos. E o trauma de hoje não é inédito. Ele já aconteceu em algum momento da história daquela pessoa, ou do transgeracional.
+Os nossos traumas moldam a nossa identidade, quem somos. E o trauma de hoje não é inédito. Ele já aconteceu em algum momento da história daquela pessoa, ou do transgeracional. Então, a pessoa revive o trauma para trazer a tona um conflito não resolvido. Ex: se você traz na sua história um conflito de separação muito intenso, aquilo já está marcado. Então, na sua vida, você sempre vai ser levado a lidar com temáticas de separação, para ressignificar sempre um pouco mais aquele aspecto. E ao longo do tempo, vai ficando mais fácil. [[O cérebro só reconhece aquilo que ele já conhece]]. Só que o condicionamento também pode ser ressignificado,
 
 ###### **COMO:**
 
