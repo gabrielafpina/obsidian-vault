@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "c9a8e25d6a071e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "529ad5f905298003",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md"
+                "file": "2. Literature Notes/Topics/O que são os setênios?.md"
               }
             }
           },
@@ -319,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,10 +354,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "c9a8e25d6a071e48",
   "lastOpenFiles": [
-    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
+    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
