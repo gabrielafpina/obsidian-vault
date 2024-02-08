@@ -19,6 +19,10 @@ Toda doença começa por um DHS - choque biológico. DHS = síndrome Dirk Hamer 
 
 Os animais também sentem isso na natureza, só que a diferença é que eles deixam isso para lá e vivem suas vidas. Os seres humanos tendem a não fazer isso. A nossa capacidade mental faz com que a gente reviva o conflito.
 
+O choque biológico gera uma forma de interpretação, de viver, de ver, que gera interpretações psicológicas, mas a raiz é biologica.
+
+Se você quer entender o que um paciente viveu, tenta perceber como um animal re
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
