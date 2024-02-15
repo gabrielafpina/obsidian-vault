@@ -55,6 +55,10 @@ A fase oral experiencia os 5 sentidos. Portanto, o cheiro ou o perfume da mãe, 
 
 Quando os olhos começam a fixar-se de maneira definida e acompanhar os movimentos da mãe durante vários segundos, é chegado o momento: seus olhos estão começando a compartilhar com a boca o relacionamento mãe-filho, estabelecendo-se a primeira relação afetiva da vida da criança.
 
+Seja com a boca ou com a mão, a criança realiza o seu grande desejo: explorar o mundo e experimentar o sabor da vida extrauterina.
+
+[[A primeira separação que sofremos é o nascimento]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
