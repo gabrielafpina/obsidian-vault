@@ -47,6 +47,9 @@ Além da boca, é importante considerar outros órgãos que fazem parte da fase 
 	- *Cinestésicas:* ajudam no equilíbrio corporal
 	- *Introspectivas:* provêm dos órgãos internos, como a respiração, por exmplo
 	- *Proprioceptivas:* derivam das camadas mais profundas da pele (músculos, tendões, articulações, etc).
+	- O bebê não consegue identificar a origem dos diferentes estímulos e também não consegue distinguir de onde os mais gratificantes vem. Daí resulta que tudo o que ele vier a tocar, automaticamente irá levar à boca pensando ser alimento, por exemplo, um dos mais excitantes objetos, preferidos do bebê.
+
+Ao nascer, a criança está dotada da função instintiva primitiva ([[ID]]), de sugar objetos, onde predomina um período de relações afetivas ambivalentes (amor e ódio) pelos objetos. É uma pulsão primitiva. Somos ainda dependentes de prazeres primitivos dentro de nós, por conta do ID.
 
 ###### **COMO:**
 
