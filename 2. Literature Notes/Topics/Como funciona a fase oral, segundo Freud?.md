@@ -51,6 +51,10 @@ Além da boca, é importante considerar outros órgãos que fazem parte da fase 
 
 Ao nascer, a criança está dotada da função instintiva primitiva ([[ID]]), de sugar objetos, onde predomina um período de relações afetivas ambivalentes (amor e ódio) pelos objetos. É uma pulsão primitiva. Somos ainda dependentes de prazeres primitivos dentro de nós, por conta do ID.
 
+A fase oral experiencia os 5 sentidos. Portanto, o cheiro ou o perfume da mãe, o som de sua voz, o gosto e a textura da sua pele, e a visão de sua imagem se traduzem num grande sentimento de bem-estar e segurança.
+
+Quando os olhos começam a fixar-se de maneira definida e acompanhar os movimentos da mãe durante vários segundos, é chegado o momento: seus olhos estão começando a compartilhar com a boca o relacionamento mãe-filho, estabelecendo-se a primeira relação afetiva da vida da criança.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
