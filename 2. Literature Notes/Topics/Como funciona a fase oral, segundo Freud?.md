@@ -31,7 +31,12 @@ Os primeiros momentos de vida extrauterina do bebê promove importantes impactos
 
 A relação com a mãe é *construída gradativamente* através das experiências vividas desde os primeiros contatos.
 
-Temos aqui, a dependência primária: precisamos literalmente da mãe para sobreviver física e emocionalmente. E quem vai promover ou ajudar a romper com esse egocentrismo é a própria mãe, com a ajuda significativa do pai. [[Laura Gutman]] afirma que, na verdade, o pai é o responsável por fazer essa separação, por volta dos 3 anos de idade.
+Temos aqui, a dependência primária: precisamos literalmente da mãe para sobreviver física e emocionalmente. E quem vai promover ou ajudar a romper com esse egocentrismo é a própria mãe, com a ajuda significativa do pai. [[Laura Gutman]] afirma que, na verdade, o pai é o responsável por fazer essa separação, por volta dos 3 anos de idade. [[Tudo para o cérebro é uma noção de sobrevivência]].
+
+A fonte vital do bebê vem de sensações de prazer e desprazer vindas da mãe. [[Princípio do Prazer e Princípio da Realidade]].
+
+As fases do desenvolvimento psicossexual são organizações da libido, concentrações dessa energia em algum ponto específico do corpo em uma determinada etapa da vida da criança.
+	A primeira etapa da organização da libido se apresenta como fase oral, sendo que a boca é a zona afetiva mais importante nesse estágio, com as suas gratificações pu
 
 
 ###### **COMO:**

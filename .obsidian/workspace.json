@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "206cb9470ec77d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaf5bfcbb47b9aef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A melhor maneira de você cuidar da sua família, é cuidando de você.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c716dc0478789c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83751f4b31846d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3df22ddc76c85950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efe8cc38f3a2b046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9a8e25d6a071e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os setênios?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3e83212df269ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23d26f25e5b21fd4",
             "type": "leaf",
             "state": {
@@ -114,81 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "529ad5f905298003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Terapias/Leis Biológicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8586169dba41df60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84935a008153d3c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83604fada853a0a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não chegamos a qualquer hora, em qualquer lugar, de qualquer maneira no seio de uma família.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68cdccabffb5450a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e2f66cc4b35fef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fase oral",
+                "query": "seio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -379,15 +210,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23d26f25e5b21fd4",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "Laura Gutman.md",
-    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
-    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
+    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
+    "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
+    "Laura Gutman.md",
+    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Como funciona a 'escolha' do sexo da criança?.md",
@@ -406,7 +238,6 @@
     "2. Literature Notes/Topics/Quais são alguns programantes para o autismo?.md",
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
