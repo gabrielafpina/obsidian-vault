@@ -40,7 +40,13 @@ As fases do desenvolvimento psicossexual são organizações da libido, concentr
 	Essa fase também visa a 'interiorizaçao/introjeção' de objetos gratificantes, o leite materno e os alimentos de uma forma em geral.
 
 Além da boca, é importante considerar outros órgãos que fazem parte da fase oral:
-- Sistema digestivo, trato gastrointestinal: sobretudo a boca, 
+- **Sistema digestivo, trato gastrointestinal**: sobretudo a boca, faringe, esôfago, estômago
+- **Órgãos da formação da linguagem**: onde o bebê começa o seu treinamento e prática de qualquer tipo de 'fala' possível.
+- **A pele:** que propicia as funções de tato
+- **As sensações:** 
+	- *Cinestésicas:* ajudam no equilíbrio corporal
+	- *Introspectivas:* provêm dos órgãos internos, como a respiração, por exmplo
+	- *Proprioceptivas:* derivam das camadas mais profundas da pele (músculos, tendões, articulações, etc).
 
 ###### **COMO:**
 
