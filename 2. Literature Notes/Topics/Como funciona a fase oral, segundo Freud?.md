@@ -36,8 +36,11 @@ Temos aqui, a dependência primária: precisamos literalmente da mãe para sobre
 A fonte vital do bebê vem de sensações de prazer e desprazer vindas da mãe. [[Princípio do Prazer e Princípio da Realidade]].
 
 As fases do desenvolvimento psicossexual são organizações da libido, concentrações dessa energia em algum ponto específico do corpo em uma determinada etapa da vida da criança.
-	A primeira etapa da organização da libido se apresenta como fase oral, sendo que a boca é a zona afetiva mais importante nesse estágio, com as suas gratificações pu
+	A primeira etapa da organização da libido se apresenta como fase oral, sendo que a boca é a zona afetiva mais importante nesse estágio, com as suas gratificações pulsionais, como por exemplo, a amamentação.
+	Essa fase também visa a 'interiorizaçao/introjeção' de objetos gratificantes, o leite materno e os alimentos de uma forma em geral.
 
+Além da boca, é importante considerar outros órgãos que fazem parte da fase oral:
+- Sistema digestivo, trato gastrointestinal: sobretudo a boca, 
 
 ###### **COMO:**
 
