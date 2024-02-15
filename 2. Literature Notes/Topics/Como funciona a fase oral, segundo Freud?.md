@@ -31,6 +31,8 @@ Os primeiros momentos de vida extrauterina do bebê promove importantes impactos
 
 A relação com a mãe é *construída gradativamente* através das experiências vividas desde os primeiros contatos.
 
+Temos aqui, a dependência primária: precisamos literalmente da mãe para sobreviver física e emocionalmente. E quem vai promover ou ajudar a romper com esse egocentrismo é a própria mãe, com a ajuda significativa do pai. [[Laura Gutman]] afirma que, na verdade, o pai é o responsável por fazer essa separação, por volta dos 3 anos de idade.
+
 
 ###### **COMO:**
 

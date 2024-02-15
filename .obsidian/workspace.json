@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "23d26f25e5b21fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "529ad5f905298003",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gemelar",
+                "query": "fase oral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -226,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -287,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar?.md"
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md"
               }
             }
           },
@@ -366,8 +379,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c3e83212df269ab",
+  "active": "23d26f25e5b21fd4",
   "lastOpenFiles": [
+    "Laura Gutman.md",
+    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
+    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
@@ -382,7 +398,6 @@
     "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
     "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
-    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
     "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "O DHS gera uma imagem em pausa.md",
@@ -392,8 +407,6 @@
     "2. Literature Notes/Topics/Você é o que o seu cérebro de feto foi.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "2. Literature Notes/Topics/Transposto biológico é quando o bebê nasce com uma má-formação.md",
-    "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
