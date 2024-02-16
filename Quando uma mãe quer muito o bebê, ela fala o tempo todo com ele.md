@@ -1,10 +1,10 @@
-**TAGS:** #nascimento 
+**TAGS:**
 
 **FONTE:** [[Eleanor Luzes]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Essas crianças tendem a ter para o resto da vida uma atitude de curto circuito, em termos de agressividade.
+A partir do 5o mês, a criança ouve tudo perfeitamente. Então, quando a mãe fala com ela, ela está sendo estimulada a falar e a pensar.
 
 ###### **COMO:**
 
@@ -19,6 +19,5 @@ Essas crianças tendem a ter para o resto da vida uma atitude de curto circuito,
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[O útero é a primeira grande escola da vida]]
 
 **Sul: para onde vai**

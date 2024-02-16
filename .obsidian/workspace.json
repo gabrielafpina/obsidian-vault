@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "90e2b3baa84564a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O útero é a primeira grande escola da vida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d36ef6dfdbaae962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65e01d2b96252852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e33a398ced3b2ef",
             "type": "leaf",
             "state": {
@@ -92,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -111,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aborto ",
+                "query": "útero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A depressão puerperal gera uma lesão neurológica na criança.md"
+                "file": "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md"
               }
             }
           },
@@ -282,10 +318,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54eb24de521cab94",
+  "active": "d36ef6dfdbaae962",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
+    "O útero é a primeira grande escola da vida.md",
+    "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
+    "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "A depressão puerperal gera uma lesão neurológica na criança.md",
+    "2. Literature Notes/Topics/Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
     "O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
@@ -307,9 +346,6 @@
     "2. Literature Notes/Topics/Temos dificuldade de se vincular com as pessoas, porque temos medo da separação.md",
     "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/O que acontece quando os 3 primeiros anos não foram bem vivenciados?.md",
-    "2. Literature Notes/Topics/Quais são os impactos de uma cesariana na vida de uma pessoa?.md",
-    "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
-    "2. Literature Notes/Topics/A dificuldade de colocar em prática projetos, podem ser memórias de gestações difíceis.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
