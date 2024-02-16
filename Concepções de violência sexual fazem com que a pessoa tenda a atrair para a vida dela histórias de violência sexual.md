@@ -6,7 +6,7 @@
 ###### **DEFINIÇÃO:**
 [[O cérebro só reconhece aquilo que ele já conhece]].
 
-Carregam, tambp
+Carregam, também, um profundo ressentimento. Algumas pessoas vistas como vítima [[Existem 4 lugares proibidos]], o que não se observa, é que por trás do vitimismo, existe um profundo ressentimento e a concepção dela foi sob violência.
 
 ###### **COMO:**
 
