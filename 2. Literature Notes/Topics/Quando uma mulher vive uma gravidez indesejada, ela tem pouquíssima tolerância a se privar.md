@@ -24,3 +24,4 @@ E isso tem consequências durante a gravidez, aumentando a faixa de má-formaç�
 - [[A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal]]
 
 **Sul: para onde vai**
+- [[Depois da domesticação, tentamos ser bons o suficiente para todo mundo, mas não somos bons o bastante para nós mesmos, porque nunca conseguimos estar à altura de nossa imagem de perfeição]]ãneo
