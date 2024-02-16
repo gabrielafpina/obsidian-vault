@@ -25,3 +25,4 @@ E isso tem consequências durante a gravidez, aumentando a faixa de má-formaç�
 
 **Sul: para onde vai**
 - [[O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição]]
+- [[A depressão puerperal gera uma lesão neurológica na criança]]
