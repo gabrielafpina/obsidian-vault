@@ -6,13 +6,19 @@
 ###### **DEFINIÇÃO:** 
 Para Hamer, o conflito é o 'impasse psíquico onde nos mergulha o DHS. Estou sem saída!'.
 
-Ele difere do conflito psicológico por uma palavra: **SOBREVIVÊNCIA**.
+Ele difere do conflito psicológico por uma palavra: **SOBREVIVÊNCIA**. [[Tudo para o cérebro é uma noção de sobrevivência]].
 
-Ou seja, o conflito biológico é aquele onde  sempre estará em jogo as minhas noções de sobrevivência. Na natureza, não existe o senso de valor, estética, julgamento ([[Na biologia não tem julgamento]]), inveja, frustração, auto estima, entre várias outras palavras psicológicas e humanas.
+Ou seja, o conflito biológico é aquele onde  sempre estará em jogo as minhas noções de sobrevivência. Na natureza, não existe o senso de valor, estética, julgamento ([[Na biologia não tem julgamento]]), inveja ([[A percepção é sempre pessoal]]), frustração, auto estima, entre várias outras palavras psicológicas e humanas.
 
-O fato de bebês já apresentarem esse tipo de conflito, co
+O fato de bebês já apresentarem esse tipo de conflito, confirma essa visão, dado que o bebê não tem questões psicológicas o suficiente para manifestar alterações. Isso está em um nível mais arcaico
 
-###### **COMO:**
+###### **Na natureza, existe:**
+- Perda de referência
+- Carência
+- Impotência
+- Separação
+- Perda de proteção
+- Ataque à integridade (feridas)
 
 ###### **PENSADORES:**
 

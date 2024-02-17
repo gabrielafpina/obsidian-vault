@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "083c413ed1099253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A percepção é sempre pessoal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "badc73e74d723318",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um conflito biológico?.md",
+                "file": "A percepção é sempre pessoal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um conflito biológico?.md",
+                "file": "A percepção é sempre pessoal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um conflito biológico?.md"
+                "file": "A percepção é sempre pessoal.md"
               }
             }
           },
@@ -342,10 +354,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f745bf141f938fa8",
+  "active": "083c413ed1099253",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "O que é um conflito biológico?.md",
+    "A percepção é sempre pessoal.md",
+    "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/O que é um DHS?.md",
     "Antes do amor vem a sobrevivência.md",
@@ -369,7 +382,6 @@
     "2. Literature Notes/Topics/O que são os setênios?.md",
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
-    "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
