@@ -16,7 +16,7 @@ Os dois sexos produzem testosterona e estrogênio em quantidades diferentes:
 	- [[Como funciona um homem destro?]]
 - Os homens canhotos e as mulheres destras possuem um nível mais alto de estrogênio que os níveis de testosterona - *energia mais feminina*.
 	- [[Como funciona uma mulher destra?]]
-	- Se nasce um homem mais feminino, nasce da necessidade do clã, de ter  homens mais perto do ninho. Por isso, é muito comum encontrar homens canhotos que gostam de cozinhar, ficar em casa, ficar com os filhos, que não se sente o macho dominante. Pode vir de uma família onde os homens tinham mais dificuldade de cumprir o papel do protetor - homens ausentes, alcóolatras, violentos, iam para a guerra e não voltavam.
+	- [[Como funciona o homem canhoto?]] 
 
 A lateralidade não é definida por nós, ela é uma necessidade que o nosso clã tem da função biológica que viemos desempenhar. E pode ser que nossos traumas e DHS ([[[O que é um DHS?]]]) nos distanciem disso e por uma compensação eu acabe não manifestando a minha energia de base. Ex: mulheres destras muito masculinas, que precisavam ser muito fortes, não podiam confiar no masculino, eram abandonadas, etc.
 
@@ -54,3 +54,4 @@ Podemos raciocinar da seguinte forma:
 
 **Sul: para onde vai**
 - [[Quais são alguns motivos pelos quais uma mulher sai do feminino?]]
+- [[Porque a mulher faz o xixi sentada e o homem em pé?]]
