@@ -12,7 +12,7 @@ A lateralidade é a nossa auto expressão e ela não tem a ver com a mão que a 
 
 Os dois sexos produzem testosterona e estrogênio em quantidades diferentes:
 - Os homens destros e as mulheres canhotas possuem um nível de testosterona um pouco mais alto que os níveis de estrogênio - *energia mais masculina*.
-	- Se nasce uma mulher canhota com energia mais masculina, é porque precisavam de mulheres que assumissem mais responsabilidades, que não se submetiam tanto. Historicamente, muitas mulheres vivam à mercê dos homens e não tinham como se sustentar e se desenvolver, aguentando violências. As mulheres canhotas são geralmente muito fortes e tendem a ser controladoras demais - e é importante romper esse padrão. É muito comum mulheres canhotas que vão adorar ser mãe, mas que não vai abrir de forma alguma mao de seu trabalho, porque a vida fora do ninho é muito importante.
+	- [[Como funciona uma mulher canhota?]]
 	- [[Como funciona um homem destro?]]
 - Os homens canhotos e as mulheres destras possuem um nível mais alto de estrogênio que os níveis de testosterona - *energia mais feminina*.
 	- [[Como funciona uma mulher destra?]]
@@ -38,6 +38,7 @@ Podemos raciocinar da seguinte forma:
 - *Energia feminina* - para dentro, contração, esquiva, evitar, fugir, sedução, observar, subjetividade.
 	- De maneira geral, a energia feminina é a energia do ninho, que chamamos de território feminino. É onde a fêmea cuida do filhote. E a função do macho é de proteção, que é o território masculino.
 
+A forma da lateralidade 
 ###### **COMO:**
 
 ###### **PENSADORES:**
