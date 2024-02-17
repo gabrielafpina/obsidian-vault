@@ -52,8 +52,9 @@ O cérebro vai administrar isso até o desfecho do conflito, independente da nos
 Certas situações criarão sempre a mesma resposta durante anos; outras, meses, horas ou minutos. Ou seja, dependendo de como o seu cérebro está funcionando, você pode funcionar mais de um lado do hemicórtex, ou do outro. Você pode variar, dependendo do estímulo (a forma como o seu cérebro percebe aquilo).
 
 Nos destros dos dois sexos:
-- Lado E do corpo - relação mãe-filho e ninho menor (tudo aquilo que você cuida como filho)
+- Lado E do corpo - relação mãe-filho e ninho menor (tudo aquilo que você cuida como uma mãe)
 - Lado D do corpo - relacionado ao pai, parceiro, irmãos (todo mundo que não pertence ao tópico anterior é território alargado). Esse é o ninho maior, todo mundo que não é o ninho menor.
+	- Quando estamos falando de questões relacionadas a trabalho, geralmente estão relacionadas ao ninho maior. A não ser, geralmente, quando você tem uma empresa que você criou, ou um escritório que você cuida como se fosse a sua casa - ai você vai ter que entender como o paciente está vivendo aquilo.
 
 Nos canhotos é o inverso. A temática de ninho maior e menor nos ajuda a compreender de onde vem esse conflito.
 
@@ -78,3 +79,4 @@ Nos canhotos é o inverso. A temática de ninho maior e menor nos ajuda a compre
 - [[Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão]]
 - [[Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico]]
 - [[O que é a dor no joelho?]]
+- [[O que são os trilhos do conflito?]]

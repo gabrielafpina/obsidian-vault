@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0b19bca1ffd8c758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que são os trilhos do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "48f1ed9b377ffc37",
             "type": "leaf",
             "state": {
@@ -115,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "O que são os trilhos do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "O que são os trilhos do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
+                "file": "O que são os trilhos do conflito?.md"
               }
             }
           },
@@ -305,10 +318,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c4c47ff3389ba19",
+  "active": "0b19bca1ffd8c758",
   "lastOpenFiles": [
-    "O que é a dor no joelho?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "O que são os trilhos do conflito?.md",
+    "O que é a dor no joelho?.md",
     "O que são relais?.md",
     "Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
@@ -334,7 +348,6 @@
     "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
     "O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/O cérebro só reconhece aquilo que ele já conhece.md",
-    "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
