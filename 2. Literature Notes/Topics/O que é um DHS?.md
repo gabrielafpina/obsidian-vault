@@ -28,7 +28,7 @@ Os nossos traumas moldam a nossa identidade, quem somos. E o trauma de hoje não
 
 Tudo isso acontece fora do campo de consciência. Você sabe *que* vive, mas não sabe *como* vive isso.
 
-[[O DHS gera uma imagem em pausa]]
+[[O DHS gera uma imagem em pausa]]. Uma pessoa que vive um DHS tem uma sensação de congelamento, petrificação, por isso, é função do terapeuta trazer uma nova perspectiva para ele e muni-lo de recursos para lidar com essa situação, para sair da sensação de impotência. [[Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente]]. [[O paciente sempre nos procura frente a um conflito de impotência]].
 
 ###### **COMO:**
 

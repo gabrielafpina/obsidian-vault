@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O útero é a primeira grande escola da vida.md",
+                "file": "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
+                "file": "2. Literature Notes/Topics/Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
+                "file": "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,19 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é um DHS?.md",
+                "file": "2. Literature Notes/Topics/O que é um DHS?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa7e680312f93b6f",
+            "id": "b94d142c797cb1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O DHS gera uma imagem em pausa.md",
+                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a tanatose?.md",
+                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
+                "file": "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O DHS gera uma imagem em pausa.md",
+                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O DHS gera uma imagem em pausa.md",
+                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O DHS gera uma imagem em pausa.md"
+                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md"
               }
             }
           },
@@ -319,22 +319,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "b94d142c797cb1df",
   "lastOpenFiles": [
-    "O que é um DHS?.md",
-    "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
-    "O que é a tanatose?.md",
+    "2. Literature Notes/Topics/O que é um DHS?.md",
+    "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
+    "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
+    "2. Literature Notes/Topics/O que é a tanatose?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
-    "Lei férrea ou Lei do DHS.md",
-    "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
+    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+    "2. Literature Notes/Topics/Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
     "2. Literature Notes/Topics/A vida imita o nascimento.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
-    "O útero é a primeira grande escola da vida.md",
-    "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
+    "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
+    "2. Literature Notes/Topics/Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "2. Literature Notes/Topics/Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
-    "O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
+    "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/A primeira separação que sofremos é o nascimento.md",
@@ -344,9 +345,8 @@
     "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
-    "Laura Gutman.md",
+    "2. Literature Notes/People/Laura Gutman.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
-    "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
