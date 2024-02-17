@@ -15,6 +15,8 @@ Invariante biológico é esse esquema abaixo. Invariante = não tem variação.
 
 Na imensa maioria das vezes, o paciente chega com uma dificuldade, um sintoma (órgãos). A fisiologia dele pode não estar funcionando muito bem. Conseguimos compreender rapidamente o sintoma, porque cada um deles tem uma percepção específica. Assim, para que aquela pessoa tenha um sintoma X, o que ela está percebendo e vivendo da vida dela, é uma percepção X muito precisa.
 
+Quando vivemos um DHS [[Lei férrea ou Lei do DHS]], ele está passando por um filtro da nossa percepção ([[Percepção é o que controla a sua biologia]]). E isso será administrado inconscientemente. Vamos saber como estamos vivendo aquilo a partir da maneira como manifestamos aquilo, seja através da nossa fisiologia ou comportamento. É a maneira pela qual estamos lidando com essa informação.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -28,5 +30,6 @@ Na imensa maioria das vezes, o paciente chega com uma dificuldade, um sintoma (�
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo para o cérebro é uma noção de sobrevivência]]
 
 **Sul: para onde vai**
