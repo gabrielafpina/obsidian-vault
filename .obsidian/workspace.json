@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b1b238f900e45fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teste do Aplauso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "Teste do Aplauso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "Teste do Aplauso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
+                "file": "Teste do Aplauso.md"
               }
             }
           },
@@ -307,10 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c4c47ff3389ba19",
+  "active": "2b1b238f900e45fc",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "Teste do Aplauso.md",
+    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
     "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
@@ -337,7 +350,6 @@
     "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "2. Literature Notes/Topics/O que é um DHS?.md",
     "Antes do amor vem a sobrevivência.md",
-    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
