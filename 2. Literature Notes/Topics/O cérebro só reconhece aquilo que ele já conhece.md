@@ -4,6 +4,9 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+Não vamos atrair nada para a nossa vida que não esteja dentro do nosso repertório, do que é conhecido. 
+
+[[O que é ressignificar?]]
 
 ###### **COMO:**
 

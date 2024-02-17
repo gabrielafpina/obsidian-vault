@@ -35,5 +35,6 @@ Então, resumindo, o invariante biológico funciona da seguinte maneira: você t
 **Norte: ideia/pergunta**
 - [[Tudo para o cérebro é uma noção de sobrevivência]]
 - [[A percepção é sempre pessoal]]
+- [[O cérebro só reconhece aquilo que ele já conhece]]
 
 **Sul: para onde vai**

@@ -12,6 +12,8 @@ O paciente não melhora porque ele não quer. Ele não melhora porque ele não p
 
 O reposicionamento do paciente é quando ele toma uma atitude diferente do que ele tomava anteriormente.
 
+Quando o paciente começa a ver que existe uma inteligência a mais que ele não conhece, ele começa a sair da impotência dele - e quando ele sai da impotência, ele sai do medo e da solidão também. E aí, ele sai do ciclo vicioso e começa a ir para um ciclo virtuoso, parando de ver problemas e começando a ver soluções.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
