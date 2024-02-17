@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lateralid",
+                "query": "5 leis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -162,13 +161,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -229,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md"
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
               }
             }
           },
@@ -308,12 +305,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48f1ed9b377ffc37",
+  "active": "5c4c47ff3389ba19",
   "lastOpenFiles": [
+    "O que são relais?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
     "O que é PAT Hormonal?.md",
-    "O que são relais?.md",
     "Como funciona uma mulher canhota?.md",
     "Como funciona a ectoderme?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
@@ -336,9 +335,7 @@
     "2. Literature Notes/Topics/O cérebro só reconhece aquilo que ele já conhece.md",
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
-    "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
-    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",

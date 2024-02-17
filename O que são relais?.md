@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 São as áreas cerebrais que estão tomando conta de determinado órgão/estrutura do corpo, ou a percepção.
 
+Eles não sofrem interferência da lateralidade.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
