@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "7c71d7a3db6d3901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona um homem destro?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a7361d373ae04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é PAT Hormonal?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b1b238f900e45fc",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -240,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste do Aplauso Espontâneo.md",
+                "file": "O que é PAT Hormonal?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste do Aplauso Espontâneo.md",
+                "file": "O que é PAT Hormonal?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste do Aplauso Espontâneo.md"
+                "file": "O que é PAT Hormonal?.md"
               }
             }
           },
@@ -319,8 +343,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b1b238f900e45fc",
+  "active": "40a7361d373ae04b",
   "lastOpenFiles": [
+    "Como funciona um homem destro?.md",
+    "O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "Teste do Aplauso Espontâneo.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
@@ -348,8 +374,6 @@
     "Para que a natureza evolua, é preciso tempo.md",
     "As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram.md",
     "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
-    "2. Literature Notes/Topics/O que é um DHS?.md",
-    "Antes do amor vem a sobrevivência.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
