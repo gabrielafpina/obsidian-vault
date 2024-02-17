@@ -92,12 +92,36 @@
             }
           },
           {
-            "id": "6665697124f60c46",
+            "id": "70651ad6da5bb8be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Para que a natureza evolua, é preciso tempo.md",
+                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a622f717b8eded88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é um invariante biológico?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e66f810b2e0d323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -183,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rejeita",
+                "query": "5 leis ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Para que a natureza evolua, é preciso tempo.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Para que a natureza evolua, é preciso tempo.md",
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Para que a natureza evolua, é preciso tempo.md"
+                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md"
               }
             }
           },
@@ -354,10 +378,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6665697124f60c46",
+  "active": "6e66f810b2e0d323",
   "lastOpenFiles": [
+    "O que é um invariante biológico?.md",
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "O que é um conflito biológico?.md",
     "Para que a natureza evolua, é preciso tempo.md",
+    "As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram.md",
     "A percepção é sempre pessoal.md",
     "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
@@ -379,9 +406,6 @@
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
     "2. Literature Notes/Topics/A primeira separação que sofremos é o nascimento.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
-    "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
-    "2. Literature Notes/Topics/O que são os setênios?.md",
-    "2. Literature Notes/Topics/Dependendo do signo que você nasce, isso significa alguma coisa.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

@@ -25,3 +25,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é um invariante biológico?]]]

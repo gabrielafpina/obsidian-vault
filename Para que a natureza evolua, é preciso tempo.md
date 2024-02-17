@@ -11,7 +11,7 @@ Dois processos são indispensáveis para isso, a **reprodução** e a **memoriza
 O animal que sobrevive é sempre aquele que tem maior capacidade de **ADAPTAÇÃO**. 
 
 "A essência do ser vivo é uma memória. A preservação física do passado no presente. Ao se reproduzir, as formas de vida conectam o passado ao presente e registram mensagens para o futuro." (Henri Laborit)
-	Assim, o terapeuta auxilia o paciente a se completar com o passado dele, porque
+	Assim, o terapeuta auxilia o paciente a se completar com o passado dele, porque a memória traumática que ele herda, faz com que ele projete isso no futuro. Assim, o futuro fica disponível, em branco, para que ele possa construí-lo como desejar. [[As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram]]
 
 ###### **COMO:**
 
