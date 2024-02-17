@@ -34,3 +34,4 @@ Na natureza, o animal não se sente rejeitado. Mas, se ele tem uma desconexão c
 - [[O que é a Ferida Emocional da Rejeição?]]
 
 **Sul: para onde vai**
+- [[Antes do amor vem a sobrevivência]]

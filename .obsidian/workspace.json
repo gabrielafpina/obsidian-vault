@@ -92,12 +92,48 @@
             }
           },
           {
+            "id": "26577a9b9998a90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b94d142c797cb1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2b76c70c3c6195b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "700b593af708af13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Antes do amor vem a sobrevivência.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "separação",
+                "query": "rejeita",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,8 +210,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md"
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md"
               }
             }
           },
@@ -319,13 +354,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b94d142c797cb1df",
+  "active": "26577a9b9998a90c",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/O que é um DHS?.md",
+    "Antes do amor vem a sobrevivência.md",
+    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
     "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "2. Literature Notes/Topics/O que é a tanatose?.md",
-    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
@@ -346,7 +382,6 @@
     "2. Literature Notes/Topics/O que é a impressão genômica?.md",
     "2. Literature Notes/Topics/Princípio do Prazer e Princípio da Realidade.md",
     "2. Literature Notes/People/Laura Gutman.md",
-    "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
