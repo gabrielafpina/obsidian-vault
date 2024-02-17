@@ -5,7 +5,7 @@
 
 ###### **DEFINIÇÃO:**
 
-Toda doença começa por um DHS - choque biológico. DHS = síndrome Dirk Hamer (filho do Hamer que morreu assassinado).
+Toda doença começa por um DHS - ***choque*** biológico. DHS = síndrome Dirk Hamer (filho do Hamer que morreu assassinado).
 
 - É um choque conflitual brutal, agudo e dramático. 
 - É vivenciado de forma imprevisível, inesperada. 
