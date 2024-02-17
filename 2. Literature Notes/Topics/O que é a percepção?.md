@@ -19,9 +19,7 @@ Esse será o fator determinante de vivermos nossos conflitos dessa ou daquela ma
 A percepção que a pessoa tem, faz com que a fisiologia dela permita, ou não, ela se recuperar. O nível de [[Consciência]] que cada um tem, permite eu dar uma resposta diferente para algo, ou não.
 
 Cada indivíduo terá sua própria percepção em função de: sexo, polaridade (lateralidade), clã, cultura, posição social, educação, transgeracional...
-Ex: pessoa perdeu o emprego, mas pode vivenciar como um conflito de território - 'não fui capaz de manter meu espaço'; ou como um sentimento de impotência e desvalorização - não fiz bem meu trabalho, não sou bom no que faço; ou como um sentimento de injustiça - 'é injusto'; ou como um sentimento de carência - 'como vou sustentar a minha família?'; ou você pode pensar 'graças a Deus fui mandado embora, era o que eu precisava'. O fato pe o mesmo, o que muda é
-
-Desvalorização - não fiz bem meu trabalho, não sou bom no que faço.
+Ex: pessoa perdeu o emprego, mas pode vivenciar como um *conflito de território* - 'não fui capaz de manter meu espaço'; ou como um *sentimento de impotência e desvalorização*- não fiz bem meu trabalho, não sou bom no que faço; ou como um *sentimento de injustiça* - 'é injusto'; ou como um *sentimento de carência* - 'como vou sustentar a minha família?'; ou você pode pensar 'graças a Deus fui mandado embora, era o que eu precisava'. O fato é o mesmo, o que muda é a maneira da pessoa reagir, que é dependente da percepção e, consequentemente, vai demonstrar quais sintomas ela vai vir a ter.
 
 ###### **COMO:**
 

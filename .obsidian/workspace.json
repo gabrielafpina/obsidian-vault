@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ad3a1b1d17c60b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7038034dc100d0f",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recurso",
+                "query": "diarréi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a percepção?.md",
+                "file": "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a percepção?.md",
+                "file": "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a percepção?.md"
+                "file": "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md"
               }
             }
           },
@@ -282,12 +294,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25cedf30342eed7c",
+  "active": "ad3a1b1d17c60b77",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a percepção?.md",
     "O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/O cérebro só reconhece aquilo que ele já conhece.md",
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
-    "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
