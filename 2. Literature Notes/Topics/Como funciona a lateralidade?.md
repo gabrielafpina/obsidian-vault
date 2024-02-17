@@ -20,9 +20,13 @@ A lateralidade tem por efeito permitir o desenvolvimento de uma patologia com a 
 
 >[!important] A lateralidade de base NUNCA muda, mesmo se em algum momento funcionemos no hemicórtex oposto.
 
-A noção de hierarquização permite uma organização social onde, por vezes, precisamos nos submeter.
+Um dos nossos objetivos de vida é, cada vez mais, nos aproximarmos da nossa energia de base. Dependendo do estímulo que tivemos, podemos funcionar de uma maneira diferente.
+
+A noção de *hierarquização* permite uma organização social onde, por vezes, precisamos nos submeter. Se tiverem duas energias dominantes, vão ter conflitos. É necessário ter o balanço das energias.
 
 Podemos raciocinar da seguinte forma: 
+- *Energia masculina* - para fora, expansão, agressividade, performance, ação, conquista, combate, objetividade.
+- *Energia feminina* - para dentro, contração, esquiva, sedução, observar, subjetividade.
 
 ###### **COMO:**
 
