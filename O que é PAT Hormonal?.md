@@ -1,9 +1,10 @@
 **TAGS:**
 
-**FONTE:**
+**FONTE:** [[Rafael Livramento]]
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
+É sair da sua energia de base como um movimento de sobrevivência. [[Tudo para o cérebro é uma noção de sobrevivência]].
 
 ###### **COMO:**
 
