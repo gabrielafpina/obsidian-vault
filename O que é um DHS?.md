@@ -20,7 +20,7 @@ Toda doença começa por um DHS - ***choque*** biológico. DHS = síndrome Dirk 
 
 Os animais também sentem isso na natureza, só que a diferença é que eles deixam isso para lá e vivem suas vidas. Os seres humanos tendem a não fazer isso. A nossa capacidade mental faz com que a gente reviva o conflito.
 
-O choque biológico gera uma forma de interpretação, de viver, de ver, que gera interpretações psicológicas, mas a raiz é biologica.
+O choque biológico gera uma forma de interpretação, de viver, de ver, que gera interpretações psicológicas, [[crenças]], mas a raiz é biologica. A biologia é a visão arcaica do conflito.
 
 >[!important] Se você quer entender o que um paciente viveu, tenta perceber como um animal reagiria à mesma situação.
 
@@ -45,3 +45,4 @@ Tudo isso acontece fora do campo de consciência. Você sabe *o que* vive, mas n
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é a tanatose?]]

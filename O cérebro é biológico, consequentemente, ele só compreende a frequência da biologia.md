@@ -8,6 +8,8 @@ O cérebro reconhece a frequência com relação à coerência do conflito.
 
 Ex: um bebe não tem uma visão psicológica das coisas, mas ele já vive a temática biológica de um conflito que ele já viveu - uma separação, um ataque à integridade ([[Quais os impactos de nascer de fórceps?]])
 
+O conflito biológico é a noção de sobrevivência, é o que impacta a nossa noção de sobrevivência. [[Tudo para o cérebro é uma noção de sobrevivência]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

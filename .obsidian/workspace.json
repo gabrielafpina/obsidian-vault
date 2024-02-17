@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "789d3f6137af802f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a tanatose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e33a398ced3b2ef",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é um DHS?.md",
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é um DHS?.md",
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é um DHS?.md"
+                "file": "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md"
               }
             }
           },
@@ -294,13 +306,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "badc73e74d723318",
+  "active": "1adf8cd90ff592fc",
   "lastOpenFiles": [
+    "O que é um DHS?.md",
+    "O que é a tanatose?.md",
     "O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
     "Lei férrea ou Lei do DHS.md",
-    "O que é um DHS?.md",
     "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
     "A vida imita o nascimento.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
@@ -321,7 +334,6 @@
     "Laura Gutman.md",
     "3. Me, Myself and I/Terapias/Leis Biológicas.md",
     "2. Literature Notes/Topics/Epigenética biológica - Como viemos ao mundo?.md",
-    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
