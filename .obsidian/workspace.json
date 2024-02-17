@@ -116,18 +116,6 @@
             }
           },
           {
-            "id": "6e66f810b2e0d323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "badc73e74d723318",
             "type": "leaf",
             "state": {
@@ -188,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -299,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+                "file": "O que é um invariante biológico?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
+                "file": "O que é um invariante biológico?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Introdução a Leis Biológicas.md"
+                "file": "O que é um invariante biológico?.md"
               }
             }
           },
@@ -378,8 +366,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e66f810b2e0d323",
+  "active": "a622f717b8eded88",
   "lastOpenFiles": [
+    "Captura de Tela 2024-02-17 às 12.56.56.png",
+    "2. Literature Notes/Topics/Introdução a Leis Biológicas.md",
     "O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "O que é um conflito biológico?.md",
@@ -404,8 +394,6 @@
     "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Por trás de cada aborto provocado, existe um medo muito grande em ser mãe.md",
-    "2. Literature Notes/Topics/A primeira separação que sofremos é o nascimento.md",
-    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
