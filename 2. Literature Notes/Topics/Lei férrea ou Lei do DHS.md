@@ -16,8 +16,10 @@ A evolução da doença segue exatamente aquela do conflito. Quanto mais tempo d
 
 [[O que é um DHS?]]
 
-Um pré-requisito para que a gente desenvolva um choque biológico, DHS ou trauma pode ser resumida no MIS - situação que gera muito medo e me gera um sentimento de impotência muito grande, ou seja, eu não tenho os recursos necessários para lidar com aquilo, e eu vivo aquilo na solidão, me sinto sozinho para lidar com isso. É algo que me pega de surpresa, é repentino, não espero que vá acontecer.
-	Por isso é muito importante compartilhar, porque quando fazemos isso, naturalmente vamos saindo do sentim
+Um pré-requisito para que a gente desenvolva um choque biológico, DHS ou trauma pode ser resumida no **MIS** - situação que gera muito *medo* e me gera um sentimento de *impotência* muito grande, ou seja, eu não tenho os recursos necessários para lidar com aquilo, e eu vivo aquilo na *solidão*, me sinto sozinho para lidar com isso. É algo que me pega de surpresa, é repentino, não espero que vá acontecer.
+	Por isso é muito importante compartilhar, porque quando fazemos isso, naturalmente vamos saindo do sentimento de impotência e, consequentemente, vamos equilibrando o medo - que é necessário, mas precisa ser lidado com consciência. O compartilhar faz com que você comece a movimentar a sua vida.
+
+Geralmente, quando o paciente nos procura, ele não vem pelo DHS em si, pela origem traumática, ele vem pelos gatilhos que fazem com que ele traga à tona a memória desse DHS.
 
 ###### **COMO:**
 

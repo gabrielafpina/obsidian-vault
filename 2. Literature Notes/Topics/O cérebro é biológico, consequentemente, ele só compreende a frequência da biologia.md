@@ -23,5 +23,6 @@ O conflito biológico é a noção de sobrevivência, é o que impacta a nossa n
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[O que é um conflito biológico?]]
 
 **Sul: para onde vai**
