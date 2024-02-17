@@ -49,7 +49,7 @@ Em função das situações de estresse pelas quais passamos, vamos reagir de um
 
 O cérebro vai administrar isso até o desfecho do conflito, independente da nossa vontade.
 
-Certas situações criarão sempre a mesma resposta durante anos; outras, meses, horas ou minutos.
+Certas situações criarão sempre a mesma resposta durante anos; outras, meses, horas ou minutos. Ou seja, dependendo de como o seu cérebro está funcionando, você pode funcionar mais de um lado do hemicórtex, ou do outro. Você pode variar, dependendo do estímulo (a forma como o seu cérebro percebe aquilo).
 
 ###### **COMO:**
 

@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -215,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "O que é PAT Hormonal?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "O que é PAT Hormonal?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
+                "file": "O que é PAT Hormonal?.md"
               }
             }
           },
@@ -294,13 +296,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c4c47ff3389ba19",
+  "active": "40a7361d373ae04b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "O que são relais?.md",
     "Como funciona uma mulher canhota?.md",
     "Como funciona a ectoderme?.md",
-    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-    "Captura de Tela 2024-02-17 às 17.08.22.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
     "Como funciona o homem canhoto?.md",
     "Como funciona um homem destro?.md",
     "Porque a mulher faz o xixi sentada e o homem em pé?.md",
@@ -314,7 +316,7 @@
     "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
     "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
     "A percepção é sempre pessoal.md",
-    "Captura de Tela 2024-02-17 às 15.15.59.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
     "O que é um invariante biológico?.md",
@@ -322,9 +324,9 @@
     "2. Literature Notes/Topics/Quando um paciente não consegue fazer diferente, é porque ele não tem os recursos para fazer diferente.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
-    "Captura de Tela 2024-02-17 às 14.50.08.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
-    "Captura de Tela 2024-02-17 às 12.56.56.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
