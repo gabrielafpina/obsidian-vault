@@ -11,7 +11,7 @@ Ex: achar que a sua mãe tem inveja de você. Muitas vezes, a pessoa passa a ser
 A percepção é a bagagem de memórias que trazemos de vida, transgeracional, como foi o parto, gestação, o que seus pais viveram, etc. E isso se manifesta na nossa fisiologia. [[O que é um invariante biológico?]]
 
 ![[Captura de Tela 2024-02-17 às 15.15.59.png]]
-Assim, a pergunta que fica é: quais são os conflitos vivenciados pelo clã? Porque algumas memórias se repetem. [[As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram]].
+Assim, a pergunta que fica é: quais são os conflitos vivenciados pelo clã? Porque algumas memórias se repetem. [[As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram]]. Tudo isso molda a nossa percepção e quem a gente é.
 
 ###### **COMO:**
 
@@ -28,3 +28,4 @@ Assim, a pergunta que fica é: quais são os conflitos vivenciados pelo clã? Po
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A lateralidade é uma das principais formas pelas quais vivenciamos a percepção]]

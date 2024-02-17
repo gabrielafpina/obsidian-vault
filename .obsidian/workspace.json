@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "16ee5228617abe08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a859afa912968c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7038034dc100d0f",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diarréi",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A percepção é sempre pessoal.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A percepção é sempre pessoal.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A percepção é sempre pessoal.md"
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
               }
             }
           },
@@ -294,8 +318,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a28a5d17fda026bc",
+  "active": "2a859afa912968c8",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
+    "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
+    "A percepção é sempre pessoal.md",
     "Captura de Tela 2024-02-17 às 15.15.59.png",
     "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
@@ -307,7 +336,6 @@
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "Captura de Tela 2024-02-17 às 14.50.08.png",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
-    "A percepção é sempre pessoal.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/O que é a dor na nuca?.md",
     "Captura de Tela 2024-02-17 às 12.56.56.png",
@@ -321,9 +349,6 @@
     "2. Literature Notes/Topics/O que é um DHS?.md",
     "Antes do amor vem a sobrevivência.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
-    "2. Literature Notes/Topics/O DHS gera uma imagem em pausa.md",
-    "2. Literature Notes/Topics/O que é a tanatose?.md",
-    "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
@@ -347,7 +372,6 @@
     "6. Creator/Products/Mentoria Individual/Viviane Sabino",
     "6. Creator/Products/Fly/Clube do Livro",
     "6. Creator/Products/Fly",
-    "5. Shots, Images & PDFs/695e8982-2321-424b-abd8-213ac931eda1 2.jpg",
     "5. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
     "6. Creator/Products/Workshop/Untitled.canvas",
     "6. Creator/Products/Untitled.canvas",
