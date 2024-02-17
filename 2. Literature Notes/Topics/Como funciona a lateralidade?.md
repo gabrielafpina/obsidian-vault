@@ -22,11 +22,13 @@ A lateralidade tem por efeito permitir o desenvolvimento de uma patologia com a 
 
 Um dos nossos objetivos de vida é, cada vez mais, nos aproximarmos da nossa energia de base. Dependendo do estímulo que tivemos, podemos funcionar de uma maneira diferente.
 
-A noção de *hierarquização* permite uma organização social onde, por vezes, precisamos nos submeter. Se tiverem duas energias dominantes, vão ter conflitos. É necessário ter o balanço das energias.
+A noção de *hierarquização* permite uma organização social onde, por vezes, precisamos nos submeter. Se tiverem duas energias dominantes, vão ter conflitos. 
+	É necessário ter o balanço das energias o tempo todo. Ex: uma mulher que tem uma filha, mas vem um homem e oferece um pirulito para ela. Isso faz com que a mãe entre no seu masculino para proteger a cria.
 
 Podemos raciocinar da seguinte forma: 
-- *Energia masculina* - para fora, expansão, agressividade, performance, ação, conquista, combate, objetividade.
-- *Energia feminina* - para dentro, contração, esquiva, sedução, observar, subjetividade.
+- *Energia masculina* - para fora, expansão, agressividade, performance, ação, conquista, combate, objetividade, assertividade.
+- *Energia feminina* - para dentro, contração, esquiva, evitar, fugir, sedução, observar, subjetividade.
+	- De maneira geral, a energia feminina é a energia do ninho, que chamamos de territ´
 
 ###### **COMO:**
 
