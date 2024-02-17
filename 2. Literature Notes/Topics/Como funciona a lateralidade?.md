@@ -8,6 +8,8 @@ A lateralidade traz uma possibilidade suplementar para manter a vida em situaç�
 
 A lateralidade tem por efeito permitir o desenvolvimento de uma patologia com a qual temos mais chances de sobrevivência de acordo com a percepção do indivíduo.
 
+A lateralidade não é definida por nós, ela é uma necessidade que o nosso clã tem da função biológica que viemos desempenhar. E pode ser que nossos traumas e DHS ([[[O que é um DHS?]]]) nos distanciem disso e por uma compensação eu acabe não manifestando a minha energia de base. Ex: mulheres destras muito masculinas, que precisavam ser muito fortes, não podiam confiar no ma
+
 Os dois sexos produzem testosterona e estrogênio em quantidades diferentes:
 - Os homens destros e as mulheres canhotas possuem um nível de testosterona um pouco mais alto que os níveis de estrogênio - *energia mais masculina*.
 	- Se nasce uma mulher canhota com energia mais masculina, é porque precisavam de mulheres que assumissem mais responsabilidades, que não se submetiam tanto. Historicamente, muitas mulheres vivam à mercê dos homens e não tinham como se sustentar e se desenvolver, aguentando violências. As mulheres canhotas são geralmente muito fortes e tendem a ser controladoras demais - e é importante romper esse padrão. É muito comum mulheres canhotas que vão adorar ser mãe, mas que não vai abrir de forma alguma mao de seu trabalho, porque a vida fora do ninho é muito importante.
