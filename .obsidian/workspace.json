@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c4c47ff3389ba19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "lateralid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -295,10 +306,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a859afa912968c8",
+  "active": "5c4c47ff3389ba19",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
+    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
     "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
     "A percepção é sempre pessoal.md",
@@ -322,7 +334,6 @@
     "Para que a natureza evolua, é preciso tempo.md",
     "As memórias que herdamos são o somatório das estratégias de sobrevivência que nós e nossos ancestrais adotaram.md",
     "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
-    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/O que é um DHS?.md",
     "Antes do amor vem a sobrevivência.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",

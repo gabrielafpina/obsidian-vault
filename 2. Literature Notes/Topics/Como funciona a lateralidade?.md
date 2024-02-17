@@ -9,8 +9,10 @@ A lateralidade traz uma possibilidade suplementar para manter a vida em situaç�
 A lateralidade tem por efeito permitir o desenvolvimento de uma patologia com a qual temos mais chances de sobrevivência de acordo com a percepção do indivíduo.
 
 Os dois sexos produzem testosterona e estrogênio em quantidades diferentes:
-- Os homens destros e as mulheres canhotas possuem um nível de testosterona um pouco mais alto que os níveis de estrogênio.
-- Já os homens canhotos e as mulheres destras possuem um nível de estrogênio um pouco mais elevado que os níveis de testosterona.
+- Os homens destros e as mulheres canhotas possuem um nível de testosterona um pouco mais alto que os níveis de estrogênio - *energia mais masculina*.
+	- Se nasce uma mulher canhota com energia mais masculina, é porque precisavam de mulheres que assumissem mais responsabilidades, que não se submetiam tanto.
+- Já os homens canhotos e as mulheres destras possuem um nível de estrogênio um pouco mais elevado que os níveis de testosterona - *energia mais feminina*.
+	- Se nasce um homem mais feminino, nasce da necessidade do clã, de ter  homens mais perto do ninho. Por isso, é muito comum encontrar homens canhotos que gostam de cozinhar, ficar em casa, ficar com os filhos, que não se sente o macho dominante. Pode vir de uma família onde os homens tinham mais dificuldade de cumprir o papel do protetor - homens ausentes, alcóolatras, violentos, iam para a guerra e não voltavam.
 
 Influencia de maneira determinante a reação dos seres vivos frente às situações da vida.
 
@@ -28,7 +30,7 @@ A noção de *hierarquização* permite uma organização social onde, por vezes
 Podemos raciocinar da seguinte forma: 
 - *Energia masculina* - para fora, expansão, agressividade, performance, ação, conquista, combate, objetividade, assertividade.
 - *Energia feminina* - para dentro, contração, esquiva, evitar, fugir, sedução, observar, subjetividade.
-	- De maneira geral, a energia feminina é a energia do ninho, que chamamos de territ´
+	- De maneira geral, a energia feminina é a energia do ninho, que chamamos de território feminino. É onde a fêmea cuida do filhote. E a função do macho é de proteção, que é o território masculino.
 
 ###### **COMO:**
 
