@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É dar um significado novo. Quando fazemos isso, a percepção de perigo se modifica e, consequentemente, o movimento de vida também se modifica.
+É dar um significado novo para a memória daquilo que a pessoa tem. Quando fazemos isso, a percepção de perigo se modifica e, consequentemente, o movimento de vida também se modifica.
 
 Inclusive, o DNA é capaz de produzir novos genes para lidarmos com novas informações. Essa é a própria ressignificação. Isso gera uma alteração de comportamento nas células. [[Percepção é o que controla a sua biologia]].
 
@@ -25,6 +25,7 @@ Essa é uma forma de neuroplasticidade. Quando você ressignifica um modelo ment
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Tudo para o cérebro é uma noção de sobrevivência]]
 
 **Sul: para onde vai**
 - [[Eu tenho alegria em descobrir, ressignificar e transformar as minhas crenças]]

@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimax",
+                "query": "percepção",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -330,10 +330,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a622f717b8eded88",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "A percepção é sempre pessoal.md",
+    "Captura de Tela 2024-02-17 às 14.50.08.png",
+    "2. Literature Notes/Topics/O que é ressignificar?.md",
     "O que é um invariante biológico?.md",
+    "A percepção é sempre pessoal.md",
     "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/O que é a dor na nuca?.md",
@@ -357,8 +359,6 @@
     "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
     "2. Literature Notes/Topics/Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
-    "2. Literature Notes/Topics/Quando uma mulher vive uma gravidez indesejada, ela tem pouquíssima tolerância a se privar.md",
-    "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

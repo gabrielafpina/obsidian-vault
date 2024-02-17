@@ -8,7 +8,7 @@ Para Hamer, 'As doenças do homem e do animal são um acontecimento em 3 níveis
 
 Invariante biológico é esse esquema abaixo. Invariante = não tem variação.
 
-![[Captura de Tela 2024-02-17 às 12.56.56.png]]
+![[Captura de Tela 2024-02-17 às 14.50.08.png]]
 - Psique/Percepção
 - Cérebro (Focos de Hamer)
 - Órgãos
