@@ -8,6 +8,8 @@
 
 O medo não é gratuito. O cérebro só reconhece aquilo que ele já conhece.
 
+E o medo, dependendo de como você vive, pode ativar os programas de sobrevivência e se 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

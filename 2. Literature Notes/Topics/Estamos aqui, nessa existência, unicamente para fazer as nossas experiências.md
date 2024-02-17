@@ -10,6 +10,8 @@ Isso altera a nossa percepção. Assim, quando passamos por novas experiências,
 
 >[!important] Plasticidade = habilidade de mudar
 
+Você nunca sabe se vai gostar de algo, até realizar aquilo. Se está na dúvida, vai e testa, porque isso aumenta o seu repertório. As experiências de vida são o que alteram a nossa percepção. [[Percepção é o que controla a sua biologia]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
