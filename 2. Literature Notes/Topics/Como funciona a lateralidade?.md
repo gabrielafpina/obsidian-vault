@@ -8,7 +8,7 @@ A lateralidade traz uma possibilidade suplementar para manter a vida em situaç�
 
 A lateralidade tem por efeito permitir o desenvolvimento de uma patologia com a qual temos mais chances de sobrevivência de acordo com a percepção do indivíduo.
 
-A lateralidade é a nossa auto expressão e ela não tem a ver com a mão que a gente escreve ou com o pé que a gente chuta, tem a ver com o [[Teste do Aplauso]].
+A lateralidade é a nossa auto expressão e ela não tem a ver com a mão que a gente escreve ou com o pé que a gente chuta, tem a ver com o [[Teste do Aplauso Espontâneo]].
 
 Os dois sexos produzem testosterona e estrogênio em quantidades diferentes:
 - Os homens destros e as mulheres canhotas possuem um nível de testosterona um pouco mais alto que os níveis de estrogênio - *energia mais masculina*.
