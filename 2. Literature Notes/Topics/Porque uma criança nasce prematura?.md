@@ -10,6 +10,8 @@ Crianças que nascem prematuras ou antes do tempo, tem dificuldade de terminar a
 
 [[Você é o que o seu cérebro de feto foi]].
 
+Está relacionado ao risco de chegar a termo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

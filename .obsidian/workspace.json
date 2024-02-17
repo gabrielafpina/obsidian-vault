@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "bbf07ec98708ace4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d36ef6dfdbaae962",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "a vida imita o nascimento",
+                "query": "prematur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
+                "file": "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
+                "file": "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md"
+                "file": "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md"
               }
             }
           },
@@ -294,10 +306,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "171160cb843f016f",
+  "active": "bbf07ec98708ace4",
   "lastOpenFiles": [
-    "A vida imita o nascimento.md",
     "Concepções de violência sexual fazem com que a pessoa tenda a atrair para a vida dela histórias de violência sexual.md",
+    "A vida imita o nascimento.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "O útero é a primeira grande escola da vida.md",
     "Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
