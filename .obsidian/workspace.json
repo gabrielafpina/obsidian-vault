@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "9c248a59a90149f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a ectoderme?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08c703f3204d1e17",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "Como funciona a ectoderme?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "Como funciona a ectoderme?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
+                "file": "Como funciona a ectoderme?.md"
               }
             }
           },
@@ -319,10 +331,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c4c47ff3389ba19",
+  "active": "9c248a59a90149f1",
   "lastOpenFiles": [
-    "O que são relais?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "Como funciona a ectoderme?.md",
+    "O que são relais?.md",
     "Como funciona uma mulher canhota?.md",
     "Como funciona o homem canhoto?.md",
     "Como funciona um homem destro?.md",
@@ -348,7 +361,6 @@
     "Captura de Tela 2024-02-17 às 14.50.08.png",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "2. Literature Notes/Topics/Minimax.md",
-    "2. Literature Notes/Topics/O que é a dor na nuca?.md",
     "Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",

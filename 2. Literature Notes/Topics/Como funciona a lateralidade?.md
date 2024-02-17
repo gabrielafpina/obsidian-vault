@@ -38,8 +38,8 @@ Podemos raciocinar da seguinte forma:
 - *Energia feminina* - para dentro, contração, esquiva, evitar, fugir, sedução, observar, subjetividade.
 	- De maneira geral, a energia feminina é a energia do ninho, que chamamos de território feminino. É onde a fêmea cuida do filhote. E a função do macho é de proteção, que é o território masculino.
 
-A forma da lateralidade interferir na nossa percepção tem relação com o nosso córtex, que é a parte mais externa do cérebro e representação da ectoderme. Temos o hemisfério direito e esquerdo do cérebro.
-	Dr Hamer percebeu que os homens destros e mulheres canhotas tem a tendência a funcionar no lado direito do córtex, assim como homens canhotos e mulheres destras, tem a tendência a funcionar no lado esquerdo.
+A forma da lateralidade interferir na nossa percepção tem relação com o nosso córtex, que é a parte mais externa do cérebro e representação da ectoderme. Temos o hemisfério direito e esquerdo do cérebro. A percepção do feminino e masculino vem na representação cortical. Isso tudo acontece na ectoderme, porque ela é o nosso tecido de relação - e a gente manifesta as nossas energias através das relações. [[Como funciona a ectoderme?]]
+	Dr Hamer percebeu que os homens destros e mulheres canhotas tem a tendência a funcionar no lado direito do córtex, assim como homens canhotos e mulheres destras, tem a tendência a funcionar no lado esquerdo. E essas áreas nos predispõe a desenvolver certas patologias.
 
 ###### **COMO:**
 
