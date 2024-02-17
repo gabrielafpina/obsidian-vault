@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbf07ec98708ace4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque uma criança nasce prematura?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab5426b33f03d19c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1adf8cd90ff592fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O cérebro é biológico, consequentemente, ele só compreende a frequência da biologia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f745bf141f938fa8",
             "type": "leaf",
             "state": {
@@ -126,45 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "700b593af708af13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antes do amor vem a sobrevivência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789d3f6137af802f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e33a398ced3b2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -275,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
+                "file": "2. Literature Notes/Topics/O que é a percepção?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
+                "file": "2. Literature Notes/Topics/O que é a percepção?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md"
+                "file": "2. Literature Notes/Topics/O que é a percepção?.md"
               }
             }
           },
@@ -354,15 +283,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7038034dc100d0f",
+  "active": "25cedf30342eed7c",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
+    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/O que é a percepção?.md",
     "2. Literature Notes/Topics/Estamos aqui, nessa existência, unicamente para fazer as nossas experiências.md",
     "O que é um invariante biológico?.md",
     "Captura de Tela 2024-02-17 às 14.50.08.png",
     "2. Literature Notes/Topics/O que é ressignificar?.md",
     "A percepção é sempre pessoal.md",
-    "2. Literature Notes/Topics/Percepção é o que controla a sua biologia.md",
     "2. Literature Notes/Topics/Minimax.md",
     "2. Literature Notes/Topics/O que é a dor na nuca?.md",
     "Captura de Tela 2024-02-17 às 12.56.56.png",
@@ -383,7 +313,6 @@
     "2. Literature Notes/Topics/A vida imita o nascimento.md",
     "2. Literature Notes/Topics/Filhos planejados geralmente são mais sábios.md",
     "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
-    "2. Literature Notes/Topics/Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",

@@ -16,6 +16,8 @@ Isso pode lhe dar a recursos suficientes que são adquiridos no decorrer de sua 
 
 Esse será o fator determinante de vivermos nossos conflitos dessa ou daquela maneira e é o ponto crucial de desenvolvermos essa ou aquela "doença". A reação é diferente, porque as percepções são diferentes.
 
+A percepção que a pessoa tem, faz com que a fisiologia dela permita, ou não, ela se recuperar. O nível de [[Consciência]] que cada um tem, permite eu dar uma resposta diferente para algo, ou não. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -29,6 +29,7 @@ Ou seja, as [[crenças]] reescrevem os genes. Tudo em uma noção de sobrevivên
 
 **PENSADORES:**
 - [[Rafael Livramento]]: a percepção afirma o que você vai atrair para a sua vida em termos de conteúdo, conflito, etc.
+	- 'A biologia responde à percepção'.
 
 **FRASES:**
 
