@@ -4,9 +4,11 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Os trilhos estão relacionados ao conceito de pausa na imagem. [[O DHS gera uma imagem em pausa]]. Ou seja, os fatores que estão relacionados àquele momento do DHS, o cérebro memoriza - e para  [[A percepção é sempre pessoal]]. São todos os alérgenos - tudo que conhecemos como alergia é um trilho do conflito (alimentos, sabores, cheiros, pessoas - algumas pessoas são alérgicas a outras, porque trazem uma memória de separação).
+Os trilhos estão relacionados ao conceito de pausa na imagem. [[O DHS gera uma imagem em pausa]]. Ou seja, os fatores que estão relacionados àquele momento do DHS, o cérebro memoriza - e para  [[A percepção é sempre pessoal]]. São todos os alérgenos - tudo que conhecemos como alergias (alimentos, sabores, cheiros, pessoas - algumas pessoas são alérgicas a outras, porque trazem uma memória de separação) e intolerâncias, são trilhos do conflito.
 
-Para cada pessoa, os trilhos do conflito são os 5 sentidos, o tempo (datas...), pessoas envolvidas, o espaço memorizando os fatores envolvidos em um DHS. [[O que é um DHS?]]
+Para cada pessoa, os trilhos do conflito são os 5 sentidos, o tempo (datas...), pessoas envolvidas, o espaço, memorizando os fatores envolvidos em um DHS. [[O que é um DHS?]]
+
+É sempre a memória de algo com uma temática de separação envolvida.
 
 ###### **COMO:**
 
