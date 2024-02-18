@@ -19,6 +19,8 @@ Quando você vive medos muito fortes, você passa de uma realidade consciente pa
 
 A maior expressão de minimax é a **negação** (recusa psicológica). É o 'não, mas...'.
 
+É quando uma pessoa está falando algo com você e você vai e se desconecta da realidade. É não estar no aqui, agora.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
