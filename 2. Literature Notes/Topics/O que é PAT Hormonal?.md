@@ -23,6 +23,17 @@ Ilustra uma situação de bloqueio funcional (alteração na produção dos horm
 
 > [!important] Sua função é modificar a percepção do indivíduo, destro ou canhoto.
 
+Segundo [[Josi Kromer]], PAt é apenas: 'Um modo de funcionamento. O PAT te permite fazer de outra forma'.
+
+O PAT tem a função de evitar a briga constante entre os machos dominantes, pois isso colocaria o clã em perigo. Conflito do segundo lobo - a submissão.
+
+Tem influência somente no córtex nas áreas de território masculino e feminino e seu sentido biológico é atenuar as patologias ao nível orgânico.
+![[Captura de Tela 2024-02-18 às 11.45.57.png]]
+- A mulher destra e o homem canhoto se masculinizam um pouco (produção de hormônios femininos diminui);
+- A mulher canhota e o homem destro se feminilizam um pouco (produção de hormônios masculinos diminui).
+
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
