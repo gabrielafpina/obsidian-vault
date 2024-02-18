@@ -15,7 +15,13 @@ Se inscreve juntamente com o Programante no momento do DHS e permanece fora da c
 
 A vítima é a repetição do cardápio - é algo que vem acontecendo com ela.
 
-O paciente reincidente é hipersensível às velhas cicatrizes. Quando uma situação está se repetindo com muita frequência na nossa história, a tendência é que isso se repita mais, para que a 
+O paciente reincidente é hipersensível às velhas cicatrizes. Quando uma situação está se repetindo com muita frequência na nossa história, a tendência é que isso se repita mais, para que a gente tenha a oportunidade de olhar. 
+
+>[!important] Quando algo acontece, a pergunta é: O que eu preciso aprender com isso agora?
+
+Quando olhamos as repetições/desafios como uma oportunidade, temos a possibilidade de dar uma nova resposta, que é ressignificar. O fato de repetir nos ajuda a acordar para o que aconteceu.
+
+O EHC pode ser transgeracional, que é o pano de fundo para os seus conflitos biológicos de hoje.
 
 ###### **COMO:**
 
