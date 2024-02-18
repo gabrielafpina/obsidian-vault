@@ -21,7 +21,7 @@ O paciente reincidente é hipersensível às velhas cicatrizes. Quando uma situa
 
 Quando olhamos as repetições/desafios como uma oportunidade, temos a possibilidade de dar uma nova resposta, que é ressignificar. O fato de repetir nos ajuda a acordar para o que aconteceu.
 
-O EHC pode ser transgeracional, que é o pano de fundo para os seus conflitos biológicos de hoje.
+O EHC pode ser transgeracional, que é o pano de fundo para os seus conflitos biológicos de hoje. Além disso, aquilo que se repete na nossa vida hoje, já aconteceu em algum outro momento também. [[O cérebro só reconhece aquilo que ele já conhece]].
 
 ###### **COMO:**
 
