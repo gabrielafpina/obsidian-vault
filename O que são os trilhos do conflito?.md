@@ -12,11 +12,15 @@ Para cada pessoa, os trilhos do conflito são os 5 sentidos, o tempo (datas espe
 
 Para resolver um trilho, o caminho é entender o que, para aquela pessoa, representa esse perigo. Os trilhos nos ajudam a compreender de onde vem o conflito. 
 
->[!important] Para começar a tratar os trilhos do conflito com o paciente, perguntar: em que circunstâncias o sintoma acontece? 
+>[!important] Para começar a tratar os trilhos do conflito com o paciente, perguntar: em que circunstâncias/situações o sintoma acontece? 
 
 Vem mais de manhã, mais de noite, a alergia é a algum alimento específico, ou a alguma situação específica?
 
+As vezes, o sintoma do paciente pode voltar, porque falta ressignificar algum sintoma de trilha do conflito para ele.
+
 OBS: algumas pessoas chamam os trilhos de conflito de 'gatilhos'.
+
+O trilho do conflito pode ter um pano de fundo transgeracional, mas *necessariamente* a gente tem que ter vivido algo na nossa biografia.
 
 ###### **COMO:**
 
@@ -35,3 +39,4 @@ OBS: algumas pessoas chamam os trilhos de conflito de 'gatilhos'.
 **Sul: para onde vai**
 - [[Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação]]
 - [[Porque as pessoas tem intolerância a glúten e lactose?]]
+- [[O que são as facetas do conflito?]]

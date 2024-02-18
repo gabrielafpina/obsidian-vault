@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "a1c3576d4de954a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que são as facetas do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7d7445af175cb6aa",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são os trilhos do conflito?.md",
+                "file": "O que são as facetas do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são os trilhos do conflito?.md",
+                "file": "O que são as facetas do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são os trilhos do conflito?.md"
+                "file": "O que são as facetas do conflito?.md"
               }
             }
           },
@@ -271,10 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b19bca1ffd8c758",
+  "active": "a1c3576d4de954a8",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Obsidian.md",
     "O que são os trilhos do conflito?.md",
+    "O que são as facetas do conflito?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "Porque as pessoas tem intolerância a glúten e lactose?.md",
     "Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
@@ -300,7 +313,6 @@
     "A percepção é sempre pessoal.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "2. Literature Notes/Topics/O que é a percepção?.md",
-    "2. Literature Notes/Topics/Se um paciente vem com queixa de diarréia, como lidar?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",
