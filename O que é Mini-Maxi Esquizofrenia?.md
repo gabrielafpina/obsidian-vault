@@ -24,7 +24,14 @@ A maior expressão de minimax é a **negação** (recusa psicológica). É o 'n�
 
 O objetivo do terapeuta com o paciente, é tirá-lo do minimax, porque o minimax é o que mantém ele no conflito. O que muitas vezes ajuda o paciente a sair do minimax é o EHC [[O que é o Efeito Hipnótico do Conflito?]] - as situações que se repetem tem o objetivo de fazer a pessoa despertar para o conflito dela.
 
-###### **COMO:**
+[[As vezes o paciente não vem na consulta porque ele tem medo do que vai descobrir e o que vai precisar fazer para ressignificar aquilo]].
+
+Muitas vezes, também temos *surdez seletiva*. Se alguém fala para você a solução do seu conflito, a chance de você não ouvir é muito grande.
+
+###### **COMO TIRAR O PACIENTE DO CONFLITO?**
+Através de ironias, metáforas e materialização do conflito. 
+
+Trazer a informação de uma forma diferente, mostrando como não precisa ter perigo.
 
 ###### **PENSADORES:**
 
