@@ -32,9 +32,23 @@ Tem influência somente no córtex nas áreas de território masculino e feminin
 - A mulher destra e o homem canhoto se masculinizam um pouco (produção de hormônios femininos diminui);
 - A mulher canhota e o homem destro se feminilizam um pouco (produção de hormônios masculinos diminui).
 
+###### **TIPOS DE PAT HORMONOAL:**
+- ***PAT hormonal fisiológico***
+	- Mulheres grávidas
+		- Quando a mulher engravida, a mulher destra tende a ficar com a energia mais masculina, de proteção
+	- Crianças dos 2 sexos ***
+	- Mulheres em Menopausa - [[Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico]]
+	- Homem Idoso
+- ***PAT Patológico***
+	- Castrações Químicas ou Cirúrgicas
+	- DIU com hormônios
+	- Contraceptivos
+	- Quimioterapia
+- ***PAT Conflitos de território***
+	- Medo de perder ou perda do território
+	- Medo de perder ou perda do lugar
+	- Homossexuais dos 2 sexos.
 
-
-###### **COMO:**
 
 ###### **PENSADORES:**
 
