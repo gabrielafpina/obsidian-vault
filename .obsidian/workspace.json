@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "5 leis",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,8 +273,9 @@
   },
   "active": "0b19bca1ffd8c758",
   "lastOpenFiles": [
-    "Porque as pessoas tem intolerância a glúten e lactose?.md",
+    "2. Literature Notes/Topics/Obsidian.md",
     "O que são os trilhos do conflito?.md",
+    "Porque as pessoas tem intolerância a glúten e lactose?.md",
     "Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "O que é a dor no joelho?.md",
@@ -295,7 +295,6 @@
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "Como funciona uma mulher destra?.md",
     "Teste do Aplauso Espontâneo.md",
-    "2. Literature Notes/Topics/Obsidian.md",
     "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
     "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
     "A percepção é sempre pessoal.md",
