@@ -20,6 +20,13 @@ Essa região branca abaixo é o cerebelo. Cada bolinha 1, 2, 3... são os relais
 ***Representação da Mesoderme Antiga - Cerebelo:***
 ![[Captura de Tela 2024-02-18 às 09.52.02.png]]
 
+***Representação da Mesoderme Nova - Substância Branca:***
+![[Captura de Tela 2024-02-18 às 09.53.07.png]]
+Essa é a representação do esqueleto e das demais estruturas.
+
+***Representação da Ectoderme - Córtex Cerebral:***
+![[Captura de Tela 2024-02-18 às 09.54.25.png]]
+
 
 ###### **COMO:**
 
