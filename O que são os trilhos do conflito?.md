@@ -23,3 +23,4 @@ Para cada pessoa, os trilhos do conflito são os 5 sentidos, o tempo (datas...),
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Muitas vezesz, ]]
