@@ -27,6 +27,7 @@ Essa é a representação do esqueleto e das demais estruturas.
 ***Representação da Ectoderme - Córtex Cerebral:***
 ![[Captura de Tela 2024-02-18 às 09.54.25.png]]
 
+OBS: aquilo que conhecemos como câncer de cérebro é o Foco de Hamer impactado.
 
 ###### **COMO:**
 
