@@ -10,7 +10,18 @@ Estar em PAT hormonal, para algumas situações é saudável, mas uma pessoa em 
 
 Ele não é patológico, é uma adaptação à nova realidade, em que você muda o seu comportamento.
 
-Dependendo do que a gente vive, não conseguimos manifestar a nossa energia masculina ou feminina.
+Dependendo do que a gente vive, não conseguimos manifestar a nossa de base - energia masculina ou feminina. É como se eu fechasse uma chave e começasse a funcionar no outro hemicórtex com uma energia que não é a minha de base. Isso está ligado à percepção. [[Percepção é o que controla a sua biologia]].
+
+O hormônio sexual masculino (testosterona) favorece o desejo sexual, desejo de reprodução e capacidade de ação.
+	O território masculino está relacionado a, não só conquistar, mas manter aquilo que é meu também.
+
+O hormônio sexual feminino (estrogênio) promove a atração sexual e a ovulação.
+
+Eles são secretados tanto pelas gônadas quanto pela Supra Renal.
+
+Ilustra uma situação de bloqueio funcional (alteração na produção dos hormônios sexuais) biologicamente administrado pelo cérebro e que leva a um leve "desequilíbrio" hormonal.
+
+> [!important] Sua função é modificar a percepção do indivíduo, destro ou canhoto.
 
 ###### **COMO:**
 
