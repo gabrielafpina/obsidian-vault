@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "invariante",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -285,8 +284,9 @@
   },
   "active": "a1c3576d4de954a8",
   "lastOpenFiles": [
-    "O que são os trilhos do conflito?.md",
+    "O que é um invariante biológico?.md",
     "O que são as facetas do conflito?.md",
+    "O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Porque as pessoas tem intolerância a glúten e lactose?.md",
     "Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
@@ -312,7 +312,6 @@
     "A lateralidade é uma das principais formas pelas quais vivenciamos a percepção.md",
     "A percepção é sempre pessoal.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
-    "2. Literature Notes/Topics/O que é a percepção?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-01-03 às 13.58.26.png",

@@ -10,10 +10,11 @@ Um mesmo DHS pode atingir mais de um relais cerebral, de acordo com a percepçã
 Não confundir com outros conflitos. As facetas do mesmo conflito, como *pertencem a um mesmo DHS*, devem ser tratados de forma conjunta.
 
 Isso é explicado pelo fato de percebermos os conflitos através dos nossos 4 folhetos embriológicos: Endoderme, Mesoderme antiga, Mesoderme nova e Ectoderme.
+	Inclusive, eu posso ter mais de uma percepção para cada folheto embrionário. Como sabemos quais e quantas percepções você tem? Pelo sintoma - que é a expressão da minha percepção. [[O que é um invariante biológico?]]
 
 Vital, perdas de proteção ou ataque à integridade, Impotências e conflitos de território.
 
-Em um mesmo evento, não e
+Em um mesmo evento, não existe somente uma mesma percepção.
 
 ###### **COMO:**
 
