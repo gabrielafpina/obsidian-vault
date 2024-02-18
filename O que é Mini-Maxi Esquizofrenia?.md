@@ -28,10 +28,12 @@ O objetivo do terapeuta com o paciente, é tirá-lo do minimax, porque o minimax
 
 Muitas vezes, também temos *surdez seletiva*. Se alguém fala para você a solução do seu conflito, a chance de você não ouvir é muito grande.
 
+A massa do conflito pode intensificar o nível de proteção. [[O que é a massa do conflito?]]
+
 ###### **COMO TIRAR O PACIENTE DO CONFLITO?**
 Através de ironias, metáforas e materialização do conflito. 
 
-Trazer a informação de uma forma diferente, mostrando como não precisa ter perigo.
+Trazer a informação de uma forma diferente, mostrando como não precisa ter perigo - e aí o cérebro do paciente desperta.
 
 ###### **PENSADORES:**
 

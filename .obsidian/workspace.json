@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "fcaeeb83797978d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é a massa do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7d7445af175cb6aa",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é Mini-Maxi Esquizofrenia?.md",
+                "file": "O que é a massa do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é Mini-Maxi Esquizofrenia?.md",
+                "file": "O que é a massa do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é Mini-Maxi Esquizofrenia?.md"
+                "file": "O que é a massa do conflito?.md"
               }
             }
           },
@@ -330,10 +342,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f28335b64d79f61",
+  "active": "fcaeeb83797978d4",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Minimax.md",
     "O que é Mini-Maxi Esquizofrenia?.md",
+    "O que é a massa do conflito?.md",
+    "2. Literature Notes/Topics/Minimax.md",
     "O que é o Efeito Hipnótico do Conflito?.md",
     "Não é o cérebro que programa a gente, é a gente que programa o cérebro.md",
     "O que são os trilhos do conflito?.md",
@@ -363,7 +376,6 @@
     "Porque a mulher faz o xixi sentada e o homem em pé?.md",
     "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
     "2. Literature Notes/Topics/O que é um DHS?.md",
-    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
