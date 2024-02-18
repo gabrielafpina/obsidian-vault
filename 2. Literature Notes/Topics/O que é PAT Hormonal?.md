@@ -10,6 +10,8 @@ Estar em PAT hormonal, para algumas situações é saudável, mas uma pessoa em 
 
 Ele não é patológico, é uma adaptação à nova realidade, em que você muda o seu comportamento.
 
+Dependendo do que a gente vive, não conseguimos manifestar a nossa energia masculina ou feminina.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
