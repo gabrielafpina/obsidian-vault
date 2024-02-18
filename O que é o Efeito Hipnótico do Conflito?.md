@@ -19,9 +19,11 @@ O paciente reincidente é hipersensível às velhas cicatrizes. Quando uma situa
 
 >[!important] Quando algo acontece, a pergunta é: O que eu preciso aprender com isso agora?
 
-Quando olhamos as repetições/desafios como uma oportunidade, temos a possibilidade de dar uma nova resposta, que é ressignificar. O fato de repetir nos ajuda a acordar para o que aconteceu.
+Quando olhamos as repetições/desafios como uma oportunidade, temos a possibilidade de dar uma nova resposta, que é ressignificar. [[Não é o cérebro que programa a gente, é a gente que programa o cérebro]] O fato de repetir nos ajuda a acordar para o que aconteceu.
 
 O EHC pode ser transgeracional, que é o pano de fundo para os seus conflitos biológicos de hoje. Além disso, aquilo que se repete na nossa vida hoje, já aconteceu em algum outro momento também. [[O cérebro só reconhece aquilo que ele já conhece]].
+
+O que também pode ser uma expressão da repetição na vida do paciente? Um sintoma. [[O que é um invariante biológico?]] Uma dor que acontece repetidas vezes, mostra que o paciente ainda não aprendeu
 
 ###### **COMO:**
 
