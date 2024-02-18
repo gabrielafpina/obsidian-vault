@@ -35,10 +35,10 @@ Tem influência somente no córtex nas áreas de território masculino e feminin
 ###### **TIPOS DE PAT HORMONOAL:**
 - ***PAT hormonal fisiológico***
 	- Mulheres grávidas
-		- Quando a mulher engravida, a mulher destra tende a ficar com a energia mais masculina, de proteção
-	- Crianças dos 2 sexos ***
+		- Quando a mulher engravida, a mulher destra tende a ficar com a energia mais masculina, de proteção e a canhota tende a ficar mais tranquila.
+	- Crianças dos 2 sexos antes da puberdade
 	- Mulheres em Menopausa - [[Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico]]
-	- Homem Idoso
+	- Homem Idoso, depois da andropausa
 - ***PAT Patológico***
 	- Castrações Químicas ou Cirúrgicas
 	- DIU com hormônios
@@ -48,7 +48,7 @@ Tem influência somente no córtex nas áreas de território masculino e feminin
 	- Medo de perder ou perda do território
 	- Medo de perder ou perda do lugar
 	- Homossexuais dos 2 sexos.
-
+		- A homossexualidade não é patologia, é um comportamento.
 
 ###### **PENSADORES:**
 
