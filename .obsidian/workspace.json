@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1c3576d4de954a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que são as facetas do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed659692dfb27629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é um invariante biológico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae78a259ec6c1f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que são os trilhos do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b89e256bf777a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é o Efeito Hipnótico do Conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é Mini-Maxi Esquizofrenia?.md",
+                "file": "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,26 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que é a massa do conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d7445af175cb6aa",
+            "id": "a57a8cfce49d998d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porque as pessoas tem intolerância a glúten e lactose?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimax",
+                "query": "pat hormo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é a massa do conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é a massa do conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é a massa do conflito?.md"
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md"
               }
             }
           },
@@ -282,40 +246,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fcaeeb83797978d4",
+  "active": "a57a8cfce49d998d",
   "lastOpenFiles": [
-    "O que é Mini-Maxi Esquizofrenia?.md",
-    "O que é a massa do conflito?.md",
+    "2. Literature Notes/Topics/Quando um casal está separado e tem um filho, a estrutura do ninho já gera um impacto no bebê.md",
+    "2. Literature Notes/Topics/O que é a massa do conflito?.md",
+    "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
     "2. Literature Notes/Topics/Minimax.md",
-    "O que é o Efeito Hipnótico do Conflito?.md",
-    "Não é o cérebro que programa a gente, é a gente que programa o cérebro.md",
-    "O que são os trilhos do conflito?.md",
-    "O que são Focos de Hamer?.md",
-    "Captura de Tela 2024-02-18 às 09.54.25.png",
-    "Captura de Tela 2024-02-18 às 09.53.07.png",
-    "Captura de Tela 2024-02-18 às 09.52.02.png",
-    "Captura de Tela 2024-02-18 às 09.50.11.png",
-    "Captura de Tela 2024-02-18 às 09.47.45.png",
-    "O que é um invariante biológico?.md",
-    "O que são as facetas do conflito?.md",
+    "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
+    "2. Literature Notes/Topics/Não é o cérebro que programa a gente, é a gente que programa o cérebro.md",
+    "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
+    "2. Literature Notes/Topics/O que são Focos de Hamer?.md",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.52.02.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.50.11.png",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.47.45.png",
+    "2. Literature Notes/Topics/O que é um invariante biológico?.md",
+    "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
     "2. Literature Notes/Topics/Obsidian.md",
-    "Porque as pessoas tem intolerância a glúten e lactose?.md",
-    "Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
+    "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
+    "2. Literature Notes/Topics/Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-    "O que é a dor no joelho?.md",
-    "O que são relais?.md",
-    "Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
+    "2. Literature Notes/Topics/O que é a dor no joelho?.md",
+    "2. Literature Notes/Topics/O que são relais?.md",
+    "2. Literature Notes/Topics/Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-    "Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
-    "O que é PAT Hormonal?.md",
-    "Como funciona uma mulher canhota?.md",
-    "Como funciona a ectoderme?.md",
+    "2. Literature Notes/Topics/Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
+    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+    "2. Literature Notes/Topics/Como funciona uma mulher canhota?.md",
+    "2. Literature Notes/Topics/Como funciona a ectoderme?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
-    "Como funciona o homem canhoto?.md",
-    "Como funciona um homem destro?.md",
-    "Porque a mulher faz o xixi sentada e o homem em pé?.md",
+    "2. Literature Notes/Topics/Como funciona o homem canhoto?.md",
+    "2. Literature Notes/Topics/Como funciona um homem destro?.md",
+    "2. Literature Notes/Topics/Porque a mulher faz o xixi sentada e o homem em pé?.md",
     "2. Literature Notes/Topics/Não existe nada mais contagioso do que o medo.md",
-    "2. Literature Notes/Topics/O que é um DHS?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 12.56.56.png",
