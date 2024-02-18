@@ -23,7 +23,9 @@ Quando olhamos as repetições/desafios como uma oportunidade, temos a possibili
 
 O EHC pode ser transgeracional, que é o pano de fundo para os seus conflitos biológicos de hoje. Além disso, aquilo que se repete na nossa vida hoje, já aconteceu em algum outro momento também. [[O cérebro só reconhece aquilo que ele já conhece]].
 
-O que também pode ser uma expressão da repetição na vida do paciente? Um sintoma. [[O que é um invariante biológico?]] Uma dor que acontece repetidas vezes, mostra que o paciente ainda não aprendeu
+O que também pode ser uma expressão da repetição na vida do paciente? Um sintoma. [[O que é um invariante biológico?]] Uma dor que acontece repetidas vezes, mostra que o paciente ainda não aprendeu algo e precisa olhar para aquilo. Porque quando a percepção modifica, o sintoma não tem porque estar ali. [[Percepção é o que controla a sua biologia]].
+
+[[O que é Mini-Maxi Esquizofrenia?]]
 
 ###### **COMO:**
 
