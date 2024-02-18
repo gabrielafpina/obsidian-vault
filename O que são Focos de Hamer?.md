@@ -12,7 +12,14 @@ Essas imagens também são encontradas no animal.
 
 O cérebro não é composto somente de células nervosas, os neurônios, que tem a propriedade de armazenar e veicular informações. Os neurônios constituem em torno de um quarto do volume cerebral.
 
-Os três quartos restantes são chamados de Glia ou Nevróglia. A glia tem um papel de sustentação (para que os neurônios possam funcionar), de nutrição e reparação do tecido nervoso propriamente dito. Contrariamente aos neurônios, são células que podem se reproduzir e se subdividir em quatro tipos: astrócitos, oligodendrócitos, micróglia células ependimárias.
+Os três quartos restantes são chamados de Glia ou Nevróglia. A glia tem um papel de sustentação (para que os neurônios possam funcionar), de nutrição e reparação do tecido nervoso propriamente dito. Contrariamente aos neurônios, são células que podem se reproduzir e se subdividir em quatro tipos: astrócitos, oligodendrócitos, micróglia e células ependimárias.
+
+***Representação da endoderme no tecido cerebral:***![[Captura de Tela 2024-02-18 às 09.50.11.png]]
+Essa região branca abaixo é o cerebelo. Cada bolinha 1, 2, 3... são os relais, que controlam uma área específica do corpo [[O que são relais?]]. As vezes, você tem um relais controlando mais de uma estrutura do corpo.
+
+***Representação da Mesoderme Antiga - Cerebelo:***
+![[Captura de Tela 2024-02-18 às 09.52.02.png]]
+
 
 ###### **COMO:**
 
