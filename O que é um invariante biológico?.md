@@ -10,7 +10,7 @@ Invariante biológico é esse esquema abaixo. Invariante = não tem variação.
 
 ![[Captura de Tela 2024-02-17 às 14.50.08.png]]
 - Psique/Percepção
-- Cérebro (Focos de Hamer)
+- Cérebro (Focos de Hamer) - [[O que são Focos de Hamer?]]
 - Órgãos
 
 Na imensa maioria das vezes, o paciente chega com uma dificuldade, um sintoma (órgãos). A fisiologia dele pode não estar funcionando muito bem. Conseguimos compreender rapidamente o sintoma, porque cada um deles tem uma percepção específica. Assim, para que aquela pessoa tenha um sintoma X, o que ela está percebendo e vivendo da vida dela, é uma percepção X muito precisa. Além disso, ainda temos o roteador, que é o cérebro, que é a interface entre o roteador e a psique. O cérebro funciona como uma antena, que emite uma frequência de acordo com a percepção que ele tem. Por isso que atraímos para a nossa vida conteúdos que estão ligados à percepção de vida que temos.
