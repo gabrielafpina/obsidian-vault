@@ -40,3 +40,4 @@ O trilho do conflito pode ter um pano de fundo transgeracional, mas *necessariam
 - [[Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação]]
 - [[Porque as pessoas tem intolerância a glúten e lactose?]]
 - [[O que são as facetas do conflito?]]
+- [[O que é o Efeito Hipnótico do Conflito?]]

@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O que são Focos de Hamer?.md",
+                "file": "O que são os trilhos do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b89e256bf777a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o Efeito Hipnótico do Conflito?.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endoderme ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são Focos de Hamer?.md",
+                "file": "O que é o Efeito Hipnótico do Conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são Focos de Hamer?.md",
+                "file": "O que é o Efeito Hipnótico do Conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são Focos de Hamer?.md"
+                "file": "O que é o Efeito Hipnótico do Conflito?.md"
               }
             }
           },
@@ -306,17 +318,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ae78a259ec6c1f8",
+  "active": "6b89e256bf777a90",
   "lastOpenFiles": [
+    "O que são os trilhos do conflito?.md",
+    "O que é o Efeito Hipnótico do Conflito?.md",
+    "O que são Focos de Hamer?.md",
     "Captura de Tela 2024-02-18 às 09.54.25.png",
     "Captura de Tela 2024-02-18 às 09.53.07.png",
     "Captura de Tela 2024-02-18 às 09.52.02.png",
     "Captura de Tela 2024-02-18 às 09.50.11.png",
     "Captura de Tela 2024-02-18 às 09.47.45.png",
     "O que é um invariante biológico?.md",
-    "O que são Focos de Hamer?.md",
     "O que são as facetas do conflito?.md",
-    "O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Porque as pessoas tem intolerância a glúten e lactose?.md",
     "Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
@@ -349,7 +362,6 @@
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
-    "5. Shots, Images & PDFs/Captura de Tela 2023-12-27 às 14.11.06.png",
     "o que é a Leo da Intricação",
     "6. Creator/Products/MPA/Criativos",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
