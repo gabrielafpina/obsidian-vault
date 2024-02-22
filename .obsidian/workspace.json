@@ -174,7 +174,7 @@
             }
           },
           {
-            "id": "07ba9f5ffc12d806",
+            "id": "8cd9c520ae4fe07b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -182,7 +182,7 @@
             }
           },
           {
-            "id": "0cab29392b5969d1",
+            "id": "dd588bcb1e639151",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,7 +281,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b21cff9df30d47c3",
+  "active": "dd588bcb1e639151",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
