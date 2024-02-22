@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "7ed34c3107d33fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a1715e5f341aeef7",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avião",
+                "query": "tanatose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,13 +186,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -241,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "'Eu não pedi para nascer'.md",
+                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'Eu não pedi para nascer'.md",
+                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "'Eu não pedi para nascer'.md"
+                "file": "2. Literature Notes/Topics/O que é a tanatose?.md"
               }
             }
           },
@@ -320,10 +330,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e3f743e2a32a39b",
+  "active": "7ed34c3107d33fb5",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
     "'Eu não pedi para nascer'.md",
+    "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
     "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
     "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
