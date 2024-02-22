@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "6e3f743e2a32a39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'Eu não pedi para nascer'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a1715e5f341aeef7",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -228,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
+                "file": "'Eu não pedi para nascer'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
+                "file": "'Eu não pedi para nascer'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md"
+                "file": "'Eu não pedi para nascer'.md"
               }
             }
           },
@@ -307,10 +320,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4c6b2a4b75d806c",
+  "active": "6e3f743e2a32a39b",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
     "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
+    "'Eu não pedi para nascer'.md",
+    "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
     "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/A mãe é fundante da nossa personalidade.md",
@@ -340,7 +354,6 @@
     "2. Literature Notes/Topics/Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
-    "2. Literature Notes/Topics/Como funciona uma mulher canhota?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",

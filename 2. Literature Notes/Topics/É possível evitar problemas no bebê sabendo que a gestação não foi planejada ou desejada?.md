@@ -26,3 +26,4 @@ O nosso espírito fez acordos antes de encarnar. Fale com o bebê na barriga, na
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [['Eu não pedi para nascer']]
