@@ -31,7 +31,17 @@ Aqui dá-se os primórdios do [[Complexo de Édipo]] = a criança testa a coerê
 
 O desequilíbrio é a resistência de sair do narcisismo, do egóico, da dependência. Melanie Klein afirma que a criança é narcisista e egocêntrica. Não concordo.
 
-A criança agora está plenamente consciente de que é uma pessoa por si só, e que seus desejos podem colocá-la em conflito com as demandas do mundo exterior (ou seja, se)
+A criança agora está plenamente consciente de que é uma pessoa por si só, e que seus desejos podem colocá-la em conflito com as demandas do mundo exterior (ou seja, seu [[Ego]] está se desenvolvendo).
+
+[[Sigmund Freud]] acreditava que esse tipo de conflito tende a surgir no treinamento do uso do vaso sanitário, no qual os adultos impõe restrições sobre quando e onde a criança pode defecar.
+	A natureza desse primeiro conflito com a autoridade pode determinar o futuro relacionamento da criança com todas as formas de autoridade.
+	O *treinamento precoce ou rigoroso* com o vaso sanitário pode levar a criança a se tornar uma personalidade anal-retentiva. 
+		É o tipo de personalidade que odeia a bagunça, é obsessivamente arrumado, pontual e respeitoso da autoridade.
+		Podem ser teimosos e rígidos no trato com o dinheiro e com suas posses. Também podem ser acumuladores de dinheiro.
+
+Tudo isso está relacionado ao prazer de segurar as fezes quando crianças. A mãe, então, insiste que a criança se livre dessas fezes de modo adequado, colocando-a no vaso sanitário até que se aliviem.
+
+A personalidade anal-expulsiva, por outro lado, passou por um regime liberal de treinamento do banheiro durante o estágio anal. Geralmente, relacionado a pais ausentes, que não deram muita atenção e cuidado nessa fase.
 
 ###### **COMO:**
 
