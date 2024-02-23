@@ -23,6 +23,11 @@ Aqui estamos aprendendo o equilíbrio entre dar e receber ([[Lei da Causa e Efei
 	A partir dos 2 a 5 anos, é possível começar a observar uma sutil formação do superego da criança, apesar de ela ainda estar muito fusionada com os pais. [[Melanie Klein]]
 
 O não é acompanhado de testes. Ex: 'menino, não ponha o dedo aí'. A criança vai e testa. E quanto mais ele desconfia do amor do pai e da mãe, mais ele testa esta autoridade. Na verdade, a criança quer saber se pode 'confiar' nestas pessoas. Ele está testando a coerência.
+	A criança agora passa a reconhecer outras pessoas, assim como, testar o amor delas.
+	Essa fase é muito importante para que a criança tenha *orgulho* e *amor* pelos pais no futuro.
+		Caso ela viva uma realidade disfuncional, ela tende a repetir aquilo no futuro - [[princípio da compulsão à repetição]]. E pode acontecer de ter uma fixação em determinada fase, e você deixar alguma tristeza, angústia, ansiedade, raiva, medo, que vai ficar guardado naquela fase e você vai precisar ressignificar quando crescer. [[O que é ressignificar?]]
+
+Aqui dá-se os pr
 
 ###### **COMO:**
 

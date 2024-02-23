@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como funciona a fase anal, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase anal, segundo Freud?.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a fase anal, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase anal, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a fase anal, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase anal, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a fase anal, segundo Freud?.md"
+                "file": "2. Literature Notes/Topics/Como funciona a fase anal, segundo Freud?.md"
               }
             }
           },
@@ -209,10 +210,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
-    "Como funciona a fase anal, segundo Freud?.md",
+    "2. Literature Notes/Topics/Como funciona a fase anal, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a tanatose?.md",
     "2. Literature Notes/Topics/'Eu não pedi para nascer'.md",
     "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
