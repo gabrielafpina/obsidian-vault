@@ -8,139 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b89e256bf777a90",
+            "id": "04a6dfcc3185d088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f28335b64d79f61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcaeeb83797978d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57a8cfce49d998d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f890249c25ad16ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b21cff9df30d47c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c85fa9356f88c36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4c6b2a4b75d806c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e3f743e2a32a39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "'Eu não pedi para nascer'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ed34c3107d33fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1715e5f341aeef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "file": "Como funciona a fase anal, segundo Freud?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tanatose",
+                "query": "desenvolvimento psi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -252,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
+                "file": "Como funciona a fase anal, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a tanatose?.md",
+                "file": "Como funciona a fase anal, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a tanatose?.md"
+                "file": "Como funciona a fase anal, segundo Freud?.md"
               }
             }
           },
@@ -331,9 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ed34c3107d33fb5",
+  "active": "04a6dfcc3185d088",
   "lastOpenFiles": [
-    "'Eu não pedi para nascer'.md",
+    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
+    "Como funciona a fase anal, segundo Freud?.md",
+    "2. Literature Notes/Topics/O que é a tanatose?.md",
+    "2. Literature Notes/Topics/'Eu não pedi para nascer'.md",
     "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
     "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
     "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
@@ -362,9 +244,6 @@
     "2. Literature Notes/Topics/Muitas vezes, a compulsão, a vontade de comer doce, é a percepção de perigo em relação a alguma situação.md",
     "2. Literature Notes/Topics/O que é a dor no joelho?.md",
     "2. Literature Notes/Topics/O que são relais?.md",
-    "2. Literature Notes/Topics/Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico.md",
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-    "2. Literature Notes/Topics/Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 14.50.08.png",
