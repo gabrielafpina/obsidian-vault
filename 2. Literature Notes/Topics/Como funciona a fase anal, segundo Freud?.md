@@ -47,7 +47,9 @@ A personalidade anal-expulsiva, por outro lado, passou por um regime liberal de 
 	É uma pessoa com uma personalidade mais bagunçada. A mente está bagunçada também. [[Lei da Correspondência]]. É descuidado também.
 	Eles gostam de doar coisas. Em essência, não estão retendo de si, mas expulsando e 'compartilhando' de si com o mundo. Se a liberalidade for demasiada, esta pessoa pode se tornar confusa, desorganizada e rebelde.
 
-Quando a criança ama e se sente amada pelos pais, cada elemento que a criança produz é sentido como bom e valorizado. Ela sente-se livre e estimulada a produzir - nesse caso, as fezes, mas quando ela cresce, isso se expande para o
+Quando a criança ama e se sente amada pelos pais, cada elemento que a criança produz é sentido como bom e valorizado. Ela sente-se livre e estimulada a produzir - nesse caso, as fezes, mas quando ela cresce, isso se expande para outras coisas. Caso as relações de angústia predominem sobre as relações de amor, os primeiros produtos infantis passam a ser armas destrutivas que agridem o mundo.
+
+De acordo com Freud, o prazer da criança em defecar está associado ao seu prazer em criar algo. Sua própria criação. As ideias e memórias anais envolvem atividades como a eliminação, retenção, sujeira ou limpeza.
 
 ###### **COMO:**
 
