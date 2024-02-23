@@ -12,14 +12,17 @@ Temos a ambivalência dos impulsos: segurar ou expulsar; reter ou expulsar. É o
 	- Retenção: ter, segurar, reter, controlar, guardar
 	- Expulsão: doar, eliminar, excluir, separar
 
-Tem bebê que demora a reter (ou seja, significa que ele está expulsando. Faz xixi e cocô na calça) e tem bebê que fica segurando (fica dias sem fazer cocô).
+Tem bebê que demora a reter (ou seja, significa que ele está expulsando. Faz xixi e cocô na calça) e tem bebê que fica segurando (ou seja, ele está retendo. Fica dias sem fazer cocô).
 
 A criança descobre que pode controlar as fezes que saem de seu interior, oferecendo-o à mãe, ora como um presente, ora como algo agressivo.
 	- Esse é o primeiro momento em que a criança passa a ter algum ***controle*** dentro de si. Ocorre o controle dos esfíncteres e o bebê aprende sobre limites.
 
 É nessa etapa que a criança começa a ter noção de higiene. E aprende sobre organização. Começam as fases de birras.
 
-Aqui estamos aprendendo o equilíbrio entre dar e receber ([[Lei da Causa e Efeito]]), internalizando o **não**. Começou a ser introduzido na 1a fase e aqui é introjetado de vez = formação do [[SuperEgo]].
+Aqui estamos aprendendo o equilíbrio entre dar e receber ([[Lei da Causa e Efeito]]), internalizando o **não**. Começou a ser introduzido na 1a fase e aqui é introjetado de vez, que é a formação do [[SuperEgo]].
+	A partir dos 2 a 5 anos, é possível começar a observar uma sutil formação do superego da criança, apesar de ela ainda estar muito fusionada com os pais. [[Melanie Klein]]
+
+O não é acompanhado de testes. Ex: 'menino, não ponha o dedo aí'. A criança vai e testa. E quanto mais ele desconfia do amor do pai e da mãe, mais ele testa esta autoridade. Na verdade, a criança quer saber se pode 'confiar' nestas pessoas. Ele está testando a coerência.
 
 ###### **COMO:**
 
