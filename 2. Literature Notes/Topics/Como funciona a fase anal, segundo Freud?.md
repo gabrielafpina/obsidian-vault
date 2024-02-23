@@ -16,8 +16,10 @@ Tem bebê que demora a reter (ou seja, significa que ele está expulsando. Faz x
 
 A criança descobre que pode controlar as fezes que saem de seu interior, oferecendo-o à mãe, ora como um presente, ora como algo agressivo.
 	- Esse é o primeiro momento em que a criança passa a ter algum ***controle*** dentro de si. Ocorre o controle dos esfíncteres e o bebê aprende sobre limites.
+	- É o período em que se inicia o andar, o falar e em que se estabelece o controle dos esfíncteres.
 
 É nessa etapa que a criança começa a ter noção de higiene. E aprende sobre organização. Começam as fases de birras.
+	As relações serão estabelecidas em termos de projeção ou controle.
 
 Aqui estamos aprendendo o equilíbrio entre dar e receber ([[Lei da Causa e Efeito]]), internalizando o **não**. Começou a ser introduzido na 1a fase e aqui é introjetado de vez, que é a formação do [[SuperEgo]].
 	A partir dos 2 a 5 anos, é possível começar a observar uma sutil formação do superego da criança, apesar de ela ainda estar muito fusionada com os pais. [[Melanie Klein]]
@@ -42,6 +44,10 @@ A criança agora está plenamente consciente de que é uma pessoa por si só, e 
 Tudo isso está relacionado ao prazer de segurar as fezes quando crianças. A mãe, então, insiste que a criança se livre dessas fezes de modo adequado, colocando-a no vaso sanitário até que se aliviem.
 
 A personalidade anal-expulsiva, por outro lado, passou por um regime liberal de treinamento do banheiro durante o estágio anal. Geralmente, relacionado a pais ausentes, que não deram muita atenção e cuidado nessa fase.
+	É uma pessoa com uma personalidade mais bagunçada. A mente está bagunçada também. [[Lei da Correspondência]]. É descuidado também.
+	Eles gostam de doar coisas. Em essência, não estão retendo de si, mas expulsando e 'compartilhando' de si com o mundo. Se a liberalidade for demasiada, esta pessoa pode se tornar confusa, desorganizada e rebelde.
+
+Quando a criança ama e se sente amada pelos pais, cada elemento que a criança produz é sentido como bom e valorizado. Ela sente-se livre e estimulada a produzir - nesse caso, as fezes, mas quando ela cresce, isso se expande para o
 
 ###### **COMO:**
 
