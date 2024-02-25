@@ -6,7 +6,7 @@
 ###### **DEFINIÇÃO:**
 1.  Não há contato - agulha/ovócito.
 
-2.  O material fica na geladeira. (vive quanto tempo uma célula sem oxigênio?)
+2.  O material fica na geladeira. (uma célula vive muito pouco tempo sem oxigênio)
 
 3.  Vai para o útero direto.
 
@@ -23,8 +23,11 @@
 9. Sofrem mais de bullying.
 
 10. Os pais não resolveram sua interdição.
+	1. O pai e a mãe não queriam os filhos por conta de problemas psíquicos. Consequentemente, essa criança vai sofrer muito.
 
-11. Vão precisar se tratar pelo resto da vida.
+12. Vão precisar se tratar pelo resto da vida.
+
+13. É uma espécie de adoção, porque você recebe um ovócito que só Deus sabe de quem é, assim como um esperma que também não se sabe de quem é.
 
 ###### **COMO:**
 
