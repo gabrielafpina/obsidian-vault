@@ -29,4 +29,4 @@ O nível da concepção de um indivíduo demonstra como será o resto da vida.
 
 **Sul: para onde vai**
 - [[Se a concepção foi difícil, o parto será difícil]]
-- [[Quais são as consequências psicológicas de uma concepção não-consciente?]]
+- [[Quais são as consequências psicológicas da concepção?]]
