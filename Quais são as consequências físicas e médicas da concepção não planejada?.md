@@ -18,6 +18,12 @@
 7) Consequências sócio-emocionais devido ao desajuste no papel maternal e emoções como ansiedade e depressão durante a gravidez. O que gera crianças deprimidas, ansiosas e com vários problemas físicos.
 	1) Durante a gestação, algumas coisas não podem acontecer: violência, depressão, luto, medo e ansiedade. Essas coisas deixam marcas na criança.
 
+8) O filho não planejado pode ser uma pessoa com dificuldade de se planejar na vida, desorganização pode virar um vício, pode sentir que não merece o amor. Às vezes que sequer merece estar vivo - tendência a depressões.
+
+9) Concepções ilegítimas, tendem ao padrão de relação ilegítima.
+
+10) Concepção acidental, não só leva a tendência a sofrer acidentes, como pode viver o "Patinho Feio", o que busca viver o sentimento de se sentir intruso ou não incluído, relações onde o parceiro não assume a relação, relacionamentos distantes. Relacionamento por internet - gente que não mora na mesma cidade - para evitar convivência.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

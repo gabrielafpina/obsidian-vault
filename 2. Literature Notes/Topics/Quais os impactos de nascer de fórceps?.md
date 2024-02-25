@@ -14,6 +14,8 @@ Geralmente, também é uma pessoa que tem conflitos com a mãe. Sente saudade da
 
 E, por exemplo, se uma criança é empurrada para fora da barriga, com alguém subindo em cima da barriga da mãe, a sensação é de que ela tem que fazer tudo brigando. Ela só consegue as coisas na vida dela ao brigar, fazendo força. Ela constantemente tem que mostrar que é forte, que ela consegue. 
 
+Em geral, obstestras que usam fórceps, nasceram de fórceps, e muitas vezes não sabiam.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
