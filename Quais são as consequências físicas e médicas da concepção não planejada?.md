@@ -24,6 +24,18 @@
 
 10) Concepção acidental, não só leva a tendência a sofrer acidentes, como pode viver o "Patinho Feio", o que busca viver o sentimento de se sentir intruso ou não incluído, relações onde o parceiro não assume a relação, relacionamentos distantes. Relacionamento por internet - gente que não mora na mesma cidade - para evitar convivência.
 
+11) A primeira filha mulher em gravidez indesejada tem uma relação fica muito mais pesada e desqualificadora para a filha - que passa a ser portadora da sombra da mãe.
+
+12) O filho homem pode passar a receber a projeção de ser tudo o que o parceiro não é.
+
+13) Relações invertidas - filhas que viram mães da mãe para sempre.
+
+14) Relações de hostilidade duradoura.
+
+15) Dificuldade em ser Mãe.
+
+16) A necessidade de distância - Complexo Materno Negativo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
