@@ -53,3 +53,4 @@
 **Sul: para onde vai**
 - [[90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade]]
 - [[Como funciona a concepção assistida?]]
+- [[Qual é a relação entre a concepção e a nutrição?]]
