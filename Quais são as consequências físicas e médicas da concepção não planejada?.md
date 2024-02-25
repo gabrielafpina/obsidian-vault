@@ -51,3 +51,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade]]
