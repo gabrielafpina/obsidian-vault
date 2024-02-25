@@ -31,3 +31,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[A mulher as vezes demora dias para saber que está grávida, mas o homem sabe no ato]]
