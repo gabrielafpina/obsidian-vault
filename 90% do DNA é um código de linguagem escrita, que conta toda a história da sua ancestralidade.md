@@ -30,3 +30,4 @@ O momento da concepção é um instante de comunicação celular, através da qu
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Viver é se comunicar]]
