@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Como funciona a fase fálica, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -263,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a fase fálica, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a fase fálica, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a fase fálica, segundo Freud?.md"
+                "file": "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md"
               }
             }
           },
@@ -342,10 +343,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d528861c190c134f",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
-    "Como funciona a fase fálica, segundo Freud?.md",
+    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "2. Literature Notes/Topics/Como funciona a concepção assistida?.md",
     "2. Literature Notes/Topics/A mulher as vezes demora dias para saber que está grávida, mas o homem sabe no ato.md",
     "2. Literature Notes/Topics/Qual é a relação entre a concepção e a nutrição?.md",
