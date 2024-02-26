@@ -18,6 +18,10 @@ Ao serem defrontadas com as diferenças anatômicas entre os sexos, as crianças
 Neste período surge também o [[Complexo de Édipo]], no qual o menino passa a apresentar uma atração pela mãe e se rivalizar com o pai, e na menina ocorre o inverso, o [[Complexo de Electra]]. Aqui está o grande conflito dessa fase,  gerando mecanismos de fixação.
 	A criança toma consciência das diferenças anatômicas sexuais, que desencadeiam o conflito entre atração erótica, ressentimento, rivalidade, ciúme e medo.
 
+Em 1900, Freud falava da mulher como sendo uma pessoa que se sentia inferior ao homem por não possuir um pênis - não por conta do órgão genital, mas sim, representante de um poder que eram desejáveis e que, segundo ele, a menina queria também.
+
+A psicanálise estuda o desejo [[Inconsciente]] e que não pôde ser satisfeito na realidade. Assim, a anatomia não é o destino, apesar de determinar conflitos específicos. Ou seja, 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
