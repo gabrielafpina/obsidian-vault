@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "9d77ea32d881fe68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0255881cd99ce99c",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rafael livramento",
+                "query": "raio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,12 +234,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -288,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +340,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md"
+                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md"
               }
             }
           },
@@ -367,10 +379,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86622b63cd1ef485",
+  "active": "9d77ea32d881fe68",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
     "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
+    "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
     "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
