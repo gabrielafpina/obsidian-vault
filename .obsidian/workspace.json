@@ -121,19 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee91f8f93f1b121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
+                "file": "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -288,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
+                "file": "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
+                "file": "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md"
+                "file": "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md"
               }
             }
           },
@@ -367,9 +355,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ee91f8f93f1b121",
+  "active": "c25a1d1fa97af72d",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
+    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
     "Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
     "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
@@ -395,7 +384,6 @@
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-    "2. Literature Notes/Topics/Quando um casal está separado e tem um filho, a estrutura do ninho já gera um impacto no bebê.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.52.02.png",
