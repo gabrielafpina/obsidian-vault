@@ -20,7 +20,9 @@ Neste período surge também o [[Complexo de Édipo]], no qual o menino passa a 
 
 Em 1900, Freud falava da mulher como sendo uma pessoa que se sentia inferior ao homem por não possuir um pênis - não por conta do órgão genital, mas sim, representante de um poder que eram desejáveis e que, segundo ele, a menina queria também.
 
-A psicanálise estuda o desejo [[Inconsciente]] e que não pôde ser satisfeito na realidade. Assim, a anatomia não é o destino, apesar de determinar conflitos específicos. Ou seja, 
+A psicanálise estuda o desejo [[Inconsciente]] e que não pôde ser satisfeito na realidade. Assim, a anatomia não é o destino, apesar de determinar conflitos específicos. Ou seja, a orientação sexual não tem nada a ver com a anatomia.
+	Freud não via nenhum tipo de doença na homossexualidade.
+	O corpo não pode ser ignorado, mas para os psicanalistas, o que tem relevância é sempre a representação psíquica (como a pessoa sente que é).
 
 ###### **COMO:**
 
