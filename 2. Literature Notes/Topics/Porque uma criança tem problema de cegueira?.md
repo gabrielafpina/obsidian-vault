@@ -25,6 +25,7 @@ Não é necessário cirurgia, o que é necessário, é ter consciência e olhar 
 
 **Oeste: similar**
 - [[Como funciona a icterícia em recém-nascidos?]]
+- [[O que é uma criança que tem síndrome de down?]]
 
 **Leste: oposto**
 

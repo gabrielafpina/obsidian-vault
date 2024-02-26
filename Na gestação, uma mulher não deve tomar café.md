@@ -1,0 +1,23 @@
+**TAGS:**
+
+**FONTE:** [[Eleanor Luzes]]
+###### **BIG IDEA:** 
+
+###### **DEFINIÇÃO:**
+O fígado do feto não tem enzima para digerir café.
+
+###### **COMO:**
+
+###### **PENSADORES:**
+
+###### **FRASES:**
+
+---------
+
+**Oeste: similar**
+
+**Leste: oposto**
+
+**Norte: ideia/pergunta**
+
+**Sul: para onde vai**
