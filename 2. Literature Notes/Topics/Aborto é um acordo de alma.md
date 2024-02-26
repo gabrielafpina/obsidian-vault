@@ -22,4 +22,4 @@ O certo, no caso de um aborto, seria fazer uma apometria quântica, em que você
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[75% dos abortos são de mulheres casadas]]
+- [[75% dos abortos ocorrem em mulheres casadas, no mundo inteiro]]
