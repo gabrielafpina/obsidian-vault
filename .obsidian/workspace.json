@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "d87f89dff7700b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Não existe doença congênita, apenas epigenética.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0255881cd99ce99c",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é uma criança que tem síndrome de down?.md",
+                "file": "Não existe doença congênita, apenas epigenética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é uma criança que tem síndrome de down?.md",
+                "file": "Não existe doença congênita, apenas epigenética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é uma criança que tem síndrome de down?.md"
+                "file": "Não existe doença congênita, apenas epigenética.md"
               }
             }
           },
@@ -319,10 +331,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4cbecef269bafb25",
+  "active": "d87f89dff7700b46",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
     "O que é uma criança que tem síndrome de down?.md",
+    "Não existe doença congênita, apenas epigenética.md",
+    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
     "Como funciona a icterícia em recém-nascidos?.md",
     "Na gestação, uma mulher não deve tomar café.md",
     "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
@@ -346,7 +359,6 @@
     "2. Literature Notes/Topics/'Eu não pedi para nascer'.md",
     "2. Literature Notes/Topics/É possível evitar problemas no bebê sabendo que a gestação não foi planejada ou desejada?.md",
     "2. Literature Notes/Topics/Queixa não tem força para mudar nada.md",
-    "2. Literature Notes/Topics/Quando um paciente tem medo de elevador ou avião, o que pode ser?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
