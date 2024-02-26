@@ -12,6 +12,12 @@ Há uma descoberta da diferença da anatomia entre o feminino e o masculino.
 
 Nesta etapa do desenvolvimento, a atenção da criança volta-se para a região genital (que é onde a libido se organiza no corpo).
 
+Ao serem defrontadas com as diferenças anatômicas entre os sexos, as crianças criam as chamadas 'teorias sexuais infantis', imaginando que as meninas não tem pênis porque este órgão lhe foi arrancado (complexo de castração). É neste momento que a menina tem o medo de ter perdido o seu pênis.
+	Isso não ocorre quando os pais explicam desde cedo o que acontece nos órgãos sexuais de ambos os sexos.
+
+Neste período surge também o [[Complexo de Édipo]], no qual o menino passa a apresentar uma atração pela mãe e se rivalizar com o pai, e na menina ocorre o inverso, o [[Complexo de Electra]]. Aqui está o grande conflito dessa fase,  gerando mecanismos de fixação.
+	A criança toma consciência das diferenças anatômicas sexuais, que desencadeiam o conflito entre atração erótica, ressentimento, rivalidade, ciúme e medo.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
