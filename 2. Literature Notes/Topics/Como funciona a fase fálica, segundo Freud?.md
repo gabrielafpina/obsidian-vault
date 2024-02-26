@@ -24,6 +24,10 @@ A psicanálise estuda o desejo [[Inconsciente]] e que não pôde ser satisfeito 
 	Freud não via nenhum tipo de doença na homossexualidade.
 	O corpo não pode ser ignorado, mas para os psicanalistas, o que tem relevância é sempre a representação psíquica (como a pessoa sente que é).
 
+Enquanto identidade de gênero, o ser humano tem um caminho a trilhar do reconhecimento do seu ser e de seus desejos.
+	O homem e a mulher tem de ser pensados como penetrantes e envolventes, intelectuais e intuitivos, em suas possibilidades de lidar com a experiência emocional e sexual, independente se heterossexuais ou homossexuais.
+
+Todos temos um menino e uma menina dentro de nós. [[Criança Interior]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
