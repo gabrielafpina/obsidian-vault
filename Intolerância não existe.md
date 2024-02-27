@@ -28,3 +28,4 @@ Conversando com a criança, dizendo a verdade do que aconteceu na época da intr
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Tudo que você precisa, tem no mar, fitoterápico e homeopatia]]

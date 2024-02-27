@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "98fb7ccf1f515386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0255881cd99ce99c",
             "type": "leaf",
             "state": {
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -323,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intolerância não existe.md",
+                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intolerância não existe.md",
+                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intolerância não existe.md"
+                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md"
               }
             }
           },
@@ -402,10 +414,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50a270252027bd78",
+  "active": "98fb7ccf1f515386",
   "lastOpenFiles": [
-    "Como fazer uma introdução alimentar consciente?.md",
     "Intolerância não existe.md",
+    "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
+    "Como fazer uma introdução alimentar consciente?.md",
     "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
@@ -429,7 +442,6 @@
     "2. Literature Notes/Topics/Viver é se comunicar.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/Quais são as consequências psicológicas da concepção?.md",
-    "2. Literature Notes/Topics/O útero é a primeira escola de valores, mas sobretudo AUTO-ESTIMA.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
