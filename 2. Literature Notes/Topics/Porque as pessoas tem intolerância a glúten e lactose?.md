@@ -21,5 +21,6 @@ Isso está presente em quase tudo o que comemos. É natural que em algum momento
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Intolerância não existe]]
 
 **Sul: para onde vai**
