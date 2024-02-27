@@ -13,7 +13,7 @@ Se for criança, refletir: o que estava acontecendo na vida dos pais quando eles
 [[Como fazer uma introdução alimentar consciente?]]
 
 ###### **COMO LIDAR?**
-Conversando com a criança, dizendo a verdade do que aconteceu na época da introdução alimentar dela, como você se sentia, dizendo que a
+Conversando com a criança, dizendo a verdade do que aconteceu na época da introdução alimentar dela, como você se sentia, dizendo que sabe que ele provavelmente está se sacrificando para mostrar algo, mas que você agora já sabe o que é aquele algo.
 
 ###### **PENSADORES:**
 
