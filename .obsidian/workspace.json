@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fórceps",
+                "query": "\"prematuro\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -295,7 +294,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e542dd700c0677f0",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Como somos influenciados?.md",
     "O que é pré-programante, programante e ativador?.md",
