@@ -23,6 +23,8 @@ Assim, cada pessoa tem um modo de resposta específico, por conta do modo de res
 Por trás de cada comportamento existem os focos de hamer [[O que são Focos de Hamer?]]; por trás de cada FH, existem os conflitos; por trás de cada conflito, existe a vivência da pessoa (a história da pessoa, que é onde o terapeuta trabalha).
 	O grande trabalho do terapeuta é ensinar para o cérebro que o que ele enxerga como um perigo, não precisa ser mais. [[Não é o cérebro que programa a gente, é a gente que programa o cérebro]].
 
+[[Como somos influenciados?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
