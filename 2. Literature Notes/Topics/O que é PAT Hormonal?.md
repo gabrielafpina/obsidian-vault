@@ -50,6 +50,9 @@ Tem influência somente no córtex nas áreas de território masculino e feminin
 	- Homossexuais dos 2 sexos.
 		- A homossexualidade não é patologia, é um comportamento.
 
+O cérebro funciona como um cenário. Assim, você pode estar em PAT na sua relação com a sua mãe, mas estar na sua energia de base com relação ao seu pai.
+
+[[O que são as hipercompensações?]]
 ###### **PENSADORES:**
 
 ###### **FRASES:**

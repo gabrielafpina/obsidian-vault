@@ -4,131 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8bb2dfafc01b856",
+        "id": "39db21a79b488820",
         "type": "tabs",
         "children": [
           {
-            "id": "0926268fbce200fb",
+            "id": "8a9483bf871df5d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a concepção assistida?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3ab023a5c03fe87",
+            "id": "ae0c79b7e8e9ebad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d528861c190c134f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c25a1d1fa97af72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cbecef269bafb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d87f89dff7700b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b014564960c7907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764a523069e42d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57c7361985edcc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01ae926a5cfe7e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se a concepção foi difícil, o parto será difícil.md",
+                "file": "O que são as hipercompensações?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intolerância",
+                "query": "pat hormonal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -210,7 +114,7 @@
             }
           },
           {
-            "id": "6d77963b35479747",
+            "id": "b4a8c71d5e98d471",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -218,7 +122,7 @@
             }
           },
           {
-            "id": "4eb00a21bf4785f7",
+            "id": "ebe2d179c0a515c9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -239,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
+                "file": "O que são as hipercompensações?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
+                "file": "O que são as hipercompensações?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md"
+                "file": "O que são as hipercompensações?.md"
               }
             }
           },
@@ -318,34 +222,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d87f89dff7700b46",
+  "active": "ae0c79b7e8e9ebad",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+    "2. Literature Notes/Topics/Se a concepção foi difícil, o parto será difícil.md",
+    "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
+    "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
+    "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
+    "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
+    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
+    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
+    "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
     "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
     "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
-    "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
+    "2. Literature Notes/Topics/75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
-    "Intolerância não existe.md",
+    "2. Literature Notes/Topics/Intolerância não existe.md",
     "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
-    "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
-    "Como fazer uma introdução alimentar consciente?.md",
+    "2. Literature Notes/Topics/Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
+    "2. Literature Notes/Topics/Como fazer uma introdução alimentar consciente?.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
-    "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
-    "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
-    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
-    "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
     "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
     "2. Literature Notes/Topics/Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
-    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "2. Literature Notes/Topics/Como funciona a concepção assistida?.md",
     "2. Literature Notes/Topics/A mulher as vezes demora dias para saber que está grávida, mas o homem sabe no ato.md",
     "2. Literature Notes/Topics/Qual é a relação entre a concepção e a nutrição?.md",
     "2. Literature Notes/Topics/Quais são as consequências físicas e médicas da concepção não planejada?.md",
-    "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
-    "2. Literature Notes/Topics/Viver é se comunicar.md",
-    "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
-    "2. Literature Notes/Topics/Quais são as consequências psicológicas da concepção?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
