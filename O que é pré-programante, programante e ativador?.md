@@ -11,6 +11,10 @@ Então, temos o **ativador**, que são as situações que vão *ativar* a memór
 
 E tudo isso está inserido dentro do pré-programante, que são as informações oriundas do transgeracional.
 
+Na maioria das vezes, o paciente vai vir com um problema na história do ativador. Assim, precisamos olhar na história dele onde está o programante.
+
+>[!important] Não é o que a gente vive, é como a gente vive.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
