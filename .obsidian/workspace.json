@@ -20,12 +20,36 @@
             }
           },
           {
+            "id": "6a55d76812d52373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona o nosso modo de resposta?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ae0c79b7e8e9ebad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "O que são as hipercompensações?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20daef2c95c59cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cérebro",
+                "query": "número de concepções",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que são as hipercompensações?.md",
+                "file": "Como funciona o nosso modo de resposta?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que são as hipercompensações?.md",
+                "file": "Como funciona o nosso modo de resposta?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que são as hipercompensações?.md"
+                "file": "Como funciona o nosso modo de resposta?.md"
               }
             }
           },
@@ -236,9 +260,11 @@
   },
   "active": "f2a3439405e433d4",
   "lastOpenFiles": [
-    "O feminismo, assim como o machismo, é um conflito de território.md",
-    "O que são as hipercompensações?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+    "Como funciona o nosso modo de resposta?.md",
+    "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
+    "O que são as hipercompensações?.md",
+    "O feminismo, assim como o machismo, é um conflito de território.md",
     "2. Literature Notes/Topics/Se a concepção foi difícil, o parto será difícil.md",
     "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
@@ -260,8 +286,6 @@
     "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
     "2. Literature Notes/Topics/Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
-    "2. Literature Notes/Topics/Como funciona a concepção assistida?.md",
-    "2. Literature Notes/Topics/A mulher as vezes demora dias para saber que está grávida, mas o homem sabe no ato.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",

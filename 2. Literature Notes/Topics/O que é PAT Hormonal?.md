@@ -64,5 +64,6 @@ O cérebro funciona como um cenário. Assim, você pode estar em PAT na sua rela
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Como funciona o nosso modo de resposta?]]
 
 **Sul: para onde vai**
