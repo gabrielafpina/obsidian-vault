@@ -306,7 +306,7 @@
             }
           },
           {
-            "id": "76b52fc05162634a",
+            "id": "6d77963b35479747",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -314,7 +314,7 @@
             }
           },
           {
-            "id": "28afff11dfb730f1",
+            "id": "4eb00a21bf4785f7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -414,7 +414,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98fb7ccf1f515386",
+  "active": "4eb00a21bf4785f7",
   "lastOpenFiles": [
     "Intolerância não existe.md",
     "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
