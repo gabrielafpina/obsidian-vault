@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pat hormonal",
+                "query": "cérebro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,7 +234,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae0c79b7e8e9ebad",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "O feminismo, assim como o machismo, é um conflito de território.md",
     "O que são as hipercompensações?.md",
