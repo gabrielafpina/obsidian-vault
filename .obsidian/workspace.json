@@ -80,102 +80,6 @@
             }
           },
           {
-            "id": "eec91a19b7917416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5005480bee701bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86622b63cd1ef485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d77ea32d881fe68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb7ac77b858485f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50a270252027bd78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intolerância não existe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fb7ccf1f515386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0255881cd99ce99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b014564960c7907",
             "type": "leaf",
             "state": {
@@ -224,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -335,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
+                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
+                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md"
+                "file": "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md"
               }
             }
           },
@@ -414,21 +318,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4eb00a21bf4785f7",
+  "active": "d87f89dff7700b46",
   "lastOpenFiles": [
+    "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
+    "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
+    "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
+    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
+    "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
     "Intolerância não existe.md",
+    "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
     "Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
     "Como fazer uma introdução alimentar consciente?.md",
-    "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
-    "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
-    "75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
-    "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
-    "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
     "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
     "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
-    "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
     "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
     "2. Literature Notes/Topics/Quando uma mulher gesta, a tireoide aumenta.md",
     "2. Literature Notes/Topics/Uma criança que passou a gestação inteira com medo de não sobreviver vai hiper-reagir a bullying.md",
