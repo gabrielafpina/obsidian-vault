@@ -35,3 +35,4 @@ Se a pessoa tem sintoma X, ela tem na história dela um DHS vivido e uma memóri
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que é pré-programante, programante e ativador?]]
