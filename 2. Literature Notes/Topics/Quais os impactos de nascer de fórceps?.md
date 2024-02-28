@@ -9,6 +9,7 @@ Antes de mais nada, a criança nasce de fórceps porque a mãe não conseguiu pa
 Essa é uma pessoa que pode ter a tendência a sempre precisar da ajuda de outras pessoas. Ela sempre vai depender de alguém para fazer alguma coisa, ou vai se irritar quando alguém tentar ajudar ela a fazer alguma coisa.
 
 Geralmente, também é uma pessoa que tem conflitos com a mãe. Sente saudade da mãe, quando está junto, dá choque, ai separa, ai sente saudade de novo e o ciclo volta a se repetir. Porque quando está junto da mãe, revive a separação. É uma dificuldade de se vincular com a mãe. [[Temos dificuldade de se vincular com as pessoas, porque temos medo da separação]]. 
+	Nascer com fórceps é tanto um perigo para a criança, quanto um perigo para a mãe. Qual é a memória? Parir é um perigo. Assim, ela não vai engravidar. [[Como somos influenciados?]].  E se olhar para a história dela, vai ver muitos históricos de dor em gestações.
 
 [[Você é o que o seu cérebro de feto foi]].
 
