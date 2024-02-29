@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "6a55d76812d52373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona o nosso modo de resposta?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7e7c8dfb9c3ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como somos influenciados?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e542dd700c0677f0",
             "type": "leaf",
             "state": {
@@ -80,31 +56,19 @@
             }
           },
           {
-            "id": "20daef2c95c59cd2",
+            "id": "c17495330839af6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3e92374527438a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O feminismo, assim como o machismo, é um conflito de território.md",
+                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "massa de conflito",
+                "query": "leis biológicas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md"
+                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md"
               }
             }
           },
@@ -294,8 +258,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23aafd0974e2aa28",
+  "active": "e542dd700c0677f0",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Como somos influenciados?.md",
@@ -305,7 +271,6 @@
     "2. Literature Notes/Topics/O que são conflitos de líquido?.md",
     "Como funciona o nosso modo de resposta?.md",
     "Captura de Tela 2024-02-28 às 12.35.55.png",
-    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
     "O que são as hipercompensações?.md",
     "O feminismo, assim como o machismo, é um conflito de território.md",
@@ -323,7 +288,6 @@
     "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
     "2. Literature Notes/Topics/Intolerância não existe.md",
     "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
-    "2. Literature Notes/Topics/Tudo que você precisa, tem no mar, fitoterápico e homeopatia.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
