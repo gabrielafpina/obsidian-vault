@@ -14,6 +14,9 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 	Todo processo infeccioso, as 'ites' da vida, febres, vem em fases de reparo. É um reparo do corpo por conta do estresse que ele viveu em simpaticotonia.
 
 - Normotonia: quando está tudo bem;
+- DHS: [[O que é um DHS?]] vivemos um DHS que nos coloca na fase ativa de conflito, que é um estado de hiper-simpaticotonia.
+	- [[O que é o sistema nervoso simpático?]]
+		- Quando você vive um DHS [[O que é um DHS?]], o seu cérebro interpreta isso como um perigo de sobrevivência. [[Tudo para o cérebro é uma noção de sobrevivência]]. Então, você mobiliza todas as energias para achar uma solução e sair daquela situação de perigo.
 
 ###### **COMO:**
 
