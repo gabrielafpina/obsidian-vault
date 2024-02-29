@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff5201f47f917652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lei bifásica da doença.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
+                "file": "Lei bifásica da doença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
+                "file": "Lei bifásica da doença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md"
+                "file": "Lei bifásica da doença.md"
               }
             }
           },
@@ -258,9 +270,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e542dd700c0677f0",
+  "active": "ff5201f47f917652",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "Lei bifásica da doença.md",
+    "2. Literature Notes/Topics/O que é a massa do conflito?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/Obsidian.md",
@@ -286,8 +300,6 @@
     "2. Literature Notes/Topics/75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
     "3. Me, Myself and I/Raio X Gabriela Fernandes Pina.md",
     "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
-    "2. Literature Notes/Topics/Intolerância não existe.md",
-    "2. Literature Notes/Topics/Como funciona a icterícia em recém-nascidos?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
