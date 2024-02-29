@@ -186,7 +186,7 @@
             }
           },
           {
-            "id": "b4a8c71d5e98d471",
+            "id": "5f66c0f66c8a8a00",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "ebe2d179c0a515c9",
+            "id": "7c7a91b8d4df46e7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -271,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,7 +293,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e542dd700c0677f0",
+  "active": "7c7a91b8d4df46e7",
   "lastOpenFiles": [
     "O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/Obsidian.md",
