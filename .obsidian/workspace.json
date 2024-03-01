@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sair do conflito não significa que ele está resolvido.md",
+                "file": "Lei bifásica da doença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sair do conflito não significa que ele está resolvido.md",
+                "file": "Lei bifásica da doença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sair do conflito não significa que ele está resolvido.md"
+                "file": "Lei bifásica da doença.md"
               }
             }
           },
@@ -306,10 +306,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2d7a67d95ab868c",
+  "active": "ff5201f47f917652",
   "lastOpenFiles": [
-    "Lei bifásica da doença.md",
     "Sair do conflito não significa que ele está resolvido.md",
+    "Lei bifásica da doença.md",
     "O que é o sistema nervoso simpático?.md",
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
