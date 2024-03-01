@@ -21,6 +21,7 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 - **PCL**: essa fase tem 3 etapas
 	1. **Exudativa**: processo inflamatório, para reparar os tecidos que foram estressados na hiper-simpaticotonia. Ex: febres, 'ites' (rinite, sinusite, tendinite, bronquite, furúnculo, acne, alergias de pele, cansaço e sono; toda inflamação está aqui. Aqui atua o sistema nervoso parassimpático, é a vagotonia. 
 		1. Quando temos esse processo inflamatório, acontece um edema, que pode acontecer tanto no órgão, quanto no cérebro. O perigo de você ter um edema no cérebro é você ter uma hiper-tensão intra-craniana. Quando o paciente tem uma massa de conflito ([[O que é a massa do conflito?]]) muito grande e você trabalhar aquela MC, pode ser perigoso, porque ele pode ter um edema muito grande, consequentemente, pode ter um arrancamento das sinapses, tendo AVC ou morte cerebral.
+		2. É aqui que a vida do paciente começa a se ajustar.
 	2. **Crise epileptoide:** Quando você chega no mais profundo da vagotonia, você vai ter uma descarga simpaticotônica, que tem a função de frear o crescimento dos edemas, para proteger o sistema nervoso central.
 		1. Essa é uma descarga simpaticotônica, no meio da fase de vagotonia. Essa é, também, a parte mais perigosa do ciclo, porque a descarga simpaticotônica relê toda a massa de conflito da fase ativa. É aqui que encontramos as grandes angústias (diarreias, infarto, embolia, crises epiléticas, vômitos, tremores, crises de tosse), todos os movimentos que não controlamos.
 			1. Muitos pacientes morrem de madrugada, na hora da CE (2, 2:30 da manhã).
@@ -30,7 +31,7 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 
 [[Sair do conflito não significa que ele está resolvido]].
 
-Se um paciente vem com sintoma de fase PCL, precisamos entender o que ele fez para entrar em fase de reparo (conflitólise), e entendendo o que ele fez para entrar em fase de 
+Se um paciente vem com sintoma de fase PCL, precisamos entender o que ele fez para entrar em fase de reparo (conflitólise), e entendendo isso, eu compreendo o que ele viveu de perigo (DHS). Que é diferente de um paciente que veio na fase ativa, porque se ele está aqui, é necessário perguntar desde quando ele tem esse sintoma, porque conseguimos compreender o que ele viveu na fase de DHS.
 
 ###### **COMO:**
 
