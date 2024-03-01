@@ -17,6 +17,9 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 - DHS: [[O que é um DHS?]] vivemos um DHS que nos coloca na fase ativa de conflito, que é um estado de hiper-simpaticotonia.
 	- [[O que é o sistema nervoso simpático?]]
 		- Quando você vive um DHS [[O que é um DHS?]], o seu cérebro interpreta isso como um perigo de sobrevivência. [[Tudo para o cérebro é uma noção de sobrevivência]]. Então, você mobiliza todas as energias para achar uma solução e sair daquela situação de perigo.
+- Conflitólise: quebra do conflito, quando entramos em uma segunda fase, que é a fase PCL (pós-conflitólise).
+- PCL: essa fase tem 3 etapas
+	1. Exudativa: processo inflamatório, para reparar os tecidos que foram estressados na hiper-simpaticotonia. Ex: febres, 'ites', cansaço e sono. Aqui atua o sistema nervoso parassimpático, é a vagotonia. 
 
 ###### **COMO:**
 
