@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "c2d7a67d95ab868c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sair do conflito não significa que ele está resolvido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd1d343a5f99d41f",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "Sair do conflito não significa que ele está resolvido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "Sair do conflito não significa que ele está resolvido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei bifásica da doença.md"
+                "file": "Sair do conflito não significa que ele está resolvido.md"
               }
             }
           },
@@ -294,10 +306,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff5201f47f917652",
+  "active": "c2d7a67d95ab868c",
   "lastOpenFiles": [
-    "O que é o sistema nervoso simpático?.md",
     "Lei bifásica da doença.md",
+    "Sair do conflito não significa que ele está resolvido.md",
+    "O que é o sistema nervoso simpático?.md",
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/O que é a massa do conflito?.md",
@@ -323,7 +336,6 @@
     "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
     "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
     "2. Literature Notes/Topics/Aborto é um acordo de alma.md",
-    "2. Literature Notes/Topics/75% dos abortos ocorrem em mulheres casadas, no mundo inteiro.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",

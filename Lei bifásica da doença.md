@@ -28,6 +28,7 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 	3. **Cicatricial:** onde temos as oses (artrose, cirrose). Tudo que é tecido de cricatrização, para cicatrizar o tecido que foi estressado na fase ativa.
 - **Normotonia:** Quando se acha a solução do conflito, voltamos para um estágio de normotonia novamente. A diferença, é que agora o paciente está em um novo nível de consciência, trazendo um novo aprendizado embutido.
 
+[[Sair do conflito não significa que ele está resolvido]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
