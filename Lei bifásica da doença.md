@@ -35,6 +35,23 @@ Se um paciente vem com sintoma de fase PCL, precisamos entender o que ele fez pa
 
 [[O que é uma fase em balanço?]]
 
+O ritmo dia-noite ou ritmo simpaticotonia-vagotonia é gerado pelo Sistema Nervoso Autônomo ou vegetativo.
+
+Eles controlam o ritmo fisiológico em seu estado saudável e sofrem alterações quando somos submetidos a estímulos, o que muitas das vezes ficou conhecido como "patologias"
+
+**Sistema Nervoso Simpático**
+• Sistema Dia
+• Luta e Fuga (simpaticotonia)
+• Atividade
+• Ação
+• Fase Fria 
+
+**Sistema Nervoso Parassimpático**
+• Sistema Noite
+• Vagotonia
+• Repouso, reparação tecidual
+• Fase Quente
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
