@@ -33,6 +33,8 @@ Na prática, é a lei mais difícil de aceitar, pois ela 'reposiciona' muitos si
 
 Se um paciente vem com sintoma de fase PCL, precisamos entender o que ele fez para entrar em fase de reparo (conflitólise), e entendendo isso, eu compreendo o que ele viveu de perigo (DHS). Que é diferente de um paciente que veio na fase ativa, porque se ele está aqui, é necessário perguntar desde quando ele tem esse sintoma, porque conseguimos compreender o que ele viveu na fase de DHS.
 
+[[O que é uma fase em balanço?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
