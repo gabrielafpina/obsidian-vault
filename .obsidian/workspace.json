@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "e3dde5a47c9d53c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be852822c6e3fc51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cfc7bc168da2a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c2d7a67d95ab868c",
             "type": "leaf",
             "state": {
@@ -128,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invariante",
+                "query": "depressão",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -239,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei bifásica da doença.md"
+                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md"
               }
             }
           },
@@ -318,11 +354,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff5201f47f917652",
+  "active": "1cfc7bc168da2a11",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+    "Lei bifásica da doença.md",
     "O que é uma fase em balanço?.md",
     "Sair do conflito não significa que ele está resolvido.md",
-    "Lei bifásica da doença.md",
     "O que é o sistema nervoso simpático?.md",
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
@@ -346,8 +384,6 @@
     "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
     "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
-    "2. Literature Notes/Topics/Não existe doença congênita, apenas epigenética.md",
-    "2. Literature Notes/People/Muitas crenças limitantes estão conectadas ao mesmo momento.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",

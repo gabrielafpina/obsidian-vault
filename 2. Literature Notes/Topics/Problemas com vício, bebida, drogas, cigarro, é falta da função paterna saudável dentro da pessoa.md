@@ -1,6 +1,7 @@
 **TAGS:**
 
 **FONTE:** [[Constelação familiar]]
+
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
@@ -10,6 +11,7 @@
 ###### **PENSADORES:**
 
 ###### **FRASES:**
+- [[Eleanor Luzes]]: Todo vício é carga de abandono no passado.
 
 ---------
 
