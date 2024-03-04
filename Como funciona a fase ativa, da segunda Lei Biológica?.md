@@ -25,7 +25,6 @@ O 1º órgão que se adapta a qualquer tipo de estresse, é o Coração.
 - Angina, Úlcera Duodenal, Azia, Queimação, Dores Esofágicas, Dores frias (periósteo)
 - Proliferação celular ou Necrose Tecidual (3° Lei)
 
-
 ###### **PENSADORES:**
 
 ###### **FRASES:**
@@ -39,3 +38,5 @@ O 1º órgão que se adapta a qualquer tipo de estresse, é o Coração.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O paciente verbaliza o conflito dele]]
+- [[O que seria a ansiedade em termos biológicos?]]
