@@ -61,11 +61,17 @@ Quando submetido a um DHS, o cérebro coloca em ação o Programa Biológico Esp
 Quando o indivíduo resolve o conflito ou o conflito cessa por si mesmo, temos a fase de Conflitólise, que dá início a segunda fase que é a Fase Pós Conflitolítica (PCL).
 
 Nessa fase ocorrem os processos de REPARAÇÃO TECIDUAL, por isso muitas das vezes é conhecida como Fase de Reparo ou Fase de Resolução.
+	Esse é o momento em que os tecidos que foram estressados na fase ativa são reparados.
 
 É caracterizada, principalmente por um afluxo sanguíneo (processo inflamatório) e tem por objetivo reparar os tecidos que foram lesionados durante a Fase Ativa.
-	É divida em 3 etapas: PCLa, Crise Epleptóide e PCLp•
+	É divida em 3 etapas: PCLa, Crise Epleptóide e PCLb•
 
-Após a passagem pela fase PCL, o corpo volta a um estado de Normotonia, mas agora em um OUTRO NÍVEL DE PERCEPÇÃO
+Após a passagem pela fase PCLb, o corpo volta a um estado de Normotonia, mas agora em um OUTRO NÍVEL DE PERCEPÇÃO, por conta do aprendizado.
+
+A solução do conflito não é a cura, ela te permite reparar. Ou seja, reorganizar a estrutura do tecido que foi estressado na fase ativa.
+
+![[Captura de Tela 2024-03-04 às 15.44.42.png]]
+[[Como funciona a fase ativa, da segunda Lei Biológica?]]
 
 ###### **COMO:**
 

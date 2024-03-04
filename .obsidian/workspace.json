@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "b28862fbce2a2091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a fase ativa, da segunda Lei Biológica?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7415501fcc383c62",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "Como funciona a fase ativa, da segunda Lei Biológica?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lei bifásica da doença.md",
+                "file": "Como funciona a fase ativa, da segunda Lei Biológica?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei bifásica da doença.md"
+                "file": "Como funciona a fase ativa, da segunda Lei Biológica?.md"
               }
             }
           },
@@ -331,10 +343,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff5201f47f917652",
+  "active": "b28862fbce2a2091",
   "lastOpenFiles": [
-    "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
     "Lei bifásica da doença.md",
+    "Como funciona a fase ativa, da segunda Lei Biológica?.md",
+    "Captura de Tela 2024-03-04 às 15.44.42.png",
+    "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
     "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
@@ -360,7 +374,6 @@
     "2. Literature Notes/Topics/Se a concepção foi difícil, o parto será difícil.md",
     "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
     "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
-    "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",
@@ -368,7 +381,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.50.11.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.47.45.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 15.15.59.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
