@@ -80,36 +80,12 @@
             }
           },
           {
-            "id": "e3dde5a47c9d53c5",
+            "id": "7415501fcc383c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be852822c6e3fc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cfc7bc168da2a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -214,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -275,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md"
+                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md"
               }
             }
           },
@@ -354,11 +331,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cfc7bc168da2a11",
+  "active": "7415501fcc383c62",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
-    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "Lei bifásica da doença.md",
+    "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
+    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+    "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "O que é uma fase em balanço?.md",
     "Sair do conflito não significa que ele está resolvido.md",
     "O que é o sistema nervoso simpático?.md",
@@ -382,8 +361,6 @@
     "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
     "2. Literature Notes/Topics/Na gestação, uma mulher não deve tomar café.md",
     "2. Literature Notes/Topics/O que é uma criança que tem síndrome de down?.md",
-    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
-    "2. Literature Notes/Topics/Porque uma criança tem problema de cegueira?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",

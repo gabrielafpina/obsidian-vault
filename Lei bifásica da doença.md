@@ -52,6 +52,12 @@ Eles controlam o ritmo fisiológico em seu estado saudável e sofrem alteraçõe
 • Repouso, reparação tecidual
 • Fase Quente
 
+Quando submetido a um DHS, o cérebro coloca em ação o Programa Biológico Especial com sentido Inteligente fora da consciência.
+	Isso dá início a Fase Ativa do Conflito que é um hiperestresse em uma simpaticotonia duradoura até a Resolução do Conflito.
+	O tempo pode variar de segundos, horas, dias ou até anos.
+
+É quando o corpo entende que é preciso mobilizar TODAS as forças disponíveis do indivíduo. 'Eu tenho que achar uma solução para isso que eu estou vivendo'. [[É necessário lembrar que na natureza, tudo é um ganho de tempo]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
