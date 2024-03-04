@@ -10,8 +10,21 @@ Na Fase Ativa, os sintomas muitas das vezes são pouco perceptíveis. Aqui você
 	No entanto, na hora que a situação acaba, você vive a dor - Conflitólise.
 
 O 1º órgão que se adapta a qualquer tipo de estresse, é o Coração.
+	Quando você se ve em uma situação de perigo, o coração naturalmente começa a bater mais rápido, porque tem que bombear sangue, oxigênio, para nutrir os tecidos, para lutar ou fugir. 
+		O problema, é quando você está vivendo esse conflito por muitos anos.
 
-###### **COMO:**
+###### **SINTOMAS DA FASE ATIVA:**
+- Taquicardia
+- Hipertensão
+- Extremidades frias (vasoconstrição)
+- Emagrecimento rápido e importante (alto consumo de energia)
+- Insônia (sono não reparador)
+- Fadiga Tensa *
+- Remoer Pensamentos (achar uma solução)
+- Perda Apetite (Curvatura menor Estômago)
+- Angina, Úlcera Duodenal, Azia, Queimação, Dores Esofágicas, Dores frias (periósteo)
+- Proliferação celular ou Necrose Tecidual (3° Lei)
+
 
 ###### **PENSADORES:**
 
