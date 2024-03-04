@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Então, 
+Então, estar em alerta mais tempo, me permite achar a solução para aquilo que estou vivendo.
 
 ###### **COMO:**
 

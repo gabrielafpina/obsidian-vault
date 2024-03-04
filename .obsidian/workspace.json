@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
+                "file": "Lei bifásica da doença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
+                "file": "Lei bifásica da doença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md"
+                "file": "Lei bifásica da doença.md"
               }
             }
           },
@@ -331,10 +331,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7415501fcc383c62",
+  "active": "ff5201f47f917652",
   "lastOpenFiles": [
-    "Lei bifásica da doença.md",
     "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
+    "Lei bifásica da doença.md",
     "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",

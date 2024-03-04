@@ -56,7 +56,16 @@ Quando submetido a um DHS, o cérebro coloca em ação o Programa Biológico Esp
 	Isso dá início a Fase Ativa do Conflito que é um hiperestresse em uma simpaticotonia duradoura até a Resolução do Conflito.
 	O tempo pode variar de segundos, horas, dias ou até anos.
 
-É quando o corpo entende que é preciso mobilizar TODAS as forças disponíveis do indivíduo. 'Eu tenho que achar uma solução para isso que eu estou vivendo'. [[É necessário lembrar que na natureza, tudo é um ganho de tempo]]
+É quando o corpo entende que é preciso mobilizar TODAS as forças disponíveis do indivíduo. 'Eu tenho que achar uma solução para isso que eu estou vivendo'. [[É necessário lembrar que na natureza, tudo é um ganho de tempo]].
+
+Quando o indivíduo resolve o conflito ou o conflito cessa por si mesmo, temos a fase de Conflitólise, que dá início a segunda fase que é a Fase Pós Conflitolítica (PCL).
+
+Nessa fase ocorrem os processos de REPARAÇÃO TECIDUAL, por isso muitas das vezes é conhecida como Fase de Reparo ou Fase de Resolução.
+
+É caracterizada, principalmente por um afluxo sanguíneo (processo inflamatório) e tem por objetivo reparar os tecidos que foram lesionados durante a Fase Ativa.
+	É divida em 3 etapas: PCLa, Crise Epleptóide e PCLp•
+
+Após a passagem pela fase PCL, o corpo volta a um estado de Normotonia, mas agora em um OUTRO NÍVEL DE PERCEPÇÃO
 
 ###### **COMO:**
 
