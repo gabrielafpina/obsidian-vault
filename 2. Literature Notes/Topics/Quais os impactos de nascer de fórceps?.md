@@ -17,13 +17,13 @@ E, por exemplo, se uma criança é empurrada para fora da barriga, com alguém s
 
 Em geral, obstestras que usam fórceps, nasceram de fórceps, e muitas vezes não sabiam.
 
-Pacientes que nasceram de fórceps muitas vezes, tem incapacidade de sentir. A dor que a mulher sente é tal, que ela pode fazer uma promessa para si mesma “nunca mais vou sentir”. Podem sofrer de enxaqueca, ou sentem a vida como uma dor de cabeça. São pessoas briguentas, irritadiças, cheias de energia e querem fazer tudo a seu próprio modo. Intuitivos, criativos e independentes, não "entregam a cabeça aos outros", tenazes e obstinados.
-
 -   Na vida adulta recriam a situação de prisão para depois atrairem alguém que a salve no último instante.
 -   Têm medo de serem manipulados e controlam tudo.
-- Na experiência clinica da Eleanor também há a profecia auto-cumprida de: foi tanta a dor, que juro que não vou mais sentir nada na vida.
-
-Temor do toque, necessidade de racionalizar tudo.
+- Na experiência clinica da Eleanor também há a profecia auto-cumprida de: 'foi tanta a dor, que juro que não vou mais sentir nada na vida.'
+	- Pacientes que nasceram de fórceps muitas vezes, tem incapacidade de sentir. A dor que a mulher sente é tal, que ela pode fazer uma promessa para si mesma “nunca mais vou sentir”. 
+	- Podem sofrer de enxaqueca, ou sentem a vida como uma dor de cabeça. 
+	- São pessoas briguentas, irritadiças, cheias de energia e querem fazer tudo a seu próprio modo. Intuitivos, criativos e independentes, não "entregam a cabeça aos outros", tenazes e obstinados.
+	- Possuem temor do toque e necessidade de racionalizar tudo.
 
 ###### **COMO:**
 

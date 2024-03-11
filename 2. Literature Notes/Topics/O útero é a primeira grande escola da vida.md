@@ -27,3 +27,5 @@ O nascimento é o primeiro rito de passagem de todo ser humano. Não compreender
 
 **Sul: para onde vai**
 - [[Quando uma mãe quer muito o bebê, ela fala o tempo todo com ele]]
+- [[Qual é o impacto da anestesia peridural?]]
+- [[Quais são as consequências para relacionamentos, nas pessoas que ficam em incubadoras após o parto?]]
