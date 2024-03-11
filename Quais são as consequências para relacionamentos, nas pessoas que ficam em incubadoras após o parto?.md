@@ -12,8 +12,6 @@ Ray e Mandel perceberam como bebês que ficaram algum tempo em incubadoras na vi
 
 [[Todas as mulheres dão à luz pensando consciente ou inconscientemente na própria mãe]].
 
-Para Ray e Mandel: "Se seu nascimento foi realmente normal no sentido de ter sido fácil, relativamente rápido e de alguma forma agradável, você pode crescer com bom gênio e gostar das pessoas, sentir-se mais querido e amado, ter relacionamentos menos dramáticos e difíceis, ser uma pessoa calma, sentir-se próximo de sua mãe, ser capaz de cuidar de si mesmo, ficar sozinho e se dar bem nos relacionamentos intimos."
-
 ###### **COMO:**
 
 ###### **PENSADORES:**
