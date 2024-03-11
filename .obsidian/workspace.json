@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "39db21a79b488820",
+        "id": "a7796cbadac81c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9483bf871df5d3",
+            "id": "24a85cfcba594578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e542dd700c0677f0",
+            "id": "ad60bcb569349d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a massa do conflito?.md",
+                "file": "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1313cc85399dc582",
+            "id": "9fb6a3860c4354a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,129 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae0c79b7e8e9ebad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que são as hipercompensações?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c17495330839af6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff5201f47f917652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lei bifásica da doença.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28862fbce2a2091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona a fase ativa, da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89e2c866aab6a8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que seria a ansiedade em termos biológicos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7415501fcc383c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2d7a67d95ab868c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sair do conflito não significa que ele está resolvido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa3b8521ff58476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é uma fase em balanço?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd1d343a5f99d41f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é o sistema nervoso simpático?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1ffaa8fc4103ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é um invariante biológico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depressão",
+                "query": "fórceps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -276,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que seria a ansiedade em termos biológicos?.md",
+                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que seria a ansiedade em termos biológicos?.md",
+                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que seria a ansiedade em termos biológicos?.md"
+                "file": "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md"
               }
             }
           },
@@ -355,37 +235,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89e2c866aab6a8eb",
+  "active": "9fb6a3860c4354a7",
   "lastOpenFiles": [
-    "Como funciona a fase ativa, da segunda Lei Biológica?.md",
-    "O que seria a ansiedade em termos biológicos?.md",
-    "Lei bifásica da doença.md",
-    "Captura de Tela 2024-03-04 às 15.44.42.png",
-    "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
-    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
-    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
+    "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+    "2. Literature Notes/Topics/O que é um invariante biológico?.md",
+    "O que é o sistema nervoso simpático?.md",
     "O que é uma fase em balanço?.md",
     "Sair do conflito não significa que ele está resolvido.md",
-    "O que é o sistema nervoso simpático?.md",
-    "2. Literature Notes/Topics/O que é um invariante biológico?.md",
+    "É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
+    "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
+    "O que são as hipercompensações?.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "Lei bifásica da doença.md",
+    "O que seria a ansiedade em termos biológicos?.md",
+    "Como funciona a fase ativa, da segunda Lei Biológica?.md",
+    "Captura de Tela 2024-03-04 às 15.44.42.png",
+    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+    "2. Literature Notes/Topics/Problemas com vício, bebida, drogas, cigarro, é falta da função paterna saudável dentro da pessoa.md",
     "2. Literature Notes/Topics/O que é a massa do conflito?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/Obsidian.md",
     "Como somos influenciados?.md",
     "Captura de Tela 2024-02-28 às 12.54.36.png",
-    "2. Literature Notes/Topics/Quais os impactos de nascer de fórceps?.md",
     "2. Literature Notes/Topics/Tudo para o cérebro é uma noção de sobrevivência.md",
     "2. Literature Notes/Topics/O que são conflitos de líquido?.md",
     "Como funciona o nosso modo de resposta?.md",
     "Captura de Tela 2024-02-28 às 12.35.55.png",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-    "O que são as hipercompensações?.md",
     "O feminismo, assim como o machismo, é um conflito de território.md",
     "2. Literature Notes/Topics/Se a concepção foi difícil, o parto será difícil.md",
-    "2. Literature Notes/Topics/90% do DNA é um código de linguagem escrita, que conta toda a história da sua ancestralidade.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.53.07.png",

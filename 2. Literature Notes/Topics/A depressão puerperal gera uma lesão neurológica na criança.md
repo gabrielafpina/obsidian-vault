@@ -10,6 +10,7 @@ Depressão puerperal = lesão de amígdala cerebral. E maconha = lesão de amíg
 
 - A depressão da mãe é uma das piores coisas que podem acontecer. Ela leva a lesão de amígdala cerebral. 
 	- A criança sente que ela não é nada para a mãe. A mãe “não tá nem aí” para o filho. E isso gera uma raiva sofisticada na criança, e ela pode se tornar maldosa.
+	- A amígdala cerebral controla todas as experiências de irritabilidade, raiva e violência, até.
 
 ###### **COMO:**
 

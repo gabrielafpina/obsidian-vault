@@ -8,6 +8,8 @@
 
 Todas as primeiras impressões geradas no útero ficam na memória e se transformam em um sistema de [[crenças]], que estarão no corpo e na mente.
 
+O nascimento é o primeiro rito de passagem de todo ser humano. Não compreender isso, é não compreender as crenças que a pessoa vai ter ao longo da vida.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
