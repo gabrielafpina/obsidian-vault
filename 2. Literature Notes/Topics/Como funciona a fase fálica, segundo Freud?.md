@@ -39,6 +39,7 @@ Para Freud, 'perversão' é um termo que não julga. Ele o usou para designar um
 	- A 'perversão polimorfa' é um conceito psicanalítico que propõe a capacidade de obter gratificação sexual fora dos comportamentos sexuais socialmente 'normais'.
 	- Freud usou esse termo para descrever a disposição sexual desde a infância até os 5/6 anos de idade.
 	- Assim, as manifestações da criança são 'perversas' porque não tem relação com a reprodução ou ato sexual com a finalidade de procriação. E são polimorfas, porque não estão centralizadas em um objeto sexual, ou seja, varia de forma. Mas assumem formas variadas de satisfação por meio de zonas erógenas, partes da pele ou da mucosa de onde se origina uma excitação sexual e que são tomadas como a principal referência para os outros prazeres do corpo.
+	- Portanto, o corpo da criança é tomado por pulsões parciais autoeróticas, que são pulsões sexuais fragmentadas e independentes entre si no que diz respeito à busca pela satisfação. A obtenção de prazer é encontrada no próprio corpo e não em um objeto externo.
 
 ###### **COMO:**
 
