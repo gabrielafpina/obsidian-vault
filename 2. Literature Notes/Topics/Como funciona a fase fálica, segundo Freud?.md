@@ -44,7 +44,19 @@ Para Freud, 'perversão' é um termo que não julga. Ele o usou para designar um
 
 Na fase inicial, a fase oral, a criança forma um vínculo libidinal com a mãe, por meio do prazer inerente obtido ao sugar o seio e isso continua de outra forma nas fases seguintes.
 
-###### **COMO:**
+###### **CARACTERÍSTICAS:**
+- Por volta dos três anos de idade, a libido passa a se organizar sobre os genitais;
+- Desenvolve-se o interesse infantil pelos genitais;
+- A preocupação com as diferenças sexuais contaminam até a percepção dos objetos;
+- A discriminação entre os sexos se dá pela presença ou ausência do pênis;
+- A erotização dos genitais ganha importância;
+- A tarefa básica deste momento consiste em organizar os modelos de relação entre o homem e a mulher;
+- Forma-se na criança uma espécie de busca de prazer junto ao sexo oposto;
+- O esquema repressor é desencadeado com a entrada do pai em cena (hoje isso evoluiu bastante e a mãe pode exercer esse papel também);
+- O pai coloca-se como um interceptor entre o filho e a mãe;
+- O menino mescla sentimentos de amor e ódio pelo pai;
+- A criança configura o desejo de eliminar aquele que lhe impede o acesso a mãe - Complexo de Edipo;
+- O menino teme ser castrado pelo pai, como punição, e é obrigado a reprimir a atração sentida pela mãe.
 
 ###### **PENSADORES:**
 
