@@ -40,6 +40,9 @@ Para Freud, 'perversão' é um termo que não julga. Ele o usou para designar um
 	- Freud usou esse termo para descrever a disposição sexual desde a infância até os 5/6 anos de idade.
 	- Assim, as manifestações da criança são 'perversas' porque não tem relação com a reprodução ou ato sexual com a finalidade de procriação. E são polimorfas, porque não estão centralizadas em um objeto sexual, ou seja, varia de forma. Mas assumem formas variadas de satisfação por meio de zonas erógenas, partes da pele ou da mucosa de onde se origina uma excitação sexual e que são tomadas como a principal referência para os outros prazeres do corpo.
 	- Portanto, o corpo da criança é tomado por pulsões parciais autoeróticas, que são pulsões sexuais fragmentadas e independentes entre si no que diz respeito à busca pela satisfação. A obtenção de prazer é encontrada no próprio corpo e não em um objeto externo.
+	- Freud dizia que, durante esse estágio de impulso indiferenciado de prazer, por não saber certos modos de gratificação são proibidos (pela sociedade), a criança polimorficamente perversa busca gratificação onde quer que ela ocorra.
+
+Na fase inicial, a fase oral, a criança forma um vínculo libidinal com a mãe, por meio do prazer inerente obtido ao sugar o seio e isso continua de outra forma nas fases seguintes.
 
 ###### **COMO:**
 
