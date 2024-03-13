@@ -29,7 +29,14 @@ Enquanto identidade de gênero, o ser humano tem um caminho a trilhar do reconhe
 
 Todos temos um menino e uma menina dentro de nós. [[Criança Interior]]
 
+Ao afirmar que as crianças obtém prazer com determinadas atividades cotidianas ligadas ao corpo, como a sucção, a defecação e a masturbação, Freud toma como fundamento da sexualidade infantil à disposição perverso-polimorfa.
+	Sucção - [[Como funciona a fase oral, segundo Freud?]]
+	Defecação - [[Como funciona a fase anal, segundo Freud?]]
+	Masturbação - fase fálica
+		Aqui, é uma curiosidade, tocar os órgãos genitais, descobrindo o prazer. O pênis do menino já fica ereto nessa época.
 
+Para Freud, 'perversão' é um termo que não julga. Ele o usou para designar um comportamento fora das normas socialmente aceitáveis de sua época. Ou seja, a sociedade não aceitava, não era perverso, mas era como era visto pela norma.
+	A 'perversão polimorfa' é um conceito psicanalítico que propõe a capacidade de obter gratificação sexual fora dos comportamentos sexuais socialmente 'normais'.
 
 ###### **COMO:**
 
@@ -44,6 +51,5 @@ Todos temos um menino e uma menina dentro de nós. [[Criança Interior]]
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[Como funciona a fase oral, segundo Freud?]]
 
 **Sul: para onde vai**
