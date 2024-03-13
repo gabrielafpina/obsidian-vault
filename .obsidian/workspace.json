@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "86060fa1d14d98bf",
+            "id": "82217534ae44ad42",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "23aafd0974e2aa28",
+            "id": "c0c92205a0be38f3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5,
-    "collapsed": true
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "806df956172ba981",
+  "active": "c0c92205a0be38f3",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
     "2. Literature Notes/Topics/O útero é a primeira grande escola da vida.md",
