@@ -14,7 +14,7 @@ Na natureza, ou você é apto, ou não é.
 
 Seu fim é marcado pelo aumento da diurese e consequente eliminação dos edemas da fase exudativa.
 
-Aqui, a vida vem te testar, para saber o quanto você realmente quer mudar, ou 
+Aqui, a vida vem te testar, para saber o quanto você realmente quer mudar, consegue mudar, ou não.
 
 ###### **SINTOMAS:**
 Tudo que é muito agudo, é crise epileptoide.
