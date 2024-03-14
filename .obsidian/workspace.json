@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "efeito hipn",
+                "query": "melhora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -271,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d8925dcaec63e1b",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "Como funciona a reparação a nível do Foco de Hamer?.md",
