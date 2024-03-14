@@ -8,9 +8,21 @@ Por causa do desconforto é no começo dessa fase que, na maioria das vezes, o d
 
 A passagem para a PCL é rápida.
 
+A fase de reparação é muitas vezes mal interpretada, pois há uma confusão histórica entre doença e reparo.
 
+O Sentido Biológico da Vagotonia é o repouso forçado pelo aumento da atividade do Sistema Nervoso Autônomo e a recuperação fisiológica após um período longo de estresse.
+	A vagotonia vem para reparar os tecidos.
 
-###### **COMO:**
+###### **SINTOMAS DA FASE PCL:**
+- Grande fadigas (relaxadas)
+- Febres, infecções, inflamações (todas as ITES)
+	- Febre é um dos melhores sinais que você pode ter, mas as [[crenças]] que as pessoas tem da febre, é que ela é perigosa, o que não é o caso.
+-  Hipotensão, pressão baixa
+- Sudorese noturna, de ter que trocar o lençol
+- Possíveis despertares entre 0 e 3h da manhã  
+- Volta do apetite e ganho de peso  
+- Hemorragias  
+- Dores pulsáteis (como enxaqueca)
 
 ###### **PENSADORES:**
 
@@ -25,3 +37,12 @@ A passagem para a PCL é rápida.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
