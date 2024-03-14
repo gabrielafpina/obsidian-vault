@@ -38,3 +38,4 @@ O Sentido Biológico da Vagotonia é o repouso forçado pelo aumento da atividad
 
 **Sul: para onde vai**
 - [[Como funciona a PCLa - Fase exudativa?]]
+- [[Como funciona a crise epileptoide?]]
