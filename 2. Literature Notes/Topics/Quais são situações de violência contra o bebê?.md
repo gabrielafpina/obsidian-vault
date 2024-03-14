@@ -28,3 +28,4 @@
 - [[Quais são os impactos de fazer parto na água?]]
 - [[O que significa o bebê não estar na posição correta na hora do parto?]]
 - [[O que é a episiotomia e quais as consequências de utilizá-la?]]
+- [[Quais são práticas que podem ser o início da perda da relação com o próprio feminino no momento do parto?]]
