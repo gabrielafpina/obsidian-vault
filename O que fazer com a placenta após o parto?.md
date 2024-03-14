@@ -23,3 +23,4 @@ Há mulheres que comem partes da placenta, o que lhes dá mais energia e diminui
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Porque uma pessoa possui placenta acreta?]]
