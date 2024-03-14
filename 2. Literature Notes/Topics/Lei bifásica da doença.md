@@ -72,6 +72,7 @@ A solução do conflito não é a cura, ela te permite reparar. Ou seja, reorgan
 
 ![[Captura de Tela 2024-03-04 às 15.44.42.png]]
 [[Como funciona a fase ativa, da segunda Lei Biológica?]]
+[[Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?]]
 
 ###### **COMO:**
 

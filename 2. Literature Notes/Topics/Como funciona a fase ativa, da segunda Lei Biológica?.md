@@ -13,6 +13,8 @@ O 1º órgão que se adapta a qualquer tipo de estresse, é o **Coração**.
 	Quando você se ve em uma situação de perigo, o coração naturalmente começa a bater mais rápido, porque tem que bombear sangue, oxigênio, para nutrir os tecidos, para lutar ou fugir. 
 		O problema, é quando você está vivendo esse conflito por muitos anos.
 
+Acima de 6 a 9 meses de um conflito ativo muito forte, o risco de morte é muito grande na fase PCL, por conta  da questão do edema cerebral.
+
 ###### **SINTOMAS DA FASE ATIVA:**
 - Taquicardia
 - Hipertensão
@@ -40,3 +42,4 @@ O 1º órgão que se adapta a qualquer tipo de estresse, é o **Coração**.
 **Sul: para onde vai**
 - [[O paciente verbaliza o conflito dele]]
 - [[O que seria a ansiedade em termos biológicos?]]
+- [[O que seria uma fase ativa em balanço?]]
