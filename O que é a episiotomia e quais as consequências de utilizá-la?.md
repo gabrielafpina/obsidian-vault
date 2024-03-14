@@ -4,9 +4,9 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Depressão puerperal. [[A depressão puerperal gera uma lesão neurológica na criança]]
+Não há nenhum motivo pelo qual realizar a episiotomia.
 
-A maioria dos hospitais públicos não autoriza a entrada do acompanhante, mesmo sendo uma LEI, a lei do acompanhante, que é escolhido pela parturiente.
+Ela destrói a vida sexual da mulher.
 
 ###### **COMO:**
 
