@@ -25,3 +25,4 @@ A gestante tem que sentir a mãe natureza dentro de si e é ela que guiará essa
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[O que fazer com a placenta após o parto?]]
