@@ -6,7 +6,9 @@
 ###### **DEFINIÇÃO:**
 Knorad Lorenz descobriu que a primeira coisa que a criança vê, ela acha que é a mãe dela.
 
-Se foi violência, a vida é violência. Se foi separação, é 'a vida não me quer'.
+Se foi violência, a vida é violência. Se foi separação, é 'a vida não me quer'. 
+
+Por isso, o nascimento é extremamente importante.
 
 ###### **COMO:**
 

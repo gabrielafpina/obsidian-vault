@@ -10,6 +10,8 @@
 	- 'Se meu pai não se coloca virilmente na vida, não sou eu que vou me colocar'. Se o pai tiver a atitude correta, o testículo desce na mesma hora.
 -   As três situações acima ocorrem por falta de direcionamento dos pai na vida.
 
+[[Quando nascer vem com tortura?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

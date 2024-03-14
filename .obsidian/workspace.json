@@ -92,6 +92,30 @@
             }
           },
           {
+            "id": "ca8d06f63d575e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebbc3100bdf10e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando nascer vem com tortura?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9869b2b075b9ae4",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -159,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "episiotomia",
+                "query": "violência",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -186,8 +210,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
+                "file": "Quando nascer vem com tortura?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
+                "file": "Quando nascer vem com tortura?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md"
+                "file": "Quando nascer vem com tortura?.md"
               }
             }
           },
@@ -331,10 +354,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "5ebbc3100bdf10e5",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
+    "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
+    "Quando nascer vem com tortura?.md",
     "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
+    "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
     "Porque uma pessoa possui placenta acreta?.md",
     "O que fazer com a placenta após o parto?.md",
     "Quanto tempo o útero demora para abrir?.md",
@@ -342,7 +367,6 @@
     "2. Literature Notes/Topics/Porque não usar o termo 'contração'?.md",
     "2. Literature Notes/People/Janet Balaskas.md",
     "Quais são práticas que podem ser o início da perda da relação com o próprio feminino no momento do parto?.md",
-    "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
     "2. Literature Notes/Topics/O que é a episiotomia e quais as consequências de utilizá-la?.md",
     "Qual é a consequência da mulher não ter um acompanhante durante o trabalho de parto?.md",
     "Quais são os impactos de fazer parto na água?.md",
@@ -358,7 +382,6 @@
     "2. Literature Notes/Topics/O que é o sistema nervoso simpático?.md",
     "2. Literature Notes/Topics/O que é uma fase em balanço?.md",
     "2. Literature Notes/Topics/Sair do conflito não significa que ele está resolvido.md",
-    "2. Literature Notes/Topics/É necessário lembrar que na natureza, tudo é um ganho de tempo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
