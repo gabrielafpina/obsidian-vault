@@ -43,3 +43,4 @@ Acima de 6 a 9 meses de um conflito ativo muito forte, o risco de morte é muito
 - [[O paciente verbaliza o conflito dele]]
 - [[O que seria a ansiedade em termos biológicos?]]
 - [[O que seria uma fase ativa em balanço?]]
+- [[Como funciona a reparação a nível do Foco de Hamer?]]

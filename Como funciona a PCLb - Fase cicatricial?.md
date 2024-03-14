@@ -14,7 +14,7 @@ Se o conflito não for resolvido permanecerá em BALANÇO ([[O que é uma fase e
 
 Ou seja, as retrações teciduais afetam também os Focos de Hamer ([[O que são Focos de Hamer?]]), por isso os mais velhos tem mais probabilidades de arrancamento de sinapses.
 	Muitas vezes, as fases de balanço não geram um processo cicatricial só no órgão, mas também no cérebro.
-		Se um tecido fibroso é instalado ali, o cérebro fica menos plástico.
+		Se um tecido fibroso é instalado ali, o cérebro fica menos plástico. É por isso, também, que quando ficamos mais velhos, vamos ficando mais teimosos, com mais dificuldade de mudar. Por isso, ser flexível a vida inteira, é bom para a nossa forma de ver a vida, mas também é bom para a nossa fisiologia.
 
 ###### **COMO:**
 

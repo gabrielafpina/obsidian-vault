@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "4aa6c6e6f3a8025f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8925dcaec63e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a reparação a nível do Foco de Hamer?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a84d2d5581369c5",
             "type": "leaf",
             "state": {
@@ -50,54 +74,6 @@
               "type": "markdown",
               "state": {
                 "file": "Como funciona a crise epileptoide?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2024f81f7821385f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona a PCLa - Fase exudativa?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209df531b3d978fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178e260d2616008a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que seria uma fase ativa em balanço?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10950e90c2e97aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -215,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a PCLb - Fase cicatricial?.md",
+                "file": "Como funciona a reparação a nível do Foco de Hamer?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a PCLb - Fase cicatricial?.md",
+                "file": "Como funciona a reparação a nível do Foco de Hamer?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a PCLb - Fase cicatricial?.md"
+                "file": "Como funciona a reparação a nível do Foco de Hamer?.md"
               }
             }
           },
@@ -294,17 +271,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c1467a5576f1624d",
+  "active": "2d8925dcaec63e1b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
+    "Como funciona a reparação a nível do Foco de Hamer?.md",
+    "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
     "Como funciona a PCLb - Fase cicatricial?.md",
     "Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-    "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
     "Como funciona a PCLa - Fase exudativa?.md",
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
-    "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "O que seria uma fase ativa em balanço?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
@@ -321,7 +299,6 @@
     "Quando nascer vem com tortura?.md",
     "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
     "Porque uma pessoa possui placenta acreta?.md",
-    "O que fazer com a placenta após o parto?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
