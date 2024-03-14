@@ -10,7 +10,7 @@ Pessoas que nascem de cesárea tem mais dificuldade para tomar decisão e insist
 
 Como a cesárea comumente é por mentira, não confiam em ninguém. 
 
-Tem dificuldade de completar as coisas.
+Tem dificuldade de completar as coisas. Além de ter uma sensação crônica de não 'ter feito o que era devido'.
 
 Têm necessidade de afeto físico, ou o oposto, retraem-se.
 
@@ -22,9 +22,12 @@ Criam interrupções frequentes nas relações.
 
 Dificuldade de olhar nos olhos.
 
-Como não acordaram a pele - tatuam-se.
+Como não acordaram a pele - tatuam-se e usam piercing, pois não viveu o resultado nesse órgão das massagens uterinas.
 
 Problemas de sono (faltou terminar o sistema reticular).
+	O sistema reticular, que tem seu 'acabamento' com as massagens uterinas não aconteceu.
+
+O grande imprinting é a adrenalina.
 
 ###### **CESÁREA PROGRAMADA:**
 Sentem-se interrompidos e não respeitados, e sentem grande ressentimento por isso.
@@ -57,6 +60,4 @@ Não podem fazer as coisas por si mesmos, necessitam que lhes 'resgatem'.
 
 **Sul: para onde vai**
 - [[No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória]]
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
+- [[Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento]]
