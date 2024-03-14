@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
+                "file": "Como funciona a crise epileptoide?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
+                "file": "Como funciona a crise epileptoide?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md"
+                "file": "Como funciona a crise epileptoide?.md"
               }
             }
           },
@@ -282,16 +283,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51265fbc30f64490",
+  "active": "dc97fc0d4b8de819",
   "lastOpenFiles": [
-    "Como funciona a crise epileptoide?.md",
-    "Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
+    "Como funciona a crise epileptoide?.md",
+    "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
+    "Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
     "Como funciona a PCLa - Fase exudativa?.md",
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "O que seria uma fase ativa em balanço?.md",
-    "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/O que a tradição tibetana fala sobre o parto?.md",

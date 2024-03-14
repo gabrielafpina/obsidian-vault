@@ -10,7 +10,33 @@ Durante a Crise Epileptoide ocorre uma releitura de TODA a massa de conflito ([[
 
 Dr. Hamer diz que é a "hora da verdade", "a prova dos 9". Seria como um teste de validade da solução estabelecida.
 
-###### **COMO:**
+Na natureza, ou você é apto, ou não é.
+
+Seu fim é marcado pelo aumento da diurese e consequente eliminação dos edemas da fase exudativa.
+
+Aqui, a vida vem te testar, para saber o quanto você realmente quer mudar, ou 
+
+###### **SINTOMAS:**
+Tudo que é muito agudo, é crise epileptoide.
+- Hipo ou Hiperglicemia, 
+- desmaios, 
+- pânico, 
+- câimbras, 
+- vômitos, 
+- diarreia, 
+- soluço, 
+- tosse, 
+- espirro, 
+- tic's, TOC, 
+- suores frios, 
+- espasmos coronarianos, 
+- embolia pulmonar, 
+- asma laríngea, brônquica ou as duas, 
+- arritmias mais fortes, 
+- taquicardias mais fortes, 
+- torções, 
+- crises epiléticas, 
+- IAM, AVC's.
 
 ###### **PENSADORES:**
 
