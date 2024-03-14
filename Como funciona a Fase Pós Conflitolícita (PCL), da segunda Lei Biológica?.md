@@ -37,12 +37,4 @@ O Sentido Biológico da Vagotonia é o repouso forçado pelo aumento da atividad
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
+- [[Como funciona a PCLa - Fase exudativa?]]
