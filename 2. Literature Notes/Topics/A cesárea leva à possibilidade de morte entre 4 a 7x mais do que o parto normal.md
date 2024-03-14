@@ -18,9 +18,9 @@ Sentem-se abandonados em momentos críticos.
 
 Tem medo de instrumentos cortantes, ou fascinam-se por eles.
 
-Criam interrupções frequentes nas relações.
+Criam interrupções frequentes nas relações, pois tem medo de relações profundas. Também tem dificuldade de confiar.
 
-Dificuldade de olhar nos olhos.
+Dificuldade de olhar nos olhos. É mais fácil a relação por computador, recheadas de mentira sobre a identidade.
 
 Como não acordaram a pele - tatuam-se e usam piercing, pois não viveu o resultado nesse órgão das massagens uterinas.
 
@@ -28,6 +28,8 @@ Problemas de sono (faltou terminar o sistema reticular).
 	O sistema reticular, que tem seu 'acabamento' com as massagens uterinas não aconteceu.
 
 O grande imprinting é a adrenalina.
+
+A causa da maior parte das cesáreas é mentirosa, isto prepara para mentira e falta de ética na vida adulta.
 
 ###### **CESÁREA PROGRAMADA:**
 Sentem-se interrompidos e não respeitados, e sentem grande ressentimento por isso.
