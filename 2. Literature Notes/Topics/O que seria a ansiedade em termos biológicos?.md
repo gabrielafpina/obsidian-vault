@@ -11,6 +11,8 @@ Algumas pessoas ruminam pensamentos, outras paralisam, outras começam a fazer m
 
 Aqui, a pergunta é: **quais são os gatilhos disso?***
 
+As crises de pânico, em sua maioria, vem nas crises epileptóides. [[Lei bifásica da doença]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a06a4a1659dcefc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Porque não usar o termo 'contração'?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4979e50f1b6bcce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o parto ativo?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a495d652ab5b2b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quanto tempo o útero demora para abrir?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95caf32482a48833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que fazer com a placenta após o parto?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5826fe80f3e806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Porque uma pessoa possui placenta acreta?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427550f2f242a103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a069853089ef376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bb4215786a623dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5879c3bbb1513a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031f95fd629b045b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que a tradição tibetana fala sobre o parto?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0eeb813f8a1a998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cdf917a7ef6a365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51265fbc30f64490",
             "type": "leaf",
             "state": {
@@ -174,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10950e90c2e97aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,11 +90,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -287,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
+                "file": "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
+                "file": "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md"
+                "file": "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md"
               }
             }
           },
@@ -366,22 +236,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "209df531b3d978fd",
+  "active": "10950e90c2e97aae",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
+    "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
+    "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/O que a tradição tibetana fala sobre o parto?.md",
-    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
+    "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
+    "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
+    "Untitled.md",
+    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória.md",
     "2. Literature Notes/Topics/Quais são as consequências para relacionamentos, nas pessoas que ficam em incubadoras após o parto?.md",
     "2. Literature Notes/Topics/O que é um berçário?.md",
     "Quais são indicações discutíveis de cesárea?.md",
     "Quando nascer vem com tortura?.md",
     "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
-    "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
-    "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
     "Porque uma pessoa possui placenta acreta?.md",
     "O que fazer com a placenta após o parto?.md",
     "Quanto tempo o útero demora para abrir?.md",
@@ -391,9 +264,6 @@
     "Quais são práticas que podem ser o início da perda da relação com o próprio feminino no momento do parto?.md",
     "2. Literature Notes/Topics/O que é a episiotomia e quais as consequências de utilizá-la?.md",
     "Qual é a consequência da mulher não ter um acompanhante durante o trabalho de parto?.md",
-    "Quais são os impactos de fazer parto na água?.md",
-    "O que significa o bebê não estar na posição correta na hora do parto?.md",
-    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",

@@ -9,7 +9,7 @@ A Fase Ativa tem início ao DHS ([[O que é um DHS?]]) onde uma HIPER SIMPATICOT
 Na Fase Ativa, os sintomas muitas das vezes são pouco perceptíveis. Aqui você não pode ter dor; tem que lutar.
 	No entanto, na hora que a situação acaba, você vive a dor - Conflitólise.
 
-O 1º órgão que se adapta a qualquer tipo de estresse, é o Coração.
+O 1º órgão que se adapta a qualquer tipo de estresse, é o **Coração**.
 	Quando você se ve em uma situação de perigo, o coração naturalmente começa a bater mais rápido, porque tem que bombear sangue, oxigênio, para nutrir os tecidos, para lutar ou fugir. 
 		O problema, é quando você está vivendo esse conflito por muitos anos.
 
