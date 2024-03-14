@@ -29,5 +29,6 @@ No caso de uma operação de um "tumor cerebral" o exame microscópico mostra se
 
 **Norte: ideia/pergunta**
 - [[O que são Focos de Hamer?]]
+- [[O que é um invariante biológico?]]
 
 **Sul: para onde vai**
