@@ -11,8 +11,10 @@ Quando há prolapso do cordão umbilical, o corpo do feto pode colocar pressão 
 -   O parto na água não oferece uma relação instantânea direta mãe e filho, como a posição vertical.
 
 -   Como sempre defendeu Leboyer, não somos mamíferos de água, somos, do ar, o elemento que deveria estar presente para nossa evolução seria o fogo, que seja uma vela.
+	- Ter fogo, madeira ou vela, traz uma energia mais sofisticada nos corpos sutis.
 
 -   Notei em minha experiência que o período de grude que acontece a cada aquisição de habilidade do bebê, ele fica colado na mãe 1 semana em média, os nascidos na água estendem este período.
+	- A pessoa tende a retardar tudo.
 
 -   A criança ao nascer demonstra um certo desespero, pois não vê a mãe, e estão na água - a passagem não ocorreu.
 

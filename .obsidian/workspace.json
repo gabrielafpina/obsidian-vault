@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que significa o bebê não estar na posição correta na hora do parto?.md",
+                "file": "Quais são os impactos de fazer parto na água?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que significa o bebê não estar na posição correta na hora do parto?.md",
+                "file": "Quais são os impactos de fazer parto na água?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que significa o bebê não estar na posição correta na hora do parto?.md"
+                "file": "Quais são os impactos de fazer parto na água?.md"
               }
             }
           },
@@ -247,10 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "271ebdbab29d1f82",
+  "active": "d362390b21b112ab",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
     "O que significa o bebê não estar na posição correta na hora do parto?.md",
+    "2. Literature Notes/Topics/Quais são situações de violência contra o bebê?.md",
     "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "Qual é a consequência da mulher não ter um acompanhante durante o trabalho de parto?.md",
     "Quais são os impactos de fazer parto na água?.md",
