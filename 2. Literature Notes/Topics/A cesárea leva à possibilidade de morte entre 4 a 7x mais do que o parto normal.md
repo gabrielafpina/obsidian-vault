@@ -18,23 +18,34 @@ Sentem-se abandonados em momentos críticos.
 
 Tem medo de instrumentos cortantes, ou fascinam-se por eles.
 
-Criam interrupções
-
-frequentes nas
-
-relações.
+Criam interrupções frequentes nas relações.
 
 Dificuldade de olhar nos olhos.
 
-Como não acordaram a pel - tatuam-se
+Como não acordaram a pele - tatuam-se.
 
-Problemas de sono (faltou terminar o sistema reticular.
+Problemas de sono (faltou terminar o sistema reticular).
 
-###### **COMO:**
+###### **CESÁREA PROGRAMADA:**
+Sentem-se interrompidos e não respeitados, e sentem grande ressentimento por isso.
 
-###### **PENSADORES:**
+###### **CESÁREA DE EMERGÊNCIA:**
+Sentem medo de se sentirem presos.
 
-###### **FRASES:**
+Não podem fazer as coisas por si mesmos, necessitam que lhes 'resgatem'.
+
+###### **COMPLICAÇÕES PARA CRIANÇAS QUE NASCEM DE CESÁREA:**
+- Alterações de vínculo mãe-filho.
+-  Questões de imunidade - atingindo o trato respiratório e digestivo.  
+- Maior risco de asma.
+-  Maior dificuldade para amamentar na frequência e no tempo de duração (mais difícil chegar até 1 ano)
+-   Maiores chances de comportamento agressivo e autodestrutivo na vida adulta.
+-   Maior risco de suicídio na vida adulta.  
+- Maior propensão para comportamento criminoso.  
+- Mais chances de anorexia nervosa e bulimia na vida adulta.
+-   Maiores chances de droga adição na vida adulta, dependendo de que tipo de droga foi usada como bem estudou Bertil Jacobson
+-   Autismo.
+-   Esquizofrenia.
 
 ---------
 
@@ -45,3 +56,7 @@ Problemas de sono (faltou terminar o sistema reticular.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória]]
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
