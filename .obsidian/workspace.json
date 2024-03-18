@@ -162,7 +162,7 @@
             }
           },
           {
-            "id": "bf3810d5e835570f",
+            "id": "6c9d116cce05ca9f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -170,7 +170,7 @@
             }
           },
           {
-            "id": "e39fd15967855358",
+            "id": "36ebf82a01ff8f26",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 399.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +270,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e39fd15967855358",
+  "active": "36ebf82a01ff8f26",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "Como funciona a reparação a nível do Foco de Hamer?.md",
