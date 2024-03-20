@@ -13,7 +13,12 @@ Freud se inspirou nesta história para descrever um estágio do desenvolvimento 
 
 O Complexo de Édipo ocorre na fase fálica do desenvolvimento psicossexual ([[Como funciona a fase fálica, segundo Freud?]]), que Freud situou entre os três e cinco anos de idade. Segundo Freud, a resolução bem-sucedida deste complexo é crucial para o desenvolvimento psicossexual saudável do indivíduo. A criança deve identificar-se com o pai, o que ajuda a internalizar normas e valores sociais, deslocando seus desejos pela mãe para outras figuras e, eventualmente, para um parceiro no futuro.
 
-Se tudo estiver acontecendo de forma funcional, a criança 'entende' que a mãe tem um outro 'objeto de desejo', que é seu pai.
+Se tudo estiver acontecendo de forma funcional, a criança 'entende' que a mãe tem um outro 'objeto de desejo', que é seu pai. A criança começa a perceber que não é mais o centro de atenção da mãe.
+
+
+**COMPLEXO DE ÉDIPO FUNCIONAL:**
+É necessário ter 3 elementos para ter um complexo de édipo funcional. Ou seja, uma triangulação.
+
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
