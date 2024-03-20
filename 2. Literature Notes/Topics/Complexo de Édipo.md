@@ -20,7 +20,18 @@ Se tudo estiver acontecendo de forma funcional, a criança 'entende' que a mãe 
 ![[Captura de Tela 2024-03-20 às 14.38.25.png]]
 É necessário ter 3 elementos para ter um complexo de édipo funcional. Ou seja, uma triangulação. Dos 3 aos 6 anos, o filho começa a perceber que os pais possuem uma relação distinta da que ele possui com a mãe. Nessa época, ele começa a se identificar com o pai anatomicamente falando, percebendo que ele se parece mais com o pai do que a mãe. Então, ele começa a observar o comportamento desse homem.
 
-Ao mesmo tempo, ele começa a ter uma relação de maior sedução com a mãe, que não tem a ver com sexualidade. Está relacionada a carinhos, estar perto, simbiose. O pai é responsável por se posicionar e fazer o corte dessa sedução.
+Ao mesmo tempo, ele começa a ter uma relação de maior sedução com a mãe, que não tem a ver com sexualidade. Está relacionada a carinhos, estar perto, simbiose. 
+
+O pai é responsável por se posicionar e fazer o corte dessa sedução - essa é uma fase em que o pai deve estar mais presente na vida do filho. Para isso acontecer, depende da relação estabelecida entre o casal, a mãe não pode reforçar a simbiose.
+
+Aqui acontece a identificação masculina: o menino quer ficar poderoso como o pai para ter uma mulher incrível como a que o seu pai tem.
+
+Se a mãe for viúva, por exemplo, um outro homem (tio, padrinho, avô, namorado da mãe) é que deve fazer o corte. Se não tiver um homem presente, a própria mãe deve fazer o corte, desenvolvendo um posicionamento masculino.
+	A própria ausência do pai na relação, já se configura como uma relação disfuncional do complexo de édipo.
+
+**COMPLEXO DE ÉDIPO DISFUNCIONAL:**
+A relação disfuncional existe quando a relação entre os pais é disfuncional, tem muitas brigas, moram juntos, mas brigam muito.
+
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
@@ -41,3 +52,6 @@ Ao mesmo tempo, ele começa a ter uma relação de maior sedução com a mãe, q
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
