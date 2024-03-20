@@ -5,6 +5,7 @@
 **BIG IDEA:** 
 
 **DEFINIÇÃO:**
+Fala sobre a questão da angústia do bebê nos primeiros anos de vida.
 
 **COMO:**
 
@@ -15,6 +16,7 @@
 ---------
 
 **Oeste: similar**
+- [[Complexo de Electra]]
 
 **Leste: oposto**
 
