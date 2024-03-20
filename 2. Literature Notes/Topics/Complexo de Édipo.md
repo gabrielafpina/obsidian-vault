@@ -17,8 +17,10 @@ Se tudo estiver acontecendo de forma funcional, a criança 'entende' que a mãe 
 
 
 **COMPLEXO DE ÉDIPO FUNCIONAL:**
-É necessário ter 3 elementos para ter um complexo de édipo funcional. Ou seja, uma triangulação.
+![[Captura de Tela 2024-03-20 às 14.38.25.png]]
+É necessário ter 3 elementos para ter um complexo de édipo funcional. Ou seja, uma triangulação. Dos 3 aos 6 anos, o filho começa a perceber que os pais possuem uma relação distinta da que ele possui com a mãe. Nessa época, ele começa a se identificar com o pai anatomicamente falando, percebendo que ele se parece mais com o pai do que a mãe. Então, ele começa a observar o comportamento desse homem.
 
+Ao mesmo tempo, ele começa a ter uma relação de maior sedução com a mãe, que não tem a ver com sexualidade. Está relacionada a carinhos, estar perto, simbiose. O pai é responsável por se posicionar e fazer o corte dessa sedução.
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
