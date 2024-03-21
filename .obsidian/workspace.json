@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "aad7dfada81f66cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Para um recém-nascido, o olho da mãe é uma bússola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e59018cb853a2d0d",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
+                "file": "Para um recém-nascido, o olho da mãe é uma bússola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
+                "file": "Para um recém-nascido, o olho da mãe é uma bússola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md"
+                "file": "Para um recém-nascido, o olho da mãe é uma bússola.md"
               }
             }
           },
@@ -281,14 +293,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76c50d9839449b9d",
+  "active": "aad7dfada81f66cd",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "Quais são os benefícios da amamentação em uma criança?.md",
+    "Para um recém-nascido, o olho da mãe é uma bússola.md",
     "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
+    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
     "Quando desmamar?.md",
-    "Quais são os benefícios da amamentação em uma criança?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
@@ -309,7 +322,6 @@
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/O que seria uma fase ativa em balanço?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
-    "2. Literature Notes/Topics/O que a tradição tibetana fala sobre o parto?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
