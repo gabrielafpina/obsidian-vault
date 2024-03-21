@@ -63,3 +63,4 @@ Não podem fazer as coisas por si mesmos, necessitam que lhes 'resgatem'.
 **Sul: para onde vai**
 - [[No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória]]
 - [[Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento]]
+- [[Como funciona a diferença de alimentação no parto cesáreo x parto natural?]]

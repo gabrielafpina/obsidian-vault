@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e82558ce13957c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f11841bbd877bd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76c50d9839449b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -75,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complexo",
+                "query": "cesárea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +138,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
+                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
+                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md"
+                "file": "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md"
               }
             }
           },
@@ -246,10 +281,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e59018cb853a2d0d",
+  "active": "76c50d9839449b9d",
   "lastOpenFiles": [
-    "Quando desmamar?.md",
+    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
+    "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
+    "Quando desmamar?.md",
     "Quais são os benefícios da amamentação em uma criança?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "Nenhuma substância no mundo supera o leite materno.md",
@@ -271,10 +309,7 @@
     "2. Literature Notes/Topics/O que é um invariante biológico?.md",
     "2. Literature Notes/Topics/O que seria uma fase ativa em balanço?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
-    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/O que a tradição tibetana fala sobre o parto?.md",
-    "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
-    "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
