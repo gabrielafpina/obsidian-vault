@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são os benefícios de uma criança ser amamentada?.md",
+                "file": "Quais são os benefícios da amamentação em uma criança?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59018cb853a2d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quando desmamar?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são os benefícios de uma criança ser amamentada?.md",
+                "file": "Quando desmamar?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são os benefícios de uma criança ser amamentada?.md",
+                "file": "Quando desmamar?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são os benefícios de uma criança ser amamentada?.md"
+                "file": "Quando desmamar?.md"
               }
             }
           },
@@ -234,10 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "035cbf9bb2411f6d",
+  "active": "e59018cb853a2d0d",
   "lastOpenFiles": [
+    "Quais são os benefícios da amamentação em uma criança?.md",
+    "Quando desmamar?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "Quais são os benefícios de uma criança ser amamentada?.md",
     "Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
     "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
@@ -262,7 +275,6 @@
     "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "2. Literature Notes/Topics/Quais são as descobertas sobre o imprinting?.md",
     "2. Literature Notes/Topics/\"Rezar reduz, efetivamente, a atividade do supercomputador neocortical e pode ajudar algumas pessoas a atingirem uma outra realidade, fora do tempo e do espaço\".md",
-    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",

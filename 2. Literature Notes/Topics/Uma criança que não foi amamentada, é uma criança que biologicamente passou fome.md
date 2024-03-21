@@ -23,7 +23,7 @@ Pode, ainda, ser uma pessoa que tem medo de faltar o dinheiro, podem ser pessoas
 ---------
 
 **Oeste: similar**
-- [[Quais são os benefícios de uma criança ser amamentada?]]
+- [[Quais são os benefícios da amamentação em uma criança?]]
 
 **Leste: oposto**
 

@@ -27,3 +27,4 @@ Não há desperdício. A criança puxa apenas o que ela precisa de leite.
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Quando desmamar?]]
