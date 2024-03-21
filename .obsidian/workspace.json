@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7796cbadac81c1a",
+        "id": "3138b02358db3f27",
         "type": "tabs",
         "children": [
           {
-            "id": "51265fbc30f64490",
+            "id": "db74cfe09c38c682",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aa6c6e6f3a8025f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8925dcaec63e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a reparação a nível do Foco de Hamer?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a84d2d5581369c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1467a5576f1624d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a PCLb - Fase cicatricial?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc97fc0d4b8de819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985346c0d7728ed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Mudez em criança = segredo de família e fidelidade à mãe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf4a9e0b42705e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16d858c175c63064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -306,21 +201,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16d858c175c63064",
+  "active": "470654b5894bf8e3",
   "lastOpenFiles": [
-    "Captura de Tela 2024-03-20 às 14.38.25.png",
-    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
-    "2. Literature Notes/Topics/Quais são os impactos de fazer parto na água?.md",
     "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
     "2. Literature Notes/Topics/Mudez em criança = segredo de família e fidelidade à mãe.md",
+    "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
+    "2. Literature Notes/Topics/Como funciona a PCLb - Fase cicatricial?.md",
+    "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
+    "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
+    "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
+    "2. Literature Notes/Topics/Quais são os impactos de fazer parto na água?.md",
     "Untitled.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/Como funciona a reparação a nível do Foco de Hamer?.md",
-    "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?.md",
-    "2. Literature Notes/Topics/Como funciona a PCLb - Fase cicatricial?.md",
-    "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
     "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
     "2. Literature Notes/Topics/Como funciona a PCLa - Fase exudativa?.md",
@@ -343,7 +238,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.52.02.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.50.11.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.47.45.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-02-17 às 17.08.22.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
