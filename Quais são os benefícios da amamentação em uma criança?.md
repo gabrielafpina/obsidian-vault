@@ -14,7 +14,7 @@ Não há desperdício. A criança puxa apenas o que ela precisa de leite.
 
 Quando uma criança é amamentada até os 9 meses, ela forma 70% do cérebro que ela vai ter na vida adulta. Nenhum outro leite dá isso, só o leite materno. [[Nenhuma substância no mundo supera o leite materno]].
 
-A b
+A boa alimentação evita doenças.
 
 ###### **COMO:**
 
