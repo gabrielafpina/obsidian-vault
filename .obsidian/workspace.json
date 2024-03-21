@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O que é o colostro?.md",
+                "file": "Nenhuma substância no mundo supera o leite materno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O que é o colostro?.md",
+                "file": "Nenhuma substância no mundo supera o leite materno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O que é o colostro?.md"
+                "file": "Nenhuma substância no mundo supera o leite materno.md"
               }
             }
           },
@@ -329,10 +328,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d75b3117664a9eb",
+  "active": "db74cfe09c38c682",
   "lastOpenFiles": [
-    "Quais são os benefícios da amamentação em uma criança?.md",
     "O que é o colostro?.md",
+    "Quais são os benefícios da amamentação em uma criança?.md",
     "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
     "Como é a pegada correta?.md",
     "Captura de Tela 2024-03-21 às 12.47.20.png",
