@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nenhuma substância no mundo supera o leite materno.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nenhuma substância no mundo supera o leite materno.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nenhuma substância no mundo supera o leite materno.md"
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
               }
             }
           },
@@ -328,8 +329,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db74cfe09c38c682",
+  "active": "959fe0393ce7bc89",
   "lastOpenFiles": [
+    "Nenhuma substância no mundo supera o leite materno.md",
     "O que é o colostro?.md",
     "Quais são os benefícios da amamentação em uma criança?.md",
     "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
@@ -343,7 +345,6 @@
     "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "Quando desmamar?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
     "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
     "2. Literature Notes/Topics/Mudez em criança = segredo de família e fidelidade à mãe.md",
