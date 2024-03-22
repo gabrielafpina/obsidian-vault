@@ -20,6 +20,29 @@ Na segunda fase (PCL - [[Como funciona a Fase Pós Conflitolítica (PCL), da seg
 
 Essas modificações biológicas estão codificadas em nosso patrimônio genético e seguirão SEMPRE o mesmo caminho de acordo com o tecido embriológico específico.
 
+Uma das bases das 5 leis biológicas é a embriologia. Dentro da embriologia, temos 3 tecidos principais:
+- Endoderme
+- Mesoderme
+	- Antiga
+	- Nova
+- Ectoderme
+
+Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o Dr. Hamer criou subdivisões, pois esses tecidos, na Fase Ativa e PCL se comportam da mesma maneira e isso não muda:
+- **Cérebro antigo**
+	- Parte mais antiga do desenvolvimento do sistema nervoso
+		- Endoderme e Meso Antiga
+	- O que acontece na Fase Ativa?
+		- Proliferação Celular
+	- O que acontece na PCL?
+		- Necrose ou encapsulamento
+			- Se você tiver micro-or
+- Cérebro novo
+	- Parte mais nova do desenvolvimento do sistema nervoso
+		- Meso Nova e Ectoderme
+	- O que acontece na Fase Ativa?
+	- O que acontece na PCL?
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
