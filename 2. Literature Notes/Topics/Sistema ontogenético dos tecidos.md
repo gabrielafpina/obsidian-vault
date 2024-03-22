@@ -37,13 +37,15 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- O que acontece na PCL?
 		- Necrose ([[O que é a necrose?]]) ou encapsulamento
 			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
-- Cérebro novo
+- **Cérebro novo**
 	- Parte mais nova do desenvolvimento do sistema nervoso
 		- Meso Nova e Ectoderme
 	- O que acontece na Fase Ativa?
-		- Necrose ou perda de função - [[Como funciona a perda ou a retomada da função?]]
+		- Necrose tecidual ou perda de função (ectoderme) - [[Como funciona a perda ou a retomada da função?]]
 	- O que acontece na PCL?
-		- Proliferação Celular (cresce em vagotonia) ou retomada da função
+		- Proliferação Celular (cresce em vagotonia) ou retomada da função (ectoderme)
+	- O sentido biológico se encontra na FA para a ectoderme e no final da fase PCL para a Meso Nova.
+	- Os cânceres geralmente descobertos na PCLa ([[Como funciona a PCLa - Fase exudativa?]]) serão considerados malignos. Se são descobertos na PCLb ([[Como funciona a PCLb - Fase cicatricial?]]), serão considerados benignos.
 
 ![[Captura de Tela 2024-03-22 às 15.04.34.png]]
 ![[Captura de Tela 2024-03-22 às 15.09.43.png]]
