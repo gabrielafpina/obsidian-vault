@@ -40,7 +40,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- Parte mais nova do desenvolvimento do sistema nervoso
 		- Meso Nova e Ectoderme
 	- O que acontece na Fase Ativa?
-		- Necrose ou perda de função
+		- Necrose ou perda de função - [[Como funciona a perda ou a retomada da função?]]
 	- O que acontece na PCL?
 		- Proliferação Celular (cresce em vagotonia) ou retomada da função
 

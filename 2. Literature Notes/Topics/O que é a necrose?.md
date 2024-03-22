@@ -8,13 +8,9 @@ Aqui nós temos um mecanismo inverso à proliferação [[O que é a proliferaç�
 
 A reparação vai provocar uma proliferação celular destinada a preencher essas perdas de substância.
 
-Isso pode vir desde uma simples cicatrização, geralmente para ulcerações de mucosas superficiais até um
+Isso pode vir desde uma simples cicatrização, geralmente para ulcerações de mucosas superficiais até um "tumor" bem volumoso.
 
-"tumor" bem volumoso.
-
-Mais uma vez, são os microrganismos (4ª Lei) os responsáveis por reconstruir e otimizar a
-
-reconstrução do tecido lesionado.
+Mais uma vez, são os microrganismos (4ª Lei - [[Sistema ontogenético dos micróbios]]) os responsáveis por reconstruir e otimizar a reconstrução do tecido lesionado.
 
 ###### **COMO:**
 
