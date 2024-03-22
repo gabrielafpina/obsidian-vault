@@ -32,15 +32,17 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- Parte mais antiga do desenvolvimento do sistema nervoso
 		- Endoderme e Meso Antiga
 	- O que acontece na Fase Ativa?
-		- Proliferação Celular
+		- Proliferação Celular (cresce em simpaticotonia)
 	- O que acontece na PCL?
 		- Necrose ou encapsulamento
-			- Se você tiver micro-or
+			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
 - Cérebro novo
 	- Parte mais nova do desenvolvimento do sistema nervoso
 		- Meso Nova e Ectoderme
 	- O que acontece na Fase Ativa?
+		- Necrose ou perda de função
 	- O que acontece na PCL?
+		- Proliferação Celular (cresce em vagotonia) ou retomada da função
 
 
 ###### **COMO:**
