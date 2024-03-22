@@ -33,7 +33,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 		- Endoderme e Meso Antiga
 	- O que acontece na Fase Ativa?
 		- Proliferação Celular (cresce em simpaticotonia) - [[O que é a proliferação celular?]] em função da massa de conflito (dependendo do tamanho da massa de conflito, o tumor vai ser maior ou menor), com um sentido biológico de exaltar a função do conflito.
-		- Quando o tumor é descoberto na FA ou 
+		- Quando o tumor é descoberto na FA (simpaticotonia) ou CE ([[Como funciona a crise epileptoide?]]), será considerado como maligno. São tumores quimioresistentes, porque crescem em simpaticotonia.
 	- O que acontece na PCL?
 		- Necrose ([[O que é a necrose?]]) ou encapsulamento
 			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
