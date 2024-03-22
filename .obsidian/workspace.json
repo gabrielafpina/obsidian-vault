@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
+                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
+                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md"
+                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md"
               }
             }
           },
@@ -319,7 +319,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cecd65837598a2da",
+  "active": "fa570ecddcf5df9f",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
     "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",

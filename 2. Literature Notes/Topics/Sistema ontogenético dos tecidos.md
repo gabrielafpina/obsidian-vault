@@ -46,6 +46,15 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 
 ![[Captura de Tela 2024-03-22 às 15.04.34.png]]
 ![[Captura de Tela 2024-03-22 às 15.09.43.png]]
+
+Para entendermos melhor como funcionam os tecidos, precisamos olhar para a Embriologia, pois ela é o fio condutor essencial dos trabalhos do Dr. Hamer. Após a concepção, as células se proliferarão em um processo de diferenciação em três folhetos embrionários.
+
+Esses folhetos darão origem aos TECIDOS ORGÂNICOS, pois cada órgão é composto de TECIDOS DE ORIGEM EMBRIONÁRIA DIFERENTE. Some-se a isso a Ontogenia, que explica porque cada folheto embrionário tem uma origem precisa no cérebro.
+
+Agora, podemos organizar as três formas com as quais os tecidos se comportam em função dos diferentes folhetos embrionários de acordo com a sua correspondência cerebral.
+
+Quem decide qual tecido irá ser ativado, ou não, é a percepção. [[Percepção é o que controla a sua biologia]].
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -61,3 +70,4 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Alguns pacientes e]]
