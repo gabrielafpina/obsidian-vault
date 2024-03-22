@@ -32,7 +32,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- Parte mais antiga do desenvolvimento do sistema nervoso
 		- Endoderme e Meso Antiga
 	- O que acontece na Fase Ativa?
-		- Proliferação Celular (cresce em simpaticotonia)
+		- Proliferação Celular (cresce em simpaticotonia) - [[O que é a proliferação celular?]]
 	- O que acontece na PCL?
 		- Necrose ou encapsulamento
 			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
