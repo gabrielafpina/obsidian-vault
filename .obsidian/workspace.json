@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md"
+                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md"
               }
             }
           },
@@ -234,8 +233,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13339b0e1e8a437c",
+  "active": "db74cfe09c38c682",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "2. Literature Notes/Topics/Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Para um recém-nascido, o olho da mãe é uma bússola.md",
@@ -264,7 +264,6 @@
     "2. Literature Notes/Topics/Como funciona a reparação a nível do Foco de Hamer?.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
     "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
-    "2. Literature Notes/Topics/Como funciona a PCLa - Fase exudativa?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",

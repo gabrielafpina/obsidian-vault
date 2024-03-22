@@ -73,6 +73,17 @@ A solução do conflito não é a cura, ela te permite reparar. Ou seja, reorgan
 ![[Captura de Tela 2024-03-04 às 15.44.42.png]]
 [[Como funciona a fase ativa, da segunda Lei Biológica?]]
 [[Como funciona a Fase Pós Conflitolícita (PCL), da segunda Lei Biológica?]]
+[[Como funciona a crise epileptoide?]]
+[[Como funciona a PCLa - Fase exudativa?]]
+[[Como funciona a PCLb - Fase cicatricial?]]
+
+Após um ciclo de doença, e um retorno ao estado de normotonia, nós modificamos as características de nosso comportamento.
+
+Nós podemos nos tornar mais combativos, ativos, estratégicos ou, ao contrário, mais reservados e menos ativos nas situações que aproximam ou evoquem o antigo conflito.
+
+Isso faz parte do nosso processo de aprendizado em relação ao conflito vivido e um maior estado de consciência sobre nós mesmos
+
+Após ter conhecido o perigo, é natural modificar nossos modos de reação. [[Tudo para o cérebro é uma noção de sobrevivência]]. Assim, tiramos o aprendizado e não somos mais a mesma pessoa depois de se posicionar de forma coerente frente àquela situação.
 
 ###### **COMO:**
 
