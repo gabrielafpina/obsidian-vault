@@ -34,7 +34,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- O que acontece na Fase Ativa?
 		- Proliferação Celular (cresce em simpaticotonia) - [[O que é a proliferação celular?]]
 	- O que acontece na PCL?
-		- Necrose ou encapsulamento
+		- Necrose ([[O que é a necrose?]]) ou encapsulamento
 			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
 - Cérebro novo
 	- Parte mais nova do desenvolvimento do sistema nervoso
