@@ -25,4 +25,5 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[O que é um invariante biológico?]]]
+- [[O que é um invariante biológico?]]
+- [[A metástase nada mais é do que um outro programa que ativamos]]

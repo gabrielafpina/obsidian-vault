@@ -45,7 +45,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 		- Proliferação Celular (cresce em vagotonia) ou retomada da função
 
 ![[Captura de Tela 2024-03-22 às 15.04.34.png]]
-
+![[Captura de Tela 2024-03-22 às 15.09.43.png]]
 ###### **COMO:**
 
 ###### **PENSADORES:**
