@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "fa570ecddcf5df9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema ontogenético dos tecidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "76c50d9839449b9d",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vagotonia",
+                "query": "psique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
+                "file": "Sistema ontogenético dos tecidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
+                "file": "Sistema ontogenético dos tecidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md"
+                "file": "Sistema ontogenético dos tecidos.md"
               }
             }
           },
@@ -246,11 +258,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "851cfd927815e9d3",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "Sistema ontogenético dos tecidos.md",
+    "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolítica (PCL), da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Para um recém-nascido, o olho da mãe é uma bússola.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
@@ -268,7 +282,6 @@
     "2. Literature Notes/Topics/Complexo de Édipo.md",
     "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
     "2. Literature Notes/Topics/Mudez em criança = segredo de família e fidelidade à mãe.md",
-    "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/Como funciona a PCLb - Fase cicatricial?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
     "2. Literature Notes/Topics/Como funciona a fase fálica, segundo Freud?.md",
@@ -276,7 +289,6 @@
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/Como funciona a reparação a nível do Foco de Hamer?.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-    "2. Literature Notes/Topics/O que seria a ansiedade em termos biológicos?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
