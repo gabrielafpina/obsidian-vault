@@ -52,6 +52,7 @@ Para entendermos melhor como funcionam os tecidos, precisamos olhar para a Embri
 Esses folhetos darão origem aos TECIDOS ORGÂNICOS, pois cada órgão é composto de TECIDOS DE ORIGEM EMBRIONÁRIA DIFERENTE. Some-se a isso a Ontogenia, que explica porque cada folheto embrionário tem uma origem precisa no cérebro.
 
 Agora, podemos organizar as três formas com as quais os tecidos se comportam em função dos diferentes folhetos embrionários de acordo com a sua correspondência cerebral.
+	Essa é a razão pela qual quando vemos a 'doença', não vemos o órgão, mas o tecido envolvido.
 
 Quem decide qual tecido irá ser ativado, ou não, é a percepção. [[Percepção é o que controla a sua biologia]].
 
@@ -70,4 +71,4 @@ Quem decide qual tecido irá ser ativado, ou não, é a percepção. [[Percepç�
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[Alguns pacientes e]]
+- [[Alguns pacientes em seus processos terapêuticos podem paralisar]]
