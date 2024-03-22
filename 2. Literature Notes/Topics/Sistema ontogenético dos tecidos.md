@@ -32,7 +32,8 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- Parte mais antiga do desenvolvimento do sistema nervoso
 		- Endoderme e Meso Antiga
 	- O que acontece na Fase Ativa?
-		- Proliferação Celular (cresce em simpaticotonia) - [[O que é a proliferação celular?]]
+		- Proliferação Celular (cresce em simpaticotonia) - [[O que é a proliferação celular?]] em função da massa de conflito (dependendo do tamanho da massa de conflito, o tumor vai ser maior ou menor), com um sentido biológico de exaltar a função do conflito.
+		- Quando o tumor é descoberto na FA ou 
 	- O que acontece na PCL?
 		- Necrose ([[O que é a necrose?]]) ou encapsulamento
 			- Se você tiver micro-organismos o suficiente no seu corpo, você faz necrose. Se não tiver, você faz encapsulamento.
@@ -55,6 +56,9 @@ Agora, podemos organizar as três formas com as quais os tecidos se comportam em
 	Essa é a razão pela qual quando vemos a 'doença', não vemos o órgão, mas o tecido envolvido.
 
 Quem decide qual tecido irá ser ativado, ou não, é a percepção. [[Percepção é o que controla a sua biologia]].
+![[Captura de Tela 2024-03-22 às 15.39.52.png]]
+
+Todos os tecidos que derivam da mesma folha embrionária são controlados pela mesma área do cérebro e mantém a memória dos programas de sobrevivência desenvolvidos pela natureza desde o aparecimento dos seres vivos.
 
 ###### **COMO:**
 
