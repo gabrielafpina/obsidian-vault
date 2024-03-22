@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-O nosso tecido vai reagir, a partir da origem embriológica dele, sempre de uma maneira específica - e isso serve para todos os órgãos que tem aquela origem embrionária.
+O nosso tecido vai reagir, a partir da origem embriológica dele, sempre de uma maneira específica - e isso serve para todos os órgãos que tem aquela origem embrionária. A 3a lei explica como os tecidos funcionam.
 
 A terceira lei biológica explica a correlação entre o cérebro, a psique e o corpo no contexto do desenvolvimento embrionário e evolutivo (filogenético) do corpo humano. [[O que é um invariante biológico?]]
 
@@ -44,6 +44,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 	- O que acontece na PCL?
 		- Proliferação Celular (cresce em vagotonia) ou retomada da função
 
+![[Captura de Tela 2024-03-22 às 15.04.34.png]]
 
 ###### **COMO:**
 
