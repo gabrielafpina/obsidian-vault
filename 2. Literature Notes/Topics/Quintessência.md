@@ -18,10 +18,13 @@ O programa biológico tem por sentido inteligente dar mais chance de sobrevivên
 
 É então razoável imaginar que em caso de urgência, da inibição da ação, o inconsciente vai utilizar seus recursos próprios: os programas arcaicos de sobrevivência do nosso clã.
 
-As "doenças" são a expressão de todos os programas arcaicos de sobrevivência acumulados no decorrer da evolução.
+As "doenças" são a expressão de todos os programas arcaicos de sobrevivência acumulados no decorrer da evolução. [[Qual é o nosso primeiro programa arcaico de sobrevivência?]]
 
 Na natureza, sobrevivência é sinônimo de ganho de tempo/espaço. Para os animais, a noção de tempo não existe: ou o leão está perto, ou o leão está longe.
-	Assim, se o cérebro compreende que existe um perigo, é porque aquilo está próximo - e ele vai buscar uma estratégia para que eu lide
+	Assim, se o cérebro compreende que existe um perigo, é porque aquilo está próximo - e ele vai buscar uma estratégia para que eu lide com esse perigo.
+
+>[!important] Assim, a 'doença' é um programa especial de sobrevivência.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
