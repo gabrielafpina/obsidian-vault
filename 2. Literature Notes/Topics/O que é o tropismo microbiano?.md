@@ -26,8 +26,9 @@ Grandes surtos de Tuberculose (vem em uma fase de reparo) ocorreram após o tér
 
 Resumindo, a forma que os micróbios ajudam no processo de reparação está em perfeita correspondência com a lógica da evolução.
 
-Micobactérias e fungos somente operam nos tecidos que são originados a partir do endodermo e mesodermo antigo, enquanto que as bactérias que não são microbactérias somente participam da reparação de tecidos que derivam do mesodermo o
+Micobactérias e fungos somente operam nos tecidos que são originados a partir do endodermo e mesodermo antigo, enquanto que as bactérias que não são microbactérias somente participam da reparação de tecidos que derivam do mesodermo novo.
 
+Se entendemos que o nosso corpo (nossas células) responde apenas aos estímulos provenientes do ambiente de acordo com a nossa percepção individual, ou seja, a algo que SÓ EU VIVI, desta maneira, na minha história, através das minhas experiências pessoais. E se a partir disso o nosso corpo lança mão das 'doenças', que são, na verdade, programas biológicos arcaicos com um sentido extremamente inteligente com a função de sobrevivência ([[Tudo para o cérebro é uma noção de sobrevivência]]), então, será que o conceito de contágio do qual fomos ensinados, ainda faz sentido?
 
 ###### **COMO:**
 
