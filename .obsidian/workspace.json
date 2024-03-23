@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "854c2d7a280d5c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O que é o tropismo microbiano?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "70fbe0876f80822b",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
+                "file": "O que é o tropismo microbiano?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
+                "file": "O que é o tropismo microbiano?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como fica o sistema imunitário, a partir da 4a lei biológica?.md"
+                "file": "O que é o tropismo microbiano?.md"
               }
             }
           },
@@ -307,10 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a6a650fb6daa659",
+  "active": "854c2d7a280d5c5e",
   "lastOpenFiles": [
-    "Sistema ontogenético dos micróbios.md",
     "Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
+    "O que é o tropismo microbiano?.md",
+    "Sistema ontogenético dos micróbios.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
@@ -339,7 +352,6 @@
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "2. Literature Notes/Topics/Quando desmamar?.md",
-    "2. Literature Notes/Topics/Complexo de Édipo.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",

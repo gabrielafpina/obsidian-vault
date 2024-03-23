@@ -22,6 +22,8 @@ Acontece assim:
 O paciente não morre por conta dos microorganismos, ele morre por conta de que na fase de reparo, por ter uma massa de conflito tão intensa, o corpo não consegue dar conta.
 	Os microorganismos são agentes não-patogênicos.
 
+[[O que é o tropismo microbiano?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
