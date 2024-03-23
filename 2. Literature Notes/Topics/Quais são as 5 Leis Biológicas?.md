@@ -8,7 +8,7 @@
 2. **2a Lei:** [[Lei bifásica da doença]]
 3. **3a Lei:** [[Sistema ontogenético dos tecidos]]
 4. **4a Lei:** [[Sistema ontogenético dos micróbios]]
-5. **5a Lei:** Quintessência
+5. **5a Lei:** [[Quintessência]]
 
 ###### **COMO:**
 

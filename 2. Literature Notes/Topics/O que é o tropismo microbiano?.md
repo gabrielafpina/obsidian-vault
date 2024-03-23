@@ -30,11 +30,20 @@ Micobactérias e fungos somente operam nos tecidos que são originados a partir 
 
 Se entendemos que o nosso corpo (nossas células) responde apenas aos estímulos provenientes do ambiente de acordo com a nossa percepção individual, ou seja, a algo que SÓ EU VIVI, desta maneira, na minha história, através das minhas experiências pessoais. E se a partir disso o nosso corpo lança mão das 'doenças', que são, na verdade, programas biológicos arcaicos com um sentido extremamente inteligente com a função de sobrevivência ([[Tudo para o cérebro é uma noção de sobrevivência]]), então, será que o conceito de contágio do qual fomos ensinados, ainda faz sentido?
 
+Tendo em vista a quarta lei biológica, os micróbios não podem mais ser considerados a causa das "doenças infecciosas".
+
+Com o entendimento que os micróbios não causam doenças, mas sim *possuem um papel benéfico na fase de reparação*, o conceito de um sistema imunológico, visto como um sistema de defesa, torna-se sem sentido.
+
+Os microrganismos agem, na verdade, como *lixeiros* e *restauradores*. Durante a fase ativa do conflito, eles se multiplicam na mesma proporção que a massa do conflito ([[O que é a massa do conflito?]]) entrando em ação SOMENTE quando o conflito cessa. Nem antes, nem depois.
+
+A imunologia, dentro de uma concepção biológica, tem muito uma noção de reconhecimento - reconhecer a informação, o eu em relação ao não eu.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
 
 ###### **FRASES:**
+- 'A melhor forma de prevenção é expressar aquilo que está em seu coração' - Emmanuel Corbeel
 
 
 ---------
