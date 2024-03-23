@@ -24,6 +24,8 @@ Na natureza, sobrevivência é sinônimo de ganho de tempo/espaço. Para os anim
 	Assim, se o cérebro compreende que existe um perigo, é porque aquilo está próximo - e ele vai buscar uma estratégia para que eu lide com esse perigo.
 
 >[!important] Assim, a 'doença' é um programa especial de sobrevivência.
+É necessário compreender o sentido biológico por trás daquela patologia. Tudo tem um sentido e quando colocamos dentro de um contexto, conseguimos compreender.
+ 
 
 ###### **COMO:**
 
