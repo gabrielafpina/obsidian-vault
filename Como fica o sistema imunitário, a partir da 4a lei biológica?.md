@@ -17,6 +17,9 @@ Um tal sistema de modulação é necessário, pois os micróbios são organismos
 Acontece assim:
 - Fase ativa: proliferação assintomática dos tecidos
 	- E quanto maior a massa de conflito, você precisa de mais microorganismos para que quando entrem na fase PCL, eles entrem em necrose para os tecidos antigos e de pedreiros para os tecidos novos.
+- Fase PCL: restauração tecidual na fase de reparo.
+
+O paciente não morre por conta dos microorganismos, ele morre por conta de que na fase de reparo, por ter uma massa de conflito tão intensa, o corpo não consegue dar conta.
 
 ###### **COMO:**
 
