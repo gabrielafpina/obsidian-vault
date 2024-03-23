@@ -54,78 +54,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70fbe0876f80822b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A metástase nada mais é do que um outro programa que ativamos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa570ecddcf5df9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a8f7f98b8727566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Alguns pacientes em seus processos terapêuticos podem paralisar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cecd65837598a2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d97eff75013265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a necrose?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b12655a7c23c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a proliferação celular?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -319,7 +247,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "854c2d7a280d5c5e",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
     "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
