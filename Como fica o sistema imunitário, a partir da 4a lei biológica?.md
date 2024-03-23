@@ -20,6 +20,7 @@ Acontece assim:
 - Fase PCL: restauração tecidual na fase de reparo.
 
 O paciente não morre por conta dos microorganismos, ele morre por conta de que na fase de reparo, por ter uma massa de conflito tão intensa, o corpo não consegue dar conta.
+	Os microorganismos são agentes não-patogênicos.
 
 ###### **COMO:**
 
