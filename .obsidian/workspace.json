@@ -8,60 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db74cfe09c38c682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dc5bd3433af7089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c02a8149712463c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolítica (PCL), da segunda Lei Biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "851cfd927815e9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13339b0e1e8a437c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e78a4ca02dab6f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema ontogenético dos micróbios.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
+                "file": "Sistema ontogenético dos micróbios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
+                "file": "Sistema ontogenético dos micróbios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md"
+                "file": "Sistema ontogenético dos micróbios.md"
               }
             }
           },
@@ -331,16 +295,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "e78a4ca02dab6f79",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "Sistema ontogenético dos micróbios.md",
+    "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
     "2. Literature Notes/Topics/Alguns pacientes em seus processos terapêuticos podem paralisar.md",
-    "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
     "2. Literature Notes/Topics/O que é a necrose?.md",
     "2. Literature Notes/Topics/O que é a proliferação celular?.md",
     "2. Literature Notes/Topics/Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/A metástase nada mais é do que um outro programa que ativamos.md",
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
@@ -368,7 +333,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.54.36.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-28 às 12.35.55.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 11.45.57.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-02-18 às 09.54.25.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
