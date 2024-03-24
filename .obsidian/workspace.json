@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5e2d18fa8f95443d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona a necessidade de sono da criança?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "deb4480b49324f95",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
+                "file": "Como funciona a necessidade de sono da criança?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
+                "file": "Como funciona a necessidade de sono da criança?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md"
+                "file": "Como funciona a necessidade de sono da criança?.md"
               }
             }
           },
@@ -307,10 +319,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36c0ff73534a3606",
+  "active": "5e2d18fa8f95443d",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
     "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
+    "Como funciona a necessidade de sono da criança?.md",
+    "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
     "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
     "2. Literature Notes/Topics/Quintessência.md",
     "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
@@ -338,7 +351,6 @@
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "2. Literature Notes/Topics/O que é o colostro?.md",
     "2. Literature Notes/Topics/Quais são os benefícios da amamentação em uma criança?.md",
-    "2. Literature Notes/Topics/O que significa um recém-nascido ter asfixia?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",

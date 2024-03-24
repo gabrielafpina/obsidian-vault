@@ -24,3 +24,4 @@ Quando a criança tem 2 anos, o papel dele é fazer com que a criança confie em
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como funciona a necessidade de sono da criança?]]
