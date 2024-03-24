@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "47915213f91a6f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2de6ec49fa1d05eb",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -275,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md"
+                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md"
               }
             }
           },
@@ -354,10 +367,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dce082224e994b1f",
+  "active": "47915213f91a6f18",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
     "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+    "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
+    "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "Para o bebê, a mãe é o próprio criador.md",
     "Como funciona a necessidade de sono da criança?.md",
@@ -385,7 +399,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/Nenhuma substância no mundo supera o leite materno.md",
-    "2. Literature Notes/Topics/Para um recém-nascido, o olho da mãe é uma bússola.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
