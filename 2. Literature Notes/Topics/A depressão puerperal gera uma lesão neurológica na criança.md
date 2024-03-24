@@ -13,7 +13,7 @@ Depressão puerperal = lesão de amígdala cerebral. E maconha = lesão de amíg
 	- A amígdala cerebral controla todas as experiências de irritabilidade, raiva e violência, até.
 
 ###### **QUAL É A COISA MAIS IMPORTANTE NESSE CASO?**
-A mãe dar amor à criança. Quanto mais amor ela der à criança, 
+A mãe dar amor à criança. Quanto mais amor ela der à criança, mais ela sai dessa fase. Porque quanto mais amor ela der à criança, mais amor ela está se dando.
 
 ###### **PENSADORES:**
 
