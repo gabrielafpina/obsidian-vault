@@ -23,3 +23,4 @@ Também há a possibilidade de vir uma criança com má-formação congênita, c
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física]]

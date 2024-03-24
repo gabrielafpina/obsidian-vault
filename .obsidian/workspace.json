@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "127606dce943eae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1e952377429409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2de6ec49fa1d05eb",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -195,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depressão",
+                "query": "rejeição",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -222,8 +246,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
+                "file": "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
+                "file": "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md"
+                "file": "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md"
               }
             }
           },
@@ -367,10 +390,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "7a1e952377429409",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+    "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
+    "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
     "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
+    "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
     "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
@@ -397,8 +422,6 @@
     "2. Literature Notes/Topics/Como funciona a Fase Pós Conflitolítica (PCL), da segunda Lei Biológica?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
-    "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
-    "2. Literature Notes/Topics/Nenhuma substância no mundo supera o leite materno.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
