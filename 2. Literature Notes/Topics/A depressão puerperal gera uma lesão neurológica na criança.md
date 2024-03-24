@@ -12,7 +12,8 @@ Depressão puerperal = lesão de amígdala cerebral. E maconha = lesão de amíg
 	- A criança sente que ela não é nada para a mãe. A mãe “não tá nem aí” para o filho. E isso gera uma raiva sofisticada na criança, e ela pode se tornar maldosa.
 	- A amígdala cerebral controla todas as experiências de irritabilidade, raiva e violência, até.
 
-###### **COMO:**
+###### **QUAL É A COISA MAIS IMPORTANTE NESSE CASO?**
+A mãe dar amor à criança. Quanto mais amor ela der à criança, 
 
 ###### **PENSADORES:**
 

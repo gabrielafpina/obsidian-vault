@@ -32,6 +32,4 @@
 **Sul: para onde vai**
 - [[Quais são as principais causas de choro de bebê?]]
 - [[Qual é o papel do pai nos primeiros 3 anos de vida do bebê?]]
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
+- [[Para o bebê, a mãe é o próprio criador]]
