@@ -29,9 +29,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
-> [!failure]- Failure 
->   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
->  
+- [[Quais são as principais causas de choro de bebê?]]
