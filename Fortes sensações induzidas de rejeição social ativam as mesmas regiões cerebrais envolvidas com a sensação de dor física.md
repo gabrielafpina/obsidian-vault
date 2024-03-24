@@ -21,4 +21,4 @@ Assim, 'Os resultados dão novo sentido à ideia de que a rejeição social 'mac
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
-- [[Quais são as consequências de fazer um]]
+- [[Quais são as consequências de fazer uma bandagem na criança?]]
