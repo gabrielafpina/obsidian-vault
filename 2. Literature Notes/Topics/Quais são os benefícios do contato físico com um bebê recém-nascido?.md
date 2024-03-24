@@ -33,3 +33,4 @@
 - [[Quais são as principais causas de choro de bebê?]]
 - [[Qual é o papel do pai nos primeiros 3 anos de vida do bebê?]]
 - [[Para o bebê, a mãe é o próprio criador]]
+- [[Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina]]

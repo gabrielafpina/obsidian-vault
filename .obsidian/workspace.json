@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "dce082224e994b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2de6ec49fa1d05eb",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md"
+                "file": "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md"
               }
             }
           },
@@ -342,10 +354,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb3f45238e9f89a3",
+  "active": "dce082224e994b1f",
   "lastOpenFiles": [
-    "Para o bebê, a mãe é o próprio criador.md",
     "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
+    "Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
+    "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+    "Para o bebê, a mãe é o próprio criador.md",
     "Como funciona a necessidade de sono da criança?.md",
     "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
     "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
@@ -372,8 +386,6 @@
     "2. Literature Notes/Topics/Como funciona a crise epileptoide?.md",
     "2. Literature Notes/Topics/Nenhuma substância no mundo supera o leite materno.md",
     "2. Literature Notes/Topics/Para um recém-nascido, o olho da mãe é uma bússola.md",
-    "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "2. Literature Notes/Topics/O que é o colostro?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
