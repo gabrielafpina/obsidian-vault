@@ -150,7 +150,7 @@
             }
           },
           {
-            "id": "bd0052e09478b6ea",
+            "id": "6492c26cbc2aaa7d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "4ec41b339555f188",
+            "id": "cca0c227255be106",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -235,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
-    "collapsed": true
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +257,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "cca0c227255be106",
   "lastOpenFiles": [
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
     "Como desconfiar que uma criança foi abusada?.md",
