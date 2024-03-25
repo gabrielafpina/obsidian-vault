@@ -17,6 +17,8 @@ a**TAGS:**
 		1. A mãe sofreu abuso, assim, ela não é capaz de identificar que o marido está abusando da filha ou do filho, porque ela foi abusada. E o homem que está abusando, foi abusado naquela idade.
 			1. Eleanor fica atenta quando ouve falar em padrastos, pai ortopedista, pai alcoólatra e adicto em drogas e, as vezes, pai militar. Geralmente, essas são pessoas que sofreram abuso várias vezes e tem uma coisa forte de poder. Poder é o contrário de amor.
 
+[[Quais são as patologias na vida adulta de abusos sexuais em crianças?]]
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
