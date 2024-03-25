@@ -9,8 +9,8 @@
 - Endometriose
 - Fibromialgia
 - Gôta
-- Probelma de retina
-- Problema de humor
+- Problema de retina
+- Problema de humor vítrio
 
 ###### **COMO:**
 
@@ -27,3 +27,4 @@
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Como desconfiar que uma criança foi abusada?]]
