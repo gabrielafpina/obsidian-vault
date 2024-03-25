@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3138b02358db3f27",
+        "id": "7cc9725f643cefc6",
         "type": "tabs",
         "children": [
           {
-            "id": "13339b0e1e8a437c",
+            "id": "e516ab6a1b378831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d70de5057b52562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quintessência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4769da1838a2c13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dce082224e994b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47915213f91a6f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127606dce943eae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a1e952377429409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8b9d7d3fb845cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quais são as consequências de fazer uma bandagem na criança?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de6ec49fa1d05eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3f45238e9f89a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36c0ff73534a3606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2d18fa8f95443d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deb4480b49324f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1e23e8d68bbef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e78a4ca02dab6f79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a6a650fb6daa659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "854c2d7a280d5c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
+                "file": "Quais são abusos em crianças?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rejeição",
+                "query": "abusos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -323,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são as consequências de fazer uma bandagem na criança?.md",
+                "file": "Quais são abusos em crianças?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são as consequências de fazer uma bandagem na criança?.md",
+                "file": "Quais são abusos em crianças?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são as consequências de fazer uma bandagem na criança?.md"
+                "file": "Quais são abusos em crianças?.md"
               }
             }
           },
@@ -402,26 +209,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8b9d7d3fb845cd5",
+  "active": "e516ab6a1b378831",
   "lastOpenFiles": [
-    "Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
-    "Quais são as consequências de fazer uma bandagem na criança?.md",
+    "Quais são abusos em crianças?.md",
+    "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
+    "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
+    "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
+    "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
+    "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
+    "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
+    "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
+    "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
+    "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
+    "2. Literature Notes/Topics/Quais são as consequências de fazer uma bandagem na criança?.md",
+    "2. Literature Notes/Topics/Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
     "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
     "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
     "2. Literature Notes/Topics/Quais são os benefícios do contato físico com um bebê recém-nascido?.md",
-    "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
-    "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
-    "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
-    "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
-    "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
     "2. Literature Notes/Topics/Quintessência.md",
-    "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-23 às 17.21.57.png",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-    "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
-    "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
-    "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
     "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
     "2. Literature Notes/Topics/Alguns pacientes em seus processos terapêuticos podem paralisar.md",
@@ -431,7 +239,6 @@
     "2. Literature Notes/Topics/Como funciona a diferença de alimentação no parto cesáreo x parto natural?.md",
     "2. Literature Notes/Topics/A metástase nada mais é do que um outro programa que ativamos.md",
     "2. Literature Notes/Topics/Como funciona a fase ativa, da segunda Lei Biológica?.md",
-    "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
