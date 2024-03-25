@@ -9,6 +9,10 @@ a**TAGS:**
 	2. Se mal realizada, pode provocar, em casos extremos, parada respiratória e até desencadear uma arritmia cardíaca.
 2. Separação da mãe 
 	1. Taquipneia transitória do recém-nascido não justifica ser separado da mãe 
+3. Abuso sexual
+	1. Na clinica o que se vê é que pessoas que sofreram fortes experiências negativas, antes dos 3 anos não têm como lembrar, porém geram programas de repetição (mas tem como ser liberado por Renascimento). Houve criação de neuropepitídeos - que geram uma autoadição.
+		1. O hipocampo não está pronto até 3 a 4 anos, para memória. Isto explica como os fatos ocorridos no primeiro ano de vida, especialmente os que geraram fortes emoções, permanecem por tanto tempo na vida adulta. As lembranças serão diferentes ou nulas de abusos sexuais na faixa dos 4 a 5 anos. (Williams, 1986, 1992)
+	2. Dados do Ministério da Saúde sobre a violência sexual em 2018 sinalizam a predominância na infância e adolescência (72% do total), sobretudo nas meninas (74% dos casos), com uma ocorrência precoce (51% antes dos 5 anos de idade) e tendência à repetição (42% são vítimas recorrentes).
 
 ###### **COMO:**
 
@@ -25,3 +29,6 @@ a**TAGS:**
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
