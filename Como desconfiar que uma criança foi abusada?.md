@@ -11,9 +11,40 @@ O sintoma no menino, se for a babá, é que a criança fica muda.
 
 O desenho denuncia também. Quando a criança pinta caras tristes.
 
-[[Crianças não fantasiam abuso sexual, quem mente é adulto]]
+[[Crianças não fantasiam abuso sexual, quem mente é adulto]].
 
-###### **COMO:**
+- Ferimentos na genitália
+- Eczema na boca
+- Afta na boca (não posso falar uma coisa ácida)
+- Verminose
+- Gases
+- Constipação
+- Amigdalite de repetição
+
+**QUAIS SÃO SITUAÇÕES SUSPEITAS?**
+- Retoma a comportamentos como fazer xixi na cama.
+- Tem medos inexplicáveis de lugares e pessoas.
+- Tem ataques de raiva.
+- Sente-se pseudo-adulto.
+- Deprimida/o
+- Apresenta sinais físicos de feridas genitais.
+- Automutilação
+- Apresenta formação de gazes comumente, dores abdominais.
+- Verminoses
+- Comportamento sexual inadequado com brinquedos e objetos.
+-   Mudanças bruscas de comportamento sem explicação aparente; Mudanças súbitas de humor.
+- Pesadelos e distúrbios do sono (pesadelo, sonolência, sonambulismo)
+- Mudança de hábitos alimentares.
+- A criança torna-se isolada, retraída, desatenta, fantasiosa, baixo rendimento escolar, baixa autoestima
+- Isolamento social; evasão escolar; medo de escuro.
+
+###### **QUAIS SÃO OS EFEITOS DO ABUSO NA CRIANÇA?**
+- Efeitos emocionais
+- Interpessoais
+- Comportamentais
+- Cognitivos
+- Físicos
+- Sexuais
 
 ###### **PENSADORES:**
 
