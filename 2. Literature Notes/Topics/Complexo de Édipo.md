@@ -47,7 +47,13 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 	5. Essa mãe, na verdade, acha muito bom que seu filho não tenha 'outra' mulher. Ele pode até transar com quantos homens quiser, mas nunca com outra mulher - o que está mudando bastante.
 	6. Aqui, o homem também pode ficar com raiva de mulher. Ele até transa com elas, mas não vincula, ficando casado com a mãe e solteiro.
 
-3. **Quando o pai tem papel feminino e a mãe tem papel masculino**.
+3. **Quando o pai tem papel feminino e a mãe tem papel masculino**. Aqui, a própria mãe faz o corte.![[Captura de Tela 2024-03-26 às 17.39.53.png]]
+	1. Nesse caso, a mãe e o pai tem uma relação boa entre si. Aqui não existe angústia nem dor, eles estão satisfeitos com seus papéis.
+	2. Por instinto, o filho seduz a mãe, o pai não faz o corte. É a própria mãe que faz isso, porque ela tem a função masculina do casal e porque ela já tem o seu namorado, que é o marido. Assim, a mãe não impede que o filho faça a identificação com o pai, porque eles (o casal) tem uma boa relação afetiva.
+	3. Esse filho se identifica com o pai e vai buscar uma mulher forte como a mãe.
+	4. O filho será um homem mais sensível (como o pai) e vai viver como seus pais vivem: felizes. Essa família não é disfuncional.
+
+4. **Pai tem papel feminino**
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
@@ -68,6 +74,9 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
 > [!failure]- Failure 
 >   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
 >  
