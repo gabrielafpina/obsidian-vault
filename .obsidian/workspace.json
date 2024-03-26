@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c31744889cd51f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e48cb60df884bfba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -87,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alimentação",
+                "query": "bandeira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são abusos em crianças?.md",
+                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são abusos em crianças?.md",
+                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são abusos em crianças?.md"
+                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png"
               }
             }
           },
@@ -235,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 670.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,13 +280,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca0c227255be106",
+  "active": "e48cb60df884bfba",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
+    "Quais são abusos em crianças?.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
     "Como desconfiar que uma criança foi abusada?.md",
     "Há crianças que acham o abuso normal, como uma forma de afeto.md",
     "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
-    "Quais são abusos em crianças?.md",
     "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
     "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
     "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
@@ -286,7 +310,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
     "2. Literature Notes/Topics/Alguns pacientes em seus processos terapêuticos podem paralisar.md",
     "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
-    "2. Literature Notes/Topics/O que é a necrose?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
