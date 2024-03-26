@@ -53,7 +53,10 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 	3. Esse filho se identifica com o pai e vai buscar uma mulher forte como a mãe.
 	4. O filho será um homem mais sensível (como o pai) e vai viver como seus pais vivem: felizes. Essa família não é disfuncional.
 
-4. **Pai tem papel feminino**
+4. **Pai tem papel feminino e mãe tem papel masculino, mas não possuem uma boa relação**. Nesse caso, a criança se identifica com a mãe, que é quem tem o papel masculino. Além disso, ele também seduz a mãe. Pode se tornar mais perigoso se a mãe corresponder à sedução do filho, já que ela não possui uma relação boa com o pai. ![[Captura de Tela 2024-03-26 às 17.44.15.png]]
+	1. Não haverá corte.
+	2. Mãe vive muito incomodada, falando mal do pai 'Seu pai é um banana'. A mãe não deixa o filho se identificar com o pai, porque ele é fraco, e ela é forte.
+	3. Ele vai buscar, consequentemente, uma pessoa que possua uma semelhança com a sua mãe.
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
