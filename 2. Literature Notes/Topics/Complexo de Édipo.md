@@ -39,7 +39,12 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 		1. Esse homem que fica com uma mulher não escolhida pela mãe, 'brocha' na cama ou tem pouco desejo por essa mulher, porque sente que está traindo a mãe, sentindo uma culpa profunda.
 	4. Pode acontecer também da mãe não desqualificar o pai, embora esse homem não preencha a sua carência afetiva e aí ela fica com 2 homens (pai e filho).
 
-2. Pai morre, some, fica ausente. Nesse caso, o complex
+2. **Pai morre, some, fica ausente**. Nesse caso, o complexo de édipo quase não acontece, mas a simbiose com a mãe fica forte, há uma identificação e uma sedução com a mãe.![[Captura de Tela 2024-03-26 às 15.52.53.png]]
+	1. Nesse caso, se agrava ainda mais se a mãe devolve a seta de sedução, se ela estiver muito carente afetivamente.
+	2. A primeira tendência é a de fazer do filho o seu 'marido'. 
+	3. Essa mãe faz dois papéis: de mulher do filho e de pai do filho, querendo ensiná-lo a ser homem.
+	4. O filho vai seduzir a mãe, e não tem ninguém para fazer o corte (um homem), então, sobrou para ele se identificar com a mãe. Ele cria uma resistência por mulher, porque foi uma mulher (sua mãe) que tentou ensiná-lo a ser homem. Ele tem resistência a criar vínculos com mulheres.
+	5. Essa mãe, na verdade, acha muito b
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
