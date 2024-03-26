@@ -83,9 +83,11 @@
             "id": "e48cb60df884bfba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png"
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandeira",
+                "query": "fase oral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png"
+                "file": "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md"
               }
             }
           },
@@ -282,6 +284,7 @@
   },
   "active": "e48cb60df884bfba",
   "lastOpenFiles": [
+    "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Quais são abusos em crianças?.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
@@ -309,7 +312,6 @@
     "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
     "2. Literature Notes/Topics/Alguns pacientes em seus processos terapêuticos podem paralisar.md",
-    "2. Literature Notes/Topics/Como funciona a perda ou a retomada da função?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
