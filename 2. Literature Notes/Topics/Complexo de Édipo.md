@@ -44,7 +44,10 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 	2. A primeira tendência é a de fazer do filho o seu 'marido'. 
 	3. Essa mãe faz dois papéis: de mulher do filho e de pai do filho, querendo ensiná-lo a ser homem.
 	4. O filho vai seduzir a mãe, e não tem ninguém para fazer o corte (um homem), então, sobrou para ele se identificar com a mãe. Ele cria uma resistência por mulher, porque foi uma mulher (sua mãe) que tentou ensiná-lo a ser homem. Ele tem resistência a criar vínculos com mulheres.
-	5. Essa mãe, na verdade, acha muito b
+	5. Essa mãe, na verdade, acha muito bom que seu filho não tenha 'outra' mulher. Ele pode até transar com quantos homens quiser, mas nunca com outra mulher - o que está mudando bastante.
+	6. Aqui, o homem também pode ficar com raiva de mulher. Ele até transa com elas, mas não vincula, ficando casado com a mãe e solteiro.
+
+3. Quando o pai tem papel feminino e a mãe tem papel masculino.
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
