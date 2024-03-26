@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2397bce2b0805f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complexo ",
+                "query": "comunicação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md"
+                "file": "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md"
               }
             }
           },
@@ -282,8 +294,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e48cb60df884bfba",
+  "active": "f2397bce2b0805f5",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
+    "2. Literature Notes/Topics/Complexo de Édipo.md",
     "Captura de Tela 2024-03-26 às 15.52.53.png",
     "Captura de Tela 2024-03-26 às 15.46.15.png",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
@@ -312,14 +326,12 @@
     "2. Literature Notes/Topics/Quintessência.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-23 às 17.21.57.png",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
-    "2. Literature Notes/Topics/Sistema ontogenético dos tecidos.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-20 às 14.38.25.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-03-04 às 15.44.42.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
