@@ -34,8 +34,12 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 
 1. **Quando não há amor ou relação entre os pais**. O filho se identifica com o pai, e possui uma relação de sedução com a mãe, que está solteira, na visão do filho. Pode acontecer da mãe reforçar essa situação do filho, porque ela não tem a relação com o pai, reforçando a simbiose e sua carência afetiva.
 	1. Nesse caso, ocorre a sedução e casamento com a mãe. A consequência é que a mãe acaba não conseguindo se relacionar com homem nenhum, porque se coloca em uma posição de ter que cuidar do filho, e os dois se ligam muito fortemente.![[Captura de Tela 2024-03-26 às 15.46.15.png]]
-	2. Nesse sentido, o corte não ocorrerá e a mãe fica casada com o filho.
+	2. Nesse sentido, o corte não ocorrerá e a mãe fica casada com o filho. Aqui, o filho fica órfão de pai, já que a mãe se agarra ao filho ao extremo.
+	3. O filho pode ter muita dificuldade de relacionamento e de se entregar a outra mulher, ficando solteiro para cuidar da mãe. Esse filho pode casar, mas somente com uma mulher escolhida pela mãe, que não vai roubá-lo dela. Tem que ser uma mulher forte como a mãe, mas que, enquanto estiver viva, não ameace e que quando ela morrer, essa mulher cuide de seu filho como ela cuidava.
+		1. Esse homem que fica com uma mulher não escolhida pela mãe, 'brocha' na cama ou tem pouco desejo por essa mulher, porque sente que está traindo a mãe, sentindo uma culpa profunda.
+	4. Pode acontecer também da mãe não desqualificar o pai, embora esse homem não preencha a sua carência afetiva e aí ela fica com 2 homens (pai e filho).
 
+2. Pai morre, some, fica ausente. Nesse caso, o complex
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
@@ -56,6 +60,9 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
 > [!failure]- Failure 
 >   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
 >  
