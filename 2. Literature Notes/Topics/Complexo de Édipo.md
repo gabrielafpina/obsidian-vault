@@ -32,7 +32,7 @@ Se a mãe for viúva, por exemplo, um outro homem (tio, padrinho, avô, namorado
 **COMPLEXO DE ÉDIPO DISFUNCIONAL:**
 A relação disfuncional existe quando a relação entre os pais é disfuncional, tem muitas brigas, moram juntos, mas brigam muito.
 
-1. Quando não há amor ou relação entre os pais.
+1. Quando não há amor ou relação entre os pais. O filho se identifica com o pai, 
 
 
 **CONSEQUÊNCIAS:**
