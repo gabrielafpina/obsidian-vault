@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "epilepsia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -294,7 +294,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e48cb60df884bfba",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "Captura de Tela 2024-03-26 às 17.44.15.png",
     "Captura de Tela 2024-03-26 às 17.39.53.png",
