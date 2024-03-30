@@ -33,7 +33,15 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 		2. Pode casar com outro homem mais velho, o 'pai'. Faz uma transferência e esse homem será muito parecido com seu pai.
 		3. Pode casar com uma outra mulher.
 		4. Pode acontecer da mãe ficar com ódio da filha e se tornarem rivais de fato. A mãe pune a filha a vida toda, porque ela é a queridinha do pai.
-			1. Ou seja, a filha
+			1. Ou seja, a filha que o pai ama mais do que a própria esposa, vai ser odiada pela própria mãe. E assim, essa filha fica órfã de mãe e pai.
+		5. OBS: o pai pode ter um harém de filhas/namoradas e cada uma com uma função diferente no sistema.
+
+2. **Quando a mãe é uma figura ausente (morreu, sumiu, etc).** Ou seja, a filha manda a seta de identificação e sedução para o pai.
+	1. Nesse caso, o corte não ocorrerá.![[Captura de Tela 2024-03-30 às 18.19.24.png]]
+	2. Filha torna-se a mulher do pai, assim, não aproxima nenhuma outra mulher dele. Ela vai se identificar com o pai, porque não tem uma mulher para fazer o corte.
+	3. Ela pode ficar muito masculinizada e pode acontecer, se houver outra filha, dessa ficar muito feminina e até ter uma 3a irmã que vai ser a filha das duas.
+
+3. **Mãe com papel masculino e pai com papel feminino**
 
 
 **PENSADORES:**
