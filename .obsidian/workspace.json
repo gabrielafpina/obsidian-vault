@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md"
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md"
               }
             }
           },
@@ -295,11 +295,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e48cb60df884bfba",
+  "active": "0d9efbb6d951bae1",
   "lastOpenFiles": [
+    "Captura de Tela 2024-03-30 às 18.33.26.png",
+    "2. Literature Notes/Topics/Complexo de Édipo.md",
+    "Captura de Tela 2024-03-30 às 18.32.28.png",
     "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.31.38.png",
-    "2. Literature Notes/Topics/Complexo de Édipo.md",
     "Captura de Tela 2024-03-30 às 18.29.28.png",
     "Captura de Tela 2024-03-30 às 18.26.18.png",
     "Captura de Tela 2024-03-30 às 18.22.26.png",
@@ -311,7 +313,6 @@
     "Captura de Tela 2024-03-26 às 17.39.53.png",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
-    "Captura de Tela 2024-03-26 às 15.52.53.png",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",

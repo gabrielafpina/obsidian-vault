@@ -52,6 +52,7 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 
 **COMPLEXO DE ELECTRA EM RELAÇÕES HOMOAFETIVAS::**!
 ![[Captura de Tela 2024-03-30 às 18.31.38.png]]
+![[Captura de Tela 2024-03-30 às 18.33.26.png]]
 
 
 **FRASES:**

@@ -61,8 +61,7 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 **COMPLEXO DE ÉDIPO EM RELAÇÕES HOMOAFETIVAS:**
 Toda relação tem um dos pais ou mães que possuem o papel masculino e aquele pai ou mãe que tem o papel feminino.![[Captura de Tela 2024-03-30 às 18.29.28.png]]
 
-
-
+![[Captura de Tela 2024-03-30 às 18.32.28.png]]
 
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
