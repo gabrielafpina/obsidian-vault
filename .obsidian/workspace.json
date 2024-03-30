@@ -186,7 +186,7 @@
             }
           },
           {
-            "id": "6492c26cbc2aaa7d",
+            "id": "9ba5db89ce59df1b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -194,7 +194,7 @@
             }
           },
           {
-            "id": "cca0c227255be106",
+            "id": "d2bd9b09f7a25adf",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "Quais são abusos em crianças?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
+                "file": "Quais são abusos em crianças?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md"
+                "file": "Quais são abusos em crianças?.md"
               }
             }
           },
@@ -271,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
-    "collapsed": true
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,7 +293,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2a3439405e433d4",
+  "active": "d2bd9b09f7a25adf",
   "lastOpenFiles": [
     "Captura de Tela 2024-03-26 às 17.44.15.png",
     "Captura de Tela 2024-03-26 às 17.39.53.png",
