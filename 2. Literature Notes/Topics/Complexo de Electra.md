@@ -50,7 +50,9 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 4. **Pai com papel feminino e mãe com papel masculino, com relação de brigas.**
 	1. ![[Captura de Tela 2024-03-30 às 18.26.18.png]]
 
-**PENSADORES:**
+**COMPLEXO DE ELECTRA EM RELAÇÕES HOMOAFETIVAS::**!
+![[Captura de Tela 2024-03-30 às 18.31.38.png]]
+
 
 **FRASES:**
 
