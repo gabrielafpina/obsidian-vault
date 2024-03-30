@@ -22,7 +22,18 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 	Romper significa não ter mais necessidade de aprovação e reconhecimento e encontrar tudo isso dentro de si mesmo.
 
 **COMO FUNCIONA O CASO DISFUNCIONAL?:**
-1. **Pais não possue **
+1. **Pais não possuem uma boa relação entre si**.
+	1. Se o pai manda a seta de sedução de volta para a filha, mãe e filha começam a brigar ainda mais.![[Captura de Tela 2024-03-30 às 18.13.10.png]]
+	2. Filha se vincula com o pai e casa com ele. O pai adora, porque ele está carente maritalmente falando.
+	3. Mãe não faz o corte, porque não liga, acha que é até bom. O pai também acha ótimo e essa filha vira filha/esposa, a mulher que esse pai/homem queria ter.
+	4. A filha fica órfã de pai e pode acontecer envolvimento sexual, chegando às vias de fato.
+	5. O que pode acontecer com a filha?
+		1. Pode ficar solteira, afinal, está casada com o pai.
+			1. Assume todas as responsabilidades com os outros irmãos e a própria mãe vira sua filha. Começa a controlar a casa e cuida de tudo.
+		2. Pode casar com outro homem mais velho, o 'pai'. Faz uma transferência e esse homem será muito parecido com seu pai.
+		3. Pode casar com uma outra mulher.
+		4. Pode acontecer da mãe ficar com ódio da filha e se tornarem rivais de fato. A mãe pune a filha a vida toda, porque ela é a queridinha do pai.
+			1. Ou seja, a filha
 
 
 **PENSADORES:**
@@ -38,3 +49,6 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
