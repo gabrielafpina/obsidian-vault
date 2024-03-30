@@ -58,6 +58,8 @@ A relação disfuncional existe quando a relação entre os pais é disfuncional
 	2. Mãe vive muito incomodada, falando mal do pai 'Seu pai é um banana'. A mãe não deixa o filho se identificar com o pai, porque ele é fraco, e ela é forte.
 	3. Ele vai buscar, consequentemente, uma pessoa que possua uma semelhança com a sua mãe.
 
+**COMPLEXO DE ÉDIPO EM RELAÇÕES HOMOA**
+
 **CONSEQUÊNCIAS:**
 - Quando o homem está muito apegado à mãe, se desenvolve, mas acaba não conseguindo se relacionar e aprofundar em uma relação com outra mulher, porque já está casado com a mãe. Cria-se uma relação simbiótica emocional com a mãe, o que faz com que o homem não consiga se soltar da mãe.
 

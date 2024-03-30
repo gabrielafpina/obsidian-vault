@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
+                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
+                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md"
+                "file": "2. Literature Notes/Topics/Complexo de Édipo.md"
               }
             }
           },
@@ -295,11 +295,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d9efbb6d951bae1",
+  "active": "e48cb60df884bfba",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Complexo de Electra.md",
+    "Captura de Tela 2024-03-30 às 18.26.18.png",
+    "Captura de Tela 2024-03-30 às 18.22.26.png",
     "Captura de Tela 2024-03-30 às 18.19.24.png",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
-    "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.13.10.png",
     "Captura de Tela 2024-03-30 às 18.04.17.png",
     "Quais são abusos em crianças?.md",
@@ -330,9 +332,6 @@
     "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
     "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-03-23 às 17.21.57.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.39.52.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",

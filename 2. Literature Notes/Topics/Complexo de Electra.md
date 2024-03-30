@@ -41,8 +41,14 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 	2. Filha torna-se a mulher do pai, assim, não aproxima nenhuma outra mulher dele. Ela vai se identificar com o pai, porque não tem uma mulher para fazer o corte.
 	3. Ela pode ficar muito masculinizada e pode acontecer, se houver outra filha, dessa ficar muito feminina e até ter uma 3a irmã que vai ser a filha das duas.
 
-3. **Mãe com papel masculino e pai com papel feminino**
+3. **Mãe com papel masculino e pai com papel feminino.** Nesse caso, a relação entre os pais é boa, truncada, mas felizes.![[Captura de Tela 2024-03-30 às 18.22.26.png]]
+	1. O pai faz o corte, porque o papel feminino é do pai.
+	2. Acontece de a filha inicialmente seduzir o pai e ela vai se identificar com a mãe, que porém, tem um papel masculino.
+		1. Assim, ela poderá buscar um homem mais sensível como o pai.
+	3. Se o casal é truncado, mas não são felizes, a mãe pode dizer sempre: seu pai é um banana. Isso porque esta mãe possivelmente é muito durona e tem inveja da afetividade do marido. Assim, essa filha fica com dificuldade de valorizar os homens, porque a mãe detona com a imagem do pai.
 
+4. **Pai com papel feminino e mãe com papel masculino, com relação de brigas.**
+	1. ![[Captura de Tela 2024-03-30 às 18.26.18.png]]
 
 **PENSADORES:**
 
@@ -57,6 +63,12 @@ Como terapeutas, devemos ajudar as clientes a fazer dois rompimentos: primeiro c
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
+> [!failure]- Failure 
+>   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
+>  
 > [!failure]- Failure 
 >   Error: You exceeded your current quota, please check your plan and billing det  ails. For more information on this error, read the docs: https://platform.open  ai.com/docs/guides/error-codes/api-errors.
 >  
