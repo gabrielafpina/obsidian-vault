@@ -92,19 +92,19 @@
             }
           },
           {
-            "id": "f2397bce2b0805f5",
+            "id": "e84b89297cf5bf6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epilepsia",
+                "query": "complexo de electra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quais são abusos em crianças?.md",
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quais são abusos em crianças?.md",
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quais são abusos em crianças?.md"
+                "file": "2. Literature Notes/Topics/Complexo de Electra.md"
               }
             }
           },
@@ -271,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 670.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,19 +295,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2bd9b09f7a25adf",
+  "active": "e84b89297cf5bf6f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Complexo de Édipo.md",
+    "2. Literature Notes/Topics/Complexo de Electra.md",
+    "Quais são abusos em crianças?.md",
     "Captura de Tela 2024-03-26 às 17.44.15.png",
     "Captura de Tela 2024-03-26 às 17.39.53.png",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
-    "2. Literature Notes/Topics/Complexo de Édipo.md",
     "Captura de Tela 2024-03-26 às 15.52.53.png",
     "Captura de Tela 2024-03-26 às 15.46.15.png",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2023-08-23 às 23.22.45.png",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "Quais são abusos em crianças?.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
     "Como desconfiar que uma criança foi abusada?.md",
     "Há crianças que acham o abuso normal, como uma forma de afeto.md",
@@ -330,7 +333,6 @@
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.09.43.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-22 às 15.04.34.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.47.20.png",
-    "5. Shots, Images & PDFs/Captura de Tela 2024-03-21 às 12.44.26.png",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
