@@ -187,7 +187,7 @@
             }
           },
           {
-            "id": "9ba5db89ce59df1b",
+            "id": "7d9764a5fb4388b2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -195,7 +195,7 @@
             }
           },
           {
-            "id": "d2bd9b09f7a25adf",
+            "id": "30c25def0879f2dc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -272,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
-    "collapsed": true
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,7 +294,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d9efbb6d951bae1",
+  "active": "30c25def0879f2dc",
   "lastOpenFiles": [
     "Captura de Tela 2024-03-30 às 18.33.26.png",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
