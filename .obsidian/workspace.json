@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "517ce7f7de928ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complexo de electra",
+                "query": "câncer ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -216,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
+                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
+                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md"
+                "file": "2. Literature Notes/Topics/O que é um câncer?.md"
               }
             }
           },
@@ -272,7 +283,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 670.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,12 +306,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30c25def0879f2dc",
+  "active": "517ce7f7de928ee4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.33.26.png",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
     "Captura de Tela 2024-03-30 às 18.32.28.png",
-    "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.31.38.png",
     "Captura de Tela 2024-03-30 às 18.29.28.png",
     "Captura de Tela 2024-03-30 às 18.26.18.png",
@@ -309,7 +321,6 @@
     "Captura de Tela 2024-03-30 às 18.04.17.png",
     "Quais são abusos em crianças?.md",
     "Captura de Tela 2024-03-26 às 17.44.15.png",
-    "Captura de Tela 2024-03-26 às 17.39.53.png",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
