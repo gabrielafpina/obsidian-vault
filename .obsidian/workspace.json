@@ -114,9 +114,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7ee66a754b165ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb6965747f5b6578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "câncer ",
+                "query": "trilho ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é um câncer?.md"
+                "file": "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md"
               }
             }
           },
@@ -306,8 +330,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "517ce7f7de928ee4",
+  "active": "bb6965747f5b6578",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
+    "2. Literature Notes/Topics/O que é um câncer?.md",
     "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.33.26.png",
     "2. Literature Notes/Topics/Complexo de Édipo.md",
@@ -342,7 +368,6 @@
     "2. Literature Notes/Topics/Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
     "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "2. Literature Notes/Topics/'Se alguém quer educar, que primeiro seja educado.'.md",
-    "2. Literature Notes/Topics/Se uma criança de até 9 meses tem algum sintoma, procurar o mês correspondente na vida intrauterina.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
