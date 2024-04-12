@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba49de90cd78ec76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -75,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pai",
+                "query": "bulimia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md"
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md"
               }
             }
           },
@@ -247,8 +259,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03dc9297fceb1cdd",
+  "active": "ba49de90cd78ec76",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "Como desconfiar que uma criança foi abusada?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
@@ -284,7 +297,6 @@
     "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
     "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
-    "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
