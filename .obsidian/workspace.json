@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e516ab6a1b378831",
+            "id": "bb6965747f5b6578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são abusos em crianças?.md",
+                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b4f3d031b52c09a",
+            "id": "198c60d015a8a7de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1467e382a451d657",
+            "id": "71da6d3ae43264af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,103 +44,19 @@
             }
           },
           {
-            "id": "c476b56d1f147553",
+            "id": "03dc9297fceb1cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b567d544e3e520a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Há crianças que acham o abuso normal, como uma forma de afeto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c31744889cd51f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e48cb60df884bfba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Édipo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d9efbb6d951bae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Complexo de Electra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "517ce7f7de928ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é um câncer?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7ee66a754b165ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb6965747f5b6578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4 lugares ",
+                "query": "anorexia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md"
+                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md"
               }
             }
           },
@@ -330,8 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb6965747f5b6578",
+  "active": "198c60d015a8a7de",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+    "Como desconfiar que uma criança foi abusada?.md",
+    "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
+    "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/O que é um câncer?.md",
@@ -353,7 +273,6 @@
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
-    "Como desconfiar que uma criança foi abusada?.md",
     "Há crianças que acham o abuso normal, como uma forma de afeto.md",
     "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
     "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
@@ -365,9 +284,6 @@
     "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "2. Literature Notes/Topics/Para o bebê, a mãe é o próprio criador.md",
-    "2. Literature Notes/Topics/Quais são as consequências de fazer uma bandagem na criança?.md",
-    "2. Literature Notes/Topics/Fortes sensações induzidas de rejeição social ativam as mesmas regiões cerebrais envolvidas com a sensação de dor física.md",
-    "2. Literature Notes/Topics/O aborto espontâneo tem, se não consciente, inconscientemente, uma rejeição.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
