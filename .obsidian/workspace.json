@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a160157f9947430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona o conceito de ninho menor ou ninho estreito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe276f3763f4178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lei fé",
+                "query": "ninho maior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -179,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md"
+                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md"
               }
             }
           },
@@ -258,11 +282,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba49de90cd78ec76",
+  "active": "9fe276f3763f4178",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "Como funciona o conceito de ninho maior ou ninho alargado?.md",
+    "Como funciona o conceito de ninho menor ou ninho estreito?.md",
+    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "2. Literature Notes/Topics/Quintessência.md",
-    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
     "Vão ter conflitos que a gente nunca vai resolver.md",
     "Roberta Fioravante.md",
@@ -293,9 +320,6 @@
     "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
-    "Há crianças que acham o abuso normal, como uma forma de afeto.md",
-    "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
-    "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
