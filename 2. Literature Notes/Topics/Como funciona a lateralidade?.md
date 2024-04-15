@@ -79,6 +79,6 @@ Nos canhotos é o inverso. A temática de ninho maior e menor nos ajuda a compre
 - [[Porque a mulher faz o xixi sentada e o homem em pé?]]
 - [[O que são relais?]]
 - [[Se você está com uma baixa de testosterona, pode desenvolver um tipo de depressão]]
-- [[Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico]]
+- [[Como funciona o PAT Fisiológico?]]
 - [[O que é a dor no joelho?]]
 - [[O que são os trilhos do conflito?]]

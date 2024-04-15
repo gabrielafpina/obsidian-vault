@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "9d88ad906381d24e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f63329a11e4d892d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "635c97721c67633f",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trilhos",
+                "query": "pat hormonal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -227,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md"
+                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md"
               }
             }
           },
@@ -306,8 +330,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7883fe9e0d918c1",
+  "active": "9d88ad906381d24e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
+    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
+    "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "Como funciona o conceito de ninho maior ou ninho alargado?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
@@ -341,9 +368,6 @@
     "Captura de Tela 2024-03-26 às 17.44.15.png",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
-    "2. Literature Notes/Topics/Como funciona a fase oral, segundo Freud?.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "Crianças não fantasiam abuso sexual, quem mente é adulto.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",

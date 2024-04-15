@@ -10,6 +10,10 @@ Assim, é muito comum que mulheres destras [[Como funciona uma mulher destra?]],
 
 E a canhota, pode querer ficar mais em casa, fazendo o movimento inverso da canhota, que sempre quis estar fora do ninho. Ela muda a forma de se comportar.
 
+Pode acontecer da mulher entrar em PAT na gestação, na amamentação, menopausa.
+
+No homem idoso também pode acontecer.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

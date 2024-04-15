@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-É sair da sua energia de base como um movimento de sobrevivência, quando funcionamos no hemicórtex oposto ao nosso de base. [[Tudo para o cérebro é uma noção de sobrevivência]].
+É sair da sua energia de base como um movimento de sobrevivência, quando funcionamos no hemicórtex oposto ao nosso de base. [[Tudo para o cérebro é uma noção de sobrevivência]]. É um modo alterado de funcionamento para que o cérebro se equilibre dentro de um estresse.
 
 Estar em PAT hormonal, para algumas situações é saudável, mas uma pessoa em PAT a vida toda, se torna um problema, porque é uma adaptação constante a um conflito da sua história. Ou ele também pode ser rápido.
 
@@ -37,17 +37,17 @@ Tem influência somente no córtex nas áreas de território masculino e feminin
 	- Mulheres grávidas
 		- Quando a mulher engravida, a mulher destra tende a ficar com a energia mais masculina, de proteção e a canhota tende a ficar mais tranquila.
 	- Crianças dos 2 sexos antes da puberdade
-	- Mulheres em Menopausa - [[Quando uma mulher entra na menopausa, ela entra em PAT Fisiológico]]
+	- Mulheres em Menopausa - [[Como funciona o PAT Fisiológico?]]
 	- Homem Idoso, depois da andropausa
 - ***PAT Patológico***
 	- Castrações Químicas ou Cirúrgicas
 	- DIU com hormônios
-	- Contraceptivos
+	- Contraceptivos oral e injetáveis
 	- Quimioterapia
 - ***PAT Conflitos de território***
 	- Medo de perder ou perda do território
 	- Medo de perder ou perda do lugar
-	- Homossexuais dos 2 sexos.
+	- Homossexuais dos 2 sexos
 		- A homossexualidade não é patologia, é um comportamento.
 
 O cérebro funciona como um cenário. Assim, você pode estar em PAT na sua relação com a sua mãe, mas estar na sua energia de base com relação ao seu pai.
