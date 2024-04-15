@@ -13,7 +13,7 @@ Então, temos o **ativador**, que são as situações que vão *ativar* a memór
 		O ativador vai ser a releitura precisa do mesmo cenário do conflito programante - temática de separação, ataque à integridade, medo da falta, perde de referência...
 
 E tudo isso está inserido dentro do **pré-programante**, que são as informações oriundas do transgeracional.
-	O PRÉ - PROGRAMANTE, pertence às informações oriundas do clã e ao período pré-concepção (impressão genômica). [[O que é a impressão genômica?]]
+	O pré-programante, pertence às informações oriundas do clã e ao período pré-concepção (impressão genômica). [[O que é a impressão genômica?]]
 
 Na maioria das vezes, o paciente vai vir com um problema na história do ativador. Assim, precisamos olhar na história dele onde está o programante.
 
