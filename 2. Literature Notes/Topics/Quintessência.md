@@ -4,7 +4,7 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-Quintessência significa o melhor, o essencial. Culturalmente, fomos levados a acreditar que as doenças eram um erro, um absurdo, uma disfunção ou um azar da Natureza. Hoje, sabemos que, ao contrário, ela obedece a Leis rigorosas e possuidoras de sentido.
+Quintessência significa o melhor, o ***essencial***. Culturalmente, fomos levados a acreditar que as doenças eram um erro, um absurdo, uma disfunção ou um azar da Natureza. Hoje, sabemos que, ao contrário, ela obedece a Leis rigorosas e possuidoras de sentido.
 
 É por isso que Hamer chama de "Programa Especial bem embasado pela Natureza". Programa, pois é uma sucessão de sequencias previstas com antecedência; Especial, pois é bem específico e não acontece sem um DHS - [[O que é um DHS?]]; Bem embasado pela Natureza quer dizer que não acontece ao acaso e nem de forma anárquica, mas tende à sobrevivência dos seres vivos e à manutenção da espécie. [[Nada é aleatório]].
 	Assim, existe um programa com um roteiro bem exato a seguir.

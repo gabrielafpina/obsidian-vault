@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "635c97721c67633f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e8a2ca069d6d922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quintessência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1344add69122b287",
             "type": "leaf",
             "state": {
@@ -30,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68929002984d11a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vão ter conflitos que a gente nunca vai resolver.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vão ter conflitos que a gente nunca vai resolver.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vão ter conflitos que a gente nunca vai resolver.md"
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md"
               }
             }
           },
@@ -222,11 +257,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1344add69122b287",
+  "active": "ba49de90cd78ec76",
   "lastOpenFiles": [
-    "Roberta Fioravante.md",
-    "Vão ter conflitos que a gente nunca vai resolver.md",
+    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
+    "2. Literature Notes/Topics/Quintessência.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+    "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
+    "Vão ter conflitos que a gente nunca vai resolver.md",
+    "Roberta Fioravante.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
@@ -257,9 +295,6 @@
     "Há crianças que acham o abuso normal, como uma forma de afeto.md",
     "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
     "2. Literature Notes/Topics/O que é o tropismo microbiano?.md",
-    "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
-    "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
-    "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
