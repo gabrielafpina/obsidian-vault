@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "8b89848f78ca3ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7883fe9e0d918c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "635c97721c67633f",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ninho maior",
+                "query": "trilhos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -203,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
+                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
+                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md"
+                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md"
               }
             }
           },
@@ -282,10 +306,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9fe276f3763f4178",
+  "active": "b7883fe9e0d918c1",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
+    "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "Como funciona o conceito de ninho maior ou ninho alargado?.md",
+    "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "Como funciona o conceito de ninho menor ou ninho estreito?.md",
     "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
@@ -300,7 +325,6 @@
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
-    "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/O que é um câncer?.md",
     "2. Literature Notes/Topics/Complexo de Electra.md",
     "Captura de Tela 2024-03-30 às 18.33.26.png",
