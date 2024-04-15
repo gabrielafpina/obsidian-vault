@@ -36,3 +36,4 @@ Geralmente, quando o paciente nos procura, ele não vem pelo DHS em si, pela ori
 **Norte: ideia/pergunta**
 
 **Sul: para onde vai**
+- [[Vão ter conflitos que a gente nunca vai resolver]]

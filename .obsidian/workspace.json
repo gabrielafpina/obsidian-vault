@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1344add69122b287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vão ter conflitos que a gente nunca vai resolver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "file": "Vão ter conflitos que a gente nunca vai resolver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
+                "file": "Vão ter conflitos que a gente nunca vai resolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md"
+                "file": "Vão ter conflitos que a gente nunca vai resolver.md"
               }
             }
           },
@@ -209,8 +222,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba49de90cd78ec76",
+  "active": "1344add69122b287",
   "lastOpenFiles": [
+    "Roberta Fioravante.md",
+    "Vão ter conflitos que a gente nunca vai resolver.md",
+    "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
@@ -244,9 +260,6 @@
     "2. Literature Notes/Topics/Como fica o sistema imunitário, a partir da 4a lei biológica?.md",
     "2. Literature Notes/Topics/Sistema ontogenético dos micróbios.md",
     "2. Literature Notes/Topics/Qual é o nosso primeiro programa arcaico de sobrevivência?.md",
-    "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
-    "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
-    "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
