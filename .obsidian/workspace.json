@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb6965747f5b6578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "198c60d015a8a7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71da6d3ae43264af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como desconfiar que uma criança foi abusada?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03dc9297fceb1cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba49de90cd78ec76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bulimia",
+                "query": "lei fé",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -118,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -180,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md"
+                "file": "2. Literature Notes/Topics/Lei férrea ou Lei do DHS.md"
               }
             }
           },
@@ -261,6 +211,7 @@
   },
   "active": "ba49de90cd78ec76",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "Como desconfiar que uma criança foi abusada?.md",
@@ -296,7 +247,6 @@
     "2. Literature Notes/Topics/Quais são as principais causas de choro de bebê?.md",
     "2. Literature Notes/Topics/Como funciona a necessidade de sono da criança?.md",
     "2. Literature Notes/Topics/Qual é o papel do pai nos primeiros 3 anos de vida do bebê?.md",
-    "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
