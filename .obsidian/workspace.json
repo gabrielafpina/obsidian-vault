@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "0f5628e11f1bfc4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f63329a11e4d892d",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pré-pro",
+                "query": "perguntas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
+                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
+                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md"
+                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md"
               }
             }
           },
@@ -342,8 +354,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a4f317cb80741cb",
+  "active": "0f5628e11f1bfc4f",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
     "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
@@ -379,7 +392,6 @@
     "Quais são abusos em crianças?.md",
     "Captura de Tela 2024-03-26 às 17.44.15.png",
     "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
-    "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
