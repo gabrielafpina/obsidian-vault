@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perguntas",
+                "query": "fase de resolução A",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -275,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md"
+                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md"
               }
             }
           },
@@ -354,8 +354,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f5628e11f1bfc4f",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
@@ -391,7 +392,6 @@
     "Captura de Tela 2024-03-30 às 18.04.17.png",
     "Quais são abusos em crianças?.md",
     "Captura de Tela 2024-03-26 às 17.44.15.png",
-    "2. Literature Notes/Topics/O significado da comunicação é a resposta que se obtém.md",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
