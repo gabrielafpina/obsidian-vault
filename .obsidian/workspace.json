@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "3960fae9e6e55c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f63329a11e4d892d",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+                "file": "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md"
+                "file": "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md"
               }
             }
           },
@@ -319,15 +331,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f5628e11f1bfc4f",
+  "active": "3960fae9e6e55c5b",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
+    "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
     "2. Literature Notes/Topics/Lei bifásica da doença.md",
     "2. Literature Notes/Topics/Febre só acontece em conflitos de endo e meso antiga.md",
     "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "Como funciona o conceito de ninho menor ou ninho estreito?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
@@ -346,7 +359,6 @@
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
     "2. Literature Notes/Topics/O que é um câncer?.md",
-    "2. Literature Notes/Topics/Complexo de Electra.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
