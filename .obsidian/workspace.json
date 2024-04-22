@@ -162,6 +162,18 @@
             }
           },
           {
+            "id": "f7e2a843dcf20a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f63329a11e4d892d",
             "type": "leaf",
             "state": {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xixi",
+                "query": "amament",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -297,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como desconfiar que uma criança foi abusada?.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como desconfiar que uma criança foi abusada?.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como desconfiar que uma criança foi abusada?.md"
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
               }
             }
           },
@@ -376,8 +388,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3e11180e895787d",
+  "active": "f7e2a843dcf20a94",
   "lastOpenFiles": [
+    "Como desconfiar que uma criança foi abusada?.md",
     "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
     "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
@@ -400,7 +413,6 @@
     "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
     "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-    "Como desconfiar que uma criança foi abusada?.md",
     "2. Literature Notes/Topics/O que é a Ferida Emocional da Rejeição?.md",
     "2. Literature Notes/Topics/Existem 4 lugares proibidos.md",
     "2. Literature Notes/Topics/O que é o Efeito Hipnótico do Conflito?.md",
