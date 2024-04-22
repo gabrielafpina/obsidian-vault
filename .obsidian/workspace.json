@@ -140,6 +140,16 @@
             }
           },
           {
+            "id": "c79bd84dfdb515b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "f63329a11e4d892d",
             "type": "leaf",
             "state": {
@@ -164,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -354,7 +364,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8650e5b4b284ece6",
+  "active": "c79bd84dfdb515b7",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
     "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
