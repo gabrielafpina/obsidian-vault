@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tudo que é feito com consciência ",
+                "query": "tdah",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -280,7 +280,7 @@
             }
           },
           {
-            "id": "a270dce1f6048078",
+            "id": "794f73964de8f85e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -288,7 +288,7 @@
             }
           },
           {
-            "id": "d32dffc198374a6f",
+            "id": "b48877af8b4ca31d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md"
+                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md"
               }
             }
           },
@@ -365,8 +365,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
-    "collapsed": true
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,7 +387,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7e2a843dcf20a94",
+  "active": "b48877af8b4ca31d",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "Como desconfiar que uma criança foi abusada?.md",
