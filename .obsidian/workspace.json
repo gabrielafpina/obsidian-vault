@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psicosse",
+                "query": "sublimação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -210,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f9e249c30498559",
+  "active": "f2a3439405e433d4",
   "lastOpenFiles": [
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "Como funciona o período de latência, segundo Freud?.md",
