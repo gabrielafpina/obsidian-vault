@@ -35,7 +35,7 @@ Nesse momento, o que a criança mais quer é ser aprovada, desde com seus pais, 
 O princípio que rege o [[SuperEgo]] é a moral, a qual o torna responsável pela repreensão dos impulsos sexuais não resolvidos na fase fálica [[Como funciona a fase fálica, segundo Freud?]].
 	O menino se vê como um homem e a menina, como mulher.
 
-Tendo em vista a ocorrência nesse momento da sublimação (9 aos 11 a)
+Tendo em vista a ocorrência nesse momento da sublimação (9 aos 11 anos), os impulsos pré-genitais da fase genital que não lograram êxito, serão, a partir de então, recalcados ou transformados em atividades socialmente produtivas/aceitas.
 
 ###### **COMO:**
 
