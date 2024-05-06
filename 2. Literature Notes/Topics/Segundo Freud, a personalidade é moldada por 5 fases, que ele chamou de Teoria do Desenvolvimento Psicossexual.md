@@ -7,7 +7,7 @@
 1. **Oral**: 0 - 2 anos [[Como funciona a fase oral, segundo Freud?]]
 2. **Anal**: 2 - 3 anos [[Como funciona a fase anal, segundo Freud?]]
 3. **Fálica**: 3 - 5 anos (aqui é onde acontece o complexo de édipo) - [[Como funciona a fase fálica, segundo Freud?]]
-4. **Latência**: 5 - 11 anos
+4. **Latência**: 5 - 11 anos - [[Como funciona o período de latência, segundo Freud?]]
 5. **Genital**: 12 - 18 anos
 
 Durante cada fase, uma criança é confrontada com um conflito entre impulsos biológicos e expectativas sociais.

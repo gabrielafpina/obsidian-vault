@@ -8,233 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba49de90cd78ec76",
+            "id": "3f9e249c30498559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a160157f9947430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona o conceito de ninho menor ou ninho estreito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fe276f3763f4178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como funciona o conceito de ninho maior ou ninho alargado?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b89848f78ca3ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7883fe9e0d918c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d88ad906381d24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a4f317cb80741cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5628e11f1bfc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3960fae9e6e55c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60ea0c21eeb7e79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8650e5b4b284ece6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/O que a gestação tem a ver com os seus projetos?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79bd84dfdb515b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "a3e11180e895787d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Como desconfiar que uma criança foi abusada?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e2a843dcf20a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Tudo que é feito conscientemente prospera, vem em abundância e dá certo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f63329a11e4d892d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f61e55c12a1a283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Lei bifásica da doença.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9717a6fc3bd8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad3c8c198194a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "781a1528f84f3125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "Como funciona o período de latência, segundo Freud?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandeira",
+                "query": "psicosse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -284,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -345,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "Como funciona o período de latência, segundo Freud?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "Como funciona o período de latência, segundo Freud?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
+                "file": "Como funciona o período de latência, segundo Freud?.md"
               }
             }
           },
@@ -424,8 +210,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "781a1528f84f3125",
+  "active": "3f9e249c30498559",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
+    "Como funciona o período de latência, segundo Freud?.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
@@ -449,9 +238,6 @@
     "2. Literature Notes/Topics/Quintessência.md",
     "2. Literature Notes/Topics/O que é Mini-Maxi Esquizofrenia?.md",
     "Vão ter conflitos que a gente nunca vai resolver.md",
-    "Roberta Fioravante.md",
-    "2. Literature Notes/Topics/O que é a Ferida Emocional do Abandono?.md",
-    "2. Literature Notes/Topics/Nenhum pai e nenhuma mãe rejeita o filho.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
