@@ -21,7 +21,7 @@ Neste período, a criança já superou o complexo da fase fálica (é o que se e
 
 Aqui, a libido está adormecida, não se organizando em nenhuma parte do corpo físico. Freud disse que a maioria dos impulsos sexuais é reprimida durante o estágio latente. Assim, a energia sexual é sublimada, Isso quer dizer que grande parte  da energia da criança é canalizada para o desenvolvimento de novas habilidades e aquisição de novos conhecimentos.
 
-O ponto de conflito nessa fase é o SuperEgo. Aqui, inicia-se a formação, ou seja, a introdução à autoridade das convenções sociais na vida da criança.
+O ponto de conflito nessa fase é o SuperEgo. Aqui, inicia-se a formação, ou seja, a introdução à autoridade das convenções sociais na vida da criança. Muito relacionado à criação de [[crenças]].
 	O superego se forma por meio da interiorização da figura dos pais e principalmente no período de latência para a construção da personalidade do indivíduo.
 	Nessa fase, as crianças valorizam a vida social/escolar, com os amigos sem as experiências traumáticas advindas do relacionamento com pais e demais familiares.
 	Podemos deduzir então, que o funcionamento do superego está articulado às exigências sociais e culturais, introjetadas a partir das proibições, limites e autoridade, principalmente paternais.
