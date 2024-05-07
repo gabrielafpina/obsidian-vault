@@ -36,7 +36,8 @@ Nesse momento, o que a criança mais quer é ser aprovada, desde com seus pais, 
 	A autoestima do indivíduo não depende mais exclusivamente da aprovação externa, mas da sensação de haver procedido conforme o superego determina.
 		Satisfazer o superego provoca sentimentos de segurança e prazer, contradizê-lo traz culpa e remorso.
 
-Muito do que a criança internaliza e ajuda a constituir o seu superego é incorporado por meio das respostas dadas pelos pais, professores, a questionamentos 
+Muito do que a criança internaliza e ajuda a constituir o seu superego é incorporado por meio das respostas dadas pelos pais, professores, a questionamentos levantados por elas, como:
+	sobre a vida, o tempo, a morte, o envelhecimento, etc. E também sobre o que pode ou não pode fazer.
 
 O princípio que rege o [[SuperEgo]] é a moral, a qual o torna responsável pela repreensão dos impulsos sexuais não resolvidos na fase fálica [[Como funciona a fase fálica, segundo Freud?]].
 	O menino se vê como um homem e a menina, como mulher.
