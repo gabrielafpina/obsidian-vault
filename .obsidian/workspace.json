@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a281402bd207cdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "368826cbda07b173",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psicossex",
+                "query": "bandeira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08e1de88b2ed7974",
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona o período de latência, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona o período de latência, segundo Freud?.md",
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona o período de latência, segundo Freud?.md"
+                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
               }
             }
           },
@@ -221,12 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f9e249c30498559",
+  "active": "a281402bd207cdbb",
   "lastOpenFiles": [
+    "Como funciona o período de latência, segundo Freud?.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "Captura de Tela 2024-05-07 às 13.18.49.png",
     "Captura de Tela 2024-05-07 às 13.18.36.png",
-    "Como funciona o período de latência, segundo Freud?.md",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
     "2. Literature Notes/Topics/SuperEgo.md",
     "Onde há culpa, haverá a necessidade de autopunição.md",
