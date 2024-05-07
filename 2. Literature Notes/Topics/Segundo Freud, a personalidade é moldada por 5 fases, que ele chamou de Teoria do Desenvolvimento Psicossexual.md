@@ -11,6 +11,7 @@
 5. **Genital**: 12 - 18 anos
 
 ![[Captura de Tela 2024-05-07 às 13.18.36.png]]
+![[Captura de Tela 2024-05-07 às 13.18.49.png]]
 
 Durante cada fase, uma criança é confrontada com um conflito entre impulsos biológicos e expectativas sociais.
 	Se ela passar de forma bem-sucedida por esses conflitos internas, acabará tendo domínio de cada estágio de desenvolvimento e, finalmente, obterá uma personalidade bem formada. [[O que são os setênios?]] Se ela não for bem sucedida nas fases, poderá desenvolver uma *fixação*, em que ela fixada em determinada fase, o que fica na memória inconsciente dela, gerando um trauma que o adulto carrega ao longo da vida. [[O que é a fixação?]]
