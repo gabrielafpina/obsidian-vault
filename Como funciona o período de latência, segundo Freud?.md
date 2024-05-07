@@ -31,6 +31,12 @@ Nesse momento, o que a criança mais quer é ser aprovada, desde com seus pais, 
 
 É o superego que exerce a autoridade moral sobre as ações e o pensamento do indivíduo, no período de latência.
 	A constituição do superego começa a surgir, em atitudes como vergonha, repulsa e moralidade, destinadas a fazer frente a tempestade interior da puberdade e a alicerçar o caminho dos desejos sexuais que vão despertando. [[Onde há culpa, haverá a necessidade de autopunição]].
+	A estrutura psíquica passa a ter forte influência sobre a autoavaliação e autovalorização, atribuindo grande valor à aprovação interna de seus comportamentos e pensamentos.
+	A aprovação externa aparece mais como reforço à aprovação interna, pois são manifestações do superego à autocrítica e à formação dos ideais.
+	A autoestima do indivíduo não depende mais exclusivamente da aprovação externa, mas da sensação de haver procedido conforme o superego determina.
+		Satisfazer o superego provoca sentimentos de segurança e prazer, contradizê-lo traz culpa e remorso.
+
+Muito do que a criança internaliza e ajuda a constituir o seu superego é incorporado por meio das respostas dadas pelos pais, professores, a questionamentos 
 
 O princípio que rege o [[SuperEgo]] é a moral, a qual o torna responsável pela repreensão dos impulsos sexuais não resolvidos na fase fálica [[Como funciona a fase fálica, segundo Freud?]].
 	O menino se vê como um homem e a menina, como mulher.
