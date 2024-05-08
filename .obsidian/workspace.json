@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f7b6b1d54712f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quais são abusos em crianças?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a79cf80cdbbccbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como desconfiar que uma criança foi abusada?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "368826cbda07b173",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bandeira",
+                "query": "abuso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "Como desconfiar que uma criança foi abusada?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md",
+                "file": "Como desconfiar que uma criança foi abusada?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Exercício da bandeira.md"
+                "file": "Como desconfiar que uma criança foi abusada?.md"
               }
             }
           },
@@ -235,8 +259,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a281402bd207cdbb",
+  "active": "4a79cf80cdbbccbc",
   "lastOpenFiles": [
+    "Quais são abusos em crianças?.md",
+    "Como desconfiar que uma criança foi abusada?.md",
+    "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
+    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Como funciona o período de latência, segundo Freud?.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "Captura de Tela 2024-05-07 às 13.18.49.png",
@@ -245,13 +273,11 @@
     "2. Literature Notes/Topics/SuperEgo.md",
     "Onde há culpa, haverá a necessidade de autopunição.md",
     "2. Literature Notes/Topics/transgeracionalidade.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
     "2. Literature Notes/Topics/O que é uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Quando uma mulher tem um aborto, necessariamente a próxima gestação é gemelar.md",
     "2. Literature Notes/Topics/Qual é memória principal de uma concepção gemelar?.md",
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
-    "Como desconfiar que uma criança foi abusada?.md",
     "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
     "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
@@ -263,7 +289,6 @@
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
     "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "2. Literature Notes/Topics/Como funciona o PAT Fisiológico?.md",
-    "2. Literature Notes/Topics/O que são as facetas do conflito?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
