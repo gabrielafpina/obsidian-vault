@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md"
+                "file": "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md"
               }
             }
           },
@@ -282,8 +282,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a100cf764780b5d5",
+  "active": "9518d9e7b03c1d27",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
+    "2. Literature Notes/Topics/É muito comum crianças não amamentadas buscarem por segurança.md",
     "2. Literature Notes/Topics/Uma criança que não foi amamentada, é uma criança que biologicamente passou fome.md",
     "Como desconfiar que uma criança foi abusada?.md",
     "2. Literature Notes/Topics/A depressão puerperal gera uma lesão neurológica na criança.md",
@@ -291,7 +293,6 @@
     "Quais são as patologias na vida adulta de abusos sexuais em crianças?.md",
     "2. Literature Notes/Topics/Exercício da bandeira.md",
     "Como funciona o período de latência, segundo Freud?.md",
-    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "Captura de Tela 2024-05-07 às 13.18.49.png",
     "Captura de Tela 2024-05-07 às 13.18.36.png",
     "2. Literature Notes/Topics/Mecanismos de defesa do Ego.md",
@@ -311,7 +312,6 @@
     "Como funciona o conceito de ninho menor ou ninho estreito?.md",
     "2. Literature Notes/Topics/O que são os trilhos do conflito?.md",
     "2. Literature Notes/Topics/O que é pré-programante, programante e ativador?.md",
-    "2. Literature Notes/Topics/O que é PAT Hormonal?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
