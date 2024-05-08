@@ -27,11 +27,16 @@ O desenho denuncia também. Quando a criança pinta caras tristes.
 - Tem ataques de raiva.
 - Sente-se pseudo-adulto.
 - Deprimida/o
+- Suicídio
 - Apresenta sinais físicos de feridas genitais.
 - Automutilação
+- Autodesvalorização
+- Dificuldade de confiar
+- Síndrome do pânico
 - Apresenta formação de gazes comumente, dores abdominais.
 - Verminoses
 - Comportamento sexual inadequado com brinquedos e objetos.
+	- Ninfomania ou outra forma de frigidez, traição e infertilidade
 -   Mudanças bruscas de comportamento sem explicação aparente; Mudanças súbitas de humor.
 - Pesadelos e distúrbios do sono (pesadelo, sonolência, sonambulismo)
 - Mudança de hábitos alimentares.
