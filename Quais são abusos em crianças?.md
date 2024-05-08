@@ -19,7 +19,15 @@ a**TAGS:**
 
 [[Quais são as patologias na vida adulta de abusos sexuais em crianças?]]
 
-###### **COMO:**
+###### **CONSEQUÊNCIAS:**
+- Sexualização Traumática -Sexualidade precoce, promiscuidade. Pode haver sexualização exagerada.
+
+- Estigmatização - a criança se auto rotula de "sedutora", ou "fruta-estragada", sentimento de ser diferente, isolamento, pode haver automutilação, dependência de drogas, suicídio (pode hoje se considerar que todo suicida foi um abusado na infância).
+
+- Traição - visto que o abusador deveria ser o cuidador, o abusador define a identidade dela como um ser sexual, o senso de identidade pode ficar aniquilado.
+	- Pode levar a apego, isolamento, problemas conjugais, permitir que os próprios filhos se tornem vítimas, vulnerabilidade a abusos e explorações de todo tipo subsequentes.
+
+- Falta de poder - levando a repetidas rejeições, frustração de desejos e anseios, ansiedade, medo, necessidade de controle, sentimento de ineficiência, ameaça a auto ferir-se, percepção de si mesmo como vítima.
 
 ###### **PENSADORES:**
 

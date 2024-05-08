@@ -15,7 +15,10 @@ Depressão puerperal = lesão de amígdala cerebral. E maconha = lesão de amíg
 ###### **QUAL É A COISA MAIS IMPORTANTE NESSE CASO?**
 A mãe dar amor à criança. Quanto mais amor ela der à criança, mais ela sai dessa fase. Porque quanto mais amor ela der à criança, mais amor ela está se dando.
 
-###### **PENSADORES:**
+###### **DEPRESSÃO PUERPERAL E ABUSO SEXUAL:**
+Em alguns casos, mães quando pegam o seu filho pela primeira vez, entram em depressão. Não foi anestesia, não foi cesariana, não foi que a mãe dela teve depressão.
+
+É apavorante para ela ver que é dela o bebê, como se essa fosse a próxima vítima.
 
 ###### **FRASES:**
 
