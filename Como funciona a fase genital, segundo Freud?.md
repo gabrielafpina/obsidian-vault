@@ -20,7 +20,15 @@ Além disso, uma tarefa-chave do desenvolvimento associado ao estágio genital �
 
 Um aspecto importante dessa aquisição é a separação emocional dos próprios pais e o estabelecimento de um estilo de vida independente (romper com os próprios pais para manter a sua independência).
 
-Os conflitos internos típicos das fases anteriores aitngem aqui uma relativa estabilidade conduzi
+Os conflitos internos típicos das fases anteriores atingem aqui uma relativa estabilidade conduzindo a pessoa a uma estrutura do [[Ego]] que lhe permite enfrentar os desafios da idade adulta.
+	Nesse momento, meninos e meninas estão ambos conscientes de suas identidades sexuais distintas e começam a buscar formas de satisfazer suas necessidades eróticas e interpessoais.
+		Geralmente, esse é o momento em que os meninos e meninas recorrem à pornografia.
+
+Sobre a fixação na fase genital, ela existirá se as fases anteriores ainda estiverem pendentes de sublimação - [[Mecanismos de defesa do Ego]]. A maior parte das pessoas possui essas pendências.
+
+Assim como temos um fluxo progressivo da libido no curso do desenvolvimento psicossexual, também podemos produzir um refluxo. Esse refluxo é chamado de "regressão". Esse termo designa o retorno a uma fase ou a um objeto mais remoto de gratificação.
+	A regressão se relaciona com a fixação, uma vez que de fato, quando sucede a regressão, geralmente ela se faz para um objeto ou fase do desenvolvimento ao qual o sujeito já se fixara.
+	
 
 ###### **COMO:**
 
