@@ -7,6 +7,13 @@
 - Período a partir de 11 anos e não termina mais
 - Neste período, que tem início com a adolescência, há uma retomada dos impulsos sexuais, o adolescente passa a buscar em pessoas fora de seu grupo familiar um objeto de amor.
 	- Há um despertar sexual muito forte, aumenta o interesse sexual com a vinda dos hormônios.
+- Desenvolver a fase genital constitui atingir o pleno desenvolvimento do adulto normal
+- Serve para discriminar seu papel sexual
+- Desenvolver-se intelectual e socialmente
+- Aprender a amar, trabalhar e competir
+- É capaz de amar num sentido genital amplo e de definir um vínculo homossexual ou heterossexual significativo e duradouro
+- Sua capacidade orgástica é plena
+- A procriação não é ainda uma finalidade da vida e nem a constituição de filhos uma fonte de prazer
 
 A adolescência é um período de mudanças no qual o jovem tem que elaborar a perda da identidade infantil e dos pais da infância para que pouco a pouco possa assumir uma identidade adulta.
 
@@ -32,8 +39,11 @@ Assim como temos um fluxo progressivo da libido no curso do desenvolvimento psic
 
 Nessa fase, o indivíduo desenvolve a capacidade de desenvolver satisfação sexual com um parceiro.
 
+Esse é um período longo, quando analisamos as etapas do desenvolvimento psicossexual. Sem contar um dos mais difíceis, pois ao mesmo tempo em que vivencia, o jovem ainda precisa compreender o acontecimento. Isso acaba necessitando de um controle psicológico maior sobre a força que os impulsos exercem.
+	Além disso, essa etapa acaba estabelecendo o contato de objeto mais amadurecido e da sexualidade genital com o outro. Existe tambem a separação emocional do adolescente com os próprios pais. Assim, a independência passa a se agregar em seu estilo de vida, algo mostrado na vontade de sempre querer fazer tudo só.
+
 ###### **CONFLITOS DESSA FASE:**
-No artigo "O tabu da virgindade", de 1918, Freud afirma que a manutenção da virginda
+No artigo "O tabu da virgindade", de 1918, Freud afirma que a manutenção da virgindade feminina até o casamento serve para estabelecer um "estado de sujeição". Ou seja, de submissão, obediência, de aceitar passivamente.
 
 
 ###### **PENSADORES:**
