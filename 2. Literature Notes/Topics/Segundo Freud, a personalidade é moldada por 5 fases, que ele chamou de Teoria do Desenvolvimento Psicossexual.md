@@ -8,7 +8,7 @@
 2. **Anal**: 2 - 3 anos [[Como funciona a fase anal, segundo Freud?]]
 3. **Fálica**: 3 - 5 anos (aqui é onde acontece o complexo de édipo) - [[Como funciona a fase fálica, segundo Freud?]]
 4. **Latência**: 5 - 11 anos - [[Como funciona o período de latência, segundo Freud?]]
-5. **Genital**: 12 - 18 anos
+5. **Genital**: 12 - 18 anos - [[Como funciona a fase genital, segundo Freud?]]
 
 ![[Captura de Tela 2024-05-07 às 13.18.36.png]]
 ![[Captura de Tela 2024-05-07 às 13.18.49.png]]
