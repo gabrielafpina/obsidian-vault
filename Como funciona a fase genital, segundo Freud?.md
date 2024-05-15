@@ -28,9 +28,13 @@ Sobre a fixação na fase genital, ela existirá se as fases anteriores ainda es
 
 Assim como temos um fluxo progressivo da libido no curso do desenvolvimento psicossexual, também podemos produzir um refluxo. Esse refluxo é chamado de "regressão". Esse termo designa o retorno a uma fase ou a um objeto mais remoto de gratificação.
 	A regressão se relaciona com a fixação, uma vez que de fato, quando sucede a regressão, geralmente ela se faz para um objeto ou fase do desenvolvimento ao qual o sujeito já se fixara.
-	
+		Há uma relação com o passado, uma fase que não foi funcional, necessitando de uma sublimação. Nessa fase, já temos mais estrutura para lidar com os desafios da infância.
 
-###### **COMO:**
+Nessa fase, o indivíduo desenvolve a capacidade de desenvolver satisfação sexual com um parceiro.
+
+###### **CONFLITOS DESSA FASE:**
+No artigo "O tabu da virgindade", de 1918, Freud afirma que a manutenção da virginda
+
 
 ###### **PENSADORES:**
 
