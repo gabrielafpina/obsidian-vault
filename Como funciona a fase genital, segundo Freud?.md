@@ -14,6 +14,7 @@
 - É capaz de amar num sentido genital amplo e de definir um vínculo homossexual ou heterossexual significativo e duradouro
 - Sua capacidade orgástica é plena
 - A procriação não é ainda uma finalidade da vida e nem a constituição de filhos uma fonte de prazer
+- Desempenha um papel de entendimento das fases anteriores e preparação ao que vem depois.
 
 A adolescência é um período de mudanças no qual o jovem tem que elaborar a perda da identidade infantil e dos pais da infância para que pouco a pouco possa assumir uma identidade adulta.
 
@@ -42,7 +43,10 @@ Nessa fase, o indivíduo desenvolve a capacidade de desenvolver satisfação sex
 Esse é um período longo, quando analisamos as etapas do desenvolvimento psicossexual. Sem contar um dos mais difíceis, pois ao mesmo tempo em que vivencia, o jovem ainda precisa compreender o acontecimento. Isso acaba necessitando de um controle psicológico maior sobre a força que os impulsos exercem.
 	Além disso, essa etapa acaba estabelecendo o contato de objeto mais amadurecido e da sexualidade genital com o outro. Existe tambem a separação emocional do adolescente com os próprios pais. Assim, a independência passa a se agregar em seu estilo de vida, algo mostrado na vontade de sempre querer fazer tudo só.
 
-A fase genital no indivíduo acaba servindo como um selo final da sua infância e determinação da vida adulta.
+A fase genital no indivíduo acaba servindo como um selo final da sua infância e determinação da vida adulta. Com isso, surge novas manifestações do seu impulso sexual que acaba chamando a atenção, embora sejam comuns.
+	Por exemplo, surge o desejo de "olhar", algo que já acentuado na [[Como funciona a fase fálica, segundo Freud?]], e vontade de se exibir.
+	O adolescente acaba nutrindo a vontade em ver órgãos genitais de outras pessoas. Gradualmente, vai surgindo a curiosidade e o exibicionismo, de modo a buscar referências do próprio corpo em outras pessoas. Isso vai incluir também outras partes do corpo, juntamente com outras funções corporais.
+		A própria pele manifesta isso, tanto fisicamente nas mudanças, quanto nas sensações envolvidas. De forma semelhante, vem outros sentidos, como olfato e audição.
 
 ###### **CONFLITOS DESSA FASE:**
 No artigo "O tabu da virgindade", de 1918, Freud afirma que a manutenção da virgindade feminina até o casamento serve para estabelecer um "estado de sujeição". Ou seja, de submissão, obediência, de aceitar passivamente.
