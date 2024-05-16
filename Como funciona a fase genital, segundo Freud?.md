@@ -42,6 +42,8 @@ Nessa fase, o indivíduo desenvolve a capacidade de desenvolver satisfação sex
 Esse é um período longo, quando analisamos as etapas do desenvolvimento psicossexual. Sem contar um dos mais difíceis, pois ao mesmo tempo em que vivencia, o jovem ainda precisa compreender o acontecimento. Isso acaba necessitando de um controle psicológico maior sobre a força que os impulsos exercem.
 	Além disso, essa etapa acaba estabelecendo o contato de objeto mais amadurecido e da sexualidade genital com o outro. Existe tambem a separação emocional do adolescente com os próprios pais. Assim, a independência passa a se agregar em seu estilo de vida, algo mostrado na vontade de sempre querer fazer tudo só.
 
+A fase genital no indivíduo acaba servindo como um selo final da sua infância e determinação da vida adulta.
+
 ###### **CONFLITOS DESSA FASE:**
 No artigo "O tabu da virgindade", de 1918, Freud afirma que a manutenção da virgindade feminina até o casamento serve para estabelecer um "estado de sujeição". Ou seja, de submissão, obediência, de aceitar passivamente.
 
