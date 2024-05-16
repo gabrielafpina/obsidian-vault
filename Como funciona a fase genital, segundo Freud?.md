@@ -4,17 +4,20 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-- Período a partir de 11 anos e não termina mais
-- Neste período, que tem início com a adolescência, há uma retomada dos impulsos sexuais, o adolescente passa a buscar em pessoas fora de seu grupo familiar um objeto de amor.
+- Período a partir de 11 anos e não termina mais;
+- Neste período, que tem início com a adolescência, há uma retomada dos impulsos sexuais, o adolescente passa a buscar em pessoas fora de seu grupo familiar um objeto de amor;
 	- Há um despertar sexual muito forte, aumenta o interesse sexual com a vinda dos hormônios.
-- Desenvolver a fase genital constitui atingir o pleno desenvolvimento do adulto normal
-- Serve para discriminar seu papel sexual
-- Desenvolver-se intelectual e socialmente
-- Aprender a amar, trabalhar e competir
-- É capaz de amar num sentido genital amplo e de definir um vínculo homossexual ou heterossexual significativo e duradouro
-- Sua capacidade orgástica é plena
-- A procriação não é ainda uma finalidade da vida e nem a constituição de filhos uma fonte de prazer
-- Desempenha um papel de entendimento das fases anteriores e preparação ao que vem depois.
+- Desenvolver a fase genital constitui atingir o pleno desenvolvimento do adulto normal;
+- Serve para discriminar seu papel sexual;
+- Desenvolver-se intelectual e socialmente;
+- Aprender a amar, trabalhar e competir;
+- É capaz de amar num sentido genital amplo e de definir um vínculo homossexual ou heterossexual significativo e duradouro;
+- Sua capacidade orgástica é plena;
+- A procriação não é ainda uma finalidade da vida e nem a constituição de filhos uma fonte de prazer;
+- Desempenha um papel de entendimento das fases anteriores e preparação ao que vem depois;
+- Atenção maior aos genitais;
+- Adolescente vai se dedicando cada vez mais aos relacionamentos amorosos. Através daqui, se tem a primeira manifestação de que ele quer se movimentar com base no instinto natural de procriação;
+- Estabilidade construtiva: as fases do desenvolvimento psicossexual acabam por originar conflitos de forma natural que podem ou não ser resolvidos. Caso isso permaneça, aqui eles encontram um relativo desfecho, uma estabilidade e estruturação. Desse modo, o jovem vai estar mais preparado para lidar adwqui
 
 A adolescência é um período de mudanças no qual o jovem tem que elaborar a perda da identidade infantil e dos pais da infância para que pouco a pouco possa assumir uma identidade adulta.
 
