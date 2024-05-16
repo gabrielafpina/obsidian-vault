@@ -15,9 +15,11 @@
 - Sua capacidade orgástica é plena;
 - A procriação não é ainda uma finalidade da vida e nem a constituição de filhos uma fonte de prazer;
 - Desempenha um papel de entendimento das fases anteriores e preparação ao que vem depois;
+	- Revisita o que foi trabalhado em etapas anteriores e serve de selamento a questões mal resolvidas.
 - Atenção maior aos genitais;
 - Adolescente vai se dedicando cada vez mais aos relacionamentos amorosos. Através daqui, se tem a primeira manifestação de que ele quer se movimentar com base no instinto natural de procriação;
-- Estabilidade construtiva: as fases do desenvolvimento psicossexual acabam por originar conflitos de forma natural que podem ou não ser resolvidos. Caso isso permaneça, aqui eles encontram um relativo desfecho, uma estabilidade e estruturação. Desse modo, o jovem vai estar mais preparado para lidar adwqui
+- Estabilidade construtiva: as fases do desenvolvimento psicossexual acabam por originar conflitos de forma natural que podem ou não ser resolvidos. Caso isso permaneça, aqui eles encontram um relativo desfecho, uma estabilidade e estruturação. Desse modo, o jovem vai estar mais preparado para lidar adequadamente com os desafios do mundo adulto;
+- Consciência sexual: tanto as meninas, quanto os meninos, podem ter desenvolvido aqui as suas identidades sexuais ou não. Nesse caminho, passam a procurar por novas maneiras de alimentarem e satisfazerem suas vontades eróticas.
 
 A adolescência é um período de mudanças no qual o jovem tem que elaborar a perda da identidade infantil e dos pais da infância para que pouco a pouco possa assumir uma identidade adulta.
 
