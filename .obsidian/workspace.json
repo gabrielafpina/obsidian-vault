@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "794f73964de8f85e",
+            "id": "ff7e6c449cd68bfd",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "b48877af8b4ca31d",
+            "id": "bd96875356357ad9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5,
-    "collapsed": true
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +221,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f9e249c30498559",
+  "active": "bd96875356357ad9",
   "lastOpenFiles": [
     "Como funciona a fase genital, segundo Freud?.md",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
