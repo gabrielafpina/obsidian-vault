@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md",
+                "file": "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psicoss",
+                "query": "incerteza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md",
+                "file": "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md",
+                "file": "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md"
+                "file": "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md"
               }
             }
           },
@@ -238,8 +237,8 @@
   },
   "active": "537edc834382a75a",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Como funciona a fase genital, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md",
+    "2. Literature Notes/Topics/Como funciona a fase genital, segundo Freud?.md",
     "2. Literature Notes/Topics/Untitled.canvas",
     "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "2. Literature Notes/Topics/Como desconfiar que uma criança foi abusada?.md",
