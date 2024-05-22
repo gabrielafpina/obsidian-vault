@@ -26,6 +26,25 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 - Desejo de morrer
 - Insônia
 - Irritabilidade
+- Medos que antes não existiam
+- Dificuldade de concentração
+- Alto grau de pessimismo
+- Falta de atividade de fazer atividades antes prazeirosas
+- Raciocínio mais lento
+- Esquecimento
+- Ansiedade
+- Perda ou aumento de apetite
+- Sintomas físicos
+	- Dor de barriga
+	- Má digestão
+	- Azia
+	- Constipação
+	- Flatulência
+	- Tensão na nuca e nos ombros
+	- Dores de cabeça
+	- Dores no corpo
+	- Pressão no peito
+	- Queda da imunidade
 
 ###### **PENSADORES:**
 
