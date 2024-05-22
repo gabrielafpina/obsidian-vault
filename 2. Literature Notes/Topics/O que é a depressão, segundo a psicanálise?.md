@@ -54,7 +54,11 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 - **Conflitos**: a depressão em alguém que já tem predisposição genética para a doença, pode ser resultado de conflitos pessoais ou disputas com membros da família e amigos.
 
 - **Morte ou perda**: a tristeza ou luto proveniente da morte ou perda de uma pessoa amada, por mais que natural, pode aumentar os riscos de depressão.
-	- Não só de pessoas, mas bens materiais,
+	- Não só de pessoas, mas bens materiais, empregos, etc.
+
+- **Genética**: um histórico familiar de depressão pode aumentar as chances de desenvolver a doença. De acordo com [[Bruce Lipton]], não é por aí que a banda toca e que isso pode estar muito mais relacionado com o conjunto de [[crenças]] que a pessoa possui.
+
+- **Eventos grandiosos**: eventos negativos, como ficar desempregado, divorciar-se ou se aposentar, podem ser prejudiciais.
 
 ###### **FRASES:**
 
