@@ -14,6 +14,8 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 
 - **Depressão moderada e grave**: tem auxílio de medicamentos para amenizar os sintomas da depressão, além da terapia e outras opções para melhorar a qualidade de vida do paciente.
 
+É importante reiterar que a depressão não é apenas uma simples resposta frente a momentos estressantes do cotidiano, mas algo mais persistente.
+
 ###### **SINTOMAS:**
 - Angústia
 	- [[Sigmund Freud]] falava da angústia como sendo um dos principais sintomas dos transtornos, do [[Inconsciente]], da histeria.
@@ -59,6 +61,11 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 - **Genética**: um histórico familiar de depressão pode aumentar as chances de desenvolver a doença. De acordo com [[Bruce Lipton]], não é por aí que a banda toca e que isso pode estar muito mais relacionado com o conjunto de [[crenças]] que a pessoa possui.
 
 - **Eventos grandiosos**: eventos negativos, como ficar desempregado, divorciar-se ou se aposentar, podem ser prejudiciais.
+	- No entanto, até mesmo eventos positivos, como começar um novo emprego, formar-se ou se casar, podem ocasionar a depressão.
+
+- **Problemas pessoais**: problemas como o isolamento, ou por ser expulso da família e de grupos sociais, também podem contribuir para o surgimento da depressão, assim como baixa autoestima.
+
+- **Doenças graves**
 
 ###### **FRASES:**
 
