@@ -65,7 +65,9 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 
 - **Problemas pessoais**: problemas como o isolamento, ou por ser expulso da família e de grupos sociais, também podem contribuir para o surgimento da depressão, assim como baixa autoestima.
 
-- **Doenças graves**
+- **Doenças graves**: pode coexistir com uma grande doença, como por exemplo, o câncer. Ou, então, pode ser estimulada pelo surgimento de um problema de saúde.
+
+- **Abuso de substâncias**: aproximadamente 30% das pessoas com vícios em substâncias apresentam depressão clínica ou profunda, como álcool, cigarro, remédios e drogas ilícitas.
 
 ###### **FRASES:**
 
