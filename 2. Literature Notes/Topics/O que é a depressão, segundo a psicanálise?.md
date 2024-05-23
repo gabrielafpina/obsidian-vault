@@ -97,7 +97,11 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 - Desmoralização - autoestima baixa, sensações de fracasso e humilhação;
 - Tristeza (estado de humor afetivo): pode ou não estar presente na depressão;
 - Luto: período necessário para a elaboração da perda de um objeto amado;
-- Melancolia (introjeção do objeto perdido, ou que ela tem medo de perder): passa a interiorizar o objeto perdido, por morte, abandono, processado de forma muito conflitada, saudades - ou um sonho que não se realizou.
+- Melancolia (introjeção do objeto perdido, ou que ela tem medo de perder): passa a interiorizar o objeto perdido, por morte, abandono, processado de forma muito conflitada, saudades - ou um sonho que não se realizou;
+- Intolerância exacerbada a perdas e frustrações;
+- Extrema submissão ao julgamento;
+- Sentimento de perda do amor por parte de todas as pessoas ao seu redor;
+- Sensação de ser um fracassado e de nada valer a pena
 
 
 ---------
