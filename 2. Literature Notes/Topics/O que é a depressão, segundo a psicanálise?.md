@@ -101,8 +101,15 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 - Intolerância exacerbada a perdas e frustrações;
 - Extrema submissão ao julgamento;
 - Sentimento de perda do amor por parte de todas as pessoas ao seu redor;
-- Sensação de ser um fracassado e de nada valer a pena
+- Sensação de ser um fracassado e de nada valer a pena.
 
+**Principais causas da depressão**
+- Vazio de mãe;
+- Perdas de objetos, bem como de situações. Ex: vigor físico, juventude, etc;
+- Culpa - baseada em um [[SuperEgo]] tirânico;
+- Ideal de ego proposto pelos pais ou exigências do próprio [[Ego]];
+- Ruptura com papéis designados e sentimentos de traição com os pais;
+- Excessiva expectativa de obtenção de êxitos sucessivos, poder, dinheiro, fama, juventude - necessidade de reconhecimento.
 
 ---------
 
