@@ -79,7 +79,15 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 	- Está relacionado a algum outro transtorno que o paciente tem, como bipolares/maníacos depressivos;
 	- Depressão é uma característica de um outro transtorno mental que a pessoa tem;
 	- Também relacionado a causas orgânicas, incluindo doenças endocrinológicas, por exemplo;
-	- Fatores ambientais, por exemplo depressão do inverno, ou seja, pessoas que vivem em locais com temperatura muito fria.
+	- Fatores ambientais, por exemplo depressão do inverno, ou seja, pessoas que vivem em locais com temperatura muito fria;
+	- Responde bem à medicação e terapia.
+
+- **Distimia**
+	- Depressão crônica, com sintomas mais brandos. De moderados a intensos. Persiste no mínimo por 2 anos, mas pode levar uma vida inteira;
+	- Irritabilidade, mau humor, raiva excessiva, impaciência, desespero e pessimismo são características;
+	- Evita atividades sociais;
+	- Perda ou aumento de apetite e apresenta problemas para dormir;
+	- Necessário funda
 
 ---------
 
