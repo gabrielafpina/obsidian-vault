@@ -84,10 +84,21 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 
 - **Distimia**
 	- Depressão crônica, com sintomas mais brandos. De moderados a intensos. Persiste no mínimo por 2 anos, mas pode levar uma vida inteira;
-	- Irritabilidade, mau humor, raiva excessiva, impaciência, desespero e pessimismo são características;
+	- Irritabilidade, mau humor, raiva excessiva, impaciência, desespero, reclamação constante e pessimismo são características;
 	- Evita atividades sociais;
 	- Perda ou aumento de apetite e apresenta problemas para dormir;
-	- Necessário funda
+	- Necessário e fundamental terapia. É mais difícil de ser diagnosticada;
+	- Autocrítico e dificuldades para tomar decisões. Diminuição de produtividade. Perde o interesse nas atividades diárias normais, baixa autoestima, não é capaz de se divertir;
+	- Os sinais e sintomas podem durar anos e como são sutis, podem ser confundidos com a personalidade da pessoa.
+
+**Estados mentais comuns em todos os casos**
+- Posição depressiva de culpa, medo ou raiva, etc;
+- Depleção (perda de elementos fundamentais do organismo, e ou da psique) e sentimentos de vazios existenciais;
+- Desmoralização - autoestima baixa, sensações de fracasso e humilhação;
+- Tristeza (estado de humor afetivo): pode ou não estar presente na depressão;
+- Luto: período necessário para a elaboração da perda de um objeto amado;
+- Melancolia (introjeção do objeto perdido, ou que ela tem medo de perder): passa a interiorizar o objeto perdido, por morte, abandono, processado de forma muito conflitada, saudades - ou um sonho que não se realizou.
+
 
 ---------
 
