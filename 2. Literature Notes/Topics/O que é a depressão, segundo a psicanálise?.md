@@ -71,9 +71,15 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 
 ###### **TIPOS DE DEPRESSÃO:**
 - **Atípica**
-	- Crises existenciais
-	- Ocorre por razões externas ou internas
-	- Não respondem bem à medicação apenas, importante terapia
+	- Crises existenciais;
+	- Ocorre por razões externas ou internas;
+	- Não respondem bem à medicação apenas, importante terapia.
+
+- **Endógena**
+	- Está relacionado a algum outro transtorno que o paciente tem, como bipolares/maníacos depressivos;
+	- Depressão é uma característica de um outro transtorno mental que a pessoa tem;
+	- Também relacionado a causas orgânicas, incluindo doenças endocrinológicas, por exemplo;
+	- Fatores ambientais, por exemplo depressão do inverno, ou seja, pessoas que vivem em locais com temperatura muito fria.
 
 ---------
 
