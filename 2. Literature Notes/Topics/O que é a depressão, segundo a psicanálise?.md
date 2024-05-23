@@ -69,7 +69,11 @@ Por sua vez, a depressão se instala e se não for tratada pode piorar e passar 
 
 - **Abuso de substâncias**: aproximadamente 30% das pessoas com vícios em substâncias apresentam depressão clínica ou profunda, como álcool, cigarro, remédios e drogas ilícitas.
 
-###### **FRASES:**
+###### **TIPOS DE DEPRESSÃO:**
+- **Atípica**
+	- Crises existenciais
+	- Ocorre por razões externas ou internas
+	- Não respondem bem à medicação apenas, importante terapia
 
 ---------
 
