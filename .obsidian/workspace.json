@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "367af70721f7c00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58cdefd492b7bc67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dce64f2237327be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b8b9ddd2024940e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -38,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depressão",
+                "query": "cesárea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -130,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md"
+                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md"
               }
             }
           },
@@ -209,11 +258,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f9e249c30498559",
+  "active": "8b8b9ddd2024940e",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória.md",
+    "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
+    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
+    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "2. Literature Notes/Topics/Como funciona a fase genital, segundo Freud?.md",
     "2. Literature Notes/Topics/O que é a depressão, segundo a psicanálise?.md",
-    "2. Literature Notes/Topics/Segundo Freud, a personalidade é moldada por 5 fases, que ele chamou de Teoria do Desenvolvimento Psicossexual.md",
     "2. Literature Notes/Topics/A incerteza é um convite para eu trabalhar a minha fé, o quanto eu confio em Deus.md",
     "2. Literature Notes/Topics/Untitled.canvas",
     "2. Literature Notes/Topics/Como desconfiar que uma criança foi abusada?.md",
@@ -237,9 +289,6 @@
     "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
     "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
     "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
-    "2. Literature Notes/Topics/Lei bifásica da doença.md",
-    "2. Literature Notes/Topics/Febre só acontece em conflitos de endo e meso antiga.md",
-    "2. Literature Notes/Topics/Quais são as 5 Leis Biológicas?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
