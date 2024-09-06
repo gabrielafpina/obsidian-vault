@@ -4,10 +4,10 @@
 		{"id":"965692ea08f95f09","type":"text","text":"**Zona de Mediocridade**\n- Criar processos administrativos\n- Planejamento no geral\n- Cuidar das coisas da casa","x":-571,"y":-235,"width":393,"height":309,"color":"#f20202"},
 		{"id":"76fe5613966ec4da","type":"text","text":"**Zona de Excelência**\n- Execução de plano de ação\n- Liderar e inspirar colaboradores\n- Presença e dedicação com amigos amados\n- Educação de filha","x":-1036,"y":112,"width":408,"height":309,"color":"5"},
 		{"id":"448ab1343a86c7a3","type":"text","text":"**Zona de Genialidade**\n- Desenvolvimento de estratégia\n- Criatividade\n- Escrita\n- Facilidade na utilização de ferramentas\n- Autodidata\n\t- Facilidade em aprender a aprender\n- Assertividade nas decisões","x":-571,"y":112,"width":393,"height":309,"color":"6"},
-		{"id":"2cdaa57618b417d6","type":"text","text":"**Zona de Merda**\n- Organizar objetos materiais\n- Tarefas lentas e que exijam muita paciência\n- Lidar com vitimismo\n- Gerenciamento de agendas de grupos\n- Agenda fixa e rígida\n- Lavar louça\n","x":2192,"y":658,"width":412,"height":309,"color":"3"},
-		{"id":"c1517f7fd88997b2","type":"text","text":"**Zona de Mediocridade**\n- Criar processos administrativos\n- Planejamento no geral\n- Cuidar das coisas da casa","x":2661,"y":658,"width":393,"height":309,"color":"#f20202"},
-		{"id":"d33a569bdd43d7b1","type":"text","text":"**Zona de Excelência**\n- Capacidade de encontrar soluções para problemas\n- Gestão do tempo\n- Presença e dedicação com amigos amados","x":2196,"y":1005,"width":408,"height":309,"color":"5"},
-		{"id":"5326bb5b05692f72","type":"text","text":"**Zona de Genialidade**\n- Desenvolvimento de estratégia\n- Criatividade\n- Escrita\n- Facilidade na utilização de ferramentas\n- Autodidata\n\t- Facilidade em aprender a aprender\n- Assertividade nas decisões","x":2661,"y":1005,"width":393,"height":309,"color":"6"}
+		{"id":"2cdaa57618b417d6","type":"text","text":"**Zona de Merda**\n- Lidar com burocracias\n- Agenda fixa e rígida\n","x":2192,"y":658,"width":412,"height":309,"color":"3"},
+		{"id":"c1517f7fd88997b2","type":"text","text":"**Zona de Mediocridade**","x":2661,"y":658,"width":393,"height":309,"color":"#f20202"},
+		{"id":"d33a569bdd43d7b1","type":"text","text":"**Zona de Excelência**\n- Capacidade de encontrar soluções para problemas\n- Gestão do tempo\n- Criar processos administrativos\n- Planejamento","x":2196,"y":1005,"width":408,"height":309,"color":"5"},
+		{"id":"5326bb5b05692f72","type":"text","text":"**Zona de Genialidade**\n","x":2661,"y":1005,"width":393,"height":309,"color":"6"}
 	],
 	"edges":[]
 }
