@@ -66,9 +66,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fa48d1fa5661ff2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
+                "viewState": {
+                  "x": 3213.1489670491146,
+                  "y": 909.1652457832864,
+                  "zoom": -0.9626730208963188
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cesárea",
+                "query": "zona de genialid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md"
+                "file": "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas"
               }
             }
           },
@@ -258,8 +273,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b8b9ddd2024940e",
+  "active": "6fa48d1fa5661ff2",
   "lastOpenFiles": [
+    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
     "2. Literature Notes/Topics/No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória.md",
     "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
     "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
@@ -288,7 +304,6 @@
     "2. Literature Notes/Topics/Como funciona a lateralidade?.md",
     "2. Literature Notes/Topics/Quais são as principais causas da procrastinação?.md",
     "2. Literature Notes/Topics/Qual é a diferença entre princípios e pilares?.md",
-    "2. Literature Notes/Topics/Quais são perguntas para se fazer na primeira sessão com o paciente, compreendendo a CIV?.md",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.33.26.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.32.28.png",
     "5. Shots, Images & PDFs/Captura de Tela 2024-03-30 às 18.31.38.png",
