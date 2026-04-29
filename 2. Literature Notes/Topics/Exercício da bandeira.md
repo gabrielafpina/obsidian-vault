@@ -45,7 +45,7 @@ Não fazendo a bandeira eu acumulo energia e consigo acessar estados de consciê
 8. **Movimento desnecessário**: tudo pode ser um movimento desnecessário e ele é uma catástrofe, porque eu estou gastando energia dos meus centros de inteligência (hidrogênios) que pode fazer falta em algum outro momento. [[Tudo é energia e informação]]. 
 	1. Se você faz movimentos desnecessários, você está jogando a sua energia no ralo. se eu estou fazendo algo que não vai me levar a lugar nenhum, é inteligente parar na hora.
 	2. Centros de inteligência: instintivo, intelectual, emocional, motor e sexual.
-	3. se não está em estado de presença, é porque está fazendo movimento desnecessário e gastando energia em algum centro.
+	3. S e não está em estado de presença, é porque está fazendo movimento desnecessário e gastando energia em algum centro.
 	4. Querer ajudar quem não te pediu ajuda é um movimento desnecessário. [[Existem 4 lugares proibidos]]. Esse é um grande teste. Ouvir a pessoa e não falar nada a não ser que ela te peça ajuda. [[Aprenda a responder somente o que foi perguntado]], se não é vaidade. [[3 coisas que paralisam a vida - vaidade, medo e preguiça]].
 	5. Pensar o que outra pessoa está pensando sobre mim é um movimento desnecessário, porque isso é problema dela e eu não tenho como controlar o que essa pessoa pensa de mim.
 

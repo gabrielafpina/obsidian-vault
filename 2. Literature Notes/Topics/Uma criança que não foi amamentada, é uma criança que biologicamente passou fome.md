@@ -14,6 +14,10 @@ Quando uma mãe não amamenta o seu filho, ela não só não nutre o filho, mas 
 
 Pode, ainda, ser uma pessoa que tem medo de faltar o dinheiro, podem ser pessoas pão duras, não se permite comprar roupas novas, ou de tirar férias, porque *sempre acha que pode faltar*.
 
+A pessoa que foi pouco amamentada pode ter a percepção de separação, ou percepção do medo da falta. 
+
+Pessoas que comem muito rápido pode estar relacionado a não ter sido amamentada. Ela come muito rápido como forma de compensar o medo da falta, a carência que ela traz, dos perigos que ela viveu como bebê. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

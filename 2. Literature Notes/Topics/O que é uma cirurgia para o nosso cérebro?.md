@@ -8,6 +8,8 @@
 
 Isso é um ataque à integridade.
 
+Para uma criança, ser operada muito cedo é muito traumático, é vivenciado como um ataque à integridade. É como se um predador viesse e comesse uma parte sua. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

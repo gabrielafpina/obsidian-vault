@@ -8,6 +8,8 @@
 
 É a mesma coisa com as creches. A criança não entende. A única coisa que ela quer, é a mãe dela, e isso tem uma *repercussão*.
 
+Bebês que foram para o berçário e passaram a primeira noite longe da mãe, isso é uma perda de referência existencial um baita conflito de canal coletor do rim. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

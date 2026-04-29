@@ -21,6 +21,6 @@ Geralmente, essas são pessoas que tem dificuldade de lida com separação, de e
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[O que é uma concepção gemelar?]]
+- [[O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?]]
 
 **Sul: para onde vai**

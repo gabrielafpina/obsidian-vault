@@ -4,47 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "82c008dabb9331b1",
+        "id": "19a6569a5c947f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "45f8b235a7f50473",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "26db58863b6a9920",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "906815c525cc92de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea26aae076f662bc",
+            "id": "413741545593ae1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Me, Myself and I/Testes/MBTI.md",
+                "file": "Quais são os conflitos de insulina e glucagon?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quais são os conflitos de insulina e glucagon?"
+            }
+          },
+          {
+            "id": "e275e7d5164202a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Quais são os conflitos de Canais Galactóforos do Seio (ductos)?.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Quais são os conflitos de Canais Galactóforos do Seio (ductos)?"
+            }
+          },
+          {
+            "id": "898b868c42d8c0ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature Notes/Topics/Formação A Origem da Vida.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Formação A Origem da Vida"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,8 +85,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -75,7 +104,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -86,7 +117,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -94,7 +127,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -103,8 +138,12 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
-          }
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -120,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. Me, Myself and I/Testes/MBTI.md",
+            "file": "2. Literature Notes/Topics/Formação A Origem da Vida.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +167,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -140,7 +181,9 @@
             "file": "3. Me, Myself and I/Testes/MBTI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -150,7 +193,9 @@
           "type": "outline",
           "state": {
             "file": "3. Me, Myself and I/Testes/MBTI.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -158,69 +203,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "gpt3-notes:GPT-3 Notes": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ea26aae076f662bc",
+  "active": "9ed0d7fc60e57467",
   "lastOpenFiles": [
-    "2. Literature Notes/Topics/Pirâmide de Maslow.md",
-    "2. Literature Notes/Topics/Mapa da Consciência.md",
-    "2. Literature Notes/Topics/O artista não tolera confusões em sua vida, pois isso o impede de fazer o seu trabalho.md",
-    "2. Literature Notes/Topics/Você pode dominar, mas ninguém supera o medo.md",
-    "2. Literature Notes/Topics/O que é a resistência?.md",
-    "2. Literature Notes/Topics/Se esforçar é um auto-suicídio.md",
-    "2. Literature Notes/Topics/Quanto mais você gera valor, mais o Universo te dá ideias para fazer mais.md",
-    "2. Literature Notes/Topics/O que é ter uma vida formol?.md",
-    "2. Literature Notes/Topics/Liderar é sobre acender uma chama no outro.md",
-    "2. Literature Notes/Topics/Tudo tem um propósito.md",
-    "2. Literature Notes/Topics/Quais são os tipos de comunicação existentes?.md",
-    "2. Literature Notes/Topics/3 chaves para criar conteúdo que ressoa.md",
-    "2. Literature Notes/Topics/Pare de falar que vai dar uma dica.md",
-    "2. Literature Notes/Topics/Você só não é bom porque não fez por tempo o suficiente.md",
-    "2. Literature Notes/Topics/Se você não está vendendo, é porque você não tem personalidade.md",
+    "O que é a teoria do cenário?.md",
+    "noções da existência 2.md",
+    "Como o paciente adoece e a vida dele passa a \"não funcionar tão bem assim\"?.md",
+    "Porque as situações se repetem?.md",
+    "Pasted image 20250724210259.jpg",
+    "Como a nossa vida reflete a história dos nossos traumas?.md",
+    "Pasted image 20250722232029.jpg",
+    "Pasted image 20250722231620.jpg",
+    "O que é o pijama, segundo Josué Kromer?.md",
+    "Uma criança que foi rejeitada na gestação vive a noção de identidade, perda de referência, conflito de separação, a desvalorização.md",
+    "Todos nós temos uma sensação para um aprendizado novo de que a gente não é capaz.md",
+    "Analogia da mesa x conflitos.md",
+    "Um dos objetivos como terapeuta, é mostrar para o paciente como o que ele está vivendo está relacionado a algo maior.md",
+    "Quando passamos a ter mais consciência, não enxergamos apenas as oportunidades, criamos as oportunidades.md",
+    "2. Literature Notes/Topics/A vida é evolutiva.md",
+    "Existem 3 tipos de sintoma.md",
+    "Pasted image 20250719210131.jpg",
+    "Pasted image 20250719204533.jpg",
+    "Quando a gente tenta mudar/controlar o outro, é a partir da nossa necessidade.md",
+    "Quando a gente tenta mudar",
+    "Incontinência urinária vem de um conflito de separação central.md",
+    "Criança que pede irmão o tempo todo está buscando a gemelaridade dela.md",
+    "Tudo o que o paciente traz na sessão é uma manifestação.md",
+    "A nossa visão é limitada pela estratégias de sobrevivência que a gente adota..md",
+    "2. Literature Notes/Topics/Na sua maior dor está a sua maior cura. Consequentemente, o seu dom. Nada é por acaso..md",
+    "propósito.md",
+    "2. Literature Notes/Topics/Quais são os conflitos das Glândulas mamárias?.md",
+    "2. Literature Notes/Topics/Quais são os conflitos de Canais Galactóforos do Seio (ductos)?.md",
+    "Como funciona a decodificação dos nomes pelas leis biológicas?.md",
+    "Untitled",
+    "2. Literature Notes/Topics/Qual a função de cada filho na família? Grade de Lealdade Familiar.md",
+    "2. Literature Notes/Topics/O que é a grade de Lealdade Familiar?.md",
+    "Pasted image 20250608093930.jpg",
+    "Quais são os principais conflitos dentro da maternidade?.md",
+    "Pasted image 20250605085307.jpg",
+    "Pasted image 20250603114836.jpg",
+    "Pasted image 20250603112036.jpg",
+    "qual é o conflito do esôfago - 2",
+    "5. Shots, Images & PDFs/teoria-dos-setenios.jpeg",
     "6. Creator/Products/Mentoria Individual/Coaching Gabriela Pina.canvas",
-    "2. Literature Notes/Topics/Como funciona a jornada do herói?.md",
-    "Como atrair clientes certos?.md",
-    "2. Literature Notes/Topics/Lei do Mínimo Esforço.md",
-    "2. Literature Notes/Topics/Exercício da bandeira.md",
-    "2. Literature Notes/Topics/Trabalhar não dá dinheiro.md",
-    "2. Literature Notes/Topics/Como monetizar a sua curiosidade.md",
-    "2. Literature Notes/Topics/Sem o autoconhecimento como é que nós vamos nos libertar, se nós causamos a nossa própria ignorância?.md",
-    "2. Literature Notes/Topics/Lei do 80.20.md",
-    "2. Literature Notes/Topics/Como viver mais?.md",
-    "2. Literature Notes/Topics/Você descobre a qualidade de uma pessoa não é quando ela fala de si, é quando ela fala dos outros.md",
-    "2. Literature Notes/Topics/O que é a criança-sombra?.md",
     "6. Shots, Images & PDFs/Teste+do+sistema+representacional+preferencial.pdf",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-07-31 às 21.09.13.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-07-17 às 14.21.21.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-06-21 às 18.34.12.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-07-10 às 20.41.44.png",
-    "6. Shots, Images & PDFs/FireShot Capture 038 - Mapa do Ano │ Personare - www.personare.com.br.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-22 às 11.45.08.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-27 às 14.06.06.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.52.32.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-12 às 16.59.36.png",
-    "6. Shots, Images & PDFs/Captura de Tela 2023-05-23 às 10.33.05.png",
     "fjyhmfy",
     "MOD 8_AULA 1_O que são os Estados Emocionais.pdf",
     "Kindle Highlights",
     "Kindle Highlights/Books",
     "6. Shots, Images & PDFs/POTENCIAL 1.pdf",
-    "6. Shots, Images & PDFs/POTENCIAL.pdf",
-    "4. Me, Myself and I/Brainstorming",
-    "2. Literature Notes/Articles",
-    "3. Distilled Notes"
+    "6. Shots, Images & PDFs/POTENCIAL.pdf"
   ]
 }

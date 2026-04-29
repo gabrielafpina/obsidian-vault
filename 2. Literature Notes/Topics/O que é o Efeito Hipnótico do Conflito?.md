@@ -27,6 +27,8 @@ O que também pode ser uma expressão da repetição na vida do paciente? Um sin
 
 [[O que é Mini-Maxi Esquizofrenia?]]
 
+É necessário observar quais padrões de repetição você percebe na história da pessoa. Existem vários ativadores. A situação que se vive agora não é de agora, ela já aconteceu em vários outros momentos.
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

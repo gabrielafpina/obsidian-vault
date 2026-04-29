@@ -8,6 +8,10 @@ A vida é evolutiva por natureza. E se por algum momento a gente resiste à muda
 
 [[O desenvolvimento de vida é como uma espiral]].
 
+A vida está sempre convidando a gente a evoluir. No amor ou na dor. A dor é mais comum, por conta das nossas resistências, dos nossos mecanismos de proteção. 
+
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

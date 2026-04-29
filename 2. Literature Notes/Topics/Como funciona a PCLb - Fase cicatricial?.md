@@ -16,6 +16,8 @@ Ou seja, as retrações teciduais afetam também os Focos de Hamer ([[O que são
 	Muitas vezes, as fases de balanço não geram um processo cicatricial só no órgão, mas também no cérebro.
 		Se um tecido fibroso é instalado ali, o cérebro fica menos plástico. É por isso, também, que quando ficamos mais velhos, vamos ficando mais teimosos, com mais dificuldade de mudar. Por isso, ser flexível a vida inteira, é bom para a nossa forma de ver a vida, mas também é bom para a nossa fisiologia.
 
+Aqui é quando a pessoa realmente toma uma atitude diferente do que ela tomou antes. Ou entendeu que aquilo não precisa estar mais ali. 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

@@ -6,6 +6,8 @@
 ###### **DEFINIÇÃO:**
 Ex: serviço público, que traz 'estabilidade', que ai ela tem a subsistência regular na vida, eles tendem a não se arriscar na vida. Isso é algo que pode ser trabalhado.
 
+
+
 ###### **COMO:**
 
 ###### **PENSADORES:**
@@ -19,5 +21,6 @@ Ex: serviço público, que traz 'estabilidade', que ai ela tem a subsistência r
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
+- [[Uma criança que não foi amamentada, é uma criança que biologicamente passou fome]]
 
 **Sul: para onde vai**

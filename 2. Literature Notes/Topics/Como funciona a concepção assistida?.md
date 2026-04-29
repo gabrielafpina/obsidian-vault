@@ -14,7 +14,7 @@
 	1. Que na verdade com o período no útero são 7 dias - Deus fez o mundo em 6 dias. No 7° descansou - todas as tradições a criação esta envolvida em 7 dias.
 
 5.  Redução = Aborto = Síndrome do Gêmeo desaparecido.
-	1. Como ocorre a redução do tempo de fecundação, existe a possibilidade de ter mais abortos. Além disso, aumenta a chance de uma concepção gemelar. [[O que é uma concepção gemelar?]]
+	1. Como ocorre a redução do tempo de fecundação, existe a possibilidade de ter mais abortos. Além disso, aumenta a chance de uma concepção gemelar. [[O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?]]
 
 7. Sofrem mais problemas vasculares.
 

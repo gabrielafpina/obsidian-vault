@@ -21,6 +21,6 @@ Ex: pessoa que está sempre buscando uma alma gêmea, está sempre buscando uma 
 **Leste: oposto**
 
 **Norte: ideia/pergunta**
-- [[O que é uma concepção gemelar?]]
+- [[O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?]]
 
 **Sul: para onde vai**

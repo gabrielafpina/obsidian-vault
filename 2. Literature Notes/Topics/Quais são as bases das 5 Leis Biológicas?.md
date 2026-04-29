@@ -11,7 +11,7 @@
 	1. É a filogenia captada em 9 meses de gestação, que contribuem para nós como indivíduo.
 
 3. **Embriologia**: é o estudo do desenvolvimento do embrião e a formação de seus órgãos e sistemas a partir do ovo primitivo (zigoto).
-	1. Alguns órgãos tem mais de um folheto embrionário. Cada folheto tem uma forma específica de se comportar - e essa é a diferença de cada tipo diferente de conflito se comportar.
+	1. Alguns órgãos tem mais a de um folheto embrionário. Cada folheto tem uma forma específica de se comportar - e essa é a diferença de cada tipo diferente de conflito se comportar.
 	2. É subdivida em 3 folhetos:
 		1. ***Endoderme***: dá origem às estruturas vitais para o corpo manter a vida.
 			1. Folheto mais arcaico, antigo. Ligada à respiração, alimentação, reprodução e intestino primitivo.

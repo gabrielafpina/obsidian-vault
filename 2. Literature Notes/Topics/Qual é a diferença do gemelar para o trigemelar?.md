@@ -8,6 +8,14 @@ Uma pessoa que é trigemelar, normalmente tem uma questão com o 3. Ex: compra s
 
 O gemelar normalmente tem a necessidade do 2, tem uma questão com alma gêmea, etc. Uma criança com concepção gemelar geralmente está segurando sempre uma boneca, um paninho. A maioria das gestações são gemelares. Uma pessoa que também tenha nome composto geralmente é gemelar.
 
+**Consequências comportamentais:**
+- Noção de triangulação nas relações
+	- Situações onde existe a necessidade de ter mais uma pessoa ou alguém que vai embora junto de outro alguém.
+	- Geralmente acontece com alguém próximo - marido que trai a mulher com a amiga, cunhada, o namorado que volta com a ex.
+- As mesmas das concepções gemelares, mas aqui temos um padrão de triangulação - muito comum em dinâmicas de relacionamentos onde 2 vão embora.
+- Houve 2 perdas. Biologicamente, será que poderíamos pensar em uma constelação esquizofrênica desde cedo?
+- 
+
 ###### **COMO:**
 
 ###### **PENSADORES:**

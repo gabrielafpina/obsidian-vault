@@ -21,11 +21,10 @@ Na segunda fase (PCL - [[Como funciona a Fase Pós Conflitolítica (PCL), da seg
 Essas modificações biológicas estão codificadas em nosso patrimônio genético e seguirão SEMPRE o mesmo caminho de acordo com o tecido embriológico específico.
 
 Uma das bases das 5 leis biológicas é a embriologia. Dentro da embriologia, temos 3 tecidos principais:
-- Endoderme
-- Mesoderme
-	- Antiga
-	- Nova
-- Ectoderme
+- [[Endoderme]]
+- [[Mesoderme Antiga]]
+- [[Mesoderme Nova]]
+- [[Ectoderme]]
 
 Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o Dr. Hamer criou subdivisões, pois esses tecidos, na Fase Ativa e PCL se comportam da mesma maneira e isso não muda:
 - **Cérebro antigo**
@@ -52,7 +51,7 @@ Alguns tecidos, no entanto, funcionam de uma maneira muito específica. Assim o 
 
 Para entendermos melhor como funcionam os tecidos, precisamos olhar para a Embriologia, pois ela é o fio condutor essencial dos trabalhos do Dr. Hamer. Após a concepção, as células se proliferarão em um processo de diferenciação em três folhetos embrionários.
 
-Esses folhetos darão origem aos TECIDOS ORGÂNICOS, pois cada órgão é composto de TECIDOS DE ORIGEM EMBRIONÁRIA DIFERENTE. Some-se a isso a Ontogenia, que explica porque cada folheto embrionário tem uma origem precisa no cérebro.
+Esses folhetos darão origem aos TECIDOS ORGÂNICOS, pois cada órgão é composto de TECIDOS DE ORIGEM EMBRIONÁRIA DIFERENTE. Some-se a isso a Ontogenia [[Sistema ontogenético dos tecidos]], que explica porque cada folheto embrionário tem uma origem precisa no cérebro.
 
 Agora, podemos organizar as três formas com as quais os tecidos se comportam em função dos diferentes folhetos embrionários de acordo com a sua correspondência cerebral.
 	Essa é a razão pela qual quando vemos a 'doença', não vemos o órgão, mas o tecido envolvido.

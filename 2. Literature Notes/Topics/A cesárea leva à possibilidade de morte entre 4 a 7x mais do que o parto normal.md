@@ -45,8 +45,8 @@ Não podem fazer as coisas por si mesmos, necessitam que lhes 'resgatem'.
 - Maior risco de asma.
 -  Maior dificuldade para amamentar na frequência e no tempo de duração (mais difícil chegar até 1 ano)
 -   Maiores chances de comportamento agressivo e autodestrutivo na vida adulta.
--   Maior risco de suicídio na vida adulta.  
-- Maior propensão para comportamento criminoso.  
+-   Maior risco de suicídio na vida adulta.
+- Maior propensão para comportamento criminoso.
 - Mais chances de anorexia nervosa e bulimia na vida adulta.
 -   Maiores chances de droga adição na vida adulta, dependendo de que tipo de droga foi usada como bem estudou Bertil Jacobson
 -   Autismo.

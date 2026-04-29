@@ -4,14 +4,16 @@
 ###### **BIG IDEA:** 
 
 ###### **DEFINIÇÃO:**
-A Fase Ativa tem início ao DHS ([[O que é um DHS?]]) onde uma HIPER SIMPATICOTONIA duradoura tem por sentido biológico achar a solução para o conflito a qualquer custo. SOBREVIVÊNCIA. [[Tudo para o cérebro é uma noção de sobrevivência]].
+A Fase Ativa tem início ao DHS ([[O que é um DHS?]]) onde uma HIPER SIMPATICOTONIA duradoura tem por sentido biológico achar a solução para o conflito a qualquer custo. É quando lidamos com a SOBREVIVÊNCIA. [[Tudo para o cérebro é uma noção de sobrevivência]].
 
 Na Fase Ativa, os sintomas muitas das vezes são pouco perceptíveis. Aqui você não pode ter dor; tem que lutar.
 	No entanto, na hora que a situação acaba, você vive a dor - Conflitólise.
+é mais difícil ter sintomas na fase ativa, porque o nosso corpo está tenso e preocupado em resolver o que ele precisa resolver. 
 
 O 1º órgão que se adapta a qualquer tipo de estresse, é o **Coração**.
 	Quando você se ve em uma situação de perigo, o coração naturalmente começa a bater mais rápido, porque tem que bombear sangue, oxigênio, para nutrir os tecidos, para lutar ou fugir. 
-		O problema, é quando você está vivendo esse conflito por muitos anos.
+		O problema, é quando você está vivendo esse conflito por muitos anos. 
+		A fase ativa é quando a pessoa não acha a solução para o problema dela. Está sempre no mesmo problema, na fase ativa. 
 
 Acima de 6 a 9 meses de um conflito ativo muito forte, o risco de morte é muito grande na fase PCL, por conta  da questão do edema cerebral.
 

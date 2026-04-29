@@ -36,7 +36,7 @@ Tudo que é muito agudo, é crise epileptoide.
 - taquicardias mais fortes, 
 - torções, 
 - crises epiléticas, 
-- IAM, AVC's.
+- IAM (infarto do miocárdio), AVC's.
 
 ###### **PENSADORES:**
 

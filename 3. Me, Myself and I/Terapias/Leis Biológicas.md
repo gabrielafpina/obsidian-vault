@@ -2,6 +2,7 @@
 
 #### Sessão 1 
 **DATA:** **04/01/2023**
+O nome Gabriel e Gabriela estão relacionados a memórias de concepção. Foi o anjo Gabriel que veio anunciar a concepção de Jesus. São memórias de dificuldades em concepções e gestações. 
 eu não sou a primeira filha. quando temos um aborto, é uma morte. uma pessoa que aborta o filho, significa que o medo da criança é muito maior.
 quando ela engravida de mim, consciente e inconscientemente, ela revive isso tudo. como ela se sentiu? dificuldade de me vincular com a vida e com as pessoas (sentir que eu tenho um lugar no mundo), vem da dificuldade que a minha mãe teve em se vincular com a gestação. concepção gemelar
 dor da separação
