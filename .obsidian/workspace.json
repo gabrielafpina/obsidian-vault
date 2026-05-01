@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?.md",
+                "file": "2. Literature Notes/Topics/Quais são os conflitos de cartilagem?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?"
+              "title": "Quais são os conflitos de cartilagem?"
             }
           },
           {
@@ -34,8 +34,33 @@
               "icon": "lucide-file",
               "title": "Efeitos do Estresse Materno no Desenvolvimento do Bebê — Impactos Fisiológicos, Epigenéticos e Emocionais na Gestação"
             }
+          },
+          {
+            "id": "2321a93c2a4500c1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "d73cc7a78ff5db12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "isis/Reuniões/Podcasts/Divina Ordem Podcast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Divina Ordem Podcast"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -54,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "casa 8",
+                "query": "ombro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,1211 +150,21 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "8e631d38f470184e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "afe75e7e9f16ea8e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Connections Chat"
-            }
-          },
-          {
-            "id": "d99b46e4b8ff242a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "d83aa4420c7a6453",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "a0f1dd01dc390439",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "d6ad1df62d4c22c8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "40ec54746383e153",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "99557988cebe452f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "c9fc7ba97b31f121",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "3018bd75dfef873d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "68d905c3e16ab1da",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "85ebdb68a47086fd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "64ea730e0a11e908",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "c53b16e24e05d550",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "f4f538b6ba4156cd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "5a895b519f6b3c2f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "57537f132801018d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "24115ffb74323903",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "c0add749270f938b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "b213b495e57406b3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "908d3bb00922a57c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "153b88d5d88200d1",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "86c416b761e31b11",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "dfa98c5374219a7f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "34d2bee81733f17e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "ca04bc044c28dee8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "d4620138df0e82a2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "3b5ca1dd3e5f7922",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "87fec4ee8e387b43",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "877b095598b9c9b6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "dd98f17a4365c057",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "779d6368c9de7c4d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "be4310b32fc5df0e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "391b7e14ba2c6aef",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "e1bcdc26bee07bb3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "4a66171d7cd58b3a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "548be113f17bbd2e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "c2e9b222f2ba7e88",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "5178c5cf0d9286fb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "3308fd94614627dc",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "861cfda19d59d75e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "990d7ddd27863629",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "780ad112943a60f4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "0276b55646292d43",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "7742ceddc7a27a83",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "bf2866902fb09868",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "373e1219ce90828c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "ae3805245583026c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "ec8c5a35bd898852",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "5bb64dae307c0af7",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "a8e1a62c62f236b5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "f6aa882833a6e06a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "dd7bcfb8ac628d38",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "6f9e94e5efe78237",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "5d12b9aa63b4e1b4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "a639ac50309e8ff3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "f7ebf94f0ee616e3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "092ff324907d9ab0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "e6c8b02ab0c99810",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "5e5c0c96f670c388",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "9304b03d57c5a167",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "b847085fc5d8a91e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "82fdb0c00f65e4a1",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "0594d5773b10f6f9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "92483ccb2d9ef7db",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "686dcc1a5e4865a8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "5cb1fd55c964b7ad",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "5f0528e5cd72b84e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "10be7a31ad1e2a43",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "9e115801c463fa14",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "504f7ff931195fbf",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "02f2853a5f9b13c3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "ab5953eeae70bb9b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "86f1349f8f7dd26d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "4f8aa40e91f3b5d5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "bae0c8987f90b1a2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "819e03f8260dd007",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "25119ef3e7adb8bd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "a7776d23e2ba29d8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "0f4e45042655f6c6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "7570abd7a9071a02",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "cf8fe4d553414ced",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "017f366ddb2998ab",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "8e2a79ad8a917c50",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "a4f169c57cea37de",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "393478f5a1d1f855",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "2d239959ba711f79",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "b11d51ce224f3853",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "2f49d6cb75f39a4b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "d952ca90b03cd1c5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "3fcf1b58d47aab91",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "2937c0946648d778",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "bb221f6b45937d5b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "fd430baef9ad8174",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "e57fa78973584531",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "f5b85a058d2de9f5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "fdd42e46869f641b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "85f0443c3a0cba5d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "fadb58aabf3ed63b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "6dd1eebff4d53b37",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "48eb35b7a21791e5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "7555a6c350f35c9b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "f45c265eaf146d3d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "2ae9d1d09a719f27",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "8a8eb159af79ddd2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "1121e1d18f8c8fe6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "b5902fb5621c4fb8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "cd9193b61a1e853f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "d6ae4d58885c50a3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "dd69a74eaea67a24",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "b3735ef3493173d0",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "1bc45ac24e867f91",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "0a37fa60c86fb7cb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "dd81b6edbb96dfa4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "541f992256d03144",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "b2509e9ce72dc753",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "3806d0ac4a8385dc",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "e67588809602cdb9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-chat-view"
-            }
-          },
-          {
-            "id": "1b893a8383e78bde",
+            "id": "9e23a3882773cd31",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {},
               "icon": "smart-connections",
-              "title": "Smart Connections Files"
-            }
-          },
-          {
-            "id": "1ce9e8aee2b4b402",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Connections Chat"
+              "title": "Connections"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7f0480c584097b69",
@@ -1342,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Topics/O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?.md",
+                "file": "isis/Reuniões/Podcasts/Divina Ordem Podcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1352,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para O que é uma concepção gemelar e a Síndrome do Gêmeo Sobrevivente?"
+              "title": "Links inversos para Divina Ordem Podcast"
             }
           },
           {
@@ -1408,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 670.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1429,63 +265,69 @@
       "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "470654b5894bf8e3",
+  "active": "d73cc7a78ff5db12",
   "lastOpenFiles": [
-    "isis-vault/Sessões",
-    "isis-vault/Reuniões",
-    "isis-vault/README.md",
-    "isis-vault/Pessoal",
-    "isis-vault/Inbox",
-    "isis-vault/Aulas",
-    "isis-vault",
-    "Formação do Corpo Fetal — Campo Morfogenético, Emoções Maternas e Memórias Transgeracionais.md",
-    "2. Literature Notes/Mentorias/Formação A Origem da Vida.md",
-    "Efeitos do Estresse Materno no Desenvolvimento do Bebê — Impactos Fisiológicos, Epigenéticos e Emocionais na Gestação.md",
-    "2. Literature Notes/Topics/As 5 leis biológicas e a saúde feminina.md",
-    "2. Literature Notes/Topics/Dificuldades no Aleitamento, a partir da CIV.md",
-    "2. Literature Notes/Topics/Pessoas que querem concurso, geralmente estão associadas ao medo da falta.md",
-    "2. Literature Notes/Topics/Porque as pessoas tem intolerância a glúten e lactose?.md",
-    "A gestação é o poder da mulher de materializar um ser espiritual dentro de um corpo físico. É o único portal de chegada à Terra..md",
-    "Formação da Personalidade — Origens Pré-Natais e o Bebê Interior.md",
-    "Jornada Astrológica - Mercúrio.md",
-    "Jornada Astrológica - Vênus.md",
-    "Jornada Astrológica - Marte.md",
-    "Jornada Astrológica - Júpiter.md",
-    "A Natureza Fisiológica do Trauma e Suas Origens.md",
-    "2. Literature Notes/Topics/A Arquitetura do Invisível e a Engenharia do Sim.md",
-    "2. Literature Notes/Mentorias/Mentoria TLP.md",
-    "2. Literature Notes/Topics/O que é cesárea sequestro?.md",
-    "2. Literature Notes/Topics/Quais são indicações discutíveis de cesárea?.md",
-    "2. Literature Notes/Topics/No pós-cesárea, o bebê tem 5x mais chances de requerer assistência respiratória.md",
-    "2. Literature Notes/Topics/Mães de cesárea expressaram menos satisfação imediata e em longo prazo com o nascimento.md",
-    "2. Literature Notes/Topics/A cesárea leva à possibilidade de morte entre 4 a 7x mais do que o parto normal.md",
-    "Uma criança que foi rejeitada na gestação vive a noção de identidade, perda de referência, conflito de separação, a desvalorização.md",
+    "isis/Reuniões/Podcasts/TribeZen - Dia das Mães.md",
+    "isis/Reuniões/Podcasts/Divina Ordem Podcast.md",
+    "isis/Reuniões/Podcasts/Sem título",
+    "isis/Formações/Mentoria TLP/2026-04-29 — O Sim Sistêmico.md",
+    "isis/Reuniões/Podcasts",
+    "isis/Reuniões/Mentoria Heitor/2026-04-29 Ajustes Página Desafio Amor Pelo Filho.md",
+    "diario/cerimônias",
+    "diario",
+    "4. Templates/prompt-processamento-aulas.md",
     "2. Literature Notes/Mentorias/Astrologia.md",
+    "2. Literature Notes/Mentorias/Mentoria TLP.md",
+    "2. Literature Notes/Mentorias/Formação A Origem da Vida.md",
     "2. Literature Notes/Mentorias",
-    "Vida, morte e ciclos — Psicologia Perinatal e Transgeracional.md",
+    "2. Literature Notes/Topics/Quais são os conflitos de cartilagem?.md",
+    "2. Literature Notes/Topics/Quais são os conflitos de território masculino?.md",
+    "Pasted image 20250719210132.jpg",
+    "Jornada Astrológica - Mercúrio 2.md",
+    "Um dos objetivos como terapeuta, é mostrar para o paciente como o que ele está vivendo está relacionado a algo maior 2.md",
+    "Como a nossa vida reflete a história dos nossos traumas? 2.md",
+    "O que é o deslocalmento de placenta? 2.md",
+    "Jornada Astrológica - Saturno 2.md",
+    "IMG_5580 2.png",
+    "Captura de Tela 2025-08-15 às 05.14.20 2.png",
+    "Tudo o que o paciente traz na sessão é uma manifestação 2.md",
+    "noções da existência 3.md",
+    "Quais características astrobiológicas tem as pessoas do signo de escorpião? 2.md",
+    "Porque as situações se repetem? 2.md",
+    "Jornada Astrológica - O Sol 2.md",
+    "Não existe aborto provocado ou espontâneo 2.md",
+    "A Natureza Fisiológica do Trauma e Suas Origens 2.md",
+    "O que pode ser a dificuldade de dirigir? 2.md",
+    "Quais características astrobiológicas tem as pessoas do signo de gêmeos? 2.md",
+    "Repetir é uma forma de pertencer 2.md",
+    "Qual é a temática de touro? 2.md",
+    "Pasted image 20250722232030.jpg",
+    "Pasted image 20250724210260.jpg",
+    "fjyhmfy 2",
+    "Pasted image 20250722231621.jpg",
+    "isis/Sessões Clientes/Ativos/Mariana Vidal",
+    "isis/Sessões Clientes/Ativos/Rafa Seckler",
+    "isis/Sessões Clientes/Ativos/Thaís Três",
+    "isis/Sessões Clientes/Ativos/Natalia Veloso",
     "Pasted image 20250722232029.jpg",
     "Captura de Tela 2025-09-18 às 13.23.08.png",
     "Captura de Tela 2025-08-15 às 05.14.20.png",
     "As experiências aumentam a consciência.jpeg",
-    "Captura de Tela 2026-02-12 às 21.16.07.png",
-    "Captura de Tela 2025-09-18 às 20.25.58.png",
-    "IMG_5580.png",
-    "IMG_5579.png",
-    "IMG_5578.png",
-    "IMG_5577.png",
-    "Quando a gente tenta mudar",
-    "Untitled",
     "6. Creator/Products/Mentoria Individual/Viviane Sabino/Zona de Genialidade.canvas",
     "2. Literature Notes/Topics/Untitled.canvas",
     "3. Me, Myself and I/Brainstorming/Vision Board Gá.canvas",
     "3. Me, Myself and I/Exercícios/Jornada de Vida.canvas",
     "3. Me, Myself and I/Brainstorming/Zona de Genialidade Gá.canvas",
     "6. Creator/Products/Mentoria Individual/Gabriela Miziara/Zona de Genialidade.canvas",
-    "6. Creator/Products/Mentoria Individual/Gabriela Miziara",
-    "o que é a Leo da Intricação",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 09 - Propósito.canvas",
     "6. Creator/Products/Mentoria Despertar Inevitável/Aula 10 - Liberdade Pessoal.canvas",
     "6. Creator/Products/Workshop/Untitled.canvas",
