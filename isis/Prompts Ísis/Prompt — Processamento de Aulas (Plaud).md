@@ -168,15 +168,6 @@ Para cada tema relevante, mapeie:
 - Qual seria o problema central que esse produto resolve para a cliente
 - Uma sugestão de título e posicionamento para esse produto
 
----
-
-### 📁 11. ORGANIZAÇÃO
-
-Ao final do processamento, sugira:
-
-- **Nome do arquivo:** `[YYYY-MM-DD] — [Nome do Curso] — [Título da Aula].md`
-- **Pasta sugerida:** `isis/Formações/[Nome do Curso]/`
-- **Tags:** liste 3 a 5 palavras-chave relevantes para indexação
 
 ---
 
