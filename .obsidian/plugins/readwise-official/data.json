@@ -34,7 +34,6 @@
     "28438935",
     "28019524"
   ],
-  "failedBooks": [],
   "booksIDsMap": {
     "2. Literature Notes/Readwise/Books/Clube Da Luta.md": "28019514",
     "2. Literature Notes/Readwise/Books/Expert Secrets.md": "28019515",
@@ -54,5 +53,6 @@
     "2. Literature Notes/Readwise/Books/Mãe Recém-Nascida.md": "34752022",
     "2. Literature Notes/Readwise/Books/Harry Potter E a Pedra Filosofal.md": "34876506"
   },
-  "reimportShowConfirmation": true
+  "reimportShowConfirmation": true,
+  "failedBooks": []
 }
