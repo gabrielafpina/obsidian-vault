@@ -1,5 +1,4 @@
----
-# Prompt v2 — Processamento Profundo
+
 ## Seção 1 — Identificação
 - **Nome da formação:** Constelação Familiar Sistêmica e Dinâmicas Ocultas (inferido pelo conteúdo)
 - **Módulo e número:** Módulo Introdutório e de Aprofundamento (compilado de múltiplas aulas)
