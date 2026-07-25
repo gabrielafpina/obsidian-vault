@@ -1,0 +1,26 @@
+# 🎯 1. IDENTIFICAÇÃO
+- **Nome do exercício:** Meditação de Acolhimento e Preparação para a Jornada
+- **Tipo de prática:** Meditação guiada com visualização
+- **Facilitador:** Não mencionado.
+- **Contexto:** Exercício introdutório de um curso ou formação, aparentemente voltado para mães, com o objetivo de acalmar, acolher e preparar as participantes para o conteúdo que virá.
+---
+### **Antes do exercício:**
+Eu sei que não estou sendo fácil, e neste momento não vou dar muitas explicações teóricas, porque isso será explicado mais adiante. Neste momento é só para você se acalmar e entender o porquê de estar aqui. Eu vou conduzir uma meditação. Talvez você já tenha o hábito de meditar, talvez você nunca tenha meditado, e está tudo bem. É para você relaxar e me ouvir, apenas isso. Neste momento, não se preocupe com mais nada, é simplesmente para a gente iniciar essa jornada, te preparando, te acolhendo com tudo isso que você já está aprendendo e te dando forças para seguir adiante, porque tem muito mais ainda para vir. Tem muito mais para você descobrir que está invisível e que vai clarear tanta coisa da sua vida.
+Neste momento, vá para um lugar tranquilo em que você possa relaxar por uns 15 minutinhos. Se você tiver fone de ouvido, a experiência é melhor. Se não tiver, não tem problema, deixe o seu celular ou computador com um volume um pouquinho maior para você escutar bem. Não precisa necessariamente deitar. Você pode ficar sentada em uma posição confortável, porque mãe normalmente está cansada, e se você deitar, pode ser que acabe dormindo, pois vou fazer uma meditação que vai gerar um estado de relaxamento. Se você puder ficar sentada neste momento, é melhor.
+---
+### **🌀 2. CONDUÇÃO COMPLETA**
+De forma confortável, fechando os seus olhos agora, você vai simplesmente me ouvindo e seguindo os comandos.
+Neste momento, você vai relaxando o seu corpo, onde você está, dizendo conscientemente para si mesma: "relaxa". Vai perceber se há alguma tensão no seu corpo, relaxando cada músculo. Relaxa. Relaxe cada músculo, desde o pescoço, ombros, passando pela barriga, pernas, até relaxar a ponta dos seus pés. Isso.
+Respirando, imagine como seria se você pudesse enxergar o seu coração batendo no meio do seu peito. E você vai percebendo como o seu coração bate. Respirando, você vai se conectando cada vez mais ao seu coração.
+E você diz para o seu coração: "Eu sei que foi difícil chegar até aqui. Mas agora você pode se acalmar. Agora, estamos seguros e protegidos." E respire profundamente, acalmando o seu coração.
+E quando ele já estiver batendo mais mansinho, você vai agora conversar com o seu cérebro, com o seu sistema nervoso. Como seria se você pudesse enxergar o seu sistema nervoso? Então você imagina, se você pudesse conversar com ele e dizer: "Eu sei, é muita coisa na nossa cabeça. São tantas informações. E tanta novidade. Já sinto a ansiedade de querer resolver tudo. Mas agora eu entendi muitas coisas que eu não entendia até agora. Então você pode relaxar também."
+"Você trabalhou demais. Desde que eu era pequena. Mas tudo o que aconteceu de difícil, acabou. E tudo o que você fez para me proteger até aqui, deu certo. Obrigada. Por todas as estratégias que você descobriu e tentou para nos proteger. Esse meu jeito é graças a você, que fez de tudo para o nosso bem."
+"Mas sabe, eu já estou um pouco cansada de viver assim, achando que as coisas vão dar errado de novo. Eu acho que a gente pode relaxar agora, soltar esse controle e se permitir não saber qual é o próximo passo. Se permitir ao novo, que muitas vezes a gente não vai nem entender, porque não faz parte da lógica da mente. Mas eu te convido, estaremos juntos nesse novo caminho, de forma relaxada e aberta para o novo, para o nosso bem maior."
+Respira e percebe como o seu corpo fica quando você conversa com essas partes de você, que foram essenciais para te trazer até aqui, ao longo da sua vida inteirinha. Sentindo e pensando para te proteger de algo que aconteceu lá atrás. Mas agora, vocês podem relaxar.
+Então perceba como seu corpo fica quando está totalmente relaxado.
+E eu te convido agora a ouvir uma música que talvez você conheça, talvez não. E essa letra é um convite para você iniciar essa jornada com todas nós, no seu ritmo. No seu tempo certo, confiando que algo maior te trouxe até aqui e irá te guiar nos seus próximos passos. Então preste atenção na letra da próxima música.
+*Fiz em mim uma faxina, encontrei no meu umbigo, o meu próprio abrigo, que me cura da doença e da rotina. Eu quero me curar de mim, quero me curar de mim, quero me curar de mim. O ser humano é esquisito, armadilha de si mesmo. ⚠️ Fala baixo, não se explica, se justifica e não se permite. Não sei, só sei que se fragiliza por não se curar de si. Eu quero me curar de mim.*
+Continue respirando, percebendo as sensações que vêm para você a partir dessa música.
+---
+### **Após o exercício:**
+E no seu tempo, você vai se preparando para retornar para o aqui e agora. Você pode mexer seu corpo, se espreguiçando. E lentamente você vai voltando para onde você está. Você pode tomar um copo de água, se recuperar, se recompor. E quando você sentir de dar mais um passo, pode seguir agora para o próximo módulo do curso.
