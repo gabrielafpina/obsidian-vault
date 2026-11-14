@@ -1,7 +1,8 @@
 # Quando o filho não ouve, a mão vai no doce
-Aula na comunidade da amiga · 1h · Gabriela Pina · v4 (tom corrido + os 3 áudios da Gabi de 14/11)
+Aula na comunidade da amiga · 1h · Gabriela Pina · v5 (ordem nova; tom corrido + os 3 áudios da Gabi de 14/11)
 
-Tempo: abertura 3 · autoridade e firmeza amorosa 6 · comunicação e verdade 7 · de onde vem a birra 8 · o filho que tenta salvar a mãe 5 · a sua história 6 · a compulsão 7 · a emoção que dura minutos 4 · desânimo e cobrança 2 · indução 10 · fecho 2 = 60 min.
+Ordem (Gabi 11563): de onde vem a birra → comunicação → a mãe.
+Tempo: abertura 3 · de onde vem a birra 8 · o filho que tenta salvar a mãe 5 · autoridade e firmeza amorosa 6 · comunicação e verdade 7 · a sua história 6 · a compulsão 7 · a emoção que dura minutos 4 · desânimo e cobrança 2 · indução 10 · fecho 2 = 60 min.
 
 ---
 
@@ -11,9 +12,33 @@ Eu quero começar te convidando a reparar se os seus dias estão mais ou menos a
 
 Se você se reconheceu aí, eu quero que você saiba que tudo isso tem um sentido, e que o seu corpo está fazendo exatamente o que aprendeu a fazer pra te proteger. Hoje a gente vai olhar pra isso inteiro: o seu filho, você, a sua história e a sua comida. E no final eu vou te levar pra uma vivência, pra você sentir isso no corpo.
 
-## 2. O PEDIDO QUE ELE NÃO OUVE: AUTORIDADE E FIRMEZA AMOROSA (3 a 9 min) · slide 3
+## 2. DE ONDE VEM A BIRRA: O QUE NEM SEMPRE É ÓBVIO (3 a 11 min) · slides 3 e 4
 
-Vamos começar pelo pedido que ele não ouve, que foi a dor que mais apareceu aqui.
+Eu quero começar pelo que está por trás da birra, porque sem entender isso nenhuma técnica de comunicação se sustenta. O buraco é mais embaixo. Existe algo oculto por trás da birra, e muitas vezes ele está lá na barriga, no parto, nos primeiros anos, ou até num movimento do sistema familiar.
+
+Quando a criança se joga no chão, o corpo dela está descarregando algo que não coube. E muitas vezes o "não" de hoje acorda uma memória da chegada dela ao mundo:
+- A criança que explode a cada "não" pode estar revivendo um começo em que uma decisão muito importante foi tomada por ela, como um parto marcado antes de ela dar o sinal de que estava pronta.
+- A que desaba na hora de se separar de você pode carregar uma separação logo ao nascer, um berçário, uma UTI, um tempo longe do seu colo.
+- A que briga pra trocar de roupa ou tomar banho pode lembrar de um nascimento apressado, de um corpo manuseado com pressa.
+- E aquela que nada acalma muitas vezes está pedindo uma coisa só: que alguém a veja.
+
+Eu ouvi um caso que mostra isso de um jeito muito bonito. Uma criança tinha crises de birra e, no meio delas, repetia pra mãe: "tem que ver o bebê, o bebê precisa ser visto". Quando foram olhar a história, descobriram que essa mãe só tinha conseguido aceitar a gestação com sete meses. Foram sete meses em que aquele bebê esteve lá sem ser visto. E a birra era o corpo dela contando isso.
+
+Nem sempre é tão óbvio assim, mas quase sempre está lá. E também pode vir do sistema: um lugar que a criança ocupa sem saber, uma dor da família que ela carrega, alguém que foi esquecido e que ela, de algum jeito, representa.
+
+Na crise, ela precisa de alguém que fique perto até a onda passar. O cérebro dela não está disponível pra argumento naquela hora. Primeiro vem a segurança, e só depois a conversa.
+
+## 3. O FILHO QUE TENTA SALVAR A MÃE (11 a 16 min) · slide 5
+
+Tem uma situação que eu vejo muito nas minhas clientes. Às vezes, na gestação, no parto ou nos três primeiros anos, a mãe se sentiu muito sozinha. E a criança, que sente tudo, desenvolve um jeito de tentar salvar essa mãe. Ela fica muito grudada, não deixa a mãe dormir, não deixa a mãe fazer nada, não deixa a mãe ter um tempo dela.
+
+De fora, parece que a criança está acabando com a vida da mãe. Por dentro, ela está tentando cuidar da mãe do jeito que ela sabe. É amor, na forma que coube no corpo dela.
+
+E uma das coisas que eu faço com essas mães é conversar com a criança sobre a história dela. Pode ser com ela dormindo, que é quando ela está mais aberta, ou acordada mesmo, num momento calmo. A mãe conta como foi a gestação, como foi o parto, como foram esses primeiros anos, com a verdade e sem drama. Algo como: "Quando você estava na barriga, a mamãe estava com muito medo e se sentiu sozinha. Isso era da mamãe. Você chegou e trouxe muita alegria. Agora a mamãe está bem e cuida de si. Você pode ser só criança." Quando a criança ouve a própria história contada com verdade, ela pode soltar a função que pegou pra si.
+
+## 4. O PEDIDO QUE ELE NÃO OUVE: AUTORIDADE E FIRMEZA AMOROSA (16 a 22 min) · slide 6
+
+Agora que a gente entendeu de onde vem a explosão, vamos pro dia a dia: o pedido que ele não ouve, que foi a dor que mais apareceu aqui.
 
 Quando uma mãe me conta que pede e o filho não faz, quase sempre o que está por trás é uma falta de autoridade. E eu entendo de onde ela vem. O mundo de hoje empurra a gente pra um extremo ou pro outro. De um lado, a permissão total: a mãe que tem medo de frustrar, que negocia tudo, que cede pra não ver o filho sofrer. Do outro, a repressão: o grito, a ameaça, o castigo, a criança que obedece por medo. Muitas de nós fomos criadas no segundo extremo e, tentando fazer diferente, caímos no primeiro.
 
@@ -21,7 +46,7 @@ O caminho fica no meio, e eu chamo ele de **firmeza amorosa**: a mãe que acolhe
 
 E a criança lê o seu estado antes de ouvir a sua frase. Desde a barriga ela aprendeu a ler o seu coração, a sua respiração, o seu tom. Se você pede o banho com o corpo em pressa e em alerta, já esperando o "não", ela recebe o alarme antes do pedido, e o corpo dela se fecha pra se proteger. Por isso, antes de pedir, vale respirar e voltar pro próprio eixo. A autoridade que a criança respeita nasce desse lugar calmo e inteiro, muito mais do que do volume da voz.
 
-## 3. COMUNICAÇÃO E VERDADE (9 a 16 min) · slides 4 e 5
+## 5. COMUNICAÇÃO E VERDADE (22 a 29 min) · slides 7 e 8
 
 O que eu mais vejo é a mãe falando só o que o filho tem que fazer, sem validar o que ele está querendo nem o que ele está sentindo. E aí a criança realmente não faz.
 
@@ -36,30 +61,6 @@ Na prática, o pedido pode vir assim:
 E tem um ponto que eu acho muito importante: **a criança é a frequência mais pura da verdade.** Quando a gente mente pra ela, mesmo naquelas mentirinhas pra facilitar ("acabou o doce", "o parquinho fechou"), a alma dela sabe. Ela tem um radar que fareja a mentira muito antes de a gente perceber. E pensa no que você quer pra vida dele. Se você quer um filho que fale a verdade com você, ele precisa ouvir a verdade de você. Estar alinhada com a verdade vale pra tudo na vida, e com os filhos ela é a base de tudo.
 
 *(Se quiser, citar aqui a Ivana, como você faz no Círculo.)*
-
-## 4. DE ONDE VEM A BIRRA: O QUE NEM SEMPRE É ÓBVIO (16 a 24 min) · slides 6 e 7
-
-E quando, mesmo com tudo isso, ele explode? Aí a gente precisa entender que o buraco é mais embaixo. Existe algo oculto por trás da birra, e muitas vezes ele está lá na barriga, no parto, nos primeiros anos, ou até num movimento do sistema familiar.
-
-Quando a criança se joga no chão, o corpo dela está descarregando algo que não coube. E muitas vezes o "não" de hoje acorda uma memória da chegada dela ao mundo:
-- A criança que explode a cada "não" pode estar revivendo um começo em que uma decisão muito importante foi tomada por ela, como um parto marcado antes de ela dar o sinal de que estava pronta.
-- A que desaba na hora de se separar de você pode carregar uma separação logo ao nascer, um berçário, uma UTI, um tempo longe do seu colo.
-- A que briga pra trocar de roupa ou tomar banho pode lembrar de um nascimento apressado, de um corpo manuseado com pressa.
-- E aquela que nada acalma muitas vezes está pedindo uma coisa só: que alguém a veja.
-
-Eu ouvi um caso que mostra isso de um jeito muito bonito. Uma criança tinha crises de birra e, no meio delas, repetia pra mãe: "tem que ver o bebê, o bebê precisa ser visto". Quando foram olhar a história, descobriram que essa mãe só tinha conseguido aceitar a gestação com sete meses. Foram sete meses em que aquele bebê esteve lá sem ser visto. E a birra era o corpo dela contando isso.
-
-Nem sempre é tão óbvio assim, mas quase sempre está lá. E também pode vir do sistema: um lugar que a criança ocupa sem saber, uma dor da família que ela carrega, alguém que foi esquecido e que ela, de algum jeito, representa.
-
-Na crise, ela precisa de alguém que fique perto até a onda passar. O cérebro dela não está disponível pra argumento naquela hora. Primeiro vem a segurança, e só depois a conversa.
-
-## 5. O FILHO QUE TENTA SALVAR A MÃE (24 a 29 min) · slide 8
-
-Tem uma situação que eu vejo muito nas minhas clientes. Às vezes, na gestação, no parto ou nos três primeiros anos, a mãe se sentiu muito sozinha. E a criança, que sente tudo, desenvolve um jeito de tentar salvar essa mãe. Ela fica muito grudada, não deixa a mãe dormir, não deixa a mãe fazer nada, não deixa a mãe ter um tempo dela.
-
-De fora, parece que a criança está acabando com a vida da mãe. Por dentro, ela está tentando cuidar da mãe do jeito que ela sabe. É amor, na forma que coube no corpo dela.
-
-E uma das coisas que eu faço com essas mães é conversar com a criança sobre a história dela. Pode ser com ela dormindo, que é quando ela está mais aberta, ou acordada mesmo, num momento calmo. A mãe conta como foi a gestação, como foi o parto, como foram esses primeiros anos, com a verdade e sem drama. Algo como: "Quando você estava na barriga, a mamãe estava com muito medo e se sentiu sozinha. Isso era da mamãe. Você chegou e trouxe muita alegria. Agora a mamãe está bem e cuida de si. Você pode ser só criança." Quando a criança ouve a própria história contada com verdade, ela pode soltar a função que pegou pra si.
 
 ## 6. A SUA HISTÓRIA (29 a 35 min) · slides 9 e 10
 
@@ -99,7 +100,7 @@ O desânimo pro treino segue a mesma lógica. Se você está no meio da guerra, 
 
 E o "onde estou errando"? Muitas de nós fomos a filha que precisava ser perfeita pra ser vista, a que não dava trabalho. Então eu te proponho trocar a pergunta. Em vez de procurar onde você erra, pergunta de onde vem isso que você repete. Com consciência, a culpa perde o lugar.
 
-## 10. INDUÇÃO EM DUAS PARTES · "O encontro" (48 a 58 min) · slide 15
+## 10. INDUÇÃO EM DUAS PARTES (48 a 58 min) · "O encontro" · slide 15
 
 *(Falar devagar, voz baixa, pausas longas. Pedir antes: celular no silencioso, sentada com os pés no chão ou deitada, mão na barriga.)*
 
